@@ -62,6 +62,13 @@ graph TD
   * *Tafrith (Lalai):* **Futuur (الفُتُوْر)** — Lemah kemauan, cepat puas, malas berusaha. *Kuratif:* Dikuatkan dengan pilar *'Aziimah* dan *Nasyaath*.
   * *Ifrath (Berlebih):* **Thuulul Amal (طُوْلُ الأَمَلِ)** — Panjang angan-angan tanpa realisasi realistis. *Kuratif:* Diredam dengan pilar *Qanaa'ah*, *Tawaadhu'*, dan *Hayaa'*.
 
+* **Label Diri (Self-Talk Indikator):** *"Sangat rendah"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #02: Ihsaan (الاِحْسَان - Mutqin & Sempurna)
@@ -75,6 +82,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Isaa'ah (الإِسَاءة)** — Bekerja asal jadi, merusak mutu. *Kuratif:* Dilatih dengan penugasan terukur berbasis *Himmah* dan *'Izzah*.
   * *Ifrath (Berlebih):* **Tabdziir (التَّبْذِيْر)** — Perfeksionisme berlebihan hingga membuang waktu dan biaya demi hal minor. *Kuratif:* Dielingkan dengan *Qanaa'ah* dan *Tawaadhu'*.
+
+* **Label Diri (Self-Talk Indikator):** *"sangat tinggi"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -90,6 +104,13 @@ graph TD
   * *Tafrith (Lalai):* **Dzull (الذُّلّ)** — Jiwa lemah, minder, mudah diintimidasi kebatilan. *Kuratif:* Penguatan tauhid rububiyah dan pilar *Syajaa'ah*.
   * *Ifrath (Berlebih):* **Kibr (الكِبْر)** — Angkuh, menolak kebenaran dan merendahkan manusia. *Kuratif:* Diimbangi dengan pilar *Tawaadhu'* dan *Hayaa'*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #04: Waqaar (الوَقَار - Wibawa Ketenangan)
@@ -103,6 +124,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Thaysy (الطَّيْش)** — Sikap serampangan, banyak bercanda tidak pada tempatnya, hilang wibawa. *Kuratif:* Latihan adab diam (*Shamt*) dan tafakkur.
   * *Ifrath (Berlebih):* **'Ujb (العُجْب)** — Merasa diri paling suci dan menjaga jarak dingin dari orang lain. *Kuratif:* Pelatihan kehangatan (*Basyaasyah*) dan kerendahhatian (*Tawaadhu'*).
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -118,6 +146,13 @@ graph TD
   * *Tafrith (Lalai):* **Kasal (الكَسَل)** — Menunda pekerjaan, ragu melangkah, berat memulai. *Kuratif:* Pemecahan tugas besar menjadi modul kecil dan pendampingan *Bahasa Tangan* terstruktur.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat bertindak tanpa perhitungan syariat dan strategi. *Kuratif:* Wajib musyawarah dan penanaman pilar *Anaah* (kehati-hatian).
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #06: Nasyaath (النَّشَاط - Ketekunan Eksekusi)
@@ -131,6 +166,24 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Khumuul (الخُمُوْل)** — Lesu, pasif, lamban dalam bergerak. *Kuratif:* Olahraga sunnah (memanah, berenang, bela diri) untuk memicu adrenalin gerak.
   * *Ifrath (Berlebih):* **Irhāq (الإِرْهَاق)** — *Workaholic*, memforsir tubuh hingga melanggar hak istirahat, hak keluarga, dan hak ibadah. *Kuratif:* Menegakkan hadits Salman Al-Farisi: *"Sesungguhnya tubuhmu memiliki hak atasmu."*
+
+---
+
+
+---
+
+## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
+
+Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
+
+| No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
+|---|---|:---:|---|---|---|
+| 1 | **Himmah** | الهِمَّة | Semua |  |  |
+| 2 | **Ihsaan** | الاِحْسَان | Extrovert |  |  |
+| 3 | **'Izzah** | العِزَّة |  |  |  |
+| 4 | **Waqaar** | الوَقَار |  |  |  |
+| 5 | **'Aziimah** | العَزِيمَة |  |  |  |
+| 6 | **Nasyaath** | النَّشَاط |  |  |  |
 
 ---
 
@@ -174,6 +227,13 @@ Untuk memastikan apakah seorang anak memiliki benih unggul bakat **Bekerja Keras
 Bakat Bekerja Keras yang terdidik secara islami akan melahirkan insan kamil yang mengisi pos-pos vital peradaban:
 * **Profesi:** Insinyur Sipil, Arsitek Lapangan, Kontraktor Proyek, Quality Controller (QC), Mekanik Handal, Ahli Robotika & Mesin, Tim SAR & Logistik Kemanusiaan, Entrepreneur Manufaktur.
 * **Rumpun Jurusan:** Teknik Sipil, Teknik Mesin, Teknik Elektro, Agroteknologi, Farmasi Industri, Manajemen Operasional, Desain Produk Industri.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 

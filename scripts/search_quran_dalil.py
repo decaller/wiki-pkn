@@ -494,6 +494,23 @@ QURAN_THEME_CATALOG = {
             }
         ]
     },
+    "Panduan Asesmen dan Observasi TB40.md": {
+        "tema": "Metodologi Asesmen Bakat Nabawiyah: Menemukan Syakilah Insan, Menghargai Keragaman Potensi, dan Alokasi Peran Kekhalifahan",
+        "verses": [
+            {
+                "surah": "QS. Al-Isra': 84",
+                "arab": "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+                "terjemah": "Katakanlah: 'Tiap-tiap orang berbuat menurut keadaannya (pembawaan fitrah/syakilah)-nya masing-masing.' Maka Tuhanmu lebih mengetahui siapa yang lebih benar jalannya.",
+                "relevansi_pkn": "Pondasi wahyu asesmen TB-40: pengakuan syariat terhadap keunikan rancang bangun fitrah setiap anak yang menolak standardisasi kaku pabrik."
+            },
+            {
+                "surah": "QS. Al-An'am: 165",
+                "arab": "وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِّيَبْلُوَكُمْ فِي مَا آتَاكُمْ",
+                "terjemah": "Dan Dialah yang menjadikan kamu penguasa-penguasa di bumi dan Dia meninggikan sebahagian kamu atas sebahagian (yang lain) beberapa derajat, untuk mengujimu tentang apa yang diberikan-Nya kepadamu...",
+                "relevansi_pkn": "Hikmah perbedaan derajat potensi bakat: ujian amanah kekhalifahan di mana setiap insan dimintai pertanggungjawaban atas porsi kelebihan uniknya."
+            }
+        ]
+    },
 
     # =========================================================================
     # KLUSTER 5: FASE PERKEMBANGAN USIA
@@ -1050,6 +1067,29 @@ QURAN_THEME_CATALOG = {
             }
         ]
     },
+    "Kaidah Implementasi di Berbagai Lembaga.md": {
+        "tema": "Kaidah Penerapan PKN Lintas Ekosistem: Adaptabilitas Lembaga, Hirarki Tanggung Jawab, dan Kaidah Mencegah Kerusakan",
+        "verses": [
+            {
+                "surah": "QS. Al-Baqarah: 286",
+                "arab": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+                "terjemah": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya...",
+                "relevansi_pkn": "Kaidah fleksibilitas institusional: implementasi PKN di sekolah, pesantren, ma'had tahfiz, maupun komunitas disesuaikan dengan kapasitas dan kekhasan masing-masing tanpa uniformitas kaku."
+            },
+            {
+                "surah": "QS. An-Nisa': 58",
+                "arab": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ",
+                "terjemah": "Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya, dan (menyuruh kamu) apabila menetapkan hukum di antara manusia supaya kamu menetapkan dengan adil...",
+                "relevansi_pkn": "Amanah kepemimpinan institusi pendidikan: menempatkan guru, kurikulum, dan sarana secara adil sesuai fitrah dan perkembangan peserta didik."
+            },
+            {
+                "surah": "QS. Al-A'raf: 199",
+                "arab": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
+                "terjemah": "Jadilah engkau pemaaf dan suruhlah orang mengerjakan yang ma'ruf, serta berpalinglah dari orang-orang yang bodoh.",
+                "relevansi_pkn": "Kearifan kultural lembaga pendidikan dalam membangun sinergi bersama wali murid dan masyarakat bertahap penuh kebijaksanaan."
+            }
+        ]
+    },
     "Hak dan Kewajiban.md": {
         "tema": "Keadilan Hak & Kewajiban Pengasuhan: Keseimbangan Syariat Menjaga Perlindungan Anak dan Bakti Generasi",
         "verses": [
@@ -1242,10 +1282,10 @@ def generate_markdown_catalog():
         "1. Pondasi Insan & Hakikat Manusia": ["Tujuan Hidup Manusia.md", "Bersatunya Ruh dan Jasad Membentuk Jiwa.md", "Insan.md"],
         "2. Trilogi Jiwa (Nafs)": ["Pembagian Jiwa.md", "Ammarah.md", "Lawwamah.md", "Muthmainnah.md"],
         "3. Fitrah (Karakter), Iman & Belajar": ["Fitrah (Karakter).md", "Iman.md", "Tangki Cinta.md", "Belajar.md"],
-        "4. Bakat & 6 Sub-Bakat (TB40)": ["Bakat.md", "Bekerja Keras.md", "Berpikir.md", "Berperasaan.md", "Memerintah.md", "Bekerja Sama.md", "Melayani.md"],
+        "4. Bakat & 6 Sub-Bakat (TB40)": ["Bakat.md", "Bekerja Keras.md", "Berpikir.md", "Berperasaan.md", "Memerintah.md", "Bekerja Sama.md", "Melayani.md", "Panduan Asesmen dan Observasi TB40.md"],
         "5. Fase Perkembangan Usia Nabawiyah": ["Perkembangan.md", "Thufulah.md", "Tamyiz.md", "Murahaqah.md", "Syabab.md"],
         "6. Metodologi, Tiga Bahasa & Pendidikan Ideal": ["Metode Mendidik.md", "Bahasa Hati.md", "Bahasa Lisan.md", "Bahasa Tangan.md", "Pendidikan Ideal.md", "Benang Merah Pendidikan.md", "Pembelajaran Alamiah.md", "Luka dan Hutang Pengasuhan.md", "Euforia.md", "Recovery.md", "Imunitas Sosial.md", "Batas Toleransi.md", "Bank Studi Kasus.md"],
-        "7. Implementasi, Kaidah, Elemen & Peran": ["Implementasi.md", "4 Kaidah Implementasi.md", "4 Elemen Implementasi.md", "Tazkiyatun Nafs.md", "Tawakkal dan Doa.md", "Tanggung Jawab Pendidikan.md", "Peran Ayah dan Bunda.md", "Peran Guru dan Lembaga Pendidikan.md", "Hak dan Kewajiban.md", "Dokumen Pendidikan Karakter Nabawiyah.md", "FAQ Ringkas.md", "index.md"],
+        "7. Implementasi, Kaidah, Elemen & Peran": ["Implementasi.md", "4 Kaidah Implementasi.md", "4 Elemen Implementasi.md", "Kaidah Implementasi di Berbagai Lembaga.md", "Tazkiyatun Nafs.md", "Tawakkal dan Doa.md", "Tanggung Jawab Pendidikan.md", "Peran Ayah dan Bunda.md", "Peran Guru dan Lembaga Pendidikan.md", "Hak dan Kewajiban.md", "Dokumen Pendidikan Karakter Nabawiyah.md", "FAQ Ringkas.md", "index.md"],
         "8. Simpul Navigasi & Insight Teknis": ["Insight.md", "Insight & Teknis.md", "Arahan Teknis Implementasi.md", "SOTABH.md", "Kaidah & Elemen.md", "Internal & Eksternal.md", "Peran & Tanggung Jawab.md", "Referensi Kajian Video.md", "Paradigma & Implementasi.md"]
     }
     

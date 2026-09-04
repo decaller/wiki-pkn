@@ -47,7 +47,46 @@ graph TD
 
 ---
 
-## 2. Kritik Mendalam terhadap Industri Sekolah Modern
+## 2. Matriks 25 Aktivitas & Insiden Keseharian x 40 Pilar Karakter (Manhaj Temu Lembaga PKN)
+
+Berdasarkan dokumen operasional **Program Pembelajaran 40 Pilar Karakter Nabawiyah (Temu Lembaga Batch 4 & Akademi Guru Batch 3)**, kurikulum pembelajaran alamiah memetakan seluruh ragam kegiatan rutin, proyek sosial, hingga insiden penyimpangan perilaku anak ke dalam **40 Pilar Karakter Terstimulasi**. 
+
+Tabel ini menjadi panduan observasi bagi guru dan orang tua untuk melihat nilai tarbiyah di balik setiap dinamika keseharian:
+
+| No | Nama Aktivitas / Peristiwa Keseharian | Kategori Ekosistem | Jumlah Pilar Terstimulasi | Fokus Pilar Karakter Utama yang Ditumbuhkan |
+|:---:|---|---|:---:|---|
+| 1 | **Sholat Berjamaah** | Ibadah Induk Ritual | **40 Pilar (100%)** | Seluruh 40 pilar karakter nabawiyah terasah secara serentak (keteraturan saf, disiplin waktu, khusyuk batin, kepemimpinan imam, kesetaraan sosial, adab wudhu). |
+| 2 | **Rihlah / Outing (*Tour de Talents*)** | Proyek Eksplorasi Alam | **27 Pilar** | Daya tahan fisik, orientasi arah, adaptabilitas lingkungan, kebersamaan (*Ulfah*), tolong-menolong (*Ta'aawun*), dan tadabbur kebesaran ciptaan Allah. |
+| 3 | **Market Day / Pasaran Siswa** | Proyek Muamalah Nyata | **23 Pilar** | Kelancaran komunikasi (*Fashaahah*), kejujuran timbangan (*Shidq*), integritas amanah (*Amaanah*), kompetisi sehat (*Munaafasah*), dan etos pelayanan (*Itsaar*). |
+| 4 | **Perkelahian & Bullying (0–7 Tahun)** | Insiden Spontan | **16 Pilar** | Momen diagnosis regulasi emosi: melatih menahan amarah (*Hilm*), kelemahlembutan (*Rifq*), keadilan sikap (*'Adaalah*), dan kebesaran hati meminta maaf. |
+| 5 | **Tertidur Saat Sesi Belajar** | Insiden Fisik | **14 Pilar** | Evaluasi daya tahan fisik (*Nasyaath*), kelelahan batin (*Irhāq*), kepekaan guru melihat kapasitas anak tanpa menghakimi (*Rahmah*). |
+| 6 | **Makan Bersama** | Rutinitas Sosial | **13 Pilar** | Adab makan sunnah, mendahulukan teman (*Itsaar*), rasa syukur (*Qanaa'ah*), menjaga kebersihan bersama, dan menahan kerakusan nafsu. |
+| 7 | **Ramai / Gaduh di Kelas** | Insiden Kelas | **13 Pilar** | Momen menguji wibawa guru (*Waqaar*), ketepatan bahasa nalar (*Bahasa Lisan*), dan mengalirkan kelebihan energi anak ke aktivitas fisik yang bermakna. |
+| 8 | **Bermain Bersama** | Dinamika Sosial Anak | **12 Pilar** | Kesepakatan aturan main, sportifitas, keceriaan (*Basyaasyah*, *Muzaah*), toleransi kekalahan (*Shabr*), dan empati teman. |
+| 9 | **Pekerjaan Rumah (Menyapu, Mencuci)** | Tanggung Jawab Domestik | **12 Pilar** | Kemandirian karsa, ketelitian kerja (*Ihsaan*), membantu orang tua (*Khidmah*), dan membuang sifat malas (*Kasal*). |
+| 10 | **Merampas Hak / Mainan Teman** | Insiden Kepemilikan | **12 Pilar** | Edukasi batasan hak (*'Iffah*), rasa malu berbuat dzalim (*Hayaa'*), keadilan (*'Adaalah*), dan menahan hawa nafsu kepemilikan. |
+| 11 | **Membuat Prakarya / Kerajinan** | Proyek Karsa Mandiri | **11 Pilar** | Kreativitas daya cipta (*Nubl*), ketekunan menyelesaikan proyek (*Himmah*, *Nasyaath*), dan kerapian hasil (*Ihsaan*). |
+| 12 | **Ta'ziyah / Melayat Kematian** | Peristiwa Sosial Keimanan | **11 Pilar** | Mengingat kematian (*Zikrul Maut*), melembutkan hati yang keras, berempati pada keluarga yang berduka (*Rahmah*), dan mendoakan jenazah. |
+| 13 | **Melayani Tamu yang Berkunjung** | Adab Memuliakan Tamu | **11 Pilar** | Keramahan wajah (*Basyaasyah*), kedermawanan menjamu (*Juud*), adab menyapa, dan mendahulukan kenyamanan orang lain (*Itsaar*). |
+| 14 | **Menengok Teman / Tetangga Sakit** | Khidmah Kemanusiaan | **10 Pilar** | Empati mendalam (*Ra'fah*), mendoakan kesembuhan, bersyukur atas nikmat sehat, dan adab menjenguk orang sakit. |
+| 15 | **Membersihkan Lingkungan Sekolah** | Amal Jama'i Peduli Alam | **9 Pilar** | Menyingkirkan duri dari jalan, gotong royong (*Ta'aawun*), tanggung jawab kebersihan, dan keikhlasan beramal tanpa upah. |
+| 16 | **Bermain Saat Jam Istirahat** | Pelepasan Energi Fisik | **9 Pilar** | Manajemen waktu, memulihkan stamina otak (*refreshment*), dan interaksi lintas usia secara alamiah. |
+| 17 | **Mengunjungi Tokoh / Sesepuh** | Silaturahim Keilmuan | **8 Pilar** | Adab takzim kepada orang berilmu, menyimak nasihat hikmah, dan menjaga ketersambungan adab lintas generasi. |
+| 18 | **Inspirasi Profesi (Datang Maestro)** | Mentorship Lapangan | **8 Pilar** | Membuka wawasan cita-cita peradaban (*Himmah*), melihat keteladanan ahli (*Itqan*), dan memantik rasa ingin tahu karir masa depan. |
+| 19 | **Ziarah Kubur** | Tadabbur Akhirat | **6 Pilar** | Menumbuhkan rasa zuhud terhadap gemerlap duniawi (*Qanaa'ah*), mengikis keangkuhan, dan melembutkan nurani. |
+| 20 | **Menggambar / Melukis Alam** | Ekspresi Jiwa Spasial | **6 Pilar** | Mengamati keindahan pola ciptaan Allah (*Tafakkur*), ketelitian detail, dan kehalusan rasa seni batiniah. |
+| 21 | **Mogok Belajar / Menolak Tugas** | Insiden Mental Anak | **6 Pilar** | Diagnosis penyebab keengganan: apakah tangki cinta kosong, tugas terlalu sulit (*frustrasi*), atau gaya belajar tidak cocok (*Al-Fu'ad* dipaksa diam). |
+| 22 | **Tertinggal Materi Pelajaran** | Insiden Akademik | **6 Pilar** | Menguji kesabaran pendidik (*Shabr*), menolak labelisasi bodoh, dan mencari pendekatan tutor sebaya (*peer tutoring*). |
+| 23 | **Pembelajaran Ceramah di Kelas** | Sesi Klasikal Terbatas | **5 Pilar** | Melatih adab menyimak (*Shamt*), daya konsentrasi pendengaran (*As-Sam'u*), dan mencatat poin penting. |
+| 24 | **Merusak Barang / Fasilitas** | Insiden Tanggung Jawab | **5 Pilar** | Melatih konsekuensi logis: belajar memperbaiki barang yang rusak atau mengganti secara adil (*Amaanah*). |
+| 25 | **Membeli Jajanan Tidak Sehat** | Edukasi Makanan Thayyib | **3 Pilar** | Menahan dorongan hawa nafsu konsumtif (*'Iffah*), membedakan halal-thayyib, dan menyayangi tubuh karunia Allah. |
+
+> [!important] Kaidah Emas: Momen Insiden adalah "Kurikulum Emas"
+> Dalam sekolah modern, ketika anak berkelahi atau mogok belajar, respon pertama adalah hukuman (*punishment*) atau skorsing. Dalam PKN, peristiwa insidental ini dipandang sebagai **kurikulum emas (*teachable moments*)**. Guru dan orang tua tidak merespons dengan amarah, melainkan merangkul anak, mendinginkan amarahnya dengan **Bahasa Hati**, mendiagnosis pilar karakter apa yang sedang tertekan, lalu menuntunnya kembali ke fitrah keshalihan.
+
+---
+
+## 3. Kritik Mendalam terhadap Industri Sekolah Modern
 
 Berdasarkan artikel reflektif di SOTAB HEBAT (*Menggugat Sistem Sekolah*, *Sekolah Alamiah vs Sekolah Modern*, dan *Benalu Pendidikan*), sistem sekolah konvensional warisan era revolusi industri mengalami disorientasi parah:
 

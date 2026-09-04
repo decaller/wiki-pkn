@@ -1,0 +1,38 @@
+{
+  "name": "outline-nav",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "build": "node build.js"
+  },
+  "quartz": {
+    "name": "outline-nav",
+    "displayName": "Outline Navigation",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 40,
+    "defaultEnabled": true,
+    "components": {
+      "OutlineNav": {
+        "displayName": "Outline Navigation",
+        "defaultPosition": "left",
+        "defaultPriority": 40
+      }
+    }
+  }
+}

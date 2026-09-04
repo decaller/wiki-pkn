@@ -1,90 +1,98 @@
-# Citizen Code of Conduct
+# 📜 Piagam Adab & Etika Kontributor Wiki PKN
+## *(Code of Conduct & Scientific Integrity Charter)*
 
-## 1. Purpose
+> **« إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الأخْلَاقِ »**  
+> *"Sesungguhnya aku (Rasulullah ﷺ) diutus hanyalah untuk menyempurnakan keshalihan akhlaq."*  
+> — **HR. Ahmad (No. 8952) & Al-Bukhari dalam Al-Adab Al-Mufrad (No. 273)**
 
-A primary goal of the Quartz community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+---
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+## 1. Mukaddimah & Landasan Filosofis
 
-We invite all those who participate in the Quartz community to help us create safe and positive experiences for everyone.
+**Wiki PKN (Pendidikan Karakter Nabawiyah)** adalah proyek ensiklopedia digital terbuka yang didedikasikan untuk menghimpun, mensistematisasikan, dan mendiseminasikan khazanah pendidikan berbasis fitrah, sunnah nabawiyah, dan warisan intelektual ulama salafus shalih.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+Mengingat materi yang dikaji menyangkut nilai-nilai syariat, pembentukan jiwa insan (*tazkiyatun nafs*), dan keselamatan generasi peradaban, maka setiap kontributor, penelaah, maupun pengembang repositori terikat secara moral dan spiritual dengan **Adab Penuntut Ilmu (*Adab Thalabul 'Ilmi*)** dan **Amanah Ilmiah (*Al-Amanah Al-'Ilmiyyah*)**.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Piagam ini menetapkan pedoman etika, standar mutu penulisan, adab musyawarah, serta tata tertib dalam berkolaborasi di lingkungan Wiki PKN.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+---
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+## 2. Nilai-Nilai Utama Kontributor
 
-## 3. Expected Behavior
+Setiap kontributor Wiki PKN diharapkan senantiasa menghidupkan 5 (lima) pilar adab berikut:
 
-The following behaviors are expected and requested of all community members:
+### 1. Keikhlasan Niat (*Ikhlashun Niyyah*)
+Segala ikhtiar penulisan, koreksi kode, penambahan dalil, dan penyuntingan naskah diniatkan semata-mata mengharap ridha Allah ﷻ, sebagai sedekah jariyah ilmu yang bermanfaat (*'ilmun yuntafa'u bih*), bukan untuk popularitas pribadi, riya', sum'ah, atau sentimen golongan.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+### 2. Amanah Ilmiah & Ketelitian Sanad (*Al-Amanah wal Itqan*)
+- **Integritas Kutipan:** Tidak memotong (*tahrif*), memelintir (*ta'wil bathil*), atau mencatut dalil Al-Qur'an dan Hadits di luar konteks aslinya.
+- **Takhrij & Validasi:** Setiap hadits yang dimasukkan wajib diverifikasi status keshahihannya (minimal derajat *Hasan*) dan mencantumkan sumber kitab standar (*Kutubus Sittah*, *Riyadush Shalihin*, *Silsilah Ash-Shahihah*, dsb.).
+- **Atribusi Hak Cipta:** Menghargai karya rujukan, kitab rujukan turats, para masyayikh, asatidzah perumus PKN, dan literatur kontemporer dengan mencantumkan rujukan secara jujur dan transparan.
 
-## 4. Unacceptable Behavior
+### 3. Kelemahlembutan & Sikap Merangkul (*Ar-Rifq wal Lin*)
+Komunikasi dalam *Issues*, *Pull Requests*, maupun diskusi kelompok kerja wajib berlandaskan kelembutan (*rifq*), menghindari kata-kata sarkas, mencela, merendahkan sesama penuntut ilmu, atau memicu debat kusir (*al-mira'*).
 
-The following behaviors are considered harassment and are unacceptable within our community:
+### 4. Semangat Tabayyun & Klarifikasi Objektif (*At-Tabayyun*)
+Sebagaimana firman Allah dalam **QS. Al-Hujurat: 6**, apabila terjadi perbedaan pendapat, kekeliruan narasi, atau dugaan disinformasi, proses koreksi harus ditempuh dengan mekanisme *tabayyun* (verifikasi objektif dengan data dan dalil yang jelas), bukan dengan vonis sepihak.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people's personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone's consent before touching them.
-- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and presentations.
+### 5. Menjaga Kehormatan & Kerahasiaan (*Satrul 'Aurah wal Fadhilah*)
+Dalam menyusun studi kasus pengasuhan (*Case Studies*), kontributor dilarang membuka identitas personal, nama asli, aib keluarga, atau informasi sensitif anak dan wali murid demi menjaga kehormatan sesama muslim.
 
-## 5. Weapons Policy
+---
 
-No weapons will be allowed at Quartz community events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+## 3. Standar Penulisan Konten Wiki
 
-## 6. Consequences of Unacceptable Behavior
+Untuk menjaga standar emas (*Gold Standard*) repositori Wiki PKN, setiap naskah yang dikirimkan wajib memenuhi ketentuan teknis berikut:
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+1. **Kelengkapan Taksonomi TB40 & Bahasa:**
+   - Mempertahankan keselarasan istilah standar PKN: *Thufulah*, *Tamyiz*, *Murahaqah*, *Syabab*, *Ammarah*, *Lawwamah*, *Muthmainnah*, *Bahasa Hati*, *Bahasa Lisan*, *Bahasa Tangan*, serta 6 Kluster Bakat TB40.
+   - Naskah Arab berharakat jelas, disertai terjemahan resmi bahasa Indonesia dan penjelasan relevansi praktis (*pedagogical takeaways*).
+2. **Kualitas Narasi Berbobot:**
+   - Menghindari konten instan/dangkal (*stub*). Setiap artikel konsep diwajibkan memiliki eksplorasi mendalam (ambang batas minimum repositori: ≥ 5.000 karakter).
+   - Memperkaya materi dengan studi kasus nyata, visualisasi/tabel komparasi, serta langkah aksi praktis bagi orang tua dan pendidik.
+3. **Format Markdown & Quartz SSG:**
+   - Mematuhi konvensi frontmatter YAML (`title`), tautan dua arah `[[WikiLinks]]`, dan *Callout Syntax* Quartz (`> [!quote]`, `> [!tip]`, `> [!warning]`).
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+---
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+## 4. Perilaku yang Dilarang (*Unacceptable Behaviors*)
 
-## 7. Reporting Guidelines
+Tindakan-tindakan berikut dipandang sebagai pelanggaran berat terhadap adab ilmiah dan integritas komunitas:
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. j.zhao2k19@gmail.com.
+- ❌ **Penyisipan Dalil Palsu/Maudhu':** Memasukkan riwayat maudhu' (palsu) atau riwayat dhaif jiddan (sangat lemah) secara sengaja tanpa memberikan catatan kritik hadits (*tahdzir*).
+- ❌ **Plagiarisme:** Menyalin artikel orang lain atau buku hak cipta tanpa izin dan tanpa penyebutan atribusi ilmiah yang patut.
+- ❌ **Ta'ashshub & Perpecahan Golongan:** Menjadikan repositori sebagai ajang menyerang mazhab fiqih yang mu'tabar, mencela ormas Islam, atau menyulut perpecahan di kalangan Ahlus Sunnah wal Jama'ah.
+- ❌ **Pelecehan & Perundungan:** Melontarkan caci maki, perundungan siber (*cyberbullying*), pembocoran data pribadi (*doxing*), atau ujaran kebencian dalam bentuk apa pun.
+- ❌ **Spam & Komersialisasi Ilegal:** Mengunggah tautan iklan komersial, spam SEO, *affiliate links*, atau konten yang tidak ada relevansinya dengan Pendidikan Karakter Nabawiyah.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+---
 
-## 8. Addressing Grievances
+## 5. Prosedur Penyelesaian Masalah (*Adab Ikhtilaf & Arbitrase*)
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify @jackyzha0 with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+Apabila timbul silang pendapat mengenai substansi artikel, klasifikasi dalil, atau pelanggaran etika:
 
-## 9. Scope
+1. **Tingkat 1 - Musyawarah & Syura di Pull Request / Issue:**  
+   Pihak-pihak terkait mendiskusikan dalil dan data ilmiah secara santun dengan merujuk pada kitab-kitab induk turats dan referensi pendiri PKN.
+2. **Tingkat 2 - Muraja'ah Ilmiah (Tim Penilai):**  
+   Pengelola repositori (*maintainers*) bersama dewan telaah syariat melakukan verifikasi (*muraja'ah*) terhadap keabsahan takhrij dan konsistensi manhaj.
+3. **Tingkat 3 - Tindakan Disipliner:**  
+   Jika ditemukan pelanggaran berulang atau kesengajaan merusak integritas konten (*vandalism*):
+   - Pengelola berhak menutup *pull request*, membatalkan perubahan (*git revert*), memberi peringatan tertulis, hingga membatasi/memblokir akses kontribusi (*block contributor*).
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+---
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+## 6. Lisensi Kontribusi & Sedekah Jariyah
 
-## 10. Contact info
+Dengan mengirimkan kontribusi ke repositori **Wiki PKN**, Anda menyetujui bahwa:
+- Karya tulis dan suntingan Anda diwakafkan untuk kepentingan dakwah dan pendidikan Islam umum di bawah lisensi repositori yang terbuka (non-komersial berorientasi kemaslahatan umat).
+- Materi wiki bebas dibaca, dipelajari, dan disebarluaskan untuk kepentingan keluarga, madrasah, pesantren, dan komunitas dengan tetap mencantumkan tautan ke sumber asli Wiki PKN.
 
-j.zhao2k19@gmail.com
+---
 
-## 11. License and attribution
+## 7. Saluran Komunikasi & Pelaporan
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+Untuk pertanyaan mengenai adab kontribusi, masukan substansi syariat, atau pelaporan pelanggaran piagam etik ini, silakan hubungi tim pengelola melalui:
+- **GitHub Issues:** [Wiki PKN Issues Tracker](https://github.com/decaller/wiki-pkn/issues)
+- **GitHub Discussions:** Forum telaah materi & musyawarah berkala
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+*Semoga setiap huruf, dalil, dan baris kode yang kita sumbangkan menjadi pemberat timbangan kebaikan di hari kiamat kelak. Amin.*

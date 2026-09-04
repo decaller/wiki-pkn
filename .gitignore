@@ -15,3 +15,6 @@ quartz/cli/tui/dist/
 old_backup/
 __pycache__/
 *.pyc
+searchable_pdfs/
+index_pdf_pipeline.py
+test_pipeline.py

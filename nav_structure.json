@@ -103,6 +103,11 @@
                     "title": "Melayani",
                     "icon": "universal-access",
                     "children": []
+                  },
+                  {
+                    "title": "Panduan Asesmen dan Observasi TB-40",
+                    "icon": "universal-access",
+                    "children": []
                   }
                 ]
               },

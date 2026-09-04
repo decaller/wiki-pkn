@@ -64,6 +64,13 @@ graph TD
   * *Tafrith (Lalai):* **Jubn (الجُبْن)** — Pengecut, lari dari tanggung jawab. *Kuratif:* Latihan olahraga ketangkasan dan bela diri syar'i.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat ugal-ugalan tanpa perhitungan. *Kuratif:* Wajib tunduk pada pilar *Hikmah* dan *Anaah*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #19: Ghairah (الغَيْرَة - Cemburu Membela Kehormatan Syariat)
@@ -77,6 +84,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Diyaatsah (الدِّيَاثَة)** — Permisif, tidak peduli anggota keluarga bermaksiat. *Kuratif:* Tegakkan qowwamah ayah di rumah.
   * *Ifrath (Berlebih):* **Tasyaddud / Tajassus (التَّجَسُّس)** — Curiga berlebihan dan memata-matai privasi orang lain. *Kuratif:* Terapkan kaidah larangan tajassus (QS. Al-Hujurat: 12).
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -92,6 +106,13 @@ graph TD
   * *Tafrith (Lalai):* **Dzull / Qunuth (القُنُوْط)** — Patah arang, merasa diri pecundang. *Kuratif:* Berikan target kemenangan-kemenangan kecil (*small wins*).
   * *Ifrath (Berlebih):* **Hasad / Ghill (الحَسَد)** — Dengki, ingin menjatuhkan kawan agar dirinya juara sendiri. *Kuratif:* Didik untuk mendoakan keberkahan kawan (*Ghibthah*).
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #21: Nashiihah (النَّصِيْحَة - Tulus Membimbing)
@@ -105,6 +126,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Mudahanah (المُدَاهَنَة)** — Menjilat, mendiamkan kemungkaran demi cari aman. *Kuratif:* Tanamkan amar ma'ruf nahi munkar.
   * *Ifrath (Berlebih):* **Tanfiir / Ta'yir (التَّنْفِير)** — Menasihati di depan umum dengan kasar hingga mempermalukan. *Kuratif:* Nasihati empat mata dengan *Bahasa Hati*.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -120,6 +148,13 @@ graph TD
   * *Tafrith (Lalai):* **'Ujmah (العُجْمَة)** — Gagap mengungkapkan isi pikiran, kosa kata miskin. *Kuratif:* Latihan membaca nyaring dan bercerita (*storytelling*).
   * *Ifrath (Berlebih):* **Jidaal ‘Aqiim (الجِدَال)** — Pandai bersilat lidah, suka mendebat kusir demi gengsi. *Kuratif:* Peringatkan dengan hadits ancaman bagi ahli jidal.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #23: Nushrah (النُّصْرَة - Membela Kaum Tertindas)
@@ -134,6 +169,13 @@ graph TD
   * *Tafrith (Lalai):* **Khidzlaan (الخِذْلَان)** — Apatis, membiarkan saudara dizalimi di depan mata. *Kuratif:* Tumbuhkan solidaritas ukhuwah Islamiyah.
   * *Ifrath (Berlebih):* **'Ashabiyah (العَصَبِيَّة)** — Membela kelompoknya secara membabi buta meski berada di pihak yang salah. *Kuratif:* Ikat loyalitas hanya kepada kebenaran syariat (*Al-Haqq*).
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #24: Juud (الجُوْد - Kedermawanan Pemimpin)
@@ -147,6 +189,25 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Bukhl (البُخْل)** — Kikir, pelit mengeluarkan modal untuk perjuangan. *Kuratif:* Latihan sedekah harian secara sembunyi-sembunyi.
   * *Ifrath (Berlebih):* **Riya' / Sum'ah (الرِّيَاء)** — Dermawan demi pujian gelar pahlawan atau mencari pengaruh politik kotor. *Kuratif:* Murnikan niat ikhlas lillahi ta'ala.
+
+---
+
+
+---
+
+## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
+
+Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
+
+| No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
+|---|---|:---:|---|---|---|
+| 1 | **Syajaa'ah** | الشَّجَاعَة |  |  |  |
+| 2 | **Ghairah** | الغَيْرَة |  |  |  |
+| 3 | **Munaafasah** | المُنَافَسَة |  |  |  |
+| 4 | **Nashiihah** | النَّصِيْحَة |  |  |  |
+| 5 | **Fashaahah** | الفَصَاحَة |  |  |  |
+| 6 | **Nushrah** | النُّصْرَة |  |  |  |
+| 7 | **Juud** | الجُوْد |  |  |  |
 
 ---
 
@@ -187,6 +248,13 @@ graph TD
 
 * **Profesi:** Komandan Militer/Kepolisian, Diplomat/Duta Besar, Advokat/Pengacara Pembela Hak Umat, Eksekutif Perusahaan (CEO), Manajer Kampanye Dakwah, Juru Bicara Publik.
 * **Rumpun Jurusan:** Ilmu Hukum & Syariah, Ilmu Pemerintahan & Hubungan Internasional, Manajemen Kepemimpinan, Ilmu Komunikasi & Jurnalistik, Akademi Militer/Kepolisian.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 

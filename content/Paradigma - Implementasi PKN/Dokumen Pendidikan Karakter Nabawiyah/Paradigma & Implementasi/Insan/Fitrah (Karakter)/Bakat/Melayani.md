@@ -65,6 +65,13 @@ graph TD
   * *Tafrith (Lalai):* **Qaswah (القَسْوَة)** — Hati keras membatu, tega melihat penderitaan orang lain. *Kuratif:* Mengusap kepala anak yatim dan memberi makan orang miskin.
   * *Ifrath (Berlebih):* **Khawwar (الخَوَر)** — Lembek hingga tidak tega menegakkan sanksi syariat yang adil. *Kuratif:* Imbangi dengan pilar *'Adaalah* dan *Ghairah*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #34: Itsaar (الاِيْثَار - Altruisme Syar'i)
@@ -78,6 +85,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Syuhh / Bukhl (الشُّحّ)** — Sangat kikir dan takut miskin. *Kuratif:* Latihan sedekah barang yang paling dicintai.
   * *Ifrath (Berlebih):* **Dhai'atul 'Iyal (ضَيْعَةُ العِيَالِ)** — Berinfaq habis-habisan ke luar hingga menelantarkan nafkah wajib anak dan istri. *Kuratif:* Dahulukan urutan nafkah keluarga sesuai sabda Nabi ﷺ: *"Mulailah dari orang yang menjadi tanggunganmu."*
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -93,6 +107,13 @@ graph TD
   * *Tafrith (Lalai):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Mulut ember, membocorkan rahasia penting demi sensasi. *Kuratif:* Peringatkan tentang dosa khianat amanah.
   * *Ifrath (Berlebih):* **Kithmanul Haqq (كِتْمَانُ الحَقِّ)** — Menyembunyikan persaksian kebenaran yang wajib diungkap di pengadilan. *Kuratif:* Tegakkan pilar *Shidq*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #36: Satr (السَّتْر - Menutup Aib Saudara)
@@ -106,6 +127,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Fadhihah / Tasy-hir (الفَضِيْحَة)** — Gemar memviralkan aib dan membongkar kesalahan orang lain. *Kuratif:* Renungi hadits ancaman bahwa Allah akan membongkar aibnya di rumahnya sendiri.
   * *Ifrath (Berlebih):* **Iqrārul Munkar (إِقْرَارُ المُنْكَر)** — Melindungi pelaku kriminal berbahaya yang merugikan publik atas nama menutup aib. *Kuratif:* Laporkan kepada pihak berwenang sesuai kaidah hukum syar'i.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -121,6 +149,13 @@ graph TD
   * *Tafrith (Lalai):* **Khiyanah (الخِيَانَة)** — Mengabaikan tugas, korupsi dana titipan. *Kuratif:* Awasi dengan audit ketat dan tanamkan hisab akhirat.
   * *Ifrath (Berlebih):* **Hamlul Ma La Yuthaq (حَمْلُ مَا لَا يُطَاقُ)** — Mengambil semua beban amanah hingga fisik dan mental hancur (*burnout*). *Kuratif:* Pelajari seni delegasi tugas dengan pilar *Ta'aawun*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #38: Anaah (الاَنَاة - Ketenangan & Ketelitian)
@@ -134,6 +169,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **'Ajalah (العَجَلَة)** — Grusa-grusu, terburu-buru, ceroboh. *Kuratif:* Hadits: *"Ketergesa-gesaan itu berasal dari setan."*
   * *Ifrath (Berlebih):* **Tawaani / Batha' (التَّوَانِي)** — Lamban berlebihan hingga kehilangan momentum emas. *Kuratif:* Pacu dengan pilar *'Aziimah*.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -149,6 +191,13 @@ graph TD
   * *Tafrith (Lalai):* **Hadad / Ghadhab (الغَضَب)** — Cepat naik darah, meledak-ledak, pendendam. *Kuratif:* Ajarkan teknik meredam amarah (duduk, berbaring, wudhu).
   * *Ifrath (Berlebih):* **Dzull (الذُّلّ)** — Membiarkan kemungkaran merajalela karena takut dianggap tidak santun. *Kuratif:* Imbangi dengan ketegasan *Syajaa'ah*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #40: Shabr (الصَّبْر - Ketabahan Melayani Umat)
@@ -162,6 +211,26 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Jaza' / Taskhuth (الجَزَع)** — Berkeluh kesah, menyalahkan takdir saat tertimpa musibah. *Kuratif:* Tanamkan keimanan pada qadha dan qadar.
   * *Ifrath (Berlebih):* **Istislam lil Batil (الاسْتِسْلَام)** — Pasrah dizalimi musuh tanpa ada ikhtiar melepaskan diri. *Kuratif:* Bangkitkan tekad perlawanan syar'i dengan *Nushrah*.
+
+---
+
+
+---
+
+## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
+
+Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
+
+| No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
+|---|---|:---:|---|---|---|
+| 1 | **Rahmah** | الرَّحْمَة |  |  |  |
+| 2 | **Itsaar** | الاِيْثَار |  |  |  |
+| 3 | **Kitmaanus Sirr** | كِتْمَانُ السِّرِّ |  |  |  |
+| 4 | **Satr** | السَّتْر |  |  |  |
+| 5 | **Amaanah** | الاَمَانَة |  |  |  |
+| 6 | **Anaah** | الاَنَاة |  |  |  |
+| 7 | **Hilm** | الحِلْم |  |  |  |
+| 8 | **Shabr** | الصَّبْر |  |  |  |
 
 ---
 
@@ -202,6 +271,13 @@ graph TD
 
 * **Profesi:** Dokter Spesialis / Tenaga Medis Kemanusiaan, Pekerja Sosial / Relawan SAR, Pengelola Lembaga Zakat & Wakaf, Administrator Rahasia Negara / Notaris, Konselor Rehabilitasi Sosial, Manajer Layanan Pelanggan (Customer Service Excellence).
 * **Rumpun Jurusan:** Kedokteran & Keperawatan, Ilmu Kesejahteraan Sosial, Manajemen Zakat & Wakaf, Psikologi Klinis, Ilmu Hukum & Kenotariatan, Administrasi Publik.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 

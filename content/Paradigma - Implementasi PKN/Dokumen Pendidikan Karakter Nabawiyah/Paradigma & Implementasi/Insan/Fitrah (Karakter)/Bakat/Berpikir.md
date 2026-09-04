@@ -61,6 +61,13 @@ graph TD
   * *Tafrith (Lalai):* **Safah (السَّفَه)** — Kedangkalan berpikir, mudah tertipu oleh bungkus luar. *Kuratif:* Melatih anak mengamati pola sebab-akibat dan memperdalam tadabbur ayat.
   * *Ifrath (Berlebih):* **Kadzib / Khurafat (الكَذِب)** — Mengaku mengetahui hal ghaib tanpa dalil syar'i. *Kuratif:* Mengikat firasat dengan nash shahih dan kaidah *Shidq*.
 
+* **Label Diri (Self-Talk Indikator):** *"kurang berakhlak mulia"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #08: Nubl (النُّبْل - Cerdik & Banyak Akal)
@@ -74,6 +81,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Jahl (الجَهْل)** — Buntu saat menghadapi masalah kecil, panik. *Kuratif:* Dilatih dengan studi kasus pemecahan teka-teki nyata (*problem solving*).
   * *Ifrath (Berlebih):* **Ghisy / Hiyal (الغِشِّ)** — Menggunakan kecerdikan untuk menipu, memanipulasi celah hukum demi keuntungan pribadi. *Kuratif:* Menanamkan pilar *Amaanah* dan *'Adaalah*.
+
+* **Label Diri (Self-Talk Indikator):** *"cukup berakhlak mulia"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -89,6 +103,13 @@ graph TD
   * *Tafrith (Lalai):* **Suu'uzhan (سُوْءُ الظَّن)** — Pikiran penuh kecurigaan kronis, meracuni hubungan persaudaraan. *Kuratif:* Membiasakan tabayyun dan berbaik sangka kepada takdir Allah.
   * *Ifrath (Berlebih):* **Taqliid A'ma (التَّقْلِيْد)** — Polos hingga mudah ditipu dan dibodohi musuh. *Kuratif:* Dilengkapi dengan kewaspadaan pilar *Firaasah* dan *Dzakaa'*.
 
+* **Label Diri (Self-Talk Indikator):** *"Sangat rendah"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #10: Dzakaa' (الذَّكَاء - Cerdas & Cepat Menyerap)
@@ -103,6 +124,13 @@ graph TD
   * *Tafrith (Lalai):* **Balaadah (البَلَادَة)** — Malas mengasah nalar, enggan membaca. *Kuratif:* Latihan menghafal Al-Qur'an dan mutun ilmiah secara bertahap.
   * *Ifrath (Berlebih):* **Ahlur Ra'yi (أَهْلُ الرَّأْيِ)** — Mendewakan logika akal di atas nash wahyu, gemar mendebat perkara agama yang qath'i. *Kuratif:* Tundukkan akal di bawah wibawa wahyu dengan pilar *Tawaadhu'* dan *Ihsan*.
 
+* **Label Diri (Self-Talk Indikator):** *"sangat berakhlak mulia"*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #11: Hikmah (الحِكْمَة - Kebijaksanaan Menempatkan Perkara)
@@ -116,6 +144,23 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Jahl Murakkab (الجَهْلُ المُرَكَّب)** — Merasa tahu padahal tidak paham konteks, asal bicara. *Kuratif:* Duduk di majelis para ulama rabbani dan belajar mendengarkan.
   * *Ifrath (Berlebih):* **Falsafah ‘Aqiimah (الفَلْسَفَة)** — Berputar-putar dalam teori rumit tanpa aksi nyata. *Kuratif:* Salurkan ke penulisan fatwa praktis atau panduan amal nyata.
+
+---
+
+
+---
+
+## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
+
+Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
+
+| No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
+|---|---|:---:|---|---|---|
+| 1 | **Firaasah** | الفِرَاسَة |  |  |  |
+| 2 | **Nubl** | النُّبْل |  |  |  |
+| 3 | **Husnuzhan** | حُسْنُ الظَّن | Extrovert |  |  |
+| 4 | **Dzakaa'** | الذَّكَاء |  |  |  |
+| 5 | **Hikmah** | الحِكْمَة | Introvert |  |  |
 
 ---
 
@@ -156,6 +201,13 @@ graph TD
 
 * **Profesi:** Peneliti Sains, Analis Kebijakan Publik, Arsitek Sistem Software (IT), Konsultan Manajemen, Mufti/Hakim Syariah, Perencana Strategis (Litbang), Penulis Ilmiah.
 * **Rumpun Jurusan:** Ilmu Ushuluddin, Fiqih wa Ushuluhu, Ilmu Komputer/Informatika, Matematika Murni, Fisika Teoritik, Hukum Islam & Internasional, Data Science.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 

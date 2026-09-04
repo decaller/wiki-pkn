@@ -91,3 +91,26 @@ graph TD
 * [[Murahaqah]] — Etape Transisi Menjelang Baligh.
 * [[Bakat]] — Aktualisasi 40 Karakter Menjadi Karya Peradaban.
 * [[Tujuan Hidup Manusia]] — Menjadi Khalifah fil Ardh yang Bertauhid.
+---
+
+## 4. Standar Kurikulum Pendewasaan Lembaga: Pemandirian Putra & Putri
+
+Berdasarkan klausul resmi *Standar Pendewasaan (Akil Baligh)* dalam *Panduan Implementasi Standar PKN*:
+
+```mermaid
+graph TD
+    subgraph STANDAR_PENDEWASAAN["STANDAR KURIKULUM AKIL-BALIGH LEMBAGA"]
+        Putra["SANTRI PUTRA (QAWWAMAH)<br/>1. Pemandirian Finansial & Bisnis Riil<br/>2. Pengelolaan Sarpras Ma'had Sendiri<br/>3. Magang Nyata (Apprenticeship)<br/>4. Kepemimpinan Lapangan & Bela Diri"]
+        Putri["SANTRIWATI (RAHIMAH)<br/>1. Manajemen Kerumahtanggaan (Housekeeping)<br/>2. Kuliner Gizi Halalan Thayyiban<br/>3. Psikologi Pengasuhan & Karakter Anak<br/>4. Fiqih Kewanitaan & Adab Istri Sholihah"]
+    end
+
+    Putra --> Output["Generasi Syabab Mandiri & Siap Menikah Bertanggung Jawab"]
+    Putri --> Output
+```
+
+1. **Pemandirian Finansial Santri Putra:**
+   - Santri usia 15 tahun ke atas tidak lagi diperlakukan sebagai anak kecil yang sekadar meminta uang saku. Ma'had memfasilitasi unit usaha riil (pertanian, peternakan, percetakan, IT, perdagangan).
+   - Pengelolaan operasional harian sekolah/pondok (kelistrikan, kebersihan sarana, perbaikan inventaris) didelegasikan kepada santri senior untuk melatih kepemilikan rasa tanggung jawab (*ownership*).
+2. **Pemandirian Kerumahtanggaan Santriwati:**
+   - Santriwati dibekali ilmu aplikatif tata laksana rumah tangga: tata kelola finansial domestik, keterampilan memasak sehat tanpa pengawet berbahaya, menjahit, pertolongan pertama kesehatan keluarga, serta psikologi perkembangan anak usia dini.
+   - Program ini mencetak calon ibu peradaban yang bangga atas peran mulianya sebagai *Rabbatul Bait* (Ratu Rumah Tangga).

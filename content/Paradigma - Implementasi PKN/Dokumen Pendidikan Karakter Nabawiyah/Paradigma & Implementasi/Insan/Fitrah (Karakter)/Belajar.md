@@ -67,7 +67,46 @@ Pendidikan Karakter Nabawiyah mengkritisi sistem persekolahan konvensional yang 
 
 ---
 
-## 3. Tahapan Perkembangan Nalar Belajar Sesuai Sunnah
+## 3. Tiga Gaya Belajar Fitrah Berbasis Al-Qur'an (Manhaj SKIS Semarang)
+
+Merujuk pada firman Allah Ta'ala dalam **QS. An-Nahl: 78**, instrumen penyerapan ilmu pada manusia dianugerahkan dalam tiga saluran utama: pendengaran (*As-Sam'u*), penglihatan (*Al-Bashar*), dan hati nurani/daya gerak batin (*Al-Af'idah/Al-Fu'ad*). Diadaptasi dalam sistem evaluasi rapor karakter santri PKN, ketiga instrumen ini melahirkan **Tiga Gaya Belajar Fitrah**:
+
+```mermaid
+graph TD
+    AYAT["QS. An-Nahl: 78: As-Sam'a, Al-Abshara, Al-Af'idah"] --> G1["1. Al-Fu'ad (الفُؤَاد)<br/>Kinestetik & Eksperiensial"]
+    AYAT --> G2["2. As-Sam'u (السَمْع)<br/>Auditori & Dialogis"]
+    AYAT --> G3["3. Al-Bashar (البَصَر)<br/>Visual & Observasional"]
+
+    G1 --> S1["Ciri: Bergerak, membongkar-pasang, praktik nyata<br/>Setting: Alam terbuka, lapangan, bengkel, kebun"]
+    G2 --> S2["Ciri: Menyimak kisah, diskusi, talaqqi, peka intonasi<br/>Setting: Halaqah melingkar, podcast, ruang tenang"]
+    G3 --> S3["Ciri: Peta konsep, infografis, demonstrasi bentuk<br/>Setting: Ruang berpencahayaan baik, media visual"]
+```
+
+| Gaya Belajar | Modalitas Indera | Ciri Perilaku Dominan Anak | Setting Lingkungan Belajar yang Optimal |
+|---|---|---|---|
+| **Al-Fu'ad (الفُؤَاد)** | Kinestetik, Sentuhan, Gerak Motorik | Belajar dengan bergerak, menyentuh, membongkar sesuatu, praktik langsung dengan peragaan, menyukai aktivitas fisik yang dapat langsung dirasakan, lebih suka langsung terjun daripada menyimak teori abstrak. | Alam terbuka, lapangan, bengkel kerja (*workshop*), sawah, kebun, atau tempat luas yang memungkinkan banyak mobilitas fisik. |
+| **As-Sam'u (السَمْع)** | Pendengaran, Frekuensi Nada, Audio | Sangat peka terhadap intonasi kata, mudah menyerap pelajaran melalui dongeng/kisah lisan, rekaman audio, muraja'ah talaqqi hafalan, dan perdebatan dialektis santun. | Halaqah melingkar santai, ruangan hening tanpa polusi suara, diskusi tatap muka intim dengan pendidik. |
+| **Al-Bashar (البَصَر)** | Penglihatan, Visual, Spasial | Menangkap informasi tercepat lewat diagram, warna, demonstrasi visual guru, membaca teks terstruktur, peta pikiran (*mind map*), dan observasi detail bentuk fisik. | Ruang belajar berpencahayaan alami cukup, dinding berinfografis rapi, meja belajar tertata, buku-buku bergambar kaya ilustrasi. |
+
+---
+
+## 4. Sembilan Indikator Observasi Pertumbuhan Karakter Belajar
+
+Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akademi Guru PKN Batch 5 & Model SKIS)**, gairah belajar anak dipantau melalui 9 indikator perilaku autentik tanpa angka ujian kaku:
+
+1. **Inisiatif Belajar Mandiri:** Anak tidak perlu disuruh atau diancam ketika akan belajar; dorongan eksplorasi terbit dari rasa ingin tahu batiniahnya (*intrinsic drive*).
+2. **Resiliensi Pemecahan Masalah:** Anak berusaha gigih menemukan solusi kreatif tatkala menghadapi kesulitan dalam bermain, merakit proyek, atau menghadapi tantangan keseharian.
+3. **Keberanian Bertanya Tanpa Canggung:** Anak tidak canggung, minder, atau malu untuk bertanya kepada orang baru/ahli tatkala ingin menanyakan arah jalan, nama benda, atau hal yang belum diketahuinya.
+4. **Pemanfaatan Media Sekitar:** Anak secara kreatif memanfaatkan benda-benda alam atau barang bekas di sekitarnya (kardus, daun, ranting, pasir, tali) sebagai sarana dan obyek belajarnya.
+5. **Eksplorasi Lingkungan Luar:** Anak aktif menjelajah lingkungan sekitar, kebun, halaman, atau tempat-tempat baru demi menuntaskan rasa ingin tahunya.
+6. **Kehausan Bertanya (*Inquisitiveness*):** Anak gemar mengajukan rentetan pertanyaan kritis kepada orang tua, guru, atau narasumber ahli tentang fenomena yang mengusik pikirannya.
+7. **Keberanian Mencoba Hal Baru:** Anak bersemangat mencoba keterampilan atau aktivitas yang belum pernah ia lakukan sebelumnya (*risk-taking mindset*).
+8. **Bebas dari Ketakutan Berbuat Salah:** Anak berani bereksperimen tanpa rasa takut dihakimi, dihina, atau dimarahi tatkala hasil percobaannya belum sempurna.
+9. **Kondisi Khusyuk / Hanyut (*Flow State*):** Anak sering lupa waktu (*deeply absorbed*) tatkala sedang asyik mempelajari, merancang, atau meneliti sesuatu yang memikat minat bakatnya.
+
+---
+
+## 5. Tahapan Perkembangan Nalar Belajar Sesuai Sunnah
 
 1. **Usia 0 – 7 Tahun ([[Thufulah]]): Bermain adalah Belajar**
    - Dunia anak usia dini adalah dunia gerak dan sensori. Jangan membebani mereka dengan lembar kerja kertas (*worksheet*) calistung yang kaku. 

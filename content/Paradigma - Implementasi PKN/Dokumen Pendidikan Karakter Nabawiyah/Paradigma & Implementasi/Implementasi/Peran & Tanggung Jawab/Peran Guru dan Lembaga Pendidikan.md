@@ -89,3 +89,23 @@ graph LR
 * [[Pendidikan Ideal]] — Menautkan Akil dan Baligh Menuju Peradaban.
 * [[4 Kaidah Implementasi]] — Prinsip Operasional Pengasuhan Nabawiyah.
 * [[Metode Mendidik]] — Tiga Bahasa Pengasuhan Islam.
+---
+
+## 4. Standar Mutu Kelembagaan & 4 Tingkatan Evolusi Sekolah PKN
+
+Berdasarkan dokumen master *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* (Abdul Kholiq & Bayu Issetyadi), transformasi sekolah konvensional menuju madrasah nabawiyah dilakukan melalui **Empat Tingkatan Adopsi**:
+
+```mermaid
+graph LR
+    T1["Tingkat 1: Mindset Pribadi<br/>Perbaikan Diri Pendidik di Kelas"] --> T2["Tingkat 2: Kolaborasi Sejawat<br/>Meluaskan Pengaruh & Asesmen Bakat"]
+    T2 --> T3["Tingkat 3: Kebijakan Parsial<br/>Pilot Project Asrama/Kesiswaan Tanpa Hukuman"]
+    T3 --> T4["Tingkat 4: Holistik Berkelanjutan<br/>Kurikulum Fardhu 'Ain & Pilihan Bakat Penuh"]
+```
+
+1. **Tingkat 1 (Menata Ulang Mindset Diri Sendiri):** Guru memulai dari perbaikan cara pandang terhadap fitrah anak. Menerapkan 5 Bahasa Cinta di jam pelajarannya sendiri tanpa menunggu persetujuan birokrasi yayasan.
+2. **Tingkat 2 (Meluaskan Pengaruh tanpa Merubah Sistem):** Berbagi wawasan santai dengan rekan guru sejawat, mulai mengobservasi fadhilah dan 40 pilar [[Bakat]] siswa, serta menyisipkan rencana pembelajaran alamiah yang kontekstual.
+3. **Tingkat 3 (Kebijakan untuk Ruang Lingkup Tertentu/Parsial):** Lembaga menetapkan kebijakan resmi pada divisi percontohan (misalnya bidang kesiswaan atau asrama) dengan **menghapus sanksi fisik/hukuman yang mempermalukan**, menggantinya dengan restitusi adab dan pendampingan musyrif berbasis cinta.
+4. **Tingkat 4 (Implementasi Holistik & Menuju Sempurna):** Penyelarasan menyeluruh antara kurikulum materi wajib syariat (*fardhu 'ain*) dengan materi pilihan bakat fungsional, serta penyiapan kemandirian santri mukallaf sebelum lulus.
+
+Untuk panduan mendalam mengenai 5 strategi ushul fiqih dalam mengelola konflik adopsi sistem di lembaga, rujuk panduan lengkap di:  
+👉 **[[Kaidah Implementasi di Berbagai Lembaga]]**.

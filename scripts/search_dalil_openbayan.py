@@ -397,6 +397,20 @@ DALIL_CATALOG = {
         "terjemah": "Sesungguhnya Allah itu Maha Lembut dan mencintai kelemahlembutan. Dia memberikan pada kelemahlembutan apa yang tidak Dia berikan pada kekerasan, dan apa yang tidak Dia berikan pada selainnya.",
         "sumber": "HR. Muslim (Shahih Muslim No. 2593) & Syarah Riyadush Shalihin (Juz 49 Hal. 7)",
         "relevansi": "Penanganan setiap studi kasus penyimpangan anak harus diawali dengan pendinginan emosi, pengisian tangki cinta, dan pendekatan bertahap berbasis kelembutan."
+    },
+    "Kaidah Implementasi di Berbagai Lembaga.md": {
+        "search_query": "ابدأ بنفسك ثم بمن تعول",
+        "ayat_or_hadits": "ابْدَأْ بِنَفْسِكَ فَتَصَدَّقْ عَلَيْهَا، فَإِنْ فَضَلَ شَيْءٌ فَلِأَهْلِكَ، فَإِنْ فَضَلَ عَنْ أَهْلِكَ شَيْءٌ فَلِذِي قَرَابَتِكَ، فَإِنْ فَضَلَ عَنْ ذِي قَرَابَتِكَ شَيْءٌ فَهَكَذَا وَهَكَذَا",
+        "terjemah": "Mulailah dari dirimu sendiri, bersedekahlah untuk dirimu. Jika ada kelebihan, maka untuk keluargamu. Jika masih ada kelebihan dari keluargamu, maka untuk kerabatmu. Jika masih ada kelebihan dari kerabatmu, maka untuk begini dan begini (orang lain di sekitarmu)...",
+        "sumber": "HR. Muslim (Shahih Muslim - Kitab az-Zakah, No. 997) & Syarah Shahih Muslim Imam An-Nawawi (Juz 7 Hal. 83)",
+        "relevansi": "Kaidah prioritas institusional: adopsi PKN pada lembaga (sekolah, pesantren, ormas, komunitas) wajib memprioritaskan pembenahan internal (keteladanan guru, kurikulum internal, adab) sebelum ekspansi program eksternal secara masif."
+    },
+    "Panduan Asesmen dan Observasi TB40.md": {
+        "search_query": "اعملوا فكل ميسر لما خلق له",
+        "ayat_or_hadits": "اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ",
+        "terjemah": "Beramallah kalian! Karena setiap orang akan dimudahkan menuju apa yang ia diciptakan untuknya.",
+        "sumber": "HR. Bukhari (No. 4949) & Muslim (No. 2647) - Kitab al-Qadar; Syarah Sunan At-Tirmidzi Al-Mubarakfuri (Juz 6 Hal. 331)",
+        "relevansi": "Landasan filosofis asesmen TB-40: pemetaan bakat bertujuan menemukan medan amal peradaban yang dimudahkan Allah bagi setiap insan, bukan untuk membatasi takdir."
     }
 }
 

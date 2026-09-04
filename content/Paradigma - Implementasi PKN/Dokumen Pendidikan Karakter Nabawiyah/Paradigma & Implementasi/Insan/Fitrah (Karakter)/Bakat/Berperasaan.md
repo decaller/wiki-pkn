@@ -62,6 +62,13 @@ graph TD
   * *Tafrith (Lalai):* **Kadzib / Nifaq (الكَذِب)** — Dusta, menutupi kesalahan dengan rekayasa. *Kuratif:* Bangun rasa aman di rumah; jangan pernah hukum anak yang telah berani jujur mengakui kesalahan.
   * *Ifrath (Berlebih):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Berbicara terlalu polos hingga membuka aib keluarga atau rahasia penting. *Kuratif:* Dikuatkan dengan pilar *Kitmaanus Sirr* dan *Satr*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #13: 'Iffah (العِفَّة - Menjaga Kesucian Jiwa)
@@ -75,6 +82,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Fahsy (الفَحْش)** — Terjerumus pada pergaulan bebas, pornografi, atau serakah harta haram. *Kuratif:* Bentengi pandangan mata, fasilitasi pernikahan dini saat usia syabab bila telah mampu.
   * *Ifrath (Berlebih):* **Was-was / Rohbaniyah (الرَّهْبَانِيَّة)** — Mengharamkan hal-hal mubah dan menjauhi interaksi halal kemasyarakatan. *Kuratif:* Tanamkan sunnah Nabi ﷺ dalam berkeluarga dan bermuamalah.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -90,6 +104,13 @@ graph TD
   * *Tafrith (Lalai):* **Ghiibah / Namimah (الغِيْبَة)** — Gemar bergosip, mencela, dan menebar fitnah. *Kuratif:* Puasa bicara sia-sia, perbanyak dzikir lisan.
   * *Ifrath (Berlebih):* **Jubn (الجُبْن)** — Takut berbicara kebenaran saat kemungkaran merajalela. *Kuratif:* Dikuatkan dengan pilar *Syajaa'ah* dan *Nashiihah*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #15: Hayaa' (الحَيَاء - Malu Syar'i)
@@ -103,6 +124,13 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Waqaahah (الوَقَاحَة)** — Muka tebal, tidak punya malu berbuat dosa di ruang publik. *Kuratif:* Tanamkan muraqabatullah sejak usia tamyiz.
   * *Ifrath (Berlebih):* **Duuniyyah (الدُوْنِيَّة)** — Minder patologis, takut tampil, tidak berani menyuarakan hak. *Kuratif:* Penguatan konsep diri beriman melalui pilar *'Izzah*.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 
@@ -118,6 +146,13 @@ graph TD
   * *Tafrith (Lalai):* **Thama' / Hasad (الطَّمَع)** — Serakah, tidak pernah puas, iri melihat rezeki tetangga. *Kuratif:* Melatih anak berinfaq dan melihat orang yang berada di bawahnya dalam urusan duniawi.
   * *Ifrath (Berlebih):* **Tawaakul / Kasal (التَّوَاكُل)** — Pasrah buta tanpa ikhtiar, enggan bekerja mencari nafkah halal. *Kuratif:* Integrasikan dengan pilar *Himmah* dan *'Aziimah*.
 
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
+
 ---
 
 ### Pilar #17: Tawaadhu' (التَّوَاضُع - Kerendahan Hati)
@@ -131,6 +166,24 @@ graph TD
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Kibr (الكِبْر)** — Sombong, memandang remeh orang lain, menolak nasihat. *Kuratif:* Ajak anak berkhidmat melayani orang-orang lemah dan berziarah kubur.
   * *Ifrath (Berlebih):* **Mahaanah (المَهَانَة)** — Menghinakan diri di hadapan orang kaya atau pelaku maksiat. *Kuratif:* Kokohkan dengan pilar *'Izzah* Islamiyah.
+
+---
+
+
+---
+
+## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
+
+Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
+
+| No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
+|---|---|:---:|---|---|---|
+| 1 | **Shidq** | الصِّدْق |  |  |  |
+| 2 | **'Iffah** | العِفَّة |  |  |  |
+| 3 | **Shamt** | الصَّمْت |  |  |  |
+| 4 | **Hayaa'** | الحَيَاء |  |  |  |
+| 5 | **Qanaa'ah** | القَنَاعَة |  |  |  |
+| 6 | **Tawaadhu'** | التَّوَاضُع |  |  |  |
 
 ---
 
@@ -171,6 +224,13 @@ graph TD
 
 * **Profesi:** Pengelola Baitul Mal / Bendahara Amanah, Auditor Keuangan Syariah, Konselor Pernikahan, Sastrawan/Penulis Buku Akhlak, Arsitek Beradab, Kurator Warisan Sejarah Islam.
 * **Rumpun Jurusan:** Akuntansi Syariah, Manajemen Keuangan Islam, Sastra Arab & Linguistik, Psikologi Konseling Islam, Ilmu Adab & Sejarah Peradaban Islam.
+
+* **Label Diri (Self-Talk Indikator):** *""*
+* **Peta Karir Peradaban (Profesi):** 
+* **Peta Jurusan Studi & Akademik:** 
+* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
+  * *Pemulihan Tafrith (Lalai):* 
+  * *Penyeimbang Ifrath (Berlebih):* 
 
 ---
 

@@ -103,3 +103,19 @@ Berdasarkan literatur serial resmi SOTAB HEBAT, pemulihan luka batin anak melalu
 * *Tanya Jawab: Bolehkah Minta Maaf ke Anak?* — [Tonton di YouTube @ 45:12](https://www.youtube.com/watch?v=hODlNvl6qcc&t=2712s)
 * *Memulihkan Anak yang Terlanjur Trauma Beragama* — [Tonton di YouTube @ 60:15](https://www.youtube.com/watch?v=hODlNvl6qcc&t=3615s)
 * *Membasuh Luka Pengasuhan Orang Tua Sendiri* — [Tonton di YouTube @ 65:15](https://www.youtube.com/watch?v=hODlNvl6qcc&t=3915s)
+---
+
+## 4. Matriks Diagnosis Kelembagaan: Penanganan 4 Tipe Hutang Pengasuhan
+
+Dokumen resmi *Panduan Implementasi Standar PKN* menetapkan protokol pemilahan antara **Ketidaksesuaian Proses** (faktor kompetensi guru/kurikulum) dengan **Ketidaksesuaian Perkembangan Individu** (adanya hutang pengasuhan dari masa kecil):
+
+| Tipe Kasus | Kondisi Karakter Santri | Diagnosis Hutang Pengasuhan | Protokol Intervensi Pemulihan (*Recovery*) |
+|:---:|---|---|---|
+| **Tipe 1** | Iman (✅), Belajar (✅), Bakat (❌) | Bakat unik dan minat karya belum teridentifikasi. | Lakukan asesmen bakat, berikan proyek pemandirian berbasis Rukun 3A (Suka, Bisa, Berguna), libatkan dalam magang lapangan. |
+| **Tipe 2** | Iman (✅), Belajar (❌), Bakat (❌) | Nalar kritis dan kegembiraan belajar mati akibat schooling kaku. | Perbesar interaksi alam terbuka (*tadabbur*), bebaskan eksperimen mandiri (*trial & error*), hapus ketakutan terhadap nilai angka. |
+| **Tipe 3** | Iman (❌), Belajar (✅), Bakat (✅) | Kering spiritualitas; taat hanya jika diawasi; tangki cinta bocor. | **Fokus Penuh pada Karakter Iman:** Hentikan sementara tuntutan beban hafalan/akademis; guyur dengan Bahasa Cinta yang dominan hingga batinnya merasa aman. |
+| **Tipe 4** | Iman (❌), Belajar (❌), Bakat (❌) | Kerusakan fitrah menyeluruh; apatis, memberontak, atau kecanduan gawai. | **Pemulihan Berurutan Mutlak:** Wajib dimulai dari pemulihan Iman (Bahasa Hati & cinta tanpa syarat) → kemudian Belajar (alamiah) → barulah penajaman Bakat, kendati usianya telah belia/dewasa. |
+
+> [!important] Kaidah Emas Urutan Pemulihan Kelembagaan
+> *"Merujuk pada sunnatullah pertumbuhan fitrah yang berurutan dari Iman → Belajar → Bakat, maka bila ada tahapan yang belum tuntas, proses recovery WAJIB diinteraksikan dengan urutan yang sama persis, walaupun usia anak yang bersangkutan telah melampaui fase tersebut."*  
+> — **Standar Penjaminan Mutu PKN, Klausul Evaluasi & Recovery**

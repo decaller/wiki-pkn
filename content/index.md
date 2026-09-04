@@ -50,7 +50,7 @@ graph TD
     subgraph BUAH["🍎 IMPLEMENTASI & KARYA PERADABAN"]
         Kaidah["[[4 Kaidah Implementasi]]<br/>Taisir • Qudwah • Rahmah • Tadarruj"]
         Elemen["[[4 Elemen Implementasi]]<br/>Ghayah • Manhaj • Uslub • Taqyim"]
-        Sinergi["[[Tanggung Jawab Pendidikan]]<br/>[[Peran Ayah dan Bunda]] • [[Peran Guru dan Lembaga Pendidikan]]"]
+        Sinergi["[[Tanggung Jawab Pendidikan]]<br/>[[Peran Ayah dan Bunda]] • [[Peran Guru dan Lembaga Pendidikan]] • [[Kaidah Implementasi di Berbagai Lembaga]]"]
         Output["Kematangan Akil-Baligh & Khairu Ummah"]
     end
 
@@ -81,7 +81,7 @@ Sebagai *rahimah* dan madrasah pertama anak, Bunda bertugas menghidupkan suasana
 
 ### 🎓 Jalur 3: Untuk Guru & Pengelola Lembaga Pendidikan
 Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik formal dan non-formal bertugas memfasilitasi fitrah unik setiap murid:
-1. Pahami kedudukan institusi dan adab guru dalam [[Peran Guru dan Lembaga Pendidikan]].
+1. Pahami kedudukan institusi dan adab guru dalam [[Peran Guru dan Lembaga Pendidikan]] • [[Kaidah Implementasi di Berbagai Lembaga]].
 2. Pelajari kaidah operasional kurikulum berbasis fitrah dalam [[4 Kaidah Implementasi]] dan [[4 Elemen Implementasi]].
 3. Terapkan prinsip pembelajaran dunia nyata tanpa sekat kaku kelas melalui [[Pembelajaran Alamiah]].
 4. Lakukan pemetaan dan observasi 40 bakat anak menggunakan instrumen Rukun 3A di [[Bakat]], [[Bekerja Keras]], [[Berpikir]], [[Berperasaan]], [[Memerintah]], [[Bekerja Sama]], dan [[Melayani]].

@@ -76,8 +76,70 @@ Untuk memastikan keempat elemen ini tidak berjalan secara terisolasi, orang tua 
 | **Integrasi Belajar-Bakat** | Pengetahuan kognitif yang dipelajari langsung dihubungkan dengan penyaluran minat dan potensi karya nyatanya. | Anak yang memiliki bakat analitis (*Berpikir*) diajak meneliti siklus air wudhu atau merancang sistem pengairan hidroponik keluarga. |
 | **Sinergi Keempat Elemen** | Anak tumbuh menjadi pribadi muslim yang utuh (*syumuliyyah*): kokoh tauhidnya, luhur adabnya, cerdas nalarnya, dan nyata kontribusinya. | Pemuda mukallaf yang siap memimpin, berwirausaha mandiri secara halal, dan menjadi teladan bagi lingkungannya. |
 
-## 4. Tautan Konseptual Terkait
+---
+
+## 4. Sistem Evaluasi Autentik: Blueprint Rapor Karakter Santri (Model SKIS Semarang)
+
+Dalam implementasi kelembagaan di **Sekolah Karakter Imam Syafi'i (SKIS Semarang)** di bawah bimbingan Ustadz Abdul Kholiq, S.Pd, elemen evaluasi diwujudkan dalam **Laporan Perkembangan Karakter Santri (Rapor PKN)**. Rapor ini menolak standardisasi angka ranking akademis yang kompetitif-destruktif, dan menggantinya dengan pemetaan tumbuh kembang fitrah secara holistik.
+
+```mermaid
+graph TD
+    subgraph ARSITEKTUR_RAPOR["5 BAGIAN UTAMA RAPOR KARAKTER SANTRI"]
+        B1["I. Karakter Iman<br/>Aqidah, Ibadah, Adab/Akhlaq, Profil Bahasa Hati"]
+        B2["II. Karakter Belajar<br/>Gaya Belajar: Al-Fu'ad, As-Sam'u, Al-Bashar & Setting Belajar"]
+        B3["III. Karakter Bakat (TB-40)<br/>Top 6 Potensi Kekuatan & Pemberian Julukan (Laqab)"]
+        B4["IV. Kesehatan Fisik & Indera<br/>TB, BB, Mata, Telinga, Gigi, Rambut, Kulit"]
+        B5["V. Catatan Wali Santri<br/>Rekomendasi Profesi Peradaban & Jurusan Studi"]
+    end
+```
+
+### A. Lima Komponen Inti Rapor Karakter Santri
+
+1. **Bagian I: Karakter Iman (Pondasi Spiritual)**
+   * **Aqidah & Ibadah:** Dipantau melalui observasi keseharian di sekolah dan rumah (tanpa harus disuruh shalat, berkata jujur tanpa tekanan, tertib berwudhu).
+   * **Adab dan Akhlaq:** Sikap kepada guru, teman, alam, dan diri sendiri.
+   * **Profil Bahasa Hati:** Menentukan bahasa kasih utama anak (*Pelayanan*, *Perlindungan*, atau *Kebersamaan*) sebagai panduan bagi orang tua dan guru dalam menyentuh hatinya.
+
+2. **Bagian II: Karakter Belajar (Gaya Penyerapan Ilmu)**
+   * Memetakan gaya belajar dominan berbasis firman Allah dalam QS. An-Nahl: 78:
+     * *Al-Fu'ad (الفُؤَاد):* Kinestetik / motorik (belajar dengan bergerak, membongkar-pasang, praktik nyata).
+     * *As-Sam'u (السَمْع):* Auditori (belajar dengan mendengar kisah, talaqqi, dialog).
+     * *Al-Bashar (البَصَر):* Visual (belajar dengan melihat gambar, demonstrasi, peta konsep).
+   * Rekomendasi tempat belajar yang nyaman (alam terbuka, bengkel, lapangan, atau halaqah hening).
+
+3. **Bagian III: Karakter Bakat TB-40 (Peta Potensi Keunikan)**
+   * Menampilkan **Top 6 Potensi Kekuatan** (*Dominant Strengths*) dan **Potensi Keterbatasan** (*Blind Spots*) hasil observasi guru dan orang tua.
+   * **Pemberian Julukan Fitrah (*Al-Laqab al-Mamduh*):** Tradisi sunnah nabawiyah dalam menyematkan gelar kepribadian luhur (sebagaimana Rasulullah ﷺ menggelari Abu Bakar *Ash-Shiddiq*, Umar *Al-Faruq*, Khalid *Saifullah*, Abu Ubaidah *Aminul Ummah*). Di SKIS, ananda dianugerahi julukan pembangun kepercayaan diri sesuai kombinasi bakat puncaknya, seperti:
+     * *"Tegas yang Cerdas"* (kombinasi 'Adaalah + Dzakaa' + Amaanah)
+     * *"Perintis yang Penyayang"* (kombinasi 'Aziimah + Rahmah + Himmah)
+     * *"Pemimpin yang Santun"* (kombinasi Syajaa'ah + Hilm + Rifq)
+
+4. **Bagian IV: Kesehatan Fisik & Panca Indera**
+   * Pemeriksaan antropometri berkala (Tinggi Badan, Berat Badan, fungsi mata, telinga, kulit, gigi, rambut) sebagai penunjang vitalitas ibadah dan belajar.
+
+5. **Bagian V: Catatan Rekomendasi bagi Orang Tua & Wali Santri**
+   * Pendidik merumuskan arahan strategis: proyek karya apa yang perlu difasilitasi di rumah, profesi peradaban apa yang relevan dengan fitrahnya, dan jurusan studi/pesantren lanjutan yang paling cocok dituju saat usia [[Syabab]].
+
+---
+
+### B. Empat Rubrik Observasi Pertumbuhan Karakter (@ 9 Indikator)
+
+Evaluasi rapor ditopang oleh lembar observasi harian dengan rubrik perilaku konkret:
+
+| Dimensi Evaluasi | Fokus Observasi Perilaku Anak |
+|---|---|
+| **1. Pertumbuhan Aqidah (9 Butir)** | Shalat tanpa disuruh; jujur tanpa takut dihukum; adab spontan; sering mengingat surga/neraka; mengingatkan teman yang lalai; berbesar hati saat dibangunkan subuh; tidak main gadget sembunyi-sembunyi; lisan berdzikir saat senang/susah; mengembalikan barang temuan. |
+| **2. Pertumbuhan Ibadah (9 Butir)** | Gemar membaca/menyimak Al-Qur'an; rutin muraja'ah; tata cara wudhu mutqin; tertib shalat fardhu; shalat sesuai sunnah; beradab islami harian; mengajak teman beribadah; antusias di bulan Ramadhan; mampu mempraktikkan tayamum. |
+| **3. Pertumbuhan Belajar (9 Butir)** | Belajar tanpa paksaan; gigih mencari solusi saat kesulitan; tidak malu bertanya pada orang baru; memanfaatkan benda sekitar jadi media belajar; aktif menjelajah lingkungan; banyak bertanya kritis; berani mencoba hal baru; tidak takut salah; larut (*flow state*) saat belajar. |
+| **4. Pertumbuhan Bakat (9 Butir)** | Memiliki ciri khas unik yang membedakannya dari orang lain; memiliki hobi/aktivitas favorit konsisten; hasil karyanya mutqin/bagus; melakukan berulang-ulang tanpa bosan; spontan tampil baik tanpa persiapan berbelit; memanfaatkan mainan buatan sendiri; pantang putus asa saat gagal; rela menyisihkan uang jajan demi hobi karyanya. |
+
+---
+
+## 5. Tautan Konseptual Terkait
 * [[4 Kaidah Implementasi]] — Prinsip Operasional Pengasuhan.
 * [[Pendidikan Ideal]] — Paradigma Akil-Baligh PKN.
 * [[Bakat]] — Katalog 40 Sifat Karakter Nabawiyah.
+* [[Belajar]] — Tiga Gaya Belajar Fitrah Qur'ani dan 9 Indikator Belajar.
+* [[Bahasa Hati]] — Tiga Modalitas Bahasa Hati (Pelayanan, Perlindungan, Kebersamaan).
 * [[Tanggung Jawab Pendidikan]] — Peran Asali Orang Tua dalam Pengasuhan.
+

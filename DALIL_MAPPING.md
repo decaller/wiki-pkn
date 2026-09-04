@@ -2,7 +2,7 @@
 
 Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu Katsir, dan Syarah Klasik*) yang diekstraksi dari korpus **OpenBayan** (`data/shamela_corpus.db`) untuk setiap topik bahasan di **Wiki PKN**.
 
-> **Total Entri Terindeks:** 42 berkas halaman materi pokok.
+> **Total Entri Terindeks:** 44 berkas halaman materi pokok.
 
 ---
 
@@ -591,5 +591,33 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim No. 2593) & Syarah Riyadush Shalihin (Juz 49 Hal. 7)  
 > 💡 **Relevansi PKN:** Penanganan setiap studi kasus penyimpangan anak harus diawali dengan pendinginan emosi, pengisian tangki cinta, dan pendekatan bertahap berbasis kelembutan.
+
+---
+
+## 📄 `Kaidah Implementasi di Berbagai Lembaga.md`
+**Kata Kunci OpenBayan:** `ابدأ بنفسك ثم بمن تعول`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « ابْدَأْ بِنَفْسِكَ فَتَصَدَّقْ عَلَيْهَا، فَإِنْ فَضَلَ شَيْءٌ فَلِأَهْلِكَ، فَإِنْ فَضَلَ عَنْ أَهْلِكَ شَيْءٌ فَلِذِي قَرَابَتِكَ، فَإِنْ فَضَلَ عَنْ ذِي قَرَابَتِكَ شَيْءٌ فَهَكَذَا وَهَكَذَا »
+> 
+> *"Mulailah dari dirimu sendiri, bersedekahlah untuk dirimu. Jika ada kelebihan, maka untuk keluargamu. Jika masih ada kelebihan dari keluargamu, maka untuk kerabatmu. Jika masih ada kelebihan dari kerabatmu, maka untuk begini dan begini (orang lain di sekitarmu)..."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim - Kitab az-Zakah, No. 997) & Syarah Shahih Muslim Imam An-Nawawi (Juz 7 Hal. 83)  
+> 💡 **Relevansi PKN:** Kaidah prioritas institusional: adopsi PKN pada lembaga (sekolah, pesantren, ormas, komunitas) wajib memprioritaskan pembenahan internal (keteladanan guru, kurikulum internal, adab) sebelum ekspansi program eksternal secara masif.
+
+---
+
+## 📄 `Panduan Asesmen dan Observasi TB40.md`
+**Kata Kunci OpenBayan:** `اعملوا فكل ميسر لما خلق له`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ »
+> 
+> *"Beramallah kalian! Karena setiap orang akan dimudahkan menuju apa yang ia diciptakan untuknya."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Muslim (No. 2647) - Kitab al-Qadar; Syarah Sunan At-Tirmidzi Al-Mubarakfuri (Juz 6 Hal. 331)  
+> 💡 **Relevansi PKN:** Landasan filosofis asesmen TB-40: pemetaan bakat bertujuan menemukan medan amal peradaban yang dimudahkan Allah bagi setiap insan, bukan untuk membatasi takdir.
 
 ---

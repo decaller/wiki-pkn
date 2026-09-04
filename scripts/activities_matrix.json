@@ -1,0 +1,473 @@
+[
+  {
+    "no": 1,
+    "kegiatan": "Sholat berjamaah",
+    "total_pilar": 40,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "Waqaar / الوَقَار (wibawa)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Firaasah / الفِرَاسَة (firasat)",
+      "Nubl / النُّبْل (cerdik)",
+      "Husnuzhan / حُسْنُ الظَّن (psgk. baik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "Hikmah / الحِكْمَة  (hikmah)",
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Hayaa’ / الحَيَاء (malu)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Ghairah / الغَيْرَة (cemburu)",
+      "Munaafasah / المُنَافَسَة (kompetisi)",
+      "Nashiihah / النَّصِيْحَة (nasehat)",
+      "Fashaahah / الفَصَاحَة (fasih bicara)",
+      "Nushrah / النُّصْرَة (menolong)",
+      "Juud / الجُوْد (dermawan)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Kitmaanus Sirr / كِتْمَانُ السِّرِّ (jg. rhs)",
+      "Satr / السَّتْرُ (menutup aib)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 2,
+    "kegiatan": "Bermain bersama",
+    "total_pilar": 12,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Munaafasah / المُنَافَسَة (kompetisi)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)"
+    ]
+  },
+  {
+    "no": 3,
+    "kegiatan": "Makan Bersama",
+    "total_pilar": 13,
+    "pilar_list": [
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 4,
+    "kegiatan": "Membersihkan lingkungan sekolah",
+    "total_pilar": 9,
+    "pilar_list": [
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)"
+    ]
+  },
+  {
+    "no": 5,
+    "kegiatan": "Rihlah / outing (tour de talents)",
+    "total_pilar": 27,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "Waqaar / الوَقَار (wibawa)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Hayaa’ / الحَيَاء (malu)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Ghairah / الغَيْرَة (cemburu)",
+      "Munaafasah / المُنَافَسَة (kompetisi)",
+      "Nashiihah / النَّصِيْحَة (nasehat)",
+      "Fashaahah / الفَصَاحَة (fasih bicara)",
+      "Nushrah / النُّصْرَة (menolong)",
+      "Juud / الجُوْد (dermawan)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Kitmaanus Sirr / كِتْمَانُ السِّرِّ (jg. rhs)",
+      "Satr / السَّتْرُ (menutup aib)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 6,
+    "kegiatan": "Membuat prakarya",
+    "total_pilar": 11,
+    "pilar_list": [
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Nubl / النُّبْل (cerdik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)"
+    ]
+  },
+  {
+    "no": 7,
+    "kegiatan": "Pekerjaan rumah (menyapu, mencuci, dll)",
+    "total_pilar": 12,
+    "pilar_list": [
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Shabr / الصَّبْر (sabar)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)"
+    ]
+  },
+  {
+    "no": 8,
+    "kegiatan": "Mengunjungi tokoh masyarakat",
+    "total_pilar": 8,
+    "pilar_list": [
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 9,
+    "kegiatan": "Ziarah kubur",
+    "total_pilar": 6,
+    "pilar_list": [
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Hayaa’ / الحَيَاء (malu)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)"
+    ]
+  },
+  {
+    "no": 10,
+    "kegiatan": "Menggambar/melukis",
+    "total_pilar": 6,
+    "pilar_list": [
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Nubl / النُّبْل (cerdik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "‘Iffah / العِفَّة (jaga diri)"
+    ]
+  },
+  {
+    "no": 11,
+    "kegiatan": "Market day / pasaran",
+    "total_pilar": 23,
+    "pilar_list": [
+      "Nubl / النُّبْل (cerdik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shabr / الصَّبْر (sabar)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Munaafasah / المُنَافَسَة (kompetisi)",
+      "Nashiihah / النَّصِيْحَة (nasehat)",
+      "Fashaahah / الفَصَاحَة (fasih bicara)",
+      "Nushrah / النُّصْرَة (menolong)",
+      "Juud / الجُوْد (dermawan)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)"
+    ]
+  },
+  {
+    "no": 12,
+    "kegiatan": "Inspirasi profesi (mendatangkan maestro)",
+    "total_pilar": 8,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "Firaasah / الفِرَاسَة (firasat)",
+      "Nubl / النُّبْل (cerdik)",
+      "Husnuzhan / حُسْنُ الظَّن (psgk. baik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "Hikmah / الحِكْمَة  (hikmah)",
+      "Ghairah / الغَيْرَة (cemburu)",
+      "Mahabbah / المَحَبَّة (penuh cinta)"
+    ]
+  },
+  {
+    "no": 13,
+    "kegiatan": "Perkelahian dan bullying  (0 - 7th)",
+    "total_pilar": 16,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "Waqaar / الوَقَار (wibawa)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Ghairah / الغَيْرَة (cemburu)",
+      "Munaafasah / المُنَافَسَة (kompetisi)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 14,
+    "kegiatan": "Tertidur",
+    "total_pilar": 14,
+    "pilar_list": [
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Hayaa’ / الحَيَاء (malu)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Kitmaanus Sirr / كِتْمَانُ السِّرِّ (jg. rhs)",
+      "Satr / السَّتْرُ (menutup aib)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 15,
+    "kegiatan": "Ramai di kelas",
+    "total_pilar": 13,
+    "pilar_list": [
+      "Nashiihah / النَّصِيْحَة (nasehat)",
+      "Fashaahah / الفَصَاحَة (fasih bicara)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 16,
+    "kegiatan": "Merampas hak teman",
+    "total_pilar": 12,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "Waqaar / الوَقَار (wibawa)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)",
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)",
+      "Syajaa’ah / الشَّجَاعَة (berani)",
+      "Ghairah / الغَيْرَة (cemburu)",
+      "Munaafasah / المُنَافَسَة (kompetisi)"
+    ]
+  },
+  {
+    "no": 17,
+    "kegiatan": "Mogok belajar",
+    "total_pilar": 6,
+    "pilar_list": [
+      "Shidq / الصِّدْق (jujur)",
+      "‘Iffah / العِفَّة (jaga diri)",
+      "Shamt / الصَّمْت (diam)",
+      "Hayaa’ / الحَيَاء (malu)",
+      "Qanaa’ah /  القَنَاعَة (sederhana)",
+      "Shabr / الصَّبْر (sabar)"
+    ]
+  },
+  {
+    "no": 18,
+    "kegiatan": "Tertinggal pelajaran",
+    "total_pilar": 6,
+    "pilar_list": [
+      "Himmah / الهِمَّة (cita-cita tinggi)",
+      "Ihsaan / الاِحْسَان (perfeksionis)",
+      "‘Izzah / العِزَّة (harga diri)",
+      "Waqaar / الوَقَار (wibawa)",
+      "‘Aziimah / العَزِيمَة (tekad)",
+      "Nasyaath / النَّشَاط (semangat)"
+    ]
+  },
+  {
+    "no": 19,
+    "kegiatan": "Bermain ketika istirahat belajar",
+    "total_pilar": 9,
+    "pilar_list": [
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Ulfah / الاُلْفَة  (bersatu)",
+      "‘Adaalah / العَدَالَة (adil)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)"
+    ]
+  },
+  {
+    "no": 20,
+    "kegiatan": "Pembelajaran ceramah di kelas",
+    "total_pilar": 5,
+    "pilar_list": [
+      "Firaasah / الفِرَاسَة (firasat)",
+      "Nubl / النُّبْل (cerdik)",
+      "Husnuzhan / حُسْنُ الظَّن (psgk. baik)",
+      "Dzakaa’ / الذَّكَاء (cerdas)",
+      "Hikmah / الحِكْمَة  (hikmah)"
+    ]
+  },
+  {
+    "no": 21,
+    "kegiatan": "Membeli makanan yang tidak sehat",
+    "total_pilar": 3,
+    "pilar_list": [
+      "Shamt / الصَّمْت (diam)",
+      "Fashaahah / الفَصَاحَة (fasih bicara)",
+      "Nushrah / النُّصْرَة (menolong)"
+    ]
+  },
+  {
+    "no": 22,
+    "kegiatan": "Ta’ziyah",
+    "total_pilar": 11,
+    "pilar_list": [
+      "Shamt / الصَّمْت (diam)",
+      "Shabr / الصَّبْر (sabar)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Kitmaanus Sirr / كِتْمَانُ السِّرِّ (jg. rhs)",
+      "Satr / السَّتْرُ (menutup aib)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 23,
+    "kegiatan": "Menengok orang sakit",
+    "total_pilar": 10,
+    "pilar_list": [
+      "Shabr / الصَّبْر (sabar)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Kitmaanus Sirr / كِتْمَانُ السِّرِّ (jg. rhs)",
+      "Satr / السَّتْرُ (menutup aib)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Anaah / الاَنَاة (tidak tergesa)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  },
+  {
+    "no": 24,
+    "kegiatan": "Merusak barang",
+    "total_pilar": 5,
+    "pilar_list": [
+      "Shamt / الصَّمْت (diam)",
+      "Ta’aawun / التَّعَاوُن (kerjasama)",
+      "Wafaa’ / الوَفَاء (tepat janji)",
+      "Muzaah / المُزَاح (canda)",
+      "Itsaar /الاِيْثَار (melayani)"
+    ]
+  },
+  {
+    "no": 25,
+    "kegiatan": "Melayani tamu",
+    "total_pilar": 11,
+    "pilar_list": [
+      "Hayaa’ / الحَيَاء (malu)",
+      "Shabr / الصَّبْر (sabar)",
+      "Muzaah / المُزَاح (canda)",
+      "Basyaasyah / البَشَاشَة (berseri-seri)",
+      "Rifq / الرِّفْق (lemah lembut)",
+      "Rahmah / الرَّحْمَة (belas kasih)",
+      "Mahabbah / المَحَبَّة (penuh cinta)",
+      "Itsaar /الاِيْثَار (melayani)",
+      "Amaanah / الاَمَانَة (tanggung Jawab)",
+      "Hilm / الحِلْم (santun)",
+      "Tawaadhu’ / التَّوَاضُع (rendah hati)"
+    ]
+  }
+]

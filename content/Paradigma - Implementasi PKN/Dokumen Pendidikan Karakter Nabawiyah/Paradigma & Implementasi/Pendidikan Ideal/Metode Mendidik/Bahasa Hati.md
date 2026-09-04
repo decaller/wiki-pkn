@@ -102,7 +102,30 @@ Bagaimana orang tua membumikan Bahasa Hati setiap hari di rumah tangga? Terapkan
 
 ---
 
-## 5. Tanda-Tanda Anak yang Mengalami Kelaparan Bahasa Hati
+## 5. Tiga Modalitas Operasional Bahasa Hati dalam Evaluasi Santri (Manhaj SKIS)
+
+Dalam instrumen evaluasi **Laporan Perkembangan Karakter Santri (SKIS Semarang)**, Bahasa Hati dioperasionalkan ke dalam **Tiga Modalitas Fungsional Utama**. Setiap anak memiliki satu atau kombinasi modalitas yang paling cepat meresap dan meluluhkan hatinya:
+
+```mermaid
+graph TD
+    BH["Bahasa Hati (Lughatul Qalb)"] --> M1["1. Bahasa Pelayanan (Al-Khidmah)"]
+    BH --> M2["2. Bahasa Perlindungan (Al-Himayah)"]
+    BH --> M3["3. Bahasa Kebersamaan (Al-Mushahabah)"]
+
+    M1 --> D1["Melayani kemauan, menuruti permintaan wajar,<br/>menjaga rahasia, menutupi aib, memaafkan kesalahan"]
+    M2 --> D2["Membela saat terpojok, menghadirkan rasa aman batin,<br/>menepis kecemasan, menjadi benteng perlindungan"]
+    M3 --> D3["Menemani bermain, hadir utuh fisik & jiwa,<br/>merasakan empati anak, waktu tanpa gawai"]
+```
+
+| Modalitas Bahasa Hati | Bentuk Tindakan Pengasuhan Nyata | Tipe Anak yang Paling Responsif |
+|---|---|---|
+| **1. Bahasa Pelayanan (*Al-Khidmah*)** | Melayani kebutuhannya secara tulus, menuruti permintaan wajarnya dengan gembira, memegang rahasia pribadinya (*kitmanus sirr*), menutupi aib dan kekhilafannya dari orang lain (*satr*), lekas memaafkan saat ia bersalah, serta bersabar menahan amarah atas perilakunya. | Anak yang berwatak perasa (*Al-Masyhur*), anak yang memikul beban tugas berat, atau anak yang sedang mengalami kelelahan batin (*burnout*). |
+| **2. Bahasa Perlindungan (*Al-Himayah*)** | Membela martabat anak tatkala ia merasa terpojok oleh intimidasi luar, menghadirkan jaminan rasa aman batin (*al-amnu wan-najwah*), menjadi tempat berlindung pertama saat ia ketakutan, dan tidak pernah membanding-bandingkannya dengan orang lain. | Anak bertipe pencemas (*anxious*), anak yang menjadi korban perundungan (*bullying*), atau anak yang sedang krisis kepercayaan diri. |
+| **3. Bahasa Kebersamaan (*Al-Mushahabah*)** | Hadir utuh secara raga dan jiwa (*being there*), ikut bermain bersama dalam dunianya (menyusun balok, bersepeda, memasak), mendengarkan celotehnya dengan tatapan mata sejajar, dan merasakan apa yang dirasakan anak tanpa tergesa memotong pembicaraannya. | Anak yang sangat aktif bergerak (*Al-Fu'ad*), anak bertipe sosial ekstrovert (*Al-'Alaniyyah*), atau anak yang tangki cintanya kosong akibat ditinggal kerja orang tua. |
+
+---
+
+## 6. Tanda-Tanda Anak yang Mengalami Kelaparan Bahasa Hati
 
 Orang tua wajib waspada jika mendapati indikator patologis berikut pada diri anak:
 * **Tantrum Kronis & Agresif:** Sering memukul adik, membanting mainan, atau berteriak mencari perhatian (*attention seeking*).

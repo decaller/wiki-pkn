@@ -2,7 +2,7 @@
 
 Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (exhaustive mapping)** dalil-dalil Al-Qur'an yang relevan dengan setiap tema bahasan di seluruh berkas halaman **Wiki PKN**. Pemetaan ini dilengkapi dengan teks Arab berharakat lengkap, terjemahan resmi bahasa Indonesia, takhrij surah dan nomor ayat, relevansi pedagogis dalam **Pendidikan Karakter Nabawiyah (PKN)**, serta cuplikan rujukan dari kitab klasik **Tafsir Ibnu Katsir** melalui korpus **OpenBayan** (`data/shamela_corpus.db`).
 
-> **Statistik Pemetaan:** Terindeks **57 tema halaman pokok** dengan total lebih dari **110 ayat Al-Qur'an** pilihan.
+> **Statistik Pemetaan:** Terindeks **59 tema halaman pokok** dengan total lebih dari **110 ayat Al-Qur'an** pilihan.
 
 ---
 
@@ -33,6 +33,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 - [**Memerintah.md**](#-page-memerintahmd): *Sub-Bakat Memerintah: Kepemimpinan Adil, Keberanian Moral (Syaja'ah), Integritas, dan Tanggung Jawab* (3 Ayat)
 - [**Bekerja Sama.md**](#-page-bekerja-samamd): *Sub-Bakat Bekerja Sama: Sinergi Amal, Solidaritas Jama'ah, Tolong Menolong dalam Kebaikan* (3 Ayat)
 - [**Melayani.md**](#-page-melayanimd): *Sub-Bakat Melayani: Karakter Khidmah, Itsar (Mendahulukan Orang Lain), Kedermawanan, dan Keikhlasan* (3 Ayat)
+- [**Panduan Asesmen dan Observasi TB40.md**](#-page-panduan-asesmen-dan-observasi-tb40md): *Metodologi Asesmen Bakat Nabawiyah: Menemukan Syakilah Insan, Menghargai Keragaman Potensi, dan Alokasi Peran Kekhalifahan* (2 Ayat)
 
 ### 5. Fase Perkembangan Usia Nabawiyah
 - [**Perkembangan.md**](#-page-perkembanganmd): *Sunnatullah Tahapan Pertumbuhan: Dinamika dari Kelemahan Menuju Kekuatan dan Kedewasaan* (2 Ayat)
@@ -60,6 +61,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 - [**Implementasi.md**](#-page-implementasimd): *Implementasi Holistik PKN: Sinergi Rumah, Sekolah, dan Masyarakat dalam Menjaga Generasi* (2 Ayat)
 - [**4 Kaidah Implementasi.md**](#-page-4-kaidah-implementasimd): *4 Kaidah Emas Implementasi: Taisir (Kemudahan), Qudwah (Keteladanan), Rahmah, dan Tadarruj (Bertahap)* (4 Ayat)
 - [**4 Elemen Implementasi.md**](#-page-4-elemen-implementasimd): *4 Elemen Operasional PKN: Ghayah (Tujuan), Manhaj (Kurikulum), Uslub (Metode), dan Taqyim (Evaluasi)* (4 Ayat)
+- [**Kaidah Implementasi di Berbagai Lembaga.md**](#-page-kaidah-implementasi-di-berbagai-lembagamd): *Kaidah Penerapan PKN Lintas Ekosistem: Adaptabilitas Lembaga, Hirarki Tanggung Jawab, dan Kaidah Mencegah Kerusakan* (3 Ayat)
 - [**Tazkiyatun Nafs.md**](#-page-tazkiyatun-nafsmd): *Tazkiyatun Nafs: Penyucian Hati Orang Tua dan Pendidik sebagai Poros Restorasi Karakter Anak* (3 Ayat)
 - [**Tawakkal dan Doa.md**](#-page-tawakkal-dan-doamd): *Kekuatan Doa & Tawakkal: Ikhtiar Maksimal Orang Tua Diiringi Penyerahan Hasil Total kepada Allah* (4 Ayat)
 - [**Tanggung Jawab Pendidikan.md**](#-page-tanggung-jawab-pendidikanmd): *Tanggung Jawab Mutlak Pendidikan: Mandat Utama Orang Tua, Peringatan Generasi Lemah, dan Beban Fardhu 'Ain* (2 Ayat)
@@ -685,10 +687,34 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 
 ---
 
+<a id='page-panduan-asesmen-dan-observasi-tb40md'></a>
+### 19. 📄 `Panduan Asesmen dan Observasi TB40.md`
+**Tema Pokok Bahasan:** Metodologi Asesmen Bakat Nabawiyah: Menemukan Syakilah Insan, Menghargai Keragaman Potensi, dan Alokasi Peran Kekhalifahan
+
+> [!quote] Dalil Al-Qur'an 1: QS. Al-Isra': 84
+> **Naskah Ayat:**  
+> « قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا »
+> 
+> *"Katakanlah: 'Tiap-tiap orang berbuat menurut keadaannya (pembawaan fitrah/syakilah)-nya masing-masing.' Maka Tuhanmu lebih mengetahui siapa yang lebih benar jalannya."*
+> 
+> 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
+> 💡 **Relevansi Pedagogis PKN:** Pondasi wahyu asesmen TB-40: pengakuan syariat terhadap keunikan rancang bangun fitrah setiap anak yang menolak standardisasi kaku pabrik.
+
+> [!quote] Dalil Al-Qur'an 2: QS. Al-An'am: 165
+> **Naskah Ayat:**  
+> « وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِّيَبْلُوَكُمْ فِي مَا آتَاكُمْ »
+> 
+> *"Dan Dialah yang menjadikan kamu penguasa-penguasa di bumi dan Dia meninggikan sebahagian kamu atas sebahagian (yang lain) beberapa derajat, untuk mengujimu tentang apa yang diberikan-Nya kepadamu..."*
+> 
+> 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
+> 💡 **Relevansi Pedagogis PKN:** Hikmah perbedaan derajat potensi bakat: ujian amanah kekhalifahan di mana setiap insan dimintai pertanggungjawaban atas porsi kelebihan uniknya.
+
+---
+
 ## 5. Fase Perkembangan Usia Nabawiyah
 
 <a id='page-perkembanganmd'></a>
-### 19. 📄 `Perkembangan.md`
+### 20. 📄 `Perkembangan.md`
 **Tema Pokok Bahasan:** Sunnatullah Tahapan Pertumbuhan: Dinamika dari Kelemahan Menuju Kekuatan dan Kedewasaan
 
 > [!quote] Dalil Al-Qur'an 1: QS. Ar-Rum: 54
@@ -712,7 +738,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-thufulahmd'></a>
-### 20. 📄 `Thufulah.md`
+### 21. 📄 `Thufulah.md`
 **Tema Pokok Bahasan:** Fase Thufulah (0–7 Tahun): Fitrah Bermain, Kepolosan Anak, Pemenuhan Kasih Sayang Tanpa Tekanan
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nur: 31
@@ -745,7 +771,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-tamyizmd'></a>
-### 21. 📄 `Tamyiz.md`
+### 22. 📄 `Tamyiz.md`
 **Tema Pokok Bahasan:** Fase Tamyiz (7–10 Tahun): Gerbang Nalar, Pengajaran Adab Privasi, dan Pembiasaan Shalat
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nur: 58
@@ -769,7 +795,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-murahaqahmd'></a>
-### 22. 📄 `Murahaqah.md`
+### 23. 📄 `Murahaqah.md`
 **Tema Pokok Bahasan:** Fase Murahaqah (10 Tahun–Baligh): Pendisiplinan Tegas, Ujian Rusyd (Kemandirian), dan Pemagangan Karya
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nisa': 6
@@ -793,7 +819,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-syababmd'></a>
-### 23. 📄 `Syabab.md`
+### 24. 📄 `Syabab.md`
 **Tema Pokok Bahasan:** Fase Syabab (15+ Tahun / Pasca Baligh): Kedewasaan Penuh (Akil-Baligh), Kemandirian Sosial, dan Karya Peradaban
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Kahfi: 13
@@ -828,7 +854,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ## 6. Metodologi, Tiga Bahasa & Pendidikan Ideal
 
 <a id='page-metode-mendidikmd'></a>
-### 24. 📄 `Metode Mendidik.md`
+### 25. 📄 `Metode Mendidik.md`
 **Tema Pokok Bahasan:** Metodologi Tarbiyah Nabawiyah: Hikmah, Mau'izhah Hasanah, dan Hirarki Tiga Bahasa
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nahl: 125
@@ -852,7 +878,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-bahasa-hatimd'></a>
-### 25. 📄 `Bahasa Hati.md`
+### 26. 📄 `Bahasa Hati.md`
 **Tema Pokok Bahasan:** Bahasa Hati: Kelemahlembutan, Kasih Sayang Batin, Keteladanan Autentik, dan Edukasi Rasa
 
 > [!quote] Dalil Al-Qur'an 1: QS. Ali 'Imran: 159
@@ -876,7 +902,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-bahasa-lisanmd'></a>
-### 26. 📄 `Bahasa Lisan.md`
+### 27. 📄 `Bahasa Lisan.md`
 **Tema Pokok Bahasan:** Bahasa Lisan: 6 Kaidah Komunikasi Al-Qur'an (Sadida, Layyina, Baligha, Maysura, Karima, Husna)
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Ahzab: 70–71
@@ -918,7 +944,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-bahasa-tanganmd'></a>
-### 27. 📄 `Bahasa Tangan.md`
+### 28. 📄 `Bahasa Tangan.md`
 **Tema Pokok Bahasan:** Bahasa Tangan: Ketegasan Terukur, Disiplin Ta'dib Berbatas Syariat, dan Larangan Menyakiti
 
 > [!quote] Dalil Al-Qur'an 1: QS. Shad: 44
@@ -942,7 +968,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-pendidikan-idealmd'></a>
-### 28. 📄 `Pendidikan Ideal.md`
+### 29. 📄 `Pendidikan Ideal.md`
 **Tema Pokok Bahasan:** Kurikulum Pendidikan Ideal: Teladan Luqman Al-Hakim dalam Membangun Karakter Generasi
 
 > [!quote] Dalil Al-Qur'an 1: QS. Luqman: 12–19
@@ -966,7 +992,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-benang-merah-pendidikanmd'></a>
-### 29. 📄 `Benang Merah Pendidikan.md`
+### 30. 📄 `Benang Merah Pendidikan.md`
 **Tema Pokok Bahasan:** Benang Merah PKN: Prinsip Jalan Tengah (Wasathiyah) Menghindari Tafrith dan Ifrath
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Fatihah: 5–7
@@ -990,7 +1016,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-pembelajaran-alamiahmd'></a>
-### 30. 📄 `Pembelajaran Alamiah.md`
+### 31. 📄 `Pembelajaran Alamiah.md`
 **Tema Pokok Bahasan:** Pembelajaran Alamiah: Menatap Alam Kauniyah, Eksplorasi Nyata, dan Pembebasan dari Sekat Kelas
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-A'raf: 185
@@ -1014,7 +1040,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-luka-dan-hutang-pengasuhanmd'></a>
-### 31. 📄 `Luka dan Hutang Pengasuhan.md`
+### 32. 📄 `Luka dan Hutang Pengasuhan.md`
 **Tema Pokok Bahasan:** Luka Pengasuhan: Dampak Penelantaran Hak Anak, Dosa Lalai, dan Pertanggungjawaban di Akhirat
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Isra': 24
@@ -1047,7 +1073,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-euforiamd'></a>
-### 32. 📄 `Euforia.md`
+### 33. 📄 `Euforia.md`
 **Tema Pokok Bahasan:** Mengendalikan Sindrom Euforia: Bahaya Tergesa-gesa (Isti'jal), Istiqamah, dan Ketahanan Mental
 
 > [!quote] Dalil Al-Qur'an 1: QS. Ali 'Imran: 200
@@ -1071,7 +1097,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-recoverymd'></a>
-### 33. 📄 `Recovery.md`
+### 34. 📄 `Recovery.md`
 **Tema Pokok Bahasan:** Metodologi Pemulihan Fitrah: Taubat Nasuha Orang Tua, Rekonsiliasi, dan Restorasi Karakter
 
 > [!quote] Dalil Al-Qur'an 1: QS. Az-Zumar: 53
@@ -1104,7 +1130,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-imunitas-sosialmd'></a>
-### 34. 📄 `Imunitas Sosial.md`
+### 35. 📄 `Imunitas Sosial.md`
 **Tema Pokok Bahasan:** Imunitas Sosial: Membentengi Fitrah dari Lingkungan Toksik, Sahabat Shalih, dan Filter Budaya
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Kahfi: 28
@@ -1137,7 +1163,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-batas-toleransimd'></a>
-### 35. 📄 `Batas Toleransi.md`
+### 36. 📄 `Batas Toleransi.md`
 **Tema Pokok Bahasan:** Batas Toleransi: Zonasi Batas Syariat (Hima), Proteksi Pornografi & Syubhat, serta Kaidah Saddudz Dzari'ah
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 187 & 229
@@ -1170,7 +1196,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-bank-studi-kasusmd'></a>
-### 36. 📄 `Bank Studi Kasus.md`
+### 37. 📄 `Bank Studi Kasus.md`
 **Tema Pokok Bahasan:** Resolusi Kasus Pengasuhan dari Kisah Al-Qur'an: Sabar Jamil Ya'qub AS dan Pemeliharaan Ibunda Musa AS
 
 > [!quote] Dalil Al-Qur'an 1: QS. Yusuf: 18 & 83
@@ -1196,7 +1222,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ## 7. Implementasi, Kaidah, Elemen & Peran
 
 <a id='page-implementasimd'></a>
-### 37. 📄 `Implementasi.md`
+### 38. 📄 `Implementasi.md`
 **Tema Pokok Bahasan:** Implementasi Holistik PKN: Sinergi Rumah, Sekolah, dan Masyarakat dalam Menjaga Generasi
 
 > [!quote] Dalil Al-Qur'an 1: QS. At-Tahrim: 6
@@ -1220,7 +1246,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-4-kaidah-implementasimd'></a>
-### 38. 📄 `4 Kaidah Implementasi.md`
+### 39. 📄 `4 Kaidah Implementasi.md`
 **Tema Pokok Bahasan:** 4 Kaidah Emas Implementasi: Taisir (Kemudahan), Qudwah (Keteladanan), Rahmah, dan Tadarruj (Bertahap)
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 185
@@ -1262,7 +1288,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-4-elemen-implementasimd'></a>
-### 39. 📄 `4 Elemen Implementasi.md`
+### 40. 📄 `4 Elemen Implementasi.md`
 **Tema Pokok Bahasan:** 4 Elemen Operasional PKN: Ghayah (Tujuan), Manhaj (Kurikulum), Uslub (Metode), dan Taqyim (Evaluasi)
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Mu'minun: 115
@@ -1303,8 +1329,41 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 
 ---
 
+<a id='page-kaidah-implementasi-di-berbagai-lembagamd'></a>
+### 41. 📄 `Kaidah Implementasi di Berbagai Lembaga.md`
+**Tema Pokok Bahasan:** Kaidah Penerapan PKN Lintas Ekosistem: Adaptabilitas Lembaga, Hirarki Tanggung Jawab, dan Kaidah Mencegah Kerusakan
+
+> [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 286
+> **Naskah Ayat:**  
+> « لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا »
+> 
+> *"Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya..."*
+> 
+> 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 97): "أنه كان إذا دخل بيته نشر المصحف فقرأ فيه. وقال حماد (¬١) أيضًا، عن ثابت، عن عبد الرحمن بن أبي ليلى، عن ابن مسعود أنه كان إذا اجتمع إليه إخوانه نشروا المصحف (فقرأوا) (¬٢) وفسر لهم. إسناد صحيح. وقال حماد بن سلمة (¬٣)، عن ح..."  
+> 💡 **Relevansi Pedagogis PKN:** Kaidah fleksibilitas institusional: implementasi PKN di sekolah, pesantren, ma'had tahfiz, maupun komunitas disesuaikan dengan kapasitas dan kekhasan masing-masing tanpa uniformitas kaku.
+
+> [!quote] Dalil Al-Qur'an 2: QS. An-Nisa': 58
+> **Naskah Ayat:**  
+> « إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ »
+> 
+> *"Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya, dan (menyuruh kamu) apabila menetapkan hukum di antara manusia supaya kamu menetapkan dengan adil..."*
+> 
+> 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ت السلامة* (ج 2 ص 232): ""الإضرار في الوصية من الكبائر". وكذا رواه ابن أبي حاتم عن أبي سعيد الأشج، عن عائذ بن حبيب، عن داود بن أبي هند. ورواه ابن جرير من حديث جماعة من الحفاظ، عن داود، عن عكرمة، عن ابن عباس موقوفا (¬١) وفي بعضها: ويقرأ ابن عباس:..."  
+> 💡 **Relevansi Pedagogis PKN:** Amanah kepemimpinan institusi pendidikan: menempatkan guru, kurikulum, dan sarana secara adil sesuai fitrah dan perkembangan peserta didik.
+
+> [!quote] Dalil Al-Qur'an 3: QS. Al-A'raf: 199
+> **Naskah Ayat:**  
+> « خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ »
+> 
+> *"Jadilah engkau pemaaf dan suruhlah orang mengerjakan yang ma'ruf, serta berpalinglah dari orang-orang yang bodoh."*
+> 
+> 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 161): "عن النبي ﷺ أنه قال: "وإذا قرأ فأنصتوا" وقد صححه مسلم (¬١) بن الحجاج أيضًا، فدل هذان الحديثان على صحة هذا القول؛ وهو قول قديم للشافعي ﵀؛ والله أعلم، ورواية عن الإمام أحمد بن حنبل رحمه الله تعالى. والغرض من ذكر هذه المسائل..."  
+> 💡 **Relevansi Pedagogis PKN:** Kearifan kultural lembaga pendidikan dalam membangun sinergi bersama wali murid dan masyarakat bertahap penuh kebijaksanaan.
+
+---
+
 <a id='page-tazkiyatun-nafsmd'></a>
-### 40. 📄 `Tazkiyatun Nafs.md`
+### 42. 📄 `Tazkiyatun Nafs.md`
 **Tema Pokok Bahasan:** Tazkiyatun Nafs: Penyucian Hati Orang Tua dan Pendidik sebagai Poros Restorasi Karakter Anak
 
 > [!quote] Dalil Al-Qur'an 1: QS. Asy-Syams: 9–10
@@ -1337,7 +1396,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-tawakkal-dan-doamd'></a>
-### 41. 📄 `Tawakkal dan Doa.md`
+### 43. 📄 `Tawakkal dan Doa.md`
 **Tema Pokok Bahasan:** Kekuatan Doa & Tawakkal: Ikhtiar Maksimal Orang Tua Diiringi Penyerahan Hasil Total kepada Allah
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Furqan: 74
@@ -1379,7 +1438,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-tanggung-jawab-pendidikanmd'></a>
-### 42. 📄 `Tanggung Jawab Pendidikan.md`
+### 44. 📄 `Tanggung Jawab Pendidikan.md`
 **Tema Pokok Bahasan:** Tanggung Jawab Mutlak Pendidikan: Mandat Utama Orang Tua, Peringatan Generasi Lemah, dan Beban Fardhu 'Ain
 
 > [!quote] Dalil Al-Qur'an 1: QS. At-Tahrim: 6
@@ -1403,7 +1462,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-peran-ayah-dan-bundamd'></a>
-### 43. 📄 `Peran Ayah dan Bunda.md`
+### 45. 📄 `Peran Ayah dan Bunda.md`
 **Tema Pokok Bahasan:** Dwi-Tunggal Pengasuhan: Qawwamah Ayah (Visi, Ketegasan, Arah) dan Rahimah Bunda (Madrasah Cinta Pertama)
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nisa': 34
@@ -1436,7 +1495,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-peran-guru-dan-lembaga-pendidikanmd'></a>
-### 44. 📄 `Peran Guru dan Lembaga Pendidikan.md`
+### 46. 📄 `Peran Guru dan Lembaga Pendidikan.md`
 **Tema Pokok Bahasan:** Peran Guru dan Sekolah: Waratsatul Anbiya', Pengasah Bakat Murid, dan Mitra Pendukung Keluarga
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Mujadilah: 11
@@ -1469,7 +1528,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-hak-dan-kewajibanmd'></a>
-### 45. 📄 `Hak dan Kewajiban.md`
+### 47. 📄 `Hak dan Kewajiban.md`
 **Tema Pokok Bahasan:** Keadilan Hak & Kewajiban Pengasuhan: Keseimbangan Syariat Menjaga Perlindungan Anak dan Bakti Generasi
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 233
@@ -1502,7 +1561,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-dokumen-pendidikan-karakter-nabawiyahmd'></a>
-### 46. 📄 `Dokumen Pendidikan Karakter Nabawiyah.md`
+### 48. 📄 `Dokumen Pendidikan Karakter Nabawiyah.md`
 **Tema Pokok Bahasan:** Grand Design Dokumen PKN: Al-Qur'an sebagai Petunjuk Mutlak Menuju Peradaban Rabbani
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 2
@@ -1526,7 +1585,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-faq-ringkasmd'></a>
-### 47. 📄 `FAQ Ringkas.md`
+### 49. 📄 `FAQ Ringkas.md`
 **Tema Pokok Bahasan:** Tanya Jawab & Advokasi Edukatif: Adab Bertanya kepada Ahli Ilmu dan Tabayyun Informasi
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nahl: 43
@@ -1550,7 +1609,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-indexmd'></a>
-### 48. 📄 `index.md`
+### 50. 📄 `index.md`
 **Tema Pokok Bahasan:** Gerbang Utama Wiki PKN: Pohon Peradaban Karakter Berakar Iman dan Berbuah Amal
 
 > [!quote] Dalil Al-Qur'an 1: QS. Ibrahim: 24–25
@@ -1576,7 +1635,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ## 8. Simpul Navigasi & Insight Teknis
 
 <a id='page-insightmd'></a>
-### 49. 📄 `Insight.md`
+### 51. 📄 `Insight.md`
 **Tema Pokok Bahasan:** Wawasan Mendalam & Pijakan Riset Ilmiah PKN
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Isra': 36
@@ -1591,7 +1650,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-insight-and-teknismd'></a>
-### 50. 📄 `Insight & Teknis.md`
+### 52. 📄 `Insight & Teknis.md`
 **Tema Pokok Bahasan:** Integrasi Wawasan Konseptual dan Panduan Teknis Lapangan
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Kahfi: 110
@@ -1606,7 +1665,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-arahan-teknis-implementasimd'></a>
-### 51. 📄 `Arahan Teknis Implementasi.md`
+### 53. 📄 `Arahan Teknis Implementasi.md`
 **Tema Pokok Bahasan:** Prosedur Standar & Checklist Lapangan Eksekusi PKN
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Jumu'ah: 10
@@ -1621,7 +1680,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-sotabhmd'></a>
-### 52. 📄 `SOTABH.md`
+### 54. 📄 `SOTABH.md`
 **Tema Pokok Bahasan:** Sekolah Orang Tua Berbasis Hadits: Kurikulum Transformasi Rumah Tangga Nabawiyah
 
 > [!quote] Dalil Al-Qur'an 1: QS. Luqman: 13
@@ -1636,7 +1695,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-kaidah-and-elemenmd'></a>
-### 53. 📄 `Kaidah & Elemen.md`
+### 55. 📄 `Kaidah & Elemen.md`
 **Tema Pokok Bahasan:** Struktur Induk Prinsip dan Komponen Eksekusi PKN
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Baqarah: 177
@@ -1651,7 +1710,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-internal-and-eksternalmd'></a>
-### 54. 📄 `Internal & Eksternal.md`
+### 56. 📄 `Internal & Eksternal.md`
 **Tema Pokok Bahasan:** Harmonisasi Faktor Pembentuk Karakter: Transformasi Batin dan Pengaruh Lingkungan
 
 > [!quote] Dalil Al-Qur'an 1: QS. Ar-Ra'd: 11
@@ -1666,7 +1725,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-peran-and-tanggung-jawabmd'></a>
-### 55. 📄 `Peran & Tanggung Jawab.md`
+### 57. 📄 `Peran & Tanggung Jawab.md`
 **Tema Pokok Bahasan:** Akuntabilitas Pribadi & Sosial dalam Pendidikan Generasi
 
 > [!quote] Dalil Al-Qur'an 1: QS. Al-Muddatstsir: 38
@@ -1681,7 +1740,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-referensi-kajian-videomd'></a>
-### 56. 📄 `Referensi Kajian Video.md`
+### 58. 📄 `Referensi Kajian Video.md`
 **Tema Pokok Bahasan:** Kurasi Ilmu Nabawiyah: Menyimak Pelajaran Terbaik dan Mengikutinya
 
 > [!quote] Dalil Al-Qur'an 1: QS. Az-Zumar: 18
@@ -1696,7 +1755,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 ---
 
 <a id='page-paradigma-and-implementasimd'></a>
-### 57. 📄 `Paradigma & Implementasi.md`
+### 59. 📄 `Paradigma & Implementasi.md`
 **Tema Pokok Bahasan:** Arsitektur Lengkap Paradigma dan Implementasi PKN
 
 > [!quote] Dalil Al-Qur'an 1: QS. An-Nahl: 89
