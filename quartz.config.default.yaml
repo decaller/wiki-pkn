@@ -130,6 +130,11 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+  - source: "./plugins/outline-nav"
+    enabled: true
+    layout:
+      position: left
+      priority: 40
   - source: "@quartz-community/explorer"
     enabled: true
     layout:

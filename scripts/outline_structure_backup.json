@@ -1,0 +1,509 @@
+{
+  "66c1eb9b-3f44-4d24-87e6-4b55cdac29f8": {
+    "collection": {
+      "id": "66c1eb9b-3f44-4d24-87e6-4b55cdac29f8",
+      "url": "/collection/paradigma-implementasi-pkn-BsRtB0H1dr",
+      "urlId": "BsRtB0H1dr",
+      "name": "Paradigma - Implementasi PKN",
+      "description": null,
+      "sort": {
+        "field": "index",
+        "direction": "asc"
+      },
+      "icon": "collection",
+      "index": "8",
+      "color": "#42DED1",
+      "permission": "read_write",
+      "commenting": true,
+      "sharing": true,
+      "createdAt": "2025-11-25T03:30:49.596Z",
+      "updatedAt": "2025-12-05T02:26:10.694Z",
+      "deletedAt": null,
+      "archivedAt": null
+    },
+    "structure": [
+      {
+        "id": "a10dad01-7472-4a58-ae17-6e10a788471e",
+        "url": "/doc/template-k3aUQvCxbw",
+        "title": "Template",
+        "children": [
+          {
+            "id": "963b6050-98b9-4a27-8d6e-47653576ab77",
+            "url": "/doc/template-tema-ovbtgPO7dL",
+            "title": "Template Tema",
+            "children": []
+          },
+          {
+            "id": "5fb4dbb0-e182-41a2-9455-a2ba7d736a91",
+            "url": "/doc/template-elemen-karakteristik-bFdc9GmTa4",
+            "title": "Template Elemen Karakteristik",
+            "children": []
+          },
+          {
+            "id": "1b139e50-0a72-48f8-bf15-e3b75ae4074d",
+            "url": "/doc/template-elemen-refleksi-implementas-risiko-dan-tautan-RSfGsRSBv2",
+            "title": "Template Elemen Refleksi, Implementas, Risiko, dan Tautan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8222ed63-68b3-42c4-abeb-8e8d3ead983c",
+        "url": "/doc/dokumen-pendidikan-karakter-nabawiyah-72kJlF6vDe",
+        "icon": "seedling",
+        "color": "#00D084",
+        "title": "Dokumen Pendidikan Karakter Nabawiyah",
+        "children": [
+          {
+            "id": "3fac89cd-ad78-4eee-808a-f830269e0607",
+            "url": "/doc/faq-ringkas-4kwNDVyVIq",
+            "icon": "info",
+            "color": "#FF4DFA",
+            "title": "FAQ Ringkas",
+            "children": []
+          },
+          {
+            "id": "7186d3c8-2b0d-466e-a750-e73e7d0e9a70",
+            "url": "/doc/paradigma-implementasi-3AD4upYeOU",
+            "title": "Paradigma & Implementasi",
+            "children": [
+              {
+                "id": "3af9e1e3-01ed-4912-b547-e192bc8eb943",
+                "url": "/doc/paradigma-insan-AjEYeGvSa5",
+                "icon": "universal-access",
+                "color": "#FFBE0B",
+                "title": "Paradigma Insan",
+                "children": [
+                  {
+                    "id": "8171f58b-76aa-4e58-8a30-5f1881c72379",
+                    "url": "/doc/tujuan-hidup-manusia-3nn47xIho4",
+                    "icon": "universal-access",
+                    "color": "#4E5C6E",
+                    "title": "Tujuan Hidup Manusia",
+                    "children": []
+                  },
+                  {
+                    "id": "4e97143a-1eda-4e7d-bf01-ffbd52ba7b04",
+                    "url": "/doc/bersatunya-ruh-dan-jasad-membentuk-jiwa-WQxaEDWYMc",
+                    "icon": "universal-access",
+                    "color": "#4E5C6E",
+                    "title": "Bersatunya Ruh dan Jasad Membentuk Jiwa",
+                    "children": []
+                  },
+                  {
+                    "id": "e5261bb0-0c8c-424c-b1b2-083b5546f66a",
+                    "url": "/doc/pembagian-jiwa-chpv5PyQFn",
+                    "icon": "universal-access",
+                    "color": "#4E5C6E",
+                    "title": "Pembagian Jiwa",
+                    "children": [
+                      {
+                        "id": "ca799332-9391-4cae-92db-be7693a575ae",
+                        "url": "/doc/jiwa-ammarah-CzZ8pAdtgW",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Jiwa Ammarah",
+                        "children": []
+                      },
+                      {
+                        "id": "5596c2af-ff94-4d95-b838-de98f7bd779e",
+                        "url": "/doc/jiwa-lawwamah-WEt7dFbb7T",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Jiwa Lawwamah",
+                        "children": []
+                      },
+                      {
+                        "id": "17c85561-092d-4e7d-89e3-b8d8ddd3bf4c",
+                        "url": "/doc/jiwa-muthmainnah-mxeFtzXL1F",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Jiwa Muthmainnah",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2ef99734-85be-4639-9c18-82c7d7f0ef93",
+                    "url": "/doc/fitrah-eIoOqKDb7o",
+                    "icon": "universal-access",
+                    "color": "#4E5C6E",
+                    "title": "Fitrah",
+                    "children": [
+                      {
+                        "id": "4f31c70b-cb7a-4994-a8bd-b062827ff67e",
+                        "url": "/doc/fitrah-iman-karakter-iman-C3uJbHeEWs",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Fitrah Iman - Karakter Iman",
+                        "children": [
+                          {
+                            "id": "f8808edb-9674-4ea7-b46c-2f31312ae34a",
+                            "url": "/doc/tangki-cinta-fYYCl9WKav",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Tangki Cinta",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "01b062de-2c8b-4ed7-99a7-9843f2b563aa",
+                        "url": "/doc/fitrah-belajar-karakter-belajar-A0tcFy1Yvq",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Fitrah Belajar - Karakter Belajar",
+                        "children": []
+                      },
+                      {
+                        "id": "c248ed1a-e8e0-466c-9a5b-b61f29c2d84e",
+                        "url": "/doc/fitrah-bakat-karater-bakat-MmJJqCl2vt",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Fitrah Bakat - Karater Bakat",
+                        "children": [
+                          {
+                            "id": "bcf58496-103b-4c1d-a763-3eff44c08a34",
+                            "url": "/doc/bakat-bekerja-keras-dHg0OIVoXM",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Bekerja Keras",
+                            "children": []
+                          },
+                          {
+                            "id": "4a337f4f-4896-49c0-8d38-40275da75533",
+                            "url": "/doc/bakat-memerintah-RLhLi9hAx2",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Memerintah",
+                            "children": []
+                          },
+                          {
+                            "id": "d69cae67-45d6-4e1b-bb13-8c9f8ab33778",
+                            "url": "/doc/bakat-berpikir-06V1nAxddE",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Berpikir",
+                            "children": []
+                          },
+                          {
+                            "id": "1bf72b99-2155-4bd0-a0a7-851eb6f038af",
+                            "url": "/doc/bakat-bekerja-sama-S9Gjajz4Yd",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Bekerja Sama",
+                            "children": []
+                          },
+                          {
+                            "id": "f0964633-d116-4fb3-83a5-deae769b5376",
+                            "url": "/doc/bakat-berperasaan-rcAqggFJLR",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Berperasaan",
+                            "children": []
+                          },
+                          {
+                            "id": "88a1a788-34b9-4b41-9ec1-077f3fe9dd07",
+                            "url": "/doc/bakat-melayani-jMxpNlcayA",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Bakat Melayani",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5679c9e5-3eef-408d-a209-2081ed3dedbd",
+                        "url": "/doc/fitrah-perkembangan-nild5XyccE",
+                        "icon": "universal-access",
+                        "color": "#4E5C6E",
+                        "title": "Fitrah Perkembangan",
+                        "children": [
+                          {
+                            "id": "cd9a8925-ae79-4118-bd21-286e32d70a36",
+                            "url": "/doc/fase-thufulah-Mg9OlPxCwD",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Fase Thufulah",
+                            "children": []
+                          },
+                          {
+                            "id": "64a3a2af-659b-47a2-ae0a-f58646353d4f",
+                            "url": "/doc/fase-tamyiz-lW0UTuDEle",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Fase Tamyiz",
+                            "children": []
+                          },
+                          {
+                            "id": "ff08289a-3516-4b2f-b01e-2fec50066a61",
+                            "url": "/doc/fase-murahaqah-PgPSHmIBCO",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Fase Murahaqah",
+                            "children": []
+                          },
+                          {
+                            "id": "4dbc4cb8-c7cd-43a5-a963-c166989bc50a",
+                            "url": "/doc/fase-syabab-cpxI4LPjcD",
+                            "icon": "universal-access",
+                            "color": "#4E5C6E",
+                            "title": "Fase Syabab",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cabae265-e553-42f6-8c26-9953edb2c984",
+                "url": "/doc/paradigma-pendidikan-ideal-hyAbtMkY3I",
+                "icon": "academicCap",
+                "color": "#FF5C80",
+                "title": "Paradigma Pendidikan Ideal",
+                "children": [
+                  {
+                    "id": "8a09b6af-5e63-4d15-bed6-c6f93ffb69b5",
+                    "url": "/doc/benang-merah-pendidikan-pTvE0OhISr",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Benang Merah Pendidikan",
+                    "children": []
+                  },
+                  {
+                    "id": "cf5bf5c3-366c-4aa7-8738-c177d3735010",
+                    "url": "/doc/metode-mendidik-bJj5fWFQ0W",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Metode Mendidik",
+                    "children": [
+                      {
+                        "id": "74ef48b6-afc1-42d0-9247-83b8d8f4ee3a",
+                        "url": "/doc/bahasa-hati-EFCYYs1sTx",
+                        "icon": "academicCap",
+                        "color": "#4E5C6E",
+                        "title": "Bahasa Hati",
+                        "children": []
+                      },
+                      {
+                        "id": "fa656883-d653-4d5d-bfa9-da135795728e",
+                        "url": "/doc/bahasa-lisan-t4ESUUrSl5",
+                        "icon": "academicCap",
+                        "color": "#4E5C6E",
+                        "title": "Bahasa Lisan",
+                        "children": []
+                      },
+                      {
+                        "id": "6abb082f-adda-4464-885b-ece1f196e792",
+                        "url": "/doc/bahasa-tangan-A9G2YKYT5a",
+                        "icon": "academicCap",
+                        "color": "#4E5C6E",
+                        "title": "Bahasa Tangan",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "e5eb5b6e-4bfd-403b-a861-8d64d3f4e468",
+                    "url": "/doc/pembelajaran-alamiah-VznhhoNIh8",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Pembelajaran Alamiah",
+                    "children": []
+                  },
+                  {
+                    "id": "10d9fb90-a769-47f7-bbf9-b1892d9985a8",
+                    "url": "/doc/luka-dan-hutang-pengasuhan-kMtdqTDncq",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Luka dan Hutang Pengasuhan",
+                    "children": [
+                      {
+                        "id": "97d344f0-4d24-480f-96a7-6461776df582",
+                        "url": "/doc/recovery-HqxS6vzORo",
+                        "icon": "academicCap",
+                        "color": "#4E5C6E",
+                        "title": "Recovery",
+                        "children": []
+                      },
+                      {
+                        "id": "3dcc9af8-c085-4240-94d3-9f09cb318f88",
+                        "url": "/doc/euforia-xvffZme6ba",
+                        "icon": "academicCap",
+                        "color": "#4E5C6E",
+                        "title": "Euforia",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d0cf1c6d-423c-4589-89b9-b4b1470ca415",
+                    "url": "/doc/batas-toleransi-RhXJOO6Y1a",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Batas Toleransi",
+                    "children": []
+                  },
+                  {
+                    "id": "94109241-b508-4431-afc1-82717e6886a6",
+                    "url": "/doc/imunitas-sosial-Rh3YErwIcq",
+                    "icon": "academicCap",
+                    "color": "#4E5C6E",
+                    "title": "Imunitas Sosial",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e5a476a-4fd0-4e39-8517-bc816f525f41",
+                "url": "/doc/paradigma-implementasi-aHjPR18qzG",
+                "icon": "tools",
+                "color": "#0366D6",
+                "title": "Paradigma Implementasi",
+                "children": [
+                  {
+                    "id": "885421a6-38c0-4d80-a173-0fee7317dc57",
+                    "url": "/doc/4-kaidah-implementasi-vLfrtcblTa",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "4 Kaidah Implementasi",
+                    "children": []
+                  },
+                  {
+                    "id": "4ebbfd50-c8ca-4f3d-8372-80fdddf3f6b0",
+                    "url": "/doc/4-elemen-implementasi-aRK2GsiGel",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "4 Elemen Implementasi",
+                    "children": []
+                  },
+                  {
+                    "id": "a63d0639-fffb-40fc-8920-b9c9aba13ece",
+                    "url": "/doc/tazkiyatun-nafs-rQeXq3REkV",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "Tazkiyatun Nafs",
+                    "children": []
+                  },
+                  {
+                    "id": "b82f9368-98b8-4293-ad45-94e80e4aee8b",
+                    "url": "/doc/tawakkal-dan-doa-Bnu943NBVN",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "Tawakkal dan Doa",
+                    "children": []
+                  },
+                  {
+                    "id": "37486e5c-8332-487d-bce1-9b16abdb57a8",
+                    "url": "/doc/tanggung-jawab-pendidikan-5phCjvq1Bp",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "Tanggung Jawab Pendidikan",
+                    "children": []
+                  },
+                  {
+                    "id": "668bc3ea-7d39-4e98-823a-ea6182c74d0a",
+                    "url": "/doc/peran-ayah-dan-bunda-cXD6QQQGNX",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "Peran Ayah dan Bunda",
+                    "children": []
+                  },
+                  {
+                    "id": "71b60eaa-8cd6-4195-992f-11ee544a240b",
+                    "url": "/doc/peran-guru-dan-lembaga-pendidikan-J5p9tHCJ8P",
+                    "icon": "tools",
+                    "color": "#4E5C6E",
+                    "title": "Peran Guru dan Lembaga Pendidikan",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "52cd839d-556a-4ed5-a54c-572c9b4c3f3e",
+            "url": "/doc/insight-teknis-hXxkWaiz91",
+            "title": "Insight & Teknis",
+            "children": [
+              {
+                "id": "2a21d78c-d4f1-41c1-bd1b-9f221fc2d769",
+                "url": "/doc/insight-14Dl2DPJgH",
+                "icon": "lightbulb",
+                "color": "#FFBE0B",
+                "title": "Insight",
+                "children": [
+                  {
+                    "id": "8b7f4ad3-c574-43fc-b4ed-f183c36519cc",
+                    "url": "/doc/sotabh-9m9cAggxcd",
+                    "title": "SOTABH",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "670023ac-2080-4f0e-aa78-7725119e7cf2",
+                "url": "/doc/arahan-teknis-implementasi-zXgEH59Via",
+                "icon": "shapes",
+                "color": "#9E5CF7",
+                "title": "Arahan Teknis Implementasi",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ad06deb7-644b-4403-b411-61ceddec1afa": {
+    "collection": {
+      "id": "ad06deb7-644b-4403-b411-61ceddec1afa",
+      "url": "/collection/welcome-iqRfXti2UW",
+      "urlId": "iqRfXti2UW",
+      "name": "Welcome",
+      "description": "This collection is a quick guide to what Outline is all about. Feel free to delete this collection once your team is up to speed with the basics!",
+      "sort": {
+        "field": "index",
+        "direction": "asc"
+      },
+      "icon": null,
+      "index": "P",
+      "color": null,
+      "permission": "read_write",
+      "commenting": null,
+      "sharing": true,
+      "createdAt": "2025-11-25T03:29:44.411Z",
+      "updatedAt": "2025-11-25T03:29:44.493Z",
+      "deletedAt": null,
+      "archivedAt": null
+    },
+    "structure": [
+      {
+        "id": "09a63e63-a495-4c02-bb3f-5a00d0045794",
+        "url": "/doc/what-is-outline-17yWdEG28o",
+        "title": "What is Outline",
+        "children": []
+      },
+      {
+        "id": "afa7b38b-f79a-4f9d-83c9-28c9688ecfc8",
+        "url": "/doc/getting-started-o0r0aurDOo",
+        "title": "Getting Started",
+        "children": []
+      },
+      {
+        "id": "ac488a70-6743-4a17-9473-a176d055d753",
+        "url": "/doc/our-editor-jScrvyfVNM",
+        "title": "Our Editor",
+        "children": []
+      },
+      {
+        "id": "b3a4e6c2-580c-4632-8b6e-a9a724a1114b",
+        "url": "/doc/integrations-api-fKkv8zAXrM",
+        "title": "Integrations & API",
+        "children": []
+      }
+    ]
+  }
+}

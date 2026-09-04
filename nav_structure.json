@@ -1,0 +1,258 @@
+{
+  "66c1eb9b-3f44-4d24-87e6-4b55cdac29f8": {
+    "collection": {
+      "name": "Paradigma",
+      "icon": "collection"
+    },
+    "structure": [
+      {
+        "title": "FAQ Ringkas",
+        "icon": "info",
+        "children": []
+      },
+      {
+        "title": "Insan",
+        "icon": "universal-access",
+        "children": [
+          {
+            "title": "Tujuan Hidup Manusia",
+            "icon": "universal-access",
+            "children": []
+          },
+          {
+            "title": "Bersatunya Ruh dan Jasad Membentuk Jiwa",
+            "icon": "universal-access",
+            "children": []
+          },
+          {
+            "title": "Pembagian Jiwa",
+            "icon": "universal-access",
+            "children": [
+              {
+                "title": "Ammarah",
+                "icon": "universal-access",
+                "children": []
+              },
+              {
+                "title": "Lawwamah",
+                "icon": "universal-access",
+                "children": []
+              },
+              {
+                "title": "Muthmainnah",
+                "icon": "universal-access",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Fitrah (Karakter)",
+            "icon": "universal-access",
+            "children": [
+              {
+                "title": "Iman",
+                "icon": "universal-access",
+                "children": [
+                  {
+                    "title": "Tangki Cinta",
+                    "icon": "universal-access",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Belajar",
+                "icon": "universal-access",
+                "children": []
+              },
+              {
+                "title": "Bakat",
+                "icon": "universal-access",
+                "children": [
+                  {
+                    "title": "Bekerja Keras",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Memerintah",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Berpikir",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Bekerja Sama",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Berperasaan",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Melayani",
+                    "icon": "universal-access",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Perkembangan",
+                "icon": "universal-access",
+                "children": [
+                  {
+                    "title": "Thufulah",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Tamyiz",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Murahaqah",
+                    "icon": "universal-access",
+                    "children": []
+                  },
+                  {
+                    "title": "Syabab",
+                    "icon": "universal-access",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pendidikan Ideal",
+        "icon": "academicCap",
+        "children": [
+          {
+            "title": "Benang Merah Pendidikan",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "Metode Mendidik",
+            "icon": "academicCap",
+            "children": [
+              {
+                "title": "Bahasa Hati",
+                "icon": "academicCap",
+                "children": []
+              },
+              {
+                "title": "Bahasa Lisan",
+                "icon": "academicCap",
+                "children": []
+              },
+              {
+                "title": "Bahasa Tangan",
+                "icon": "academicCap",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Pembelajaran Alamiah",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "Luka dan Hutang Pengasuhan",
+            "icon": "academicCap",
+            "children": [
+              {
+                "title": "Recovery",
+                "icon": "academicCap",
+                "children": []
+              },
+              {
+                "title": "Euforia",
+                "icon": "academicCap",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Batas Toleransi",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "Imunitas Sosial",
+            "icon": "academicCap",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Implementasi",
+        "icon": "tools",
+        "children": [
+          {
+            "title": "Kaidah & Elemen",
+            "icon": "tools",
+            "children": [
+              {
+                "title": "4 Kaidah Implementasi",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "4 Elemen Implementasi",
+                "icon": "tools",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Internal & Eksternal",
+            "icon": "tools",
+            "children": [
+              {
+                "title": "Tazkiyatun Nafs",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "Tawakkal dan Doa",
+                "icon": "tools",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Peran & Tanggung Jawab",
+            "icon": "tools",
+            "children": [
+              {
+                "title": "Tanggung Jawab Pendidikan",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "Peran Ayah dan Bunda",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "Peran Guru dan Lembaga Pendidikan",
+                "icon": "tools",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
