@@ -64,12 +64,7 @@ graph TD
   * *Tafrith (Lalai):* **Jubn (الجُبْن)** — Pengecut, lari dari tanggung jawab. *Kuratif:* Latihan olahraga ketangkasan dan bela diri syar'i.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat ugal-ugalan tanpa perhitungan. *Kuratif:* Wajib tunduk pada pilar *Hikmah* dan *Anaah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -85,12 +80,7 @@ graph TD
   * *Tafrith (Lalai):* **Diyaatsah (الدِّيَاثَة)** — Permisif, tidak peduli anggota keluarga bermaksiat. *Kuratif:* Tegakkan qowwamah ayah di rumah.
   * *Ifrath (Berlebih):* **Tasyaddud / Tajassus (التَّجَسُّس)** — Curiga berlebihan dan memata-matai privasi orang lain. *Kuratif:* Terapkan kaidah larangan tajassus (QS. Al-Hujurat: 12).
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -106,12 +96,7 @@ graph TD
   * *Tafrith (Lalai):* **Dzull / Qunuth (القُنُوْط)** — Patah arang, merasa diri pecundang. *Kuratif:* Berikan target kemenangan-kemenangan kecil (*small wins*).
   * *Ifrath (Berlebih):* **Hasad / Ghill (الحَسَد)** — Dengki, ingin menjatuhkan kawan agar dirinya juara sendiri. *Kuratif:* Didik untuk mendoakan keberkahan kawan (*Ghibthah*).
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -127,12 +112,7 @@ graph TD
   * *Tafrith (Lalai):* **Mudahanah (المُدَاهَنَة)** — Menjilat, mendiamkan kemungkaran demi cari aman. *Kuratif:* Tanamkan amar ma'ruf nahi munkar.
   * *Ifrath (Berlebih):* **Tanfiir / Ta'yir (التَّنْفِير)** — Menasihati di depan umum dengan kasar hingga mempermalukan. *Kuratif:* Nasihati empat mata dengan *Bahasa Hati*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -148,12 +128,7 @@ graph TD
   * *Tafrith (Lalai):* **'Ujmah (العُجْمَة)** — Gagap mengungkapkan isi pikiran, kosa kata miskin. *Kuratif:* Latihan membaca nyaring dan bercerita (*storytelling*).
   * *Ifrath (Berlebih):* **Jidaal ‘Aqiim (الجِدَال)** — Pandai bersilat lidah, suka mendebat kusir demi gengsi. *Kuratif:* Peringatkan dengan hadits ancaman bagi ahli jidal.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -169,12 +144,7 @@ graph TD
   * *Tafrith (Lalai):* **Khidzlaan (الخِذْلَان)** — Apatis, membiarkan saudara dizalimi di depan mata. *Kuratif:* Tumbuhkan solidaritas ukhuwah Islamiyah.
   * *Ifrath (Berlebih):* **'Ashabiyah (العَصَبِيَّة)** — Membela kelompoknya secara membabi buta meski berada di pihak yang salah. *Kuratif:* Ikat loyalitas hanya kepada kebenaran syariat (*Al-Haqq*).
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -201,13 +171,13 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Syajaa'ah** | الشَّجَاعَة |  |  |  |
-| 2 | **Ghairah** | الغَيْرَة |  |  |  |
-| 3 | **Munaafasah** | المُنَافَسَة |  |  |  |
-| 4 | **Nashiihah** | النَّصِيْحَة |  |  |  |
-| 5 | **Fashaahah** | الفَصَاحَة |  |  |  |
-| 6 | **Nushrah** | النُّصْرَة |  |  |  |
-| 7 | **Juud** | الجُوْد |  |  |  |
+| 1 | **Syajaa'ah** | الشَّجَاعَة | Berani menghadapi orang langsung untuk memimpin, mengatur, dan melindungi | Komandan Militer/TNI/Polri, Pengusaha, Negosiator, Advokat Pembela Umat, Wartawan Investigasi | Akademi Militer, Akademi Kepolisian, Ilmu Hukum/Syariah, Manajemen Bisnis |
+| 2 | **Ghairah** | الغَيْرَة | Cemburu membela kesucian syariat, moralitas umat, dan kehormatan keluarga | Penegak Kode Etik Lembaga, Petugas Pengawas Syariat, Pengawal Kehormatan, Analis Ketahanan | Hukum Pidana Islam, Kriminologi, Manajemen Keamanan, Ketahanan Nasional |
+| 3 | **Munaafasah** | المُنَافَسَة | Gairah berkompetisi dalam kebaikan (*fastabiqul khairat*), pantang menyerah dalam prestasi | Atlet Olahraga Sunnah, Koordinator Target Kinerja, Pengembang Prestasi, Manajer Proyek | Ilmu Keolahragaan, Manajemen Kinerja, Marketing & Penjualan, Manajemen Proyek |
+| 4 | **Nashiihah** | النَّصِيْحَة | Tulus membimbing, meluruskan kekeliruan, dan memberikan saran solutif | Da'i/Muballigh, Konselor, Supervisor, Pengawas Lembaga, Pelatih Kepemimpinan | Bimbingan Konseling Islam, Ilmu Dakwah, Psikologi, Manajemen SDM |
+| 5 | **Fashaahah** | الفَصَاحَة | Fasih bertutur kata, artikulatif, memikat, dan terstruktur dalam menyampaikan pesan | Juru Bicara (Humas), Presenter, Duta Diplomasi, Orator Dakwah, Pengacara Publik | Ilmu Komunikasi, Public Relations, Sastra Arab/Indonesia, Jurnalistik Dakwah |
+| 6 | **Nushrah** | النُّصْرَة | Membela dan menolong pihak yang tertindas hingga terbebas dari kesulitan | Advokat LBH Syariah, Petugas SAR Bencana, Pembela Perlindungan Anak, Polisi Pengayom | Ilmu Hukum, Kesejahteraan Sosial, Tarbiyah Khusus, Kriminologi |
+| 7 | **Juud** | الجُوْد | Kedermawanan pemimpin, rela mengorbankan modal demi menyukseskan misi umat | Direktur Filantropi/Baitul Mal, Manajer CSR, Pengusaha Donatur Dakwah, Manajer Logistik | Manajemen Zakat & Wakaf, Ekonomi Syariah, Manajemen Keuangan Publik |
 
 ---
 
@@ -244,21 +214,41 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-* **Profesi:** Komandan Militer/Kepolisian, Diplomat/Duta Besar, Advokat/Pengacara Pembela Hak Umat, Eksekutif Perusahaan (CEO), Manajer Kampanye Dakwah, Juru Bicara Publik.
-* **Rumpun Jurusan:** Ilmu Hukum & Syariah, Ilmu Pemerintahan & Hubungan Internasional, Manajemen Kepemimpinan, Ilmu Komunikasi & Jurnalistik, Akademi Militer/Kepolisian.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku terpanggil untuk berada di barisan terdepan, mengambil keputusan tegas demi maslahat bersama, melindungi yang lemah dari kezaliman, dan menggerakkan orang lain menuju keridhaan Allah SWT."*
+* **Peta Karir Peradaban (Profesi):** Komandan Militer/Kepolisian, Diplomat/Duta Besar, Advokat Pembela Hak Umat, Eksekutif Perusahaan (CEO), Manajer Kampanye Dakwah, Juru Bicara Publik.
+* **Peta Jurusan Studi & Akademik:** Ilmu Hukum & Syariah, Ilmu Pemerintahan & Hubungan Internasional, Manajemen Kepemimpinan, Ilmu Komunikasi & Jurnalistik, Akademi Militer/Kepolisian.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Penakut - Jubn):* Kuatkan pilar *Ghairah*, *Himmah*, dan *'Aziimah*. Latih anak mengambil keputusan mandiri, berikan tanggung jawab memimpin secara bertahap, dan hilangkan trauma hukuman masa lalu.
+  * *Penyeimbang Ifrath (Berlebih / Otoriter - Taghollub):* Kunci dengan pilar *Rahmah*, *Tawaadhu'*, dan *Hilm*. Tanamkan doktrin nabawi *Sayyidul Qaumi Khaadimuhum* (pemimpin adalah pelayan bagi kaumnya) agar kekuasaan tidak melahirkan arogansi fir'auniah.
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Memerintah & Pola Asuh Nabawi
+
+Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan rujukan silang *Siyar A'lam An-Nubala* di OpenBayan, rumpun Memerintah menemukan manifestasi puncaknya pada figur-figur shahabat berikut:
+
+### 1. Khalid bin Walid radhiyallahu 'anhu: Karunia Komando Tempur (*Saifullah Al-Maslul*)
+* **Manifestasi Bakat:** Memiliki ketajaman insting taktis (*Syajaa'ah* dan *Qiyadah*) yang tidak terkalahkan di lebih dari seratus pertempuran. Beliau mampu membalikkan situasi kritis pada Perang Mu'tah dengan siasat penataan ulang formasi pasukan.
+* **Pola Pengasuhan Nabawi:** Rasulullah ﷺ tidak mencela Khalid karena hafalan Al-Qur'annya tidak sebanyak sahabat lainnya, melainkan memuliakan keahlian komandonya dengan gelar *Saifullah Al-Maslul* (Pedang Allah yang Terhunus) dan mengangkatnya memimpin ekspedisi-ekspedisi strategis.
+* **Pelajaran untuk Guru/Orang Tua:** Anak yang berjiwa komandan ksatria memerlukan panggung tantangan nyata di lapangan. Jika hanya dikurung di dalam kelas untuk menghafal teks secara pasif tanpa ruang aksi fisik dan strategi, energinya akan berubah menjadi ledakan agresi yang destruktif.
+
+### 2. Umar bin Al-Khatthab radhiyallahu 'anhu: Ketegasan Penegak Keadilan (*Al-Faruq*)
+* **Manifestasi Bakat:** *Asyadduhum fi amrillah* (sahabat paling tegas dalam urusan agama Allah). Beliau memiliki wibawa (*Waqaar*) dan keberanian membela syariat (*Ghairah*) yang membuat setan sekalipun mengambil jalan lain saat berpapasan dengannya.
+* **Sublimasi Fitrah:** Di masa jahiliyah, energi ketegasan Umar hampir membunuh dakwah Islam; namun setelah disentuh hidayah Al-Qur'an, energi yang sama disublimasikan menjadi perisai kokoh yang melindungi kaum muslimin hingga mereka bisa shalat terang-terangan di Ka'bah.
+* **Pelajaran untuk Guru/Orang Tua:** Jangan mengutuk ketegasan dan watak dominan anak sebagai "anak pemberontak" atau "keras kepala". Bimbing energinya dengan tauhid agar menjadi keteguhan prinsip dalam membela kebenaran.
+
+### 3. Amr bin Al-Ash radhiyallahu 'anhu: Kecerdikan Taktis & Diplomasi Kepemimpinan
+* **Manifestasi Bakat:** Dikenal sebagai salah satu dari *Daha'ul Arab* (tokoh paling cerdik bangsa Arab). Pada Perang Dzat As-Salasil, beliau melarang pasukan menyalakan api unggun di malam yang sangat dingin demi mencegah musuh mendeteksi jumlah pasukan muslimin, sebuah keputusan yang menuai protes namun dibenarkan oleh Rasulullah ﷺ.
+* **Pelajaran untuk Guru/Orang Tua:** Kepemimpinan visioner sering kali melihat konsekuensi jauh ke depan yang tidak dipahami oleh orang kebanyakan. Latih anak berargumen secara logis dan menghargai keputusannya yang visioner.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Peta Lengkap Arsitektur Bakat PKN.
-* [[Bahasa Tangan]] — Batasan Tegas Penegakan Disiplin Syar'i.
+* [[Bakat]] — Peta Lengkap Arsitektur Bakat PKN dan Matriks 40 Sahabat Teladan.
+* [[Bahasa Tangan]] — Batasan Tegas Penegakan Disiplin Syar'i dalam Memimpin.
 * [[Murahaqah]] — Etape Penggemblengan Tanggung Jawab Taklif.
+* [[Syabab]] — Kematangan Mukallaf Menuju Peran Panglima Peradaban.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Lengkap 40 Pilar Karakter.
+

@@ -143,7 +143,93 @@ Persilangan antara Kutub Energi Sosial (Introvert vs Extrovert) dan Dimensi Jiwa
 
 ---
 
-## 8. Rujukan Kajian Video Terkait (PKN Video Database)
+---
+
+## 8. Ashabus Rasul: Mahkota & Bukti Empiris Sejarah Fitrah Bakat
+
+> [!quote] Hadits Pemetaan Fitrah Sahabat Nabi ﷺ
+> **Naskah:**  
+> « أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي دِينِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ، وَأَعْلَمُهُمْ بِالْحَلَالِ وَالْحَرَامِ مُعَاذُ بْنُ جَبَلٍ، وَأَقْرَؤُهُمْ لِكِتَابِ اللَّهِ أُبَيٌّ، وَأَعْلَمُهُمْ بِالْفَرَائِضِ زَيْدُ بْنُ ثَابِتٍ، وَلِكُلِّ أُمَّةٍ أَمِينٌ، وَأَمِينُ هَذِهِ الْأُمَّةِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ »
+>
+> *"Orang yang paling penyayang di antara umatku adalah Abu Bakar, yang paling tegas dalam menegakkan agama Allah adalah Umar, yang paling pemalu adalah Utsman, yang paling mengetahui halal dan haram adalah Mu'adz bin Jabal, yang paling ahli membaca Al-Qur'an adalah Ubay (bin Ka'ab), yang paling mengetahui ilmu waris adalah Zaid bin Tsabit, dan setiap umat memiliki orang kepercayaan, dan orang kepercayaan umat ini adalah Abu Ubaidah bin Al-Jarrah."*  
+> 📚 **Sumber Rujukan:** HR. Ahmad (3:184), At-Tirmidzi (No. 3802), Ibnu Majah (No. 154); *Siyar A'lam An-Nubala* (Adz-Dzahabi); *Ashabur Rasul* (Syaikh Mahmud Al-Mishri).
+
+Generasi Sahabat Nabi ﷺ (*Ashabur Rasul*) adalah mahkota pembuktian sejarah paling otentik bahwa **konsep diferensiasi potensi bawaan (fitrah bakat) adalah Sunnah Nabawiyah murni**, bukan sekadar konstruksi psikologi modern. Mereka menjadi generasi terbaik (*Khairul Qurun*) bukan karena mereka seragam seperti tentara cetakan pabrik, melainkan karena mereka **beragam dalam peran dan saling menggenapi (*At-Takamul*) dalam satu tauhid**:
+
+1. **Rasulullah ﷺ Mendidik di Atas Poros Keunikan Fadhilah:**  
+   Nabi ﷺ tidak pernah memaksa Khalid bin Walid untuk menjadi ahli fara'idh atau penghafal seluruh ayat Al-Qur'an, melainkan menobatkan beliau sebagai *Saifullah Al-Maslul* (panglima tempur). Beliau juga tidak memaksakan Zaid bin Tsabit memimpin barisan kavaleri depan, melainkan mempercayakan tugas kodifikasi mushaf dan penguasaan bahasa asing kepadanya.
+2. **Kelemahan Bukan Aib, Melainkan Batasan Domain:**  
+   Ketika sahabat mulia Abu Dzar Al-Ghifari memohon jabatan pemerintahan, Rasulullah ﷺ dengan penuh kasih bersabda: *"Wahai Abu Dzar, sesungguhnya engkau lemah, dan jabatan itu adalah amanah yang pada hari kiamat menjadi kehinaan dan penyesalan kecuali bagi yang mengambilnya dengan hak dan menunaikan kewajibannya"* (HR. Muslim No. 1825). Kelemahan administratif manajerial Abu Dzar tidak menurunkan derajat kezuhudannya (*Ashdaqu Lahjah*); Nabi ﷺ melindunginya dari peran yang tidak selaras dengan fitrahnya.
+3. **Konsep Tabiat Bawaan (*Jubilta 'Alaihima*):**  
+   Kepada Asyaj Abdul Qais, Nabi ﷺ bersabda: *"Sesungguhnya pada dirimu ada dua sifat yang dicintai Allah: Al-Hilm (santun) dan Al-Anaah (tidak tergesa-gesa)."* Saat Asyaj bertanya apakah itu hasil usahanya atau bawaan sejak lahir, Nabi ﷺ menegaskan bahwa Allah-lah yang menciptakan fitrahnya di atas dua tabiat mulia tersebut (HR. Abu Dawud No. 5225).
+
+---
+
+### Matriks Akbar 40 Pilar Bakat TB-40 vs. Figur Sahabat Nabi ﷺ (*Archetype Matrix*)
+
+Berikut adalah pemetaan komprehensif 40 pilar karakter TB-40 terhadap figur-figur teladan sahabat, disintesis dari karya ensiklopedis **Syaikh Mahmud Al-Mishri (*Ashabur Rasul SAW*, Maktabah Dar At-Taqwa)** dan rujukan silang korpus turats Islam di **OpenBayan** (*Siyar A'lam An-Nubala*, *Ath-Tabaqat Al-Kubra*, *Al-Ishabah*, *Rijal Hawla Ar-Rasul*, *Shuwar min Hayatish Shahabah*):
+
+| No | Pilar Karakter | Rumpun | Figur Sahabat Teladan (*Archetype*) | Landasan Dalil & Riwayat Nabawi | Referensi Literatur |
+|:---:|:---|:---|:---|:---|:---|
+| 1 | **Himmah** (Cita-cita Tinggi) | Bekerja Keras | **Rabi'ah bin Ka'ab Al-Aslami** | Meminta menyertai Nabi ﷺ di surga saat ditanya hajatnya. | *Siyar* 3/14; *Ashabur Rasul* |
+| 2 | **Ihsaan** (Perfeksionis) | Bekerja Keras | **Zaid bin Tsabit** | Meneliti setiap ayat dengan dua saksi tertulis saat kodifikasi. | *Fathul Bari* 9/12; OpenBayan |
+| 3 | **'Izzah** (Harga Diri Mukmin) | Bekerja Keras | **Sa'ad bin Mu'adz** | Menolak memberikan kurma Madinah sebutir pun kepada Ahzab. | *Ashabur Rasul* Juz 1; *Siyar* |
+| 4 | **Waqaar** (Kewibawaan Tenang) | Bekerja Keras | **Utsman bin Mazh'un** | Keteguhan wibawa zuhud dan ketenangan ibadah tanpa silau dunia. | *Al-Ishabah* No. 5449 |
+| 5 | **'Aziimah** (Tekad Membaja) | Bekerja Keras | **Khabbaab bin Al-Aratt** | Bertahan di atas bara api tanpa pernah mengkhianati tauhid. | *Rijal Hawla Ar-Rasul* |
+| 6 | **Nasyaath** (Semangat Tangguh) | Bekerja Keras | **Salamah bin Al-Akwa'** | Pelari cepat pejalan kaki penumpas musuh di Dzi Qarad. | HR. Muslim 1807; *Ashabur Rasul* |
+| 7 | **Firaasah** (Ketajaman Intuisi) | Berpikir | **Umar bin Al-Khatthab** | *Al-Muhaddats*: firasatnya bersesuaian dengan turunnya wahyu. | HR. Bukhari 3689; *Siyar* 2/85 |
+| 8 | **Nubl** (Kecerdikan Solutif) | Berpikir | **Salman Al-Farisi** | Solusi taktis menggali parit (*Khandaq*) yang belum dikenal Arab. | *Shuwar min Hayatish Shahabah* |
+| 9 | **Dzakaa'** (Kecerdasan Nalar) | Berpikir | **Ali bin Abi Thalib** | *Aqdhaahum*: rujukan fatwa dan pemecah kebuntuan kasus rumit. | HR. At-Tirmidzi 3723 |
+| 10 | **Hikmah** (Kedalaman Fiqih) | Berpikir | **Mu'adz bin Jabal** | Ahli halal-haram; diutus memimpin dakwah dan qadhi Yaman. | HR. Ahmad 3/184; *Ashabur Rasul* hlm. 365 |
+| 11 | **Shamt** (Bicara Seperlunya) | Berpikir | **Abu Ad-Darda'** | Mengutamakan perenungan, tafakkur, dan sedikit berbicara sia-sia. | *Hilyatul Awliya'* 1/208 |
+| 12 | **Husnuzhan** (Prasangka Baik) | Berperasaan | **Abu Ayyub Al-Anshari** | Membela kesucian Sayyidah Aisyah saat fitnah *Haditsul Ifki*. | QS. An-Nur: 12; Tafsir Ibnu Katsir |
+| 13 | **Shidq** (Kejujuran Lurus) | Berperasaan | **Abu Dzar Al-Ghifari** | *Ashdaqu lahjah*: manusia paling jujur di bawah kolong langit. | HR. At-Tirmidzi 3802; *Ashabur Rasul* hlm. 217 |
+| 14 | **'Iffah** (Menjaga Kehormatan) | Berperasaan | **Mush'ab bin Umair** | Meninggalkan kemewahan Makkah demi kesucian kehormatan iman. | *Ashabur Rasul* Juz 1 |
+| 15 | **Hayaa'** (Rasa Malu Syar'i) | Berperasaan | **Utsman bin Affan** | *Ashdaquhum haya'an*: para malaikat pun malu kepada ketulusannya. | HR. Muslim 2401; *Ashabur Rasul* |
+| 16 | **Qanaa'ah** (Merasa Cukup) | Berperasaan | **Sa'id bin 'Amir Al-Jumahi** | Gubernur Homs yang hidup dalam daftar penerima santunan fakir. | *Shuwar min Hayatish Shahabah* |
+| 17 | **Shabr** (Ketabahan Jiwa) | Berperasaan | **Keluarga Yasir (Ammar, Sumayyah)** | *Shafwatush Shabirin*: janji surga atas siksaan keji di padang pasir. | HR. Al-Hakim; *Al-Ishabah* |
+| 18 | **Syajaa'ah** (Keberanian Ksatria) | Memerintah | **Khalid bin Walid** | Panglima tak terkalahkan di puluhan palagan; *Saifullah*. | *Ashabur Rasul* hlm. 263; *Siyar* 1/369 |
+| 19 | **Ghairah** (Cemburu Syariat) | Memerintah | **Sa'ad bin 'Ubadah** | Sangat cemburu menjaga kehormatan; dipuji oleh Rasulullah ﷺ. | HR. Bukhari 6846; *Muslim* 1499 |
+| 20 | **Munaafasah** (Fastabiqul Khairat) | Memerintah | **Umar vs Abu Bakar** | Perlombaan sedekah separuh vs seluruh harta pada Perang Tabuk. | HR. Abu Dawud 1678 |
+| 21 | **Nashiihah** (Tulus Membimbing) | Memerintah | **Jarir bin Abdillah Al-Bajali** | Membaiat Nabi untuk selalu memberi nasihat bagi setiap muslim. | HR. Bukhari 57; *Muslim* 56 |
+| 22 | **Fashaahah** (Fasih Mempengaruhi) | Memerintah | **Ja'far bin Abi Thalib** | Pidato diplomasi fasih di hadapan Raja Najasyi Habasyah. | *Sirah Ibnu Hisyam*; OpenBayan |
+| 23 | **Nushrah** (Membela Tertindas) | Memerintah | **Zubair bin Al-Awwam** | *Hawariyyur Rasul*: orang pertama yang menghunus pedang di Makkah. | HR. Bukhari 2997; *Ashabur Rasul* |
+| 24 | **Juud** (Dermawan Pemimpin) | Memerintah | **Thalhah bin Ubaidillah** | Dijuluki *Thalhah Al-Khair* dan *Thalhah Al-Juud* saat berinfak. | *Siyar A'lam An-Nubala* 1/23 |
+| 25 | **Ta'aawun** (Kerja Sama Sinergis) | Bekerja Sama | **Kaum Anshar & Muhajirin** | *Mu'akhah*: membagi rumah, ladang, dan usaha demi dakwah. | QS. Al-Hasyr: 9; *Bukhari* 2293 |
+| 26 | **Ulfah** (Mudah Menyatukan) | Bekerja Sama | **Abu Hurairah** | Mengumpulkan sahabat di Shuffah dan mencintai kebersamaan. | *Hilyatul Awliya'* 1/376 |
+| 27 | **Mahabbah** (Penuh Kasih Sayang) | Bekerja Sama | **Zaid bin Haritsah** | *Hibbur Rasul*: cinta mendalam Nabi dan para sahabat kepadanya. | *Ashabur Rasul* Juz 1 |
+| 28 | **'Adaalah** (Keadilan Objektif) | Bekerja Sama | **Abdullah bin Rawahah** | Menilai bagi hasil kurma Khaibar secara presisi tanpa curang. | *Muwaththa' Malik* No. 1324 |
+| 29 | **Muzaah** (Humor Edukatif Santun) | Bekerja Sama | **Nu'aiman bin Amr Al-Anshari** | Humor cerdas yang menghibur Rasulullah dan mencairkan suasana. | *Al-Ishabah* No. 8740; *Siyar* |
+| 30 | **Mulaathafah / Rifq** (Kelembutan) | Bekerja Sama | **Abdullah bin Mas'ud** | Membimbing murid-murid Kufah dengan sentuhan tutur kata lembut. | *Ath-Tabaqat Al-Kubra* 3/150 |
+| 31 | **Hamaasah** (Gairah Antusias) | Bekerja Sama | **Umair bin Al-Humam** | Membuang kurma di Badar demi segera menyongsong surga. | HR. Muslim 1901 |
+| 32 | **Kitmaanus Sirr** (Menjaga Rahasia) | Bekerja Sama | **Hudzaifah ibnul Yaman** | *Shahibu Sirrir Rasul*: pemegang tunggal daftar nama kaum munafik. | *Ashabur Rasul* Juz 1; *Siyar* |
+| 33 | **Tawaadhu'** (Rendah Hati) | Melayani | **Abu Ubaidah bin Al-Jarrah** | Rela berada di bawah komando Khalid bin Walid tanpa tersinggung. | *Ashabur Rasul* Juz 1; *Siyar* |
+| 34 | **Satr** (Menutup Aib Sesama) | Melayani | **Abu Bakar Ash-Shiddiq** | Membeli budak tersiksa dan menutup masa lalu kelam mereka. | *Sirah Ibnu Hisyam* |
+| 35 | **Wafaa'** (Tepat Janji Teguh) | Melayani | **Hudzaifah & Ayahnya (Husail)** | Menepati janji pada kafir Quraisy untuk tidak ikut perang Badar. | HR. Muslim 1787 |
+| 36 | **Rahmah** (Kasih Sayang Terbuka) | Melayani | **Abu Bakar Ash-Shiddiq** | *Arhamu ummati bi ummati*: hati selembut sutra yang mudah menangis. | HR. Ahmad 3/184 |
+| 37 | **Amaanah** (Integritas Kredibel) | Melayani | **Abu Ubaidah bin Al-Jarrah** | *Aminu hadzihil ummah*: utusan penengah konflik Yaman dan Najran. | HR. Bukhari 4380 |
+| 38 | **Hilm** (Santun Pengendali Diri) | Melayani | **Ashaj Abdul Qais** | Tidak terburu-buru menghakimi dan menahan amarah secara elegan. | HR. Abu Dawud 5225 |
+| 39 | **Anaah** (Tenang Penuh Perhitungan) | Melayani | **Amr bin Al-Ash** | Menolak menyalakan api di Dzat As-Salasil demi keselamatan pasukan. | *Sunan Abu Dawud* 334; *Ashabur Rasul* |
+| 40 | **Iitsaar** (Mendahulukan Orang Lain) | Melayani | **Ikrimah, Suhail, Al-Harits** | Saling mempersilakan air minum saat sekarat di Perang Yarmuk. | *Al-Mustadrak Al-Hakim* 3/270 |
+
+---
+
+### Pedagogi Nabawi: Storytelling Sahabat Berbasis Profil Bakat Anak
+
+Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush Shahabah*) tidak diberikan secara acak atau sekadar dongeng pengantar tidur. Pendidik menerapkan kaidah **Isyhadul Uswah (Menghadirkan Teladan Relevan)**:
+
+1. **Sinkronisasi Figur dengan Dominansi Pilar Anak:**  
+   * Anak yang terobservasi memiliki bakat *Fashaahah* dan *Syajaa'ah* (berani tampil, suka memimpin) didekatkan dengan kisah **Ja'far bin Abi Thalib** dan **Umar bin Al-Khatthab**.
+   * Anak yang pendiam, teliti, dan suka memecahkan teka-teki (*Dzakaa'* dan *Hikmah*) didekatkan dengan kisah **Ali bin Abi Thalib**, **Mu'adz bin Jabal**, dan **Zaid bin Tsabit**.
+   * Anak yang sangat penyayang, peka perasaan temannya (*Rahmah*, *Tawaadhu'*) didekatkan dengan kisah **Abu Bakar Ash-Shiddiq** dan **Anas bin Malik**.
+2. **Menghadirkan Idola Fitrah (*Fitrah Idols*):**  
+   Anak yang mengenal figur sahabat yang memiliki kemiripan fitrah dengannya tidak akan merasa minder atau aneh dengan karakternya. Ia memiliki gambaran konkret ke mana potensi itu harus bermuara: **menjadi pembela risalah dan pemakmur bumi (*khalifah fil ardh*)**.
+3. **Mengikis Infantilisasi Remaja:**  
+   Melihat Usamah bin Zaid memimpin pasukan di usia 18 tahun, Zaid bin Tsabit menguasai bahasa asing dalam hitungan minggu di usia 13 tahun, dan Mush'ab bin Umair menjadi diplomat ulung di usia belia, menyalakan gairah kedewasaan (*Rijal*) pada fase *Syabab*.
+
+---
+
+## 9. Rujukan Kajian Video Terkait (PKN Video Database)
 
 * *Observasi Bakat Berdasarkan Usia Anak: Suka, Bisa, Berguna* — [Tonton di YouTube @ 01:32](https://www.youtube.com/watch?v=6e_Yy3AXbj4&t=92s)
 * *Bakat Tersembunyi di Balik Kenakalan Anak* — [Tonton di YouTube @ 60:19](https://www.youtube.com/watch?v=w04OJijPmQk&t=3619s)
@@ -152,9 +238,11 @@ Persilangan antara Kutub Energi Sosial (Introvert vs Extrovert) dan Dimensi Jiwa
 
 ---
 
-## 9. Navigasi Instrumen & Panduan Terkait
+## 10. Navigasi Instrumen & Panduan Terkait
 
 * [[Panduan Asesmen dan Observasi TB40]] — Pedoman komprehensif instrumen 40 pilar, Likert 0–100 vs Ipsative 360°, dan pemetaan karir peradaban.
 * [[Panduan RPP dan Observasi Lapangan]] — Template RPP Karakter, instrumen kuisioner pertumbuhan, dan checklist harian 40 pilar.
 * [[8 Standar Implementasi PKN]] — Klausul 8 Perencanaan Kurikulum Bakat dan Klausul 10 Pendewasaan.
+* [[Kaidah Implementasi di Berbagai Lembaga]] — Standardisasi kurikulum fitrah di sekolah formal, pesantren, dan komunitas homeschooling.
+
 

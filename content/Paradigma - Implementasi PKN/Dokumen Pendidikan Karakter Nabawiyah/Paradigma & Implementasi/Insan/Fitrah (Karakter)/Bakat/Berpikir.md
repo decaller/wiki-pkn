@@ -156,11 +156,11 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Firaasah** | الفِرَاسَة |  |  |  |
-| 2 | **Nubl** | النُّبْل |  |  |  |
-| 3 | **Husnuzhan** | حُسْنُ الظَّن | Extrovert |  |  |
-| 4 | **Dzakaa'** | الذَّكَاء |  |  |  |
-| 5 | **Hikmah** | الحِكْمَة | Introvert |  |  |
+| 1 | **Firaasah** | الفِرَاسَة | Ketajaman membaca pertanda terselubung, intuisi jernih dari nurani iman | Analis Intelijen, Investigator, Penilai Kelayakan Risiko, Konsultan SDM, Psikolog Asesor | Psikologi, Kriminologi, Analisis Data, Intelijen Strategis, Manajemen Risiko |
+| 2 | **Nubl** | النُّبْل | Cerdik menemukan solusi alternatif dalam situasi kebuntuan dan krisis | Konsultan Manajemen Krisis, Perancang Strategi, Arsitek Sistem, Problem Solver Lembaga | Ilmu Fiqih, Ekonomi Syariah, Hubungan Internasional, Rekayasa Sistem |
+| 3 | **Dzakaa'** | الذَّكَاء | Cepat menangkap logika abstrak, mengolah data rumit, dan menyimpulkan esensi | Peneliti Sains, Dosen/Akademisi, Analis Algoritma/Matematika, Software Engineer | Sains Murni (Fisika/Matematika), Ilmu Komputer/AI, Data Science, Ushul Fiqih |
+| 4 | **Hikmah** | الحِكْمَة | Meletakkan perkara pada tempatnya secara tepat berlandaskan keluasan ilmu | Hakim/Qadhi, Mufti, Konselor Keluarga Sakinah, Penasihat Kebijakan, Da'i Senior | Syariah/Hukum Islam, Filsafat Islam/Ushuluddin, Psikologi Islam, Kebijakan Publik |
+| 5 | **Shamt** | الصَّمْت | Banyak diam, menyaring perkataan, dan hanya berbicara hal penting bernas | Peneliti Laboratorium, Analis Dokumen, Penulis Ilmiah, Programmer Inti, Notaris | Teknik Kimia, Teknik Informatika, Ilmu Perpustakaan & Kearsipan, Sains Data |
 
 ---
 
@@ -197,22 +197,44 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-* **Profesi:** Peneliti Sains, Analis Kebijakan Publik, Arsitek Sistem Software (IT), Konsultan Manajemen, Mufti/Hakim Syariah, Perencana Strategis (Litbang), Penulis Ilmiah.
-* **Rumpun Jurusan:** Ilmu Ushuluddin, Fiqih wa Ushuluhu, Ilmu Komputer/Informatika, Matematika Murni, Fisika Teoritik, Hukum Islam & Internasional, Data Science.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku dikaruniai kenikmatan berpikir mendalam, menyelidiki keteraturan ayat-ayat kauniyah dan syar'iyyah, serta merumuskan hikmah dan solusi cerdas bagi kemaslahatan peradaban Islam."*
+* **Peta Karir Peradaban (Profesi):** Peneliti Sains, Analis Kebijakan Publik, Arsitek Sistem Software (IT), Konsultan Manajemen, Mufti/Hakim Syariah, Perencana Strategis (Litbang), Penulis Ilmiah.
+* **Peta Jurusan Studi & Akademik:** Ilmu Ushuluddin, Fiqih wa Ushuluhu, Ilmu Komputer/Informatika, Matematika Murni, Fisika Teoritik, Hukum Islam & Internasional, Data Science.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Kebodohan Nalar & Dangkal):* Bangkitkan pilar *Himmah* dan *Dzakaa'*. Biasakan membaca terstruktur, ajarkan logika sebab-akibat, dan jauhkan dari hiburan instan yang mematikan daya perenungan.
+  * *Penyeimbang Ifrath (Berlebih / Was-was & Debat Kusir - Jidal):* Kunci dengan pilar *Shidq*, *Hayaa'*, dan *'Ibadah Khosyiah*. Tundukkan akal di bawah nash wahyu, ajarkan bahwa akal hanyalah alat memahami firman Allah, bukan hakim atas syariat-Nya.
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Berpikir & Pola Asuh Nabawi
+
+Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan rujukan silang *Siyar A'lam An-Nubala* di OpenBayan, rumpun Berpikir diwakili secara agung oleh para tokoh berikut:
+
+### 1. Ali bin Abi Thalib radhiyallahu 'anhu: Gerbang Kecerdasan Fiqih & Putusan Hukum (*Aqdhaahum*)
+* **Manifestasi Bakat:** Memiliki ketajaman nalar (*Dzakaa'*) dan kedalaman hikmah (*Hikmah*) luar biasa sejak masa belia. Rasulullah ﷺ bersabda: *"Orang yang paling ahli memberi keputusan hukum di antara kalian adalah Ali"* (HR. Ibnu Majah). Umar bin Al-Khatthab sering kali berucap: *"Kalaulah bukan karena Ali, celakalah Umar"* saat menghadapi kasus-kasus hukum pelik.
+* **Pola Pengasuhan Nabawi:** Sejak kecil Ali diasuh langsung di rumah Rasulullah ﷺ, mendapatkan transfer hikmah melalui dialog intensif dan pengamatan mendalam terhadap akhlak kenabian.
+* **Pelajaran untuk Guru/Orang Tua:** Anak cerdas analitis membutuhkan mentor yang mampu meladeni kedalaman logikanya. Jika anak tidak diberikan bahan bacaan dan diskusi bermutu, kecerdasannya akan terbuang untuk hal-hal sepele.
+
+### 2. Mu'adz bin Jabal radhiyallahu 'anhu: Ahli Fiqih Halal dan Haram (*A'lamuhum bil-Halal wal-Haram*)
+* **Manifestasi Bakat:** Kemampuan konseptual membedakan halal dan haram secara jernih (hlm. 365 *Ashabur Rasul*). Ketika diutus ke Yaman sebagai Qadhi, Nabi mengujinya: *"Dengan apa engkau memutuskan perkara?"* Mu'adz menjawab: *"Dengan Kitabullah, jika tidak kutemukan dengan Sunnah Rasul-Nya, dan jika tidak kutemukan aku akan berijtihad dengan akalku."* Nabi menepuk dadanya seraya memuji Allah atas taufiq tersebut.
+* **Pelajaran untuk Guru/Orang Tua:** Latih anak yang berpikiran konseptual untuk menyusun kerangka berpikir yang berakar pada dalil syar'i sebelum melahirkan ijtihad pribadi.
+
+### 3. Zaid bin Tsabit radhiyallahu 'anhu: Jenius Bahasa & Arsitek Kodifikasi Mushaf
+* **Manifestasi Bakat:** Menguasai bahasa Ibrani dan Suryani hanya dalam waktu sekitar 15 hari atas perintah Nabi ﷺ. Beliau juga memimpin tim kodifikasi mushaf Al-Qur'an di masa Abu Bakar dan Utsman karena ketelitian, kecermatan, dan integritas ilmiahnya yang tanpa cela.
+* **Pelajaran untuk Guru/Orang Tua:** Daya ingat tajam dan keahlian metodologis harus diarahkan untuk khidmah menjaga khazanah ilmu umat, bukan sekadar mengejar skor akademik semu.
+
+### 4. Salman Al-Farisi radhiyallahu 'anhu: Inovator Pemecah Kebuntuan Taktis (*Nubl*)
+* **Manifestasi Bakat:** Menghadirkan solusi inovatif menggali parit (*Khandaq*) di sekeliling Madinah, sebuah strategi militer yang tidak pernah dikenal oleh bangsa Arab sebelumnya, yang berhasil menggagalkan koalisi sepuluh ribu pasukan Ahzab.
+* **Pelajaran untuk Guru/Orang Tua:** Hargai ide-ide *out of the box* dari anak. Solusi segar sering kali datang dari perpaduan wawasan lintas disiplin yang diikat oleh niat tulus menolong sesama.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Induk Taksonomi 40 Karakter Nabawiyah.
-* [[Insan]] — Hakikat Akal, Hati, dan Hawa Nafsu.
+* [[Bakat]] — Induk Taksonomi 40 Karakter Nabawiyah dan Matriks Sahabat.
+* [[Insan]] — Hakikat Akal, Hati, dan Hawa Nafsu dalam Pandangan Islam.
 * [[Bahasa Lisan]] — Seni Komunikasi Nasihat & Diskusi Intelektual.
-* [[Tamyiz]] — Etape Emas Pembentukan Nalar Kritis Anak.
+* [[Tamyiz]] — Etape Emas Pembentukan Nalar Kritis dan Literasi Anak.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
+

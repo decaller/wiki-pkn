@@ -65,12 +65,7 @@ graph TD
   * *Tafrith (Lalai):* **Qaswah (القَسْوَة)** — Hati keras membatu, tega melihat penderitaan orang lain. *Kuratif:* Mengusap kepala anak yatim dan memberi makan orang miskin.
   * *Ifrath (Berlebih):* **Khawwar (الخَوَر)** — Lembek hingga tidak tega menegakkan sanksi syariat yang adil. *Kuratif:* Imbangi dengan pilar *'Adaalah* dan *Ghairah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -86,12 +81,7 @@ graph TD
   * *Tafrith (Lalai):* **Syuhh / Bukhl (الشُّحّ)** — Sangat kikir dan takut miskin. *Kuratif:* Latihan sedekah barang yang paling dicintai.
   * *Ifrath (Berlebih):* **Dhai'atul 'Iyal (ضَيْعَةُ العِيَالِ)** — Berinfaq habis-habisan ke luar hingga menelantarkan nafkah wajib anak dan istri. *Kuratif:* Dahulukan urutan nafkah keluarga sesuai sabda Nabi ﷺ: *"Mulailah dari orang yang menjadi tanggunganmu."*
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -107,12 +97,7 @@ graph TD
   * *Tafrith (Lalai):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Mulut ember, membocorkan rahasia penting demi sensasi. *Kuratif:* Peringatkan tentang dosa khianat amanah.
   * *Ifrath (Berlebih):* **Kithmanul Haqq (كِتْمَانُ الحَقِّ)** — Menyembunyikan persaksian kebenaran yang wajib diungkap di pengadilan. *Kuratif:* Tegakkan pilar *Shidq*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -128,12 +113,7 @@ graph TD
   * *Tafrith (Lalai):* **Fadhihah / Tasy-hir (الفَضِيْحَة)** — Gemar memviralkan aib dan membongkar kesalahan orang lain. *Kuratif:* Renungi hadits ancaman bahwa Allah akan membongkar aibnya di rumahnya sendiri.
   * *Ifrath (Berlebih):* **Iqrārul Munkar (إِقْرَارُ المُنْكَر)** — Melindungi pelaku kriminal berbahaya yang merugikan publik atas nama menutup aib. *Kuratif:* Laporkan kepada pihak berwenang sesuai kaidah hukum syar'i.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -149,12 +129,7 @@ graph TD
   * *Tafrith (Lalai):* **Khiyanah (الخِيَانَة)** — Mengabaikan tugas, korupsi dana titipan. *Kuratif:* Awasi dengan audit ketat dan tanamkan hisab akhirat.
   * *Ifrath (Berlebih):* **Hamlul Ma La Yuthaq (حَمْلُ مَا لَا يُطَاقُ)** — Mengambil semua beban amanah hingga fisik dan mental hancur (*burnout*). *Kuratif:* Pelajari seni delegasi tugas dengan pilar *Ta'aawun*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -170,12 +145,7 @@ graph TD
   * *Tafrith (Lalai):* **'Ajalah (العَجَلَة)** — Grusa-grusu, terburu-buru, ceroboh. *Kuratif:* Hadits: *"Ketergesa-gesaan itu berasal dari setan."*
   * *Ifrath (Berlebih):* **Tawaani / Batha' (التَّوَانِي)** — Lamban berlebihan hingga kehilangan momentum emas. *Kuratif:* Pacu dengan pilar *'Aziimah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -191,12 +161,7 @@ graph TD
   * *Tafrith (Lalai):* **Hadad / Ghadhab (الغَضَب)** — Cepat naik darah, meledak-ledak, pendendam. *Kuratif:* Ajarkan teknik meredam amarah (duduk, berbaring, wudhu).
   * *Ifrath (Berlebih):* **Dzull (الذُّلّ)** — Membiarkan kemungkaran merajalela karena takut dianggap tidak santun. *Kuratif:* Imbangi dengan ketegasan *Syajaa'ah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -214,23 +179,20 @@ graph TD
 
 ---
 
-
----
-
 ## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
 
 Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Rahmah** | الرَّحْمَة |  |  |  |
-| 2 | **Itsaar** | الاِيْثَار |  |  |  |
-| 3 | **Kitmaanus Sirr** | كِتْمَانُ السِّرِّ |  |  |  |
-| 4 | **Satr** | السَّتْر |  |  |  |
-| 5 | **Amaanah** | الاَمَانَة |  |  |  |
-| 6 | **Anaah** | الاَنَاة |  |  |  |
-| 7 | **Hilm** | الحِلْم |  |  |  |
-| 8 | **Shabr** | الصَّبْر |  |  |  |
+| 1 | **Rahmah** | الرَّحْمَة | Belas kasih mendalam, mudah terenyuh dan berhasrat memberi yang terbaik bagi yang susah | Konselor, Pembina Keluarga, Perawat Pasien, Guru PAUD/Inklusi, Pekerja Sosial, HRD | PAI, Tarbiyah, Psikologi, Keperawatan, Ilmu Kesejahteraan Sosial |
+| 2 | **Iitsaar** | الإِيْثَار | Rela mendahulukan kepentingan orang lain daripada kebutuhan diri demi ridha Allah | Koordinator Kemanusiaan, Pekerja Sosial Darurat, Pengurus Panti Asuhan, Relawan Bencana | Kesejahteraan Sosial, Manajemen Penanggulangan Bencana, Manajemen Zakat & Wakaf |
+| 3 | **Satr** | السَّتْر | Mampu memegang teguh dan menutupi aib orang lain maupun rahasia diri | Ajudan Pribadi, Asisten Eksekutif, Sekretaris Khusus, Penjaga Arsip Rahasia, Notaris | Akademi Militer, Akademi Kepolisian, Kenotariatan, Administrasi Perkantoran |
+| 4 | **Wafaa'** | الوَفَاء | Memegang teguh janji yang telah disepakati meskipun dalam posisi dirugikan | Manajer Hubungan Pelanggan (CRM), Quality Control, Petugas Keamanan, Auditor Kontrak | Akuntansi, Administrasi Bisnis, Manajemen Mutu, Ilmu Hukum |
+| 5 | **Amaanah** | الأَمَانَة | Menunaikan tanggung jawab secara penuh atas titipan tugas, harta, dan syariat | Bendahara Umum, Auditor Syariah, Manajer Logistik Utama, Penjaga Khazanah | Manajemen Keuangan Syariah, Akuntansi, Manajemen Rantai Pasok |
+| 6 | **Hilm** | الحِلْم | Santun, berjiwa lapang, dan mampu menahan amarah dalam melayani orang bermasalah | Konsultan Pelayanan, Mediator Sengketa, Guru Pendidikan Inklusi, Konselor Trauma | Psikologi Islam, Bimbingan Konseling, Ilmu Komunikasi Sosial |
+| 7 | **Anaah** | الأَنَاة | Tidak tergesa-gesa, tenang, penuh kecermatan dalam ketelitian pelayanan teknis | Quality Assurance, Analis Laboratorium, Farmasis Presisi, Teknisi Kalibrasi | Farmasi, Analis Medis, Kimia Terapan, Manajemen Mutu Operasional |
+| 8 | **Tawaadhu'** | التَّوَاضُع | Rendah hati, tidak ingin ditampakkan kehebatannya di hadapan sesama manusia | Khadimul Ummah, Relawan Lapangan, Guru Karakter Dasar, Pengasuh Santri | Tarbiyah, Sosiologi Dakwah, Sastra, Konseling Ruhani |
 
 ---
 
@@ -267,22 +229,43 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-* **Profesi:** Dokter Spesialis / Tenaga Medis Kemanusiaan, Pekerja Sosial / Relawan SAR, Pengelola Lembaga Zakat & Wakaf, Administrator Rahasia Negara / Notaris, Konselor Rehabilitasi Sosial, Manajer Layanan Pelanggan (Customer Service Excellence).
-* **Rumpun Jurusan:** Kedokteran & Keperawatan, Ilmu Kesejahteraan Sosial, Manajemen Zakat & Wakaf, Psikologi Klinis, Ilmu Hukum & Kenotariatan, Administrasi Publik.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku menemukan kebahagiaan sejati saat meringankan beban sesama, berkhidmat dengan penuh keikhlasan dan kerendahan hati, menjaga kehormatan dan rahasia saudara seiman, serta mendahulukan kemaslahatan bersama demi meraih cinta Allah SWT."*
+* **Peta Karir Peradaban (Profesi):** Dokter Spesialis / Tenaga Medis Kemanusiaan, Pekerja Sosial / Relawan SAR, Pengelola Lembaga Zakat & Wakaf, Administrator Rahasia Negara / Notaris, Konselor Rehabilitasi Sosial, Manajer Layanan Pelanggan (Customer Service Excellence).
+* **Peta Jurusan Studi & Akademik:** Kedokteran & Keperawatan, Ilmu Kesejahteraan Sosial, Manajemen Zakat & Wakaf, Psikologi Klinis, Ilmu Hukum & Kenotariatan, Administrasi Publik.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Kikir Pelayanan & Egois - Bukhl):* Latih empati anak dengan mengajaknya berbagi langsung kepada keluarga dhu'afa, libatkan dalam kepanitiaan bakti sosial, dan biasakan membersihkan fasilitas umum tanpa pamrih.
+  * *Penyeimbang Ifrath (Berlebih / People Pleaser & Kelelahan Fisik - Burnout):* Kunci dengan pilar *'Izzah*, *Hikmah*, dan *Shamt*. Ajarkan batasan diri syar'i agar anak tidak dimanfaatkan oleh pihak-pihak manipulatif, dan tanamkan bahwa menolong orang lain tidak boleh mengorbankan kewajiban fardhu 'ain pribadi.
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Melayani & Pola Asuh Nabawi
+
+Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan khazanah sirah OpenBayan, rumpun Melayani menemukan keteladanan puncaknya pada figur-figur shahabat berikut:
+
+### 1. Anas bin Malik radhiyallahu 'anhu: Khadimur Rasul 10 Tahun Penuh Kelembutan
+* **Manifestasi Bakat:** Berkhidmat melayani Rasulullah ﷺ sejak usia 10 tahun hingga wafatnya beliau (selama 10 tahun). Anas menuturkan: *"Demi Allah, Rasulullah tidak pernah sekalipun berkata 'ah' kepadaku, dan tidak pernah mencelaku atas apa yang kulakukan dengan ucapan 'mengapa engkau lakukan itu?' atau atas apa yang tidak kulakukan dengan ucapan 'mengapa tidak engkau lakukan?'"* (HR. Bukhari & Muslim).
+* **Pola Pengasuhan Nabawi:** Khidmah Anas dibalas oleh doa Rasulullah ﷺ yang mustajab: panjang umur, berkah harta dan keturunan, serta naungan surga.
+* **Pelajaran untuk Guru/Orang Tua:** Melayani bukanlah pekerjaan rendahan, melainkan jalan tercepat meraih kemuliaan adab dan doa para kekasih Allah. Latih anak melayani dengan kebanggaan, bukan paksaan.
+
+### 2. Abu Hurairah radhiyallahu 'anhu: Khidmah Menjaga Khazanah Hadits Umat
+* **Manifestasi Bakat:** Mengorbankan kenyamanan duniawi dan menahan lapar di serambi masjid (*Ahli Suffah*) demi melayani kebutuhan masa depan umat Islam dalam menjaga sabda dan ketetapan Rasulullah ﷺ. Beliau menjadi sahabat yang paling banyak meriwayatkan hadits (lebih dari 5.300 hadits).
+* **Pelajaran untuk Guru/Orang Tua:** Pelayanan peradaban tidak selalu berupa materi; pelayanan ilmu dan literasi adalah sedekah jariyah abadi yang menopang peradaban Islam.
+
+### 3. Abdullah bin Ummi Maktum radhiyallahu 'anhu: Khidmah Panggilan Adzan & Panji Dakwah
+* **Manifestasi Bakat:** Meskipun tuna netra, beliau mengemban amanah sebagai muadzin Rasulullah ﷺ di Madinah (hlm. 144 *Ashabur Rasul*). Bahkan Nabi ﷺ mempercayakannya memimpin kota Madinah sebanyak 13 kali saat Nabi memimpin ekspedisi luar kota. Di akhir hayatnya, ia memeluk tiang panji perang di Qadisiyah hingga gugur syahid.
+* **Pelajaran untuk Guru/Orang Tua:** Keterbatasan fisik (*difabel*) bukan penghalang untuk berkhidmat di garis depan peradaban. Temukan pintu khidmah yang sesuai dengan kelebihan anak.
+
+### 4. Asma' binti Abu Bakar radhiyallahu 'anha: *Dzatun Nithaqain* (Khidmah Logistik Peradaban)
+* **Manifestasi Bakat:** Menembus kegelapan malam mendaki gunung Tsur membawa makanan dan kabar intelijen bagi Rasulullah ﷺ dan ayahnya saat hijrah, merobek ikat pinggangnya (*Itsaar*) demi mengikat perbekalan dakwah.
+* **Pelajaran untuk Guru/Orang Tua:** Semangat melayani pada anak perempuan menumbuhkan jiwa ketabahan pahlawan yang tidak gentar menghadapi bahaya demi membela kebenaran.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Induk Peta Bakat 40 Pilar Karakter.
+* [[Bakat]] — Induk Peta Bakat 40 Pilar Karakter dan Matriks Sahabat.
 * [[Insan]] — Pembagian Jiwa dan Tujuan Penciptaan Manusia.
 * [[Bahasa Hati]] — Pendidikan Cinta dan Ketulusan Melayani.
 * [[Bank Studi Kasus]] — Rekam Jejak Kasus Pengasuhan Berbasis Bakat.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.

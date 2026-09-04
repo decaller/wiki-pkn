@@ -64,12 +64,7 @@ graph TD
   * *Tafrith (Lalai):* **'Inaad / Ananiyah (الأَنَانِيَّة)** — Individualis, egois, tidak mau berbagi peran. *Kuratif:* Libatkan dalam proyek kelompok yang mensyaratkan ketergantungan antar anggota.
   * *Ifrath (Berlebih):* **Ittikaaliyah (الاتِّكَالِيَّة)** — Ketergantungan kronis, tidak bisa bekerja mandiri. *Kuratif:* Berikan tugas personal yang menuntut pertanggungjawaban individual.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -85,12 +80,7 @@ graph TD
   * *Tafrith (Lalai):* **Namiimah / Furqah (الفُرْقَة)** — Gemar memecah belah dan mengelompokkan kawan (*clique*). *Kuratif:* Ingatkan dengan dosa besar adu domba.
   * *Ifrath (Berlebih):* **Talfiiq / Muhaadanah (المُهَادَنَة)** — Menoleransi kemungkaran demi menjaga keharmonisan semu. *Kuratif:* Tegakkan batas amar ma'ruf nahi munkar.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -106,12 +96,7 @@ graph TD
   * *Tafrith (Lalai):* **Zhulm / Haif (الظُّلْم)** — Curang, pilih kasih terhadap kawan dekat. *Kuratif:* Latihan menjadi wasit adil dalam permainan anak.
   * *Ifrath (Berlebih):* **Jumuud (الجُمُوْد)** — Kaku secara hukum tanpa mempertimbangkan aspek rahmah dan maslahat. *Kuratif:* Gabungkan dengan pilar *Rifq* dan *Rahmah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -127,12 +112,7 @@ graph TD
   * *Tafrith (Lalai):* **Ghadr / Khiyanah (الغَدْر)** — Ingkar janji, khianat kesepakatan. *Kuratif:* Ajarkan bahwa tanda munafik adalah bila berjanji ia ingkar.
   * *Ifrath (Berlebih):* **Wafaa' fil Ma'shiyah (الوَفَاءُ بِالمَعْصِيَة)** — Setia pada ikrar yang melanggar syariat. *Kuratif:* Tegakkan kaidah: *"Tidak ada ketaatan dalam maksiat kepada Khalik."*
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -148,12 +128,7 @@ graph TD
   * *Tafrith (Lalai):* **'Ubus / Quhuth (العُبُوْس)** — Wajah selalu cemberut, kaku, menakutkan orang lain. *Kuratif:* Latihan tersenyum dan menyapa ramah.
   * *Ifrath (Berlebih):* **Katsratul Dhahik (كَثْرَةُ الضَّحِكِ)** — Terlalu banyak tertawa terbahak-bahak hingga mematikan kepekaan hati (*qaswatul qalb*). *Kuratif:* Puasa tawa dan dzikrul maut.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -169,12 +144,7 @@ graph TD
   * *Tafrith (Lalai):* **Jafaa' (الجَفَاء)** — Sikap dingin, membuang muka saat berpapasan. *Kuratif:* Budayakan salam, senyum, dan sapa di rumah.
   * *Ifrath (Berlebih):* **Riya' / Tasannu' (التَّصَنُّع)** — Senyum palsu diplomatik untuk menutupi kebusukan niat. *Kuratif:* Luruskan keikhlasan batin lillahi ta'ala.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -190,12 +160,7 @@ graph TD
   * *Tafrith (Lalai):* **Unf / Ghilzhah (العُنْف)** — Kasar, suka membanting barang, membentak. *Kuratif:* Terapi wudhu saat marah dan larangan berbicara saat emosi tinggi.
   * *Ifrath (Berlebih):* **Dhina' / Huun (الهُوْن)** — Terlalu lembek hingga tidak berani menegur kemungkaran fatal. *Kuratif:* Padukan dengan pilar *Ghairah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -222,14 +187,14 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Ta'aawun** | التَّعَاوُن |  |  |  |
-| 2 | **Ulfah** | الاُلْفَة |  |  |  |
-| 3 | **'Adaalah** | العَدَالَة |  |  |  |
-| 4 | **Wafaa'** | الوَفَاء |  |  |  |
-| 5 | **Muzaah** | المُزَاح |  |  |  |
-| 6 | **Basyaasyah** | البَشَاشَة |  |  |  |
-| 7 | **Rifq** | الرِّفْق |  |  |  |
-| 8 | **Mahabbah** | المَحَبَّة |  |  |  |
+| 1 | **Ta'aawun** | التَّعَاوُن | Suka menjalin kerja sama sinergis, berdamai, dan merangkul untuk tujuan bersama | Penggerak Dakwah, Pembangun Jejaring, Juru Damai, Manajer Kemitraan, Wirausahawan Sinergis | Manajemen Bisnis, Ilmu Komunikasi, Ilmu Dakwah, Hubungan Internasional |
+| 2 | **Ulfah** | الاُلْفَة | Senang berkumpul, mudah akrab, merangkul anggota baru, mempererat ikatan kelompok | Da'i Komunitas, Humas Organisasi, Pimpinan Multikultur, Pembina Remaja Masjid | Sosiologi, Manajemen Pendidikan, Komunikasi Dakwah, Antropologi |
+| 3 | **'Adaalah** | العَدَالَة | Menempatkan hak secara proporsional dan adil, objektif, tidak memihak karena sentimen | Hakim, Arbiter Sengketa Bisnis, Penilai Standar Mutu, Petugas Bagi Hasil, Notaris | Hukum Ekonomi Syariah, Ilmu Hukum, Ushul Fiqih, Kebijakan Publik |
+| 4 | **Wafaa'** | الوَفَاء | Memegang teguh kesepakatan dan janji, terpercaya dalam kemitraan jangka panjang | Manajer Kontrak Kemitraan, Account Executive, Quality Assurance, Administrator Kerjasama | Hukum Perdata/Bisnis, Administrasi Niaga, Manajemen Hubungan Industri |
+| 5 | **Muzaah** | المُزَاح | Selera humor santun, pandai mencairkan ketegangan, menghadirkan keceriaan syar'i | Edukator/Trainer Interaktif, Fasilitator Outbound, Penulis Konten Kreatif, Presenter | Ilmu Komunikasi, Tarbiyah Kreatif, Seni Peran/Media Islami |
+| 6 | **Basyaasyah / Rifq** | البَشَاشَة | Wajah ramah berseri-seri, senyum hangat, bertutur kata lembut menyejukkan hati | Duta Pelayanan Umat, Customer Service Specialist, Negosiator Santun, Front Office | Manajemen Perhotelan Syariah, Ilmu Komunikasi, Public Relations, Psikologi |
+| 7 | **Hamaasah** | الحَمَاسَة | Semangat antusiasme tinggi yang menular, membakar gairah kelompok untuk berprestasi | Koordinator Kampanye Sosial, Event Organizer Dakwah, Kapten Tim, Pemandu Lapangan | Manajemen Acara (Event Management), Komunikasi Massa, Manajemen Olahraga |
+| 8 | **Mahabbah** | المَحَبَّة | Menumbuhkan cinta karena Allah (ukhuwah fillah), tulus memperhatikan kawan seiman | Pembina Asrama/Pondok, Konselor Keluarga Sakinah, Pekerja Sosial Ukhuwah, Mentor | Bimbingan Konseling Islam, Psikologi Sosial, Ilmu Kesejahteraan Keluarga |
 
 ---
 
@@ -266,21 +231,41 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-* **Profesi:** Public Relations (Humas), Mediator/Juru Damai, Manajer Sumber Daya Manusia (HRD), Pengembang Kemitraan Strategis, Event Organizer (EO) Dakwah, Diplomat Hubungan Luar Negeri.
-* **Rumpun Jurusan:** Ilmu Komunikasi, Hubungan Internasional, Psikologi Industri & Organisasi, Manajemen Sumber Daya Manusia, Sosiologi Islam.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku dikaruniai kemudahan merangkul sesama, mencairkan perselisihan menjadi persaudaraan yang hangat, membangun kemitraan syar'i yang kokoh, dan menyatukan berbagai potensi umat demi kemaslahatan dakwah Islam."*
+* **Peta Karir Peradaban (Profesi):** Public Relations (Humas), Mediator/Juru Damai, Manajer Sumber Daya Manusia (HRD), Pengembang Kemitraan Strategis, Event Organizer (EO) Dakwah, Diplomat Hubungan Luar Negeri.
+* **Peta Jurusan Studi & Akademik:** Ilmu Komunikasi, Hubungan Internasional, Psikologi Industri & Organisasi, Manajemen Sumber Daya Manusia, Sosiologi Islam.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Individualis & Mengasingkan Diri - 'Uzlah Salbiyyah):* Latih anak dalam aktivitas beregu, beri peran sebagai tuan rumah saat ada tamu, dan biasakan menyapa kawan dengan senyum ceria.
+  * *Penyeimbang Ifrath (Berlebih / Kompromi Syariat Demi Pertemanan - Mudahanah & 'Ashabiyah):* Kunci dengan pilar *'Adaalah*, *Ghairah*, dan *Shidq*. Tanamkan prinsip teguh: kecintaan kepada sahabat tidak boleh mengorbankan kebenaran hukum Allah SWT.
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Bekerja Sama & Pola Asuh Nabawi
+
+Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan khazanah sirah OpenBayan, rumpun Bekerja Sama terwujud secara mempesona pada pribadi-pribadi sahabat berikut:
+
+### 1. Mush'ab bin Umair radhiyallahu 'anhu: Duta Diplomasi Pertama yang Membuka Madinah
+* **Manifestasi Bakat:** Duta dakwah pertama yang diutus Rasulullah ﷺ ke Yatsrib (Madinah). Dengan tutur kata santun, kelembutan akhlak (*Rifq*), dan kemampuan merangkul (*Ulfah*), beliau meluluhkan permusuhan berdarah puluhan tahun antara suku Aus dan Khazraj hingga hampir seluruh rumah di Madinah memeluk Islam sebelum Nabi berhijrah.
+* **Pelajaran untuk Guru/Orang Tua:** Diplomasi dakwah memerlukan seni komunikasi yang santun dan empati mendalam. Anak yang supel dan mudah bergaul adalah calon duta-duta peradaban masa depan.
+
+### 2. Abdurrahman bin Auf radhiyallahu 'anhu: Maestro Sinergi Ekonomi & Kemitraan Pasar
+* **Manifestasi Bakat:** Ketika tiba di Madinah tanpa sepeser pun uang, Sa'ad bin Ar-Rabi' menawarinya separuh rumah dan hartanya. Abdurrahman dengan elegan berterima kasih dan berkata: *"Tunjukkan padaku di mana pasar!"* Beliau membangun sinergi perdagangan bersama kaum Anshar hingga melahirkan pasar Madinah yang membebaskan perekonomian muslim dari cengkeraman monopoli Yahudi.
+* **Pelajaran untuk Guru/Orang Tua:** Kerja sama ekonomi dalam Islam didasarkan pada harga diri (*'Izzah*) dan kemitraan saling menguntungkan (*Syirkah*), bukan mentalitas meminta-minta atau ketergantungan.
+
+### 3. Nu'aiman bin Amr Al-Anshari radhiyallahu 'anhu: Humor Santun Edukatif (*Muzaah*)
+* **Manifestasi Bakat:** Sahabat pejuang Badar yang terkenal jenaka dan suka bercanda secara cerdas. Candaannya sering kali membuat Rasulullah ﷺ tertawa hingga terlihat gigi geraham beliau, menjadi penyejuk suasana di tengah beratnya beban perjuangan.
+* **Pelajaran untuk Guru/Orang Tua:** Jangan marahi anak yang suka bercanda dan menghibur temannya sebagai anak tidak sopan. Bimbing humurnya agar tetap jujur tanpa menyakiti hati kawan dan tidak berdusta (*Muzaah Nabawi*).
+
+### 4. Kaum Anshar & Muhajirin: Mahakarya Mu'akhah (Persaudaraan Puncak Sejarah)
+* **Manifestasi Bakat:** Peristiwa *Mu'akhah* di rumah Anas bin Malik adalah bukti nyata bagaimana nilai *Ta'aawun* dan *Mahabbah* mampu meleburkan fanatisme suku menjadi satu kesatuan tubuh yang kokoh.
+* **Pelajaran untuk Guru/Orang Tua:** Didik anak untuk selalu memandang sesama muslim sebagai saudara kandung seakidah, menghilangkan sekat-sekat kesukuan dan status sosial.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Taksonomi Lengkap 40 Pilar Karakter.
-* [[Bahasa Lisan]] — Komunikasi Nasihat dan Tabayyun.
+* [[Bakat]] — Taksonomi Lengkap 40 Pilar Karakter dan Matriks Sahabat.
+* [[Bahasa Lisan]] — Komunikasi Nasihat dan Tabayyun dalam Berjamaah.
 * [[Imunitas Sosial]] — Membentengi Anak dari Pengaruh Negatif Lingkungan.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.

@@ -62,12 +62,7 @@ graph TD
   * *Tafrith (Lalai):* **Kadzib / Nifaq (الكَذِب)** — Dusta, menutupi kesalahan dengan rekayasa. *Kuratif:* Bangun rasa aman di rumah; jangan pernah hukum anak yang telah berani jujur mengakui kesalahan.
   * *Ifrath (Berlebih):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Berbicara terlalu polos hingga membuka aib keluarga atau rahasia penting. *Kuratif:* Dikuatkan dengan pilar *Kitmaanus Sirr* dan *Satr*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -83,12 +78,7 @@ graph TD
   * *Tafrith (Lalai):* **Fahsy (الفَحْش)** — Terjerumus pada pergaulan bebas, pornografi, atau serakah harta haram. *Kuratif:* Bentengi pandangan mata, fasilitasi pernikahan dini saat usia syabab bila telah mampu.
   * *Ifrath (Berlebih):* **Was-was / Rohbaniyah (الرَّهْبَانِيَّة)** — Mengharamkan hal-hal mubah dan menjauhi interaksi halal kemasyarakatan. *Kuratif:* Tanamkan sunnah Nabi ﷺ dalam berkeluarga dan bermuamalah.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -104,12 +94,7 @@ graph TD
   * *Tafrith (Lalai):* **Ghiibah / Namimah (الغِيْبَة)** — Gemar bergosip, mencela, dan menebar fitnah. *Kuratif:* Puasa bicara sia-sia, perbanyak dzikir lisan.
   * *Ifrath (Berlebih):* **Jubn (الجُبْن)** — Takut berbicara kebenaran saat kemungkaran merajalela. *Kuratif:* Dikuatkan dengan pilar *Syajaa'ah* dan *Nashiihah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -125,12 +110,7 @@ graph TD
   * *Tafrith (Lalai):* **Waqaahah (الوَقَاحَة)** — Muka tebal, tidak punya malu berbuat dosa di ruang publik. *Kuratif:* Tanamkan muraqabatullah sejak usia tamyiz.
   * *Ifrath (Berlebih):* **Duuniyyah (الدُوْنِيَّة)** — Minder patologis, takut tampil, tidak berani menyuarakan hak. *Kuratif:* Penguatan konsep diri beriman melalui pilar *'Izzah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -146,12 +126,7 @@ graph TD
   * *Tafrith (Lalai):* **Thama' / Hasad (الطَّمَع)** — Serakah, tidak pernah puas, iri melihat rezeki tetangga. *Kuratif:* Melatih anak berinfaq dan melihat orang yang berada di bawahnya dalam urusan duniawi.
   * *Ifrath (Berlebih):* **Tawaakul / Kasal (التَّوَاكُل)** — Pasrah buta tanpa ikhtiar, enggan bekerja mencari nafkah halal. *Kuratif:* Integrasikan dengan pilar *Himmah* dan *'Aziimah*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -178,12 +153,12 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Shidq** | الصِّدْق |  |  |  |
-| 2 | **'Iffah** | العِفَّة |  |  |  |
-| 3 | **Shamt** | الصَّمْت |  |  |  |
-| 4 | **Hayaa'** | الحَيَاء |  |  |  |
-| 5 | **Qanaa'ah** | القَنَاعَة |  |  |  |
-| 6 | **Tawaadhu'** | التَّوَاضُع |  |  |  |
+| 1 | **Husnuzhan** | حُسْنُ الظَّن | Berprasangka baik, optimis terhadap takdir Allah dan potensi taubat manusia | Konselor, Mediator Sengketa Keluarga, Terapis Jiwa, Pembina Komunitas Hijrah | Psikologi, Bimbingan Konseling Islam, Ilmu Sosial, Sosiologi |
+| 2 | **Shidq** | الصِّدْق | Kejujuran lurus, keselarasan kata dan perbuatan, pantang bersandiwara | Pengelola Dana Umat (Baitul Mal), Auditor Syariah, Hakim, Jaksa, Pengadaan Barang | Administrasi Keuangan, Akuntansi Syariah, Ilmu Hukum Islam, Manajemen Zakat & Wakaf |
+| 3 | **'Iffah** | العِفَّة | Menjaga kesucian diri dari syahwat terlarang, kehormatan adab, dan harta syubhat | Auditor Syariah, Penjaga Rahasia Lembaga, Sastrawan Adab, Pembina Keputrian | Syariah wa Ushuluddin, Ilmu Hadits, Sastra Arab, Studi Keluarga Islam |
+| 4 | **Hayaa'** | الحَيَاء | Rasa malu syar'i yang memagari dari maksiat, keanggunan pekerti dan tutur kata | Kurator Adab, Guru PAUD/Karakter, Desainer Busana Syar'i, Pengasuh Pesantren Putri | Pendidikan Islam Anak Usia Dini (PIAUD), Tata Busana Syar'i, Tarbiyah |
+| 5 | **Qanaa'ah** | القَنَاعَة | Merasa cukup dengan rezeki halal, hidup bersahaja, terbebas dari jerat hedonisme | Tim Penghemat Anggaran Lembaga, Petugas Logistik Lapangan, Relawan Bencana | Ilmu Ekonomi Pembangunan, Manajemen Sumber Daya Alam, Akuntansi Lingkungan |
+| 6 | **Shabr** | الصَّبْر | Ketabahan jiwa menanggung ujian berat, pantang putus asa dan mengeluh | Da'i Daerah Pelosok/Terpencil, Perawat Pasien Kritis, Pekerja Sosial, Peneliti Arsip | Keperawatan, Ilmu Kesejahteraan Sosial, Ilmu Sejarah Islam, Manajemen Pelayanan |
 
 ---
 
@@ -220,22 +195,46 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-* **Profesi:** Pengelola Baitul Mal / Bendahara Amanah, Auditor Keuangan Syariah, Konselor Pernikahan, Sastrawan/Penulis Buku Akhlak, Arsitek Beradab, Kurator Warisan Sejarah Islam.
-* **Rumpun Jurusan:** Akuntansi Syariah, Manajemen Keuangan Islam, Sastra Arab & Linguistik, Psikologi Konseling Islam, Ilmu Adab & Sejarah Peradaban Islam.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku dikaruniai kepekaan nurani batin yang mendalam, menjaga kejujuran dan rasa malu syar'i di hadapan Allah SWT, serta menyebarkan kehangatan kasih sayang dan ketenteraman bagi sesama manusia."*
+* **Peta Karir Peradaban (Profesi):** Pengelola Baitul Mal / Bendahara Amanah, Auditor Keuangan Syariah, Konselor Pernikahan, Sastrawan/Penulis Buku Akhlak, Arsitek Beradab, Kurator Warisan Sejarah Islam.
+* **Peta Jurusan Studi & Akademik:** Akuntansi Syariah, Manajemen Keuangan Islam, Sastra Arab & Linguistik, Psikologi Konseling Islam, Ilmu Adab & Sejarah Peradaban Islam.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Hati Keras - Qaswatul Qalb & Kemunafikan):* Basahi lisan dengan istighfar dan dzikir ma'tsurat, luangkan waktu menangis dalam sujud tahajjud, santuni anak yatim, dan tadabburi ayat-ayat surga dan neraka.
+  * *Penyeimbang Ifrath (Berlebih / Baperan, Lemah Mental & Mahaanah):* Kunci dengan pilar *'Izzah*, *Syajaa'ah*, dan *'Aziimah*. Latih ketegasan mental menghadapi kenyataan hidup, jangan biarkan diri tenggelam dalam drama kesedihan yang melemahkan jihad amal.
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Berperasaan & Pola Asuh Nabawi
+
+Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan khazanah sirah OpenBayan, rumpun Berperasaan tercermin pada pribadi-pribadi agung berikut:
+
+### 1. Abu Bakar Ash-Shiddiq radhiyallahu 'anhu: Puncak Kasih Sayang & Kepekaan Nurani (*Arhamu Ummati*)
+* **Manifestasi Bakat:** Rasulullah ﷺ bersabda bahwa manusia paling penyayang di kalangan umat ini adalah Abu Bakar (*Arhamu ummati bi ummati*). Hatinya sangat lembut (*Asif*); beliau tidak sanggup membaca Al-Qur'an saat mengimami shalat melainkan air matanya tumpah membasahi jenggotnya.
+* **Kedermawanan Empati:** Kepekaan rasa Abu Bakar tidak menjadikannya pasif. Ia membeli Bilal bin Rabah, Khabbab, dan budak-budak tertindas di Makkah lalu memerdekakan mereka semata-mata karena hatinya teriris melihat mereka disiksa.
+* **Pelajaran untuk Guru/Orang Tua:** Jangan menganggap anak yang mudah menangis sebagai anak cengeng. Jika dialirkan ke jalan iman, kelembutan hatinya akan menjadi energi empati sosial yang menyelamatkan ribuan orang.
+
+### 2. Utsman bin Affan radhiyallahu 'anhu: Mahkota Rasa Malu Syar'i (*Ashdaquhum Haya'an*)
+* **Manifestasi Bakat:** Memiliki rasa malu (*Hayaa'*) paling otentik dan suci di antara para sahabat. Rasulullah ﷺ bersabda: *"Tidakkah aku merasa malu kepada seseorang yang malaikat pun merasa malu kepadanya?"* (HR. Muslim No. 2401).
+* **Kehormatan Pribadi:** Utsman tidak pernah membuka auratnya bahkan saat mandi di tempat tertutup karena malunya kepada Allah SWT.
+* **Pelajaran untuk Guru/Orang Tua:** Rasa malu (*Hayaa'*) adalah perhiasan tertinggi fitrah seksual dan adab. Jaga anak dari tontonan dan lingkungan yang merusak rasa malu alami mereka.
+
+### 3. Abu Dzar Al-Ghifari radhiyallahu 'anhu: Kejujuran Lurus & Batasan Manajerial
+* **Manifestasi Bakat:** *Ashdaqu lahjah* (paling jujur perkataannya di muka bumi, hlm. 217 *Ashabur Rasul*). Hidupnya sangat zuhud, lurus tanpa basa-basi politik.
+* **Pola Pengasuhan Nabawi:** Ketika Abu Dzar meminta jabatan gubernur, Nabi ﷺ menolaknya secara halus demi melindunginya: *"Wahai Abu Dzar, engkau ini lemah (dalam urusan administrasi kekuasaan)..."* (HR. Muslim).
+* **Pelajaran untuk Guru/Orang Tua:** Kejujuran ekstrem dan kezuhudan adalah karunia besar, namun anak bertipe ini tidak boleh dipaksa masuk ke ranah politik praktis atau birokrasi korporat yang menuntut kompromi taktis berbelit-belit. Tempatkan ia sebagai penasihat moral atau audit independen.
+
+### 4. Ashaj Abdul Qais radhiyallahu 'anhu: Fitrah Santun & Ketenangan Sejak Lahir (*Al-Hilm wal-Anaah*)
+* **Manifestasi Bakat:** Ketika delegasi Abdul Qais bergegas turun dari unta berebut menemui Nabi ﷺ, Ashaj dengan tenang merapikan barang bawaannya, mandi, mengenakan pakaian terbaiknya, baru kemudian menghadap Nabi dengan santun dan berwibawa.
+* **Pelajaran untuk Guru/Orang Tua:** Anak yang tenang dan tidak tergesa-gesa jangan diintimidasi dengan teriakan "lambat!". Ketenangannya adalah karunia *Al-Anaah* yang dicintai Allah dan Rasul-Nya.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Taksonomi Lengkap Karakter Nabawiyah.
-* [[Insan]] — Anatomi Ruh, Nafs, dan Qalb.
-* [[Bahasa Hati]] — Seni Mengisi Tangki Cinta Anak.
+* [[Bakat]] — Taksonomi Lengkap Karakter Nabawiyah dan Matriks Sahabat.
+* [[Insan]] — Anatomi Ruh, Nafs, dan Qalb dalam Tradisi Nabawi.
+* [[Bahasa Hati]] — Seni Mengisi Tangki Cinta dan Mengasah Kepekaan Nurani Anak.
 * [[Tazkiyatun Nafs]] — Metodologi Pembersihan Jiwa dalam Islam.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
+

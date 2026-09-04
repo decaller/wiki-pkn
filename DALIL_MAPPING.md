@@ -650,3 +650,30 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 
 ---
 
+## 📄 `Bakat.md (Spesialisasi Ashabus Rasul)`
+**Kata Kunci OpenBayan:** `أرحم أمتي بأمتي أبو بكر`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي دِينِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ، وَأَعْلَمُهُمْ بِالْحَلَالِ وَالْحَرَامِ مُعَاذُ بْنُ جَبَلٍ، وَأَقْرَؤُهُمْ لِكِتَابِ اللَّهِ أُبَيٌّ، وَأَعْلَمُهُمْ بِالْفَرَائِضِ زَيْدُ بْنُ ثَابِتٍ، وَلِكُلِّ أُمَّةٍ أَمِينٌ، وَأَمِينُ هَذِهِ الْأُمَّةِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ »
+> 
+> *"Orang yang paling penyayang di antara umatku adalah Abu Bakar, yang paling tegas dalam menegakkan agama Allah adalah Umar, yang paling pemalu adalah Utsman, yang paling mengetahui halal dan haram adalah Mu'adz bin Jabal, yang paling ahli membaca Al-Qur'an adalah Ubay (bin Ka'ab), yang paling mengetahui ilmu waris adalah Zaid bin Tsabit, dan setiap umat memiliki orang kepercayaan, dan orang kepercayaan umat ini adalah Abu Ubaidah bin Al-Jarrah."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** HR. Ahmad (3:184), At-Tirmidzi (No. 3802), Ibnu Majah (No. 154); *Siyar A'lam An-Nubala* (Adz-Dzahabi); *Ashabur Rasul SAW* (Syaikh Mahmud Al-Mishri)  
+> 💡 **Relevansi PKN:** Mahkota pembuktian sejarah bahwa Rasulullah ﷺ memetakan dan mengapresiasi keragaman bakat bawaan (*fadhilah*) para sahabat tanpa pernah memaksakan penyeragaman yang kaku.
+
+---
+
+## 📄 `Bekerja Keras.md (Ketahanan Fisik Ksatria)`
+**Kata Kunci OpenBayan:** `خير فرساننا أبو قتادة وخير رجالتنا سلمة`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « كَانَ خَيْرَ فُرْسَانِنَا الْيَوْمَ أَبُو قَتَادَةَ، وَخَيْرَ رَجَّالَتِنَا سَلَمَةُ »
+> 
+> *"Sebaik-baik prajurit berkuda kita hari ini adalah Abu Qatadah, dan sebaik-baik prajurit pejalan kaki (pelari) kita adalah Salamah (bin Al-Akwa')."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (No. 1807) - Kitab al-Jihad was-Siyar; *Ashabur Rasul SAW* (Syaikh Mahmud Al-Mishri hlm. 497)  
+> 💡 **Relevansi PKN:** Validasi peran kinestetik motorik: stamina kerja keras fisik dan keterampilan tubuh (*gross/fine motor skills*) adalah pilar kemuliaan peradaban yang dipuji langsung oleh Rasulullah ﷺ.
+
+---

@@ -104,12 +104,7 @@ graph TD
   * *Tafrith (Lalai):* **Dzull (الذُّلّ)** — Jiwa lemah, minder, mudah diintimidasi kebatilan. *Kuratif:* Penguatan tauhid rububiyah dan pilar *Syajaa'ah*.
   * *Ifrath (Berlebih):* **Kibr (الكِبْر)** — Angkuh, menolak kebenaran dan merendahkan manusia. *Kuratif:* Diimbangi dengan pilar *Tawaadhu'* dan *Hayaa'*.
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -125,12 +120,7 @@ graph TD
   * *Tafrith (Lalai):* **Thaysy (الطَّيْش)** — Sikap serampangan, banyak bercanda tidak pada tempatnya, hilang wibawa. *Kuratif:* Latihan adab diam (*Shamt*) dan tafakkur.
   * *Ifrath (Berlebih):* **'Ujb (العُجْب)** — Merasa diri paling suci dan menjaga jarak dingin dari orang lain. *Kuratif:* Pelatihan kehangatan (*Basyaasyah*) dan kerendahhatian (*Tawaadhu'*).
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -146,12 +136,7 @@ graph TD
   * *Tafrith (Lalai):* **Kasal (الكَسَل)** — Menunda pekerjaan, ragu melangkah, berat memulai. *Kuratif:* Pemecahan tugas besar menjadi modul kecil dan pendampingan *Bahasa Tangan* terstruktur.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat bertindak tanpa perhitungan syariat dan strategi. *Kuratif:* Wajib musyawarah dan penanaman pilar *Anaah* (kehati-hatian).
 
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
-* **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+
 
 ---
 
@@ -178,12 +163,12 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 | No | Pilar Karakter | Bahasa Arab | Karakter Inti | Rekomendasi Profesi Peradaban | Rekomendasi Jurusan Studi / Vokasi |
 |---|---|:---:|---|---|---|
-| 1 | **Himmah** | الهِمَّة | Semua |  |  |
-| 2 | **Ihsaan** | الاِحْسَان | Extrovert |  |  |
-| 3 | **'Izzah** | العِزَّة |  |  |  |
-| 4 | **Waqaar** | الوَقَار |  |  |  |
-| 5 | **'Aziimah** | العَزِيمَة |  |  |  |
-| 6 | **Nasyaath** | النَّشَاط |  |  |  |
+| 1 | **Himmah** | الهِمَّة | Memiliki rasa ingin tahu dan gairah tinggi meraih cita-cita tertinggi peradaban | Tim Litbang/Perumus Visi, Entrepreneur Visioner, Perencana Jangka Panjang, Inovator | Manajemen Strategis, Teknik Industri, Hubungan Internasional, Sains Terapan |
+| 2 | **Ihsaan** | الاِحْسَان | Bekerja dengan mutu terbaik (*itqan*), teliti, tuntas, dan berorientasi kesempurnaan | Quality Assurance (QA/QC), Arsitek Perancang, Kurator Presisi, Spesialis Kalibrasi | Arsitektur, Teknik Mesin Presisi, Desain Grafis/Industri, Akuntansi Forensik |
+| 3 | **'Izzah** | العِزَّة | Menjaga kehormatan diri sebagai mukmin, pantang meminta-minta dan tunduk pada kezaliman | Pengusaha Mandiri, Manajer Negosiasi Kontrak, Petugas Perlindungan Hak, Diplomat | Ilmu Hukum, Ekonomi Bisnis, Hubungan Internasional, Ketahanan Nasional |
+| 4 | **Waqaar** | الوَقَار | Ketenangan berwibawa, tidak banyak bicara tapi disegani, tangguh dalam tekanan | Konsultan Senior, Pendidik Karakter, Trainer Kepemimpinan, Tim Manajemen Krisis | Manajemen SDM, Psikologi Kepemimpinan, Teknik Sipil, Ilmu Pendidikan |
+| 5 | **'Aziimah** | العَزِيمَة | Tekad membaja yang tak tergoyahkan oleh rintangan, pantang mundur sebelum tuntas | Komandan Lapangan, Eksekutor Proyek Sulit, Peneliti Riset Ekstrem, Perintis Usaha | Teknik Sipil/Kelautan, Ekspedisi Geologi, Manajemen Proyek, Akademi Militer |
+| 6 | **Nasyaath** | النَّشَاط | Stamina fisik tinggi, selalu bersemangat menyelesaikan pekerjaan lapangan hingga tuntas | Kontraktor Lapangan, Teknisi Mesin/Listrik, Relawan SAR Bencana, Pemadam Kebakaran | Teknik Mesin, Teknik Elektro, Keperawatan Gawat Darurat, Pendidikan Olahraga |
 
 ---
 
@@ -222,23 +207,43 @@ Untuk memastikan apakah seorang anak memiliki benih unggul bakat **Bekerja Keras
 
 ---
 
-## 5. Pemetaan Rumpun Profesi & Jurusan Masa Depan
+## 5. Profil Karakter, Label Diri, & Terapi Deviasi (Manhaj SKIS)
 
-Bakat Bekerja Keras yang terdidik secara islami akan melahirkan insan kamil yang mengisi pos-pos vital peradaban:
-* **Profesi:** Insinyur Sipil, Arsitek Lapangan, Kontraktor Proyek, Quality Controller (QC), Mekanik Handal, Ahli Robotika & Mesin, Tim SAR & Logistik Kemanusiaan, Entrepreneur Manufaktur.
-* **Rumpun Jurusan:** Teknik Sipil, Teknik Mesin, Teknik Elektro, Agroteknologi, Farmasi Industri, Manajemen Operasional, Desain Produk Industri.
-
-* **Label Diri (Self-Talk Indikator):** *""*
-* **Peta Karir Peradaban (Profesi):** 
-* **Peta Jurusan Studi & Akademik:** 
+* **Label Diri (Self-Talk Indikator):** *"Aku dikaruniai energi fisik dan tekad membaja untuk bekerja keras menuntaskan amanah dengan standar ihsan tertinggi, menjaga harga diri mukmin, dan menyumbangkan keringat demi kejayaan peradaban Islam."*
+* **Peta Karir Peradaban (Profesi):** Insinyur Sipil, Arsitek Lapangan, Kontraktor Proyek, Quality Controller (QC), Mekanik Handal, Ahli Robotika & Mesin, Tim SAR & Logistik Kemanusiaan, Entrepreneur Manufaktur.
+* **Peta Jurusan Studi & Akademik:** Teknik Sipil, Teknik Mesin, Teknik Elektro, Agroteknologi, Farmasi Industri, Manajemen Operasional, Desain Produk Industri.
 * **Preskripsi Terapi Deviasi (Manhaj SKIS):**
-  * *Pemulihan Tafrith (Lalai):* 
-  * *Penyeimbang Ifrath (Berlebih):* 
+  * *Pemulihan Tafrith (Lalai / Kemalasan & Lesu - Kasal & Khumuul):* Kuatkan pilar *Himmah* dan *Nasyaath*. Biasakan bangun pagi sebelum subuh, olahraga fisik sunnah (memanah, berenang, beladiri), dan beri target kerja harian terukur yang wajib diselesaikan.
+  * *Penyeimbang Ifrath (Berlebih / Workaholic & Melampaui Batas Tubuh - Irhaaq):* Kunci dengan pilar *Hikmah*, *Qanaa'ah*, dan *Rahmah*. Tanamkan nasehat agung Salman Al-Farisi: *"Sesungguhnya Rabbmu memiliki hak atasmu, jiwamu memiliki hak atasmu, dan keluargamu memiliki hak atasmu, maka berikanlah setiap yang memiliki hak haknya masing-masing."*
+
+---
+
+## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Bekerja Keras & Pola Asuh Nabawi
+
+Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan korpus sirah OpenBayan, rumpun Bekerja Keras tercermin dengan sangat perkasa pada para sahabat berikut:
+
+### 1. Salamah bin Al-Akwa' radhiyallahu 'anhu: Ketahanan Fisik Pejalan Kaki Nomor Satu (*Khairu Rajjālatinā*)
+* **Manifestasi Bakat:** Memiliki kecepatan lari dan ketahanan fisik (*Nasyaath*) yang melampaui kuda. Pada peristiwa Ghazwah Dzi Qarad, ketika sekelompok musuh merampas unta-unta Rasulullah ﷺ, Salamah mengejar mereka sendirian dengan berjalan kaki, memanah musuh sambil melompat dari bukit ke bukit, hingga merebut kembali seluruh unta rampasan.
+* **Pengakuan Nabawi:** Rasulullah ﷺ bersabda: *"Sebaik-baik prajurit berkuda kita hari ini adalah Abu Qatadah, dan sebaik-baik prajurit pejalan kaki kita adalah Salamah!"* (HR. Muslim No. 1807).
+* **Pelajaran untuk Guru/Orang Tua:** Anak yang hiperaktif, tidak bisa diam, dan gemar berlari-lari menyimpan potensi kinestetik ksatria. Salurkan staminanya ke olahraga bela diri, atletik, atau proyek fisik yang bermartabat.
+
+### 2. Abu Qatadah Al-Anshari radhiyallahu 'anhu: Penunggang Kuda Terbaik Kaum Muslimin (*Khairu Fursāninā*)
+* **Manifestasi Bakat:** Ksatria berkuda andalan Rasulullah ﷺ yang dijuluki *Farisur Rasul* (hlm. 497 *Ashabur Rasul*). Beliau memiliki koordinasi gerak fisik (*Gross & Fine Motor*) dan reflek tempur yang luar biasa tangguh.
+* **Pelajaran untuk Guru/Orang Tua:** Keterampilan fisik tingkat tinggi membutuhkan kedisiplinan latihan berulang sejak usia Tamyiz agar menjadi refleks yang terlatih.
+
+### 3. Al-Bara' bin Malik radhiyallahu 'anhu: Daya Dobrak Ksatria Tak Kenal Mundur ('Aziimah)
+* **Manifestasi Bakat:** Saudara kandung Anas bin Malik ini memiliki tekad membaja (*'Aziimah*) dan keberanian fisik tanpa batas (hlm. 182 *Ashabur Rasul*). Pada Perang Yamamah, ketika kaum muslimin tertahan di depan gerbang benteng Musailamah Al-Kadzdzab, Al-Bara' meminta tubuhnya dilemparkan ke dalam benteng menggunakan pelontar demi membuka gerbang dari dalam sendirian. Beliau terluka di lebih dari delapan puluh titik namun tetap bertahan hidup.
+* **Pelajaran untuk Guru/Orang Tua:** Ketangguhan fisik yang disinari iman melahirkan ketabahan luar biasa yang tidak pernah gentar menghadapi rintangan hidup seberat apa pun.
+
+### 4. Khabbaab bin Al-Aratt radhiyallahu 'anhu: Ketabahan 'Aziimah Menghadapi Tekanan Berat
+* **Manifestasi Bakat:** Pandai besi pertama di Makkah yang disiksa dengan punggung ditempelkan di atas bara api menyala hingga lemak tubuhnya memadamkan api tersebut. Ia tidak pernah mengucapkan sepatah kata kekufuran pun.
+* **Pelajaran untuk Guru/Orang Tua:** Pekerja keras muslim bukan hanya kuat ototnya, tetapi memiliki tekad tauhid yang tahan uji dalam situasi paling terjepit sekalipun.
 
 ---
 
 ## 6. Tautan Konseptual Terkait
-* [[Bakat]] — Induk Peta 6 Dimensi Karakter Nabawiyah.
+* [[Bakat]] — Induk Peta 6 Dimensi Karakter Nabawiyah dan Matriks Sahabat.
 * [[Insan]] — Hakikat Manusia, Ruh, Jasad, dan Jiwa.
 * [[Pembelajaran Alamiah]] — Metode Belajar Alami Berbasis Ekosistem Nyata.
 * [[Perkembangan]] — Pentahapan Usia dari Thufulah Menuju Mukallaf Mandiri.
+* [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
