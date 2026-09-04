@@ -1,10 +1,16 @@
 ---
-title: Homepage
+title: Beranda
 ---
 
-Welcome to the PKN Knowledge Base.
+# Wiki Pendidikan Karakter Nabawiyah (PKN)
 
-Explore the collections below:
-- [[Paradigma - Implementasi PKN/Paradigma & Implementasi/Paradigma Pendidikan Ideal|Paradigma Pendidikan Ideal]]
-- [[Paradigma - Implementasi PKN/Paradigma & Implementasi|Paradigma & Implementasi]]
-- [[Welcome/What is Outline|What is Outline]]
+Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**. Dokumentasi ini memuat panduan, paradigma, tahapan perkembangan fitrah, serta implementasi pendidikan karakter berbasis kurikulum nabawiyah.
+
+## Jelajahi Pembahasan Utama
+
+* [[FAQ Ringkas]] — Pertanyaan umum dan ringkasan konsep utama PKN.
+* [[Insan]] — Hakikat penciptaan manusia, pembagian jiwa, dan fitrah (iman, belajar, bakat, perkembangan).
+* [[Pendidikan Ideal]] — Benang merah pendidikan, batas toleransi, metode mendidik, dan pembelajaran alamiah.
+* [[Implementasi]] — Kaidah, elemen, penyucian jiwa, serta sinergi peran orang tua dan pendidik.
+
+Gunakan navigasi di bilah sisi kiri (**Outline Navigation**) untuk menelusuri seluruh topik secara terstruktur.
