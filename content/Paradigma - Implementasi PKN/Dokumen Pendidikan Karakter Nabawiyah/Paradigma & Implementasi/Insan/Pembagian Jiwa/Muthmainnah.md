@@ -1,95 +1,37 @@
-# Jiwa Muthmainnah
-
-Jiwa Muthmainnah adalah jiwa yang memiliki kecenderungan kepada ruh. Unsur jiwa yang berperasaan sehingga menjadikan lembut dalam beraktivitas. Jiwa ini diwakili oleh hati.
-
-# Dalil-dalil <masih default>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-
-### Judul dalil 2
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
+---
+title: "Muthmainnah"
+---
 
 # Jiwa Muthmainnah
 
-< Grafik Utama Tema >
+Jiwa Muthmainnah adalah puncak kedamaian spiritual, pusat rasa batin (*affective quotient*), dan sumber ketenangan tauhid yang bersemayam di dalam kalbu (*qalb*). Jiwa inilah yang diseru oleh Allah dengan penuh keridhaan di akhir hayat.
 
-## Sifat
+> *"Wahai jiwa yang tenang! Kembalilah kepada Tuhanmu dengan hati yang ridha lagi diridhai-Nya. Maka masuklah ke dalam golongan hamba-hamba-Ku, dan masuklah ke dalam surga-Ku."* (QS. Al-Fajr: 27-30)
 
-### Sifat dasar
+## Sifat Dasar
 
-| Sifat Umum | **Condong kepada fitrah kebaikan** |    |
-|----|----|----|
-| Ego | **Rendah** | Menggunakan perasaan atau memendam perasaan |
-| Organ | **Hati (Jantung)** | Condong kepada ruh |
-| Tipe Kesadaran | **Atas Sadar (Berperasaan)** | Berpikir dengan perasaan (berempati), cenderung berpikir jangka panjang |
-| Fitrah / Karakter | **Iman & Bakat** |    | Pendidikan
+| Aspek | Nilai Karakteristik | Penjelasan |
+|---|---|---|
+| **Sifat Umum** | **Condong ke Ilahiyyah** | Merindukan kedekatan dengan Allah, ketenangan zikir, dan kesucian batin |
+| **Ego** | **Rendah / Tunduk** | Lapang dada, ikhlas menerima ketetapan syariat, dan pemaaf |
+| **Organ Dominan** | **Qalbu / Hati Nurani** | Merasakan getaran keimanan, empati sosial, dan cinta murni |
+| **Tipe Kesadaran** | **Super Sadar (Muraqabah)** | Merasa senantiasa diawasi oleh Allah dalam kesunyian maupun keramaian |
+| **Pilar Karakter** | **Karakter Iman** | Fondasi seluruh integritas moral, kejujuran (*shidq*), dan ketulusan |
 
-| Gaya Belajar | **Audio** | Senang dengan mendengarkan |
-|----|----|----|
-| Golden Age | **Fase Thufulah** | Memuaskan tanpa pamrih |
-| Metode | **Bahasa Hati** | Cinta tak terbatas |
-| Implementasi | **Iman** | Cinta kepada Allah (dimulai kepada pendidik) | Bakat
+## Pendekatan Pendidikan
 
-| Introvert | Ekstrovert |
-|----|----|
-| **Berperasaan** | **Melayani** |
-| Hati yang kuat menahannya dari melakukan aktivitas, kecuali yang dicintainya | Ego rendah menahannya untuk mementingkan diri sendiri, sehingga mudah untuk melayani orang lain | Kondisi Ekstrim
+| Indikator | Ketentuan | Keterangan |
+|---|---|---|
+| **Gaya Belajar** | **Meniru & Merasakan** | Menyerap getaran keshalihan, keteladanan visual, dan suasana penuh kasih |
+| **Golden Age** | **Fase Thufulah (0 - 7 Tahun)** | Masa emas penanaman persepsi positif tentang Allah, Rasul, dan kebaikan |
+| **Metode Utama** | **Bahasa Hati (Edukasi Rasa)** | Pemenuhan 5 Bahasa Cinta, doa tulus pendidik, dan keteladanan tanpa paksaan |
+| **Orientasi Implementasi** | **Koneksi Sebelum Koreksi** | Memastikan tangki cinta terisi penuh sebelum menuntut kepatuhan syariat |
 
-| Mufrith (Kurang) | Ifroth (Berlebih) |
-|----|----|
-| Apati (tidak mau berempati) | Mudah Sakit Hati |
-| Hati yang lemah sulit untuk mengalah dan mengasihani orang lain | Ego rendah yang berlebihan mempertanyakan secara mendalam berbagai hal yang mungkin terjadi  | Subtema
+## Tipologi Bakat Terkait
 
-Kalimat deskripsi penjelasan singkat.
+* **Introvert (Berperasaan):** Sensitivitas empati batin yang mendalam, kelembutan rasa, dan kepekaan nurani terhadap sesama.
+* **Ekstrovert (Melayani):** Kedermawanan aktif, kerelaan menolong, mengutamakan orang lain (*itsar*), dan keramahan tulus.
 
-* poin penting
+## Penjagaan Kemurnian Qalbu
 
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
-> [!info]
-> #### Refleksi Lapangan 
-> 
-> # Jiwa Muthmainnah yang Berlebihan
-> 
-> * kondisi yang ditemukan di lapangan
-> * kondisi yang ditemukan di lapangan
-> 
-> narasi penjelasan
-> 
-> ### Arahan Pilihan Solusi
-> 
-> * pilihan solusi
-> * pilihan solusi 
-> 
+Jiwa Muthmainnah dijaga melalui pemenuhan "Tangki Cinta" di masa kecil dan proses *Tazkiyatun Nafs* yang konsisten. Hati yang telah mencicipi manisnya iman (*Halawatul Iman*) akan memandu akal dan jasad untuk taat secara sukarela, bukan karena keterpaksaan atau ancaman hukuman.

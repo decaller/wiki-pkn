@@ -1,50 +1,13 @@
-# Bahasa Lisan
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Bahasa Lisan"
 ---
 
+# Bahasa Lisan
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../Welcome/Getting%20Started.md)
-> 
+Bahasa Lisan adalah instrumen pengajaran utama pada **Fase Tamyiz (7 - 10 Tahun)** di mana anak mulai mampu diajak berpikir rasional dan memahami hubungan sebab-akibat.
+
+## Karakteristik Bahasa Lisan
+
+* **Dialog Dua Arah:** Meniru metode Nabi Ibrahim saat berdialog dengan Nabi Ismail, mendengarkan argumen anak dan membimbing nalarnya dengan lembut.
+* **Bukan Omelan atau Cacian:** Bahasa lisan yang efektif adalah kata-kata yang jernih, tenang, dan objektif, bukan bentakan atau kalimat sarkastis yang meruntuhkan harga diri anak.
+* **Memahamkan Konsekuensi:** Membimbing anak memahami mengapa suatu aturan ada dan apa dampak perbuatannya bagi diri sendiri serta lingkungan.

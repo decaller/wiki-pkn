@@ -1,58 +1,11 @@
-# Euforia
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Euforia"
 ---
 
+# Fase Euforia
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../Welcome/Getting%20Started.md)
-> 
+Fase Euforia adalah kondisi psikologis ketika anak yang selama masa kecilnya mengalami penekanan ketat (*excessive pressure*) atau perampasan hak fitrah tiba-tiba mendapatkan kebebasan di usia remaja atau dewasa.
+
+* **Bentuk Manifestasi:** Perilaku memberontak secara ekstrem, kecanduan hiburan/gawai tanpa kendali, pergaulan bebas, dan penolakan total terhadap nasihat orang tua.
+* **Sebab Utama:** Ledakan dendam alamiah jiwa (*nafs*) yang menuntut penuntasan hak masa kecil yang dulu dirampas demi kepatuhan instan.
+* **Penanganan:** Orang tua tidak boleh membalas dengan kekerasan yang lebih besar. Perlu jeda de-eskalasi, pengakuan kesalahan masa lalu secara jujur, dan pembukaan dialog rekonsiliasi.

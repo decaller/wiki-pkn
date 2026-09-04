@@ -1,58 +1,10 @@
-# Tanggung Jawab Pendidikan
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Tanggung Jawab Pendidikan"
 ---
 
+# Tanggung Jawab Pendidikan
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Rasulullah ﷺ bersabda:
+> *"Setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya. Seorang laki-laki adalah pemimpin di dalam keluarganya dan akan dimintai pertanggungjawaban atas mereka. Dan seorang wanita adalah pemimpin di rumah suaminya dan akan dimintai pertanggungjawaban atas asuhannya..."* (HR. Bukhari & Muslim)
+
+Pendidikan anak adalah amanah fardhu 'ain yang melekat pada kedua orang tua kandung. Amanah ini tidak dapat dialihkan atau dicuci-tangan sepenuhnya kepada sekolah, pondok pesantren, atau guru les berbayar.

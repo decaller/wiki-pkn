@@ -1,58 +1,14 @@
-# Batas Toleransi
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Batas Toleransi"
 ---
 
+# Batas Toleransi
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Batas Toleransi adalah prinsip graduasi ketegasan orang tua dalam menyikapi pelanggaran anak sesuai dengan fase usianya:
+
+| Rentang Usia | Fase | Tingkat Toleransi | Tindakan Terhadap Pelanggaran |
+|---|---|---|---|
+| **0 - 7 Tahun** | Thufulah | **Paling Longgar** | Dimaafkan secara luas, dialihkan perhatiannya, dipeluk, dan diberi teladan yang benar. |
+| **7 - 10 Tahun** | Tamyiz | **Sedang** | Dinasihati secara logis (*Bahasa Lisan*), diajak merenungkan akibat perbuatannya tanpa sanksi fisik. |
+| **10 th - Baligh** | Murahaqah | **Paling Sempit** | Ditegakkan aturan tegas (*Bahasa Tangan* jika lalai shalat), diminta bertanggung jawab atas kerusakan yang dibuat. |
+| **Pasca-Baligh** | Syabab | **Nol Toleransi Syariat** | Dosa dan pahala ditanggung sendiri secara mukallaf di hadapan Allah. |

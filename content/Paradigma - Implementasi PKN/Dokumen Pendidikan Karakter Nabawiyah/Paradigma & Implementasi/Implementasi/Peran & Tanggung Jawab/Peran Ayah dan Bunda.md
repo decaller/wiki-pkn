@@ -1,58 +1,17 @@
-# Peran Ayah dan Bunda
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Peran Ayah dan Bunda"
 ---
 
+# Peran Ayah dan Bunda
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Keluarga adalah laboratorium peradaban di mana ayah dan ibu memainkan peran komplementer yang saling melengkapi:
+
+## Peran Ayah (Arsitek Visi & Hukum)
+* Menetapkan arah tujuan hidup keluarga dan kurikulum karakter rumah tangga.
+* Membawa wibawa (*waqaar*), ketegasan penegakan syariat, dan batasan operasional.
+* Mengajarkan kemandirian hidup, keberanian menghadapi tantangan dunia luar, dan pencarian nafkah halal.
+
+## Peran Bunda (Curahan Kasih & Madrasah Pertama)
+* Menjadi sumber utama kehangatan batin, curahan kasih sayang, dan pengisian tangki cinta.
+* Menanamkan adab keseharian, bahasa tutur kata yang lembut, dan kepekaan nurani.
+* Merawat perkembangan fisik dan psikologis anak dari masa buaian hingga mandiri.

@@ -1,58 +1,13 @@
-# Recovery
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Recovery"
 ---
 
+# Recovery (Pemulihan Fitrah)
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../Welcome/Getting%20Started.md)
-> 
+Recovery adalah proses terstruktur untuk menyembuhkan luka batin dan menuntaskan hutang pengasuhan anak sebelum mereka melangkah ke fase kedewasaan mandiri.
+
+## Metode EMISOL dalam Recovery
+
+1. **Empati (Edukasi Rasa):** Orang tua mendengarkan keluh kesah dan kemarahan anak tanpa membantah, memvalidasi perasaannya, dan memohon maaf atas kekeliruan pengasuhan masa lalu.
+2. **Imajinasi (Edukasi Visi):** Mengajak anak membayangkan masa depan yang mulia, menemukan kembali jati diri dan panggilan hidupnya sebagai hamba Allah.
+3. **Solusi (Edukasi Aksi):** Menyusun kesepakatan baru yang adil dan realistis untuk melatih tanggung jawab secara bertahap tanpa paksaan kaku.

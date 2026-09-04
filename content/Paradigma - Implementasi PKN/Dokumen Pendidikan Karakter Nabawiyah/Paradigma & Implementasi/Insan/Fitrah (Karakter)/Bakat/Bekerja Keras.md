@@ -1,50 +1,11 @@
-# Bakat Bekerja Keras
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Bekerja Keras"
 ---
 
+# Bakat Bekerja Keras
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../../Welcome/Getting%20Started.md)
-> 
+Bakat Bekerja Keras adalah kecondongan alami seseorang untuk mencurahkan energi fisik dan mental secara tekun dalam menuntaskan tugas-tugas berat dan menantang.
+
+* **Sumber Jiwa:** Jiwa Ammarah (Jasad) berkarakter Introvert.
+* **Ciri Khas:** Memiliki daya tahan (*grit*) tinggi, menyukai ketuntasan kerja, tidak mudah menyerah oleh keletihan fisik, dan merasa puas saat melihat pekerjaan selesai rapi.
+* **Peran Kekhalifahan:** Eksekutor teknis, pembangun infrastruktur, penjaga ketahanan pangan, dan amil yang ulet.

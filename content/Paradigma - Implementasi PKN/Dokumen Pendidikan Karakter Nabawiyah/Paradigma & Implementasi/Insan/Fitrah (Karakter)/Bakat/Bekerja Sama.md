@@ -1,50 +1,11 @@
-# Bakat Bekerja Sama
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Bekerja Sama"
 ---
 
+# Bakat Bekerja Sama
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../../Welcome/Getting%20Started.md)
-> 
+Bakat Bekerja Sama adalah kecakapan komunikasi sosial untuk membangun sinergi, merangkul perbedaan, dan menjaga keharmonisan tim.
+
+* **Sumber Jiwa:** Jiwa Lawwamah (Akal) berkarakter Ekstrovert.
+* **Ciri Khas:** Mudah bergaul, luwes berdiplomasi, pendengar yang baik, dan cakap menyelesaikan perselisihan antar pihak.
+* **Peran Kekhalifahan:** Diplomat, humas, negosiator perdamaian, dan fasilitator jejaring umat.

@@ -1,53 +1,181 @@
-# Project Handoff: Wiki PKN
+# Project Handoff: Wiki PKN (Pendidikan Karakter Nabawiyah)
 
-This document summarizes the recent development work to implement a custom, hierarchical sidebar navigation in this Quartz project based on an exported Outline structure.
+Dokumen ini merangkum arsitektur teknis, riwayat pengembangan, integrasi data **Tafsir Bakat 40 (TB40)**, dan panduan pemeliharaan sistem basis pengetahuan **Wiki PKN** berbasis Quartz v5.
 
-## Overview
-The main goal was to replace the default Quartz `Explorer` component with a custom `OutlineNav` component that precisely replicates a provided JSON hierarchy (`nav_structure.json`), while also cleaning up and restructuring the underlying Markdown files in the `content/` folder to match.
+---
 
-## Key Architecture & Components
+## 1. Ikhtisar Proyek & Milestone Utama
 
-### 1. `nav_structure.json`
-- **Location:** Project Root
-- **Purpose:** Acts as the source of truth for the sidebar navigation. It defines the exact hierarchy, titles, and icons for collections and documents.
-- **Changes Made:** Iteratively cleaned up to flatten the root level (now nested under "Paradigma"), removed redundant prefixes (e.g., removing "Fase" from "Fase Thufulah", or "Insan" from child nodes), and removed unused properties (`id`, `url`, `color`).
+Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan Karakter Nabawiyah (PKN)** dari berkas ekspor Outline ke dalam platform static site generator **Quartz v5** dengan navigasi sidebar kustom yang presisi dan konten yang kaya.
 
-### 2. Custom Plugin: `OutlineNav`
-- **Location:** `plugins/outline-nav/`
-- **Purpose:** A custom Quartz component that parses `nav_structure.json` and renders a nested `<ul>` HTML sidebar.
-- **Features Implemented:**
-  - **Dynamic Link Resolution:** Maps JSON titles to Quartz slugs by checking file frontmatter titles and fallback slug suffixes.
-  - **Expand/Collapse Logic:** Folders can be toggled via chevron buttons.
-  - **Initial Depth Limiting:** Automatically collapses deep nodes (depth >= 2) on initial load to keep the sidebar clean.
-  - **Collapsible Main Title:** The "Outline Navigation" header is a toggle button that collapses the entire tree, mirroring the default Explorer plugin.
-  - **State Persistence:** Uses `localStorage` to remember which folders are opened or closed, ensuring the tree state is retained seamlessly across page navigations (PJAX).
+### Milestone yang Telah Diselesaikan:
+1. **Navigasi Kustom `OutlineNav`**: Menggantikan komponen default Quartz `Explorer` dengan plugin `./plugins/outline-nav` yang membaca hierarki `nav_structure.json`.
+2. **Fitur Inside Scrolling & State Persistence**:
+   - Menerapkan tata letak flexbox dan internal scrolling (`overflow-y: auto; overscroll-behavior: contain; max-height: calc(100vh - 12rem);`) dengan scrollbar ramping.
+   - Deteksi tautan aktif (`a.internal.active`) dengan pembukaan otomatis folder induk (*auto-expand parent*).
+   - Pemeliharaan posisi scroll antar-halaman (*PJAX*) melalui `sessionStorage` (`outlineNavScrollTop`).
+   - Pengingat status lipatan (*collapse/expand*) per folder melalui `localStorage`.
+3. **Konfigurasi Resmi Quartz**: Membuat `quartz.config.yaml` dengan `pageTitle: "Wiki PKN"`, `locale: "id-ID"`, dan penonaktifan total `@quartz-community/explorer`.
+4. **Pengayaan Konten Otentik (39 Berkas)**: Mentransformasi 39 berkas kerangka kosong di `content/` menjadi naskah komprehensif berbasis data `old_backup/random/`.
+5. **100% Resolusi Tautan Navigasi**: Seluruh 47 simpul pada `nav_structure.json` memiliki berkas `.md` fisik yang valid (0 *unlinked leaf labels*).
+6. **Ekstraksi Data TB40**: Memetakan struktur lengkap taksonomi **Tafsir Bakat 40 (TB40)** dari repositori API observasi karakter (`/home/deck/Projects/observasi-karakter-api/api-tb40-explore/api/`).
 
-### 3. Automation Scripts
-- **Location:** Project Root (`rename_script.py`, `rename_fase.py`, `rename_more.py`, `rename_paradigma.py`, `group_implementasi.py`)
-- **Purpose:** Used to perform bulk updates across the `content/` directory so the physical files matched the simplified JSON structure.
-- **Actions Performed:** Renamed physical `.md` files, created new subdirectories (e.g., grouping the `Implementasi` items), updated the YAML `title` frontmatter in each file, and patched internal wikilinks (e.g., `[[Old Title]]` -> `[[New Title]]`).
+---
 
-## Development Workflow
+## 2. Arsitektur Data TB40 (Tafsir Bakat 40)
 
-If you need to make future changes to the `OutlineNav` plugin:
+Data model TB40 diekstraksi dari spesifikasi OpenAPI dan berkas kalkulasi engine di `/home/deck/Projects/observasi-karakter-api/api-tb40-explore/api/` (`v0.1/tb40/calculation.json` dan `v0.3/tb40/result.json`). Sistem ini memiliki hierarki bertingkat 5 level:
 
-1. **Edit the Plugin:**
-   Modify `plugins/outline-nav/src/components/OutlineNav.tsx`.
+```mermaid
+graph TD
+    L2["Level 2: 2 Kutub Sosial (Sirr & 'Alaniyah)"] --> L6
+    L3["Level 3: 3 Dimensi Jiwa (Karsa, Cipta, Rasa)"] --> L6
+    L6["Level 6: 6 Kategori Bakat Utama"] --> L18["Level 18: 18 Sub-Kelompok Bakat"]
+    L18 --> L40["Level 40: 40 Pilar Karakter Nabawiyah"]
+```
 
-2. **Rebuild the Plugin:**
-   Navigate into the plugin directory and run the build script.
+### A. Level 2 — Kutub Sosial (Energi Interaksi)
+* **1. Introvert (*As-Sirr*):** Energi batin, fokus ke dalam, tidak mengutamakan keramaian.
+* **2. Extrovert (*Al-'Alaniyah*):** Energi luar, ekspresif, senang berinteraksi sosial.
+
+### B. Level 3 — Dimensi Kemanusiaan & Trilogi Jiwa
+1. **Karsa (*Al-Hawa* / Jiwa Ammarah):**
+   - Karakteristik: Bergerak, bersemangat, dorongan fisik.
+   - Gaya Belajar: **Al-Fuad / Kinestetik** (bergerak, menyentuh, praktik lapangan).
+   - Bahasa Hati Utama: **Bahasa Pelayanan (*Acts of Service*)**.
+2. **Cipta (*Al-'Aql* / Jiwa Lawwamah):**
+   - Karakteristik: Berpikir, nalar evaluatif, menimbang baik-buruk.
+   - Gaya Belajar: **Al-Bashar / Visual** (membaca, melihat bagan/diagram, ruangan terang).
+   - Bahasa Hati Utama: **Bahasa Kebersamaan (*Quality Time*)**.
+3. **Rasa (*Al-Qalb* / Jiwa Muthmainnah):**
+   - Karakteristik: Berperasaan, kepekaan nurani, spiritualitas batin.
+   - Gaya Belajar: **As-Sam'u / Auditori** (mendengarkan nasihat, berdiskusi, suasana hening).
+   - Bahasa Hati Utama: **Bahasa Perlindungan / Hadiah (*Receiving Gifts / Protection*)**.
+
+### C. Level 6 — Matriks 6 Kategori Bakat Utama
+Persilangan antara Level 2 (Kutub Sosial) dan Level 3 (Dimensi Jiwa) menghasilkan 6 kategori bakat pokok:
+1. **Bekerja Keras (الحَمَاسَة - *Al-Hamasah*):** Introvert + Karsa (Ammarah)
+2. **Berpikir / Cerdas (التَّفْكِيْر - *At-Tafkir*):** Introvert + Cipta (Lawwamah)
+3. **Berperasaan (الشُعُوْر - *Asy-Syu'ur*):** Introvert + Rasa (Muthmainnah)
+4. **Mempengaruhi / Memerintah (التَّأْثِيْر - *At-Ta'tsir*):** Extrovert + Karsa (Ammarah)
+5. **Bekerjasama (التَّعَامُل - *At-Ta'amul*):** Extrovert + Cipta (Lawwamah)
+6. **Melayani (الخِدْمَة - *Al-Khidmah*):** Extrovert + Rasa (Muthmainnah)
+
+### D. Level 18 — 18 Sub-Kelompok Bakat
+* **Bekerja Keras:** Berambisi, Berwibawa, Giat bekerja.
+* **Berpikir:** Suka berpikir imajinatif, Suka berpikir positif, Suka berpikir analitis.
+* **Berperasaan:** Suka apa adanya, Pendiam, Suka merendah.
+* **Mempengaruhi:** Suka menguasai, Suka memotivasi, Suka menolong.
+* **Bekerjasama:** Suka menggunakan hubungan yang ada, Suka membuat hubungan baru, Suka mengeratkan hubungan yang ada.
+* **Melayani:** Suka melayani dengan cara memberi, Suka melayani dengan cara menjaga, Suka melayani dengan cara mengalah.
+
+### E. Level 40 — 40 Pilar Karakter Nabawiyah
+Daftar lengkap 40 pilar dengan nama Arab, nomor urut, dan garis silsilahnya:
+* **Grup Bekerja Keras (1-6):** #1 *Himmah* (الهِمَّة), #2 *Ihsaan* (الاِحْسَان), #3 *‘Izzah* (العِزَّة), #4 *Waqaar* (الوَقَار), #5 *‘Aziimah* (العَزِيمَة), #6 *Nasyaath* (النَّشَاط).
+* **Grup Berpikir (7-11):** #7 *Firaasah* (الفِرَاسَة), #8 *Nubl* (النُّبْل), #9 *Husnuzhan* (حُسْنُ الظَّن), #10 *Dzakaa’* (الذَّكَاء), #11 *Hikmah* (الحِكْمَة).
+* **Grup Berperasaan (12-17):** #12 *Shidq* (الصِّدْق), #13 *‘Iffah* (العِفَّة), #14 *Shamt* (الصَّمْت), #15 *Hayaa’* (الحَيَاء), #16 *Qanaa'ah* (القَنَاعَة), #17 *Tawaadhu'* (التَّوَاضُع).
+* **Grup Mempengaruhi (18-24):** #18 *Syajaa’ah* (الشَّجَاعَة), #19 *Ghairah* (الغَيْرَة), #20 *Munaafasah* (المُنَافَسَة), #21 *Nashiihah* (النَّصِيْحَة), #22 *Fashaahah* (الفَصَاحَة), #23 *Nushrah* (النُّصْرَة), #24 *Juud* (الجُوْد).
+* **Grup Bekerjasama (25-32):** #25 *Ta'aawun* (التَّعَاوُن), #26 *Ulfah* (الاُلْفَة), #27 *‘Adaalah* (العَدَالَة), #28 *Wafaa'* (الوَفَاء), #29 *Muzaah* (المُزَاح), #30 *Basyaasyah* (البَشَاشَة), #31 *Rifq* (الرِّفْق), #32 *Mahabbah* (المَحَبَّة).
+* **Grup Melayani (33-40):** #33 *Rahmah* (الرَّحْمَة), #34 *Itsaar* (الاِيْثَار), #35 *Kitmaanus sirr* (كِتْمَانُ السِّرِّ), #36 *Satr* (السَّتْر), #37 *Amaanah* (الاَمَانَة), #38 *Anaah* (الاَنَاة), #39 *Hilm* (الحِلْم), #40 *Shabr* (الصَّبْر).
+
+### F. Matriks Kondisi Ekstrim (*Tafrith* vs *Ifrath*) & Solusi Kuratif
+Setiap sifat mulia berada di antara dua jurang ekstrem (*tafrith* / lalai dan *ifrath* / berlebih):
+* **Bekerja Keras:**
+  - *Lalai:* **Kasal (Malas)** $\rightarrow$ Solusi: Kuatkan *‘Aziimah* dan *Amaanah*.
+  - *Lebih:* **Thama' (Serakah/Ambisi Buta)** $\rightarrow$ Solusi: Kuatkan *Qanaa'ah* dan *Tawaadhu'*.
+* **Berpikir:**
+  - *Lalai:* **Jahl (Kebodohan / Abaikan Nalar)** $\rightarrow$ Solusi: Kuatkan *Dzakaa'* dan *Hikmah*.
+  - *Lebih:* **Ahlu Ra'yi (Pemuja Akal / Rasionalisme Kering)** $\rightarrow$ Solusi: Kuatkan *Hikmah*, *Tawaadhu'*, dan *Hayaa'*.
+* **Berperasaan:**
+  - *Lalai:* **Kibr / Kasar** $\rightarrow$ Solusi: Kuatkan kepekaan hati dan *Tawaadhu'*.
+  - *Lebih:* **Minder (Rendah Diri) & Hazan (Sedih Berlarut)** $\rightarrow$ Solusi: Kuatkan *Syajaa'ah*, *Ghairah*, dan *Nasyaath*.
+* **Mempengaruhi:**
+  - *Lalai:* **Jubn (Penakut)** $\rightarrow$ Solusi: Kuatkan *Syajaa'ah*, *Ghairah*, dan *Munaafasah*.
+  - *Lebih:* **Tahawwur (Ceroboh / Otoriter)** $\rightarrow$ Solusi: Kuatkan *Shabr*, *Hilm*, dan *Anaah*.
+* **Bekerjasama:**
+  - *Lalai:* **‘Udwaan (Bermusuhan / Menutup Diri)** $\rightarrow$ Solusi: Kuatkan *Ta'aawun*, *Ulfah*, dan *‘Adaalah*.
+  - *Lebih:* **Dzull / Bimbang Mengambil Keputusan** $\rightarrow$ Solusi: Kuatkan *Syajaa'ah* dan *Ghairah*.
+* **Melayani:**
+  - *Lalai:* **Ghilzhah (Kasar / Tidak Peduli)** $\rightarrow$ Solusi: Kuatkan *Rahmah*, *Itsaar*, dan *Hilm*.
+  - *Lebih:* **Taqliid (Kepatuhan Buta) / Takut Berlebih** $\rightarrow$ Solusi: Kuatkan *‘Izzah* dan *Waqaar*.
+
+### G. Spesifikasi Teknis Engine API TB40
+Sumber data berada di `/home/deck/Projects/observasi-karakter-api/api-tb40-explore/api/`:
+* **Struktur Versi:**
+  - `v0.1`: Single-pass calculation engine (`calculation.json`), generator pelaporan visual (`tb40.svg`, `tb40byRank.svg`), dan kuesioner flat 40 butir pertanyaan (`questions.json`).
+  - `v0.2`: Pengenalan segmentasi pertanyaan bertingkat (*tiered questionnaire*).
+  - `v0.3`: OpenAPI 3.0 penuh (`swagger.yaml`) dengan alur **Asesmen Adaptif 4-Tier**:
+    - **Tier 1 (Energi Sosial - 1Q):** Menentukan Kutub Introvert vs Extrovert.
+    - **Tier 2 (Orientasi Jiwa - 1Q):** Menentukan Trilogi Jiwa (Karsa / Cipta / Rasa) $\rightarrow$ menghasilkan kluster Level 6.
+    - **Tier 3 (Pendalaman 18 Sub-Kelompok - 18Q):** Memetakan kekuatan spesifik pada 18 sub-kelompok.
+    - **Tier 4 (Presisi 40 Pilar - 40Q):** Pengukuran mendalam terhadap seluruh 40 pilar karakter nabawiyah.
+  - **Dua Varian Instrumen:**
+    - `tb40Dewasa`: Kuesioner refleksi diri mandiri (40 butir pertanyaan terstandar).
+    - `tb40Anak`: Kuesioner observasi anak berbasis studi kasus aktivitas bermain dan keseharian (bahasa ramah anak / observasi orang tua).
+  - **Fitur API v0.3:** *Continuous scoring*, *Halfway reporting* (laporan parsial saat baru menyelesaikan Tier 2/3), integrasi peringatan dini (*ego warning*, *lalai warnings*, *lebih warnings*), serta rekomendasi profil karir (`recommended_profesi`) dan rumpun ilmu (`recommended_jurusan`).
+
+---
+
+## 3. Struktur Berkas & Komponen Utama
+
+```
+wiki-pkn/
+├── content/                                # Naskah Markdown (halaman wiki)
+│   ├── index.md                            # Beranda Wiki PKN
+│   ├── Renungan/                           # Catatan renungan orang tua
+│   └── Paradigma - Implementasi PKN/       # Konten utama kurikulum PKN
+│       └── Dokumen Pendidikan Karakter Nabawiyah/
+│           ├── FAQ Ringkas.md
+│           └── Paradigma & Implementasi/
+│               ├── Insan/                  # Jiwa, Fitrah, 6 Bakat, 4 Fase Usia
+│               ├── Pendidikan Ideal/       # Metode Mendidik, 3 Bahasa, Pemulihan
+│               └── Implementasi/           # Kaidah, Elemen, Peran Ayah/Bunda/Guru
+├── plugins/
+│   └── outline-nav/                        # Plugin Quartz untuk Navigasi Outline
+│       ├── package.json
+│       ├── tsup.config.ts
+│       └── src/components/OutlineNav.tsx   # Komponen utama sidebar & script
+├── scripts/
+│   └── migration/                          # Skrip otomasi dan pengayaan arsip
+├── nav_structure.json                      # Sumber kebenaran struktur navigasi
+├── quartz.config.yaml                      # Konfigurasi aktif Quartz v5
+├── CONTENT_ANALYSIS.md                     # Analisis celah konten & data TB40
+└── HANDOFF.md                              # Dokumen serah terima ini
+```
+
+---
+
+## 4. Alur Kerja Pengembangan (Workflow)
+
+### Mengedit Plugin `OutlineNav`:
+1. Ubah berkas `plugins/outline-nav/src/components/OutlineNav.tsx`.
+2. Kompilasi ulang plugin:
    ```bash
    cd plugins/outline-nav
    npm run build
+   cd ../..
    ```
-
-3. **Restart Quartz:**
-   Since Quartz loads components on startup, kill the running server and start it again.
+3. Restart server Quartz jika sedang berjalan:
    ```bash
-   cd ../../
    npx quartz build --serve --port 8888
    ```
 
-## Next Steps / Maintenance
-- Any new files added to the `content/` directory must be manually added to `nav_structure.json` if you want them to appear in the `OutlineNav` sidebar.
-- Ensure the `title` frontmatter in new Markdown files exactly matches the title provided in `nav_structure.json` so the plugin can resolve the correct URL slug.
+### Menambahkan atau Mengubah Konten:
+1. Pastikan setiap berkas `.md` memiliki metadata `title` pada frontmatter:
+   ```yaml
+   ---
+   title: "Judul Halaman"
+   ---
+   ```
+2. Jika ingin halaman tersebut muncul di sidebar navigasi, daftarkan judulnya ke dalam `nav_structure.json`.
+
+---
+
+## 5. Rencana Pengembangan Selanjutnya (Next Steps)
+
+1. **Pembuatan Halaman Profil 40 Pilar**:
+   Mengembangkan sub-direktori `Pilar Karakter/` di dalam `content/` untuk mendokumentasikan ke-40 pilar secara individual dengan merujuk data TB40 yang telah diekstraksi.
+2. **Templat Piagam Akil Baligh**:
+   Menyediakan berkas instrumen siap unduh/cetak untuk perjanjian kemandirian ananda pasca-baligh.
+3. **Diagram Visual & Infografis**:
+   Mengintegrasikan visualisasi `tb40.svg` atau diagram Mermaid interaktif ke halaman payung (*Insan*, *Bakat*, *Pendidikan Ideal*).

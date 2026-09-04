@@ -1,95 +1,37 @@
-# Jiwa Lawwamah
-
-Jiwa Lawwamah adalah jiwa yang memiliki kecenderungan yang seimbang antara jasad dan ruh. Unsur jiwa yang memiliki kecenderungan berpikir sehingga sering menemui kebimbangan dalam bertindak. Jiwa ini diwakili oleh akal.
-
-# Dalil-dalil <masih default>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-
-### Judul dalil 2
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
+---
+title: "Lawwamah"
+---
 
 # Jiwa Lawwamah
 
-< Grafik Utama Tema >
+Jiwa Lawwamah adalah pusat nalar, daya kritis, dan pertimbangan logis (*cognitive quotient*) yang bertempat di otak. Jiwa ini bertindak sebagai hakim internal yang senantiasa mencela dan mengevaluasi diri saat berbuat salah serta memikirkan konsekuensi atas setiap pilihan.
 
-## Sifat
+## Sifat Dasar
 
-### Sifat dasar
+| Aspek | Nilai Karakteristik | Penjelasan |
+|---|---|---|
+| **Sifat Umum** | **Seimbang (Akal Evaluatif)** | Menimbang antara dorongan jasad dan tuntunan ruh secara rasional |
+| **Ego** | **Sedang** | Terbuka pada dialog, penjelasan logis, dan pembuktian empiris |
+| **Organ Dominan** | **Otak / Akal** | Mengolah informasi, hubungan sebab-akibat, dan kausalitas |
+| **Tipe Kesadaran** | **Sadar Penuh** | Memerlukan perenungan, pemahaman konsep, dan daya analisis |
+| **Pilar Karakter** | **Karakter Belajar** | Landasan penumbuhan kecerdasan, rasa ingin tahu, dan adab menuntut ilmu |
 
-| Sifat Umum | **Seimbang antara hayawaniyah dan fitrah** |    |
-|----|----|----|
-| Ego | **Sedang** | Mempertimbangkan segala sesuatu sebelum bertindak |
-| Organ | **Akal (Otak)** | Kecondongan seimbang antara jasad dan ruh sehingga menggunakan akal untuk berpikir |
-| Tipe Kesadaran | **Sadar (Menganalisa)** | Berpikir dengan menggunakan otak (menimbang baik buruknya) |
-| Fitrah / Karakter | **Belajar & Bakat** |    | Pendidikan
+## Pendekatan Pendidikan
 
-| Gaya Belajar | **Visual** | Senang dengan penggunaan gambar, atau sesuatu yang dapat dilihat secara langsung (tidak abstrak) |
-|----|----|----|
-| Golden Age | **Fase Tamyiz** | Memuaskan rasa ingin tahu yang tinggi |
-| Metode | **Bahasa Lisan** | Memberikan edukasi |
-| Implementasi | **Ilmu** | Menilai pengetahuan | Bakat
+| Indikator | Ketentuan | Keterangan |
+|---|---|---|
+| **Gaya Belajar** | **Eksploratif & Dialogis** | Belajar melalui uji coba (*trial and error*), diskusi, dan pertanyaan |
+| **Golden Age** | **Fase Tamyiz (7 - 10 Tahun)** | Masa keemasan penumbuhan nalar kritis dan pemahaman sebab-akibat |
+| **Metode Utama** | **Bahasa Lisan (Argumentasi Lembut)** | Komunikasi logis dua arah tanpa amarah atau ancaman fisik |
+| **Orientasi Implementasi** | **Ilmu Fungsional** | Memahami ilmu dasar (*Fardhu 'Ain*) yang langsung relevan dengan ibadah dan kehidupan |
 
-| Introvert | Ekstrovert |
-|----|----|
-| **Berpikir** | **Bekerja Sama** |
-| Akal yang kuat membimbingnya untuk selalu berpikir sebelum bertindak secara logis | Ego sedang mendorongnya untuk mencari kondisi yang sama-sama menguntungkan dengan orang lain | Kondisi Ekstrim
+## Tipologi Bakat Terkait
 
-| Mufrith (Kurang) | Ifroth (Berlebih) |
-|----|----|
-| Bodoh | Terlalu Perhitungan |
-| Akal yang lemah menghalangi untuk menganalisa permasalahan dengan baik | Ego sedang yang berlebihan membuat seseorang sulit untuk menerima kenyataan yang tidak dapat dipahami | Subtema
+* **Introvert (Berpikir):** Ketajaman menganalisis, merancang strategi, membaca pola, dan merumuskan gagasan mendalam.
+* **Ekstrovert (Bekerja Sama):** Kemampuan berkomunikasi, berdiplomasi, membangun kemitraan, dan menyatukan sudut pandang.
 
-Kalimat deskripsi penjelasan singkat.
+## Kondisi Ekstrim & Penyeimbang
 
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
-> [!info]
-> #### Refleksi Lapangan 
-> 
-> # Jiwa Lawwamah yang Berlebihan
-> 
-> * kondisi yang ditemukan di lapangan
-> * kondisi yang ditemukan di lapangan
-> 
-> narasi penjelasan
-> 
-> ### Arahan Pilihan Solusi
-> 
-> * pilihan solusi
-> * pilihan solusi 
-> 
+* **Mufrith (Kekurangan Nalar):** Melahirkan kebodohan, mudah tertipu, taklid buta, dan kerancuan berpikir.
+* **Ifroth (Kelebihan Nalar):** Menghasilkan pemujaan logika (*Ahlur Ra'yi*), meragukan kebenaran wahyu, suka mendebat tanpa adab, dan skeptisisme yang melumpuhkan aksi.
+* **Solusi Nabawiyah:** Menundukkan akal di bawah wahyu, membimbing rasa ingin tahu dengan adab menuntut ilmu, dan mengimbangi logika dengan ketundukan iman (*Muthmainnah*).

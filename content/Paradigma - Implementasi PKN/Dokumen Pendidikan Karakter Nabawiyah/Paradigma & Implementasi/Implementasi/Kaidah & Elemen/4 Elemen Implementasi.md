@@ -1,58 +1,12 @@
-# 4 Elemen Implementasi
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "4 Elemen Implementasi"
 ---
 
+# 4 Elemen Implementasi
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Empat elemen pokok yang harus hadir secara serentak dalam ekosistem pendidikan nabawiyah:
+
+1. **Elemen Iman:** Menjaga agar seluruh aktivitas pembelajaran bermuara pada pengenalan dan kecintaan kepada Allah (*Tauhidullah*).
+2. **Elemen Belajar:** Mengasah daya nalar kritis dan rasa ingin tahu melalui eksplorasi dunia nyata (*Tajribah*).
+3. **Elemen Bakat:** Menemukan dan memfasilitasi panggilan peran spesifik anak melalui rukun Suka, Bisa, dan Berguna.
+4. **Elemen Perkembangan:** Menyesuaikan metode pengasuhan (Bahasa Hati, Lisan, atau Tangan) dengan tahapan usia anak.

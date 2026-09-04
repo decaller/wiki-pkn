@@ -1,111 +1,22 @@
-# Fitrah Iman - Karakter Iman
-
-Fitrah iman adalah potensi yang telah ditanamkan oleh Azza wa Jalla pada setiap manusia untuk dapat tumbuh menjadi manusia yang memiliki karakter iman, yaitu mentauhidkan Allah *Ta'ala* dan mencintai Rabbnya. 
-
-# Dalil-dalil <masih default>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-
-### Judul dalil 2
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Fitrah Iman
-
-<grafik>
-
-## Karakteristik
-
-| Jiwa Terkait | **Jiwa Muthmainnah** |    |
-|----|----|----|
-| Golden Age | **Fase Thufulah** |    |
-| Prioritas Recovery | **Prioritas Pertama** |    |
-| Metode Mendidik | **Bahasa Hati** |    |
-| Target Karakter | **Karakter Iman** |    |
-| Hasil | **Iman** |    | Potensi Karakter Iman Setiap Anak Adalah Sama
-
-Karakter iman harus ditumbuhkan pada setiap anak, karena Allah Ta'ala telah memberikannya dengan kadar yang sama kepada semua anak yang lahir.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-## Cinta adalah Inti Dari Fitrah Iman
-
-Cinta…
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* Mengembalikan cinta sesungguhnya yaitu cinta kepada Allah, penciptanya
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-\
-## Target Karakter
-
-|    | Keimanan | Kemandirian |
-|----|----|----|
-| Fase Thufulah | * Cinta dengan pendidiknya. 
-* Memahami ibadah sebagai hal yang menyenangkan | * Mampu berkomunikasi dengan bahasa ibu (bukan bernalar) |
-| Fase Tamyiz | * Cinta kepada Allah
-* Mampu beribadah | * Mampu mengurus diri sendiri |
-| Fase Murahaqah | * Tangki cinta penuh
-* Terbiasa untuk konsisten dalam beribadah
-* Memiliki ibadah sunah favorit | * Mampu bersosialisasi dengan masyarakat |
-| Fase Syabab | * Mempertahankan konsistensi ibadah
-* Mampu memberikan cinta kepada yang lainnya | * Siap membangun keluarga baru |
-
-
+---
+title: "Iman"
 ---
 
+# Karakter Iman
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../Welcome/Getting%20Started.md)
-> 
+Karakter Iman adalah fondasi paling mendasar dalam Pendidikan Karakter Nabawiyah (PKN). Seluruh bangunan ilmu pengetahuan dan keahlian bakat akan menjadi rapuh atau bahkan destruktif jika tidak berdiri di atas kokohnya tauhid dan kecintaan kepada Allah Azza wa Jalla.
+
+> Dari Jundub bin Abdillah radhiyallahu 'anhu, ia berkata:  
+> *"Dahulu kami bersama Nabi ﷺ saat kami masih pemuda menjelang baligh (fityan hazawirah). Kami belajar iman sebelum kami belajar Al-Qur'an (ilmu), kemudian kami belajar Al-Qur'an sehingga bertambahlah iman kami dengannya."* (HR. Ibnu Majah & Thabrani)
+
+## Kaidah Penumbuhan Iman Anak
+
+1. **Mendahulukan Iman Sebelum Ilmu:** Membangun kecintaan dan persepsi positif tentang Allah sebelum membebani anak dengan aturan syariat atau hafalan yang berat.
+2. **Mengisi [[Tangki Cinta]]:** Anak yang tidak merasakan cinta dari orang tuanya di dunia nyata akan kesulitan memahami konsep kasih sayang (*Rahman & Rahim*) Allah.
+3. **Keteladanan Nyata:** Iman diserap melalui atmosfer keshalihan di rumah, kehangatan hubungan suami-istri, dan konsistensi ibadah kedua orang tua.
+
+## Pilar Karakter Iman Utama
+
+* **Mahabbah:** Kecintaan yang mendalam kepada Allah dan Rasul-Nya melebihi segala sesuatu.
+* **Shidq (Kejujuran):** Keselarasan antara keyakinan hati, perkataan lisan, dan perbuatan nyata.
+* **Tawakkal:** Sandaran mutlak kepada takdir dan pertolongan Allah setelah menuntaskan ikhtiar terbaik.

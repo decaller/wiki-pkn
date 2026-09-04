@@ -1,72 +1,17 @@
-# Fase Syabab
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Karakter Dasar
-
-| Sifat Utama | Aku dan diriku |    |
-|----|----|----|
-| Ego | Tinggi |    |
-| Golden Age | **Jiwa Muthaminnah** |    | Karakter Turunan
-
-|    | Kondisi | Menyebabkan | Melahirkan Sifat |
-|----|----|----|----|
-| Jiwa Ammarah | Lemah | Selalu butuh bantuan | Sensitif |
-| Jiwa Lawwamah | Lemah | Kurang mampu bernalar | Imajinatif |
-| Jiwa Muthmainnah | Tumbuh | Hati ingin dipuaskan | Egosentris | Pendidikan
-
-| Gaya Belajar | **Meniru** |    |
-|----|----|----|
-| Ego Pendidik | **Ego Rendah** |    |
-| Metode | **Bahasa Hati** |    |
-| Teknik | * Keteladanan
-* Bermain
-* Berkisah |    |
-| Pendidik | 
-1. Fase Penyusuan (0-2 Tahun)<br>**Dengan Ibunya**
-2. Fase Pengasuhan (2-7 Tahun)
-
-   **Dengan Kedua Orang Tuanya** |    |
-| Target | 
-1. Cinta kepada pendidiknya
-2. Memiliki imajinasi positif terhadap Allah Azza wa Jalla |    | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Syabab"
 ---
 
+# Fase Syabab (Pasca-Baligh / Mukallaf)
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../../Welcome/Getting%20Started.md)
-> 
+Ketika anak mengalami tanda biologis **Baligh** (mimpi basah bagi laki-laki, haid bagi perempuan), masa kanak-kanaknya secara syariat telah **selesai**. Mereka memasuki fase pemuda (*Syabab*) dan berstatus sebagai **Mukallaf** (pemikul beban hukum syariat penuh).
+
+## Pergeseran Hubungan Orang Tua & Anak
+
+1. **Kemitraan Orang Dewasa:** Mereka bukan lagi objek asuhan yang didikte, melainkan sesama mukallaf. Hubungan orang tua-anak beralih menjadi sahabat diskusi dan penasihat bijak.
+2. **Pencatatan Amal Penuh:** Pena taklif telah aktif. Ketaatan mendatangkan pahala individu dan kemaksiatan dicatat sebagai dosa pribadi.
+3. **Kemandirian Finansial Laki-Laki:** Secara syariat, kewajiban ayah memberi nafkah kepada anak laki-laki gugur saat ia baligh. Anak laki-laki didorong untuk mandiri mencari nafkah halal. Bantuan orang tua setelah baligh berstatus sebagai sedekah sukarela.
+
+## Mencegah Sindrom "Delayed Akil"
+
+Pola asuh modern kerap melakukan kesalahan terbalik: menekan anak secara kaku di masa TK/SD (sehingga hak bermainnya terampas), namun memanjakan anak saat SMA/kuliah sehingga mereka tumbuh menjadi "anak besar yang manja" (*Delayed Akil*). PKN mengembalikan alur ini agar kematangan mental (*Akil*) dicapai beriringan dengan kedewasaan fisik (*Baligh*).

@@ -1,50 +1,11 @@
-# Bakat Berperasaan
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Berperasaan"
 ---
 
+# Bakat Berperasaan
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../../Welcome/Getting%20Started.md)
-> 
+Bakat Berperasaan adalah sensitivitas batin untuk menangkap kondisi emosional orang lain, menjunjung tinggi nilai etika, dan mengekspresikan keindahan rasa.
+
+* **Sumber Jiwa:** Jiwa Muthmainnah (Hati) berkarakter Introvert.
+* **Ciri Khas:** Penuh empati, peka terhadap penderitaan sesama, mencintai keteraturan moral, dan memiliki cita rasa estetika tinggi.
+* **Peran Kekhalifahan:** Konselor jiwa, pendidik adab, sastrawan hikmah, dan penjaga nilai spiritualitas.

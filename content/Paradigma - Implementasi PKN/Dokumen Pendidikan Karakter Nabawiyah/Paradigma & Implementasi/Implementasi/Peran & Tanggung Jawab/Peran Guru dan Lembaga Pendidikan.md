@@ -1,58 +1,11 @@
-# Peran Guru dan Lembaga Pendidikan
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Peran Guru dan Lembaga Pendidikan"
 ---
 
+# Peran Guru dan Lembaga Pendidikan
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Lembaga pendidikan dan para guru dalam perspektif PKN berposisi sebagai **mitra pelengkap orang tua**, bukan pengganti fungsi orang tua.
+
+* **Guru Sebagai Fasilitator Fitrah:** Menemukan keunikan potensi setiap murid, bukan meratakan semua anak dengan kurikulum seragam yang kaku.
+* **Membangun Ekosistem Belajar yang Menggairahkan:** Menyediakan fasilitas laboratorium nyata, ruang diskusi nalar yang terbuka, dan suasana yang ramah anak tanpa kekerasan mental.
+* **Sinergi dengan Rumah:** Melaporkan perkembangan fitrah anak secara berkala kepada orang tua, bekerja sama menyelaraskan nilai-nilai yang dibangun di sekolah dengan kebiasaan di rumah.

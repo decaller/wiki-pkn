@@ -1,50 +1,13 @@
-# Bahasa Hati
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Bahasa Hati"
 ---
 
+# Bahasa Hati
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../Welcome/Getting%20Started.md)
-> 
+Bahasa Hati adalah metode pengasuhan utama pada **Fase Thufulah (0 - 7 Tahun)** yang menitikberatkan pada sentuhan rasa, kehangatan batin, dan keteladanan tanpa paksaan.
+
+## Karakteristik Bahasa Hati
+
+* **Tanpa Dikte Verbal:** Anak usia dini adalah peniru ulung. Satu keteladanan nyata orang tua jauh lebih membekas daripada seribu nasihat lisan.
+* **Pengisian Penuh Tangki Cinta:** Memberikan rasa aman dan nyaman agar anak meyakini bahwa dirinya dicintai tanpa syarat (*unconditional love*).
+* **Membangun Citra Positif tentang Allah:** Menanamkan bahwa Allah Maha Pengasih, Maha Penyayang, dan menyukai keindahan, bukan menakut-nakuti anak kecil dengan siksa neraka.

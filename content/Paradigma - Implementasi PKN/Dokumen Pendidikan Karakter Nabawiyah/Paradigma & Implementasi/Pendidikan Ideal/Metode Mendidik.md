@@ -1,58 +1,11 @@
-# Metode Mendidik
-
-Penjelasan singkat mengenai tema, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait tema.
-
-
-# Dalil-dalil <default dalam kondisi tertutup>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-#### Kaitan Ayat
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Metode Mendidik"
 ---
 
+# Metode Mendidik
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../Welcome/Getting%20Started.md)
-> 
+Dalam Pendidikan Karakter Nabawiyah (PKN), terdapat tiga instrumen bahasa utama yang digunakan secara berjenjang sesuai dengan kematangan jiwa anak:
+
+1. **[[Bahasa Hati]] (Usia 0 - 7 Tahun):** Komunikasi berbasis getaran rasa kasih sayang, keteladanan visual tanpa kata-kata, pelukan fisik, dan pemenuhan 5 Bahasa Cinta. Digunakan untuk menumbuhkan fitrah iman.
+2. **[[Bahasa Lisan]] (Usia 7 - 10 Tahun):** Komunikasi dialogis dua arah, memberikan argumentasi logis sebab-akibat, dan menuntaskan rasa ingin tahu anak tanpa amarah. Digunakan untuk menumbuhkan fitrah belajar.
+3. **[[Bahasa Tangan]] (Usia 10 Tahun ke Atas):** Tindakan tegas, penetapan konsekuensi nyata, dan penegakan aturan tanpa menyakiti raga untuk mendisiplinkan amalan wajib menjelang baligh. Digunakan untuk menumbuhkan fitrah bakat dan tanggung jawab.

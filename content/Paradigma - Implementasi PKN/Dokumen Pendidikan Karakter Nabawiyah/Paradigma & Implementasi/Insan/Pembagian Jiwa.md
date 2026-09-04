@@ -1,32 +1,25 @@
-# Pembagian Jiwa
-
-Manusia terdiri dari ruh dan jasad. Dari dua hal tersebut, terbagilah 3 jiwa (nafs) berbeda yang memiliki perbedaan kecondongan: Jiwa Ammarah (jasad), Jiwa Lawwamah (seimbang antara jasad dan ruh) dan Jiwa Muthmainnah (ruh). Masing-masing manusia memiliki tingkat kecondongan yang berbeda antara 3 jiwa ini.
-
-# Dalil-dalil <masih default>
-
-### Judul dalil 1
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Tafsir penjelasan ulama jika dibutuhkan
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
-
-### Judul dalil 2
-
-> < matan dalil >وَمَا خَلَقْتُ الْجِنَّ وَالاِنْسَ إِلاَّ لِيَعْبُدُونِ 
->
-> < arti dalil > "Tidaklah Aku ciptakan jin dan manusia melainkan untuk beribadah kepada-Ku." (QS. Adz Dzariyat: 56)
-
-Paragraf penjelasan tafsir yang dimaksud untuk melandasi pembahasan
-
+---
+title: "Pembagian Jiwa"
+---
 
 # Pembagian Jiwa
 
-< Grafik Utama Tema >
+Dalam Pendidikan Karakter Nabawiyah (PKN), manusia dipetakan secara utuh melalui tiga dimensi jiwa (*trilogi nafs*) yang saling berkaitan: **Nafsul Muthmainnah (Hati/Perasaan)**, **Nafsul Lawwamah (Akal/Pikiran)**, dan **Nafsul Ammarah (Fisik/Kemauan)**.
 
+Setiap dimensi jiwa ini memiliki hak perkembangan unik yang wajib ditunaikan oleh orang tua dan pendidik agar anak tumbuh seimbang dan siap memikul tanggung jawab syariat (*mukallaf*) secara sadar setelah melewati pintu gerbang baligh.
 
-\
+## Tiga Dimensi Jiwa dalam PKN
+
+| Dimensi Jiwa | Organ / Lokasi | Sifat Kecondongan | Dimensi Karakter | Metode Pendidikan |
+|---|---|---|---|---|
+| **Nafsul Muthmainnah** | Batin / Qalbu | Ruh / Ketaatan Ilahi | Karakter Iman | Bahasa Hati (Edukasi Rasa) |
+| **Nafsul Lawwamah** | Otak / Nalar | Seimbang (Evaluatif) | Karakter Belajar | Bahasa Lisan (Edukasi Logika) |
+| **Nafsul Ammarah** | Jasad / Fisik | Materi / Hayawaniyah | Karakter Bakat & Gerak | Bahasa Tangan (Edukasi Aksi) |
+
+## Prinsip Penunaian Hak Jiwa
+
+Penunaian hak pada ketiga dimensi jiwa ini secara bertahap merupakan prasyarat mutlak agar anak tumbuh matang secara mental (*Akil*) bersamaan dengan kedatangan tanda kedewasaan fisiknya (*Baligh*). Memaksa anak memikul beban tanpa memenuhi hak jiwanya di usia dini hanya akan melahirkan kepatuhan semu dan luka pengasuhan.
+
+* [[Ammarah]] — Dimensi fisik, kemauan gerak, dorongan eksekusi, dan bakat jasad.
+* [[Lawwamah]] — Dimensi nalar, akal evaluatif, rasa ingin tahu, dan adab ilmu.
+* [[Muthmainnah]] — Dimensi hati, kecintaan tauhid, kelapangan dada, dan keikhlasan batin.

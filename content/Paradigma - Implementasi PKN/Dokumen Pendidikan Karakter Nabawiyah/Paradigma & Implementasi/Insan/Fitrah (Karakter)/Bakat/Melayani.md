@@ -1,50 +1,11 @@
-# Bakat Melayani
-
-Penjelasan singkat mengenai elemen, penjelasan ini harus tetap dalam bentuk pargagraf biasa dan diletakkan paling atas mencakup definisi singkat dan penjelasan global terkait elemen.
-
-# Judul
-
-< Grafik Utama Tema >
-
-## Karakteristik
-
-### Subkarakteristik
-
-| Karakteristik 1 | Sifatnya | penjelasan karakteristik |
-|----|----|----|
-| Karakteristik 2 | Sifatnya | penjelasan karakteristik |
-| Karakteristik 3 | Sifatnya | penjelasan karakteristik | Subtema
-
-Kalimat deskripsi penjelasan singkat.
-
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-* poin penting
-
-  penjelasan singkat poin
-
-### Penjelasan
-
-#### Judul narasi 
-
-teks narasi
-
-#### Judul narasi 
-
-teks narasi
-
-
-
+---
+title: "Melayani"
 ---
 
+# Bakat Melayani
 
-> [!tip]
-> #### Pembahasan Terkait
-> 
-> * Mengenai [cara ini](./../../../Paradigma%20Insan.md)
-> * Menghadapi [fase ini](./../../../../../../Welcome/Getting%20Started.md)
-> 
+Bakat Melayani adalah kerelaan hati untuk mendedikasikan tenaga dan perhatian demi meringankan beban orang lain tanpa pamrih.
+
+* **Sumber Jiwa:** Jiwa Muthmainnah (Hati) berkarakter Ekstrovert.
+* **Ciri Khas:** Hangat, ramah, mengutamakan kebutuhan sesama (*itsar*), dan selalu sigap memberikan bantuan di garis depan.
+* **Peran Kekhalifahan:** Relawan kemanusiaan, tenaga medis pengasih, pelayan umat, dan pegiat sosial kemasyarakatan.
