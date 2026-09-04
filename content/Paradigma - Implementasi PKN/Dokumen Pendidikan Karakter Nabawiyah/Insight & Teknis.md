@@ -1,2 +1,86 @@
-# Insight & Teknis
+---
+title: Insight & Teknis
+---
 
+# Insight & Teknis Pendidikan Karakter Nabawiyah
+
+Bagian **Insight & Teknis** merupakan jembatan emas yang menghubungkan antara wawasan filosofis (*insight batiniah*) dengan pedoman operasional lapangan (*panduan teknis empiris*) dalam ekosistem **Pendidikan Karakter Nabawiyah (PKN)**. 
+
+> [!quote] Dalil & Rujukan Nabawiyah: Menyatukan Iman dan Aksi Nyata
+> **Teks Al-Qur'an:**  
+> « فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا »
+> 
+> *"Barangsiapa mengharap perjumpaan dengan Tuhannya, maka hendaklah ia mengerjakan amal yang saleh dan janganlah ia mempersekutukan seorangpun dalam beribadah kepada Tuhannya."*  
+> — **QS. Al-Kahfi: 110**
+> 
+> 💡 **Relevansi PKN:** Menegaskan bahwa pemahaman mendalam tentang fitrah anak (insight) harus bermuara pada amal kebaikan terstruktur yang membumi dalam kehidupan sehari-hari (teknis lapangan).
+
+---
+
+## 1. Arsitektur Divisi Insight & Teknis
+
+Divisi ini memuat catatan refleksi, hasil kajian video, serta instrumen terapan yang dirancang untuk memperkaya keterampilan pengasuhan ayah, bunda, dan para guru:
+
+```mermaid
+graph TD
+    IT["Insight & Teknis PKN"] --> INS["💡 [[Insight]]<br/>(Wawasan Filosofis & Catatan Kritis)"]
+    IT --> TEK["🛠️ [[Arahan Teknis Implementasi]]<br/>(SOP Operasional & Panduan Harian)"]
+    IT --> SOT["🏫 [[SOTABH]]<br/>(Sekolah Orang Tua Berbasis Hadits)"]
+    IT --> VID["🎥 [[Referensi Kajian Video]]<br/>(122 Judul & 1.159 Bab Kajian Transkrip)"]
+
+    INS --> Harmon["Penyelarasan Mindset Pendidik"]
+    TEK --> Harmon
+    SOT --> Harmon
+    VID --> Harmon
+```
+
+---
+
+## 2. Peta Sub-Dokumen Utama
+
+### 💡 1. [[Insight]]
+Kompilasi artikel pemikiran mendalam dari para asatidzah perintis PKN yang membedah akar permasalahan krisis keluarga modern:
+* Mengapa anak kehilangan adab di era informasi berlimpah?
+* Fenomena *father hunger* (kelaparan figur ayah) dan dampaknya terhadap orientasi seksual serta kepemimpinan generasi.
+* Bagaimana membebaskan diri dari kecemasan berlebihan (*parenting anxiety*) menuju ketenangan tawakkal.
+
+### 🛠️ 2. [[Arahan Teknis Implementasi]]
+Buku panduan teknis yang memuat instrumen terapan siap pakai bagi keluarga dan sekolah:
+* Standar Operasional Prosedur (SOP) pembiasaan shalat 7–10 tahun dan penegakan konsekuensi 10+ tahun.
+* Matriks Observasi Bakat Rukun 3A (*Suka, Bisa, Bermanfaat*) untuk memetakan 40 potensi fitrah anak.
+* Format lembar evaluasi pekanan keluarga (*usrah mubarakah*).
+
+### 🏫 3. [[SOTABH]] (Sekolah Orang Tua Berbasis Hadits)
+Arsitektur program pelatihan dan kaderisasi orang tua berbasis kajian hadits-hadits tarbiyah:
+* Tahapan kurikulum pembelajaran bertingkat (*Mustawa Ula, Wustha, dan 'Ulya*).
+* Metodologi bedah hadits tematik untuk diaplikasikan ke dalam studi kasus nyata pengasuhan rumah tangga.
+* Pembentukan komunitas pendukung (*peer group*) yang melestarikan iklim keshalihan keluarga.
+
+---
+
+## 3. Kaidah Menggunakan Panduan Teknis
+
+Dalam mengimplementasikan arahan teknis PKN, pendidik wajib memegang teguh kaidah berikut:
+1. **Fleksibilitas (*Murunah*):** Setiap keluarga memiliki keunikan kondisi, keterbatasan finansial, dan dinamika jumlah anak. Arahan teknis adalah panduan arah, bukan cetakan kaku yang menuntut keseragaman mutlak.
+2. **Prioritaskan Hati Sebelum Aturan:** Jangan pernah menegakkan SOP kedisiplinan teknis jika jembatan cinta batiniah (*Bahasa Hati*) antara anak dan orang tua sedang terputus.
+3. **Konsistensi Jangka Panjang:** Perubahan karakter membutuhkan waktu bertahun-tahun; ketekunan mengawal kebiasaan kecil harian jauh lebih berharga daripada gebrakan besar sesaat.
+---
+
+## 4. Kurikulum Terstruktur SOTABH (12 Pertemuan Transformasi Keluarga)
+
+Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang Tua Berbasis Hadits, berikut adalah kerangka modul tematik 12 pertemuan teruji:
+
+| Sesi | Modul Kajian | Pokok Bahasan & Rujukan Hadits | Target Kompetensi Orang Tua |
+| :---: | :--- | :--- | :--- |
+| **01** | **Rekonstruksi Visi Pengasuhan** | HR. Bukhari No. 893 (*Kullukum Ra'in*). Mengembalikan mandat fardhu 'ain pendidikan ke rumah tangga. | Ayah dan bunda menyepakati visi akhirat keluarga dan pembagian peran qawwamah-rahimah. |
+| **02** | **Memahami Trilogi Jiwa Anak** | QS. Asy-Syams: 7–10 & Hadits Zaid bin Arqam. Membedah dinamika nafsu ammarah, lawwamah, dan muthmainnah. | Orang tua mampu mengenali kebutuhan jiwa anak tanpa reaktif memarahi gejala fisik. |
+| **03** | **Pengisian Tangki Cinta (Bahasa Hati)** | HR. Bukhari No. 5997 (Kisah Al-Aqra' bin Habis & ciuman kasih sayang Nabi ﷺ). | Praktik 5 bahasa cinta nabawiyah: pelukan, kata afirmasi, hadiah, kebersamaan, dan khidmah. |
+| **04** | **Seni Komunikasi Al-Qur'an (Bahasa Lisan)** | QS. Al-Ahzab: 70 & QS. Thaha: 44. Menguasai 6 kaidah qaulan (sadida, layyina, baligha, karima, maysura, husna). | Orang tua menghentikan kebiasaan membentak, melabeli negatif, dan membanding-bandingkan anak. |
+| **05** | **Kaidah Ketegasan Disiplin (Bahasa Tangan)** | HR. Abu Dawud No. 495 & HR. Bukhari No. 2559. Batasan syariat ta'dib dan larangan menyakiti wajah. | Merumuskan kesepakatan konsekuensi logis yang disepakati bersama anak sebelum dieksekusi. |
+| **06** | **Manajemen Fase Usia: Thufulah (0–7 th)** | Hadits bermain anak dan kelembutan Nabi ﷺ kepada cucu-cucu beliau (Hasan, Husain, Umamah). | Menata rumah ramah anak tanpa sekat gawai, fokus pada stimulasi motorik dan sensorik alami. |
+| **07** | **Manajemen Fase Usia: Tamyiz (7–10 th)** | Hadits perintah shalat usia 7 tahun dan adab meminta izin privasi (QS. An-Nur: 58). | Menegakkan jadwal shalat berjamaah keluarga dan pembiasaan adab harian secara menggembirakan. |
+| **08** | **Manajemen Fase Usia: Murahaqah (10–15 th)** | HR. Abu Dawud No. 495 & QS. An-Nisa: 6. Ujian kemandirian (rusyd) dan fiqh pubertas pra-baligh. | Menyiapkan anak menghadapi baligh, memisahkan tempat tidur, dan melatih kemandirian finansial. |
+| **09** | **Pemetaan 40 Bakat Nabawiyah (TB40)** | HR. Bukhari No. 4949 (*Kullun Muyassarun lima Khuliqa lah*). Taksonomi bakat berbasis sahabat. | Mengisi instrumen observasi Rukun 3A (Suka, Bisa, Bermanfaat) untuk menemukan peran peradaban anak. |
+| **10** | **Benteng Imunitas Sosial & Batas Toleransi** | HR. Bukhari No. 2101 (Perumpamaan penjual minyak wangi) & HR. Bukhari No. 52 (Hima syubhat). | Membangun ekosistem pertemanan shalih dan menyaring paparan media digital negatif. |
+| **11** | **Pemulihan Fitrah & Hutang Pengasuhan** | QS. Az-Zumar: 53 & HR. Tirmidzi No. 2499. Metodologi recovery luka batin masa lalu. | Orang tua melakukan sesi taubat, memohon maaf kepada anak, dan merajut kembali kelekatan batin. |
+| **12** | **Tazkiyah Pendidik & Kekuatan Doa** | QS. Al-Furqan: 74 & HR. Tirmidzi No. 2517 (*I'qilha wa Tawakkal*). Tawakkal paripurna. | Membiasakan qiyamul lail dan doa khusus untuk anak-anak sebagai penutup ikhtiar harian. |

@@ -1,72 +1,70 @@
-# Dokumen Pendidikan Karakter Nabawiyah
+---
+title: Dokumen Pendidikan Karakter Nabawiyah
+---
 
-# Cara Menggunakan Dokumen Ini
+# Dokumen Master Pendidikan Karakter Nabawiyah
 
-* Ingin mengetahui secara global mengenai Metode Pendidikan Karakter Nabawiyah?
-  * Cek [Benang Merah Pendidikan](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Paradigma%20Pendidikan%20Ideal/Benang%20Merah%20Pendidikan.md)
-  * Cek [Pertanyaan yang Sering Diajukan](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/FAQ%20Ringkas.md)
+Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **Pendidikan Karakter Nabawiyah (PKN)**. Dokumen ini merangkum sintesis holistik antara dalil-dalil Al-Qur'an, as-Sunnah ash-Shahihah, khazanah tarbiyah ulama salafush shalih, serta aplikasi empiris pengasuhan berbasis fitrah di era kontemporer.
 
-    \
-* Dokumen ini dibagi menjadi 2 bagian
-  * [Paradigma & Implementasi](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi.md)
+> [!quote] Dalil & Rujukan Nabawiyah: Petunjuk yang Paripurna
+> **Teks Al-Qur'an:**  
+> « إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا »
+> 
+> *"Sesungguhnya Al Quran ini memberikan petunjuk kepada (jalan) yang lebih lurus dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan amal saleh bahwa bagi mereka ada pahala yang besar."*  
+> — **QS. Al-Isra': 9**
+> 
+> 📚 **Rujukan Tafsir OpenBayan:** *Tafsir Ibnu Katsir* menegaskan bahwa petunjuk Al-Qur'an adalah jalan yang paling tegak, paling adil, paling lurus (*aqwam*), dan tidak ada kebengkokan di dalamnya.  
+> 💡 **Relevansi PKN:** PKN meletakkan wahyu Ilahi sebagai rujukan mutlak di atas seluruh teori psikologi manusia yang rentan berubah dan terbatas pandangannya.
 
-    Bagian ini menjelaskan secara detail berdasarkan ringkasan dari berbagai dalil dan keterangan para ulama apa saja ada dalam diri seseorang manusia, cara mendidiknya secara ideal, dan cara mengimplementasikannya sesuai dengan kondisi yang ada. 
-    * [Paradigma Insan](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Paradigma%20Insan.md)
-    * [Paradigma Pendidikan Ideal](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Paradigma%20Pendidikan%20Ideal.md)
-    * [Paradigma Implementasi](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Paradigma%20Implementasi.md)
-  * [Insight & Teknis](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Insight%20&%20Teknis.md)
+---
 
-    Bagian ini mengumpulkan berbagai tulisan dari Ustad Abdul Kholiq beserta ustad dan ustadzah lainnya untuk memperkaya pemahaman serta memberikan berbagai contoh implementasi untuk menjadi inspirasi.
-    * [Insight](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Insight%20&%20Teknis/Insight.md)
-    * [Arahan Teknis Implementasi](./Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Insight%20&%20Teknis/Arahan%20Teknis%20Implementasi.md)
+## 1. Visi, Misi, dan Epistemologi PKN
 
+Pendidikan Karakter Nabawiyah hadir sebagai jawaban atas kegagalan sistem pendidikan modern (adopsi model pabrik Prusia) yang mereduksi hakikat manusia menjadi sekadar angka ujian, menstandarisasi potensi unik anak secara seragam, memisahkan perkembangan fisik (*baligh*) dari kematangan nalar dan tanggung jawab (*akil*), serta menyingkirkan dimensi tauhid dari proses belajar.
 
-# Ringkasan Metode Pendidikan Karakter Nabawiyah
+### Matriks Komparasi: Paradigma Sekuler vs Paradigma Nabawiyah
 
-## Paradigma Insan
+| Dimensi Evaluasi | Paradigma Pendidikan Sekuler Modern | Paradigma Pendidikan Karakter Nabawiyah (PKN) |
+| :--- | :--- | :--- |
+| **Hakikat Anak** | Kertas putih kosong (*tabula rasa*) yang harus diisi dan dibentuk oleh lingkungan luar. | Makhluk mulia yang telah membawa cetak biru suci (*fitrah*) dan potensi ketauhidan sejak lahir. |
+| **Peran Orang Tua** | Konsumen pendidikan; mendelegasikan tanggung jawab pengasuhan penuh kepada sekolah formal. | Penanggung jawab utama dan pertama di hadapan Allah (*fardhu 'ain*); sekolah hanya mitra pendukung. |
+| **Metode Belajar** | Penyeragaman kurikulum massal (*one size fits all*), drill hafalan teks, dan kompetisi ranking. | Personalisasi (*satu anak satu kurikulum*), eksplorasi alamiah, dan mentoring berbasis bakat unik (TB40). |
+| **Fokus Usia Dini** | Calistung dini, ujian kognitif formal, dan pengekangan ruang gerak fisik anak di kelas. | Penuntasan tangki cinta tanpa syarat, bermain aktif, keteladanan visual, dan penanaman rasa cinta iman. |
+| **Target Akhir** | Ijazah formal, kesiapan menjadi tenaga kerja pasar, dan kepatuhan mekanis industri. | Mencetak pribadi Mukallaf yang Akil-Baligh, berjiwa *khairu ummah*, mandiri, dan beramal peradaban. |
 
-### Ruh-Jasad, Pembagian Jiwa, Tujuan Hidup, Fitrah-Karakter
+---
 
-[https://pub.insantaqwa.org/3jiwa.html](https://pub.insantaqwa.org/3jiwa.html)
+## 2. Struktur Pembagian Dokumen Wiki PKN
 
-### Fitrah Perkembangan, Fitrah Iman-Belajar-Bakat
+Arsitektur dokumen Wiki PKN terbagi ke dalam dua divisi utama yang saling menopang secara sistemik:
 
-[https://pub.insantaqwa.org/3d%5Fperkembangan.html](https://pub.insantaqwa.org/3d%5Fperkembangan.html)
+### Bagian I: [[Paradigma & Implementasi]]
+Bagian ini membedah pondasi konseptual filosofis dan rancang bangun metodologis yang wajib dikuasai oleh setiap pendidik:
+1. **[[Insan]]:** Membahas tuntas siapa manusia yang dididik, meliputi [[Tujuan Hidup Manusia]], pertemuan [[Bersatunya Ruh dan Jasad Membentuk Jiwa]], taksonomi [[Pembagian Jiwa]] (*Muthmainnah, Lawwamah, Ammarah*), konsepsi [[Fitrah (Karakter)]], pengisian [[Tangki Cinta]], fitrah [[Belajar]], dan 40 ragam [[Bakat]].
+2. **[[Pendidikan Ideal]]:** Membahas prinsip dasar tarbiyah lurus dalam [[Benang Merah Pendidikan]], metodologi pengasuhan bertahap dalam [[Metode Mendidik]] (*Bahasa Hati, Bahasa Lisan, Bahasa Tangan*), konsep [[Pembelajaran Alamiah]], benteng [[Imunitas Sosial]], penjagaan [[Batas Toleransi]], serta kurasi solusi dalam [[Bank Studi Kasus]].
+3. **[[Implementasi]]:** Membahas panduan praktis eksekusi di dunia nyata melalui [[4 Kaidah Implementasi]], [[4 Elemen Implementasi]], pensucian jiwa dalam [[Tazkiyatun Nafs]], kekuatan [[Tawakkal dan Doa]], serta sinergi segitiga emas dalam [[Tanggung Jawab Pendidikan]], [[Peran Ayah dan Bunda]], dan [[Peran Guru dan Lembaga Pendidikan]].
 
-### Karakter Bakat
+### Bagian II: [[Insight & Teknis]]
+Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan prosedural teknis dari para asatidzah dan praktisi PKN:
+1. **[[Insight]]:** Renungan mendalam mengenai dinamika jiwa anak, problematika *fatherless*, bahaya kecanduan digital, dan pemulihan luka pengasuhan.
+2. **[[Arahan Teknis Implementasi]]:** Standar operasional prosedur (SOP) harian keluarga, instrumen observasi bakat, checklist adab per fase usia, dan panduan dialog ayah-anak.
+3. **[[SOTABH]]:** Panduan kurikulum Sekolah Orang Tua Berbasis Hadits sebagai sarana upgrading berkala kapasitas pengasuhan ayah dan bunda.
 
-[https://pub.insantaqwa.org/pembagian%5Fbakat.html](https://pub.insantaqwa.org/pembagian%5Fbakat.html)
+---
 
+## 3. Peta Alur Membaca & Verifikasi Dokumen
 
-## Paradigma Pendidikan Ideal
+```mermaid
+graph LR
+    Doc["Master Dokumen PKN"] --> P1["1. Pelajari Paradigma Insan<br/>(Kenali Karakteristik Anak)"]
+    P1 --> P2["2. Kuasai Metode Mendidik<br/>(Bahasa Hati, Lisan, Tangan)"]
+    P2 --> P3["3. Pantau Fase Perkembangan<br/>(Thufulah s/d Syabab)"]
+    P3 --> P4["4. Petakan Bakat Unik TB40<br/>(Rukun 3A: Suka, Bisa, Berguna)"]
+    P4 --> P5["5. Eksekusi Kaidah Lapangan<br/>(Sinergi Ayah, Bunda & Guru)"]
+```
 
-### Menumbuhkan Kesadaran → Imunitas Sosial
-
-[https://pub.insantaqwa.org/imunitas.html](https://pub.insantaqwa.org/imunitas.html)
-
-
-### Benang Merah Pendidikan
-
-[https://pub.insantaqwa.org/benang%5Fmerah.html](https://pub.insantaqwa.org/benang%5Fmerah.html)
-
-
-### Pembelajaran Alamiah (Integrasi Standar - Bakat)
-
-[https://pub.insantaqwa.org/pembelajaran%5Falamiah.html](https://pub.insantaqwa.org/pembelajaran%5Falamiah.html)
-
-
-\
-### Toleransi, Recovery & Euforia
-
-[https://pub.insantaqwa.org/euforia.html](https://pub.insantaqwa.org/euforia.html)
-
-
-## Paradigma Implementasi
-
-### Tanggung Jawab & Peran Pendidikan
-
-[https://pub.insantaqwa.org/tanggung%5Fjawab.html](https://pub.insantaqwa.org/tanggung%5Fjawab.html)
-
-### 4 Kaidah Implementasi
-
-[https://pub.insantaqwa.org/kaidah%5Fimplementasi.html](https://pub.insantaqwa.org/kaidah%5Fimplementasi.html)
+### Panduan Aksi Pengguna:
+* Ingin membaca ringkasan jawaban cepat atas masalah pengasuhan nyata? Buka [[FAQ Ringkas]].
+* Ingin mengetahui cara mendiagnosis penyimpangan anak? Buka bab Tafrith vs Ifrath di setiap berkas bakat.
+* Ingin melihat dalil shahih pendukung setiap materi? Telusuri [QURAN_DALIL_CATALOG.md](file:///home/abuhafi/Project/wiki-pkn/QURAN_DALIL_CATALOG.md) dan [DALIL_MAPPING.md](file:///home/abuhafi/Project/wiki-pkn/DALIL_MAPPING.md).
+* Ingin mengkaji rekaman audio-visual penjelas? Buka [[Referensi Kajian Video]].

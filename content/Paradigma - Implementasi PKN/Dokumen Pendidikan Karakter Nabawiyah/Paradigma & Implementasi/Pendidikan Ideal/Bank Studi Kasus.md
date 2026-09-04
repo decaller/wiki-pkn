@@ -4,6 +4,15 @@ title: "Bank Studi Kasus"
 
 # Bank Studi Kasus Kurikulum Berbasis Peristiwa: Panduan Restorasi Adab & Karakter Anak
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ، وَيُعْطِي عَلَى الرِّفْقِ مَا لَا يُعْطِي عَلَى الْعُنْفِ وَمَا لَا يُعْطِي عَلَى مَا سِوَاهُ »
+>
+> *"Sesungguhnya Allah itu Maha Lembut dan mencintai kelemahlembutan. Dia memberikan pada kelemahlembutan apa yang tidak Dia berikan pada kekerasan, dan apa yang tidak Dia berikan pada selainnya."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim No. 2593) & Syarah Riyadush Shalihin (Juz 49 Hal. 7)  
+> 💡 **Relevansi PKN:** Penanganan setiap studi kasus penyimpangan anak harus diawali dengan pendinginan emosi, pengisian tangki cinta, dan pendekatan bertahap berbasis kelembutan.
+
 ---
 
 ## 1. Landasan Filosofis: Mengatasi Kesenjangan Aqil-Baligh melalui Peristiwa

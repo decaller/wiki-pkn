@@ -2,24 +2,95 @@
 title: "Pembagian Jiwa"
 ---
 
-# Pembagian Jiwa
+# Pembagian Jiwa dalam Pendidikan Karakter Nabawiyah
 
-Dalam Pendidikan Karakter Nabawiyah (PKN), manusia dipetakan secara utuh melalui tiga dimensi jiwa (*trilogi nafs*) yang saling berkaitan: **Nafsul Muthmainnah (Hati/Perasaan)**, **Nafsul Lawwamah (Akal/Pikiran)**, dan **Nafsul Ammarah (Fisik/Kemauan)**.
+Dalam konsepsi Pendidikan Karakter Nabawiyah (PKN), jiwa manusia (*an-nafs*) bukanlah entitas statis yang kaku, melainkan medan gerak dinamis yang senantiasa berfluktuasi antara tarikan luhur malaikat (*lammatul malak*) dan bisikan nista setan (*lammatus syaithan*). Al-Qur'an Al-Karim secara eksplisit memetakan dinamika psikologis manusia ke dalam **Trilogi Jiwa**: **Nafsul Ammarah**, **Nafsul Lawwamah**, dan **Nafsul Muthmainnah**.
 
-Setiap dimensi jiwa ini memiliki hak perkembangan unik yang wajib ditunaikan oleh orang tua dan pendidik agar anak tumbuh seimbang dan siap memikul tanggung jawab syariat (*mukallaf*) secara sadar setelah melewati pintu gerbang baligh.
+Ketiga istilah ini bukanlah tiga jiwa yang terpisah di dalam satu tubuh, melainkan **tiga keadaan/fase kualitas (*ahwal*)** yang silih berganti menguasai satu jiwa yang sama. Sasaran agung dari tarbiyah nabawiyah adalah membimbing anak melalui proses penyucian bertahap (*tazkiyatun nafs*), mentransformasi dominasi dorongan liar jasad (*Ammarah*) menuju kesadaran nalar moral yang kritis (*Lawwamah*), hingga akhirnya mencapai ketenangan spiritual yang kokoh (*Muthmainnah*).
 
-## Tiga Dimensi Jiwa dalam PKN
+> [!quote] Dalil & Rujukan Nabawiyah: Sumpah Allah atas Dinamika Jiwa
+> **Teks Al-Qur'an:**  
+> « وَنَفْسٍ وَمَا سَوَّاهَا ۝ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ۝ قَدْ أَفْلَحَ مَن زَكَّاهَا ۝ وَقَدْ خَابَ مَن دَسَّاهَا »  
+> *"Dan demi jiwa serta penyempurnaan (ciptaan)-nya, maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya. Sungguh beruntunglah orang yang menyucikan jiwa itu, dan sungguh merugilah orang yang mengotorinya."*  
+> — **QS. Asy-Syams: 7–10**  
+>  
+> 📚 **Takhrij & Analisis Ibnul Qayyim dalam Kitab ar-Ruh (Hal. 226):**  
+> *"Nafs pada hakikatnya adalah satu dzat, namun memiliki tiga sifat yang berbeda sesuai dengan kecenderungan dominannya. Tatkala ia tunduk pada dorongan hawa nafsu dan syahwat, ia dinamakan Ammarah bis-Su'. Tatkala ia sadar, mencela kelalaian dirinya, dan berusaha menimbang kebaikan, ia dinamakan Lawwamah. Dan tatkala ia telah tenang bersama Allah, mencintai syariat-Nya, dan ridha atas takdir-Nya, ia dinamakan Muthmainnah. Pendidikan adalah sarana tazkiyah untuk mengangkat nafs dari lembah Ammarah menuju puncak Muthmainnah."*
 
-| Dimensi Jiwa | Organ / Lokasi | Sifat Kecondongan | Dimensi Karakter | Metode Pendidikan |
-|---|---|---|---|---|
-| **Nafsul Muthmainnah** | Batin / Qalbu | Ruh / Ketaatan Ilahi | Karakter Iman | Bahasa Hati (Edukasi Rasa) |
-| **Nafsul Lawwamah** | Otak / Nalar | Seimbang (Evaluatif) | Karakter Belajar | Bahasa Lisan (Edukasi Logika) |
-| **Nafsul Ammarah** | Jasad / Fisik | Materi / Hayawaniyah | Karakter Bakat & Gerak | Bahasa Tangan (Edukasi Aksi) |
+---
 
-## Prinsip Penunaian Hak Jiwa
+## 1. Anatomi Tiga Keadaan Jiwa dalam PKN
 
-Penunaian hak pada ketiga dimensi jiwa ini secara bertahap merupakan prasyarat mutlak agar anak tumbuh matang secara mental (*Akil*) bersamaan dengan kedatangan tanda kedewasaan fisiknya (*Baligh*). Memaksa anak memikul beban tanpa memenuhi hak jiwanya di usia dini hanya akan melahirkan kepatuhan semu dan luka pengasuhan.
+Berikut adalah matriks komparatif tiga dimensi jiwa, hubungannya dengan anatomi manusia, instrumen pendidikan, dan target perkembangannya:
 
-* [[Ammarah]] — Dimensi fisik, kemauan gerak, dorongan eksekusi, dan bakat jasad.
-* [[Lawwamah]] — Dimensi nalar, akal evaluatif, rasa ingin tahu, dan adab ilmu.
-* [[Muthmainnah]] — Dimensi hati, kecintaan tauhid, kelapangan dada, dan keikhlasan batin.
+```mermaid
+graph TD
+    subgraph KONDISI_JIWA["PETA TRILOGI JIWA DALAM PKN"]
+        Muth["1. NAFSUL MUTHMAINNAH<br/><b>Dimensi Hati (Qalbu)</b><br/>Hak: Disenangkan (Edukasi Rasa)<br/>Bahasa Utama: [[Bahasa Hati]]<br/>Fokus: Karakter Iman & Tangki Cinta"]
+        Laww["2. NAFSUL LAWWAMAH<br/><b>Dimensi Akal (Otak/Fikr)</b><br/>Hak: Dipahamkan (Edukasi Logika)<br/>Bahasa Utama: [[Bahasa Lisan]]<br/>Fokus: Karakter Belajar & Nalar Kritis"]
+        Amm["3. NAFSUL AMMARAH<br/><b>Dimensi Jasad (Fisik/Gerak)</b><br/>Hak: Dibiasakan (Edukasi Gerak)<br/>Bahasa Utama: [[Bahasa Tangan]]<br/>Fokus: Karakter Bakat & Disiplin Aksi"]
+    end
+
+    Amm -->|Didisiplinkan & Diarahkan| Laww
+    Laww -->|Dituntun Hikmah & Hidayah| Muth
+    Muth -->|Memimpin & Mensucikan| Amm
+```
+
+---
+
+## 2. Hak dan Kewajiban Masing-Masing Dimensi Jiwa
+
+Pendidikan Karakter Nabawiyah merumuskan bahwa keseimbangan kepribadian anak tercapai apabila **Hak Perkembangan** masing-masing dimensi jiwa dipenuhi sebelum menuntut **Kewajiban Syariat** padanya:
+
+### A. Dimensi Hati: [[Muthmainnah]]
+* **Hak Anak:** Berhak untuk **"Disenangkan" (*Edukasi Rasa*)**. Tangki cintanya harus penuh melalui pelukan hangat, tutur kata lembut, tatapan kasih sayang, dan rasa aman emosional. Pada fase [[Thufulah]] (0–7 tahun), anak tidak boleh diancam neraka secara menakutkan, melainkan dikenalkan kepada Allah Yang Maha Pengasih (*Ar-Rahman Ar-Rahim*).
+* **Kewajiban Anak:** Menumbuhkan ketundukan ikhlas (*taslim*), cinta ibadah, kejujuran batin (*shidq*), dan kebersihan hati dari rasa dengki (*hasad*) maupun kesombongan (*kibir*).
+
+### B. Dimensi Akal: [[Lawwamah]]
+* **Hak Anak:** Berhak untuk **"Dipahamkan" (*Edukasi Logika*)**. Anak berhak mendapatkan penjelasan logis mengenai alasan di balik perintah dan larangan. Di fase [[Tamyiz]] (7–10 tahun), anak berhak menuntaskan rasa ingin tahunya melalui eksperimen (*tajribah*) dan uji coba (*trial and error*) tanpa takut dicap bodoh saat keliru.
+* **Kewajiban Anak:** Menuntut ilmu dasar syariat (*fardhu 'ain*), melatih nalar berpikir lurus (*aqlun salim*), mematuhi adab menuntut ilmu, dan berani mengoreksi diri (*muhasabah*) tatkala melakukan kesalahan.
+
+### C. Dimensi Fisik: [[Ammarah]]
+* **Hak Anak:** Berhak untuk **"Dibiasakan" (*Edukasi Gerak*)**. Anak berhak bergerak aktif secara motorik, berlari di alam bebas, dan menyalurkan energinya dalam proyek karya nyata berbasis Rukun 3A: Suka (*Al-Hirsh*), Bisa (*Al-Maqdari*), dan Berguna (*Al-Mufid*).
+* **Kewajiban Anak:** Melatih ketahanan fisik (*jismun qawiy*), mendisiplinkan diri dalam shalat tepat waktu, membantu pekerjaan rumah tangga, dan memikul konsekuensi logis dari tindakannya tanpa mencari kambing hitam.
+
+---
+
+## 3. Dinamika Perjalanan Jiwa: Tazkiyah vs Tadsiyah
+
+Al-Qur'an menggunakan dua kata kunci yang sangat kontras: **Zakkaha** (membersihkan dan menumbuhkannya) dan **Dassaha** (menyembunyikan dan mengotorinya). 
+
+1. **Jalan Tazkiyah (Keberuntungan Pendidikan):**
+   - Dimulai dengan memenuhi hak cinta anak sehingga batinnya tenang (*Muthmainnah*).
+   - Mengasah akalnya dengan dialog hikmah sehingga nuraninya tajam mencela keburukan (*Lawwamah*).
+   - Menyalurkan energi fisiknya ke dalam 40 pilar [[Bakat]] sehingga nafs ammarahnya sibuk dalam kebajikan (*Ammarah bil-Khair*).
+2. **Jalan Tadsiyah (Kegagalan Pendidikan):**
+   - Mengosongkan tangki cinta anak dengan kekerasan verbal dan fisik, melahirkan luka pengasuhan.
+   - Mematikan nalar kritis anak dengan doktrinasi kaku tanpa dialog, membuat nalar lawwamahnya tumpul.
+   - Membiarkan anak kecanduan syahwat instan (gadget, game berlebihan, konsumerisme), sehingga nafs ammarah liar (*Ammarah bis-Su'*) memegang kendali kepribadiannya.
+
+---
+
+## 4. Matriks Observasi Pendidik: Mendeteksi Dominasi Jiwa Anak
+
+Sebagai panduan harian di rumah dan madrasah, berikut tabel observasi untuk mengenali kondisi jiwa yang sedang mendominasi anak:
+
+| Gejala Perilaku yang Muncul | Kondisi Jiwa Dominan | Akar Kebutuhan Batin | Respon Nabawiyah yang Tepat |
+|---|---|---|---|
+| Mengamuk, memukul teman, menolak berbagi, malas bergerak | **Ammarah Liar** | Energi fisik berlebih, lapar, lelah, atau batas aturan belum tegas | Terapkan [[Bahasa Tangan]]: tahan fisik dengan lembut tapi kokoh, beri batasan jelas tanpa bentakan. |
+| Merasa bersalah, bertanya "mengapa ini haram?", ragu-ragu | **Lawwamah Aktif** | Membutuhkan validasi logika, haus penjelasan sebab-akibat | Terapkan [[Bahasa Lisan]]: ajak berdialog dua arah (*hiwar*), dengarkan opininya, jelaskan hikmah syariat. |
+| Khusyuk saat berdoa, berempati pada yang sakit, tenang | **Muthmainnah Mekar** | Jiwa terkoneksi dengan Allah, tangki cinta penuh | Terapkan [[Bahasa Hati]]: peluk, puji kebaikan karakternya, syukuri nikmat hidayah bersama anak. |
+
+> [!reflection] Refleksi Pendidik: Menjaga Keseimbangan Jiwa Ananda
+> - Apakah selama ini kita hanya sibuk menjejali akal anak (Lawwamah) dengan nilai akademis, namun membiarkan tangki batinnya (Muthmainnah) kering kerontang tanpa kasih sayang?
+> - Sudahkah kita memberi ruang gerak yang cukup bagi fisik anak (Ammarah) untuk menyalurkan energinya ke dalam karya bermanfaat?
+
+---
+
+## Tautan Rujukan Terkait
+
+* [[Ammarah]] — Karakteristik dorongan jasad, syahwat, dan seni mendisiplinkannya.
+* [[Lawwamah]] — Dinamika nalar kritis, akal sehat, dan penyesalan positif.
+* [[Muthmainnah]] — Puncak ketenangan batin, iman kokoh, dan qalbun salim.
+* [[Bersatunya Ruh dan Jasad Membentuk Jiwa]] — Fondasi antropologi penciptaan manusia.
+* [[Tangki Cinta]] — Pemenuhan hak emosional dasar anak dalam PKN.

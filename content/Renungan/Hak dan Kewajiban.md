@@ -4,6 +4,15 @@ title: "Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 
 
 # Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلِأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ »
+>
+> *"Sesungguhnya bagi Rabb-mu ada hak atas dirimu, bagi dirimu sendiri ada hak atas dirimu, dan bagi keluargamu ada hak atas dirimu. Maka berikanlah kepada setiap yang memiliki hak akan haknya masing-masing!"*
+>
+> 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab ash-Shaum, No. 1968) & Riyadush Shalihin (Hal. 80)  
+> 💡 **Relevansi PKN:** Keseimbangan hak dan kewajiban antara orang tua dan anak merupakan fondasi keadilan syariat yang mencegah kedzaliman dan kekosongan pengasuhan.
+
 Secara perlahan dan bertahap, kita memahami sesuai nalar kita bahwa adalah kewajaran dan seharusnya bahwa hak anak dari masa kecilnya, sedikit demi sedikit berkurang hingga pada saat balighnya, kewajiban akan lebih besar daripada haknya. Akan tetapi apakah ada batasan yang tepat dalam menentukan hal ini? Apakah selama ini kita terlalu berfokus akan kewajibannya? Apakah kita berpikir dengan mempersiapkan ananda sedini mungkin akan membantu mempersiapkan ananda untuk mengemban kewajibannya?
 
 Padahal, pondasi dari melakukan kewajibannya (beramal) adalah kesadaran. Kesadaran dari lubuk hati terdalam niatan untuk mendapatkan pahala, menghindari dosa dan atas cinta kepada Rabnya untuk beramal amalan sholeh yang baik untuk dirinya dan bermanfaat untuk orang lain. Sedianya, kesadaran ini sebenarnya sudah ditanamkan oleh Allah Azza wa Jalla pada setiap manusia, tetapi tugas orang tua dan pendidiknya untuk menumbuhkannya.

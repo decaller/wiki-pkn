@@ -1,5 +1,14 @@
 # Tujuan Hidup Manusia
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ »
+>
+> *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka mengabdi (beribadah) kepada-Ku."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** QS. Adz-Dzariyat: 56 & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 180)  
+> 💡 **Relevansi PKN:** Menegaskan orientasi mutlak penciptaan manusia adalah ibadah, penghambaan, dan ketundukan total hanya kepada Allah.
+
 Tujuan hidup manusia adalah untuk menyembah Allah Azza wa Jalla dan pemakmur bumi sesuai dengan perannya masing-masing. 
 
 # Dalil-dalil

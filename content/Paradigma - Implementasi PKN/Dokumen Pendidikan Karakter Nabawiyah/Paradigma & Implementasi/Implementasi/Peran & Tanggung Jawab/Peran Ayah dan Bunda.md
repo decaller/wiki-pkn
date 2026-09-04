@@ -4,6 +4,15 @@ title: "Peran Ayah dan Bunda"
 
 # Sinergi Peran Ayah dan Bunda dalam Pendidikan Karakter Nabawiyah
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ »
+>
+> *"Laki-laki (suami/ayah) itu adalah pemimpin bagi kaum wanita (istri/keluarga), oleh karena Allah telah melebihkan sebahagian mereka atas sebahagian yang lain..."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** QS. An-Nisa': 34 & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 121)  
+> 💡 **Relevansi PKN:** Ayah berperan sebagai nakhoda visi dan ketegasan arah peradaban, sementara bunda berperan sebagai madrasah pertama yang membasahi rumah dengan kasih sayang.
+
 > *"Ayah dan Ibu bukanlah dua orang yang bersaing membuktikan siapa yang paling berjasa, melainkan sepasang sayap burung peradaban. Jika salah satu sayap patah atau pasif, burung itu tidak akan pernah bisa terbang tinggi mengantarkan anak-anaknya menuju puncak ketakwaan."*  
 > — **Ustadz Abdul Kholiq**
 

@@ -4,6 +4,15 @@ title: "Perkembangan"
 
 # Karakter Perkembangan: Peta Jalan Menuju Aqil-Baligh
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً »
+>
+> *"Allah, Dialah yang menciptakan kamu dari keadaan lemah, kemudian Dia menjadikan (kamu) sesudah keadaan lemah itu menjadi kuat, kemudian Dia menjadikan (kamu) sesudah kuat itu lemah (kembali) dan beruban..."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** QS. Ar-Rum: 54 & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 3 Hal. 467)  
+> 💡 **Relevansi PKN:** Fitrah manusia tumbuh melalui tahapan perkembangan teratur yang memiliki karakteristik, tugas perkembangan, dan ujian spesifik di setiap fasenya.
+
 > *"Mendidik anak tidak boleh disamaratakan di setiap jenjang usia. Ada fase di mana anak harus dimanjakan hak bermainnya laksana raja, ada fase di mana anak dilatih disiplin laksana prajurit, dan ada fase di mana anak diajak bermusyawarah laksana menteri."*  
 > — **Kaidah Hikmah Nabawiyah & Atsar Shahabat**
 

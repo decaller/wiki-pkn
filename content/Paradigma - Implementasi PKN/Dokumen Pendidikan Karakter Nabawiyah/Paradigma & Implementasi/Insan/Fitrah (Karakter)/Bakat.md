@@ -4,6 +4,15 @@ title: "Bakat"
 
 # Karakter Bakat: Menemukan Panggilan Misi Kekhalifahan
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ؛ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَيُيَسَّرُ لِعَمَلِ أَهْلِ السَّعَادَةِ »
+>
+> *"Beramallah kalian, karena masing-masing orang akan dimudahkan untuk menempuh jalan yang telah diciptakan baginya..."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 295)  
+> 💡 **Relevansi PKN:** Setiap anak dibekali keunikan bakat dan kemudahan amal (*isti'dad*) spesifik yang harus diobservasi secara personal ('satu anak satu kurikulum').
+
 > *"Bakat bukanlah sekadar hobi atau keterampilan mencari uang, melainkan rancang bangun fitrah yang Allah sematkan secara unik pada diri setiap hamba untuk memikul tugas kekhalifahan di muka bumi. Sebagaimana sabda Rasulullah ﷺ: 'Bekerjalah kalian, karena masing-masing insan akan dimudahkan menuju takdir penciptaannya (Kullun muyassarun limaa khuliqa lah)'."*  
 > — **Ustadz Abdul Kholiq & SOTAB HEBAT**
 

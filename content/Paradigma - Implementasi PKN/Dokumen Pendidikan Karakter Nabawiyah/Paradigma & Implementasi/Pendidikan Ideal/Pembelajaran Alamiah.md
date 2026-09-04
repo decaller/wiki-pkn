@@ -4,6 +4,15 @@ title: "Pembelajaran Alamiah"
 
 # Pembelajaran Alamiah: Menyelaraskan Pendidikan dengan Sunnatullah Kehidupan
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ »
+>
+> *"(Luqman berkata): 'Wahai anakku! Sesungguhnya jika ada (sesuatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di dalam bumi, niscaya Allah akan mendatangkannya (membalasnya)...'"*
+>
+> 📚 **Sumber Rujukan OpenBayan:** QS. Luqman: 16 & Syarah Tafsir Ibnu Katsir Ar-Rajhi (Juz 115 Hal. 4)  
+> 💡 **Relevansi PKN:** Tarbiyah alamiah memanfaatkan fenomena nyata di alam semesta dan peristiwa keseharian untuk menancapkan kesadaran muraqabatullah (keagungan Allah).
+
 > *"Sekolah modern sering kali memenjarakan anak di balik empat dinding beton selama belasan tahun, menghafal definisi tentang pohon tanpa pernah menanam pohon, dan membaca teori tentang kejujuran tanpa pernah diuji dalam pergaulan nyata. Pendidikan sejati terjadi di alam terbuka kehidupan, di mana setiap peristiwa adalah ruang kelas dan semesta adalah laboratoriumnya."*  
 > — **Ustadz Abdul Kholiq & SOTAB HEBAT**
 

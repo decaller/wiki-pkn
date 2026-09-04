@@ -4,6 +4,15 @@ title: "Recovery"
 
 # Recovery: Metodologi Pemulihan Fitrah & Luka Hati
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « كُلُّ بَنِي آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ »
+>
+> *"Setiap anak keturunan Adam pasti sering berbuat salah (khilaf), dan sebaik-baik orang yang berbuat salah adalah mereka yang senantiasa bertaubat."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** HR. Tirmidzi (No. 2499) & Syarah Riyadush Shalihin Hathibah (Juz 19 Hal. 9)  
+> 💡 **Relevansi PKN:** Pemulihan fitrah (*recovery*) tidak pernah terlambat; dengan taubat nasuha, permohonan maaf orang tua kepada anak, dan restorasi adab, noda hati dapat dihilangkan secara tuntas.
+
 > *"Pemulihan jiwa tidak bisa dilakukan dengan ketergesa-gesaan. Hati yang telah retak oleh bentakan bertahun-tahun membutuhkan waktu untuk merekat kembali melalui kelembutan yang konsisten, bukan ceramah panjang yang menekan."*  
 > — **Ustadz Abdul Kholiq & SOTAB HEBAT**
 

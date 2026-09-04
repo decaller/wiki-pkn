@@ -4,6 +4,15 @@ title: "Luka dan Hutang Pengasuhan"
 
 # Luka dan Hutang Pengasuhan (*Parenting Debt*)
 
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « كَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَيِّعَ مَنْ يَقُوتُ »
+>
+> *"Cukuplah seseorang dikatakan berdosa besar jika ia menelantarkan dan menyia-nyiakan orang-orang yang berada di bawah tanggung jawab nafkah dan pengasuhannya."*
+>
+> 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 1692) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 124)  
+> 💡 **Relevansi PKN:** Hutang pengasuhan terjadi saat orang tua abai mencurahkan kehadiran jiwa, kasih sayang, dan pendampingan karakter, yang kelak melahirkan luka batin menahun pada anak.
+
 > *"Anak terlahir suci membawa fitrah. Ketika ia tumbuh menjadi sosok yang membangkang, pemarah, atau rapuh jiwanya, jangan buru-buru menghakimi anaknya. Periksalah catatan masa lalunya: ada hak-hak fitrah yang belum tertunaikan, ada tangki cinta yang kosong, atau ada luka pengasuhan dari orang tuanya yang belum terbasuh."*  
 > — **Ustadz Abdul Kholiq**
 
