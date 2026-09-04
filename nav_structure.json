@@ -11,6 +11,11 @@
         "children": []
       },
       {
+        "title": "Referensi Kajian Video",
+        "icon": "info",
+        "children": []
+      },
+      {
         "title": "Insan",
         "icon": "universal-access",
         "children": [
@@ -189,6 +194,11 @@
           },
           {
             "title": "Imunitas Sosial",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "Bank Studi Kasus",
             "icon": "academicCap",
             "children": []
           }

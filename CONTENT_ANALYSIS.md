@@ -283,17 +283,18 @@ Berikut adalah 6 celah konten prioritas:
   1. Templat kontrak legal-syar'i piagam akil baligh (hak kebebasan pengelolaan diri vs kewajiban ibadah mandiri & nafkah pribadi).
   2. Daftar periksa (*checklist*) kesiapan baligh: fiqih thaharah (mandi wajib), batasan aurat, adab pergaulan lawan jenis, serta literasi finansial syariah.
 
-### Gap D. Bank Studi Kasus Kurikulum Berbasis Peristiwa (*Response Tree*)
-* **Urgensi:** SEDANG
-* **Deskripsi:** Pedoman langkah-demi-langkah bagi orang tua dalam merespons kejadian faktual di rumah sesuai prinsip *koneksi sebelum koreksi*.
-* **Komponen yang Dibutuhkan:**
-  1. Skenario studi kasus: anak enggan shalat, pertengkaran saudara (*sibling rivalry*), adiksi gawai, dusta spontan (*kadzib*), dan sikap minder.
-  2. Pohon respons bertingkat: Langkah 1 (Cek Tangki Cinta) → Langkah 2 (Bahasa Hati) → Langkah 3 (Bahasa Lisan) → Langkah 4 (Bahasa Tangan jika memenuhi syarat).
+### Gap D. Bank Studi Kasus Kurikulum Berbasis Peristiwa (*Response Tree*) — [SELESAI DITERBITKAN]
+* **Status:** SELESAI (Telah dipublikasikan di `content/.../Pendidikan Ideal/Bank Studi Kasus.md` dan ditautkan di `nav_structure.json`).
+* **Fitur yang Diintegrasikan:**
+  1. **Kerangka 4 Langkah:** Tangki Cinta → Bahasa Hati → Bahasa Lisan → Bahasa Tangan dengan diagram visual Mermaid.
+  2. **4 Studi Kasus Konkret:** Mogok Shalat Fardhu, Pertengkaran Hebat Antar-Saudara (*Sibling Rivalry*), Adiksi Gawai (*Gadget Screen Time*), dan Dusta Spontan (*Kadzib*).
+  3. **Integrasi Basis Data Video Ceramah (`pkn.db`):** Setiap studi kasus dilengkapi rujukan kutipan dan tautan langsung ke bab ceramah YouTube Ustadz Abdul Kholiq lengkap dengan penanda detik (*timestamps*).
+  4. **Kaidah Emas "Naik Turun Gas":** Panduan transisi fleksibel antara Bahasa Lisan dan Bahasa Hati saat anak mengalami resistensi.
+  5. **Indeks Master Video:** Halaman pelengkap `content/.../Referensi Kajian Video.md` merangkum ratusan bab ceramah Ustadz Abdul Kholiq berdasarkan topik kurikulum PKN.
 
-### Gap E. Integrasi Materi Folder `Insight & Teknis/`
-* **Urgensi:** SEDANG
-* **Deskripsi:** Menata 3 berkas pendek di folder `content/.../Insight & Teknis/` (`Arahan Teknis Implementasi.md`, `Insight.md`, `SOTABH.md`).
-* **Rekomendasi:** Menyempurnakan berkas SOTABH (*State of the Art Belajar Hati*) dan mengaitkannya secara erat ke bab *Bahasa Hati* dan *Metode Mendidik*.
+### Gap E. Integrasi Materi Folder `Insight & Teknis/` — [SELESAI DITUNTASKAN]
+* **Status:** SELESAI (Berkas `SOTABH.md` telah diperluas menjadi manifesto komprehensif *State of the Art Belajar Hati*, mengintegrasikan 6 pilar filosofis, protokol 9 tahap pemulihan noda hati, serta kaidah operasional pendidik dari 117 artikel SOTAB).
+* **Fitur Utama:** Paradigma Benih vs Bata, Satu Anak Satu Kurikulum, Protokol 9 Tahap *Menghapus Noda Hati*, dan integrasi rujukan artikel SOTAB HEBAT.
 
 ### Gap F. Visualisasi Konseptual & Diagram Interaktif
 * **Urgensi:** SEDANG
@@ -328,3 +329,96 @@ flowchart TD
 1. **Langkah 1:** Menghasilkan 40 berkas Markdown profil pilar karakter di `content/.../Insan/Pilar Karakter/` menggunakan skrip otomasi berdasarkan data master pada dokumen ini.
 2. **Langkah 2:** Memperbarui `nav_structure.json` agar memuat folder cabang `40 Pilar Karakter Nabawiyah` yang terkelompok berdasarkan 6 kategori utama.
 3. **Langkah 3:** Menulis templat praktis `Piagam Akil Baligh.md` dan `Lembar Observasi Bakat (Rukun 3A).md` untuk melengkapi bab Fase Perkembangan dan Bakat.
+4. **Langkah 4:** Melakukan ekspansi bertahap terhadap 21 berkas ringkas (Kategori 3) dan 5 berkas landing node (Kategori 1) menggunakan panduan pada Seksi 6 di bawah ini.
+
+---
+
+## 6. Audit Komprehensif Berkas Konten Aktif (61 Berkas)
+
+Berdasarkan pemindaian menyeluruh terhadap seluruh 61 berkas `.md` di dalam direktori `content/`, berikut adalah peta status kematangan materi saat ini:
+
+### 6.1 Distribusi Kematangan Konten
+
+| Kategori | Kriteria Ukuran | Jumlah Berkas | Karakteristik Utama |
+|---|---|---|---|
+| **Kategori 1: Kosong / Header-Only** | $\le 50$ Bytes | 5 Berkas | Berkas *landing node* / folder induk di Outline, hanya berisi header/frontmatter 2 baris. |
+| **Kategori 2: Berkas Templat Acuan** | Berkas di `Template/` | 3 Berkas | Kerangka kerja standar penulisan Outline (memuat placeholder tag `< matan dalil >`, dll.). |
+| **Kategori 3: Ringkas / Perlu Pengembangan** | $51 - 999$ Bytes | 21 Berkas | Sudah memiliki teks otentik tetapi bersifat ringkasan/draft pendek (10–20 baris). |
+| **Kategori 4: Sedang / Cukup Lengkap** | $1.000 - 2.999$ Bytes | 17 Berkas | Naskah telah terstruktur baik dengan konsep inti dan dalil dasar. |
+| **Kategori 5: Mendalam / Komprehensif** | $\ge 3.000$ Bytes | 15 Berkas | Naskah kaya referensi, dilengkapi studi kasus, video timestamp, atau kutipan artikel SOTAB. |
+| **Total** | | **61 Berkas** | Seluruhnya terindeks dan terkompilasi 100% pada Quartz v5. |
+
+---
+
+### 6.2 Daftar Rinci Berkas Kategori 1 (5 Berkas Kosong / Header-Only)
+
+Berkas-berkas ini berfungsi sebagai simpul folder di Outline dan belum memiliki naskah pengantar:
+
+1. `content/.../Insight & Teknis/Insight.md` (11 B) — Folder Landing Page
+2. `content/Paradigma - Implementasi PKN/Template.md` (12 B) — Folder Landing Page Template
+3. `content/.../Insight & Teknis.md` (20 B) — Hub Utama Insight & Teknis
+4. `content/.../Paradigma & Implementasi.md` (28 B) — Hub Utama Paradigma & Implementasi
+5. `content/.../Insight & Teknis/Arahan Teknis Implementasi.md` (30 B) — Arahan Teknis
+
+> **Rencana Tindakan:** Isi dengan halaman ikhtisar (*hub index*) yang merangkum peta jalan konten anak di bawah foldernya, disertai daftar tautan silang (*cards/table of contents*).
+
+---
+
+### 6.3 Daftar Rinci Berkas Kategori 2 (3 Berkas Templat Acuan)
+
+1. `content/Paradigma - Implementasi PKN/Template/Template Elemen Karakteristik.md` (973 B)
+2. `content/Paradigma - Implementasi PKN/Template/Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md` (870 B)
+3. `content/Paradigma - Implementasi PKN/Template/Template Tema.md` (1.165 B)
+
+> **Catatan:** Berkas-berkas ini sengaja dipertahankan sebagai artefak panduan format orisinal dari sistem Outline, tidak perlu diubah kecuali hendak dipercantik dokumentasinya.
+
+---
+
+### 6.4 Daftar Rinci Berkas Kategori 3 (21 Berkas Ringkas / Perlu Pengembangan)
+
+Berkas-berkas ini telah memiliki teks dasar namun sangat potensial untuk diperluas dengan memanfaatkan data 117 artikel SOTAB (`old_backup/sotabh/`) dan 122 video ceramah PKN (`old_backup/sqlite-vector-video-db/pkn.db`):
+
+| No | Berkas | Ukuran | Status Saat Ini | Rencana Pengayaan Sumber Daya |
+|---|---|---|---|---|
+| 1 | `.../Kaidah & Elemen/Kaidah & Elemen.md` | 367 B | Definisi pengantar singkat | Sintesis 4 kaidah penumbuhan fitrah dari arsip |
+| 2 | `.../Internal & Eksternal/Internal & Eksternal.md` | 404 B | Pengantar dualitas faktor | Penyelarasan faktor internal (jiwa) vs eksternal (lingkungan) |
+| 3 | `.../Peran & Tanggung Jawab/Peran & Tanggung Jawab.md` | 468 B | Pengantar relasi pengasuh | Integrasi pilar tripartit Ayah-Bunda-Guru |
+| 4 | `.../Bakat/Bekerja Sama.md` | 468 B | Draft pilar Ta'amul | Tambahkan 8 pilar (#25-#32: Ta'aawun, Ulfah, Adaalah, Wafaa, dll.) |
+| 5 | `.../Bakat/Melayani.md` | 482 B | Draft pilar Khidmah | Tambahkan 8 pilar (#33-#40: Rahmah, Itsaar, Amaanah, Hilm, Shabr) |
+| 6 | `.../Bakat/Berpikir.md` | 492 B | Draft pilar Tafkir | Tambahkan 5 pilar (#07-#11: Firaasah, Nubl, Husnuzhan, Dzakaa', Hikmah) |
+| 7 | `.../Bakat/Berperasaan.md` | 516 B | Draft pilar Syu'ur | Tambahkan 6 pilar (#12-#17: Shidq, Iffah, Shamt, Hayaa', Tawaadhu') |
+| 8 | `.../Bakat/Memerintah.md` | 519 B | Draft pilar Ta'tsir | Tambahkan 7 pilar (#18-#24: Syajaa'ah, Ghairah, Munaafasah, Nashiihah) |
+| 9 | `.../Bakat/Bekerja Keras.md` | 572 B | Draft pilar Hamasah | Tambahkan 6 pilar (#01-#06: Himmah, Ihsaan, Izzah, Waqaar, Aziimah) |
+| 10 | `.../Internal & Eksternal/Tazkiyatun Nafs.md` | 607 B | Definisi penyucian jiwa | Hubungkan dengan Protokol 9 Tahap Menghapus Noda Hati |
+| 11 | `.../Kaidah & Elemen/4 Elemen Implementasi.md` | 641 B | Ringkasan 4 elemen | Detailkan: Keteladanan, Pembiasaan, Pengondisian, Evaluasi |
+| 12 | `.../Peran & Tanggung Jawab/Tanggung Jawab Pendidikan.md` | 656 B | Dasar kewajiban ortu | Masukkan dalil QS. At-Tahrim: 6 & hadits *kullukum ra'in* |
+| 13 | `.../Internal & Eksternal/Tawakkal dan Doa.md` | 661 B | Ikhtisar doa & tawakkal | Lengkapi doa-doa ma'tsur nabawiyah untuk keturunan shalih |
+| 14 | `.../Metode Mendidik/Bahasa Hati.md` | 715 B | Konsep dasar koneksi batin | Padukan dengan artikel SOTAB tentang *Emotional Bonding* & pelukan |
+| 15 | `.../Metode Mendidik/Bahasa Lisan.md` | 724 B | Dialog berbasis peristiwa | Rujuk video Ustadz Abdul Kholiq tentang komunikasi dialogis |
+| 16 | `.../Pendidikan Ideal/Imunitas Sosial.md` | 736 B | Perlindungan pergaulan | Konsep *Filter Batin* vs proteksi fisik anak di era digital |
+| 17 | `.../Peran & Tanggung Jawab/Peran Guru dan Lembaga Pendidikan.md` | 740 B | Hubungan sekolah & ortu | Gagasan *Pesantren sebagai SMK Agama* & sekolah mitra fitrah |
+| 18 | `.../Luka dan Hutang Pengasuhan/Euforia.md` | 748 B | Ledakan emosi remaja | Fenomena pelampiasan rasa terkekang masa kanak-kanak |
+| 19 | `content/index.md` | 828 B | Halaman depan ringkas | Perindah dengan portal navigasi grafis, fitur pencarian & rujukan |
+| 20 | `.../Perkembangan/Tamyiz.md` | 845 B | Fase 7-10 tahun | Hubungkan perintah shalat usia 7 tahun & penanaman logika adab |
+| 21 | `.../Pendidikan Ideal/Batas Toleransi.md` | 857 B | Batas kesabaran ortu | Kaidah *Marah karena Allah* vs pelampiasan ego pengasuh |
+
+---
+
+### 6.5 Panduan Prompt Pengayaan Konten untuk Sesi Berikutnya
+
+Bagi pengembang atau agen AI yang akan melanjutkan pengayaan berkas-berkas di atas, gunakan format prompt spesifik berikut:
+
+```text
+Gunakan skrip pencari video:
+  python3 scripts/search_pkn_video.py "<kata_kunci>"
+dan artikel lokal pada:
+  old_backup/sotabh/
+untuk memperkaya berkas:
+  content/<path_berkas.md>
+Pastikan menyertakan:
+1. Matan dalil lengkap dengan terjemah.
+2. Relevansi psikologis dan fitrah nabawiyah.
+3. Contoh kasus operasional dalam keseharian anak.
+4. Rujukan YouTube resmi dengan timestamp bab.
+```
+

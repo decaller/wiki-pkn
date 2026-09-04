@@ -17,8 +17,14 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
    - Pengingat status lipatan (*collapse/expand*) per folder melalui `localStorage`.
 3. **Konfigurasi Resmi Quartz**: Membuat `quartz.config.yaml` dengan `pageTitle: "Wiki PKN"`, `locale: "id-ID"`, dan penonaktifan total `@quartz-community/explorer`.
 4. **Pengayaan Konten Otentik (39 Berkas)**: Mentransformasi 39 berkas kerangka kosong di `content/` menjadi naskah komprehensif berbasis data `old_backup/random/`.
-5. **100% Resolusi Tautan Navigasi**: Seluruh 47 simpul pada `nav_structure.json` memiliki berkas `.md` fisik yang valid (0 *unlinked leaf labels*).
+5. **100% Resolusi Tautan Navigasi (49 Simpul)**: Seluruh 49 simpul pada `nav_structure.json` memiliki berkas `.md` fisik yang valid (0 *unlinked leaf labels*).
 6. **Ekstraksi Data TB40**: Memetakan struktur lengkap taksonomi **Tafsir Bakat 40 (TB40)** dari repositori API observasi karakter (`/home/deck/Projects/observasi-karakter-api/api-tb40-explore/api/`).
+7. **Penerbitan Bank Studi Kasus Kurikulum Berbasis Peristiwa**: Menyusun dan merapikan naskah panduan restorasi karakter dengan metode 4-langkah (Tangki Cinta → Bahasa Hati → Bahasa Lisan → Bahasa Tangan) di `content/.../Pendidikan Ideal/Bank Studi Kasus.md`.
+8. **Integrasi Basis Data Video Ceramah PKN (`pkn.db`)**: Mengintegrasikan repositori `sqlite-vector-video-db` (122 video ceramah Ustadz Abdul Kholiq, 1.159 bab terindeks dengan timestamp YouTube) ke dalam `old_backup/`, menghasilkan halaman `content/.../Referensi Kajian Video.md`, serta menyediakan skrip utilitas pencarian CLI `scripts/search_pkn_video.py`.
+9. **Pengarsipan 117 Artikel SOTAB HEBAT (`old_backup/sotabh/`)**: Mengunduh dan mengonversi seluruh 117 artikel dari situs resmi `sotabh.com/artikel/` ke format Markdown lengkap dengan metadata frontmatter, indeks master kronologis (`old_backup/sotabh/README.md`), basis data terstruktur mentah (`articles.json`), serta skrip sinkronisasi otomatis `scripts/fetch_sotabh_articles.py`.
+10. **Ekspansi Konten Berbasis Video Ceramah & Artikel SOTAB**: Memperluas secara mendalam halaman-halaman kunci wiki (`SOTABH.md`, `Luka dan Hutang Pengasuhan.md`, `Recovery.md`, `Peran Ayah dan Bunda.md`, `Perkembangan.md`, `Pembelajaran Alamiah.md`, `Bakat.md`) dengan mengintegrasikan konsep-konsep emas seperti *Pesantren sebagai SMK Jurusan Agama*, *Kemunduran 3 Tahun Anak Modern*, *Protokol 9 Tahap Menghapus Noda Hati*, *Satu Anak Satu Kurikulum*, *Prinsip Naik Turun Gas*, dan rujukan video YouTube terverifikasi.
+11. **Audit Menyeluruh Kematangan 61 Berkas Konten**: Melakukan audit lengkap terhadap seluruh 61 berkas Markdown di `content/`, mengklasifikasikan ke dalam 5 kategori kematangan (5 berkas landing node kosong, 3 berkas template acuan, 21 berkas ringkas/draft, 17 berkas sedang, dan 15 berkas mendalam/komprehensif) serta merumuskan panduan prompt pengayaan konten pada `CONTENT_ANALYSIS.md`.
+12. **Validasi & Verifikasi Penuh Quartz v5**: Memastikan seluruh 61 berkas Markdown lolos verifikasi sintaks dan tautan dengan hasil kompilasi bersih (`npx quartz build` sukses menghasilkan 272 berkas web ke `public/`).
 
 ---
 
@@ -120,26 +126,34 @@ Sumber data berada di `/home/deck/Projects/observasi-karakter-api/api-tb40-explo
 
 ```
 wiki-pkn/
-├── content/                                # Naskah Markdown (halaman wiki)
+├── content/                                # Naskah Markdown (61 berkas halaman wiki)
 │   ├── index.md                            # Beranda Wiki PKN
 │   ├── Renungan/                           # Catatan renungan orang tua
 │   └── Paradigma - Implementasi PKN/       # Konten utama kurikulum PKN
 │       └── Dokumen Pendidikan Karakter Nabawiyah/
 │           ├── FAQ Ringkas.md
+│           ├── Referensi Kajian Video.md   # Indeks master video ceramah Ustadz Abdul Kholiq
 │           └── Paradigma & Implementasi/
 │               ├── Insan/                  # Jiwa, Fitrah, 6 Bakat, 4 Fase Usia
-│               ├── Pendidikan Ideal/       # Metode Mendidik, 3 Bahasa, Pemulihan
+│               ├── Pendidikan Ideal/       # Metode Mendidik, 3 Bahasa, Bank Studi Kasus, Pemulihan
 │               └── Implementasi/           # Kaidah, Elemen, Peran Ayah/Bunda/Guru
+├── old_backup/                             # Sumber data & arsip referensi
+│   ├── random/                             # Naskah mentah ekspor Outline & Bank Studi Kasus
+│   ├── sotabh/                             # 117 naskah artikel SOTAB HEBAT + articles.json
+│   └── sqlite-vector-video-db/             # Basis data pkn.db (122 video, 1.159 bab)
 ├── plugins/
 │   └── outline-nav/                        # Plugin Quartz untuk Navigasi Outline
 │       ├── package.json
 │       ├── tsup.config.ts
 │       └── src/components/OutlineNav.tsx   # Komponen utama sidebar & script
 ├── scripts/
-│   └── migration/                          # Skrip otomasi dan pengayaan arsip
-├── nav_structure.json                      # Sumber kebenaran struktur navigasi
+│   ├── fetch_sotabh_articles.py            # Skrip sinkronisasi 117 artikel SOTAB
+│   ├── generate_video_reference.py         # Skrip pembuatan halaman Referensi Kajian Video
+│   ├── search_pkn_video.py                 # Utilitas CLI pencarian timestamp video pkn.db
+│   └── migration/                          # Skrip migrasi dan pengayaan arsip
+├── nav_structure.json                      # Sumber kebenaran struktur navigasi (49 simpul)
 ├── quartz.config.yaml                      # Konfigurasi aktif Quartz v5
-├── CONTENT_ANALYSIS.md                     # Analisis celah konten & data TB40
+├── CONTENT_ANALYSIS.md                     # Analisis celah konten, master TB40 & audit 61 berkas
 └── HANDOFF.md                              # Dokumen serah terima ini
 ```
 
@@ -173,9 +187,14 @@ wiki-pkn/
 
 ## 5. Rencana Pengembangan Selanjutnya (Next Steps)
 
-1. **Pembuatan Halaman Profil 40 Pilar**:
-   Mengembangkan sub-direktori `Pilar Karakter/` di dalam `content/` untuk mendokumentasikan ke-40 pilar secara individual dengan merujuk data TB40 yang telah diekstraksi.
-2. **Templat Piagam Akil Baligh**:
-   Menyediakan berkas instrumen siap unduh/cetak untuk perjanjian kemandirian ananda pasca-baligh.
-3. **Diagram Visual & Infografis**:
-   Mengintegrasikan visualisasi `tb40.svg` atau diagram Mermaid interaktif ke halaman payung (*Insan*, *Bakat*, *Pendidikan Ideal*).
+1. **Pengayaan 21 Berkas Ringkas (Kategori 3) & 5 Landing Node (Kategori 1)**:
+   - Manfaatkan skrip `python3 scripts/search_pkn_video.py "<keyword>"` dan arsip artikel di `old_backup/sotabh/`.
+   - Prioritaskan pengayaan 6 sub-bakat (`Bekerja Sama.md`, `Melayani.md`, `Berpikir.md`, `Berperasaan.md`, `Memerintah.md`, `Bekerja Keras.md`) dengan memasukkan matriks pilar TB40.
+   - Perkaya metode 3 bahasa dan kaidah implementasi dengan studi kasus praktis.
+2. **Pembuatan Halaman Profil 40 Pilar**:
+   - Mengembangkan sub-direktori `Pilar Karakter/` di dalam `content/.../Insan/` untuk mendokumentasikan ke-40 pilar secara individual berdasarkan taksonomi TB40.
+3. **Templat Piagam Akil Baligh & Lembar Observasi Bakat**:
+   - Menyediakan berkas instrumen siap unduh/cetak untuk perjanjian kemandirian ananda pasca-baligh dan lembar pengamatan rukun 3A (Suka, Bisa, Berguna).
+4. **Diagram Visual & Infografis**:
+   - Mengintegrasikan visualisasi `tb40.svg` atau diagram Mermaid interaktif ke halaman payung (*Insan*, *Bakat*, *Pendidikan Ideal*).
+
