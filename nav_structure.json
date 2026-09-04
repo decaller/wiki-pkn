@@ -226,9 +226,25 @@
                 "title": "4 Elemen Implementasi",
                 "icon": "tools",
                 "children": []
+              },
+              {
+                "title": "Kaidah Implementasi di Berbagai Lembaga",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "8 Standar Implementasi PKN",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "Panduan RPP dan Observasi Lapangan",
+                "icon": "tools",
+                "children": []
               }
             ]
           },
+
           {
             "title": "Internal & Eksternal",
             "icon": "tools",

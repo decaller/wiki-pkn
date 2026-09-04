@@ -97,25 +97,58 @@ Berdasarkan literatur serial resmi SOTAB HEBAT, pemulihan luka batin anak melalu
 
 ---
 
-## 5. Rujukan Kajian Video Terkait (PKN Video Database)
+## 5. Matriks Penanganan Deviasi & Terapi Kelembagaan (Klausul 11 Standar PKN)
+
+Dokumen resmi *Panduan Implementasi Standar PKN 11/2024 (Rev 04)* menetapkan protokol pemilahan antara **Ketidaksesuaian Proses** (faktor kompetensi pendidik atau beban kurikulum) dengan **Ketidaksesuaian Perkembangan Individu** (adanya hutang pengasuhan dari masa kecil).
+
+Tabel berikut menjadi pedoman klinis bagi asatidz, konselor ma'had, dan wali kelas:
+
+| Kondisi | Penumbuhan Karakter | Diagnosis Masalah | Protokol Intervensi & Terapi Recovery |
+|:---:|---|---|---|
+| **Kondisi 1** | Iman (✅), Belajar (✅), Bakat (✅) | Telah sesuai tahapan perkembangan usia santri. | Akselerasi kepemimpinan (*Qiyadah*), delegasikan proyek peradaban mandiri. |
+| **Kondisi 2** | Iman (✅), Belajar (✅), **Bakat (❌)** | Minat karya belum terasah; kurang variasi peran. | Asah bakatnya menggunakan **Standar Pendewasaan (Klausul 10)**: magang, proyek mandiri, dan pemandirian finansial. |
+| **Kondisi 3** | Iman (✅), **Belajar (❌)**, **Bakat (❌)** | Nalar kritis dan gairah belajar padam akibat tekanan akademis kaku. | **Perbesar interaksi dengan alam (*Tadabbur Alam*)**, berikan ruang *trial & error*, hapus stigma salah, dan alihkan ke proyek fisik lapangan. |
+| **Kondisi 4** | **Iman (❌)**, Belajar (❌), Bakat (❌) | **Hutang Pengasuhan Berat:** tangki cinta kosong, shalat terpaksa/malas. | **Pemulihan Total Berbasis Bahasa Hati:** Hentikan sementara seluruh tuntutan akademis; sirami jiwa santri dengan kasih sayang tanpa syarat (*Khidmah & Himayah*). |
+| **Kondisi 5** | Terjadi pembangkangan atau penyimpangan moral kronis | Akumulasi trauma masa kecil (*Deep Transgenerational Trauma*). | **Konseling Terpadu Segitiga Emas:** Asatidz, konselor, dan kedua orang tua kandung duduk bersama melakukan *Tazkiyatun Nafs* dan rekonsiliasi batin. |
+
+> [!IMPORTANT]
+> **Kaidah Emas Urutan Pemulihan Kelembagaan:**  
+> *"Merujuk pada sunnatullah pertumbuhan fitrah yang berurutan dari Iman $\to$ Belajar $\to$ Bakat, maka bila ada tahapan yang belum tuntas, proses recovery WAJIB diinteraksikan dengan urutan yang sama persis, walaupun usia anak yang bersangkutan telah melampaui fase tersebut."*  
+> — **Standar Implementasi PKN 11/2024, Klausul 11.2**
+
+---
+
+## 6. Prinsip Mutlak: "Tidak Menambah Luka" (*Ad-Dhararu Yuzal*)
+
+Berdasarkan Klausul 11.2.3 Standar Penjaminan Mutu PKN, setiap upaya pemulihan anak wajib mematuhi kaidah fikih nabawi:
+$$\text{الضَّرَرُ يُزَالُ}$$
+*"Kemudharatan (bahaya/luka) harus dihilangkan."*
+
+Pendidik dan orang tua **dilarang keras** melakukan tindakan perbaikan yang justru menorehkan luka baru di jiwa anak, seperti:
+1. **Mempermalukan Santri di Depan Umum:** Menghukum anak berdiri di tengah lapangan atau membacakan kesalahannya di hadapan teman-temannya. Hal ini mematikan sifat *'Izzah* (harga diri) dan menumbuhkan bibit kemunafikan.
+2. **Memberikan Julukan Buruk (*Al-Alqab al-Madzmumah*):** Mencap anak sebagai "pemalas", "pembangkang", "bodoh", atau "anak nakal", yang diharamkan dalam QS. Al-Hujurat: 11.
+3. **Menggunakan Hukuman Fisik Represif:** Menghukum fisik saat emosi memuncak hanya akan melatih anak menjadi pribadi yang dendam atau pengecut.
+
+### Metode Menyikapi Anak "Bermasalah" (Kajian Seminar 1)
+Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat tanpa udzur:
+1. **Tunda Reaksi (*Cooling Down*):** Jangan merespon saat marah. Tundukkan pandangan dan baca ta'awwudz.
+2. **Tabayyun Empatik:** Ajak anak bicara empat mata di tempat yang nyaman (*Mushahabah*). Tanyakan kondisinya: *"Apa yang sedang terjadi padamu nak? Ayah/Ustadz tahu kamu anak baik, apa yang membuatmu melakukan hal ini?"*
+3. **Restitusi Terhormat:** Ajak anak memikirkan sendiri cara memperbaiki dampak perbuatannya kepada pihak yang dirugikan, sehingga harga diri dan tanggung jawabnya (*Amaanah*) tetap terjaga.
+
+---
+
+## 7. Rujukan Kajian Video Terkait (PKN Video Database)
 
 * *Metode Recovery: Prinsip Naik Turun Gas Antara Lisan dan Hati* — [Tonton di YouTube @ 81:49](https://www.youtube.com/live/OJhA20R7aDA&t=4909s)
 * *Tanya Jawab: Bolehkah Minta Maaf ke Anak?* — [Tonton di YouTube @ 45:12](https://www.youtube.com/watch?v=hODlNvl6qcc&t=2712s)
 * *Memulihkan Anak yang Terlanjur Trauma Beragama* — [Tonton di YouTube @ 60:15](https://www.youtube.com/watch?v=hODlNvl6qcc&t=3615s)
 * *Membasuh Luka Pengasuhan Orang Tua Sendiri* — [Tonton di YouTube @ 65:15](https://www.youtube.com/watch?v=hODlNvl6qcc&t=3915s)
+
 ---
 
-## 4. Matriks Diagnosis Kelembagaan: Penanganan 4 Tipe Hutang Pengasuhan
+## 8. Navigasi Bab Lanjutan
 
-Dokumen resmi *Panduan Implementasi Standar PKN* menetapkan protokol pemilahan antara **Ketidaksesuaian Proses** (faktor kompetensi guru/kurikulum) dengan **Ketidaksesuaian Perkembangan Individu** (adanya hutang pengasuhan dari masa kecil):
+* [[Euforia]] — Memahami dinamika ledakan emosi anak saat hutang pengasuhan mulai dicairkan.
+* [[8 Standar Implementasi PKN]] — Kerangka sistem penjaminan mutu kelembagaan dan audit berkala.
+* [[Panduan RPP dan Observasi Lapangan]] — Instrumen kuisioner penilaian pertumbuhan karakter dan formula indeks.
 
-| Tipe Kasus | Kondisi Karakter Santri | Diagnosis Hutang Pengasuhan | Protokol Intervensi Pemulihan (*Recovery*) |
-|:---:|---|---|---|
-| **Tipe 1** | Iman (✅), Belajar (✅), Bakat (❌) | Bakat unik dan minat karya belum teridentifikasi. | Lakukan asesmen bakat, berikan proyek pemandirian berbasis Rukun 3A (Suka, Bisa, Berguna), libatkan dalam magang lapangan. |
-| **Tipe 2** | Iman (✅), Belajar (❌), Bakat (❌) | Nalar kritis dan kegembiraan belajar mati akibat schooling kaku. | Perbesar interaksi alam terbuka (*tadabbur*), bebaskan eksperimen mandiri (*trial & error*), hapus ketakutan terhadap nilai angka. |
-| **Tipe 3** | Iman (❌), Belajar (✅), Bakat (✅) | Kering spiritualitas; taat hanya jika diawasi; tangki cinta bocor. | **Fokus Penuh pada Karakter Iman:** Hentikan sementara tuntutan beban hafalan/akademis; guyur dengan Bahasa Cinta yang dominan hingga batinnya merasa aman. |
-| **Tipe 4** | Iman (❌), Belajar (❌), Bakat (❌) | Kerusakan fitrah menyeluruh; apatis, memberontak, atau kecanduan gawai. | **Pemulihan Berurutan Mutlak:** Wajib dimulai dari pemulihan Iman (Bahasa Hati & cinta tanpa syarat) → kemudian Belajar (alamiah) → barulah penajaman Bakat, kendati usianya telah belia/dewasa. |
-
-> [!important] Kaidah Emas Urutan Pemulihan Kelembagaan
-> *"Merujuk pada sunnatullah pertumbuhan fitrah yang berurutan dari Iman → Belajar → Bakat, maka bila ada tahapan yang belum tuntas, proses recovery WAJIB diinteraksikan dengan urutan yang sama persis, walaupun usia anak yang bersangkutan telah melampaui fase tersebut."*  
-> — **Standar Penjaminan Mutu PKN, Klausul Evaluasi & Recovery**

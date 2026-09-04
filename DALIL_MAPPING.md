@@ -621,3 +621,32 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > 💡 **Relevansi PKN:** Landasan filosofis asesmen TB-40: pemetaan bakat bertujuan menemukan medan amal peradaban yang dimudahkan Allah bagi setiap insan, bukan untuk membatasi takdir.
 
 ---
+
+## 📄 `8 Standar Implementasi PKN.md`
+**Kata Kunci OpenBayan:** `وما خلقت الجن والإنس إلا ليعبدون`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ »
+> 
+> *"Dan tidaklah Aku menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** QS. Adz-Dzariyat: 56; Tafsir Ibnu Katsir (Juz 7 Hal. 425); Kaidah Fikih *Ad-Dhararu Yuzal* (Al-Asybah wan-Nazha'ir As-Suyuthi Hal. 83)  
+> 💡 **Relevansi PKN:** Standar penjaminan mutu kelembagaan: seluruh klausul operasional institusi (tujuan, proses, pendewasaan, pendidik, orang tua) diorientasikan mutlak pada penghambaan kepada Allah dan pemeliharaan fitrah tanpa menimbulkan luka baru (*Ad-Dhararu Yuzal*).
+
+---
+
+## 📄 `Panduan RPP dan Observasi Lapangan.md`
+**Kata Kunci OpenBayan:** `أحب الأعمال إلى الله أدومها وإن قل`
+
+> [!quote] Dalil & Rujukan Nabawiyah
+> **Naskah:**  
+> « أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ »
+> 
+> *"Amalan yang paling dicintai oleh Allah adalah amalan yang paling kontinu (dawam/istiqamah), meskipun sedikit."*
+> 
+> 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari (No. 6464) & Muslim (No. 782) - Kitab ar-Riqaq; Fathul Bari Ibnu Hajar (Juz 11 Hal. 301)  
+> 💡 **Relevansi PKN:** Landasan observasi dan pembiasaan RPP: pembentukan karakter sejati menuntut konsistensi pembiasaan harian yang berkelanjutan (*Dawam/Istiqamah*), bukan letupan seremonial sesaat.
+
+---
+

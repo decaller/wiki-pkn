@@ -1,9 +1,9 @@
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
 [![Quartz v5](https://img.shields.io/badge/Platform-Quartz%20v5-blue)](https://quartz.jzhao.xyz/)
-[![Total Halaman](https://img.shields.io/badge/Halaman-63%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
+[![Total Halaman](https://img.shields.io/badge/Halaman-65%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
 [![Kepatuhan Standar](https://img.shields.io/badge/Standar%20Emas-100%25%20Lulus%20(%E2%89%A55k%20chars)-brightgreen)](ARTICLE_AUDIT_REPORT.md)
-[![Total Karakter](https://img.shields.io/badge/Total%20Karakter-594%2C601%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
+[![Total Karakter](https://img.shields.io/badge/Total%20Karakter-658%2C144%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
 [![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](DALIL_MAPPING.md)
 
 Basis pengetahuan digital komprehensif **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan terstruktur yang merekonstruksi paradigma, kurikulum, metodologi, dan tata kelola implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
@@ -73,11 +73,12 @@ graph TD
 
 | Dokumen | Deskripsi |
 |---|---|
-| 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh 63 artikel (100% kepatuhan standar emas). |
+| 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh 65 artikel (100% kepatuhan standar emas). |
 | 📖 **[QURAN_DALIL_CATALOG.md](QURAN_DALIL_CATALOG.md)** | Katalog master dalil Al-Qur'an, teks Arab berharakat, dan takhrij Tafsir Ibnu Katsir. |
 | 📜 **[DALIL_MAPPING.md](DALIL_MAPPING.md)** | Katalog master hadits shahih OpenBayan dan relevansinya bagi kurikulum PKN. |
-| 🏗️ **[HANDOFF.md](HANDOFF.md)** | Dokumentasi arsitektur teknis sistem, data model TB40, riwayat milestone 1 s/d 18, dan panduan pemeliharaan. |
+| 🏗️ **[HANDOFF.md](HANDOFF.md)** | Dokumentasi arsitektur teknis sistem, data model TB40, riwayat milestone 1 s/d 19, dan panduan pemeliharaan. |
 | 🔍 **[CONTENT_ANALYSIS.md](CONTENT_ANALYSIS.md)** | Analisis konten holistik, pemetaan hierarki TB40, dan metodologi pengayaan materi. |
+
 | 🤝 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** | Piagam adab dan etika kontributor riset berbasis nilai-nilai Islam nabawiyah. |
 
 ---

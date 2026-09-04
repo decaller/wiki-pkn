@@ -97,15 +97,6 @@ PKN mengembalikan pendidikan kepada mata rantai fitrah yang lurus:
 3. **Bebas dari Penyakit Al-Wahn:**
    * Anak dididik memiliki cita-cita mulia akhirat, tidak takut miskin saat beramal shalih, dan bangga dengan identitas Islam di tengah peradaban global.
 
----
-
-## 5. Tautan Konseptual Terkait
-* [[Pendidikan Ideal]] — Menautkan Akil dan Baligh Menuju Peradaban.
-* [[Bakat]] — Pemetaan 40 Sifat Karakter Nabawiyah.
-* [[Pembelajaran Alamiah]] — Model Pembelajaran Alami Non-Formal.
-* [[Peran Ayah dan Bunda]] — Sinergi Kepemimpinan Pengasuhan Rumah Tangga.
----
-
 ## 4. Grand Theory Kesadaran Beramal: Rantai Kausalitas 5 Tingkat
 
 Berdasarkan naskah *Menumbuhkan Kesadaran Beramal* (Abdul Kholiq), kegagalan terbesar model schooling modern adalah **menuntut hasil akhir (Amal & Disiplin) secara instan melalui paksaan, ancaman nilai, atau iming-iming materiil**, melompati fondasi cinta dan kepercayaan batin.
@@ -150,3 +141,23 @@ Kesadaran beramal hanya akan bersemi di atas tanah **Kepercayaan Batin (*Trust*)
 5. **Integrity (Integritas Nilai):** Memilih jalan kebenaran syariat daripada kenyamanan pragmatis.
 6. **Non-Judgment (Tidak Menghakimi):** Mendengarkan keluh kesah anak dengan empati tanpa langsung mencap "kamu berdosa".
 7. **Generosity (Kemurahan Prasangka):** Selalu berprasangka baik pada niat awal anak tatkala ia melakukan kekeliruan teknis.
+
+---
+
+## 6. Visi Transformasi: Mewujudkan "Sekolah Mempesona" (*Pondok Manusia*)
+
+Penerapan benang merah pendidikan secara institusional menuntut perubahan kultur lembaga secara radikal, sebagaimana diamanatkan dalam **Klausul 7.2.3 Standar Implementasi PKN 11/2024**:
+- Menghilangkan paradigma "sekolah pabrik" yang dingin dan mekanistik.
+- Membangun **Sekolah Mempesona** (*Pondok Manusia*), yaitu lembaga pendidikan yang menghargai fitrah kemanusiaan santri, ramah jiwa, kaya ruang eksplorasi alam, dan menjadi oase peradaban yang dirindukan generasi muda.
+
+---
+
+## 7. Tautan Konseptual Terkait
+
+* [[8 Standar Implementasi PKN]] — Panduan Manajemen Penjaminan Mutu Lembaga Resmi Standar 11/2024 Rev 04.
+* [[Panduan RPP dan Observasi Lapangan]] — Format RPP Terpadu Aqidah-Ibadah-Adab dan Instrumen Observasi 19 Butir.
+* [[Pendidikan Ideal]] — Menautkan Akil dan Baligh Menuju Peradaban.
+* [[Bakat]] — Pemetaan 40 Sifat Karakter Nabawiyah.
+* [[Pembelajaran Alamiah]] — Model Pembelajaran Alami Non-Formal.
+* [[Peran Ayah dan Bunda]] — Sinergi Kepemimpinan Pengasuhan Rumah Tangga.
+

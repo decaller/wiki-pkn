@@ -84,14 +84,57 @@ graph LR
 
 ---
 
-## 5. Tautan Konseptual Terkait
-* [[Tanggung Jawab Pendidikan]] — Mandat Fardhu 'Ain di Pundak Orang Tua.
-* [[Pendidikan Ideal]] — Menautkan Akil dan Baligh Menuju Peradaban.
-* [[4 Kaidah Implementasi]] — Prinsip Operasional Pengasuhan Nabawiyah.
-* [[Metode Mendidik]] — Tiga Bahasa Pengasuhan Islam.
 ---
 
-## 4. Standar Mutu Kelembagaan & 4 Tingkatan Evolusi Sekolah PKN
+## 5. Paradigma Pendidikan Lestari (*Sustainable Fitrah Education*)
+
+Dalam kajian resmi Akademi Guru PKN Batch 7, **Prof. Dr. Iman Harymawan** (Guru Besar Universitas Airlangga, Peneliti Senior NUS, dan praktisi *homeschooling*) menguraikan konsep **Pendidikan Lestari**:
+
+```mermaid
+graph TD
+    subgraph Krisis["KRISIS SEKOLAH MEKANISTIK"]
+        K1["Tekanan Akademik Semu & Standarisasi Nilai"] --> K2["Emosi Anak Diabaikan & Hubungan Renggang"]
+        K2 --> K3["Darurat Kesehatan Mental & Krisis Eksistensial Remaja"]
+    end
+
+    subgraph Lestari["PARADIGMA PENDIDIKAN LESTARI"]
+        L1["Menjaga Ekosistem Fitrah Insan"] --> L2["Belajar Melibatkan Emosi Positif & Cinta"]
+        L2 --> L3["Sinergi Hakiki: Pendidik - Orang Tua - Santri"]
+    end
+
+    Krisis -.->|Transformasi Fitrah| Lestari
+```
+
+### A. Kritik atas Darurat Kesehatan Mental Remaja
+Data empiris menunjukkan lonjakan drastis kasus depresi dan krisis kesehatan mental pada kalangan remaja di Indonesia. Salah satu akar masalah utamanya adalah **miskonsepsi persekolahan modern**:
+- Sekolah sering direduksi menjadi "pabrik tes" yang mengabaikan aspek emosional dan spiritual murid.
+- Anak-anak dipaksa bersaing dalam sistem peringkat yang artifisial, memicu kecemasan kronis dan perasaan tidak berharga bagi anak yang memiliki bakat di luar kurikulum standar.
+- Ketika emosi ditekan dan fitrah tersumbat, jiwa anak mengalami kerapuhan luar biasa saat menghadapi tantangan hidup nyata.
+
+### B. Belajar yang Melibatkan Emosi Positif
+Pendidikan Lestari menegaskan bahwa **proses belajar yang efektif selalu melibatkan emosi positif**:
+- Rasa penasaran (*Curiosity*), gairah (*Passion*), dan kebahagiaan (*Joy*) saat menemukan rahasia ciptaan Allah.
+- Guru tidak hanya mengajar kepala (kognitif), melainkan menyentuh hati (afektif). Ketika hati santri merasa aman, dihargai, dan dicintai oleh gurunya, pintu nalar akan terbuka lebar untuk menyerap ilmu pengetahuan secara alami.
+
+---
+
+## 6. Standar Pendidik PKN: Pemetaan Potensi Guru & Self-Recovery (Klausul 12)
+
+Dokumen *Standar Implementasi PKN 11/2024* menetapkan bahwa guru adalah instrumen utama yang membuka pintu hidayah bayan bagi santri. Oleh karena itu, lembaga wajib menjamin mutu internal para pendidik:
+
+1. **Pemetaan Potensi Pendidik (*Teacher Talent Mapping*):**
+   - Para guru akan bekerja dengan penuh kebahagiaan dan produktivitas tinggi bila beraktivitas sesuai bakatnya.
+   - Setiap guru yang baru bergabung diasesmen menggunakan instrumen TB-40 untuk memetakan peran yang paling selaras: guru dominan *Rahmah/Rifq* diamanahi peran wali asrama dan konselor; guru dominan *Hikmah/Tafakkur* diamanahi kurikulum dan riset materi; guru dominan *Qiyadah/Hazm* diamanahi kepanduan dan ketertiban.
+2. **Program *Self-Recovery* Pendidik:**
+   - Guru yang jiwanya terluka oleh masa lalu akan cenderung melukai murid-muridnya tanpa sadar.
+   - Lembaga menyelenggarakan program pemulihan berkala agar guru menyelesaikan hutang pengasuhan masa kecilnya masing-masing, sehingga dapat mengajar dengan hati yang bening (*Qalbun Salim*).
+3. **Mewujudkan Sekolah Mempesona (*Pondok Manusia*):**
+   - Menghapus budaya bentakan, ancaman, dan sarkasme guru di ruang guru maupun kelas.
+   - Menciptakan suasana kerja ukhuwah yang hangat di antara sesama pendidik sebagai teladan nyata bagi santri.
+
+---
+
+## 7. Standar Mutu Kelembagaan & 4 Tingkatan Evolusi Sekolah PKN
 
 Berdasarkan dokumen master *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* (Abdul Kholiq & Bayu Issetyadi), transformasi sekolah konvensional menuju madrasah nabawiyah dilakukan melalui **Empat Tingkatan Adopsi**:
 
@@ -109,3 +152,15 @@ graph LR
 
 Untuk panduan mendalam mengenai 5 strategi ushul fiqih dalam mengelola konflik adopsi sistem di lembaga, rujuk panduan lengkap di:  
 👉 **[[Kaidah Implementasi di Berbagai Lembaga]]**.
+
+---
+
+## 8. Tautan Konseptual Terkait
+
+* [[Tanggung Jawab Pendidikan]] — Mandat Fardhu 'Ain di Pundak Orang Tua.
+* [[8 Standar Implementasi PKN]] — Pedoman Sistem Penjaminan Mutu Lembaga (Standar 11/2024 Rev 04).
+* [[Panduan RPP dan Observasi Lapangan]] — Cetak Biru RPP Terpadu dan Form Observasi Karakter Santri.
+* [[4 Kaidah Implementasi]] — Prinsip Operasional Pengasuhan Nabawiyah.
+* [[Kaidah Implementasi di Berbagai Lembaga]] — 5 Kaidah Penyesuaian Adopsi Berdasarkan Tingkatan Lembaga.
+* [[Recovery]] — Protokol Pemulihan Jiwa dan Kaidah "Tidak Menambah Luka".
+

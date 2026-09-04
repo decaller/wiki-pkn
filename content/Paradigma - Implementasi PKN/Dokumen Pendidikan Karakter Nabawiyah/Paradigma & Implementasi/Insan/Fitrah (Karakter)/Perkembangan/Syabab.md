@@ -93,24 +93,93 @@ graph TD
 * [[Tujuan Hidup Manusia]] — Menjadi Khalifah fil Ardh yang Bertauhid.
 ---
 
-## 4. Standar Kurikulum Pendewasaan Lembaga: Pemandirian Putra & Putri
+## 4. Standar Pendewasaan Kelembagaan (Klausul 10 Standar PKN 11/2024)
 
-Berdasarkan klausul resmi *Standar Pendewasaan (Akil Baligh)* dalam *Panduan Implementasi Standar PKN*:
+Dokumen resmi *Panduan Implementasi Standar PKN* menetapkan prosedur penjaminan mutu pendewasaan bagi santri yang telah menginjak usia baligh. Tujuan utamanya adalah memastikan santri tidak sekadar bertambah umur biologisnya, melainkan matang status mukallafnya (*Baligh sekaligus 'Aqil*):
 
 ```mermaid
 graph TD
-    subgraph STANDAR_PENDEWASAAN["STANDAR KURIKULUM AKIL-BALIGH LEMBAGA"]
-        Putra["SANTRI PUTRA (QAWWAMAH)<br/>1. Pemandirian Finansial & Bisnis Riil<br/>2. Pengelolaan Sarpras Ma'had Sendiri<br/>3. Magang Nyata (Apprenticeship)<br/>4. Kepemimpinan Lapangan & Bela Diri"]
-        Putri["SANTRIWATI (RAHIMAH)<br/>1. Manajemen Kerumahtanggaan (Housekeeping)<br/>2. Kuliner Gizi Halalan Thayyiban<br/>3. Psikologi Pengasuhan & Karakter Anak<br/>4. Fiqih Kewanitaan & Adab Istri Sholihah"]
+    subgraph STANDAR_PENDEWASAAN["6 PILAR STANDAR PENDEWASAAN SANTRI (KLAUSUL 10)"]
+        K1["10.1 Pembinaan Kepemudaan & Kerumahtanggaan<br/>(Fiqh Munakahat & Qawwamah)"]
+        K2["10.2 Pembelajaran Berbasis Proyek<br/>(Solusi Masalah Nyata Umat)"]
+        K3["10.3 Pengelolaan Sarpras oleh Santri<br/>(Ownership & Kemandirian)"]
+        K4["10.4 Pemandirian Finansial Putra<br/>(Menabung & Usaha Mandiri)"]
+        K5["10.5 Pemandirian Domestik Putri<br/>(Rabbatul Bait & Gizi Sehat)"]
+        K6["10.6 Program Magang Nyata<br/>(Apprenticeship di Bawah Praktisi)"]
     end
 
-    Putra --> Output["Generasi Syabab Mandiri & Siap Menikah Bertanggung Jawab"]
-    Putri --> Output
+    STANDAR_PENDEWASAAN --> Output["Generasi Syabab Tangguh: Mandiri, Bertauhid, dan Siap Berkeluarga"]
 ```
 
-1. **Pemandirian Finansial Santri Putra:**
-   - Santri usia 15 tahun ke atas tidak lagi diperlakukan sebagai anak kecil yang sekadar meminta uang saku. Ma'had memfasilitasi unit usaha riil (pertanian, peternakan, percetakan, IT, perdagangan).
-   - Pengelolaan operasional harian sekolah/pondok (kelistrikan, kebersihan sarana, perbaikan inventaris) didelegasikan kepada santri senior untuk melatih kepemilikan rasa tanggung jawab (*ownership*).
-2. **Pemandirian Kerumahtanggaan Santriwati:**
-   - Santriwati dibekali ilmu aplikatif tata laksana rumah tangga: tata kelola finansial domestik, keterampilan memasak sehat tanpa pengawet berbahaya, menjahit, pertolongan pertama kesehatan keluarga, serta psikologi perkembangan anak usia dini.
-   - Program ini mencetak calon ibu peradaban yang bangga atas peran mulianya sebagai *Rabbatul Bait* (Ratu Rumah Tangga).
+### 1. Pembinaan Kepemudaan dan Kerumahtanggaan (Klausul 10.1)
+Santri mukallaf dibekali kurikulum kerumahtanggaan syar'i yang mencakup:
+- Pengenalan hakikat fitrah lawan jenis dan adab pergaulan islami (*Ghadhdhul Bashar*).
+- Pengenalan tugas dan tanggung jawab kepala keluarga (*Qawwamah*) dan istri shalihah.
+- Bimbingan kriteria memilih pasangan hidup dan adab khitbah/pernikahan nabawi.
+- Keterampilan komunikasi intrapersonal dan resolusi konflik rumah tangga.
+
+### 2. Pengelolaan Fasilitas Ma'had oleh Santri (Klausul 10.3)
+Untuk memutus ketergantungan manja, lembaga mempercayakan pemeliharaan sarana prasarana ma'had kepada dewan santri:
+- Piket instalasi kelistrikan, pertukangan sederhana, pertamanan, dan logistik dapur.
+- Santri belajar menyelesaikan kendala teknis nyata tanpa harus selalu memanggil tukang luar.
+
+### 3. Pemandirian Finansial Santri Putra (Klausul 10.4)
+Santri putra dilatih mandiri secara ekonomi secara bertahap:
+- Membiasakan disiplin menabung uang saku pribadi.
+- Menjalankan unit usaha komersial halal di dalam ma'had (kantin kejujuran, *laundry* mandiri, percetakan, jasa perbaikan komputer, budidaya ikan/unggas).
+- Memahami fikih muamalah jual-beli, akad syirkah, dan menjauhi transaksi gharar atau riba.
+
+### 4. Pemandirian Kerumahtanggaan Santriwati (Klausul 10.5)
+Santriwati dibekali ilmu aplikatif kepengurusan rumah tangga (*Rabbatul Bait*):
+- Manajemen anggaran belanja keluarga dan tata ruang rumah islami.
+- Keterampilan kuliner sehat berbasis bahan alami (*Halalan Thayyiban*) tanpa pengawet sintetik berbahaya.
+- Keterampilan menjahit, tata busana muslimah syar'i, dan pertolongan pertama kesehatan keluarga (P3K).
+- Psikologi pengasuhan anak usia dini berbasis fitrah.
+
+### 5. Program Magang Lapangan / *Apprenticeship* (Klausul 10.6)
+Santri tidak hanya belajar teori di dalam kelas ma'had, melainkan diterjunkan magang ke dunia kerja riil:
+- Magang diselaraskan secara presisi dengan 5 pilar bakat dominan hasil tes TB-40 ([[Panduan Asesmen dan Observasi TB40]]).
+- Santri dibimbing langsung oleh mentor atau *coach* praktisi yang ahli di bidangnya.
+- Santri menyusun laporan refleksi karya portofolio sebagai syarat kelulusan fase syabab.
+
+---
+
+## 5. Tiga Pilar Kesiapan Mukallaf Mandiri
+
+Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesiapan Mukallaf**:
+
+```mermaid
+graph TD
+    SY["Pemuda Mukallaf Mandiri (Syabab)"]
+    SY --> P1["1. Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
+    SY --> P2["2. Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
+    SY --> P3["3. Kesiapan Ba'ah Pernikahan: Siap Menjadi Qawwamah Keluarga"]
+```
+
+1. **Kesiapan Ruhiyah (Ibadah Tanpa Paksaan):**
+   - Shalat malam (*qiyamullail*), tilawah harian, shaum sunnah, dan menundukkan pandangan (*ghaddhul bashar*) menjadi kebutuhan batinnya sendiri.
+2. **Kesiapan Finansial (*Economic Self-Reliance*):**
+   - Pemuda syabab dilatih magang bisnis, bertani, menjadi teknisi, atau membangun usaha rintisan. Rasulullah ﷺ bersabda: *"Sebaik-baik makanan yang dimakan seseorang adalah hasil kerja tangannya sendiri."* (HR. Bukhari No. 2072).
+3. **Kesiapan Membangun Rumah Tangga (*Ba'ah Syar'iyyah*):**
+   - Mampu memimpin, memiliki kematangan emosi, memahami fiqih munakahat, dan siap menjadi pelindung bagi keluarganya.
+
+---
+
+## 6. Kritik Krisis Remaja Modern: Bahaya Sindrom Infantilisme
+
+Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem persekolahan sekuler modern yang kerap memperpanjang masa kanak-kanak secara semu (*prolonged childhood* atau **sindrom infantilisme**):
+- **Kesenjangan Akil dan Baligh:** Di era modern, anak mengalami baligh biologis semakin dini (usia 11–13 tahun akibat nutrisi dan paparan gawai), namun kematangan akilnya (kemandirian mental, finansial, dan tanggung jawab sosial) tertunda hingga usia 25 tahun atau lebih!
+- **Kerapuhan Mental Remaja:** Remaja usia 17–20 tahun masih diperlakukan seperti anak kecil yang hanya disuruh menghafal soal ujian dan meminta uang saku kepada orang tua. Ketiadaan peran peradaban nyata ini memicu krisis eksistensial, kekosongan jiwa, depresi, hingga tingginya angka gangguan kesehatan mental remaja.
+- **Solusi Nabawi:** Islam menolak konsep "remaja galau (*adolescence*)". Begitu baligh, anak langsung diakui sebagai **Rijal** (lelaki dewasa) atau **Mar'ah** (wanita dewasa) yang memikul beban hukum syariat dan siap mencetak peradaban mulia.
+
+---
+
+## 7. Tautan Konseptual Terkait
+
+* [[Perkembangan]] — Rangkaian Lengkap Pentahapan Usia Nabawiyah.
+* [[Murahaqah]] — Etape Transisi Menjelang Baligh.
+* [[8 Standar Implementasi PKN]] — Standar Manajemen Penjaminan Mutu Lembaga dan Klausul 10 Pendewasaan.
+* [[Panduan Asesmen dan Observasi TB40]] — Pemetaan Bakat untuk Penjurusan Studi dan Pilihan Karir Santri.
+* [[Panduan RPP dan Observasi Lapangan]] — Instrumen Perencanaan Proyek dan Observasi Pertumbuhan Karakter.
+* [[Tujuan Hidup Manusia]] — Menjadi Khalifah fil Ardh yang Bertauhid.
+
