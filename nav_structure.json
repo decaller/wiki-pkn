@@ -6,13 +6,8 @@
     },
     "structure": [
       {
-        "title": "FAQ Ringkas",
-        "icon": "info",
-        "children": []
-      },
-      {
-        "title": "Referensi Kajian Video",
-        "icon": "info",
+        "title": "Home",
+        "icon": "home",
         "children": []
       },
       {
@@ -287,6 +282,42 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Referensi",
+        "icon": "bookmark",
+        "children": [
+          {
+            "title": "Referensi Kajian Video",
+            "icon": "video",
+            "children": []
+          },
+          {
+            "title": "Bahan Tayang & Slide PPTX",
+            "icon": "presentation",
+            "children": []
+          },
+          {
+            "title": "Korpus Dalil & Atsar Klasik",
+            "icon": "book-open",
+            "children": []
+          },
+          {
+            "title": "Panduan Kontribusi",
+            "icon": "git-pull-request",
+            "children": []
+          },
+          {
+            "title": "Referensi Tambahan Buku Cetak",
+            "icon": "book",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "FAQ Ringkas",
+        "icon": "info",
+        "children": []
       }
     ]
   }

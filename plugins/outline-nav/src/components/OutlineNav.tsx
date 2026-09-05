@@ -17,11 +17,27 @@ function slugify(text: string): string {
 
 function buildSlugMap(allFiles: QuartzComponentProps["allFiles"]): Map<string, string> {
   const map = new Map<string, string>()
-  for (const file of allFiles) {
+  
+  // Sort so non-tag pages are processed after tag pages, ensuring real content takes priority
+  const sortedFiles = [...allFiles].sort((a, b) => {
+    const aIsTag = a.slug?.startsWith("tags/") ? 1 : 0
+    const bIsTag = b.slug?.startsWith("tags/") ? 1 : 0
+    return bIsTag - aIsTag // tags first, then real content overrides them
+  })
+
+  for (const file of sortedFiles) {
     if (!file.slug) continue
     const title = file.frontmatter?.title as string | undefined
     if (title) {
       map.set(title.toLowerCase().trim(), file.slug)
+    }
+    const aliases = file.frontmatter?.aliases as string[] | undefined
+    if (Array.isArray(aliases)) {
+      for (const alias of aliases) {
+        if (typeof alias === "string") {
+          map.set(alias.toLowerCase().trim(), file.slug)
+        }
+      }
     }
     const slugParts = file.slug.split("/")
     const lastPart = slugParts[slugParts.length - 1]
@@ -39,6 +55,9 @@ function resolveNodeSlug(
   allFiles: QuartzComponentProps["allFiles"],
 ): string | null {
   const tLow = title.toLowerCase().trim()
+  if (tLow === "home" || tLow === "beranda" || tLow === "beranda utama") {
+    return "index"
+  }
   if (slugMap.has(tLow)) {
     return slugMap.get(tLow)!
   }

@@ -8,11 +8,24 @@ function slugify(text) {
 }
 function buildSlugMap(allFiles) {
   const map = /* @__PURE__ */ new Map();
-  for (const file of allFiles) {
+  const sortedFiles = [...allFiles].sort((a, b) => {
+    const aIsTag = a.slug?.startsWith("tags/") ? 1 : 0;
+    const bIsTag = b.slug?.startsWith("tags/") ? 1 : 0;
+    return bIsTag - aIsTag;
+  });
+  for (const file of sortedFiles) {
     if (!file.slug) continue;
     const title = file.frontmatter?.title;
     if (title) {
       map.set(title.toLowerCase().trim(), file.slug);
+    }
+    const aliases = file.frontmatter?.aliases;
+    if (Array.isArray(aliases)) {
+      for (const alias of aliases) {
+        if (typeof alias === "string") {
+          map.set(alias.toLowerCase().trim(), file.slug);
+        }
+      }
     }
     const slugParts = file.slug.split("/");
     const lastPart = slugParts[slugParts.length - 1];
@@ -25,6 +38,9 @@ function buildSlugMap(allFiles) {
 }
 function resolveNodeSlug(title, slugMap, allFiles) {
   const tLow = title.toLowerCase().trim();
+  if (tLow === "home" || tLow === "beranda" || tLow === "beranda utama") {
+    return "index";
+  }
   if (slugMap.has(tLow)) {
     return slugMap.get(tLow);
   }

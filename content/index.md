@@ -1,6 +1,9 @@
 ---
 title: Beranda Utama
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+aliases:
+  - Home
+  - Beranda
 tags:
   - pendidikan-karakter
   - fitrah-nabawiyah
@@ -88,7 +91,7 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 > #### 3️⃣ Fokus Menguatkan Kelebihan dalam Bakat, Niscaya Kelemahan akan Membaik Perlahan
 > * **Formula Rukun 3A:** Amati keunikan 40 pilar bakat fitrah ([[Bakat]]) setiap anak dengan prinsip: **Alami** (beri keleluasaan mencoba ragam aktivitas), **Acuhkan** kelemahan minor yang bukan fardhu 'ain, dan **Asah** potensi kekuatan dominan hingga melahirkan karya peradaban.
 > * 🌐 **Eksplorasi Interaktif:** Jelajahi pemetaan sifat, fitrah, dan 40 pilar bakat secara visual melalui aplikasi web resmi [Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/).
-* **Sunnatullah Pengangkatan Kelemahan:** Energi manusia terbatas; menguras energi untuk memaksa memperbaiki kelemahan minor hanya melahirkan stres, rendah diri, dan penolakan belajar. Sebaliknya, ketika anak difasilitasi mengasah bakat terbaiknya hingga berdaya guna bagi sesama ([[Melayani]] / *Al-Khidmah*), rasa percaya diri dan kematangan jiwanya akan bangkit, sehingga kelemahan-kelemahan perilakunya akan membaik dan terangkat secara alami (*Tazkiyah bil 'Amal*).
+> * **Sunnatullah Pengangkatan Kelemahan:** Energi manusia terbatas; menguras energi untuk memaksa memperbaiki kelemahan minor hanya melahirkan stres, rendah diri, dan penolakan belajar. Sebaliknya, ketika anak difasilitasi mengasah bakat terbaiknya hingga berdaya guna bagi sesama ([[Melayani]] / *Al-Khidmah*), rasa percaya diri dan kematangan jiwanya akan bangkit, sehingga kelemahan-kelemahan perilakunya akan membaik dan terangkat secara alami (*Tazkiyah bil 'Amal*).
 > 
 > #### 4️⃣ Implementasikan Secara Bertahap dari yang Mudah dari Kondisi yang Ada
 > * **Kaidah Kemudahan (*Taisir*):** Pegang teguh prinsip *"Maa laa yudraku kulluh, laa yutraku julluh"*—apa yang belum sanggup diterapkan seluruhnya, jangan ditinggalkan semuanya ([[4 Kaidah Implementasi]]).
