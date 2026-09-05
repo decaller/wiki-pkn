@@ -210,7 +210,26 @@ export default ((userOpts?: OutlineNavOptions) => {
           class="outline-nav-toggle desktop-outline-nav"
           aria-label="Toggle Outline Navigation"
         >
-          <h2>{userOpts?.title ?? "Navigasi Dokumen"}</h2>
+          <div class="outline-nav-header-left">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="15"
+              height="15"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="outline-header-icon"
+            >
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            <h2>{userOpts?.title ?? "Navigasi Dokumen"}</h2>
+          </div>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
@@ -218,7 +237,7 @@ export default ((userOpts?: OutlineNavOptions) => {
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
-            stroke-width="2"
+            stroke-width="2.5"
             stroke-linecap="round"
             stroke-linejoin="round"
             class="fold"
@@ -253,6 +272,13 @@ export default ((userOpts?: OutlineNavOptions) => {
 
     const navContent = root.querySelector(".outline-nav-content")
     if (!navContent) return
+
+    const isMobile = window.innerWidth <= 800
+
+    // On mobile, collapse by default on page load to keep reading area clean
+    if (isMobile) {
+      root.classList.add("collapsed")
+    }
 
     // 1. Restore scroll position
     const savedScroll = sessionStorage.getItem("outlineNavScrollTop")
@@ -366,7 +392,7 @@ export default ((userOpts?: OutlineNavOptions) => {
 
 .outline-nav .fold {
   margin-left: 0.5rem;
-  transition: transform 0.25s ease;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   opacity: 0.8;
 }
 
@@ -379,16 +405,30 @@ export default ((userOpts?: OutlineNavOptions) => {
   color: var(--dark);
   display: flex;
   align-items: center;
+  justify-content: space-between;
   margin-bottom: 0.6rem;
+  width: 100%;
+}
+
+.outline-nav-header-left {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.outline-nav-header-left .outline-header-icon {
+  color: var(--secondary);
+  opacity: 0.85;
+  flex-shrink: 0;
 }
 
 .outline-nav button.desktop-outline-nav h2 {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   display: inline-block;
   margin: 0;
   font-weight: 700;
   color: var(--darkgray);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
 }
 
@@ -424,44 +464,53 @@ export default ((userOpts?: OutlineNavOptions) => {
 }
 
 .collection-header {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 700;
   text-transform: uppercase;
   color: var(--gray);
+  margin-top: 0.6rem;
   margin-bottom: 0.35rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em;
+}
+
+.outline-collection:first-child .collection-header {
+  margin-top: 0;
 }
 
 .outline-nav-content .folder-outer > ul {
   overflow: hidden;
-  margin-left: 5px;
+  margin-left: 6px;
   padding-left: 0.75rem;
   border-left: 1px solid var(--lightgray);
 }
 
 .outline-nav-content li {
-  margin: 0.2rem 0;
+  margin: 0.15rem 0;
 }
 
 .outline-nav-content li > a {
   color: var(--dark);
-  opacity: 0.8;
+  opacity: 0.82;
   font-size: 0.88rem;
   line-height: 1.45rem;
   display: inline-block;
   text-decoration: none;
-  transition: color 0.2s ease, opacity 0.2s ease;
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
 }
 
 .outline-nav-content li > a:hover {
   opacity: 1;
   color: var(--secondary);
+  background-color: var(--highlight);
 }
 
 .outline-nav-content li > a.active {
   opacity: 1;
   color: var(--secondary);
   font-weight: 700;
+  background-color: var(--highlight);
 }
 
 .outline-folder-container {
@@ -471,11 +520,18 @@ export default ((userOpts?: OutlineNavOptions) => {
 }
 
 .outline-folder-container .folder-icon {
-  margin-right: 5px;
+  margin-right: 4px;
   color: var(--secondary);
   cursor: pointer;
   transition: transform 0.2s ease;
   flex-shrink: 0;
+  padding: 4px 6px;
+  margin: -4px 0;
+  border-radius: 4px;
+}
+
+.outline-folder-container .folder-icon:hover {
+  background-color: var(--highlight);
 }
 
 li.outline-folder:not(:has(> .folder-outer.open)) > .outline-folder-container .folder-icon {
@@ -490,24 +546,29 @@ li.outline-folder:not(:has(> .folder-outer.open)) > .outline-folder-container .f
   display: inline-block;
   text-decoration: none;
   opacity: 0.9;
-  transition: color 0.2s ease;
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
 }
 
 .outline-folder-title:hover {
   color: var(--secondary);
   opacity: 1;
+  background-color: var(--highlight);
 }
 
 .outline-folder-title.active {
   color: var(--secondary);
   font-weight: 700;
   opacity: 1;
+  background-color: var(--highlight);
 }
 
 .unlinked-item {
   color: var(--gray);
   font-size: 0.88rem;
   line-height: 1.45rem;
+  padding: 0.15rem 0.35rem;
 }
 
 .folder-outer {
@@ -516,6 +577,70 @@ li.outline-folder:not(:has(> .folder-outer.open)) > .outline-folder-container .f
 
 .folder-outer.open {
   display: block;
+}
+
+/* =========================================
+   Mobile Viewport Styles (<= 800px)
+   ========================================= */
+@media all and (max-width: 800px) {
+  .outline-nav {
+    width: 100%;
+    flex: 1 1 100%;
+    order: 10;
+    margin: 0.6rem 0 0.5rem 0;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background-color: var(--light);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+    padding: 0.6rem 0.85rem;
+    box-sizing: border-box;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .outline-nav button.desktop-outline-nav {
+    margin-bottom: 0;
+    padding: 0.15rem 0;
+    min-height: 36px;
+  }
+
+  .outline-nav button.desktop-outline-nav h2 {
+    font-size: 0.9rem;
+    color: var(--dark);
+  }
+
+  .outline-nav:not(.collapsed) {
+    border-color: var(--secondary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .outline-nav:not(.collapsed) button.desktop-outline-nav {
+    margin-bottom: 0.6rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .outline-nav-content {
+    max-height: 55vh;
+    padding-right: 4px;
+    padding-top: 0.2rem;
+  }
+
+  .outline-nav-content li {
+    margin: 0.25rem 0;
+  }
+
+  .outline-nav-content li > a,
+  .outline-folder-title {
+    font-size: 0.92rem;
+    line-height: 1.6rem;
+    padding: 0.25rem 0.45rem;
+  }
+
+  .outline-folder-container .folder-icon {
+    padding: 6px 8px;
+    margin: -6px 0;
+    touch-action: manipulation;
+  }
 }
 `
 

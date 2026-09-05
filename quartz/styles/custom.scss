@@ -66,3 +66,41 @@ h2.page-title {
 :root[saved-theme="dark"] h2.page-title a::before {
   filter: invert(1);
 }
+
+// Mobile Responsive Navigation & Sidebar Layout
+@media all and ($mobile) {
+  .sidebar.left {
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 0.5rem !important;
+    gap: 0.35rem 0 !important;
+
+    h2.page-title {
+      margin: 0 !important;
+      flex: 1 1 auto;
+      
+      a {
+        font-size: 1.4rem;
+        
+        &::before {
+          width: 1.9rem;
+          height: 1.9rem;
+        }
+      }
+    }
+
+    .flex-component {
+      margin-left: auto !important;
+      flex: 0 0 auto;
+    }
+
+    .outline-nav {
+      width: 100% !important;
+      flex: 1 1 100% !important;
+      order: 10 !important;
+    }
+  }
+}
+
