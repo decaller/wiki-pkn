@@ -251,19 +251,7 @@ Atas kelalaian ini, Rasulullah ﷺ memberikan sanksi sosial berat berupa **boiko
 
 ## 3. Penahapan 3 Bentuk Disiplin Pendidikan
 
-```mermaid
-graph TD
-    subgraph Piramida Tiga Bahasa PKN
-    C[Disiplin Amal / Fisik - 10+ Thn<br/><b>Bahasa Tangan:</b> Ketegasan & Sanksi Personal Terukur]
-    B[Disiplin Ilmu / Akal - 7-10 Thn<br/><b>Bahasa Lisan:</b> Dialog Logis & Pengajaran Terstruktur]
-    A[Disiplin Iman / Hati - 0-7 Thn<br/><b>Bahasa Hati:</b> Kasih Sayang, Teladan & Hadiah Tanpa Syarat]
-    end
-    A --> B
-    B --> C
-    style A fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
-    style B fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    style C fill:#fff3e0,stroke:#e65100,stroke-width:2px;
-```
+![[canvas/Disiplin Positif PKN - Penahapan 3 Bentuk Disiplin Pendidikan.canvas]]
 
 1. 💚 **Disiplin Iman / Hati (Usia 0–7 Tahun - Bahasa Hati):**
    * *Fase:* Thufulah (Masa Dikasih Hati).

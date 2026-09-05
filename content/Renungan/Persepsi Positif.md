@@ -47,29 +47,6 @@ Berikut adalah bagan visual resmi rekonstruksi PKN mengenai siklus pembentukan a
 ![Diagram Siklus Persepsi Positif dan Jalur Amal Nabawiyah](/assets/diagrams/diagram_siklus_persepsi_positif.png)
 *Gambar: Diagram Siklus Persepsi Positif PKN: Jalur Biru (Fitrah Nabawiyah) vs Jalur Merah (Paksaan Eksternal)*
 
-```mermaid
-graph LR
-    subgraph Jalur_Merah_Eksternal["⚠️ Jalur Merah: Tekanan Eksternal"]
-        PersepsiNeg["Persepsi Negatif (-)"] -.-> NiatEks["Niat Eksternal<br/>(Aturan Ketat, Hukuman, Pemantauan)"]
-        NiatEks ==>|Paksaan / Keterpaksaan| AmalPaksa["Amal Kering"]
-        AmalPaksa --> HasilPaksa["Hasil Semu"]
-        HasilPaksa ==>|Pengawasan Lenyap| Berhenti["⛔ BERHENTI (Rebel / Putus Asa)"]
-    end
-
-    subgraph Jalur_Biru_Nabawiyah["🌿 Jalur Biru: Fitrah Nabawiyah"]
-        Persepsi["1. PERSEPSI<br/>(Ubah Negatif ke Positif via Bahasa Hati)"] -->|Tumbuh Cinta| NiatInt["2. NIAT INTERNAL<br/>(Mahabbah, Roja', Khouf)"]
-        NiatInt -->|Dorongan Mandiri| Amal["3. AMAL BERKUALITAS<br/>(Metode Rabbani & Harmonis)"]
-        Amal --> Hasil["Hasil Nyata & Keberkahan"]
-        Hasil -->|Penguatan Siklus Positif| Persepsi
-        Amal ==>|Buah Jangka Panjang| Istiqamah["🌟 AMAL KONSISTEN<br/>(Pribadi Muslih & Sholih)"]
-    end
-
-    style Jalur_Biru_Nabawiyah fill:#f0f9ff,stroke:#0369a1,stroke-width:2px;
-    style Jalur_Merah_Eksternal fill:#fef2f2,stroke:#b91c1c,stroke-width:2px;
-    style Istiqamah fill:#dcfce7,stroke:#15803d,stroke-width:3px;
-    style Berhenti fill:#fee2e2,stroke:#991b1b,stroke-width:2px;
-```
-
 ![[canvas/Persepsi Positif - Siklus Amal Nabawiyah vs Jalur Eksternal.canvas]]
 
 ---

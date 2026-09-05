@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_DISIPLIN",
+      "type": "group",
+      "label": "🏛️ PIRAMIDA TIGA BAHASA & PENAHAPAN TIGA DISIPLIN PKN",
+      "x": -40,
+      "y": -60,
+      "width": 460,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "NODE_DISIPLIN_IMAN",
+      "type": "text",
+      "text": "### 💚 1. Disiplin Iman / Hati (0–7 Thn)\n**Bahasa Hati: Kasih Sayang & Teladan Nyata**\n- **Fase Usia:** *Thufulah* (Masa Dikasih Hati)\n- **Target Fitrah:** Karakter Iman, Aqidah Murni, & Cinta Kebaikan\n- **Metode:** *Qudwah hasanah*, kehangatan batin, pelukan fisik, hadiah tanpa syarat\n- **Kaidah Sanksi:** **Nol sanksi/hukuman eksternal**. Menuntaskan hak bermain anak.",
+      "x": 0,
+      "y": 0,
+      "width": 380,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "NODE_DISIPLIN_ILMU",
+      "type": "text",
+      "text": "### 🧠 2. Disiplin Ilmu / Akal (7–10 Thn)\n**Bahasa Lisan: Dialog Nalar & Bimbingan Terstruktur**\n- **Fase Usia:** *Tamyiz* (Masa Dikasih Tahu)\n- **Target Fitrah:** Karakter Belajar, Logika Kausalitas, & Nalar Kritis\n- **Metode:** Pengajaran rukun ibadah/muamalah, 5.000x pembiasaan shalat tanpa kekerasan\n- **Kaidah Sanksi:** Dinasihati (*qaulan sadida*), dibimbing, dan diajarkan materi yang belum dipahami.",
+      "x": 0,
+      "y": 230,
+      "width": 380,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "NODE_DISIPLIN_AMAL",
+      "type": "text",
+      "text": "### 🛡️ 3. Disiplin Amal / Fisik (10+ Thn)\n**Bahasa Tangan: Ketegasan & Sanksi Personal Terukur**\n- **Fase Usia:** *Murahaqah* (Masa Ditegasi hingga Baligh)\n- **Target Fitrah:** Karakter Bakat, Kemandirian, Pribadi Sholih & Muslih\n- **Metode:** Ketegasan ta'dib, pembatasan hak/fasilitas, boikot komunikasi (*Atsar Ka'ab bin Malik*)\n- **Syarat Mutlak Sanksi:** Khusus kelalaian/kemalasan, bukan ketidaktahuan. Diberikan setelah Iman & Ilmu tuntas.",
+      "x": 0,
+      "y": 460,
+      "width": 380,
+      "height": 180,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_1",
+      "fromNode": "NODE_DISIPLIN_IMAN",
+      "fromSide": "bottom",
+      "toNode": "NODE_DISIPLIN_ILMU",
+      "toSide": "top",
+      "label": "Fondasi kelekatan batin tuntas"
+    },
+    {
+      "id": "EDGE_2",
+      "fromNode": "NODE_DISIPLIN_ILMU",
+      "fromSide": "bottom",
+      "toNode": "NODE_DISIPLIN_AMAL",
+      "toSide": "top",
+      "label": "Nalar & rukun ilmu telah dipahami"
+    }
+  ]
+}
