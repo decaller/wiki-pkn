@@ -256,10 +256,15 @@ export async function loadQuartzConfig(
     return oldConfig.default
   }
 
+  const envDomain = process.env.DOMAIN || process.env.BASE_URL || process.env.QUARTZ_BASE_URL
+  const cleanEnvDomain = envDomain ? envDomain.replace(/^https?:\/\//, "").replace(/\/+$/, "") : undefined
+
   const configuration = {
     ...(json.configuration as unknown as GlobalConfiguration),
+    ...(cleanEnvDomain ? { baseUrl: cleanEnvDomain } : {}),
     ...configOverrides,
   }
+
 
   const enabledEntries = json.plugins.filter((e) => e.enabled)
   const manifests = new Map<string, PluginManifest>()

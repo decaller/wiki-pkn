@@ -240,6 +240,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 
 ## 10. Navigasi Instrumen & Panduan Terkait
 
+* [[Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]] — Instrumen baku self-assessment 40 butir Likert 5 tingkat, teks Arab, deskriptor perilaku, dan rekapitulasi kluster.
 * [[Panduan Asesmen dan Observasi TB40]] — Pedoman komprehensif instrumen 40 pilar, Likert 0–100 vs Ipsative 360°, dan pemetaan karir peradaban.
 * [[Panduan RPP dan Observasi Lapangan]] — Template RPP Karakter, instrumen kuisioner pertumbuhan, dan checklist harian 40 pilar.
 * [[8 Standar Implementasi PKN]] — Klausul 8 Perencanaan Kurikulum Bakat dan Klausul 10 Pendewasaan.

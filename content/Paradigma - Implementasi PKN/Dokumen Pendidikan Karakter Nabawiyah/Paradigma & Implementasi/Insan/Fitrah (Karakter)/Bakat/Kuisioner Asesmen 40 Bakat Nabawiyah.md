@@ -1,0 +1,198 @@
+---
+title: "Kuisioner Asesmen 40 Bakat Nabawiyah"
+tags:
+  - bakat
+  - asesmen
+  - instrumen
+  - operasional
+  - official-docs
+description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berbasis skala Likert 5 tingkat, dilengkapi teks Arab, transliterasi, deskriptor perilaku, dan rubrik rekapitulasi kluster."
+---
+
+# Kuisioner Asesmen 40 Bakat Nabawiyah
+
+> Dokumen ini merupakan instrumen asesmen baku yang diadopsi langsung dari **Panduan Implementasi Standar PKN (A4)** (Klausul 10 & Lampiran Tabel 15–16). Instrumen ini diformulasikan untuk membantu santri usia *Tamyiz akhir* hingga *Murahaqah* (10–15+ tahun) serta pendidik dalam memetakan profil fitrah bakat unik secara terstruktur.
+
+---
+
+## 1. Petunjuk Teknis Pelaksanaan Asesmen
+
+### A. Prinsip Pengisian
+1. **Bukan Ujian Akademik:** Instrumen ini tidak memiliki jawaban benar atau salah. Tidak ada profil bakat yang lebih mulia atau lebih rendah dari bakat lainnya.
+2. **Kejujuran Reflektif (*Shiddiq*):** Responden diharapkan menjawab sesuai dengan kecenderungan alami yang paling dirasakan dan konsisten dilakukan dalam kehidupan sehari-hari, bukan berdasarkan kondisi ideal yang diinginkan (*desirability bias*).
+3. **Spontanitas Alami:** Jawablah secara spontan berdasarkan perasaan pertama saat membaca pernyataan.
+
+### B. Skala Penilaian (Likert 5 Tingkat)
+Setiap butir pernyataan dinilai dengan memilih salah satu kriteria skor berikut:
+
+| Simbol | Keterangan | Nilai Bobot | Makna Operasional |
+|:---:|:---|:---:|:---|
+| **STS** | Sangat Tidak Sesuai | **1** | Sama sekali tidak menggambarkan diri saya; sangat jarang/tidak pernah saya rasakan/lakukan. |
+| **TS** | Tidak Sesuai | **2** | Kurang menggambarkan diri saya; hanya sesekali terjadi dalam situasi tertentu. |
+| **N** | Netral / Ragu-ragu | **3** | Kadang-kadang sesuai, kadang-kadang tidak; berada di tengah-tengah. |
+| **S** | Sesuai | **4** | Cukup menggambarkan diri saya; sering saya rasakan/lakukan secara alami tanpa beban. |
+| **SS** | Sangat Sesuai | **5** | Sangat mencerminkan diri saya seutuhnya; menjadi ciri khas utama perilaku saya sehari-hari. |
+
+---
+
+## 2. Instrumen Kuisioner 40 Butir Pernyataan
+
+Berikut adalah daftar lengkap 40 butir pernyataan evaluasi diri yang mencakup seluruh spektrum 40 Bakat Nabawiyah (*Thaba'i' Nabawiyyah*):
+
+| No | Nama Bakat (Arab & Latin) | Butir Pernyataan Perilaku (*Behavioral Descriptor*) | STS (1) | TS (2) | N (3) | S (4) | SS (5) |
+|:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| **1** | **‘Adaalah / العَدَالَة (adil)** | Ketika menghadapi orang lain, aku tidak berat sebelah dalam bersikap, tidak memihak, bersikap tengah-tengah, adil, dan sportif dalam “permainan”. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **2** | **Amaanah / الاَمَانَة (bertanggung Jawab)** | Aku senang jika diberi tugas atau tanggung jawab atau amanah, dan aku berusaha melaksanakannya dengan sebaik-baiknya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **3** | **Anaah / الاَنَاة (tidak tergesa)** | Aku tidak tergesa-gesa ketika akan bertindak dan terlebih dahulu mempertimbangkan berbagai hal agar tidak terjadi kesalahan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **4** | **‘Aziimah / العَزِيمَة (bertekad kuat)** | Ketika akan melakukan suatu pekerjaan, aku memiliki tekad yang kuat untuk segera memulainya dan kadang seperti orang yang tidak sabaran. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **5** | **Basyaasyah / البَشَاشَة (berseri-seri)** | Aku senang beramah tamah dan tersenyum kepada orang lain, berkata lembut, dan senang memberikan penyambutan sebaik-baiknya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **6** | **Dzakaa’ / الذَّكَاء (cerdas)** | Aku termasuk orang yang cepat dan mudah dalam memahami sesuatu yang dihadapkan kepadaku, seperti menghitung, menganalisa, dll. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **7** | **Fashaahah / الفَصَاحَة (komunikatif)** | Aku mampu menjelaskan sesuatu yang rumit menjadi mudah dipahami meskipun dengan ungkapan yang sederhana, baik lisan maupun tulisan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **8** | **Firaasah / الفِرَاسَة (berfirasat)** | Aku memiliki firasat kuat sehingga mampu menduga sesuatu yang akan terjadi dengan memperhatikan tanda-tanda yang tampak. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **9** | **Ghairah / الغَيْرَة (pencemburu)** | Aku tidak senang jika ada yang menyaingiku, melanggar hakku, atau ada yang melanggar aturan dan kesepakatan yang telah ditetapkan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **10** | **Hayaa’ / الحَيَاء (pemalu)** | Aku merasa memiliki kekurangan dan merasa apa yang telah aku terima melebihi hakku sehingga menjadikan aku merasa malu. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **11** | **Hikmah / الحِكْمَة  (ahli hikmah)** | Aku senang memikirkan sesuatu secara mendalam sehingga aku mampu menemukan hikmah dari sesuatu (peristiwa) yang telah terjadi. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **12** | **Hilm / الحِلْم (santun)** | Aku mampu menahan diri untuk tidak memarahi atau membalas orang yang bersalah meskipun aku mampu melakukannya, dan aku tetap santun. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **13** | **Himmah / الهِمَّة (bercita-cita tinggi)** | Aku memiliki rasa ingin tahu yang tinggi terhadap sesuatu sehingga aku memiliki gairah untuk meraih mimpi (cita-cita) yang tertinggi. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **14** | **husnuzhan / حُسْنُ الظَّن (berprasangka baik)** | Aku selalu berprasangka baik terhadap orang lain meskipun fakta yang aku ketahui mendukung kepada dugaan yang buruk. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **15** | **‘Iffah / العِفَّة (menjaga diri)** | Aku mampu menjaga diri sehingga aku sangat menyesal jika terlanjur melakukan suatu pelanggaran atau larangan karena menuruti hasratku. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **16** | **Ihsaan / الاِحْسَان (perfeksionis)** | Aku memiliki sifat perfeksionis sehingga aku selalu ingin segala sesuatu harus sempurna dan lebih sempurna lagi, dan aku tidak ingin seadanya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **17** | **Itsaar /الاِيْثَار (melayani)** | Aku senang mendahulukan orang lain meskipun sebenarnya aku lebih membutuhkannya sehingga aku menjadi orang yang senang melayani. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **18** | **‘Izzah / العِزَّة (harga diri)** | Aku memiliki prinsip yang kujadikan sebagai harga diriku dan aku mampu mempertahankannya meskipun dalam tekanan yang sangat berat. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **19** | **Juud / الجُوْد (dermawan)** | Aku senang memberikan sesuatu tanpa diminta kepada siapa pun dan aku tidak mengharap balasan atau ucapan terima kasih. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **20** | **Kitmaanus Sirr / كِتْمَانُ السِّرِّ (penjaga rahasia)** | Aku mampu menahan diri untuk tidak menyebarkan kabar (yang bukan aib) karena aku anggap sebagai privasi bagi orang yang bersangkutan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **21** | **Mahabbah / المَحَبَّة (penuh cinta)** | Aku senang memperdalam hubungan yang sudah terjalin, dengan memberikan kasih sayang secara khusus kepada yang bersangkutan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **22** | **Munaafasah / المُنَافَسَة (kompetitif)** | Aku senang bersaing, berlomba, atau berkompetisi agar aku menjadi yang paling unggul dari yang lainnya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **23** | **Muzaah / المُزَاح (humoris)** | Aku senang bercanda dan mengungkapkan kata-kata jenaka sehingga suasana menjadi lebih ceria dan lebih akrab. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **24** | **Nashiihah / النَّصِيْحَة (penasehat)** | Aku senang memberikan motivasi atau dorongan, saran-saran atau nasehat kepada orang lain agar menjadi lebih baik. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **25** | **Nasyaath / النَّشَاط (bersemangat)** | Aku selalu ingin menyelesaikan suatu pekerjaan yang sedang aku lakukan dengan penuh semangat dan kerja keras. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **26** | **Nubl / النُّبْل (cerdik)** | Ketika aku mengalami suatu kesulitan, aku dengan mudah menemukan  peluang-peluang yang dapat dijadikan solusinya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **27** | **Nushrah / النُّصْرَة (menolong)** | Aku senang membantu orang lain yang mengalami kesusahan sampai  terlepas dari kesusahan tersebut. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **28** | **Qanaa’ah /  القَنَاعَة (sederhana)** | Aku merasa cukup dengan apa yang telah aku miliki dan rela menerima apa pun yang diberikan kepadaku. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **29** | **Rahmah / الرَّحْمَة (berbelas kasih)** | Aku mudah merasa kasihan dan bersimpati kepada orang yang mengalami kesusahan dan berkeinginan untuk memberikan yang terbaik kepadanya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **30** | **Rifq / الرِّفْق (lemah lembut)** | Aku selalu mengambil sisi termudah dalam menyikapi semua urusan, sehingga aku selalu lemah lembut dalam berbuat maupun berkata. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **31** | **Satr / السَّتْرُ (menutup aib)** | Aku mampu menutupi dan tidak menampakkan atau menceritakan aib diri sendiri atau orang lain. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **32** | **Shabr / الصَّبْر (penyabar)** | Aku mampu menahan diri untuk tidak bereaksi dan bersabar terhadap tekanan, kesulitan, atau apa pun yang menimpa diriku. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **33** | **Shamt / الصَّمْت (pendiam)** | Aku cenderung banyak diam dan berbicara seperlunya, sehingga yang aku ucapkan hanya ucapan yang diperlukan saja. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **34** | **Shidq / الصِّدْق (jujur)** | Aku mudah menerima saran dan masukan serta berkata dan berbuat sesuai dengan hal yang sebenarnya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **35** | **Syajaa’ah / الشَّجَاعَة (pemberani)** | Aku berani menghadapi orang secara langsung, untuk berbicara kepadanya, memerintah, mengatur, atau menguasainya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **36** | **Ta’aawun / التَّعَاوُن (bekerjasama)** | Aku senang menjalin kerjasama dengan orang lain, berdamai, dan menghindari konflik untuk mencapai tujuan bersama. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **37** | **Tawaadhu’ / التَّوَاضُع (rendah hati)** | Aku tidak suka menampakkan atau ditampakkan kehebatanku meskipun aku memilikinya, sehingga ada orang lain yang menyebutku rendah hati. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **38** | **Ulfah / الاُلْفَة  (bersatu)** | Aku senang berkumpul dengan orang banyak dan berusaha menambah anggota perkumpulan sebanyak-banyaknya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **39** | **Wafaa’ / الوَفَاء (menepati janji)** | Aku memegang teguh janji yang telah disepakati bersama, meskipun posisiku sebagai pihak yang dicurangi. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **40** | **Waqaar / الوَقَار (berwibawa)** | Aku tampak tenang tapi tangguh, tidak banyak bicara tapi bisa memahamkan, tidak tergesa tapi mendahului dalam semua urusan. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+## 3. Matriks Pengelompokan 6 Rumpun Bakat
+
+Setelah mengisi ke-40 butir pernyataan di atas, rekapitulasi nilai skor Anda (skala 1–5) ke dalam tabel kelompok 6 kluster bakat berikut untuk menemukan **3–5 Bakat Terunggul** dan **Bakat yang Kurang Dominan**:
+
+### A. Kluster Hayawaniyah (Jasad / Jiwa Ammarah)
+
+#### 1. Rumpun Bekerja Keras (Introvert — Jasad/Fisik)
+*Ciri utama: Ulet, tahan banting, gigih menyelesaikan tugas hingga tuntas, fokus pada aksi raga.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Bekerja Keras|‘Aziimah / العَزِيمَة (Bertekad Kuat)]] | Butir 4 | ... |
+| 2 | [[Bakat/Bekerja Keras|Syaja’ah / الشَّجَاعَة (Pemberani)]] | Butir 29 | ... |
+| 3 | [[Bakat/Bekerja Keras|Qana’ah / القَنَاعَة (Menerima Apa Adanya)]] | Butir 26 | ... |
+| 4 | [[Bakat/Bekerja Keras|Hirmaan / الحِرْمَان (Rela Menahan Diri)]] | Butir 14 | ... |
+| 5 | [[Bakat/Bekerja Keras|Istiqaamah / الاِسْتِقَامَة (Konsisten)]] | Butir 20 | ... |
+| 6 | [[Bakat/Bekerja Keras|Nasyath / النَّشَاط (Giat & Aktif)]] | Butir 25 | ... |
+
+#### 2. Rumpun Memerintah / Mempengaruhi (Ekstrovert — Jasad/Sosial)
+*Ciri utama: Memimpin, berani mengambil risiko, mengarahkan orang lain, vokal, dan kompetitif.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Memerintah|Waqaar / الوَقَار (Berwibawa)]] | Butir 40 | ... |
+| 2 | [[Bakat/Memerintah|Ziyaadah / الزِّيَادَة (Berambisi/Ekspansif)]] | Butir 33 | ... |
+| 3 | [[Bakat/Memerintah|Hamaasah / الحَمَاسَة (Penyemangat/Motivator)]] | Butir 11 | ... |
+| 4 | [[Bakat/Memerintah|Ghairoh / الغَيْرَة (Cemburu Aturan/Protektif)]] | Butir 9 | ... |
+| 5 | [[Bakat/Memerintah|Iqnaa' / الإِقْنَاع (Persuasif/Mempengaruhi)]] | Butir 19 | ... |
+| 6 | [[Bakat/Memerintah|Fashahah / الفَصَاحَة (Fasih Mengomunikasikan)]] | Butir 7 | ... |
+
+---
+
+### B. Kluster Nuthqiyah (Akal / Jiwa Lawwamah)
+
+#### 3. Rumpun Berpikir (Introvert — Akal/Refleksi)
+*Ciri utama: Analitis, suka merenung, riset mendalam, teliti, kritis, dan konseptor.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Berpikir|Dzakaa' / الذَّكَاء (Cerdas/Cepat Memahami)]] | Butir 6 | ... |
+| 2 | [[Bakat/Berpikir|Firasah / الفِرَاسَة (Kuat Firasat/Intuisi)]] | Butir 8 | ... |
+| 3 | [[Bakat/Berpikir|Hikmah / الحِكْمَة (Bijaksana/Filosofis)]] | Butir 13 | ... |
+| 4 | [[Bakat/Berpikir|Hifzh / الحِفْظ (Daya Ingat Kuat)]] | Butir 12 | ... |
+| 5 | [[Bakat/Berpikir|Tatsabbut / التَّثَبُّت (Verifikatif/Tabayyun)]] | Butir 36 | ... |
+| 6 | [[Bakat/Berpikir|Ta’ammul / التَّأَمُّل (Merenung/Tadabbur)]] | Butir 34 | ... |
+
+#### 4. Rumpun Bekerja Sama (Ekstrovert — Akal/Relasi)
+*Ciri utama: Networking, mudah bergaul, menyatukan orang, diplomasi, dan koordinasi tim.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Bekerja Sama|Ta’alluf / التَّأَلُّف (Mudah Akrab/Supel)]] | Butir 35 | ... |
+| 2 | [[Bakat/Bekerja Sama|Tasyji’ / التَّشْجِيع (Mengapresiasi/Kolaboratif)]] | Butir 37 | ... |
+| 3 | [[Bakat/Bekerja Sama|Wafa’ / الوَفَاء (Setia Kawan/Menepati Janji)]] | Butir 39 | ... |
+| 4 | [[Bakat/Bekerja Sama|Shulh / الصُّلْح (Juru Damai/Mediasi)]] | Butir 27 | ... |
+| 5 | [[Bakat/Bekerja Sama|Nasihah / النَّصِيحَة (Pemberi Masukan Konstruktif)]] | Butir 24 | ... |
+
+---
+
+### C. Kluster Ruhaniyah (Hati / Jiwa Muthmainnah)
+
+#### 5. Rumpun Berperasaan (Introvert — Hati/Rasa)
+*Ciri utama: Peka, empati tinggi, penyayang, lembut, menjaga perasaan, dan mudah tersentuh.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Berperasaan|Rifq / الرِّفْق (Lemah Lembut)]] | Butir 28 | ... |
+| 2 | [[Bakat/Berperasaan|Hilim / الحِلْم (Penyantun/Pemaaf)]] | Butir 15 | ... |
+| 3 | [[Bakat/Berperasaan|Rahmah / الرَّحْمَة (Penuh Welas Asih)]] | Butir 30 | ... |
+| 4 | [[Bakat/Berperasaan|Hayaa' / الحَيَاء (Pemalu/Menjaga Adab)]] | Butir 10 | ... |
+| 5 | [[Bakat/Berperasaan|Anaah / الاَنَاة (Tidak Tergesa/Tenang)]] | Butir 3 | ... |
+
+#### 6. Rumpun Melayani (Ekstrovert — Hati/Khidmah)
+*Ciri utama: Dermawan, suka menolong, mendahulukan orang lain (*Itsar*), melayani dan berkorban.*
+
+| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---:|:---:|
+| 1 | [[Bakat/Melayani|Iitsaar / الإِيثَار (Mendahulukan Orang Lain)]] | Butir 17 | ... |
+| 2 | [[Bakat/Melayani|Jud / الجُود (Dermawan/Ringan Tangan)]] | Butir 22 | ... |
+| 3 | [[Bakat/Melayani|Karam / الكَرَم (Memuliakan Tamu/Murah Hati)]] | Butir 23 | ... |
+| 4 | [[Bakat/Melayani|Basyaasyah / البَشَاشَة (Ramah/Murah Senyum)]] | Butir 5 | ... |
+| 5 | [[Bakat/Melayani|Ta’aawun / التَّعَاوُن (Suka Membantu)]] | Butir 38 | ... |
+
+---
+
+## 4. Analisis Profil & Interpretasi Hasil
+
+### Menentukan Top 5 Bakat Unggul (*Core Talents*)
+Urutkan nilai butir dari yang memperoleh **skor tertinggi (Skor 5 dan 4)**:
+1. **Bakat Unggul #1:** Merupakan kekuatan utama yang menjadi jalan amal jariyah tercepat dan paling produktif bagi ananda.
+2. **Dominasi Kluster:** Lihat kluster mana yang menyumbang bakat unggul terbanyak. Apakah ananda dominan seorang *Eksekutor/Pekerja Keras*, *Pemimpin/Mempengaruhi*, *Konseptor/Pemikir*, *Juru Kolaborasi*, *Empatis/Berperasaan*, atau *Pelayan Umat (Khidmah)*.
+
+### Menyikapi Bakat Skor Rendah (*Lesser Talents*)
+Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunjuk wilayah yang harus dikerjakan melalui **sinergi dan kolaborasi tim**:
+* **Fokus Menguatkan Kelebihan:** Energi 80% dicurahkan untuk mengasah bakat yang berada di skor 4 dan 5.
+* **Penuhi Ambang Batas Minimal (*Fardhu 'Ain*):** Untuk bakat yang menyentuh ranah kewajiban syar'i (seperti *Amaanah*, *‘Adaalah*, *Hayaa'*), jika skornya rendah maka dilatih hingga mencapai standar batas minimal adab dan kepatuhan syariat, tanpa dituntut menjadi seorang maestro di bidang tersebut.
+* **Siasati Kelemahan dengan Kolaborasi:** Jika anak lemah dalam administrasi dan ketelitian (*Tatsabbut*), pasangkan ia dengan rekan yang memiliki bakat tersebut dalam proyek bersama.
+
+---
+
+## Tautan Navigasi Terkait
+
+* [[Insan/Fitrah (Karakter)/Bakat/Panduan Asesmen dan Observasi TB40|Panduan Komprehensif Asesmen dan Observasi TB40]]
+* [[Implementasi/Kaidah & Elemen/Panduan RPP dan Observasi Lapangan|Panduan RPP dan Lembar Observasi Lapangan]]
+* [[Insan/Fitrah (Karakter)/Bakat/Bekerja Keras|Rumpun Bakat: Bekerja Keras]]
+* [[Insan/Fitrah (Karakter)/Bakat/Memerintah|Rumpun Bakat: Memerintah / Mempengaruhi]]
+* [[Insan/Fitrah (Karakter)/Bakat/Berpikir|Rumpun Bakat: Berpikir]]
+* [[Insan/Fitrah (Karakter)/Bakat/Bekerja Sama|Rumpun Bakat: Bekerja Sama]]
+* [[Insan/Fitrah (Karakter)/Bakat/Berperasaan|Rumpun Bakat: Berperasaan]]
+* [[Insan/Fitrah (Karakter)/Bakat/Melayani|Rumpun Bakat: Melayani]]
+* [[Pendidikan Ideal/Pembelajaran Alamiah|Pembelajaran Alamiah dan Proyek Berbasis Bakat]]
+* [[Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN|8 Standar Implementasi PKN]]

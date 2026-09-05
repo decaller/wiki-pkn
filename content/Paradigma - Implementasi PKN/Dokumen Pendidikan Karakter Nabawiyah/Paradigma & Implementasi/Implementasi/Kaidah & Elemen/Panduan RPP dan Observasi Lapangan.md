@@ -269,11 +269,50 @@ Kode Pilar Karakter yang Muncul Spontan dalam Keseharian:
 
 ---
 
+## 6. Lembar Log Aktivitas 3A & Matriks Lapangan (Form Resmi PKN)
+
+Berdasarkan **Panduan Implementasi Standar PKN (A4) Tabel 14** dan **Form Observasi Lapangan Resmi**, pemantauan keseharian santri diperkuat dengan dua instrumen pelengkap:
+
+### 6.1 Format Lembar Log Aktivitas 3A
+Log ini mencatat keterlibatan santri dalam tiga jenis aktivitas fitrah:
+1. **Aktivitas Spontan (*Alami*):** Kejadian tanpa rencana di mana adab dan karakter anak teruji langsung.
+2. **Aktivitas Terencana (*Aplikatif*):** Proyek karya atau penugasan terstruktur yang menuntut ketekunan.
+3. **Aktivitas Penyesuaian Lingkungan (*Adaptif*):** Respons anak saat menghadapi situasi baru, pergantian jadwal, atau interaksi sosial yang menantang.
+
+```text
+================================================================================
+LOG MONITORING AKTIVITAS 3A (ALAMI - APLIKATIF - ADAPTIF)
+================================================================================
+Nama Santri : ...................................  Pekan Ke- : .................
+Pendidik    : ...................................  Kelas     : .................
+
+| No | Kategori Aktivitas | Deskripsi Situasi & Respon Santri | Tanggal Pelaksanaan | Skor Keterlibatan (1-4) | Catatan Khusus Guru |
+|:--:|---|---|:---:|:---:|---|
+| 1  | Spontan (Alami)    | Membantu merapikan piring teman | 02/09 | 4 (Sangat Aktif) | Tumbuh jiwa Khidmah |
+| 2  | Terencana (Proyek) | Merakit kincir air dari bambu   | 04/09 | 3 (Aktif)        | Gigih saat trial-error |
+| 3  | Adaptif            | Menerima pembagian kamar baru   | 06/09 | 4 (Sangat Baik)  | Qana'ah & mudah akrab |
+================================================================================
+```
+
+### 6.2 Matriks Form Observasi Bakat (Cross-Dimensional Matrix)
+Menggabungkan preferensi kepribadian (*Introvert vs Ekstrovert*) dengan tiga dimensi kecerdasan (*Jasad/PQ, Akal/IQ, Hati/EQ*):
+
+| Dimensi Kecerdasan | Orientasi Introvert (Reflektif / Ke Dalam) | Orientasi Ekstrovert (Sosial / Ke Luar) |
+|:---|:---|:---|
+| **Jasad / Fisik (PQ)**<br>*Jiwa Hayawaniyah / Ammarah* | **Bekerja Keras**<br>- Gigih bekerja fisik<br>- Tahan banting & ulet<br>- Mandiri menyelesaikan tugas | **Memerintah / Mempengaruhi**<br>- Berambisi & berwibawa<br>- Motivator & penggerak tim<br>- Berani memimpin risiko |
+| **Akal / Rasional (IQ)**<br>*Jiwa Nuthqiyah / Lawwamah* | **Berpikir**<br>- Analitis & konseptor<br>- Kuat riset & firasat<br>- Meneliti sebab-akibat | **Bekerja Sama**<br>- Diplomatis & kolaboratif<br>- Membangun jejaring (*networking*)<br>- Juru damai & mudah akrab |
+| **Hati / Emosi (EQ)**<br>*Jiwa Ruhaniyah / Muthmainnah* | **Berperasaan**<br>- Empati mendalam<br>- Menjaga adab & pemalu (*Hayaa'*<br>- Lemah lembut & pemaaf | **Melayani (*Khidmah*)**<br>- Dermawan (*Jud*) & suka menolong<br>- Mendahulukan orang lain (*Itsar*)<br>- Ramah & penyambut tamu (*Basyaasyah*) |
+
+---
+
 ## 🔗 Keterkaitan Dokumen Terkait
 
 - [[8 Standar Implementasi PKN]]: Kerangka tata kelola mutu lembaga pendidikan karakter nabawiyah (Standar 11/2024).
 - [[4 Elemen Implementasi]]: Arsitektur rapor karakter model SKIS Semarang dan pilar implementasi ekosistem.
 - [[Panduan Asesmen dan Observasi TB40]]: Definisi komparatif 40 pilar bakat anak vs dewasa dan alur triangulasi asesmen.
-- [[Pembelajaran Alamiah]]: Integrasi matriks 25 aktivitas keseharian santri ke dalam skenario RPP.
+- [[Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]]: Instrumen baku 40 butir pernyataan self-assessment skala Likert.
+- [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]: Filosofi dan tadabbur ekologi qolbu penumbuhan kesadaran internal.
+- [[PKN Blueprint Arsitektur Sistem|PKN Blueprint Arsitektur Sistem]]: Peta menyeluruh arsitektur sistem dan pilar pendidikan PKN.
+- [[Pembelajaran Alamiah]]: Integrasi matriks aktivitas keseharian santri dan proyek ke dalam skenario RPP.
 - [[Bahasa Hati]]: Tiga modalitas komunikasi cinta (*Khidmah, Himayah, Mushahabah*) untuk pembuka RPP.
-- [[Recovery]]: Pedoman intervensi klinis bagi santri dengan indeks karakter di bawah 1.75.
+- [[Recovery]]: Pedoman intervensi klinis bagi santri dengan indikator pertumbuhan yang terlambat atau memiliki hutang pengasuhan.

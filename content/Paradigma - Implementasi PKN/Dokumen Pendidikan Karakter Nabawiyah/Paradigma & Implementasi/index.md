@@ -17,6 +17,11 @@ Halaman ini merupakan simpul pintu gerbang (*master landing node*) yang memetaka
 
 ---
 
+> [!tip] 🗺️ Cetak Biru Lengkap: PKN Blueprint
+> Untuk meninjau peta visual dan arsitektur sistem menyeluruh mulai dari Jiwa Pendidik, Peran Pendidik, Metode, Materi, hingga 4 Langkah Implementasi, buka:  
+> 👉 **[[PKN Blueprint Arsitektur Sistem|PKN Blueprint: Arsitektur Sistem Pendidikan Karakter Nabawiyah]]**
+
+
 ## 1. Struktur Peta Arsitektur Tiga Tingkat
 
 Bangunan dokumen di bawah direktori ini disusun secara logis bertingkat:

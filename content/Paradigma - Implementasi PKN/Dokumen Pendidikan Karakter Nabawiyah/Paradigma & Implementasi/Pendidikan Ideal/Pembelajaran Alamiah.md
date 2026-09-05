@@ -86,7 +86,46 @@ Tabel ini menjadi panduan observasi bagi guru dan orang tua untuk melihat nilai 
 
 ---
 
-## 3. Kritik Mendalam terhadap Industri Sekolah Modern
+## 3. Integrasi Pembelajaran Alamiah dan Berbasis Proyek (*Project-Based Learning*)
+
+Berdasarkan **Modul Pembelajaran Alamiyah Resmi (v0.5)**, metode pembelajaran alamiah Rasulullah ﷺ bersinergi secara organik dengan pembelajaran berbasis proyek (*project-based learning*). Rasulullah ﷺ tidak mendirikan ruang kelas bersekat dinding kaku bagi sahabat-sahabat belia seperti Abdullah bin Abbas, Anas bin Malik, atau Mu'adz bin Jabal *radhiyallahu 'anhum*, melainkan mendidik mereka langsung dalam ritme kehidupan nyata (di atas tunggangan unta, di kebun kurma, di pasar, dan di medan ekspedisi).
+
+### A. Mindset Pokok: "Semua Anak Hebat"
+Paradigma alamiah menolak keras generalisasi kemampuan anak:
+1. **Keunikan Fitrah:** Setiap anak terlahir membawa rancangan keistimewaan Ilahiah. Anak yang lambat menghafal deret angka matematika mungkin memiliki kecerdasan spasial tinggi dalam merakit pertukangan kayu atau kepekaan hati yang luar biasa dalam melayani orang lain (*Khidmah*).
+2. **Lingkungan sebagai Kurikulum Hidup:** Alam ciptaan Allah adalah laboratorium tanpa batas yang merangsang seluruh indera (visual, auditori, kinestetik, dan taktil) secara simultan, mencegah kejenuhan mental yang lazim terjadi di kelas formal.
+3. **Menerima Kegagalan sebagai Guru:** Dalam proyek alamiah, kegagalan eksperimen (tanaman layu, rakitan kayu roboh, adonan kue bantat) dirayakan sebagai proses pembelajaran berharga (*trial and error*) untuk mengasah kesabaran (*Shabr*) dan ketekunan (*'Aziimah*).
+
+### B. 4 Siklus Pelaksanaan Proyek Alamiah
+Pembelajaran proyek dijalankan melalui empat tahapan terstruktur:
+
+```mermaid
+flowchart LR
+    A["1. Investigasi & Observasi
+(Tadabbur Ayat Kauniyah)"] --> B["2. Perencanaan & Desain
+(Kolaborasi & Nalar)"]
+    B --> C["3. Eksekusi & Eksperimen
+(Aksi Nyata / Trial & Error)"]
+    C --> D["4. Refleksi & Kemanfaatan
+(Presentasi & Khidmah)"]
+```
+
+1. **Investigasi & Observasi Lapangan:** Mengamati fenomena ciptaan Allah dan menemukan permasalahan riil di lingkungan sekitar (misal: penanganan sampah organik, tata kelola air wudhu, perawatan hewan ternak).
+2. **Perencanaan & Kolaborasi Tim:** Berdiskusi merumuskan hipotesis, membagi peran kerja berdasarkan kecenderungan bakat masing-masing anak, dan menyusun kebutuhan bahan.
+3. **Eksekusi & Eksperimen Lapangan:** Beraksi nyata memotong, merakit, menanam, menguji coba, dan menghadapi kendala teknis secara langsung.
+4. **Refleksi & Kemanfaatan Nyata (*Output Sholih-Muslih*):** Mengevaluasi proses, mempresentasikan hasil karya kepada orang tua dan komunitas, serta mendonasikan atau memanfaatkan karya tersebut untuk kebaikan publik.
+
+### C. Diferensiasi Proyek Berdasarkan 3 Fase Perkembangan
+
+| Fase Usia | Karakteristik Proyek Alamiah | Contoh Proyek Nyata | Indikator Karakter Utama yang Tumbuh |
+|:---|:---|:---|:---|
+| **Thufulah**<br>(0–7 Tahun) | **Proyek Sensori & Eksplorasi Bebas**<br>Fokus pada rasa takjub (*ta'zhim*), kecintaan pada makhluk ciptaan Allah, bermain lumpur, air, pasir, dan batu tanpa target produk kaku. | Menanam kecambah di kapas, memelihara kelinci/ikan, membuat istana pasir, mengumpulkan dedaunan aneka bentuk. | - Rasa syukur & cinta ciptaan Allah<br>- Keberanian menyentuh alam<br>- Kematangan motorik kasar & halus |
+| **Tamyiz**<br>(7–10 Tahun) | **Proyek Investigasi & Eksplorasi Sains Sederhana**<br>Mulai melatih sebab-akibat, observasi terukur, dan pembuatan benda fungsional melalui *trial and error*. | Membuat kincir air sederhana, memilah kompos daun, proyek memasak mandiri, merakit kandang ayam dari bambu bekas. | - Inisiatif & kemandirian (*Ta'allum*)<br>- Daya analisis logis (*Dzakaa'* & *Hikmah*)<br>- Tanggung jawab menyelesaikan tugas |
+| **Murahaqah**<br>(10–Baligh+) | **Proyek Solutif & Pengabdian Masyarakat (*Muslih*)**<br>Pemecahan masalah riil berstandar mutu, berkolaborasi dalam divisi profesional, hingga rintisan usaha mandiri. | Sistem penjernihan air mandiri di musholla, rintisan hidroponik bernilai jual, pembuatan video dokumenter dakwah sosial. | - Kepemimpinan & kerja tim (*Qiyadah*)<br>- Ketahanan banting menghadapi kendala<br>- Kemanfaatan sosial & kesiapan *mukallaf* |
+
+---
+
+## 4. Kritik Mendalam terhadap Industri Sekolah Modern
 
 Berdasarkan artikel reflektif di SOTAB HEBAT (*Menggugat Sistem Sekolah*, *Sekolah Alamiah vs Sekolah Modern*, dan *Benalu Pendidikan*), sistem sekolah konvensional warisan era revolusi industri mengalami disorientasi parah:
 
@@ -100,7 +139,7 @@ Berdasarkan artikel reflektif di SOTAB HEBAT (*Menggugat Sistem Sekolah*, *Sekol
 
 ---
 
-## 3. Dekonstruksi Paradigma Pesantren: "Pesantren adalah SMK Jurusan Agama"
+## 5. Dekonstruksi Paradigma Pesantren: "Pesantren adalah SMK Jurusan Agama"
 
 Salah satu wawasan paling mencerahkan dari **Ustadz Abdul Kholiq** adalah pelurusan cara pandang umat terhadap lembaga pesantren:
 
@@ -115,7 +154,7 @@ Banyak orang tua muslim merasa berdosa jika tidak mengirimkan anak-anaknya ke po
 
 ---
 
-## 4. Pembelajaran di Era Disrupsi Kecerdasan Buatan (AI)
+## 6. Pembelajaran di Era Disrupsi Kecerdasan Buatan (AI)
 
 Kehadiran *Artificial Intelligence* (AI) membuktikan rapuhnya kurikulum hafalan teks sekolah konvensional. Segala hal yang berbasis hafalan rumus dan data kini dapat digantikan oleh mesin dalam hitungan detik.
 
@@ -128,7 +167,7 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ---
 
-## 5. Rujukan Kajian Video Terkait (PKN Video Database)
+## 7. Rujukan Kajian Video Terkait (PKN Video Database)
 
 * *Tanya Jawab: Apakah Pesantren Sama dengan SMK Jurusan Agama?* — [Tonton di YouTube @ 151:22](https://www.youtube.com/watch?v=w04OJijPmQk&t=9082s)
 * *Keterampilan Dasar vs Keterampilan Ahli dalam Pendidikan Agama* — [Tonton di YouTube @ 156:27](https://www.youtube.com/watch?v=w04OJijPmQk&t=9387s)

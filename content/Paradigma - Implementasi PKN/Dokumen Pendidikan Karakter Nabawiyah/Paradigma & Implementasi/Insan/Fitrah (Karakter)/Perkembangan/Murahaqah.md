@@ -82,8 +82,33 @@ Dalam *Zadul Ma'ad* dan *Madarijus Salikin*:
 
 ---
 
-## 5. Tautan Konseptual Terkait
+## 5. Standar Pendewasaan (Aqil Baligh) & Kesiapan Peran Dewasa (Klausul 11 Standar PKN)
+
+Berdasarkan **Panduan Implementasi Standar PKN (A4) Klausul 11**, prosedur pendewasaan (*aqil baligh*) diformulasikan untuk menuntaskan transformasi seorang anak menjadi seorang **Mukallaf**—yakni hamba yang memikul beban hukum syariat secara mandiri di hadapan Allah Ta'ala.
+
+Pada etape ini, lembaga pendidikan dan orang tua wajib menerapkan diferensiasi kurikulum yang mempersiapkan peran hakiki kedewasaan:
+
+### A. Program Khusus Kesiapan Kepengurusan Rumah Tangga (Santri Putri)
+Kurikulum keputrian pada fase murahaqah diarahkan secara terstruktur untuk membekali calon ibu rumah tangga dan pendidik generasi masa depan:
+1. **Keterampilan Tata Graha (*Housekeeping*):** Menata kebersihan dan estetika hunian, manajemen sanitasi, kerapian lemari dan ruangan keluarga.
+2. **Keahlian Tata Boga (*Cooking & Nutrition*):** Memasak hidangan bergizi seimbang yang halal lagi thayyib, manajemen dapur, dan efisiensi belanja harian.
+3. **Keterampilan Memperbaiki Perlengkapan Pribadi:** Menjahit pakaian yang robek, merawat perabot, dan penanganan darurat peranti domestik.
+4. **Dasar Psikologi Perkembangan Anak:** Memahami cara merawat bayi, tahapan pengisian tangki cinta anak usia dini (*thufulah*), dan komunikasi empati.
+5. **Karakter dan Sifat Istri Sholihah:** Menumbuhkan adab taat kepada suami dalam kebaikan, menjaga kehormatan diri dan harta keluarga, serta manajemen qana'ah dalam rumah tangga.
+
+### B. Program Pemandirian Finansial & Kepemimpinan (Santri Putra)
+Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamun* (pelindung dan pemberi nafkah):
+1. **Magang Kerja Riil (*Apprenticeship*):** Terlibat dalam perniagaan pasar, pertukangan, pertanian, atau magang teknis untuk merasakan jerih payah mencari rezeki halal.
+2. **Kemandirian Finansial Mandiri:** Menghasilkan uang saku sendiri melalui proyek karya dan belajar menyisihkan zakat/infak serta tabungan modal.
+3. **Penyaluran Kejantanan (*Ar-Rujulah*):** Olahraga fisik ketangkasan (bela diri, renang, panahan, hiking alam terbuka) untuk menyalurkan energi fisik jasad (*Hayawaniyah*) ke ranah positif.
+
+---
+
+## 6. Tautan Konseptual Terkait
 * [[Perkembangan]] — Garis Waktu Perkembangan Karakter Nabawiyah.
 * [[Bahasa Tangan]] — Panduan Teknis Sanksi Mendidik Usia 10+ Tahun.
 * [[Syabab]] — Gerbang Kedewasaan Penuh Usia 15+ Tahun.
 * [[Bakat]] — Penjurusan Potensi Amal Menjelang Baligh.
+* [[Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]]
+* [[Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery dan Penanganan Hutang Pengasuhan]]
+* [[PKN Blueprint Arsitektur Sistem|PKN Blueprint Arsitektur Sistem]]

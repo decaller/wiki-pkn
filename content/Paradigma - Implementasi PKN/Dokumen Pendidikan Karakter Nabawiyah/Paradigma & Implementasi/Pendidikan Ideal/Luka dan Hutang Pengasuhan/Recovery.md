@@ -97,24 +97,28 @@ Berdasarkan literatur serial resmi SOTAB HEBAT, pemulihan luka batin anak melalu
 
 ---
 
-## 5. Matriks Penanganan Deviasi & Terapi Kelembagaan (Klausul 11 Standar PKN)
+## 5. Matriks Penanganan Deviasi & Terapi Kelembagaan (Klausul 12 Standar PKN)
 
-Dokumen resmi *Panduan Implementasi Standar PKN 11/2024 (Rev 04)* menetapkan protokol pemilahan antara **Ketidaksesuaian Proses** (faktor kompetensi pendidik atau beban kurikulum) dengan **Ketidaksesuaian Perkembangan Individu** (adanya hutang pengasuhan dari masa kecil).
+Berdasarkan **Panduan Implementasi Standar PKN (A4) Revisi Agustus 2025 (Klausul 12 & Tabel 4)**, evaluasi kelembagaan memilah ketidaksesuaian menjadi dua kategori pokok:
+1. **Ketidaksesuaian Proses Pembelajaran:** Diakibatkan oleh kekurangtepatan rencana pembelajaran, kompetensi pendidik, atau kendala fasilitas lingkungan. Penanganannya dilakukan melalui perbaikan manajerial dan *coaching* guru.
+2. **Ketidaksesuaian Perkembangan Individu (Hutang Pengasuhan):** Terjadi ketika perkembangan santri tidak menunjukkan kematangan fitrah yang semestinya pada fase usianya. Kondisi ini menuntut pelaksanaan **Program Recovery Terstruktur**.
 
-Tabel berikut menjadi pedoman klinis bagi asatidz, konselor ma'had, dan wali kelas:
+### Matriks 5 Kondisi Recovery & Protokol Intervensi Baku (Tabel 4)
 
-| Kondisi | Penumbuhan Karakter | Diagnosis Masalah | Protokol Intervensi & Terapi Recovery |
+| No | Penumbuhan Karakter (Iman / Belajar / Bakat) | Diagnosis Kondisi Perkembangan | Bentuk Intervensi & Protokol Recovery Resmi |
 |:---:|---|---|---|
-| **Kondisi 1** | Iman (✅), Belajar (✅), Bakat (✅) | Telah sesuai tahapan perkembangan usia santri. | Akselerasi kepemimpinan (*Qiyadah*), delegasikan proyek peradaban mandiri. |
-| **Kondisi 2** | Iman (✅), Belajar (✅), **Bakat (❌)** | Minat karya belum terasah; kurang variasi peran. | Asah bakatnya menggunakan **Standar Pendewasaan (Klausul 10)**: magang, proyek mandiri, dan pemandirian finansial. |
-| **Kondisi 3** | Iman (✅), **Belajar (❌)**, **Bakat (❌)** | Nalar kritis dan gairah belajar padam akibat tekanan akademis kaku. | **Perbesar interaksi dengan alam (*Tadabbur Alam*)**, berikan ruang *trial & error*, hapus stigma salah, dan alihkan ke proyek fisik lapangan. |
-| **Kondisi 4** | **Iman (❌)**, Belajar (❌), Bakat (❌) | **Hutang Pengasuhan Berat:** tangki cinta kosong, shalat terpaksa/malas. | **Pemulihan Total Berbasis Bahasa Hati:** Hentikan sementara seluruh tuntutan akademis; sirami jiwa santri dengan kasih sayang tanpa syarat (*Khidmah & Himayah*). |
-| **Kondisi 5** | Terjadi pembangkangan atau penyimpangan moral kronis | Akumulasi trauma masa kecil (*Deep Transgenerational Trauma*). | **Konseling Terpadu Segitiga Emas:** Asatidz, konselor, dan kedua orang tua kandung duduk bersama melakukan *Tazkiyatun Nafs* dan rekonsiliasi batin. |
+| **1** | Iman (✅), Belajar (✅), Bakat (✅) | **Telah Sesuai Tahapan Perkembangan** | Tidak memerlukan program recovery. Akselerasi peran peradaban dan delegasikan kepemimpinan proyek mandiri (*Qiyadah*). |
+| **2** | Iman (✅), Belajar (✅), **Bakat (❌)** | **Bakat Belum Tumbuh** | **Mengasah bakat menggunakan Standar Pendewasaan (Klausul 11):** Berikan variasi aktivitas magang kerja, eksplorasi peran profesi, dan uji coba portofolio karya nyata. |
+| **3** | Iman (✅), **Belajar (❌)**, **Bakat (❌)** | **Karakter Belajar dan Bakat Belum Tumbuh** | **Menumbuhkan karakter belajar dengan memperbesar interaksi alam dan proyek:** Bebaskan dari hafalan teoritis kaku, bawa ke alam terbuka (*outdoor*), stimulasi rasa ingin tahu lewat eksperimen *trial & error*. |
+| **4** | **Iman (❌)**, Belajar (✅), Bakat (✅/❌) | **Hutang Pengasuhan karena Karakter Iman Belum Tumbuh** | **Menumbuhkan karakter iman dengan salah satu bahasa cinta yang sesuai:** Penuhi tangki cinta melalui ketulusan, pendampingan personal (*mushahabah*), tanpa ancaman hukuman fisik. |
+| **5** | **Iman (❌)**, **Belajar (❌)**, **Bakat (❌)** | **Hutang Pengasuhan Ganda (Iman & Belajar Belum Tumbuh)** | **Pemulihan Berjenjang Penuh:** Sirami karakter iman terlebih dahulu dengan bahasa cinta hingga tangki cinta penuh dan qolbu melunak, lalu secara bertahap lanjutkan dengan penumbuhan karakter belajar. |
 
 > [!IMPORTANT]
 > **Kaidah Emas Urutan Pemulihan Kelembagaan:**  
-> *"Merujuk pada sunnatullah pertumbuhan fitrah yang berurutan dari Iman $\to$ Belajar $\to$ Bakat, maka bila ada tahapan yang belum tuntas, proses recovery WAJIB diinteraksikan dengan urutan yang sama persis, walaupun usia anak yang bersangkutan telah melampaui fase tersebut."*  
-> — **Standar Implementasi PKN 11/2024, Klausul 11.2**
+> *"Merujuk pada sunnatullah pertumbuhan fitrah yang berurutan dari Iman $	o$ Belajar $	o$ Bakat, maka bila ada tahapan yang belum tuntas, proses recovery WAJIB diinteraksikan dengan urutan yang sama persis, walaupun usia ananda yang bersangkutan telah melampaui fase tersebut."*  
+> — **Panduan Implementasi Standar PKN (A4), Klausul 12.2**
+
+Lihat landasan filosofis dan tadabbur ekologi qolbunya pada dokumen [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]] serta peta utuhnya di [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]].
 
 ---
 

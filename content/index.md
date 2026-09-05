@@ -36,7 +36,7 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 
 > [!summary] ⚡ TL;DR: Intisari Aksi Praktek PKN bagi Orang Tua, Pendidik, dan Lembaga
 > 
-> ### 🎯 Tujuan Utama: Menumbuhkan Kesadaran (*Bukan Sekadar Kepatuhan Semu*)
+> ### 🎯 Tujuan Utama: [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]] (*Bukan Sekadar Kepatuhan Semu*)
 > Hakikat tertinggi Pendidikan Karakter Nabawiyah (PKN) bukanlah penundukan fisik atau pembentukan kepatuhan semu lewat ancaman, suap, dan rekayasa perilaku (*behavioral conditioning*). Tujuan utamanya adalah **membangkitkan kesadaran batiniah (*wa'yu / bashirah*)** di dalam jiwa anak, sehingga mereka terdorong beriman, beradab, dan beramal shalih atas panggilan fitrah dan cintanya kepada Allah Ta'ala—menjadi generasi merdeka yang siap memikul mandat 'Abdullah dan Khalifah saat menginjak usia akil-baligh ([[Tujuan Hidup Manusia]]).
 > 
 > ---

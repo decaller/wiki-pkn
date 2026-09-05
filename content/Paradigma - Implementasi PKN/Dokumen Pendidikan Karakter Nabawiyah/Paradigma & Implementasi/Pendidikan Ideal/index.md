@@ -77,6 +77,7 @@ Dalam kitab *I'lamul Muwaqqi'in*:
 
 Untuk merealisasikan pendidikan ideal yang memerdekakan fitrah anak, PKN merumuskan **6 Pilar Ekosistem**:
 
+0. **[[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]**: Fondasi filosofis, tadabbur QS At-Taubah 92, dan metafora ekologi qolbu yang menjadi ruh seluruh amal pendidikan.
 1. **[[Benang Merah Pendidikan]]**: Menghubungkan seluruh cabang ilmu pengetahuan dengan tauhidullah, membongkar sekularisme kurikulum modern.
 2. **[[Metode Mendidik]]**: Mengoperasikan Tiga Bahasa Nabawiyah (Bahasa Hati, Bahasa Lisan, Bahasa Tangan) secara berjenjang.
 3. **[[Pembelajaran Alamiah]]**: Mengembalikan pembelajaran ke habitat kehidupan nyata (magang, observasi alam bebas, interaksi sosial nyata) tanpa terpenjara di empat dinding kelas.
@@ -87,6 +88,8 @@ Untuk merealisasikan pendidikan ideal yang memerdekakan fitrah anak, PKN merumus
 ---
 
 ## 5. Tautan Konseptual Terkait
+* [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal]] — Monograf Hakikat & Penumbuhan Kesadaran Beramal.
+* [[PKN Blueprint Arsitektur Sistem]] — Blueprint Arsitektur Sistem PKN.
 * [[Benang Merah Pendidikan]] — Kritik Arsitektur Pendidikan Modern.
 * [[Metode Mendidik]] — Tiga Bahasa Pengasuhan Nabawiyah.
 * [[Pembelajaran Alamiah]] — Metode Belajar Berbasis Ekosistem Nyata.
