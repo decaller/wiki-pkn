@@ -13,23 +13,6 @@ description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, laranga
 ![[assets/banners/banner_bahasa_tangan.webp]]
 *Gambar: Bahasa Tangan: Teladan Amal dan Keterampilan Nyata*
 
-> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Tangan
-> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Tangan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
-> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
-> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
-> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
-
-> [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Bahasa Tangan
-> * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.
-> * **Dampak Terhadap Jiwa:** Memadamkan gairah fitrah, menimbulkan kebencian tersembunyi, dan melahirkan generasi hipokrit yang hanya patuh saat diawasi.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ menegaskan: *"Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah kelembutan dicabut dari sesuatu melainkan ia akan memperburuknya"* (HR. Muslim).
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
-> * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
-
 
 # Bahasa Tangan: Batasan Syar'i Ketegasan & Ta'dib Nabawiyah
 
@@ -174,9 +157,22 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 ---
 
 
+> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Tangan
+> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Tangan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
+> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
+> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
+> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
 
+> [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Bahasa Tangan
+> * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.
+> * **Dampak Terhadap Jiwa:** Memadamkan gairah fitrah, menimbulkan kebencian tersembunyi, dan melahirkan generasi hipokrit yang hanya patuh saat diawasi.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ menegaskan: *"Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah kelembutan dicabut dari sesuatu melainkan ia akan memperburuknya"* (HR. Muslim).
 
-
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
+> * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

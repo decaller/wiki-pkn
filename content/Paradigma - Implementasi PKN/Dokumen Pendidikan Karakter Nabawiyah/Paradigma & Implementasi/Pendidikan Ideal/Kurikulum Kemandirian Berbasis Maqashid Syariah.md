@@ -17,22 +17,6 @@ description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup an
 ![[assets/banners/banner_hub_pendidikan_ideal.webp]]
 *Gambar: Rekonstruksi Kurikulum Berbasis Fitrah dan Maqashid Syari'ah*
 
-> [!info] Refleksi Lapangan: Krisis Prioritas Kurikulum Pendidikan Modern
-> **Kondisi Faktual:** Lembaga pendidikan dan orang tua masa kini kerap membebani anak dengan tumpukan kurikulum akademis yang rumit, namun anak tumbuh gagap dalam kecakapan hidup dasar, rapuh imunitas moralnya, dan tidak mandiri saat terjun ke masyarakat.  
-> **Akar Masalah PKN:** Mengacaukan antara *materi krusial kebutuhan hidup* (standar batas cukup) dengan *materi pendalaman minat* (spesialisasi bakat), sehingga menyita waktu emas yang semestinya digunakan untuk mengasah kemandirian nyata.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Tata ulang prioritas kurikulum merujuk pada lima pilar penjagaan kemaslahatan (*Maqashid Syari'ah*).  
-> 2. Tetapkan batas cukup (*kifayah*) bagi seluruh anak pada keterampilan hidup esensial.  
-> 3. Berikan ruang pendalaman dan akselerasi hanya bagi anak yang memiliki keunikan fitrah bakat di bidang tersebut.
-
-> [!warning] Peringatan Risiko Pengasuhan: Jebakan Over-Standarisasi Akademis
-> * **Bentuk Kesalahan:** Mewajibkan seluruh anak menguasai materi teoritis tingkat lanjut dengan standar kelulusan yang seragam dan menekan.
-> * **Dampak Terhadap Jiwa:** Menimbulkan trauma belajar, memadamkan gairah fitrah (*Al-Hirsh*), mengikis rasa percaya diri, dan melahirkan generasi berijazah tinggi namun tidak mandiri secara finansial maupun mental.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ bersabda: *"Permudahlah dan jangan mempersulit, berilah kabar gembira dan jangan membuat orang lari!"* (HR. Bukhari No. 69 & Muslim No. 1734).
-
-> [!tip] Tips Praktis Hari Ini
-> * **Aksi Sederhana:** Audit satu materi pelajaran atau target mingguan anak: apakah materi tersebut benar-benar dibutuhkan untuk kelangsungan hidup dan kemandiriannya di masyarakat, ataukah sekadar formalitas hafalan ujian?
-> * **Tujuan:** Mengembalikan orientasi belajar pada kemanfaatan hakiki (*ilmun nafi'*) yang menopang keselamatan dunia dan akhirat.
 
 ---
 
@@ -330,3 +314,24 @@ Kesadaran akhirat (*Al-Wa'yu bil Akhirah*) inilah yang mengubah:
 * [[Fitrah (Karakter)/Bakat]] — Taksonomi 40 Bakat Nabawiyah (TB40).
 * [[Master Katalog Dalil Al-Quran]] — Katalog Komprehensif Dalil Al-Qur'an dan Tafsir OpenBayan.
 * [[Master Katalog Dalil Hadits dan Sunnah]] — Katalog 60 Kitab Turats Hadits dan Syarah Klasik.
+
+
+---
+
+> [!info] Refleksi Lapangan: Krisis Prioritas Kurikulum Pendidikan Modern
+> **Kondisi Faktual:** Lembaga pendidikan dan orang tua masa kini kerap membebani anak dengan tumpukan kurikulum akademis yang rumit, namun anak tumbuh gagap dalam kecakapan hidup dasar, rapuh imunitas moralnya, dan tidak mandiri saat terjun ke masyarakat.  
+> **Akar Masalah PKN:** Mengacaukan antara *materi krusial kebutuhan hidup* (standar batas cukup) dengan *materi pendalaman minat* (spesialisasi bakat), sehingga menyita waktu emas yang semestinya digunakan untuk mengasah kemandirian nyata.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Tata ulang prioritas kurikulum merujuk pada lima pilar penjagaan kemaslahatan (*Maqashid Syari'ah*).  
+> 2. Tetapkan batas cukup (*kifayah*) bagi seluruh anak pada keterampilan hidup esensial.  
+> 3. Berikan ruang pendalaman dan akselerasi hanya bagi anak yang memiliki keunikan fitrah bakat di bidang tersebut.
+
+> [!warning] Peringatan Risiko Pengasuhan: Jebakan Over-Standarisasi Akademis
+> * **Bentuk Kesalahan:** Mewajibkan seluruh anak menguasai materi teoritis tingkat lanjut dengan standar kelulusan yang seragam dan menekan.
+> * **Dampak Terhadap Jiwa:** Menimbulkan trauma belajar, memadamkan gairah fitrah (*Al-Hirsh*), mengikis rasa percaya diri, dan melahirkan generasi berijazah tinggi namun tidak mandiri secara finansial maupun mental.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ bersabda: *"Permudahlah dan jangan mempersulit, berilah kabar gembira dan jangan membuat orang lari!"* (HR. Bukhari No. 69 & Muslim No. 1734).
+
+> [!tip] Tips Praktis Hari Ini
+> * **Aksi Sederhana:** Audit satu materi pelajaran atau target mingguan anak: apakah materi tersebut benar-benar dibutuhkan untuk kelangsungan hidup dan kemandiriannya di masyarakat, ataukah sekadar formalitas hafalan ujian?
+> * **Tujuan:** Mengembalikan orientasi belajar pada kemanfaatan hakiki (*ilmun nafi'*) yang menopang keselamatan dunia dan akhirat.
+

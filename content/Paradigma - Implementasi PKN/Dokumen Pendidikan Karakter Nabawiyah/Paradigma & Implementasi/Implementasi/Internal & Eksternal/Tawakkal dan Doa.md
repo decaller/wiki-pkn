@@ -11,23 +11,6 @@ tags:
 ![[assets/banners/banner_tawakkal_doa.webp]]
 *Gambar: Kepasrahan Tawakkal dan Senjata Doa*
 
-> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tawakkal dan Doa
-> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
-> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
-> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
-> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
-
-> [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Tawakkal dan Doa
-> * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.
-> * **Dampak Terhadap Jiwa:** Lahirnya penyakit hati (hasad, riya', ujub, putus asa), kehampaan makna hidup, dan kerapuhan mental saat menghadapi ujian takdir.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ senantiasa berdoa: *"Ya Allah, karuniakanlah ketakwaan pada jiwaku dan sucikanlah ia, Engkaulah sebaik-baik yang mensucikannya"* (HR. Muslim).
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
-> * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
-
 
 # Tawakkal dan Doa: Jangkar Spiritual Pengasuhan Nabawiyah
 
@@ -171,3 +154,24 @@ Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-N
 * [[Iman]] — Buah manis dari penanaman tauhid dan kepasrahan ilahiyah.
 * [[Peran Ayah dan Bunda]] — Kemitraan spiritual dalam memimpin peradaban keluarga.
 * [[Internal & Eksternal]] — Menyeimbangkan ikhtiar batin dengan benteng sosial.
+
+
+---
+
+> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tawakkal dan Doa
+> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
+> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
+> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
+> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
+
+> [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Tawakkal dan Doa
+> * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.
+> * **Dampak Terhadap Jiwa:** Lahirnya penyakit hati (hasad, riya', ujub, putus asa), kehampaan makna hidup, dan kerapuhan mental saat menghadapi ujian takdir.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ senantiasa berdoa: *"Ya Allah, karuniakanlah ketakwaan pada jiwaku dan sucikanlah ia, Engkaulah sebaik-baik yang mensucikannya"* (HR. Muslim).
+
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
+> * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
+

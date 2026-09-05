@@ -10,23 +10,6 @@ tags:
 ![[assets/banners/banner_hub_fitrah.webp]]
 *Gambar: Fitrah Insan: Menjaga dan Membina Potensi Suci Bawaan Ilahi*
 
-> [!info] Refleksi Lapangan: Polusi Lingkungan Pengasuhan terhadap Fitrah Anak
-> **Kondisi Faktual:** Banyak anak lahir dari keluarga muslim yang baik, namun saat menginjak remaja justru kehilangan rasa malu (*haya'*), mengabaikan shalat, dan memuja budaya hedonistik.  
-> **Akar Masalah PKN:** Sebagaimana sabda Nabi ﷺ bahwa setiap anak lahir di atas fitrah suci, namun kedua orang tuanyalah yang membelokkannya. Rumah tangga modern kerap menjadi produsen polusi fitrah melalui tontonan vulgar, pertengkaran suami-istri tanpa adab, dan ketiadaan keteladanan ibadah.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bersihkan ekosistem rumah dari kontaminasi visual dan audio yang merusak kesucian batin anak.  
-> 2. Orang tua wajib melakukan *Taubat Nasuha* atas kelalaian pola asuh masa lalu.  
-> 3. Bangun kembali atmosfer dzikir dan munajat di sepertiga malam agar rahmat Allah menaungi rumah tangga.
-
-> [!warning] Peringatan Risiko Pengasuhan: Merusak Benih Fitrah dengan Doktrin Kekerasan
-> * **Bentuk Kesalahan:** Menganggap fitrah anak seperti "kertas kosong" (*tabula rasa*) yang harus dicorat-coret dengan paksaan, atau menganggapnya "berdosa asal" yang harus ditekan dengan intimidasi.
-> * **Dampak Terhadap Jiwa:** Merusak poros kepercayaan dasar (*basic trust*), menumbuhkan kebencian tersembunyi pada agama, dan memadamkan lentera ruhani anak.
-> * **Pencegahan Nabawiyah:** Perlakukan anak sebagai benih pohon kurma yang mulia. Tugas pendidik hanyalah memupuk, menyiram dengan air cinta, dan melindunginya dari hama, bukan memaksanya menjadi pohon lain.
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Tatap mata anak Anda pagi ini dengan senyuman penuh keteduhan, lalu ucapkan dalam hati dengan penuh keyakinan: *"Anakku ini diciptakan Allah suci dan mulia dengan potensi takdir kebaikan yang agung."*
-> * **Tujuan:** Memancarkan persepsi positif (*husnuzhan*) yang menjadi pupuk terkuat bagi mekarnya fitrah anak.
-
 
 # Konsepsi Fitrah dalam Pendidikan Karakter Nabawiyah
 
@@ -187,9 +170,22 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 ---
 
 
+> [!info] Refleksi Lapangan: Polusi Lingkungan Pengasuhan terhadap Fitrah Anak
+> **Kondisi Faktual:** Banyak anak lahir dari keluarga muslim yang baik, namun saat menginjak remaja justru kehilangan rasa malu (*haya'*), mengabaikan shalat, dan memuja budaya hedonistik.  
+> **Akar Masalah PKN:** Sebagaimana sabda Nabi ﷺ bahwa setiap anak lahir di atas fitrah suci, namun kedua orang tuanyalah yang membelokkannya. Rumah tangga modern kerap menjadi produsen polusi fitrah melalui tontonan vulgar, pertengkaran suami-istri tanpa adab, dan ketiadaan keteladanan ibadah.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Bersihkan ekosistem rumah dari kontaminasi visual dan audio yang merusak kesucian batin anak.  
+> 2. Orang tua wajib melakukan *Taubat Nasuha* atas kelalaian pola asuh masa lalu.  
+> 3. Bangun kembali atmosfer dzikir dan munajat di sepertiga malam agar rahmat Allah menaungi rumah tangga.
 
+> [!warning] Peringatan Risiko Pengasuhan: Merusak Benih Fitrah dengan Doktrin Kekerasan
+> * **Bentuk Kesalahan:** Menganggap fitrah anak seperti "kertas kosong" (*tabula rasa*) yang harus dicorat-coret dengan paksaan, atau menganggapnya "berdosa asal" yang harus ditekan dengan intimidasi.
+> * **Dampak Terhadap Jiwa:** Merusak poros kepercayaan dasar (*basic trust*), menumbuhkan kebencian tersembunyi pada agama, dan memadamkan lentera ruhani anak.
+> * **Pencegahan Nabawiyah:** Perlakukan anak sebagai benih pohon kurma yang mulia. Tugas pendidik hanyalah memupuk, menyiram dengan air cinta, dan melindunginya dari hama, bukan memaksanya menjadi pohon lain.
 
-
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Tatap mata anak Anda pagi ini dengan senyuman penuh keteduhan, lalu ucapkan dalam hati dengan penuh keyakinan: *"Anakku ini diciptakan Allah suci dan mulia dengan potensi takdir kebaikan yang agung."*
+> * **Tujuan:** Memancarkan persepsi positif (*husnuzhan*) yang menjadi pupuk terkuat bagi mekarnya fitrah anak.
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

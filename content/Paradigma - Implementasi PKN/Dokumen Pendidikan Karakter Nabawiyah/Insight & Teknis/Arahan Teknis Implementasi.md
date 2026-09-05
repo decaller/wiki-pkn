@@ -10,23 +10,6 @@ tags:
 ![[assets/banners/banner_arahan_teknis.webp]]
 *Gambar: Peta Jalan dan Panduan Teknis Pelaksanaan di Lapangan*
 
-> [!info] Refleksi Lapangan: Realitas Penerapan Arahan Teknis Implementasi
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Arahan Teknis Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
-
-> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Arahan Teknis Implementasi
-> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
-> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
-> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
-
-> [!tip] Tips Praktis Hari Ini
-> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
-> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
 
 # Arahan Teknis Implementasi: Pedoman Operasional Pengasuhan Nabawiyah
 
@@ -129,6 +112,25 @@ Gunakan instrumen sederhana berikut untuk mencatat potensi bawaan lahir anak:
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+
+> [!info] Refleksi Lapangan: Realitas Penerapan Arahan Teknis Implementasi
+> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Arahan Teknis Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
+> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
+> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
+> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+
+> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Arahan Teknis Implementasi
+> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
+> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
+> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
+
+> [!tip] Tips Praktis Hari Ini
+> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
+> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
+
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

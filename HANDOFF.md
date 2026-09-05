@@ -124,6 +124,7 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
 38. **Deployment Produksi via Portainer MCP Server & Otomasi Stack Git**: Mendepoloy wiki-pkn ke server produksi menggunakan MCP server `portainer` (Stack ID: 25, Endpoint ID: 3) berbasis `docker-compose.yml` langsung dari repositori Git `decaller/wiki-pkn` (branch `main`). Berjalan dengan binding port `4040:8080` dan live di domain `https://wikipkn.insanmustaqbal.or.id`. Dilengkapi integrasi materi audio kajian maqashid syariah dan optimasi tampilan mobile sidebar navigasi `OutlineNav`.
 39. **Integrasi Delapan Buku Rujukan Utama Manhaj PKN & SOTAB HEBAT**: Mengintegrasikan 8 buku karya perumus manhaj Ustadz Abdul Kholiq dan Tim SOTAB HEBAT ke halaman [Referensi Tambahan Buku Cetak.md](content/Referensi/Referensi%20Tambahan%20Buku%20Cetak.md), beranda utama [index.md](content/index.md), hub [Referensi/index.md](content/Referensi/index.md), dan pangkalan sitasi akademik `bibliography.bib` lengkap dengan tautan profil resmi dan sinopsis kurikuler.
 40. **Konversi Paripurna 100% Diagram Mermaid ke Obsidian Canvas (0 Sisa Mermaid)**: Mengonversi diagram tersisa di `Disiplin Positif PKN.md` menjadi `content/canvas/Disiplin Positif PKN - Penahapan 3 Bentuk Disiplin Pendidikan.canvas` dan membersihkan blok mermaid redundan di `Persepsi Positif.md`, menghasilkan 0 sisa blok mermaid di seluruh repositori (96 berkas .canvas aktif).
+41. **Restrukturisasi Anatomi Dokumen: Relokasi Trio Callout ke Bagian Akhir Konten Sebelum PPT**: Memindahkan trio blok callout (`[!info] Refleksi Lapangan`, `[!warning] Peringatan Risiko`, `[!tip] Tips Praktis`) dari posisi awal sebelum H1 ke bagian paling akhir konten tepat sebelum materi presentasi/slide PPTX di seluruh 70 dokumen aktif (100% kepatuhan Zero Deletion & pembaruan Panduan Kontribusi).
 
 ---
 
@@ -546,6 +547,27 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Pemindaian ulang menunjukkan **0 blok Mermaid tersisa** di seluruh naskah Markdown `content/`. Seluruh diagram kini menggunakan format visual resmi Obsidian Canvas.
 - **Verifikasi Build:**
   - `npx quartz build` sukses 100% (121 berkas Markdown ter-parse, 96 berkas Canvas ter-render, 1.068 berkas statis terbit ke `public/`).
+
+---
+
+### Milestone 41: Restrukturisasi Posisi Anatomi Dokumen (Relokasi Callout Refleksi ke Akhir Konten Sebelum PPT) `[SELESAI]`
+- **Rasional Desain & Peningkatan Pengalaman Pengguna (UX):**
+  - Sebelumnya, trio blok callout (`[!info] Refleksi Lapangan`, `[!warning] Peringatan Risiko`, `[!tip] Tips Praktis Hari Ini`) diletakkan di bagian atas artikel tepat di bawah banner gambar utama dan sebelum judul H1 (`# ...`). Hal ini membuat pembaca langsung disajikan peringatan dan refleksi mendalam sebelum memahami konsep inti materi.
+  - Sesuai arahan, seluruh trio callout dipindahkan ke bagian paling akhir konten artikel, tepat sebelum materi penutup / tayangan presentasi interaktif (`<!-- START_OFFICE_PPTX_EMBED -->` / slide PPTX).
+- **Cakupan Pemindahan (70 Berkas Aktif):**
+  - Diproses secara otomatis dengan skrip Python presisi yang memotong blok callout di posisi awal dan merekatkannya di akhir konten sebelum PPT (atau penutup artikel pada 13 berkas tanpa PPT) dengan pemisah horizontal `---`.
+  - Mematuhi prinsip ketat **Zero Deletion**: tidak ada satu kata pun dalil, rujukan, atau narasi refleksi yang hilang atau terhapus.
+- **Pembaruan Pedoman Standar (`content/Referensi/Panduan Kontribusi.md`):**
+  - Menyelaraskan urutan baku elemen anatomi artikel pada panduan kontribusi resmi:
+    1. Metadata Frontmatter (YAML)
+    2. Banner Ilustrasi WebP
+    3. Isi Pembahasan Utama (`##`, `###`, tabel, dalil, kanvas)
+    4. Callout Refleksi & Mitigasi (`[!info]`, `[!warning]`, `[!tip]`) di akhir konten
+    5. Media Presentasi & Slide Interaktif (PPTX) sebagai penutup artikel.
+- **Verifikasi Komprehensif:**
+  - Pemindaian menyeluruh memastikan **0 callout** yang tertinggal di atas H1 dan **0 callout** yang berada di bawah blok PPTX.
+  - Kompilasi `npx quartz build` sukses 100%.
+
 
 
 

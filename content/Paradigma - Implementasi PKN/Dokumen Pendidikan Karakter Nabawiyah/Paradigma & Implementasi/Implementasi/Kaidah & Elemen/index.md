@@ -10,23 +10,6 @@ tags:
 ![[assets/banners/banner_hub_kaidah_elemen.webp]]
 *Gambar: Kaidah-Kaidah Emas dan Elemen Kunci Pembelajaran Nabawiyah*
 
-> [!info] Refleksi Lapangan: Realitas Penerapan Kaidah dan Elemen Implementasi
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Kaidah dan Elemen Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
-
-> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Kaidah dan Elemen Implementasi
-> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
-> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
-> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
-
-> [!tip] Tips Praktis Hari Ini
-> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
-> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
 
 # Kaidah & Elemen Implementasi Pendidikan Karakter Nabawiyah
 
@@ -132,6 +115,25 @@ Berikut adalah skenario penerapan nyata bagaimana 4 Kaidah dan 4 Elemen bekerja 
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+
+> [!info] Refleksi Lapangan: Realitas Penerapan Kaidah dan Elemen Implementasi
+> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Kaidah dan Elemen Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
+> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
+> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
+> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+
+> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Kaidah dan Elemen Implementasi
+> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
+> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
+> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
+
+> [!tip] Tips Praktis Hari Ini
+> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
+> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
+
 
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:

@@ -8,22 +8,6 @@ tags:
   - shahabat
 ---
 
-> [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Bekerja Sama di Era Modern
-> **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Bekerja Sama karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
-> **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mulai dari pembenahan diri pendidik (*ibda' binafsik*) sebelum menuntut perubahan pada anak.  
-> 2. Bangun kelekatan jiwa melalui [[Bahasa Hati]] dan dialog beradab [[Bahasa Lisan]].  
-> 3. Terapkan prinsip penahapan (*tadarruj*) dan kemudahan (*taisir*) sesuai kapasitas fitrah usia anak.
-
-> [!warning] Peringatan Risiko Pengasuhan: Distorsi Nilai Rumpun Bekerja Sama
-> * **Bentuk Kesalahan:** Mengabaikan pembiasaan bertahap atau memaksakan kepatuhan semu dengan ancaman kekerasan.
-> * **Dampak Terhadap Jiwa:** Melahirkan luka batin menahun, memicu kepalsuan karakter, dan merusak rasa percaya anak kepada orang tua.
-> * **Pencegahan Nabawiyah:** Berpegang teguh pada manhaj kenabian: mengutamakan cinta kasih, ketegasan tanpa kezaliman, dan doa istiqamah di sepertiga malam.
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
-> * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Rumpun Bekerja Sama dapat terserap dengan indah.
 
 # Bakat Bekerja Sama (التَّعَامُل - At-Ta'amul)
 
@@ -318,9 +302,22 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 ---
 
 
+> [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Bekerja Sama di Era Modern
+> **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Bekerja Sama karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
+> **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Mulai dari pembenahan diri pendidik (*ibda' binafsik*) sebelum menuntut perubahan pada anak.  
+> 2. Bangun kelekatan jiwa melalui [[Bahasa Hati]] dan dialog beradab [[Bahasa Lisan]].  
+> 3. Terapkan prinsip penahapan (*tadarruj*) dan kemudahan (*taisir*) sesuai kapasitas fitrah usia anak.
 
+> [!warning] Peringatan Risiko Pengasuhan: Distorsi Nilai Rumpun Bekerja Sama
+> * **Bentuk Kesalahan:** Mengabaikan pembiasaan bertahap atau memaksakan kepatuhan semu dengan ancaman kekerasan.
+> * **Dampak Terhadap Jiwa:** Melahirkan luka batin menahun, memicu kepalsuan karakter, dan merusak rasa percaya anak kepada orang tua.
+> * **Pencegahan Nabawiyah:** Berpegang teguh pada manhaj kenabian: mengutamakan cinta kasih, ketegasan tanpa kezaliman, dan doa istiqamah di sepertiga malam.
 
-
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
+> * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Rumpun Bekerja Sama dapat terserap dengan indah.
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

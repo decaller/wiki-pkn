@@ -15,23 +15,6 @@ description: "Kajian komprehensif Panduan RPP dan Observasi Lapangan dalam keran
 ![[assets/banners/banner_panduan_rpp_observasi.webp]]
 *Gambar: Panduan Observasi Lapangan dan Perancangan Pembelajaran Fitrah*
 
-> [!info] Refleksi Lapangan: Realitas Penerapan Panduan RPP dan Observasi Lapangan
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Panduan RPP dan Observasi Lapangan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
-
-> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Panduan RPP dan Observasi Lapangan
-> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
-> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
-> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
-
-> [!tip] Tips Praktis Hari Ini
-> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
-> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
 
 # 📝 Panduan RPP dan Observasi Lapangan Karakter Nabawiyah
 
@@ -345,9 +328,22 @@ Menggabungkan preferensi kepribadian (*Introvert vs Ekstrovert*) dengan tiga dim
 ---
 
 
+> [!info] Refleksi Lapangan: Realitas Penerapan Panduan RPP dan Observasi Lapangan
+> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Panduan RPP dan Observasi Lapangan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
+> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
+> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
+> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
 
+> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Panduan RPP dan Observasi Lapangan
+> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
+> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
+> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
 
-
+> [!tip] Tips Praktis Hari Ini
+> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
+> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

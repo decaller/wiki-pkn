@@ -13,23 +13,6 @@ tags:
 ![[assets/banners/banner_home_gerbang.webp]]
 *Gambar: Gerbang Peradaban dan Pendidikan Karakter Nabawiyah*
 
-> [!info] Refleksi Lapangan: Realitas Penerapan Gerbang Wiki PKN
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Gerbang Wiki PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
-
-> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Gerbang Wiki PKN
-> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
-> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
-> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
-
-> [!tip] Tips Praktis Hari Ini
-> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
-> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
 
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
@@ -238,7 +221,24 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
 
 
 
+---
 
+> [!info] Refleksi Lapangan: Realitas Penerapan Gerbang Wiki PKN
+> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Gerbang Wiki PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
+> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
+> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
+> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+
+> [!warning] Peringatan Risiko: Jebakan Formalitas dalam Gerbang Wiki PKN
+> * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
+> * **Dampak Terhadap Jiwa:** Hilangnya keberkahan majelis ilmu, kejenuhan pendidik, dan kegagalan mencetak generasi mukallaf yang kokoh.
+> * **Pencegahan Nabawiyah:** Jaga kemurnian niat lillahi ta'ala dan jadikan setiap tahapan implementasi sebagai amal jariyah penegak peradaban Islam.
+
+> [!tip] Tips Praktis Hari Ini
+> * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
+> * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

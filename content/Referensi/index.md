@@ -13,13 +13,6 @@ tags:
 ![[assets/banners/banner_referensi_kajian_video.webp]]
 *Gambar: Pusat Pustaka, Arsip Kajian, dan Sumber Rujukan Ilmiah PKN*
 
-> [!info] Refleksi Lapangan: Pentingnya Kesahihan Rujukan Manhaj
-> **Kondisi Faktual:** Dalam diskursus pengasuhan dan pendidikan anak, kerap terjadi pencampuradukan antara teori psikologi barat sekuler dengan dalil syar'i tanpa penelusuran sanad dan metodologi yang kokoh.  
-> **Akar Masalah PKN:** Minimnya akses praktisi pendidikan dan orang tua terhadap literatur otentik dan rekaman penjelasan komprehensif dari perumus manhaj.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mengembalikan setiap konsep pendidikan kepada dalil Al-Qur'an dan Sunnah shahihah serta atsar para sahabat.  
-> 2. Menyediakan akses terbuka terhadap rekaman kajian, bahan tayang asli, dan literatur pendukung.  
-> 3. Membuka ruang partisipasi bagi asatidz, peneliti, dan praktisi untuk berkontribusi melengkapi khazanah ini.
 
 ---
 
@@ -50,3 +43,15 @@ Setiap materi yang dipublikasikan dalam Wiki PKN berpegang teguh pada prinsip ke
 1. **Otentisitas Nash:** Ayat-ayat Al-Qur'an diverifikasi rasm Utsmani dan hadits-hadits disandarkan pada periwayatan mu'tabar.
 2. **Pemahaman Salafush Shalih:** Istilah-istilah kunci seperti *Fitrah*, *Ammarah*, *Lawwamah*, *Muthmainnah*, *Taisir*, dan *Qudwah* dirujuk langsung pada pemahaman para sahabat dan ulama *ahlus sunnah*.
 3. **Kontekstualisasi Praktis:** Teori tidak dibiarkan mengawang, melainkan dihubungkan dengan instrumen observasi lapangan (seperti pemetaan 40 Bakat fitrah / TB-40).
+
+
+---
+
+> [!info] Refleksi Lapangan: Pentingnya Kesahihan Rujukan Manhaj
+> **Kondisi Faktual:** Dalam diskursus pengasuhan dan pendidikan anak, kerap terjadi pencampuradukan antara teori psikologi barat sekuler dengan dalil syar'i tanpa penelusuran sanad dan metodologi yang kokoh.  
+> **Akar Masalah PKN:** Minimnya akses praktisi pendidikan dan orang tua terhadap literatur otentik dan rekaman penjelasan komprehensif dari perumus manhaj.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Mengembalikan setiap konsep pendidikan kepada dalil Al-Qur'an dan Sunnah shahihah serta atsar para sahabat.  
+> 2. Menyediakan akses terbuka terhadap rekaman kajian, bahan tayang asli, dan literatur pendukung.  
+> 3. Membuka ruang partisipasi bagi asatidz, peneliti, dan praktisi untuk berkontribusi melengkapi khazanah ini.
+

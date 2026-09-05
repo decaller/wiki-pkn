@@ -2,22 +2,6 @@
 title: "Fitrah Belajar"
 ---
 
-> [!info] Refleksi Lapangan: Mogok Belajar Akibat Desensitisasi Fitrah Intelektual
-> **Kondisi Faktual:** Anak usia 8 tahun (kelas 2 SD) mulai menunjukkan keengganan membuka buku, menangis histeris saat disuruh mengerjakan PR, dan mengeluh kepalanya pusing setiap kali jam belajar tiba.  
-> **Akar Masalah PKN:** Penjejangan kognitif massal gaya Prusia yang memaksa anak duduk diam 6 jam sehari sambil menghafal rumus abstrak, mematikan rasa ingin tahu alami (*curiosity*) dan menguras tangki cinta tanpa memberi ruang gerak fisik kinestetik.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hentikan intimidasi nilai rapor; alihkan media belajar ke observasi alam nyata di luar ruangan (*outdoor living books*).  
-> 2. Sambungkan kembali jembatan emosi (*Bahasa Hati*) melalui pelukan dan apresiasi atas minat unik anak.  
-> 3. Kenalkan adab sebelum ilmu (*Al-Adab Qablal 'Ilm*) agar proses menuntut ilmu dirasakan sebagai ibadah yang menggembirakan.
-
-> [!warning] Peringatan Risiko Pengasuhan: Bahaya Menghukum Kegagalan Akademik Anak
-> * **Bentuk Kesalahan:** Membentak, memberi cap "pemalas / bodoh", atau mencabut hak bermain anak karena nilai ujian yang rendah.
-> * **Dampak Terhadap Jiwa:** Merusak fitrah keimanan pada takdir (*qadar*), mematikan insting eksplorasi nalar (*Al-Fu'ad*), serta memicu mentalitas penipu (*cheating syndrome*) demi sekadar menghindari murka orang tua.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ tidak pernah sekalipun mencela Anas bin Malik RA selama 10 tahun berkhidmah atas pekerjaan yang belum sempurna dikerjakan. Fokuslah pada proses kesungguhan ikhtiar, bukan angka mutlak di atas kertas.
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Ganti pertanyaan klise saat anak pulang: *"Dapat nilai berapa tadi?"* dengan pertanyaan fitrah: *"Apa hal baru paling menakjubkan yang kamu pelajari hari ini, Nak?"*
-> * **Tujuan:** Menyalakan pelita gairah cinta ilmu (*Syaghaf bil 'Ilm*) dan menanamkan bahwa belajar adalah petualangan seumur hidup.
 
 # Fitrah Belajar: Dari Kebebasan Eksplorasi Menuju Nalar Hikmah
 
@@ -181,9 +165,22 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 ---
 
 
+> [!info] Refleksi Lapangan: Mogok Belajar Akibat Desensitisasi Fitrah Intelektual
+> **Kondisi Faktual:** Anak usia 8 tahun (kelas 2 SD) mulai menunjukkan keengganan membuka buku, menangis histeris saat disuruh mengerjakan PR, dan mengeluh kepalanya pusing setiap kali jam belajar tiba.  
+> **Akar Masalah PKN:** Penjejangan kognitif massal gaya Prusia yang memaksa anak duduk diam 6 jam sehari sambil menghafal rumus abstrak, mematikan rasa ingin tahu alami (*curiosity*) dan menguras tangki cinta tanpa memberi ruang gerak fisik kinestetik.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Hentikan intimidasi nilai rapor; alihkan media belajar ke observasi alam nyata di luar ruangan (*outdoor living books*).  
+> 2. Sambungkan kembali jembatan emosi (*Bahasa Hati*) melalui pelukan dan apresiasi atas minat unik anak.  
+> 3. Kenalkan adab sebelum ilmu (*Al-Adab Qablal 'Ilm*) agar proses menuntut ilmu dirasakan sebagai ibadah yang menggembirakan.
 
+> [!warning] Peringatan Risiko Pengasuhan: Bahaya Menghukum Kegagalan Akademik Anak
+> * **Bentuk Kesalahan:** Membentak, memberi cap "pemalas / bodoh", atau mencabut hak bermain anak karena nilai ujian yang rendah.
+> * **Dampak Terhadap Jiwa:** Merusak fitrah keimanan pada takdir (*qadar*), mematikan insting eksplorasi nalar (*Al-Fu'ad*), serta memicu mentalitas penipu (*cheating syndrome*) demi sekadar menghindari murka orang tua.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ tidak pernah sekalipun mencela Anas bin Malik RA selama 10 tahun berkhidmah atas pekerjaan yang belum sempurna dikerjakan. Fokuslah pada proses kesungguhan ikhtiar, bukan angka mutlak di atas kertas.
 
-
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Ganti pertanyaan klise saat anak pulang: *"Dapat nilai berapa tadi?"* dengan pertanyaan fitrah: *"Apa hal baru paling menakjubkan yang kamu pelajari hari ini, Nak?"*
+> * **Tujuan:** Menyalakan pelita gairah cinta ilmu (*Syaghaf bil 'Ilm*) dan menanamkan bahwa belajar adalah petualangan seumur hidup.
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

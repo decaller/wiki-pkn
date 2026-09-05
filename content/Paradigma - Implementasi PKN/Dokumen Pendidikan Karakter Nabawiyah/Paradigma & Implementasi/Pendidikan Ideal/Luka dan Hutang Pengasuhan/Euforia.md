@@ -11,23 +11,6 @@ tags:
 ![[assets/banners/banner_euforia_pengasuhan.webp]]
 *Gambar: Meredam Euforia Pengasuhan Menuju Kedamaian Hati yang Seimbang*
 
-> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Euforia Pengasuhan
-> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Euforia Pengasuhan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
-> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
-> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
-> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
-
-> [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Euforia Pengasuhan
-> * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.
-> * **Dampak Terhadap Jiwa:** Memadamkan gairah fitrah, menimbulkan kebencian tersembunyi, dan melahirkan generasi hipokrit yang hanya patuh saat diawasi.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ menegaskan: *"Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah kelembutan dicabut dari sesuatu melainkan ia akan memperburuknya"* (HR. Muslim).
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
-> * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
-
 
 # Fase Euforia: Mengelola Ledakan Emosi dan Jebakan Faddisme Pengasuhan
 
@@ -180,9 +163,22 @@ Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazal
 ---
 
 
+> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Euforia Pengasuhan
+> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Euforia Pengasuhan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
+> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
+> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
+> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
 
+> [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Euforia Pengasuhan
+> * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.
+> * **Dampak Terhadap Jiwa:** Memadamkan gairah fitrah, menimbulkan kebencian tersembunyi, dan melahirkan generasi hipokrit yang hanya patuh saat diawasi.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ menegaskan: *"Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah kelembutan dicabut dari sesuatu melainkan ia akan memperburuknya"* (HR. Muslim).
 
-
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
+> * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
 
 <!-- START_OFFICE_PPTX_EMBED -->

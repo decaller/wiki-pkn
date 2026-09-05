@@ -10,23 +10,6 @@ tags:
 ![[assets/banners/banner_hub_internal_eksternal.webp]]
 *Gambar: Sinergi Faktor Internal Jiwa dan Ekosistem Lingkungan Eksternal*
 
-> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Faktor Internal dan Eksternal
-> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
-> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
-> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
-> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
-
-> [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Faktor Internal dan Eksternal
-> * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.
-> * **Dampak Terhadap Jiwa:** Lahirnya penyakit hati (hasad, riya', ujub, putus asa), kehampaan makna hidup, dan kerapuhan mental saat menghadapi ujian takdir.
-> * **Pencegahan Nabawiyah:** Rasulullah ﷺ senantiasa berdoa: *"Ya Allah, karuniakanlah ketakwaan pada jiwaku dan sucikanlah ia, Engkaulah sebaik-baik yang mensucikannya"* (HR. Muslim).
-
-> [!tip] Tips Praktis Pengasuhan Hari Ini
-> * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
-> * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
-
 
 # Faktor Internal & Eksternal dalam Pendidikan Karakter Nabawiyah
 
@@ -157,3 +140,24 @@ Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fa
 2. **Etape Tamyiz (7–10 Th):** Faktor internal 70%, eksternal 30%. Mulai mengenalkan anak pada lingkungan masjid dan sekolah dengan filter selektif dari orang tua.
 3. **Etape Murahaqah (10–15 Th):** Faktor internal 50%, eksternal 50%. Penguatan daya imun internal agar anak mampu menolak pengaruh negatif lingkungan pergaulan sebaya.
 4. **Etape Syabab (15+ Th):** Internal mandiri sebagai agen perbaikan (*Muslih*). Anak terjun ke medan sosial eksternal untuk memberi pengaruh kebaikan, bukan lagi sekadar mempertahankan diri.
+
+
+---
+
+> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Faktor Internal dan Eksternal
+> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
+> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
+> **Langkah Penanganan Nabawiyah:**  
+> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
+> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
+> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
+
+> [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Faktor Internal dan Eksternal
+> * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.
+> * **Dampak Terhadap Jiwa:** Lahirnya penyakit hati (hasad, riya', ujub, putus asa), kehampaan makna hidup, dan kerapuhan mental saat menghadapi ujian takdir.
+> * **Pencegahan Nabawiyah:** Rasulullah ﷺ senantiasa berdoa: *"Ya Allah, karuniakanlah ketakwaan pada jiwaku dan sucikanlah ia, Engkaulah sebaik-baik yang mensucikannya"* (HR. Muslim).
+
+> [!tip] Tips Praktis Pengasuhan Hari Ini
+> * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
+> * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
+

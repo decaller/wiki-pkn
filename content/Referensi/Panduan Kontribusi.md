@@ -109,11 +109,12 @@ Setiap artikel materi sebaiknya memiliki elemen:
    ---
    ```
 2. **Banner Ilustrasi:** Disematkan di awal artikel: `![[assets/banners/nama_banner.webp]]`.
-3. **Callout Refleksi & Mitigasi:**
+3. **Isi Pembahasan Utama:** Terstruktur dengan heading `##`, `###`, poin teratur, dan bagan/tabel jika diperlukan.
+4. **Callout Refleksi & Mitigasi:** Diletakkan di bagian akhir konten artikel (sebelum materi presentasi / PPT):
    - `> [!info] Refleksi Lapangan: Realitas Penerapan ...`
    - `> [!warning] Peringatan Risiko: Jebakan Formalitas ...`
    - `> [!tip] Tips Praktis Pengasuhan ...`
-4. **Isi Pembahasan:** Terstruktur dengan heading `##`, `###`, poin teratur, dan bagan/tabel jika diperlukan.
+5. **Media Presentasi & Slide Interaktif (PPTX):** Disematkan di bagian penutup artikel.
 
 ---
 
