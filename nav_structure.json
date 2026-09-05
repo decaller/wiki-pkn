@@ -538,6 +538,11 @@
             "title": "Disiplin Positif PKN",
             "icon": "shield-check",
             "children": []
+          },
+          {
+            "title": "Persepsi Positif",
+            "icon": "sparkles",
+            "children": []
           }
         ]
       },

@@ -1,0 +1,170 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_BIRU",
+      "type": "group",
+      "label": "🌿 SIKLUS FITRAH NABAWIYAH (JALUR BIRU: INTERNAL DRIVE)",
+      "x": -300,
+      "y": -350,
+      "width": 1250,
+      "height": 550,
+      "color": "4"
+    },
+    {
+      "id": "GRP_MERAH",
+      "type": "group",
+      "label": "⚠️ SIKLUS PAKSAAN EKSTERNAL (JALUR MERAH: CONTROL DRIVEN)",
+      "x": -950,
+      "y": -350,
+      "width": 600,
+      "height": 550,
+      "color": "1"
+    },
+    {
+      "id": "NODE_PERSEPSI",
+      "type": "text",
+      "text": "### 1. PERSEPSI (Titik Hulu)\nCara unik individu memahami dan merespons situasi berdasar memori & keyakinan.\n\n**Ubah Negatif (-) ke Positif (+):**\n- Pendidik menggunakan **Bahasa Hati**\n- Melayani keluarga tanpa canggung\n- Duduk bersama anak tanpa sekat\n- Menjenguk & hadiah tanpa syarat\n- Hati suci (*Atsar Utsman RA*)",
+      "x": -250,
+      "y": -250,
+      "width": 320,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "NODE_NIAT_INT",
+      "type": "text",
+      "text": "### 2. NIAT INTERNAL (Kesadaran Kalbu)\nDidominasi dorongan cinta (*internal drive*):\n- 💚 **Mahabbah:** Cinta Allah & Rasul-Nya\n- 🤲 **Roja':** Harapan ridha & surga\n- ⚖️ **Khouf:** Takut maksiat & murka Allah\n\n*Inspirasi: Abdullah bin Salam, Abu Ma'bad, 'Amr bin al-'Ash*",
+      "x": 120,
+      "y": -300,
+      "width": 320,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "NODE_AMAL",
+      "type": "text",
+      "text": "### 3. AMAL BERKUALITAS (Metode Rabbani)\nTindakan nyata yang dipandu hikmah:\n- Menghormati hak anak (*Kisah Ibnu Abbas*)\n- Tadarruj: Mudah, sedikit demi sedikit\n- Sampai anak paham & senang\n- Ekosistem harmonis penuh rahmah",
+      "x": 500,
+      "y": -280,
+      "width": 340,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "NODE_HASIL",
+      "type": "text",
+      "text": "### 4. HASIL NYATA & KEBERKAHAN\nKetenangan batin, kemanisan iman, dan hubungan hangat keluarga.",
+      "x": 500,
+      "y": -40,
+      "width": 340,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "NODE_KONSISTEN",
+      "type": "text",
+      "text": "### 🌟 AMAL KONSISTEN (Istiqamah)\nAmal mengakar sepanjang hayat:\n- 🛡️ **Pribadi Sholih:** Menjaga diri\n- 🌍 **Pribadi Muslih:** Memperbaiki umat",
+      "x": 520,
+      "y": 240,
+      "width": 320,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "NODE_NIAT_EKS",
+      "type": "text",
+      "text": "### NIAT EKSTERNAL (Tekanan Luar)\nKetika persepsi negatif diabaikan:\n- Peraturan super ketat\n- Ancaman & sanksi hukuman\n- Pemantauan ketat tanpa henti",
+      "x": -900,
+      "y": -250,
+      "width": 260,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "NODE_AMAL_PAKSA",
+      "type": "text",
+      "text": "### AMAL KERING (Kepatuhan Semu)\nKetaatan lahiriah terpaksa saat diawasi;\nhati memendam kejengkelan dan dendam.",
+      "x": -600,
+      "y": -250,
+      "width": 240,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "NODE_BERHENTI",
+      "type": "text",
+      "text": "### ⛔ BERHENTI (Quitting / Rebel)\nPengawasan hilang = Ketaatan runtuh total.\nAnak memberontak saat dewasa.",
+      "x": -750,
+      "y": -30,
+      "width": 260,
+      "height": 140,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "NODE_PERSEPSI",
+      "fromSide": "right",
+      "toNode": "NODE_NIAT_INT",
+      "toSide": "left",
+      "label": "Tumbuh Cinta (+)"
+    },
+    {
+      "id": "e2",
+      "fromNode": "NODE_NIAT_INT",
+      "fromSide": "right",
+      "toNode": "NODE_AMAL",
+      "toSide": "left",
+      "label": "Inisiatif Mandiri"
+    },
+    {
+      "id": "e3",
+      "fromNode": "NODE_AMAL",
+      "fromSide": "bottom",
+      "toNode": "NODE_HASIL",
+      "toSide": "top",
+      "label": "Kemanisan Iman"
+    },
+    {
+      "id": "e4",
+      "fromNode": "NODE_HASIL",
+      "fromSide": "left",
+      "toNode": "NODE_PERSEPSI",
+      "toSide": "bottom",
+      "label": "Memperkuat Persepsi"
+    },
+    {
+      "id": "e5",
+      "fromNode": "NODE_AMAL",
+      "fromSide": "bottom",
+      "toNode": "NODE_KONSISTEN",
+      "toSide": "top",
+      "label": "Buah Jangka Panjang"
+    },
+    {
+      "id": "e6",
+      "fromNode": "NODE_PERSEPSI",
+      "fromSide": "left",
+      "toNode": "NODE_NIAT_EKS",
+      "toSide": "right",
+      "label": "Jika Negatif (-)"
+    },
+    {
+      "id": "e7",
+      "fromNode": "NODE_NIAT_EKS",
+      "fromSide": "right",
+      "toNode": "NODE_AMAL_PAKSA",
+      "toSide": "left",
+      "label": "Paksaan Fisik"
+    },
+    {
+      "id": "e8",
+      "fromNode": "NODE_AMAL_PAKSA",
+      "fromSide": "bottom",
+      "toNode": "NODE_BERHENTI",
+      "toSide": "top",
+      "label": "Kontrol Lepas"
+    }
+  ]
+}

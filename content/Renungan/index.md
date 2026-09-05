@@ -96,6 +96,7 @@ Gunakan navigasi berikut untuk menyelami renungan-renungan tematik yang telah di
 
 * **[[Hak dan Kewajiban]]:** Merenungi kembali hak bermain anak 9 tahun pertama, keadilan syariat dalam memandang masa kanak-kanak, dan bahaya menuntut kewajiban sebelum menuntaskan hak cinta.
 * **[[Disiplin Positif PKN]]:** Memahami Trilogi Tiga Bahasa Pengasuhan Nabawiyah (Bahasa Hati, Bahasa Lisan, Bahasa Tangan), penahapan usia perintah dan sanksi, serta bahaya malpraktik pemaksaan ibadah dini.
+* **[[Persepsi Positif]]:** Transformasi persepsi negatif menjadi positif via Bahasa Hati, membangkitkan niat internal (Mahabbah, Roja', Khouf), dan memutus siklus pemaksaan eksternal menuju amal konsisten pribadi Sholih & Muslih.
 * **Tautan Silang Terkait Refleksi Jiwa:**
   * [[Tazkiyatun Nafs]] — Penyucian jiwa orang tua sebagai hulu utama keberhasilan pendidikan anak.
   * [[Tawakkal dan Doa]] — Berserah diri kepada Allah setelah menuntaskan seluruh ikhtiar tarbiyah.
