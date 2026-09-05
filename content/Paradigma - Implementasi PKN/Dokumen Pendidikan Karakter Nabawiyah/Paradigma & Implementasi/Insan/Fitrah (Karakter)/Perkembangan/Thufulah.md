@@ -181,6 +181,38 @@ flowchart TD
 
 ---
 
+
+
+
+
+<!-- START_OFFICE_PPTX_EMBED -->
+
+---
+
+### 📽️ Media Presentasi & Slide Interaktif (Office Web Apps)
+
+> [!info] Pratinjau Interaktif Microsoft Office
+> Anda dapat menavigasi slide secara langsung melalui penampil di bawah ini, atau membuka layar penuh dan mengunduh berkas aslinya.
+
+<div class="presentation-wrapper" style="margin: 1.5rem 0;">
+  <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: 2. Mendidik Sesuai Fase Perkembangan Anak</h4>
+  <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
+    <iframe 
+      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F04-mendidik-sesuai-fase-perkembangan.pptx" 
+      style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
+      frameborder="0" 
+      allowfullscreen="true"
+      title="2. Mendidik Sesuai Fase Perkembangan Anak">
+    </iframe>
+  </div>
+  <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
+    <a href="https://wikipkn.insanmustaqbal.or.id/presentations/04-mendidik-sesuai-fase-perkembangan.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (14.48 MB)</a>
+    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F04-mendidik-sesuai-fase-perkembangan.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
+  </div>
+</div>
+<!-- END_OFFICE_PPTX_EMBED -->
+
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
@@ -191,4 +223,3 @@ flowchart TD
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
-

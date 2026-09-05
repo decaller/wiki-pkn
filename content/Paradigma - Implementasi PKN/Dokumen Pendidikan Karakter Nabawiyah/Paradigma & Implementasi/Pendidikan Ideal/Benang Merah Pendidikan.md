@@ -183,7 +183,10 @@ Penerapan benang merah pendidikan secara institusional menuntut perubahan kultur
 
 ## Penerapan Benang Merah Pendidikan Berdasarkan Etape Usia
 
-Prinsip benang merah (Tauhid $ightarrow$ Adab $ightarrow$ Ilmu $ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
+Prinsip benang merah (Tauhid $
+ightarrow$ Adab $
+ightarrow$ Ilmu $
+ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
 
 1. **Thufulah (0–7 Th):** Benang Tauhid dianyam lewat pengenalan asma Allah yang Maha Pengasih di alam raya.
 2. **Tamyiz (7–10 Th):** Benang Adab ditegakkan melalui penghormatan kepada orang tua, guru, dan adab thalabul ilmi.
@@ -234,6 +237,38 @@ Prinsip benang merah (Tauhid $ightarrow$ Adab $ightarrow$ Ilmu $ightarrow$ Am
 
 ---
 
+
+
+
+
+<!-- START_OFFICE_PPTX_EMBED -->
+
+---
+
+### 📽️ Media Presentasi & Slide Interaktif (Office Web Apps)
+
+> [!info] Pratinjau Interaktif Microsoft Office
+> Anda dapat menavigasi slide secara langsung melalui penampil di bawah ini, atau membuka layar penuh dan mengunduh berkas aslinya.
+
+<div class="presentation-wrapper" style="margin: 1.5rem 0;">
+  <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: 1. Mengembalikan Pendidikan ke Asalnya</h4>
+  <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
+    <iframe 
+      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F01-mengembalikan-pendidikan-ke-asalnya.pptx" 
+      style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
+      frameborder="0" 
+      allowfullscreen="true"
+      title="1. Mengembalikan Pendidikan ke Asalnya">
+    </iframe>
+  </div>
+  <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
+    <a href="https://wikipkn.insanmustaqbal.or.id/presentations/01-mengembalikan-pendidikan-ke-asalnya.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (31.78 MB)</a>
+    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F01-mengembalikan-pendidikan-ke-asalnya.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
+  </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (31.78 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
+</div>
+<!-- END_OFFICE_PPTX_EMBED -->
+
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
@@ -244,4 +279,3 @@ Prinsip benang merah (Tauhid $ightarrow$ Adab $ightarrow$ Ilmu $ightarrow$ Am
 > - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
-

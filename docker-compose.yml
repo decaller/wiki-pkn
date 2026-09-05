@@ -11,6 +11,8 @@ services:
       - DOMAIN=${DOMAIN:-localhost}
       - PORT=${PORT:-8080}
       - WS_PORT=${WS_PORT:-3001}
+    volumes:
+      - ./presentations:/usr/src/app/presentations:ro
     healthcheck:
       test: ["CMD", "node", "-e", "fetch('http://localhost:' + (process.env.PORT || 8080)).then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
       interval: 30s

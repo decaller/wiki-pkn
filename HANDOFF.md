@@ -389,6 +389,28 @@ wiki-pkn/
 - **Pengayaan Frontmatter Deskripsi & Tag:** Mengisi ringkasan semantik `description:` dan taksonomi `tags:` terstruktur pada seluruh 68 berkas artikel via `scripts/enrich_metadata_tags.py`.
 - **Verifikasi Build:** `npx quartz build` memproses 113 berkas Markdown dan menerbitkan 659 berkas web statis ke `public/` dengan status 100% sukses.
 
+---
+
+### Milestone 36: Isolasi 39 Presentasi PPTX Kanonikal, Upload ke OneDrive via Rclone, dan Integrasi Microsoft Office Web Apps Viewer `[SELESAI]`
+- **Deduplikasi & Isolasi 39 PPTX Kanonikal (`presentations/`):**
+  - Memindai seluruh 59 berkas PPTX di `old_backup/` dan mengelompokkannya ke dalam 39 tema kanonikal unik.
+  - Memilih versi terbaru berdasarkan stempel waktu modifikasi (`mtime`) dan nomor batch (Temu Lembaga 6 / Batch 5 > Batch 4 > Batch 3).
+  - Mengisolasi 39 berkas pilihan ke direktori `presentations/` (total 1,08 GiB / 1.108 MB) dengan nama berkas URL-safe standar (`00-konsep-umum-pkn.pptx` s/d `38-beda-adab-akhlaq-kualitas-hidup.pptx`) via `scripts/prepare_pptx_presentations.py`.
+  - Menerbitkan `presentations/manifest.json` (metadata lengkap, SHA256, pemetaan artikel) dan `presentations/README.md`.
+  - Menambahkan `presentations/` ke `.gitignore` sehingga repositori Git tetap ringan dan bebas dari batas penolakan GitHub (>100 MB).
+- **Unggah Otomatis ke OneDrive via Rclone:**
+  - Terhubung dengan remote resmi `OneDrive decaller:`.
+  - Mengunggah seluruh folder `presentations/` secara langsung ke `OneDrive decaller:Public/Wiki-PKN/Presentations/` menggunakan `rclone copy -P`.
+- **Integrasi Komponen Microsoft Office Web Apps Viewer (54 Artikel):**
+  - Menulis dan mengeksekusi `scripts/inject_pptx_office_embeds.py` untuk menyematkan penampil interaktif cloud resmi Microsoft (`view.officeapps.live.com/op/embed.aspx`) pada 54 artikel wiki.
+  - Menyediakan rasio aspek responsif 16:9 (`presentation-container`), tombol aksi unduh langsung berkas asli, tombol pratinjau layar penuh (*Full-Page Mode* `view.officeapps.live.com/op/view.aspx`), serta catatan penanganan berkas besar (>25 MB).
+  - Menerapkan prinsip *Zero Deletion*: seluruh dalil, callout rujukan slide, dan naskah lama tetap utuh 100% (+1.990 baris penambahan murni).
+- **Otomatisasi Publikasi Quartz & Docker:**
+  - Mengonfigurasi volume mount di `docker-compose.yml`: `./presentations:/usr/src/app/presentations:ro`.
+  - Mengintegrasikan hook symlink otomatis di `quartz/build.ts` yang membuat tautan `public/presentations -> ../presentations` setiap kali build dijalankan.
+  - Verifikasi build Quartz v5 sukses 100% (113 Markdown terproses, 659 berkas web statis terbit ke `public/`).
+
+
 
 
 

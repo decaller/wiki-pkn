@@ -3,6 +3,7 @@ sourceMapSupport.install(options)
 import path from "path"
 import { PerfTimer } from "./util/perf"
 import { rm } from "fs/promises"
+import fs from "fs"
 import { GlobbyFilterFunction, isGitIgnored } from "globby"
 import { styleText } from "util"
 import { parseMarkdown } from "./processors/parse"
@@ -103,6 +104,18 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
+
+  // Ensure presentations/ directory is linked to public/presentations for public serving
+  const presPath = path.resolve("presentations")
+  const destPresPath = joinSegments(argv.output, "presentations")
+  try {
+    if (fs.existsSync(presPath) && !fs.existsSync(destPresPath)) {
+      await fs.promises.symlink(presPath, destPresPath, "dir")
+    }
+  } catch {
+    // Ignore symlink failure if already linked
+  }
+
   console.log(
     styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
   )
