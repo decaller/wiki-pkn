@@ -143,7 +143,7 @@ File `.env.example` telah disediakan. Variabel utama yang didukung:
 4. Pilih metode build **Repository** (Git repository):
    - **Name:** Beri nama stack, contoh: `wiki-pkn`
    - **Repository URL:** `https://github.com/decaller/wiki-pkn.git` (atau URL repositori Anda)
-   - **Repository reference:** `refs/heads/v5` (atau branch target deployment Anda)
+   - **Repository reference:** `refs/heads/main` (atau branch target deployment Anda)
    - **Compose path:** `docker-compose.yml`
 5. **Konfigurasi GitOps / Automatic Updates (Sangat Direkomendasikan):**
    - Aktifkan toggle **Automatic updates**.
