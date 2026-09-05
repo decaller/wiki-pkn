@@ -9,8 +9,7 @@ title: "Tangki Cinta"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-15.webp)
-
+![Pengisian Tangki Cinta: Menumbuhkan Belas Kasih dan Kelembutan Fitrah](/assets/banners/banner-30.webp)
 
 Dalam psikologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Tangki Cinta** (*Emotional Love Tank*) adalah metafora wadah batin penampung rasa aman, kasih sayang, dan penghargaan tanpa syarat yang mutlak dibutuhkan oleh setiap anak untuk tumbuh secara sehat. Sebagaimana kendaraan bermotor tidak akan pernah bisa melaju tanpa bahan bakar, demikian pula jiwa seorang anak tidak akan pernah mampu menapaki jalan taklif syariat, mematuhi adab, dan mengasah bakatnya jika tangki emosionalnya berada dalam kondisi kosong (*empty tank*).
 

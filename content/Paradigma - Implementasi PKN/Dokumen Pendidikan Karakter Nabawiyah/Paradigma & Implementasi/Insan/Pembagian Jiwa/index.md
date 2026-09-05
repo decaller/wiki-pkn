@@ -9,9 +9,6 @@ title: "Pembagian Jiwa"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-08.webp)
-
-
 Dalam konsepsi Pendidikan Karakter Nabawiyah (PKN), jiwa manusia (*an-nafs*) bukanlah entitas statis yang kaku, melainkan medan gerak dinamis yang senantiasa berfluktuasi antara tarikan luhur malaikat (*lammatul malak*) dan bisikan nista setan (*lammatus syaithan*). Al-Qur'an Al-Karim secara eksplisit memetakan dinamika psikologis manusia ke dalam **Trilogi Jiwa**: **Nafsul Ammarah**, **Nafsul Lawwamah**, dan **Nafsul Muthmainnah**.
 
 Ketiga istilah ini bukanlah tiga jiwa yang terpisah di dalam satu tubuh, melainkan **tiga keadaan/fase kualitas (*ahwal*)** yang silih berganti menguasai satu jiwa yang sama. Sasaran agung dari tarbiyah nabawiyah adalah membimbing anak melalui proses penyucian bertahap (*tazkiyatun nafs*), mentransformasi dominasi dorongan liar jasad (*Ammarah*) menuju kesadaran nalar moral yang kritis (*Lawwamah*), hingga akhirnya mencapai ketenangan spiritual yang kokoh (*Muthmainnah*).

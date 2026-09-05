@@ -9,8 +9,7 @@ title: "Peran Ayah dan Bunda"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-02.webp)
-
+![Nakhoda Keluarga: Musyawarah dan Penyelarasan Peran Ayah Bunda](/assets/banners/banner-34.webp)
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  

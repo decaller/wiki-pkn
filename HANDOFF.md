@@ -85,6 +85,10 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
     - **Ekspor Slide Presentasi Kunci:** Menulis dan mengeksekusi `scripts/export_presentation_slides.py` menggunakan `pdftoppm` dan PIL untuk mengekspor 29 slide diagram, bagan, dan tabel paling berharga dari PDF resmi materi tayang PKN ke `content/assets/slides/` dalam format WebP berkualitas tinggi.
     - **Injeksi Gambar ke Artikel:** Menulis dan mengeksekusi `scripts/inject_images_to_articles.py` yang menyisipkan horizontal banner di 72 artikel dan 46 penyematan slide diagram rujukan di sub-bab yang relevan, lengkap dengan takarir penjelas yang elegan.
     - **Kompilasi Sukses Quartz:** `npx quartz build` sukses memproses 72 berkas markdown dan menerbitkan 527 berkas web statis ke `public/` dengan 0 error.
+30. **Analisis Visi AI OMP (Oh My Pi) & Remapping Kontekstual Banner Foto (`data/gambar_properties.json`)**:
+    - **Deteksi Objek & Konteks Visi AI:** Menulis dan mengeksekusi `scripts/analyze_images_omp.py` yang memanfaatkan CLI `omp` (`gemini-2.5-flash`) untuk mendeteksi secara objektif isi visual ke-40 foto di `old_backup/Gambar/`, mengekstraksi objek, aktivitas, suasana emosi, kata kunci, serta relevansinya terhadap topik manhaj PKN ke dalam basis data [data/gambar_properties.json](data/gambar_properties.json).
+    - **Pencocokan Semantik Presisi (1-to-1):** Menulis dan mengeksekusi `scripts/remap_matched_banners.py` yang membersihkan seluruh banner acak dari artikel dan hanya memasang banner pada 32 artikel yang memiliki relevansi kontekstual sejati (misal: timbangan keadilan pada *Hak dan Kewajiban* & *Tanggung Jawab Pendidikan*, anak menulis pada *Belajar* & *Tamyiz*, pemuda tafakkur pada *Berpikir*, lansia pemulihan pada *Luka Pengasuhan*, dialog hikmah pada *Bahasa Lisan*, dll.).
+    - **Kebersihan Konten:** 40 artikel lainnya yang tidak memiliki padanan foto yang cocok dibiarkan bersih tanpa banner foto acak, menjaga integritas keseriusan ilmiah dan fokus pada diagram slide presentasi resmi PKN.
 
 ---
 

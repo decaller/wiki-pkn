@@ -9,9 +9,6 @@ title: "Paradigma Implementasi"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-34.webp)
-
-
 Pendidikan Karakter Nabawiyah (PKN) bukanlah sekadar tumpukan wacana teoritis atau romantisme sejarah masa lalu, melainkan sebuah **manhaj amali (metodologi praktis)** yang dirancang untuk dioperasionalkan secara nyata di dalam ruang tamu keluarga, ruang kelas madrasah, dan dinamika interaksi sosial kemasyarakatan. Paradigma implementasi PKN dibangun di atas keyakinan bahwa keshalihan generasi tidak dapat dicapai secara instan atau serampangan, melainkan menuntut orkestrasi yang presisi antara kesucian niat pendidik, ketepatan metodologi bertahap (*tadarruj*), serta pembagian amanah yang berkeadilan di antara para pemangku kepentingan (*stakeholders*).
 
 Implementasi PKN berdiri kokoh di atas tiga pilar penyangga utama: **Kaidah & Elemen**, **Faktor Internal & Eksternal**, serta **Sinergi Peran & Tanggung Jawab**.

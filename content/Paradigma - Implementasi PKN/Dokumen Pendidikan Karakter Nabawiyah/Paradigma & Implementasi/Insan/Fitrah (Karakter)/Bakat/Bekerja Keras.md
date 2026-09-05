@@ -15,8 +15,7 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-17.webp)
-
+![Etos Kerja Keras dan Ketelitian (Itqan) Menuju Ihsan](/assets/banners/banner-16.webp)
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  

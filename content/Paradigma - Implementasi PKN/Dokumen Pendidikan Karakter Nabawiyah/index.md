@@ -9,9 +9,6 @@ title: Dokumen Pendidikan Karakter Nabawiyah
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-39.webp)
-
-
 Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **Pendidikan Karakter Nabawiyah (PKN)**. Dokumen ini merangkum sintesis holistik antara dalil-dalil Al-Qur'an, as-Sunnah ash-Shahihah, khazanah tarbiyah ulama salafush shalih, serta aplikasi empiris pengasuhan berbasis fitrah di era kontemporer.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Petunjuk yang Paripurna

@@ -9,8 +9,7 @@ title: "Batas Toleransi"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-35.webp)
-
+![Ketegasan Sikap dan Pengendalian Diri dalam Menegakkan Batas Toleransi](/assets/banners/banner-18.webp)
 
 Dalam kerangka Pendidikan Karakter Nabawiyah (PKN), **Batas Toleransi** adalah prinsip penegakan batas wilayah (*boundary setting*) yang memadukan antara kelonggaran fitrah bermain dengan ketegasan hukum syariat. Kata kunci nabawiyah yang mendasari konsep ini adalah **Al-Hima**—yakni "tanah larangan suci" yang dipagari oleh seorang penggembala agar ternaknya tidak memakan tanaman terlarang. Dalam pendidikan anak, batas toleransi berfungsi bagaikan pagar pelindung di tepi jurang: pagar itu tidak bertujuan mengekang kebebasan anak bermain di hamparan padang rumput, melainkan mencegahnya agar tidak terpeleset jatuh ke jurang kebinasaan.
 

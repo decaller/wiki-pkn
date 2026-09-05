@@ -9,9 +9,6 @@ title: "Fase Euforia"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-10.webp)
-
-
 Dalam peta patologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Fase Euforia** merujuk pada dua fenomena psikososial yang sangat kritis: **(1) Sindrom Euforia Orang Tua Baru Hijrah**, yakni ledakan antusiasme emosional yang berlebihan tatkala orang tua baru mengenal konsep parenting nabawiyah lalu menerapkan perubahan drastis secara tergesa-gesa tanpa hikmah; serta **(2) Sindrom Euforia Pelepasan Remaja**, yakni ledakan keliaran perilaku yang dialami anak tatkala ia tiba-tiba terbebas dari penindasan disiplin kaku masa kecilnya (*rebound effect*).
 
 Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah nabawiyah: **At-Tadarruj (Bertahap)** dan **Al-Istiqamah (Konsistensi Berkelanjutan)**. Rasulullah ﷺ sangat mencintai amalan yang dilakukan secara berkesinambungan meskipun kuantitasnya sedikit (*adwamuha wa in qalla*). Segala bentuk perubahan karakter yang dipicu semata-mata oleh luapan emosi sesaat tanpa akar keilmuan dan kesabaran yang mendalam niscaya akan layu dengan cepat, menyisakan kelelahan mental (*burnout*), rasa bersalah, dan luka pengasuhan yang lebih parah.

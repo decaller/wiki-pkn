@@ -9,8 +9,7 @@ title: "Fitrah Keimanan"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-14.webp)
-
+![Fitrah Iman: Tali Persaudaraan Batin dan Cinta Karena Allah](/assets/banners/banner-40.webp)
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), **Fitrah Keimanan** adalah pondasi paling hakiki yang mendasari seluruh bangunan kepribadian insan. Al-Qur'an dan Sunnah menegaskan bahwa setiap anak lahir dengan membawa perjanjian ketuhanan yang primordial (*mitsaq al-awwal*). Jauh sebelum jasad manusia dirakit di alam rahim, seluruh ruh keturunan Adam telah dikumpulkan di hadapan Allah Ta'ala dan menyatakan sumpah kesaksian: *“Alastu birabbikum? Qalu: Balaa syahidna!”* (Bukankah Aku ini Tuhanmu? Mereka menjawab: Benar, kami bersaksi! - QS. Al-A'raf: 172).
 

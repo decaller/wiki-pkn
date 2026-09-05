@@ -16,9 +16,6 @@ description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berba
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-24.webp)
-
-
 > Dokumen ini merupakan instrumen asesmen baku yang diadopsi langsung dari **Panduan Implementasi Standar PKN (A4)** (Klausul 10 & Lampiran Tabel 15–16). Instrumen ini diformulasikan untuk membantu santri usia *Tamyiz akhir* hingga *Murahaqah* (10–15+ tahun) serta pendidik dalam memetakan profil fitrah bakat unik secara terstruktur.
 
 ---

@@ -9,9 +9,6 @@ title: FAQ Ringkas
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-24.webp)
-
-
 Dokumen ini memuat rangkuman jawaban otoritatif atas berbagai pertanyaan mendasar, keraguan teknis, serta dilema praktis yang kerap dihadapi oleh para orang tua dan pendidik saat mengkaji dan menerapkan metode **Pendidikan Karakter Nabawiyah (PKN)**.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Agama adalah Nasihat yang Tulus

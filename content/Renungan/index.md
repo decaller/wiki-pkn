@@ -9,9 +9,6 @@ title: "Renungan Pengasuhan Nabawiyah"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-04.webp)
-
-
 > [!important] Simpul Kontemplasi & Evaluasi Diri (Reflective MOC Hub)
 > Halaman ini merupakan simpul kontemplatif bagi para orang tua dan pendidik dalam menyelami kedalaman makna pengasuhan berbasis nabawiyah. Di tengah tuntutan kurikulum, target prestasi akademis, dan dinamika keseharian keluarga, ruang renungan ini hadir untuk mengajak kita berhenti sejenak, meluruskan niat (*tashihun niyah*), serta menata ulang hati agar tidak terjebak dalam kezaliman tersembunyi terhadap fitrah anak.
 

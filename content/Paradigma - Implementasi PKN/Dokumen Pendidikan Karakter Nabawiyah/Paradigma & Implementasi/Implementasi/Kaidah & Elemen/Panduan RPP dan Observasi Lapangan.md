@@ -17,9 +17,6 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-40.webp)
-
-
 > [!IMPORTANT]
 > **Instrumen Resmi Pembelajaran & Observasi:** Panduan ini disusun berdasarkan berkas instrumen resmi kurikulum Pendidikan Karakter Nabawiyah, meliputi:
 > 1. *Lembar Rencana Pembelajaran Karakter (RPP)* & *Lembar Pelaksanaan Pembelajaran Karakter* (Akademi Guru PKN Batch 5).

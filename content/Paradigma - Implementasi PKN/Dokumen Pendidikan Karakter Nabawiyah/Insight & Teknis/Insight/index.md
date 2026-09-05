@@ -9,9 +9,6 @@ title: Insight Wawasan PKN
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-02.webp)
-
-
 Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan catatan lapangan dari para asatidzah serta praktisi **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini bertujuan mendekonstruksi kekeliruan mindset pengasuhan modern dan mengembalikannya ke rel keautentikan fitrah nubuwah.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Berpijak di Atas Ilmu yang Shahih

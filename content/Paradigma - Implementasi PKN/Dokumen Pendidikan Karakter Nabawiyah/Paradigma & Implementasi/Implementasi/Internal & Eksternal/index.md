@@ -9,9 +9,6 @@ title: Internal & Eksternal
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-33.webp)
-
-
 Keberhasilan pembentukan karakter anak adalah hasil harmonisasi antara **Faktor Internal** (kesucian batiniah dan kualitas spiritual pendidik) dengan **Faktor Eksternal** (ikhtiar nyata, doa, dan proteksi lingkungan pergaulan).
 
 > [!quote] Dalil & Rujukan Nabawiyah: Perubahan Bermula dari Dalam Jiwa

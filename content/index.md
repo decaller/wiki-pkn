@@ -9,9 +9,6 @@ title: Beranda Utama
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-01.webp)
-
-
 Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan komprehensif yang merekonstruksi paradigma, kurikulum, metodologi, dan implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan para ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
 > [!quote] Dalil Utama Manhaj PKN: Pentahapan Shalat & Tiga Bahasa Mendidik

@@ -9,8 +9,7 @@ title: "Fitrah Belajar"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-13.webp)
-
+![Fitrah Belajar Anak: Ketekunan Menuntut Ilmu](/assets/banners/banner-06.webp)
 
 Dalam paradigma Pendidikan Karakter Nabawiyah (PKN), **Fitrah Belajar dan Bernalar** (*Fitratut Ta'allum wal 'Aql*) adalah instrumen kognitif agung yang dianugerahkan Allah kepada setiap manusia untuk mengeksplorasi ayat-ayat-Nya, baik ayat kauniyah yang terhampar di alam semesta maupun ayat qauliyah yang termaktub di dalam wahyu Al-Qur'an. Manusia tidak diciptakan dalam keadaan dungu permanen; Allah membekali manusia sejak dalam rahim dengan potensi pendengaran, penglihatan, dan hati nurani (*as-sam'a wal abshara wal af'idah*) agar mereka mampu belajar dan bersyukur.
 

@@ -9,9 +9,6 @@ title: Template Komponen Refleksi, Implementasi & Risiko
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-06.webp)
-
-
 Dokumen ini memuat format standar blok *callout* pendukung yang dapat disisipkan ke dalam artikel-artikel materi wiki untuk memperkaya pembahasan dengan pengalaman empiris, peringatan risiko pengasuhan, dan panduan teknis aplikatif.
 
 ---

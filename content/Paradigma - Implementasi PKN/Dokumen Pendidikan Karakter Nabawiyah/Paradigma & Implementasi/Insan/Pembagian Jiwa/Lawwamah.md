@@ -9,8 +9,7 @@ title: "Nafsul Lawwamah"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-10.webp)
-
+![Nafsul Lawwamah: Introspeksi, Muhasabah, dan Penyesalan Hati](/assets/banners/banner-12.webp)
 
 Dalam arsitektur psikospiritual Pendidikan Karakter Nabawiyah (PKN), **Nafsul Lawwamah** menempati posisi sentral sebagai jembatan dialektis antara keliaran biologis [[Ammarah]] dan kedamaian transenden [[Muthmainnah]]. Kata *lawwamah* berakar dari kata *lauma* (*al-laum*) yang bermakna "mencela", "mengkritik", atau "menyesali". Nafsul Lawwamah adalah kondisi jiwa yang memiliki kesadaran reflektif (*self-awareness*), nalar kritis (*fikr*), serta nurani moral (*dhamir*) yang senantiasa menimbang, mengawasi, dan mengoreksi tindakan dirinya sendiri.
 

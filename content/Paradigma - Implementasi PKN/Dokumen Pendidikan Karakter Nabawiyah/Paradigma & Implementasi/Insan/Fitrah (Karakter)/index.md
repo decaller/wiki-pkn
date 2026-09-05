@@ -9,9 +9,6 @@ title: "Fitrah (Karakter)"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-12.webp)
-
-
 Dalam paradigma Pendidikan Karakter Nabawiyah (PKN), istilah **Fitrah** menempati kedudukan paling mendasar sebagai cetak biru (*master blueprint*) penciptaan manusia. Kata *fitrah* berakar dari kata bahasa Arab *fathara* yang bermakna "membelah", "mengeluarkan", atau "menciptakan sesuatu pertama kali dalam bentuk aslinya yang murni". Fitrah adalah potensi bawaan lahir, kecenderungan alami yang hanif (*al-mail ilal haq*), serta kesiapan spiritual dan intelektual yang ditanamkan langsung oleh Allah Subhanahu wa Ta'ala ke dalam setiap jiwa manusia tatkala ditiupkan ke alam rahim.
 
 Pendidikan Karakter Nabawiyah menolak secara tegas teori sekuler Barat seperti doktrin *Tabula Rasa* (John Locke) yang memandang anak lahir bagaikan kertas putih kosong tanpa potensi apa pun yang pasif dibentuk oleh lingkungan. PKN juga menolak doktrin *Original Sin* (Dosa Asal) yang memandang anak lahir dengan warisan noda kutukan. Dalam Islam, setiap anak terlahir suci, mulia, berdaya, dan membawa potensi kebaikan tauhid yang sempurna. Tugas pendidikan bukan "membuat karakter dari nol", melainkan **menjaga, menumbuhsuburkan, dan memandu fitrah (*ri'ayatul fitrah*)** agar tidak tercemar oleh polusi peradaban jahiliyah.

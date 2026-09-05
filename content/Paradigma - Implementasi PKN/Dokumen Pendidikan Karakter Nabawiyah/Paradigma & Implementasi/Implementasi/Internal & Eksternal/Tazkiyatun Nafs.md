@@ -9,9 +9,6 @@ title: "Tazkiyatun Nafs"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-![Banner Ilustrasi](/assets/banners/banner-23.webp)
-
-
 Dalam epistemologi Pendidikan Karakter Nabawiyah (PKN), **Tazkiyatun Nafs** (penyucian jiwa) menempati kedudukan sebagai jantung dari seluruh proses pendidikan. Kata *tazkiyah* mengandung dua makna agung yang saling melengkapi: **At-Tath-hir** (membersihkan dari kotoran dan racun dosa) serta **An-Numuw waz-Ziyadah** (menumbuhsuburkan dan melipatgandakan potensi kebaikan). Tarbiyah nabawiyah bukanlah transmisi informasi mekanis dari otak guru ke otak murid, melainkan proses **resonansi spiritual (*al-hal anfa' minal maqal*)** di mana frekuensi kesucian kalbu pendidik memancarkan getaran hikmah yang langsung meresap ke dalam sanubari anak.
 
 Para ulama salaf sepakat bahwa mendidik anak bermula dari menyucikan diri pendidiknya. Jika bejana hati orang tua dipenuhi racun kesombongan (*kibr*), riya', kedengkian (*hasad*), dan cinta dunia berlebihan (*hubbud dunya*), maka segala perkataan manis dan nasihat agama yang keluar dari lisannya akan terasa hambar, bahkan dapat memicu resistensi batin pada anak. Air yang memancar dari hulu yang keruh tidak akan pernah mampu mengalirkan kesegaran ke hilir.
