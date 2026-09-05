@@ -677,3 +677,20 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > 💡 **Relevansi PKN:** Validasi peran kinestetik motorik: stamina kerja keras fisik dan keterampilan tubuh (*gross/fine motor skills*) adalah pilar kemuliaan peradaban yang dipuji langsung oleh Rasulullah ﷺ.
 
 ---
+
+## 📄 `Hak dan Kewajiban.md` (Keseimbangan Hak Main Anak 9 Tahun & Kewajiban)
+**Kata Kunci OpenBayan:** `إن لربك عليك حقا`, `ارتحلني ابني`, `يا غلام إني أعلمك كلمات`, `خدمت رسول الله عشر سنين`, `يا أبا عمير ما فعل النغير`
+
+1. **Hak Keseimbangan Syar'i:** HR. Bukhari (No. 1968) & Riyadush Shalihin (Hal. 80) — *Keseimbangan hak Rabb, diri, dan keluarga/anak.*
+2. **Kemurnian Fitrah:** HR. Bukhari (No. 1385) & Muslim (No. 2658) — *Kullu mauludin yuladu 'alal fitrah.*
+3. **Tadarruj Perintah Shalat:** HR. Abu Dawud (No. 495), Ahmad (No. 6689), & Riyadush Shalihin (No. 301 Hal. 116) — *Muru auladakum bish-shalah usia 7 tahun.*
+4. **Hak Bermain Anak saat Shalat:** HR. An-Nasa'i (No. 1141), Ahmad (No. 16033), & Syarah Riyadush Shalihin (Juz 4 Hal. 457) — *Sujud panjang Rasulullah ﷺ saat Hasan/Husain naik ke punggung.*
+5. **Hak Bermain & Kasih Sayang saat Kajian:** HR. Abu Dawud (No. 1109), At-Tirmidzi (No. 3774), & Syarah Riyadush Shalihin (Juz 2 Hal. 552) — *Rasulullah ﷺ menjeda khutbah memeluk cucu yang terjatuh saat bermain.*
+6. **Kedekatan Emosi dalam Menanamkan Tauhid:** HR. At-Tirmidzi (No. 2516) & Riyadush Shalihin (No. 62 Hal. 39) — *Hadits Ibnu Abbas dibonceng unta: Ihfadhillaha yahfadhka.*
+7. **Pendidikan Tanpa Amarah & Celaan:** HR. Bukhari (No. 6038), Muslim (No. 2309), & Riyadush Shalihin (No. 621 Hal. 205) — *Khidmat Anas bin Malik 10 tahun tanpa celaan.*
+8. **Koreksi Adab Penuh Kelembutan:** HR. Bukhari (No. 5376) & Riyadush Shalihin (No. 299 Hal. 115) — *Umar bin Abi Salamah: Ya ghulam sammillah wa kul biyaminik.*
+9. **Empati Emosi pada Hewan Peliharaan Anak:** HR. Bukhari (No. 6129), Muslim (No. 2150), & A'lamul Hadits (Juz 3 Hal. 2200) — *Ya Aba 'Umair ma fa'alan-nughair.*
+10. **Metode Narasi & Kisah Hikmah:** QS. Al-Kahfi: 54 & Syarah Tafsir Ibnu Katsir Ar-Rajhi (Juz 59 Hal. 6) — *Wa laqad sharrafna fi hadzal Qur'ani lin-nasi min kulli matsal.*
+
+---
+
