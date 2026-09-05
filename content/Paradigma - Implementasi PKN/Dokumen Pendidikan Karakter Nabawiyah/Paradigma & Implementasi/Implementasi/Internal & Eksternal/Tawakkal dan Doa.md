@@ -57,8 +57,8 @@ Pendidikan Karakter Nabawiyah membedakan secara tegas dua tingkatan hidayah agar
 ```mermaid
 graph TD
     subgraph DUA_HIDAYAH["HAKIKAT HIDAYAH DALAM PENDIDIKAN"]
-        H1["1. Hidayatul Irsyad wal Bayan<br/>(Petunjuk Penjelasan & Bimbingan)"]
-        H2["2. Hidayatut Taufiq wal Ilham<br/>(Ketetapan Hati Menerima Kebenaran)"]
+        H1["1: Hidayatul Irsyad wal Bayan<br/>(Petunjuk Penjelasan & Bimbingan)"]
+        H2["2: Hidayatut Taufiq wal Ilham<br/>(Ketetapan Hati Menerima Kebenaran)"]
     end
 
     H1 -->|Tugas & Wilayah Ikhtiar Orang Tua| Ikhtiar["Mendidik, Meneladankan, Memfasilitasi Adab"]

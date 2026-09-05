@@ -112,9 +112,9 @@ Salah satu kontribusi terpenting dari SOTAB HEBAT adalah **Sistematika Pemulihan
 
 ```mermaid
 flowchart LR
-    P1["1. Kenali Penyebab"] --> P2["2. Baca Tanda Perilaku"] --> P3["3. Analisa Akar Masalah"]
-    P3 --> P4["4. Hadirkan Penawar (Empati)"] --> P5["5. Taburkan Obat (Ma'ruf)"] --> P6["6. Balut Luka (Sentuhan)"]
-    P6 --> P7["7. Rawat Kebersamaan"] --> P8["8. Kuatkan Jiwa"] --> P9["9. Pemulihan Tuntas (Restorasi)"]
+    P1["1: Kenali Penyebab"] --> P2["2: Baca Tanda Perilaku"] --> P3["3: Analisa Akar Masalah"]
+    P3 --> P4["4: Hadirkan Penawar (Empati)"] --> P5["5: Taburkan Obat (Ma'ruf)"] --> P6["6: Balut Luka (Sentuhan)"]
+    P6 --> P7["7: Rawat Kebersamaan"] --> P8["8: Kuatkan Jiwa"] --> P9["9: Pemulihan Tuntas (Restorasi)"]
 ```
 
 | Tahap | Nama Tahapan | Fokus Intervensi Orang Tua |

@@ -56,8 +56,8 @@ Dalam paradigma ini, proses belajar dibagi secara tegas ke dalam dua instrumen u
 ```mermaid
 graph TD
     subgraph "Kurikulum Organik Kehidupan"
-        A["1. Peristiwa (Moment Spontan)"] -->|Insidental, Tak Terduga| M1["Fokus: Penanaman Adab, Iman, & Resonansi Nurani"]
-        B["2. Kegiatan (Project Terencana)"] -->|Terstruktur, Terukur| M2["Fokus: Pengasahan Bakat (Rukun 3A), Nalar, & Karya"]
+        A["1: Peristiwa (Moment Spontan)"] -->|Insidental, Tak Terduga| M1["Fokus: Penanaman Adab, Iman, & Resonansi Nurani"]
+        B["2: Kegiatan (Project Terencana)"] -->|Terstruktur, Terukur| M2["Fokus: Pengasahan Bakat (Rukun 3A), Nalar, & Karya"]
     end
 
     M1 --> T["Pribadi Beradab, Cerdas, dan Tangguh Menghadapi Realitas"]
@@ -130,12 +130,12 @@ Pembelajaran proyek dijalankan melalui empat tahapan terstruktur:
 
 ```mermaid
 flowchart LR
-    A["1. Investigasi & Observasi
-(Tadabbur Ayat Kauniyah)"] --> B["2. Perencanaan & Desain
+    A["1: Investigasi & Observasi
+(Tadabbur Ayat Kauniyah)"] --> B["2: Perencanaan & Desain
 (Kolaborasi & Nalar)"]
-    B --> C["3. Eksekusi & Eksperimen
+    B --> C["3: Eksekusi & Eksperimen
 (Aksi Nyata / Trial & Error)"]
-    C --> D["4. Refleksi & Kemanfaatan
+    C --> D["4: Refleksi & Kemanfaatan
 (Presentasi & Khidmah)"]
 ```
 

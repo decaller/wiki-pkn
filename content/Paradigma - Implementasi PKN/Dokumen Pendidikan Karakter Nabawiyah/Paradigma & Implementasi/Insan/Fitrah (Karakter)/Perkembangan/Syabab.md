@@ -101,9 +101,9 @@ Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesi
 ```mermaid
 graph TD
     SY["Pemuda Mukallaf Mandiri (Syabab)"]
-    SY --> P1["1. Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
-    SY --> P2["2. Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
-    SY --> P3["3. Kesiapan Ba'ah Pernikahan: Siap Menjadi Qowwamah Keluarga"]
+    SY --> P1["1: Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
+    SY --> P2["2: Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
+    SY --> P3["3: Kesiapan Ba'ah Pernikahan: Siap Menjadi Qowwamah Keluarga"]
 ```
 
 1. **Kesiapan Ruhiyah (Ibadah Tanpa Paksaan):**
@@ -180,9 +180,9 @@ Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesi
 ```mermaid
 graph TD
     SY["Pemuda Mukallaf Mandiri (Syabab)"]
-    SY --> P1["1. Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
-    SY --> P2["2. Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
-    SY --> P3["3. Kesiapan Ba'ah Pernikahan: Siap Menjadi Qawwamah Keluarga"]
+    SY --> P1["1: Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
+    SY --> P2["2: Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
+    SY --> P3["3: Kesiapan Ba'ah Pernikahan: Siap Menjadi Qawwamah Keluarga"]
 ```
 
 1. **Kesiapan Ruhiyah (Ibadah Tanpa Paksaan):**

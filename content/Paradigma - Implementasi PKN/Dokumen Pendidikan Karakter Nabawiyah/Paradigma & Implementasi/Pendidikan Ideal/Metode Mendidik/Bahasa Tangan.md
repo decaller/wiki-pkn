@@ -71,10 +71,10 @@ Para fukaha dan ulama tarbiyah menetapkan **4 Syarat Ketat** yang tidak boleh di
 ```mermaid
 graph TD
     BT["Syarat Syar'i Bahasa Tangan"]
-    BT --> S1["1. Usia Minimal 10 Tahun & Didahului 3 Tahun Nasihat"]
-    BT --> S2["2. Motivasi Rahmah Bukan Luapan Amarah (Ghadhab)"]
-    BT --> S3["3. Pukulan Simbolis (Ghairu Mubarrih) & Haram di Wajah"]
-    BT --> S4["4. Bersifat Personal Tanpa Mempermalukan Publik"]
+    BT --> S1["1: Usia Minimal 10 Tahun & Didahului 3 Tahun Nasihat"]
+    BT --> S2["2: Motivasi Rahmah Bukan Luapan Amarah (Ghadhab)"]
+    BT --> S3["3: Pukulan Simbolis (Ghairu Mubarrih) & Haram di Wajah"]
+    BT --> S4["4: Bersifat Personal Tanpa Mempermalukan Publik"]
 ```
 
 ### 1. Telah Melewati Fase Bahasa Hati (0–7 th) & Lisan (7–10 th)

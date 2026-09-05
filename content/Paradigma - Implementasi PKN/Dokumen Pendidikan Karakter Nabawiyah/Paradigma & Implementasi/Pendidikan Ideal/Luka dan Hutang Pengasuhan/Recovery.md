@@ -61,8 +61,8 @@ Kerangka utama recovery dijalankan melalui tiga tahapan terstruktur yang disebut
 
 ```mermaid
 flowchart TD
-    A["1. Empati (Edukasi Rasa)"] -->|Hati Tenang & Percaya Kembali| B["2. Imajinasi (Edukasi Visi)"]
-    B -->|Visi Diri Tumbuh & Sadar Hakikat| C["3. Solusi (Edukasi Aksi & Restitusi)"]
+    A["1: Empati (Edukasi Rasa)"] -->|Hati Tenang & Percaya Kembali| B["2: Imajinasi (Edukasi Visi)"]
+    B -->|Visi Diri Tumbuh & Sadar Hakikat| C["3: Solusi (Edukasi Aksi & Restitusi)"]
     C -->|Kemandirian Mukallaf Tercapai| D["Fitrah Pulih Sempurna"]
 ```
 

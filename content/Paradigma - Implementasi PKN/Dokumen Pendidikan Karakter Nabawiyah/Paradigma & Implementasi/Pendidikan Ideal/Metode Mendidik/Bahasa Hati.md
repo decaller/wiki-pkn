@@ -137,9 +137,9 @@ Dalam instrumen evaluasi **Laporan Perkembangan Karakter Santri (SKIS Semarang)*
 
 ```mermaid
 graph TD
-    BH["Bahasa Hati (Lughatul Qalb)"] --> M1["1. Bahasa Pelayanan (Al-Khidmah)"]
-    BH --> M2["2. Bahasa Perlindungan (Al-Himayah)"]
-    BH --> M3["3. Bahasa Kebersamaan (Al-Mushahabah)"]
+    BH["Bahasa Hati (Lughatul Qalb)"] --> M1["1: Bahasa Pelayanan (Al-Khidmah)"]
+    BH --> M2["2: Bahasa Perlindungan (Al-Himayah)"]
+    BH --> M3["3: Bahasa Kebersamaan (Al-Mushahabah)"]
 
     M1 --> D1["Melayani kemauan, menuruti permintaan wajar,<br/>menjaga rahasia, menutupi aib, memaafkan kesalahan"]
     M2 --> D2["Membela saat terpojok, menghadirkan rasa aman batin,<br/>menepis kecemasan, menjadi benteng perlindungan"]

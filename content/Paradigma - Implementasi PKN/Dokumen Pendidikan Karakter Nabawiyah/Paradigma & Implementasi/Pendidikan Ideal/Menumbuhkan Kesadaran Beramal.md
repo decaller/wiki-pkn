@@ -211,17 +211,17 @@ Tiga modalitas komunikasi ini disesuaikan dengan fase kematangan fitrah:
 
 ```mermaid
 flowchart TD
-    subgraph HATI["1. Bahasa Hati (Qolbiyah)"]
+    subgraph HATI["1: Bahasa Hati (Qolbiyah)"]
         H1["Keteladanan Nyata (Qudwah)"]
         H2["Pancaran Kasih Sayang & Penerimaan"]
         H3["Dominan pada Usia Thufulah (0–7 Thn)"]
     end
-    subgraph LISAN["2. Bahasa Lisan (Kalamiyah)"]
+    subgraph LISAN["2: Bahasa Lisan (Kalamiyah)"]
         L1["Dialog Logis, Kisah, Diskusi"]
         L2["Penjelasan Hikmah & Kaidah Hukum"]
         L3["Dominan pada Usia Tamyiz (7–10 Thn)"]
     end
-    subgraph TANGAN["3. Bahasa Tangan (Amaliyah / Ketegasan)"]
+    subgraph TANGAN["3: Bahasa Tangan (Amaliyah / Ketegasan)"]
         T1["Konsekuensi Logis & Tindakan Disiplin"]
         T2["Penegakan Batasan & Tanggung Jawab"]
         T3["Diterapkan pada Usia Murahaqah (10 Thn - Baligh)"]

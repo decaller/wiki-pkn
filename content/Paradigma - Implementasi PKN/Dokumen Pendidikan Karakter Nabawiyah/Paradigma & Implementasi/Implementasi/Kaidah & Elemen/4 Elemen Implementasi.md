@@ -59,10 +59,10 @@ Agar Pendidikan Karakter Nabawiyah dapat beroperasi secara utuh di rumah dan sek
 ```mermaid
 graph TD
     subgraph Ekosistem["4 Elemen Implementasi PKN"]
-        E1["1. Elemen Iman (Ghayah/Tujuan)<br>Penanaman Tauhidullah & Muraqabatullah"]
-        E2["2. Elemen Adab (Tazkiyah/Penyucian)<br>Pembersihan Hati & Akhlakul Karimah"]
-        E3["3. Elemen Belajar (Manhaj/Nalar)<br>Eksplorasi Alam & Fiqih Syariat"]
-        E4["4. Elemen Bakat (Khafiyah/Amal Shalih)<br>Aktualisasi 40 Potensi Peradaban"]
+        E1["1: Elemen Iman (Ghayah/Tujuan)<br>Penanaman Tauhidullah & Muraqabatullah"]
+        E2["2: Elemen Adab (Tazkiyah/Penyucian)<br>Pembersihan Hati & Akhlakul Karimah"]
+        E3["3: Elemen Belajar (Manhaj/Nalar)<br>Eksplorasi Alam & Fiqih Syariat"]
+        E4["4: Elemen Bakat (Khafiyah/Amal Shalih)<br>Aktualisasi 40 Potensi Peradaban"]
     end
     E1 --> E2 --> E3 --> E4
 ```

@@ -286,8 +286,8 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
 ```mermaid
 graph TD
     subgraph SegitigaEmas["SEGITIGA EMAS IMPLEMENTASI PKN"]
-        P["PENDIDIK (Klausul 12)<br/>- Pemetaan Bakat Guru<br/>- Self-Recovery Guru<br/>- Penugasan Sesuai Fitrah"] 
-        O["ORANG TUA (Klausul 13)<br/>- Parent Class Wajib<br/>- Home Visit Rutin<br/>- Keselarasan Pola Asuh"]
+        P["PENDIDIK (Klausul 12)<br/>• Pemetaan Bakat Guru<br/>• Self-Recovery Guru<br/>• Penugasan Sesuai Fitrah"] 
+        O["ORANG TUA (Klausul 13)<br/>• Parent Class Wajib<br/>• Home Visit Rutin<br/>• Keselarasan Pola Asuh"]
         S["SANTRI MEMPESONA<br/>Fitrah Terjaga & Karakter Tumbuh"]
         
         P <-->|Sinergi Edukasi| O

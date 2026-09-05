@@ -57,8 +57,8 @@ Berikut adalah analisis komparatif dua sisi mata uang sindrom euforia yang wajib
 ```mermaid
 graph TD
     subgraph DUA_EUFORIA["DUA SISI BAHAYA FASE EUFORIA"]
-        E1["1. EUFORIA HIJRAH ORANG TUA<br/>Semangat Baru Tanpa Tadarruj"]
-        E2["2. EUFORIA PELEPASAN ANAK<br/>Ledakan Dendam Fitrah Terpasung"]
+        E1["1: EUFORIA HIJRAH ORANG TUA<br/>Semangat Baru Tanpa Tadarruj"]
+        E2["2: EUFORIA PELEPASAN ANAK<br/>Ledakan Dendam Fitrah Terpasung"]
     end
 
     E1 -->|Pola Ekstrem Seketika| P1["Rumah Menjadi Medan Teror Baru<br/>Bakar Mainan, Paksa Shalat Khusyuk Instan"]

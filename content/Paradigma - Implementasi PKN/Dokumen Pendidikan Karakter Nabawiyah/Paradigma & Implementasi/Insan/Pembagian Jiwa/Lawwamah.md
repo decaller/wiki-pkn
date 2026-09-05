@@ -53,8 +53,8 @@ graph TD
         L["Nafsul Lawwamah (Jiwa Pencela)"]
     end
 
-    L -->|1. Al-Lawwamah al-Mamduhah (Terpuji)| Positif["Penyesalan Konstruktif<br/>Muhasabah, Evaluasi Diri, Taubat Nasuha, Haus Perbaikan"]
-    L -->|2. Al-Lawwamah al-Madzmumah (Tercela)| Negatif["Penyesalan Toksik & Putus Asa<br/>Mencela diri berlebihan, Insecure, Menyalahkan Takdir, Depresi"]
+    L -->|1: Al-Lawwamah al-Mamduhah (Terpuji)| Positif["Penyesalan Konstruktif<br/>Muhasabah, Evaluasi Diri, Taubat Nasuha, Haus Perbaikan"]
+    L -->|2: Al-Lawwamah al-Madzmumah (Tercela)| Negatif["Penyesalan Toksik & Putus Asa<br/>Mencela diri berlebihan, Insecure, Menyalahkan Takdir, Depresi"]
 
     Positif -->|Tarbiyah Nabawiyah| Muthmainnah["Meningkat Menuju Nafsul Muthmainnah"]
     Negatif -->|Luka Pengasuhan| AmmarahLiar["Jatuh Kembali Menuju Ammarah bis-Su'"]

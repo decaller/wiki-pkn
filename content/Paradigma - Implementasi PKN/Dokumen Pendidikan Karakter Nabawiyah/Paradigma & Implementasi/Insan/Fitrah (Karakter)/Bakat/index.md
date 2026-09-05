@@ -80,9 +80,9 @@ flowchart TD
     end
 
     subgraph Rukun["3 RUKUN BAKAT (3A)"]
-        A["1. Al-Hirsh (الحِرْص)<br/>sukA (Enjoy / Gairah)"]
-        B["2. Al-Itqan (الإِتْقَان)<br/>bisA (Easy / Mahir)"]
-        C["3. Al-Mufid (المُفِيد)<br/>bergunA (Excellent / Bermanfaat)"]
+        A["1: Al-Hirsh (الحِرْص)<br/>sukA (Enjoy / Gairah)"]
+        B["2: Al-Itqan (الإِتْقَان)<br/>bisA (Easy / Mahir)"]
+        C["3: Al-Mufid (المُفِيد)<br/>bergunA (Excellent / Bermanfaat)"]
     end
 
     D --> Rukun

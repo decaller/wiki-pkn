@@ -98,9 +98,9 @@ Dalam kitab *Akhlaqul Ulama* (Hal. 45):
 ```mermaid
 graph LR
     G["Peran Luhur Guru PKN"]
-    G --> G1["1. Mu'addib (Penanam Adab Sebelum Ilmu)"]
-    G --> G2["2. Rawi Fitrah (Fasilitator Penemu Bakat 3A)"]
-    G --> G3["3. Qudwah Hayyah (Model Keteladanan Nyata)"]
+    G --> G1["1: Mu'addib (Penanam Adab Sebelum Ilmu)"]
+    G --> G2["2: Rawi Fitrah (Fasilitator Penemu Bakat 3A)"]
+    G --> G3["3: Qudwah Hayyah (Model Keteladanan Nyata)"]
 ```
 
 1. **Sebagai Mu'addib (Penanam Adab Sebelum Ilmu):**

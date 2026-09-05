@@ -106,11 +106,11 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 
 ```mermaid
 flowchart LR
-    Start["Mulai dari Sini"] --> Step1["1. Baca [[Beranda Utama]] & Peta Konsep"]
-    Step1 --> Step2["2. Dalami Hakikat Anak di [[Insan]]"]
-    Step2 --> Step3["3. Pahami Metodologi di [[Pendidikan Ideal]]"]
-    Step3 --> Step4["4. Eksekusi Lapangan via [[Implementasi]]"]
-    Step4 --> Step5["5. Gunakan Format Baku di [[Template]]"]
+    Start["Mulai dari Sini"] --> Step1["1: Baca [[Beranda Utama]] & Peta Konsep"]
+    Step1 --> Step2["2: Dalami Hakikat Anak di [[Insan]]"]
+    Step2 --> Step3["3: Pahami Metodologi di [[Pendidikan Ideal]]"]
+    Step3 --> Step4["4: Eksekusi Lapangan via [[Implementasi]]"]
+    Step4 --> Step5["5: Gunakan Format Baku di [[Template]]"]
 ```
 
 ---

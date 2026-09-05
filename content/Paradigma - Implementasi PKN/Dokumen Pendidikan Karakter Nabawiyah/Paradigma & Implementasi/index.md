@@ -55,9 +55,9 @@ Bangunan dokumen di bawah direktori ini disusun secara logis bertingkat:
 
 ```mermaid
 graph TD
-    Root["Paradigma & Implementasi PKN"] --> P1["1. [[Insan]]<br/>(Pondasi Hakikat Manusia)"]
-    Root --> P2["2. [[Pendidikan Ideal]]<br/>(Metodologi & Benang Merah)"]
-    Root --> P3["3. [[Implementasi]]<br/>(Kaidah, Elemen & Tanggung Jawab)"]
+    Root["Paradigma & Implementasi PKN"] --> P1["1: [[Insan]]<br/>(Pondasi Hakikat Manusia)"]
+    Root --> P2["2: [[Pendidikan Ideal]]<br/>(Metodologi & Benang Merah)"]
+    Root --> P3["3: [[Implementasi]]<br/>(Kaidah, Elemen & Tanggung Jawab)"]
 
     P1 --> C1["• [[Tujuan Hidup Manusia]]<br/>• [[Bersatunya Ruh dan Jasad Membentuk Jiwa]]<br/>• [[Pembagian Jiwa]] (Muthmainnah, Lawwamah, Ammarah)<br/>• [[Fitrah (Karakter)]] (Iman, Belajar, Bakat)<br/>• [[Perkembangan]] (Thufulah s/d Syabab)"]
     P2 --> C2["• [[Benang Merah Pendidikan]] (Wasathiyah)<br/>• [[Metode Mendidik]] (Bahasa Hati, Lisan, Tangan)<br/>• [[Pembelajaran Alamiah]]<br/>• [[Batas Toleransi]] & [[Imunitas Sosial]]<br/>• [[Luka dan Hutang Pengasuhan]] & [[Recovery]]"]

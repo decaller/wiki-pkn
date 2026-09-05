@@ -72,10 +72,10 @@ Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib
 ```mermaid
 graph TD
     subgraph KOMPONEN_IMUNITAS["EMPAT LAPISAN IMUNITAS SOSIAL ANAK"]
-        L1["1. I'tizaz bil Islam (Kebanggaan Identitas)<br/>Bangga Menjadi Muslim, Tidak Rendah Diri di Depan Budaya Asing"]
-        L2["2. Al-Furqan (Nalar Kritis Menyaring Nilai)<br/>Mampu Membedakan Hak vs Batil, Kritis terhadap Tren Medsos"]
-        L3["3. Tangki Cinta Penuh di Rumah<br/>Kebutuhan Validasi Terpenuhi, Kebal terhadap Bujuk Rayu Jahil"]
-        L4["4. Produktivitas Bakat Nyata<br/>Sibuk Menekuni 40 Pilar Bakat, Tidak Ada Waktu untuk Hal Sia-sia"]
+        L1["1: I'tizaz bil Islam (Kebanggaan Identitas)<br/>Bangga Menjadi Muslim, Tidak Rendah Diri di Depan Budaya Asing"]
+        L2["2: Al-Furqan (Nalar Kritis Menyaring Nilai)<br/>Mampu Membedakan Hak vs Batil, Kritis terhadap Tren Medsos"]
+        L3["3: Tangki Cinta Penuh di Rumah<br/>Kebutuhan Validasi Terpenuhi, Kebal terhadap Bujuk Rayu Jahil"]
+        L4["4: Produktivitas Bakat Nyata<br/>Sibuk Menekuni 40 Pilar Bakat, Tidak Ada Waktu untuk Hal Sia-sia"]
     end
 
     L1 --> Kebal["Antibodi Moral Kebal Fitnah Zaman (Generasi Tahan Uji)"]

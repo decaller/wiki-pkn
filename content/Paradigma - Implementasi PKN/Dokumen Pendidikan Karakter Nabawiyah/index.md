@@ -83,11 +83,11 @@ Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan pr
 
 ```mermaid
 graph LR
-    Doc["Master Dokumen PKN"] --> P1["1. Pelajari Paradigma Insan<br/>(Kenali Karakteristik Anak)"]
-    P1 --> P2["2. Kuasai Metode Mendidik<br/>(Bahasa Hati, Lisan, Tangan)"]
-    P2 --> P3["3. Pantau Fase Perkembangan<br/>(Thufulah s/d Syabab)"]
-    P3 --> P4["4. Petakan Bakat Unik TB40<br/>(Rukun 3A: Suka, Bisa, Berguna)"]
-    P4 --> P5["5. Eksekusi Kaidah Lapangan<br/>(Sinergi Ayah, Bunda & Guru)"]
+    Doc["Master Dokumen PKN"] --> P1["1: Pelajari Paradigma Insan<br/>(Kenali Karakteristik Anak)"]
+    P1 --> P2["2: Kuasai Metode Mendidik<br/>(Bahasa Hati, Lisan, Tangan)"]
+    P2 --> P3["3: Pantau Fase Perkembangan<br/>(Thufulah s/d Syabab)"]
+    P3 --> P4["4: Petakan Bakat Unik TB40<br/>(Rukun 3A: Suka, Bisa, Berguna)"]
+    P4 --> P5["5: Eksekusi Kaidah Lapangan<br/>(Sinergi Ayah, Bunda & Guru)"]
 ```
 
 ### Panduan Aksi Pengguna:

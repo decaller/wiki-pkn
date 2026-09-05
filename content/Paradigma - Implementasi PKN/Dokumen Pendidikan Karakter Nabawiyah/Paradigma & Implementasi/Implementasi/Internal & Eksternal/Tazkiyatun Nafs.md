@@ -56,14 +56,14 @@ Proses penyucian jiwa pendidik berlangsung melalui dua tahapan dialektis yang be
 
 ```mermaid
 graph LR
-    subgraph TAKHALLI["1. TAKHALLI (Pembersihan / Detoksifikasi)"]
+    subgraph TAKHALLI["1: TAKHALLI (Pembersihan / Detoksifikasi)"]
         T1["Mengikis Riya' & Sum'ah"]
         T2["Membuang Amarah & Dendam"]
         T3["Menghilangkan Kibir (Sombong)"]
         T4["Menghindari Rezeki Syubhat"]
     end
 
-    subgraph TAHALLI["2. TAHALLI (Penghiasan / Nutrisi Ruh)"]
+    subgraph TAHALLI["2: TAHALLI (Penghiasan / Nutrisi Ruh)"]
         H1["Menghias dengan Ikhlas Lillah"]
         H2["Menghias dengan Kelembutan (Rifq)"]
         H3["Menghias dengan Tawadhu' & Sabar"]

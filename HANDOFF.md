@@ -113,6 +113,10 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
       - *Batch 3:* Klaster Hakikat Insan, Jiwa & Nilai Transendental (13 artikel) via `scripts/enrich_batch3.py`.
       - *Batch 4:* Klaster Kerangka Implementasi, Kaidah & Standar Lembaga (23 artikel) via `scripts/enrich_batch4.py`.
     - **Kompilasi Sukses Quartz v5:** Build Quartz bersih memproses seluruh 72 berkas markdown dengan 0 error parsing dan 0 broken links.
+33. **Resolusi Tuntas Error Mermaid "Unsupported markdown: list" di Browser**:
+    - **Diagnosa Masalah:** Pada Mermaid v10+, mesin parser markdown Mermaid membaca teks node berformat `"1. ..."` atau `"<br/>- ..."` sebagai sintaks list Markdown (`<ol>` / `<ul>`). Karena renderer SVG Mermaid tidak mendukung elemen list di dalam shape node, Mermaid melemparkan pesan error runtime di peramban: `Unsupported markdown: list`.
+    - **Solusi Rekayasa:** Menulis dan mengeksekusi skrip `scripts/fix_mermaid_lists.py` untuk memformat ulang seluruh penomoran list `1. `, `2. `, dst. menjadi format non-list `1: `, `2: `, dst. serta mengubah bullet tanda hubung `- ` menjadi Unicode bullet `• ` pada 25 berkas markdown terdampak.
+    - **Verifikasi Komprehensif:** Pemindaian ulang menunjukkan 0 sisa pola list Markdown yang memicu error di seluruh diagram repositori. Build Quartz v5 sukses bersih.
 
 ---
 

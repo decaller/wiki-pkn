@@ -59,9 +59,9 @@ Pendidikan Karakter Nabawiyah merumuskan bahwa proses belajar anak harus selaras
 ```mermaid
 graph TD
     subgraph TIGA_PILAR["TIGA INSTRUMEN FITRAH BELAJAR NABAWI"]
-        P1["1. Tadabbur Alam (Observasi Sensori)<br/>Pemanfaatan Pendengaran & Penglihatan Mengeksplorasi Ayat Kauniyah"]
-        P2["2. Tajribah & Ibtikar (Eksperimen Bebas)<br/>Uji Coba Nyata, Meraba, Membongkar-Pasang, Trial & Error"]
-        P3["3. Hiwar & Muhawarah (Dialog Sokratik)<br/>Tanya-Jawab Kritis Mengaktifkan Nafsul Lawwamah Menuju Hikmah"]
+        P1["1: Tadabbur Alam (Observasi Sensori)<br/>Pemanfaatan Pendengaran & Penglihatan Mengeksplorasi Ayat Kauniyah"]
+        P2["2: Tajribah & Ibtikar (Eksperimen Bebas)<br/>Uji Coba Nyata, Meraba, Membongkar-Pasang, Trial & Error"]
+        P3["3: Hiwar & Muhawarah (Dialog Sokratik)<br/>Tanya-Jawab Kritis Mengaktifkan Nafsul Lawwamah Menuju Hikmah"]
     end
 
     P1 --> Hasil["Pecinta Ilmu Seumur Hidup (Thalibul 'Ilmi Hakiki)"]
@@ -102,9 +102,9 @@ Merujuk pada firman Allah Ta'ala dalam **QS. An-Nahl: 78**, instrumen penyerapan
 
 ```mermaid
 graph TD
-    AYAT["QS. An-Nahl: 78: As-Sam'a, Al-Abshara, Al-Af'idah"] --> G1["1. Al-Fu'ad (الفُؤَاد)<br/>Kinestetik & Eksperiensial"]
-    AYAT --> G2["2. As-Sam'u (السَمْع)<br/>Auditori & Dialogis"]
-    AYAT --> G3["3. Al-Bashar (البَصَر)<br/>Visual & Observasional"]
+    AYAT["QS. An-Nahl: 78: As-Sam'a, Al-Abshara, Al-Af'idah"] --> G1["1: Al-Fu'ad (الفُؤَاد)<br/>Kinestetik & Eksperiensial"]
+    AYAT --> G2["2: As-Sam'u (السَمْع)<br/>Auditori & Dialogis"]
+    AYAT --> G3["3: Al-Bashar (البَصَر)<br/>Visual & Observasional"]
 
     G1 --> S1["Ciri: Bergerak, membongkar-pasang, praktik nyata<br/>Setting: Alam terbuka, lapangan, bengkel, kebun"]
     G2 --> S2["Ciri: Menyimak kisah, diskusi, talaqqi, peka intonasi<br/>Setting: Halaqah melingkar, podcast, ruang tenang"]
