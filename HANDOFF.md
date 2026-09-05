@@ -51,6 +51,13 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
     - Mentransformasi `Insan/index.md` menjadi **Grand Navigation Hub / Map of Content (MOC)** berbobot 18.611 karakter dengan sintesis epistemologi, matriks kartu navigasi visual sub-pilar, alur kurikuler 5 langkah, tabel diagnosa lapangan, dan rubrik refleksi pendidik.
     - Menerbitkan berkas `index.md` baru berstandar emas ($\ge 5.000$ karakter) untuk folder-folder yang sebelumnya kosong: `Kaidah & Elemen/index.md` (5.950 chars), `Peran & Tanggung Jawab/index.md` (5.081 chars), `Internal & Eksternal/index.md` (5.804 chars), `Renungan/index.md` (5.100 chars), dan `Paradigma - Implementasi PKN/index.md` (5.200 chars).
     - Repositori kini memiliki **67 berkas artikel**, **716.180 karakter akumulatif**, rata-rata 10.689 karakter/artikel, **0 defisit**, dan **100% kelulusan standar emas**.
+22. **Kutipan Khusus TL;DR Praktek PKN di Beranda Utama (`content/index.md`)**:
+    - Menambahkan kutipan khusus *Executive TL;DR Callout* (`> [!summary]`) di halaman beranda utama tepat di bawah dalil fondasi pohon karakter dan sebelum arsitektur konsep.
+    - Merangkum aksi nyata komprehensif bagi 3 pemangku kepentingan:
+      1. **Orang Tua**: Sinergi *Qawwamah* (Ayah - visi ukhrawi, batas toleransi, imunitas sosial, bahasa tangan) & *Rahimah* (Bunda - kasih sayang tanpa syarat, tangki cinta, bahasa hati & lisan), serta ritual harian keluarga (shalat tepat waktu, meja makan peradaban, pembiasaan khidmah, tazkiyatun nafs).
+      2. **Pendidik (Guru & Ustadz)**: *Qudwah Hasanah* melampaui ceramah, pembelajaran alamiah di dunia nyata, serta observasi 40 pilar bakat fitrah melalui formula Rukun 3A (*Alami, Acuhkan kelemahan minor, Asah kekuatan dominan*).
+      3. **Lembaga Pendidikan (Sekolah & Pesantren)**: Reposisi sebagai mitra pendukung orang tua (kemitraan segitiga emas), transformasi dari ranking komparatif menuju asesmen portofolio holistik, penciptaan lingkungan suci (*safe haven* bebas bullying/gadget), dan inkubasi kemandirian akil-baligh (*Syabab*).
+    - Panjang halaman `content/index.md` meningkat menjadi **11.800 karakter**, mendorong akumulasi total wiki menjadi **719.332 karakter** di seluruh **67 artikel** (100% kepatuhan emas $\ge 5.000$ karakter, 0 defisit).
 
 ---
 

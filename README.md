@@ -3,7 +3,7 @@
 [![Quartz v5](https://img.shields.io/badge/Platform-Quartz%20v5-blue)](https://quartz.jzhao.xyz/)
 [![Total Halaman](https://img.shields.io/badge/Halaman-67%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
 [![Kepatuhan Standar](https://img.shields.io/badge/Standar%20Emas-100%25%20Lulus%20(%E2%89%A55k%20chars)-brightgreen)](ARTICLE_AUDIT_REPORT.md)
-[![Total Karakter](https://img.shields.io/badge/Total%20Karakter-716%2C180%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
+[![Total Karakter](https://img.shields.io/badge/Total%20Karakter-719%2C332%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
 [![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](DALIL_MAPPING.md)
 
 Basis pengetahuan digital komprehensif **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan terstruktur yang merekonstruksi paradigma, kurikulum, metodologi, dan tata kelola implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
