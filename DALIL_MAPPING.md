@@ -694,3 +694,32 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 
 ---
 
+## 📄 `Kurikulum Kemandirian Berbasis Maqashid Syariah.md` & `PKN Blueprint Arsitektur Sistem.md`
+**Kata Kunci OpenBayan & Qaf AI:** `مقاصد الشريعة`, `الضروريات الخمس`, `حفظ الدين`, `حفظ النفس`, `حفظ العقل`, `حفظ النسل`, `حفظ المال`, `عمل يده`, `المؤمن القوي`, `مروا أولادكم بالصلاة`
+
+1. **Maqashid Dharuriyyat & Landasan Ushul Turats:**
+   - **Teks Imam Al-Ghazali (*Al-Mustashfa fi 'Ilmil Ushul* Juz 1 Hal. 174):** Penjagaan lima pilar (*hifzhud din, an-nafs, al-'aql, an-nasl, al-mal*) sebagai puncak kemaslahatan (*a'la maratibil mashalih*).
+   - **Teks Imam Asy-Syathibi (*Al-Muwafaqat* Juz 2 Hal. 8–10):** Penjagaan ganda dari Sisi Keberadaan (*min janibil wujud*) dan Sisi Proteksi/Hima (*min janibil 'adam*).
+2. **Pilar 1 (Hifzhud Din - Menjaga Agama):**
+   - QS. Adz-Dzariyat: 56 & Tafsir Ibnu Katsir (Juz 7 Hal. 425) — *Tujuan mutlak penciptaan manusia untuk ibadah.*
+   - HR. Bukhari (No. 8) & Muslim (No. 16) — *Hadits Arkanul Islam.*
+3. **Pilar 2 (Hifzhun Nafs - Menjaga Jiwa & Raga):**
+   - QS. Al-Ma'idah: 32 & Tafsir Ibnu Katsir — *Memelihara kehidupan satu jiwa setara memelihara manusia seluruhnya.*
+   - QS. An-Nisa: 29 — *Larangan mencelakakan dan membunuh diri sendiri.*
+   - HR. Muslim (No. 2664) & Syarah Shahih Muslim An-Nawawi — *Al-Mu'minul qawiyyu khairun wa ahabbu ilallah.*
+   - HR. Bukhari (No. 5678) — *Perintah menjaga kesehatan dan berobat (Ma anzallahu da-an illa anzala lahu syifa').*
+4. **Pilar 3 (Hifzhul Aql - Menjaga Akal & Nalar):**
+   - QS. Al-Isra': 36 — *Tanggung jawab pendengaran, penglihatan, dan akal pikiran.*
+   - HR. Muslim (No. 2003) — *Kullu muskirin khamr wa kullu khamrin haram (proteksi akal dari perusak).*
+5. **Pilar 4 (Hifzhun Nasl wal 'Irdh - Menjaga Keturunan & Kehormatan):**
+   - QS. Al-Isra': 32 — *Larangan mendekati perbuatan keji zina.*
+   - QS. An-Nur: 30 — *Perintah menjaga pandangan dan kehormatan tubuh (ghaddhul bashar).*
+6. **Pilar 5 (Hifzhul Mal - Menjaga Harta & Kemandirian Finansial):**
+   - QS. Al-Baqarah: 275 & QS. An-Nisa: 5 — *Penghalalan jual beli, pengharaman riba, larangan menyerahkan harta kepada safih.*
+   - HR. Bukhari (No. 2072) & Fathul Bari (Juz 4 Hal. 306) — *Kemuliaan makan dari hasil kerja tangan sendiri (amalul yad Nabi Dawud).*
+   - HR. Bukhari (No. 1295) & Muslim (No. 1628) — *Keutamaan meninggalkan ahli waris kaya mandiri daripada meminta-minta kepada manusia.*
+7. **Poros Tiga Pondasi Perkembangan (Hubb, Raja', Khauf):**
+   - HR. Abu Dawud (No. 495) & Ahmad (No. 6689) — *Hadits shalat 7 tahun (ajak / raja') dan 10 tahun (pukul / khauf).*
+
+---
+

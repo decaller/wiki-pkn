@@ -149,6 +149,7 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
 ---
 
 ## 5. Tautan Konseptual Terkait
+* [[Kurikulum Kemandirian Berbasis Maqashid Syariah]] — Rekonstruksi Kurikulum & Standar Kemandirian Anak Berbasis 5 Maqashid Syari'ah.
 * [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal]] — Monograf Hakikat & Penumbuhan Kesadaran Beramal.
 * [[PKN Blueprint Arsitektur Sistem]] — Blueprint Arsitektur Sistem PKN.
 * [[Benang Merah Pendidikan]] — Kritik Arsitektur Pendidikan Modern.

@@ -57,91 +57,179 @@ Kerangka pendidikan karakter berbasis Nabawiyah yang mengintegrasikan
 
 ## 1. Materi / Kompetensi
 
-### 1.1 Tujuan Penciptaan Manusia
+> [!tip] Rujukan Komprehensif
+> Penjabaran lengkap kurikulum berbasis Maqashid Syari'ah dan dalil-dalil turats dapat dipelajari di monograf khusus:  
+> 🔗 **[[Kurikulum Kemandirian Berbasis Maqashid Syariah]]**
+
+### 1.1 Tujuan Penciptaan Manusia: Soleh dan Muslih
+
+Dalam Pendidikan Karakter Nabawiyah (PKN), target output kompetensi pendidikan berakar pada dua poros penciptaan manusia:
+
+1. **Menjadi Individu Soleh ('Ibadurrahman — QS. Adz-Dzariyat: 56):**
+   - Mampu menyelamatkan dirinya sendiri di dunia dan di akhirat melalui pemenuhan hak-hak Allah dan kemandirian pribadi.
+   - Bersifat **wajib bagi setiap orang** tanpa terkecuali.
+   - Dibangun melalui tritunggal: **Iman** (fondasi hati), **Ilmu** (pembelajar seumur hidup yang mandiri), dan **Amal** (pengamalan nyata).
+2. **Menjadi Agen Muslih (Khalifah fil Ardh — QS. Al-Baqarah: 30):**
+   - Mampu memberikan kemanfaatan nyata (*kheir*) bagi masyarakat dan mencegah kerusakan (*mafsadat*).
+   - Ditegakkan melalui dua instrumen utama: **Peran Profesi/Bakat** (memberikan kontribusi dari keunikan dirinya) dan **[[Imunitas Sosial]]** (kekebalan mental dan akidah agar tidak goyah atau terseret arus lingkungan yang rusak).
 
 ![[canvas/PKN Blueprint Arsitektur Sistem - Tujuan Penciptaan Manusia.canvas]]
 
-### 1.2 8 Kompetensi & Standar
+### 1.2 Delapan Kompetensi & Tiga Tingkatan Standar
 
-| Kompetensi        | Jiwa         | Standar |
-|-------------------|--------------|---------|
-| Aqidah            | Iman (Hijau) | Individu |
-| Ibadah            | Iman (Hijau) | Individu |
-| Kemandirian       | Iman (Hijau) | Kelompok |
-| Inisiatif         | Ilmu (Kuning)| Kelompok |
-| Ketekunan         | Ilmu (Kuning)| Kelompok |
-| Keunikan          | Amal (Merah) | Personal |
-| Rela Berkorban    | Amal (Merah) | Personal |
-| Kebermanfaatan    | Amal (Merah) | Personal |
+PKN membedakan standar kompetensi menjadi tiga tingkatan:
+- **Standar Syariat (Universal & Mutlak):** Berlaku sama bagi seluruh muslim, bersumber dari wahyu (Akidah & Ibadah wajib/haram). Tidak boleh diubah oleh tren atau tekanan sosial.
+- **Standar Kemandirian Masyarakat ('Urf / Kontekstual):** Kecakapan hidup agar anak mampu hidup mandiri di zamannya dan tidak menjadi beban orang lain (berubah sesuai waktu, tempat, dan peradaban).
+- **Standar Personal (Keunikan Bakat):** Berbeda pada tiap individu, ditandai dengan rela berkorban dan kemanfaatan nyata bagi umat.
 
-> **Kesadaran akhir:** LD beretika dengan target akhirat
+| No | Kompetensi | Ranah Jiwa | Tingkat Standar | Deskripsi Perilaku Nabawiyah |
+|:---:|---|---|---|---|
+| **1** | **Aqidah** | Iman (Hijau) | Standar Syariat (Mutlak) | Beriman utuh pada rukun iman, bebas dari syirik besar/kecil, memiliki loyalitas *wala' wal bara'* yang murni lillahi ta'ala. |
+| **2** | **Ibadah** | Iman (Hijau) | Standar Syariat (Mutlak) | Menegakkan rukun Islam, tertib shalat 5 waktu mandiri, menjauhi keharaman syar'i (riba, makanan haram, maksiat). |
+| **3** | **Kemandirian** | Iman (Hijau) | Standar Masyarakat ('Urf) | Mengurus kebutuhan pribadi (mandi, makan, sanitasi, literasi dasar), mampu bertahan hidup di tengah masyarakat tanpa merepotkan orang lain. |
+| **4** | **Inisiatif** | Ilmu (Kuning) | Standar Masyarakat ('Urf) | Proaktif mencari cara belajar dan bertahan hidup saat situasi darurat berubah (contoh: proaktif belajar pertukangan/dagang saat krisis). |
+| **5** | **Ketekunan** | Ilmu (Kuning) | Standar Masyarakat ('Urf) | Sabar dan tangguh memikul beban belajar seumur hidup (*lifelong learner*), tekun menyelesaikan tugas hingga tuntas. |
+| **6** | **Keunikan** | Amal (Merah) | Standar Personal (Bakat) | Mengenali keistimewaan potensi fitrah diri yang Allah titipkan secara spesifik dibanding orang lain (*kullun muyassarun lima khuliqa lah*). |
+| **7** | **Rela Berkorban** | Amal (Merah) | Standar Personal (Bakat) | *Tadhiyyah*: rela mencurahkan waktu, tenaga, dan harta untuk mendalami dan menekuni keahlian bakatnya demi Allah. |
+| **8** | **Kebermanfaatan**| Amal (Merah) | Standar Personal (Bakat) | Mengonversi keahlian bakat menjadi karya atau profesi yang solutif bagi kemaslahatan masyarakat dan kejayaan Islam. |
 
-### 1.3 Maqasid Syariah dan Materi Kurikulum
+> [!important] Akar Seluruh Kompetensi: Kesadaran Beretika dengan Target Akhirat (Al-Wa'yu bil Akhirah)
+> *(Penjelasan rekaman resmi PKN Recording 6)*:  
+> Seluruh kompetensi di atas tidak berdiri di atas motif sekuler atau pamer prestise duniawi. Semuanya berakar pada satu fondasi tunggal: **Kesadaran Penuh bahwa hidup manusia berlanjut ke alam akhirat**. Karena meyakini akan dibangkitkan dan dihisab di hadapan Allah Ta'ala, anak sadar mempelajari akidah, tertib beribadah, gigih mandiri, dan mendedikasikan bakatnya demi meraih ridha-Nya.
 
-| Maqasid       | Bidang      | Kurikulum         |
-|---------------|-------------|-------------------|
-| Agama (Hijau) | —           | —                 |
-| Jiwa (Merah)  | Kesehatan   | Jasmani / P3K     |
-| Akal (Kuning) | STEM        | Sains & Teknologi |
-| Kehormatan    | Adab        | Adab & Akhlak     |
-| Harta (Merah) | Fiqh        | Fiqh Muamalah     |
+### 1.3 Maqashid Syari'ah dan Penataan Materi Kurikulum
 
-### 1.4 Penguasaan Skill — Skala
+Kurikulum kemandirian PKN merujuk pada pemeliharaan **Al-Kulliyyat Al-Khamsah** (Lima Prinsip Pokok Maqashid Syari'ah) menurut rumusan Imam Al-Ghazali (*Al-Mustashfa*) dan Imam Asy-Syathibi (*Al-Muwafaqat*), dijaga dari sisi pembentukan (*min janibil wujud*) dan sisi proteksi (*min janibil 'adam*):
 
-| Sumber       | Profil Sosial             | Level Jiwa |
-|--------------|---------------------------|------------|
-| cukup        | Individu/Publik           | Amal       |
-| cukup        | Kolaborasi                | Ilmu       |
-| cukup        | Emosi/Ibadah              | Iman       |
+| Pilar Maqashid | Bidang Terapan PKN | Kurikulum Aplikatif | Dimensi Min Janibil Wujud | Dimensi Min Janibil 'Adam |
+|---|---|---|---|---|
+| **Hifzhud Din** *(Agama)* | Akidah & Ibadah | Fardhu 'Ain & Adab Nabawi | Tauhid, mahabbah kepada Allah, habituasi shalat 5 waktu mandiri. | Menolak syirik, bid'ah dhalalah, kemunafikan, dan keraguan iman (*syubhat*). |
+| **Hifzhun Nafs** *(Jiwa/Jasad)* | Kesehatan & Keselamatan | Jasmani, Gizi, & P3K | Pola makan *halal-thayyib* (*real food*), olahraga ketahanan, sanitasi mandi mandiri. | Mencegah cedera, bahaya junk food, teknik penyelamatan darurat (lari, cari perlindungan, kontak medis/polisi). |
+| **Hifzhul Aql** *(Akal/Nalar)* | Nalar & Sains | STEM Praktis & Teknologi | Nalar logis, berhitung praktis, mengoperasikan perkakas hidup modern (HP, komputer, kompor, motor). | Menjauhi perusak akal: khamr, rokok, pornografi, kecanduan layar/gawai, dan hoaks. |
+| **Hifzhun Nasl** *(Kehormatan)* | Akhlak & Keluarga | Adab Pergaulan & Aurat | Menanamkan rasa malu (*Al-Haya'*), adab interaksi sosial, persiapan pernikahan syar'i. | Menolak zina, pornografi, pergaulan bebas, perundungan, dan pelanggaran privasi tubuh. |
+| **Hifzhul Mal** *(Harta)* | Ekonomi Mandiri | Fiqh Muamalah & Kriya | Etos kerja tangan sendiri (*'amalul yad* - HR. Bukhari 2072), berniaga jujur, infak. | Menghindari riba, judi (termasuk judi online/game berbayar), penipuan, pemborosan (*israf*). |
 
-**Legend:** Cukup = baseline | Sesuai Bakat = optimal per jiwa
+### 1.4 Rekonstruksi Prioritas Kurikulum: Kaidah Batas Cukup vs Pendalaman
+
+Kritik mendasar PKN terhadap kurikulum modern (*Recording 5*):
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 1. MATERI KRUSIAL HIDUP NYATA: DIWAJIBKAN SAMPAI BATAS CUKUP│
+│    Wajib dikuasai seluruh anak untuk kesiapan bermasyarakat│
+└──────────────────────────────┬──────────────────────────────┘
+                               │
+┌──────────────────────────────▼──────────────────────────────┐
+│ 2. MATERI PENDALAMAN TEORITIS: HANYA SAMPAI TAHAP "TAHU ADA"│
+│    Tidak boleh dijadikan standar kelulusan wajib semua anak!│
+│    Pendalaman hanya untuk anak yang memiliki bakat spesifik │
+└─────────────────────────────────────────────────────────────┘
+```
+
+1. **Prioritas Materi Krusial Kebutuhan Nyata:**  
+   Materi yang paling menentukan keselamatan dan kemandirian anak di masyarakat wajib dituntaskan hingga batas **CUKUP (*Kifayah*)** bagi seluruh siswa.
+2. **Materi Lanjutan / Pendalaman Hanya Berstatus "Tahu Saja Ada":**  
+   Materi-materi teoritis rumit (seperti kalkulus abstrak, anatomi mikroskopis lanjutan) hanya diperkenalkan sebagai wawasan umum agar anak tahu cabang ilmu itu ada. Materi ini **tidak boleh dipaksakan menjadi syarat kelulusan seragam bagi semua anak**.
+3. **Bahaya Over-Standarisasi:**  
+   Memaksakan materi pendalaman kepada seluruh siswa akan mencederai waktu belajar yang semestinya digunakan untuk melatih akhlak dan kemandirian nyata, serta membebani jiwa anak yang memiliki potensi fitrah di bidang lain.
 
 ---
 
 ## 2. Metode & Perkembangan
 
-### 2.1 Paradigma — 'Fitrah' sebagai Referensi
+### 2.1 Paradigma: 'Fitrah' sebagai Referensi (Antitesis Tabula Rasa)
 
-Analogi alam: Kucing mencari susu induk dan berlatih memburu secara alami.
-Serangga langsung mencari makan dan berkembang biak tanpa diajarkan.
+Metode pendidikan PKN berpijak pada **Paradigma Fitrah Murni** (*Recording 7 & 8*):
+- **Refleks Alami Ciptaan Allah:** Seekor anak kucing yang baru lahir secara naluriah langsung mencari susu induknya, menangis, dan kelak berburu secara alami. Serangga menetas langsung mencari makan dan bermetamorfosis sempurna tanpa pernah diajari di bangku sekolah.
+- **Bekal Sempurna Manusia:** Jika binatang saja dibekali insting sempurna oleh Allah, mustahil manusia diciptakan sebagai bejana kosong (*tabula rasa* ala filosofi Barat). Allah membekali manusia dengan dua unsur agung:
+  1. **Jasad (Kebutuhan Hayawaniyah):** Membentuk **Jiwa Ammarah** (Organ: Jasad/Tubuh). Puncaknya mekar pada fase Murahaqah (kematangan fisik dan dorongan biologis).
+  2. **Ruh (Sifat Rububiyah):** Ditiupkan Allah sejak dalam kandungan membawa perjanjian tauhid azali (QS. Al-A'raf: 172), membentuk **Jiwa Muthmainnah** (Organ: Kalbu/Hati). Mekar sejak fase Thufulah melalui fitrah iman dan cinta.
+  3. **Persimpangan / Nalar:** Kebimbangan memilih antara tarikan jasad dan panggilan ruh membentuk **Jiwa Lawwamah** (Organ: Akal/Otak). Mekar pesat pada fase Tamyiz melalui fitrah belajar dan nalar logis.
 
 ![[canvas/PKN Blueprint Arsitektur Sistem - Paradigma — 'Fitrah' sebagai Referensi.canvas]]
 
-### 2.2 Tabel Perkembangan 3 Fase
+### 2.2 Hadits Shalat: Poros Filosofi Tiga Pondasi Perkembangan
 
-| Fase | Kondisi | Pondasi | Aktivitas Utama | Jika Salah | Hasil |
-|------|---------|---------|-----------------|------------|-------|
-| **Murahaqah** (10–Baligh) | Jasad+++ Akal+++ Ruh+++ | Khouf / Ketegasan | Ta'dib → Beramal → Proyek | Dihukum | Berguna → Bakat → Amal |
-| **Tamyiz** (7–10 thn)     | Jasad+ Akal++ Ruh++     | Roja' / Harapan   | Ta'allum → Pengajaran → Trial & Error | Dilatih | Bisa → Belajar → Ilmu |
-| **Thufulah** (0–7 thn)    | Jasad+ Akal+ Ruh+       | Hub / Cinta       | Tazkiyyah → Membuat Kagum → Bermain | Ditoleransi | Suka → Iman → Iman |
+Pembagian fase perkembangan dalam PKN berporos pada hadits nabawi yang sangat agung:
 
-### 2.3 Bobot Bahasa & Bobot Kesalahan per Fase
+> [!quote] Hadits Pentahapan Shalat (HR. Abu Dawud No. 495 & Ahmad No. 6689)
+> « مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ »  
+> *"Perintahkan anak-anakmu mendirikan shalat tatkala mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik tanpa melukai) jika meninggalkannya tatkala berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*
 
-| Fase | Bobot Bahasa | Bobot Kesalahan |
-|------|-------------|-----------------|
-| Murahaqah (Baligh+) | **Tangan** (aksi langsung) | Harus Benar (tanggung jawab penuh) |
-| Tamyiz (10 thn)     | **Lisan** (penjelasan) | Transisi — dilatih |
-| Thufulah (7 thn)    | **Hati** (rasa & cinta) | **Boleh Salah** (toleransi luas) |
+Dari dua penggalan sabda kenabian ini, tersingkap rahasia metode pendidikan PKN (*Recording 12 & 13*):
+
+1. **Usia 0–7 Tahun (Thufulah) — Pondasi Hubb (Cinta):**  
+   - Rasulullah ﷺ sama sekali **tidak memerintahkan shalat** sebelum usia 7 tahun. Jasad dan nalar anak belum matang, namun hatinya sedang mekar menyerap kasih sayang.
+   - **Metode:** Membuat anak kagum kepada orang tua dan mengalirkannya menjadi kekaguman kepada Allah.
+   - **Aktivitas:** Bermain ceria.
+   - **Batas Toleransi:** **Toleransi 100% (Penuh Pemaafan)**. Tidak ada celaan, interogasi, apalagi hukuman.
+
+2. **Usia 7–10 Tahun (Tamyiz) — Pondasi Roja' (Harapan & Pengajaran):**  
+   - Rasulullah ﷺ bersabda: *"Perintahkan shalat di usia 7 tahun."* Memerintah di sini bermakna **mengajak dan mengedukasi**. Mengajar adalah manifestasi *Roja'* (mengharapkan kebaikan dari yang diajarkan).
+   - **Namun ada jeda 3 tahun (usia 7 hingga 10 tahun) di mana Nabi ﷺ MELARANG memukul/menghukum!** Ini menunjukkan anak sedang berada di fase belajar (*ta'allum*), belum dituntut kesempurnaan hasil amal.
+   - **Kaidah:** Jika shalat fardhu yang merupakan rukun Islam tertinggi saja anak TIDAK BOLEH DIHUKUM saat usia 7–10 tahun, maka terlebih lagi untuk perkara duniawi atau akademis di bawah shalat!
+   - **Aktivitas:** *Trial and Error* di lingkungan yang aman, diberitahu kesalahannya tanpa mempermalukan.
+
+3. **Usia 10–15 Tahun (Murahaqah) — Pondasi Khauf (Ketegasan & Disiplin):**  
+   - Rasulullah ﷺ memerintahkan memukul di usia 10 tahun jika meninggalkan shalat. Mengapa dipukul? Karena usia 10 adalah **deadline / persiapan batas akhir** sebelum datangnya baligh biologis.
+   - Pasca-baligh, hisab amal beralih menjadi tanggung jawab personal di hadapan Allah (*taklif fardi*). Pendidik tidak lagi memikul dosanya.
+   - **Aktivitas:** Beramal nyata dan mengerjakan proyek kemandirian berbasis bakat. Kesalahan pada kewajiban fardhu tidak lagi ditoleransi.
+
+| Fase | Usia | Kondisi Fitrah | Pondasi Pedagogis | Aktivitas Utama | Perlakuan Saat Salah | Output Karakter |
+|---|:---:|---|---|---|---|---|
+| **Thufulah** | 0–7 Th | Hati mekar, nalar & jasad awal | **Hubb (Cinta)** | Bermain & Keteladanan Mengagumkan | Ditoleransi penuh, dimaafkan | Suka → Tangki Cinta Penuh → **Karakter Iman** |
+| **Tamyiz** | 7–10 Th | Nalar melompat pesat | **Roja' (Harapan)** | Pengajaran, Eksplorasi, *Trial & Error* | Diberitahu kesalahannya, tanpa hukuman | Bisa → Suka Belajar → **Karakter Belajar** |
+| **Murahaqah** | 10–Baligh | Jasad & syahwat mekar | **Khauf (Ketegasan)** | Amal Nyata, Khidmah, Proyek Mandiri | Ditegakkan sanksi tegas (HR. Abu Dawud 495) | Berguna → Bakat Teruji → **Karakter Bakat** |
+
+### 2.3 Bobot Bahasa & Toleransi Kesalahan per Fase
+
+| Fase Perkembangan | Usia Kunci | Bobot Bahasa Utama | Toleransi Kesalahan |
+|---|:---:|---|---|
+| **Thufulah** | 0–7 Tahun | **[[Bahasa Hati]]** (Rasa, Pelukan, Kehangatan) | **Boleh Salah** (Toleransi Luas) |
+| **Tamyiz** | 7–10 Tahun | **[[Bahasa Lisan]]** (Dialog Nalar, Sebab-Akibat) | **Transisi Latihan** (Ditegur Lembut) |
+| **Murahaqah** | 10–Baligh | **[[Bahasa Tangan]]** (Aksi Tegas & Konsekuensi Nyata) | **Harus Benar** (Nol Toleransi Syariat) |
 
 ---
 
 ## 3. Personal — Gaya Belajar & Fitrah Bakat
 
-### 3.1 Gaya Belajar per Jiwa
+### 3.1 Gaya Belajar per Kecenderungan Jiwa
 
-| Jiwa | Gaya Belajar | Cara Belajar | Ide Teknik |
-|------|-------------|--------------|-----------|
-| Ammarah | Kinestetik | Praktek / Proyek | Bergerak, Tantangan, Kedisiplinan |
-| Lawwamah | Visual | Menonton / Diskusi | Media, Struktur, Reward |
-| Muthmainnah | Auditori | Bercerita | Intonasi, Kelembutan, Mirroring |
+| Dominasi Jiwa | Gaya Belajar | Cara Belajar Optimal | Ide Teknik Pembelajaran |
+|---|---|---|---|
+| **Ammarah** (Fisik) | Kinestetik / Lapangan | Praktek Langsung & Proyek Nyata | Eksplorasi luar ruang, tantangan fisik, kedisiplinan raga. |
+| **Lawwamah** (Nalar) | Visual / Analitis | Diskusi, Diagram, Studi Kasus | Media visual, struktur sistematis, debat argumentatif. |
+| **Muthmainnah** (Kalbu) | Auditori / Relasional | Kisah Inspiratif & Keteladanan | Intonasi hangat, kelembutan tutur kata, *mirroring* empati. |
 
-### 3.2 Fitrah Bakat & Fitnah (Bahaya)
+### 3.2 Tiga Rukun Bakat Nabawiyah Terintegrasi Fase Usia
 
-| Jiwa | Ego | Introvert | Ekstrovert | Fitnah |
-|------|-----|-----------|------------|--------|
-| Ammarah | Tinggi | Bekerja keras | Memerintah | Syahwat Tahta |
-| Lawwamah | Sedang | Berpikir | Bekerjasama | Syubhat Harta |
-| Muthmainnah | Rendah | Berperasaan | Melayani | Syahwat Pasangan |
+Dalam rekaman kajian PKN (*Recording 14*), bakat sejati diukur melalui tiga rukun yang tumbuh bertahap mengikuti etape usia:
+
+```
+USIA 0–7 TH (Thufulah)   ──────►  RUKUN 1: SUKA (Al-Hirsh)
+                                 Aktivitas digemari alami tanpa paksaan
+
+USIA 7–10 TH (Tamyiz)    ──────►  RUKUN 2: BISA (Al-Itqan)
+                                 Pertemuan Suka + Bisa = CIKAL BAKAL BAKAT
+
+USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Ummah)
+                                 BAKAT UTUH = Suka + Bisa + Bermanfaat Nyata!
+```
+
+1. **Rukun 1: Suka (*Al-Hirsh*) — Terlihat di Masa Thufulah (0–7 Th):**  
+   Anak gemar mengulang aktivitas tersebut secara sukarela dengan mata berbinar tanpa bosan.
+2. **Rukun 2: Bisa (*Al-Itqan*) — Terlatih di Masa Tamyiz (7–10 Th):**  
+   Anak menunjukkan kemudahan (*taisir*) menguasai keterampilan tersebut lebih cepat dan presisi dibanding anak lain.
+3. **Rukun 3: Berguna (*Al-Naf' lil Ummah*) — Diuji di Masa Murahaqah & Syabab (10+ Th):**  
+   Keahlian tersebut membuahkan manfaat nyata bagi umat manusia, meringankan beban sesama, dan bernilai jariyah di akhirat.
+
+### 3.3 Fitrah Bakat & Bahaya Fitnah (Penyimpangan)
+
+| Jiwa | Tingkat Ego | Dominasi Bakat | Peran Sosial Optimal | Bahaya Fitnah Jika Tanpa Iman |
+|---|:---:|---|---|---|
+| **Ammarah** | Tinggi | Pekerja Keras / Lapangan | Pemimpin, Eksekutor, Panglima | Syahwat Tahta & Kezaliman Otoriter |
+| **Lawwamah** | Sedang | Pemikir / Analitis | Arsitek, Peneliti, Perancang Sistem | Syubhat Harta & Keraguan Intelektual |
+| **Muthmainnah**| Rendah | Berperasaan / Empatis | Pendidik, Konselor, Pelayan Umat | Syahwat Pasangan & Kerapuhan Mental |
 
 ---
 
