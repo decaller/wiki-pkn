@@ -66,5 +66,5 @@ graph LR
 ### Panduan Aksi Pengguna:
 * Ingin membaca ringkasan jawaban cepat atas masalah pengasuhan nyata? Buka [[FAQ Ringkas]].
 * Ingin mengetahui cara mendiagnosis penyimpangan anak? Buka bab Tafrith vs Ifrath di setiap berkas bakat.
-* Ingin melihat dalil shahih pendukung setiap materi? Telusuri [QURAN_DALIL_CATALOG.md](file:///home/abuhafi/Project/wiki-pkn/QURAN_DALIL_CATALOG.md) dan [DALIL_MAPPING.md](file:///home/abuhafi/Project/wiki-pkn/DALIL_MAPPING.md).
+* Ingin melihat dalil shahih pendukung setiap materi? Telusuri [[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]] dan [[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]].
 * Ingin mengkaji rekaman audio-visual penjelas? Buka [[Referensi Kajian Video]].

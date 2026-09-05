@@ -63,7 +63,7 @@ Membahas kaidah praktis eksekusi di lingkungan keluarga dan sekolah:
 
 ## 3. Langkah Lanjutan
 
-Silakan buka masing-masing pilar di atas untuk menelaah naskah lengkapnya, atau rujuk [QURAN_DALIL_CATALOG.md](file:///home/abuhafi/Project/wiki-pkn/QURAN_DALIL_CATALOG.md) untuk mempelajari ratusan dalil Al-Qur'an yang mendasari setiap bab ini.
+Silakan buka masing-masing pilar di atas untuk menelaah naskah lengkapnya, atau rujuk [[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]] untuk mempelajari ratusan dalil Al-Qur'an yang mendasari setiap bab ini.
 ---
 
 ## 4. Matriks Komprehensif Arsitektur Karakter dan Potensi Insan
@@ -86,4 +86,4 @@ Pendidikan Karakter Nabawiyah bukanlah kumpulan teori yang terfragmentasi, melai
 3. **Fase Penajaman Bakat & Penegakan Disiplin (10–15 Tahun):** Bakat unik anak mulai dipetakan ke dalam 40 pilar [[Bakat]] menggunakan instrumen Rukun 3A (*Suka, Bisa, Bermanfaat*). Anak dimagangkan pada proyek nyata dan didisiplinkan dengan [[Bahasa Tangan]] di fase [[Murahaqah]].
 4. **Fase Kemitraan & Karya Mandiri (15+ Tahun):** Pemuda memasuki fase [[Syabab]] sebagai mukallaf sejati yang akil-baligh: siap memikul beban hukum syariat, mandiri secara ekonomi, dan aktif berkontribusi bagi kemaslahatan umat.
 
-Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen-dokumen terkait di bilah navigasi kiri atau telusuri [Master Katalog Dalil Al-Qur'an](file:///home/abuhafi/Project/wiki-pkn/QURAN_DALIL_CATALOG.md).
+Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen-dokumen terkait di bilah navigasi kiri atau telusuri [[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]].

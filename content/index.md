@@ -156,8 +156,8 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 ## 4. Master Rujukan Dalil & Video Database
 
 Wiki PKN terintegrasi penuh dengan dua basis data ilmiah pelengkap:
-* 📖 **[Master Katalog Dalil Al-Qur'an](file:///home/abuhafi/Project/wiki-pkn/QURAN_DALIL_CATALOG.md):** Memuat lebih dari 110 ayat Al-Qur'an berharakat lengkap, terjemahan resmi, takhrij surah/ayat, serta syarah klasik dari **Tafsir Ibnu Katsir** melalui korpus **OpenBayan**.
-* 📜 **[Master Katalog Dalil Hadits & Sunnah](file:///home/abuhafi/Project/wiki-pkn/DALIL_MAPPING.md):** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
+* 📖 **[[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]]:** Memuat lebih dari 110 ayat Al-Qur'an berharakat lengkap, terjemahan resmi, takhrij surah/ayat, serta syarah klasik dari **Tafsir Ibnu Katsir** melalui korpus **OpenBayan**.
+* 📜 **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]:** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
 * 🎥 **[[Referensi Kajian Video]]:** Indeks komprehensif berisi 122 judul rekaman kajian dan 1.159 bab transkrip pembahasan video Ustadz Abdul Kholiq untuk pendalaman materi audio-visual.
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
