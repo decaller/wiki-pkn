@@ -533,6 +533,11 @@
             "title": "Hak dan Kewajiban",
             "icon": "scale",
             "children": []
+          },
+          {
+            "title": "Disiplin Positif PKN",
+            "icon": "shield-check",
+            "children": []
           }
         ]
       },
