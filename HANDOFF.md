@@ -122,6 +122,7 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
 36. **Isolasi 39 PPTX Kanonikal, Sinkronisasi OneDrive via Rclone, & Microsoft Office Web Apps Viewer**: Mengisolasi 39 berkas PPTX terbaru (1,08 GiB) ke `presentations/`, mengunggah ke OneDrive via Rclone, menyematkan penampil interaktif cloud resmi Microsoft Office Web Apps Viewer pada 54 artikel wiki, dan symlink otomatis saat build.
 37. **Konversi 100% Diagram Mermaid ke Obsidian Canvas Resmi (`.canvas`)**: Mengonversi 94 diagram Mermaid di 66 artikel menjadi format standar JSON Canvas 1.0 (`content/canvas/`) dengan penataan layout otomatis DAG, transklusi `![[canvas/...]]`, dan tombol pembuka layar penuh interaktif.
 38. **Deployment Produksi via Portainer MCP Server & Otomasi Stack Git**: Mendepoloy wiki-pkn ke server produksi menggunakan MCP server `portainer` (Stack ID: 25, Endpoint ID: 3) berbasis `docker-compose.yml` langsung dari repositori Git `decaller/wiki-pkn` (branch `main`). Berjalan dengan binding port `4040:8080` dan live di domain `https://wikipkn.insanmustaqbal.or.id`. Dilengkapi integrasi materi audio kajian maqashid syariah dan optimasi tampilan mobile sidebar navigasi `OutlineNav`.
+39. **Integrasi Delapan Buku Rujukan Utama Manhaj PKN & SOTAB HEBAT**: Mengintegrasikan 8 buku karya perumus manhaj Ustadz Abdul Kholiq dan Tim SOTAB HEBAT ke halaman [Referensi Tambahan Buku Cetak.md](content/Referensi/Referensi%20Tambahan%20Buku%20Cetak.md), beranda utama [index.md](content/index.md), hub [Referensi/index.md](content/Referensi/index.md), dan pangkalan sitasi akademik `bibliography.bib` lengkap dengan tautan profil resmi dan sinopsis kurikuler.
 
 ---
 
@@ -507,6 +508,27 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Mengintegrasikan rekonstruksi kurikulum kemandirian dan maqashid syariah ke dalam [Kurikulum Kemandirian Berbasis Maqashid Syariah.md](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Pendidikan%20Ideal/Kurikulum%20Kemandirian%20Berbasis%20Maqashid%20Syariah.md) dengan pengayaan dalil turats OpenBayan & Qaf AI (commit `7bd1899`).
 - **Optimasi Responsivitas Navigasi Mobile `OutlineNav`:**
   - Memperbaiki tata letak dan perilaku interaktif plugin sidebar navigasi kustom `OutlineNav` pada layar sempit/perangkat seluler (commit `c0baba8`).
+
+---
+
+### Milestone 39: Integrasi 8 Buku Rujukan Utama Manhaj PKN & SOTAB HEBAT `[SELESAI]`
+- **Penataan Master Katalog 8 Buku Rujukan Utama (`content/Referensi/Referensi Tambahan Buku Cetak.md`):**
+  - Mentransformasikan halaman referensi buku cetak menjadi ensiklopedia rujukan utama yang membedah 8 buku inti karya Ustadz Abdul Kholiq dan Tim SOTAB HEBAT:
+    1. *Buku Pendidikan Karakter Nabawiyah* (`https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/`) — Pondasi epistemologi insan, ruh-jasad, dan roadmap fitrah.
+    2. *Buku Tafsir Bakat* (`https://karakternabawiyah.com/buku-tafsir-bakat-1/`) — Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan archetype sahabat Nabi ﷺ.
+    3. *Buku Recovery Berbasis Fitrah* (`https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/`) — Terapi psikospiritual, pemulihan luka pengasuhan, dan kaidah bahasa hati.
+    4. *Buku Kurikulum Sekolah Karakter Islam* (`https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/`) — Integrasi kurikulum berbasis peristiwa, RPP 3 pilar, dan proyek adab institusi.
+    5. *Buku Menumbuhkan Kesadaran Beramal* (`https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/`) — Membangun kesadaran nurani, shalat barometer batin, menolak kepatuhan semu.
+    6. *Buku Panduan Implementasi Standar* (`https://karakternabawiyah.com/panduan-implementasi-standar/`) — Tata kelola kelembagaan resmi Standar 11/2024 (Klausul 5 s/d 13).
+    7. *Buku Panduan Kurikulum PAUD/TK Karakter Islam (Edisi Revisi)* (`https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/`) — Kurikulum etape Thufulah 0–7 tahun, tangki cinta batin, dan anti-calistung dini.
+    8. *Buku Bukanlah Sekejap (Edisi Revisi)* (`https://sotabh.com/portfolio/designing-a-mobile-store-application-2/`) — Risalah kesabaran tarbiyah, pentahapan tadarruj, dan konsistensi adab harian.
+  - Mempertahankan dan memadukan khazanah kitab turats ulama salaf (*Tuhfatul Maudud, Ihya 'Ulumiddin, Adab Al-Mu'allimin, Al-Muqaddimah, Al-Muwafaqat, Ashabur Rasul*).
+- **Integrasi ke Beranda Utama (`content/index.md`) & Hub Referensi (`content/Referensi/index.md`):**
+  - Menyematkan sub-bab master rujukan buku resmi tepat di bawah direktori dalil Al-Qur'an dan Hadits pada halaman utama dan direktori referensi.
+- **Pembaruan Basis Data Sitasi Akademik (`bibliography.bib`):**
+  - Mendaftarkan kedelapan buku ke dalam format BibTeX standar dengan metadata lengkap (`title`, `author`, `year`, `publisher`, `url`, `keywords`) sehingga dapat disitasi oleh plugin citations Quartz.
+- **Verifikasi Build:**
+  - `npx quartz build` memproses 121 berkas Markdown dan menerbitkan 1.066 berkas web ke `public/` dengan status 100% sukses bersih.
 
 
 

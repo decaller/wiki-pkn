@@ -177,12 +177,22 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 
 ---
 
-## 4. Master Rujukan Dalil & Video Database
+## 4. Master Rujukan Dalil, Buku Utama & Basis Data Ilmiah
 
-Wiki PKN terintegrasi penuh dengan dua basis data ilmiah pelengkap:
+Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil, dan literatur resmi peradaban:
+* 📚 **[[Referensi Tambahan Buku Cetak|Delapan Buku Rujukan Utama Manhaj PKN & SOTAB]]:** Karya tulis dan modul resmi perumus manhaj, **Ustadz Abdul Kholiq**:
+  - [📖 Buku Pendidikan Karakter Nabawiyah](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/) — *Cetak biru epistemologi insan, ruh-jasad, dan roadmap fitrah.*
+  - [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) — *Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan archetype sahabat.*
+  - [🌱 Buku Recovery Berbasis Fitrah](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/) — *Terapi batin, pemulihan luka pengasuhan, dan hirarki bahasa hati.*
+  - [🏫 Buku Kurikulum Sekolah Karakter Islam](https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/) — *Integrasi kurikulum berbasis peristiwa, RPP 3 pilar, dan proyek adab.*
+  - [🕌 Buku Menumbuhkan Kesadaran Beramal](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/) — *Membangun kesadaran nurani, shalat barometer jiwa, menolak kepatuhan semu.*
+  - [📏 Buku Panduan Implementasi Standar](https://karakternabawiyah.com/panduan-implementasi-standar/) — *Pedoman tata kelola kelembagaan Standar 11/2024 (Klausul 5–13).*
+  - [🧸 Buku Panduan Kurikulum PAUD/TK Karakter Islam (Rev)](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/) — *Kurikulum usia dini 0–7 tahun, tangki cinta, dan anti-calistung dini.*
+  - [⏳ Buku Bukanlah Sekejap (Edisi Revisi)](https://sotabh.com/portfolio/designing-a-mobile-store-application-2/) — *Prinsip kesabaran tarbiyah, pentahapan tadarruj, dan konsistensi adab harian.*
 * 📖 **[[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]]:** Memuat lebih dari 110 ayat Al-Qur'an berharakat lengkap, terjemahan resmi, takhrij surah/ayat, serta syarah klasik dari **Tafsir Ibnu Katsir** melalui korpus **OpenBayan**.
 * 📜 **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]:** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
 * 🎥 **[[Referensi Kajian Video]]:** Indeks komprehensif berisi 122 judul rekaman kajian dan 1.159 bab transkrip pembahasan video Ustadz Abdul Kholiq untuk pendalaman materi audio-visual.
+* 📊 **[[Bahan Tayang & Slide PPTX]]:** Katalog 39 modul presentasi resmi berformat PowerPoint (.pptx) dengan penampil interaktif Microsoft Office Web Viewer.
 * 🌐 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/):** Platform web interaktif untuk mengeksplorasi visualisasi spektrum 40 pilar bakat, sifat manusia, dan kluster peradaban secara komprehensif.
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 

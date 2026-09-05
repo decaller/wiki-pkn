@@ -38,7 +38,7 @@ Berikut adalah kluster referensi yang dapat Anda telaah secara terstruktur:
 | **📽️ Referensi Kajian Video** | Arsip indeks 122 rekaman kajian tematik Ustadz Abdul Kholiq lengkap dengan navigasi timestamp menit pembahasan langsung ke YouTube. | [[Referensi Kajian Video\|Buka Arsip Video]] |
 | **📊 Bahan Tayang & Slide PPTX** | Katalog 39 modul presentasi resmi berformat PowerPoint (.pptx) dengan penampil interaktif Microsoft Office Web Viewer dan link OneDrive. | [[Bahan Tayang & Slide PPTX\|Buka Bahan Tayang]] |
 | **📖 Korpus Dalil & Atsar Klasik** | Indeks 60 kitab turats (Kutubus Sittah, tafsir mu'tabar, kitab tarbiyah ulama klasik) yang diverifikasi melalui korpus OpenBayan. | [[Korpus Dalil & Atsar Klasik\|Buka Korpus Dalil]] |
-| **📕 Referensi Tambahan Buku Cetak** | Daftar pustaka buku fisik, modul cetak, dan literatur pengayaan kurikulum nabawiyah (sedang dalam tahap inventarisasi bertahap). | [[Referensi Tambahan Buku Cetak\|Buka Pustaka Cetak]] |
+| **📕 Referensi Tambahan Buku Cetak** | Katalog 8 buku rujukan utama Manhaj PKN & SOTAB HEBAT karya Ustadz Abdul Kholiq serta khazanah kitab turats klasik pendukung kurikulum. | [[Referensi Tambahan Buku Cetak\|Buka Katalog Buku]] |
 | **🤝 Panduan Kontribusi Komunitas** | Pedoman langkah demi langkah berkontribusi menyunting wiki: kloning repo GitHub, penulisan di Obsidian, standar verifikasi, dan Pull Request. | [[Panduan Kontribusi\|Pelajari Cara Kontribusi]] |
 
 ---
