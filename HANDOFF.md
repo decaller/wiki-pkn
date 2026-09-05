@@ -62,6 +62,20 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
       1. *Dalil Perintah Shalat (HR. Abu Dawud 495, Ahmad 6689, Al-Hakim 1/197)*: Sebagai barometer fitrah dan penahapan usia (*at-tadarruj*) 0–7 tahun ([[Thufulah]] - tangki cinta & teladan), 7–10 tahun ([[Tamyiz]] - 5.000x pembiasaan shalat tanpa kekerasan), dan 10–15 tahun ([[Murahaqah]] - disiplin ketegasan ta'dib & pemisahan tempat tidur menuju [[Syabab]]).
       2. *Dalil Mengubah Kemungkaran dengan Tangan, Lisan, dan Hati (HR. Muslim 49)*: Sebagai fondasi hierarki Tiga Bahasa Pengasuhan ([[Metode Mendidik]]) yang menempatkan [[Bahasa Hati]] sebagai pondasi kelekatan jiwa, [[Bahasa Lisan]] sebagai dialog nalar hikmah (*qaulan sadida*), dan [[Bahasa Tangan]] sebagai otoritas ketegasan protektif ([[Batas Toleransi]] & [[Imunitas Sosial]]).
     - Halaman [content/index.md](file:///home/abuhafi/Project/wiki-pkn/content/index.md) kini memuat **15.560 karakter**, membawa akumulasi total ensiklopedia menjadi **723.095 karakter** di seluruh **67 artikel** (100% kepatuhan standar emas $\ge 5.000$ karakter, 0 defisit).
+24. **Sintesis Executive TL;DR Callout Tahapan Kesadaran (`content/index.md`)**:
+    - Menyempurnakan ringkasan eksekutif beranda dengan menekankan hierarki pembangunan jiwa: *Kesadaran Batin* mendahului *Kepatuhan Lahiriah*.
+    - Memetakan 4 etape sekuensial (Teladan Persepsi Positif → Sinkronisasi Ekspektasi Etape Usia → Fokus Penguatan Bakat / Rukun 3A → Implementasi Gradual Taisir & Tadarruj).
+25. **Migrasi Master Katalog Dalil Al-Qur'an & Hadits ke Halaman Native Quartz (`content/`)**:
+    - Mentransformasikan `QURAN_DALIL_CATALOG.md` menjadi artikel native Quartz [Master Katalog Dalil Al-Qur'an.md](content/Master%20Katalog%20Dalil%20Al-Qur'an.md) (165.253 karakter) lengkap dengan takhrij Tafsir Ibnu Katsir dan navigasi tema.
+    - Mentransformasikan `DALIL_MAPPING.md` menjadi artikel native Quartz [Master Katalog Dalil Hadits dan Sunnah.md](content/Master%20Katalog%20Dalil%20Hadits%20dan%20Sunnah.md) (42.946 karakter) dengan takhrij 60 kitab korpus OpenBayan.
+    - Menjadikan total ensiklopedia memuat **72 berkas artikel** dengan akumulasi **953.300 karakter** berstandar emas 100%.
+26. **Integrasi Ekosistem Web Interaktif TB40 (`pub.insantaqwa.org/bakat`)**:
+    - Mengintegrasikan tautan langsung ke aplikasi web interaktif *Peta Bakat & Sifat Manusia* (`https://pub.insantaqwa.org/bakat/`) pada titik-titik krusial wiki: *Beranda*, *Hub Bakat*, *Panduan Asesmen dan Observasi TB40*, dan *Kuisioner Asesmen 40 Bakat Nabawiyah*.
+    - Memfasilitasi pengguna untuk melakukan asesmen mandiri online, simulasi perankingan 40 pilar, dan melihat peta polarisasi sifat secara dinamis.
+27. **Dukungan Deployment Portainer Stack Git & Parameterisasi Environment (`DOMAIN` & `PORT`)**:
+    - Menyediakan dukungan penuh deployment otomatis menggunakan fitur **Portainer Stack (Repository/Git)**.
+    - Mengonfigurasi variabel lingkungan dinamis: `DOMAIN` (sanitasi otomatis protocol/trailing slash untuk baseUrl, OpenGraph, dan sitemap) serta `PORT` (port HTTP server Quartz).
+    - Membangun `docker-compose.yml`, optimasi `Dockerfile` multi-stage berbasis `node:22-slim` dengan dependensi `git` terpasang di runtime, skrip `docker-entrypoint.sh`, `.dockerignore` untuk eksklusi berkas raksasa (`old_backup/` 2.6GB, `searchable_pdfs/` 925MB), template `.env.example`, serta panduan deployment resmi di [README.md](file:///home/abuhafi/Project/wiki-pkn/README.md).
 
 ---
 
@@ -222,16 +236,79 @@ wiki-pkn/
 
 ---
 
-## 5. Rencana Pengembangan Selanjutnya (Next Steps)
+## 5. Rencana Pengembangan Selanjutnya (Roadmap & Actionable TODOs)
 
-1. **Pengayaan 21 Berkas Ringkas (Kategori 3) & 5 Landing Node (Kategori 1)**:
-   - Manfaatkan skrip `python3 scripts/search_pkn_video.py "<keyword>"` dan arsip artikel di `old_backup/sotabh/`.
-   - Prioritaskan pengayaan 6 sub-bakat (`Bekerja Sama.md`, `Melayani.md`, `Berpikir.md`, `Berperasaan.md`, `Memerintah.md`, `Bekerja Keras.md`) dengan memasukkan matriks pilar TB40.
-   - Perkaya metode 3 bahasa dan kaidah implementasi dengan studi kasus praktis.
-2. **Pembuatan Halaman Profil 40 Pilar**:
-   - Mengembangkan sub-direktori `Pilar Karakter/` di dalam `content/.../Insan/` untuk mendokumentasikan ke-40 pilar secara individual berdasarkan taksonomi TB40.
-3. **Templat Piagam Akil Baligh & Lembar Observasi Bakat**:
-   - Menyediakan berkas instrumen siap unduh/cetak untuk perjanjian kemandirian ananda pasca-baligh dan lembar pengamatan rukun 3A (Suka, Bisa, Berguna).
-4. **Diagram Visual & Infografis**:
-   - Mengintegrasikan visualisasi `tb40.svg` atau diagram Mermaid interaktif ke halaman payung (*Insan*, *Bakat*, *Pendidikan Ideal*).
+### A. Agenda Prioritas Utama (Top Priorities)
+
+#### 📌 TODO 1: Peninjauan Ulang Menyeluruh Seluruh Dokumen di `old_backup/` (Fokus: PDF & PPTX)
+* **Objektif:** Melakukan audit konten dan ekstraksi konsep secara menyeluruh terhadap seluruh berkas presentasi (.pdf dan .pptx) yang tersimpan di `old_backup/` agar tidak ada konsep kunci, bagan alur, tabel instrumen, dan studi kasus orisinal yang tertinggal.
+* **Cakupan Direktori Rujukan Utama:**
+  1. `old_backup/Akademi Guru Batch 3/` (16 berkas):
+     - `1. 40 PILAR KARAKTER diurai dalam KURIKULUM.pdf` & `.pptx` (7.9 MB / 8.8 MB)
+     - `2. BAKAT - TB - 40.pdf` & `.pptx` (11.2 MB / 8.0 MB)
+     - `3. PEMBELAJARAN BERBASIS PROJEK.pdf` & `.pptx` (3.8 MB / 27.7 MB)
+     - `4. METODE PENDIDIKAN KARAKTER NABAWIYAH.pdf` & `.pptx` (10.8 MB / 24.9 MB)
+     - `5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh.pdf` & `.pptx` (6.5 MB / 8.4 MB)
+     - `6. Implementasi Kurikulum PKN Pada Persekolahan.pdf` & `.pptx` (1.9 MB / 501 KB)
+     - `7. Evaluasi Pendidikan Karakter Nabawiyah.pdf` (2.5 MB)
+  2. `old_backup/Akademi Guru Batch 5/` (15 berkas presentasi & modul pendidik):
+     - `1. KONSEP DASAR PENDIDIKAN KARAKTER NABAWIYAH.pptx` (34.0 MB)
+     - `2. KONDISI JIWA (RUMAH & SEKOLAH).pptx` (29.1 MB)
+     - `3. FITRAH BAKAT.pptx` (14.2 MB)
+     - `4. METODE PENDIDIKAN KARAKTER NABAWIYAH.pptx` (24.9 MB)
+     - `5. MENYIBAK PONDASI PENDIDIKAN YANG TAK TERSENTUH.pptx` (27.6 MB)
+     - `6. IMPLEMENTASI KURIKULUM PKN DI PERSEKOLAHAN.pptx` (37.7 MB)
+  3. `old_backup/Temu Lembaga Batch 4/` (23 berkas instrumen & panduan manajerial):
+     - `1. Kebijakan Implementasi PKN.pptx` (2.2 MB)
+     - `2. Tahapan Implementasi PKN.pptx` (12.3 MB)
+     - `3. Format RPP Berbasis PKN.docx` & instrumen observasi guru
+  4. `old_backup/Materi Seminar & Workshop PKN (Kupas Tuntas Tafsir Bakat)/`:
+     - `Seminar 1 - Memahami Kondisi Jiwa Anak.pdf` (119 halaman)
+     - `Seminar 2 - Kupas Tuntas TB40.pdf` (196 halaman)
+  5. Sub-folder tematik: `Observasi Bakat/`, `Parenting/`, `Remaja/`, `Standar Implementasi/`, dan `Tema/`.
+* **Rencana Aksi:**
+  - Telusuri indeks halaman dan materi setiap berkas PDF/PPTX.
+  - Catat celah materi (*content gap*) yang belum terserap ke artikel wiki `content/` dan susun penambahannya secara bertahap.
+
+---
+
+#### 📌 TODO 2: Sitasi Halaman Presentasi PDF & Integrasi Tautan Unduh Dropbox (PDF & PPTX)
+* **Objektif:** Memperkaya naskah wiki dengan kutipan halaman/slide spesifik dari berkas presentasi rujukan, disertai tautan langsung (*direct download link*) dan tautan pratinjau (*view link*) ke repositori resmi Dropbox.
+* **Format Penulisan Sitasi yang Distandarkan:**
+  - Tambahkan callout kutipan rujukan pada sub-bab artikel yang relevan:
+    ```markdown
+    > [!quote] Dokumen Rujukan Resmi PKN
+    > **Materi:** *4. METODE PENDIDIKAN KARAKTER NABAWIYAH* (Slide Hal. 15–22)  
+    > **Unduh Dokumen:** [📥 Unduh PDF (10.8 MB)](https://www.dropbox.com/scl/fi/...dl=1) • [📊 Unduh PPTX Asli (24.9 MB)](https://www.dropbox.com/scl/fi/...dl=1) • [👁️ Pratinjau di Dropbox](https://www.dropbox.com/scl/fi/...dl=0)
+    ```
+* **Katalog Master Sumber Tautan:**
+  - Gunakan basis data tautan yang sudah siap pakai di [dropbox_files.md](file:///home/abuhafi/Project/wiki-pkn/dropbox_files.md) (katalog 254 berkas dengan URL direct download `dl=1` dan browser view `dl=0`) serta [dropbox_links_cache.json](file:///home/abuhafi/Project/wiki-pkn/dropbox_links_cache.json).
+  - Tautkan versi **PDF** (untuk dibaca langsung oleh audiens/orang tua) dan versi **PPTX** (untuk para guru, trainer, dan pimpinan lembaga yang membutuhkan slide presentasi asli).
+
+---
+
+#### 📌 TODO 3: Banner Keterangan Resmi Sumber AI & Kontributor di Bagian Paling Atas Setiap Halaman
+* **Objektif:** Menjaga transparansi intelektual, etika penulisan, dan amanah ilmiah dakwah dengan mencantumkan keterangan metodologis yang seragam di bagian paling atas (tepat setelah judul/frontmatter) pada **seluruh 72 halaman artikel wiki** di `content/`.
+* **Rumusan Redaksional Resmi:**
+  ```markdown
+  > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+  > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+  > 
+  > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+  ```
+* **Rencana Aksi:**
+  - Buat skrip automasi (`scripts/inject_page_disclaimer.py`) untuk menyisipkan callout keterangan ini ke seluruh 72 berkas `.md` di `content/` secara presisi tanpa merusak metadata frontmatter YAML maupun struktur heading `#`.
+  - Pastikan halaman folder index (`*/index.md`) dan halaman reguler memiliki penempatan banner yang rapi, elegan, dan konsisten.
+
+---
+
+### B. Agenda Pengembangan Sekunder (Secondary Roadmap)
+
+1. **Pengembangan Halaman Profil Individual 40 Pilar TB40:**
+   - Membangun direktori khusus untuk ke-40 pilar karakter nabawiyah dengan profil komprehensif: definisi lughawi & syar'i, dalil Al-Qur'an & Hadits, indikator perilaku anak, instrumen observasi orang tua, pemetaan karir peradaban, dan tokoh sahabat teladan (*archetype*).
+2. **Paket Instrumen Siap Cetak (Piagam Akil Baligh & Observasi Lapangan):**
+   - Menyediakan berkas templat cetak A4/PDF siap unduh untuk Piagam Ikrar Akil Baligh, Lembar Observasi Mandiri Harian, dan Rapor Karakter Santri.
+3. **Diagram Visual Interaktif (Mermaid & SVG):**
+   - Memperbanyak visualisasi bagan kausalitas amal, pohon fitrah, dan matriks polarisasi bakat pada artikel-artikel hub level atas (*Insan*, *Pendidikan Ideal*, *Implementasi*).
+
 
