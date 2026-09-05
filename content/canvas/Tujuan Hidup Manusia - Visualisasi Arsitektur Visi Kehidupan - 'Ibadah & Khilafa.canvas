@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "Visi",
+      "type": "group",
+      "label": "ARSITEKTUR TUJUAN EKSISTENSI INSAN",
+      "x": -433,
+      "y": -50,
+      "width": 866,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "Pillar1",
+      "type": "text",
+      "text": "1: Hubungan Vertikal ('Ibadah)\n• Penghambaan Murni Lillahi Ta'ala\n• Ketaatan Syariat Lahir & Batin\n• Meraih Ridha & Jannah Allah",
+      "x": -403,
+      "y": 0,
+      "width": 346,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Pillar2",
+      "type": "text",
+      "text": "2: Hubungan Horizontal (Khilafah)\n• Memakmurkan Bumi (Imaratul Ardh)\n• Menegakkan Keadilan & Kebajikan\n• Memanfaatkan Bakat Demi Maslahat Umat",
+      "x": 12,
+      "y": 0,
+      "width": 391,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Goal",
+      "type": "text",
+      "text": "KEBAHAGIAAN PARIPURNA (AS-SA'ADAH)\nSelamat di Dunia & Mulia di Akhirat",
+      "x": -177,
+      "y": 230,
+      "width": 355,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_3_Pillar2_Goal",
+      "fromNode": "Pillar2",
+      "fromSide": "left",
+      "toNode": "Goal",
+      "toSide": "right"
+    }
+  ]
+}

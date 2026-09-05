@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "TEMA PROYEK NYATA\n(Masalah Lingkungan Santri)",
+      "x": -707,
+      "y": 0,
+      "width": 283,
+      "height": 88,
+      "color": "1"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "PEMETAAN PERAN SESUAI BAKAT TB-40\n(Suka & Bisa)",
+      "x": -354,
+      "y": 0,
+      "width": 337,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "EKSEKUSI PROYEK BERKELOMPOK\n(Asah Ta'awun & 'Aziimah)",
+      "x": 53,
+      "y": 0,
+      "width": 283,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "E",
+      "type": "text",
+      "text": "REFLEKSI & ASESMEN PORTOFOLIO\n(Laporan Naratif)",
+      "x": 406,
+      "y": 0,
+      "width": 301,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "OUTPUT KEBERMANFAATAN RIIL\n(Al-Mufid bagi Umat)",
+      "x": -137,
+      "y": 178,
+      "width": 274,
+      "height": 88,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_4_C_D",
+      "fromNode": "C",
+      "fromSide": "left",
+      "toNode": "D",
+      "toSide": "right"
+    }
+  ]
+}

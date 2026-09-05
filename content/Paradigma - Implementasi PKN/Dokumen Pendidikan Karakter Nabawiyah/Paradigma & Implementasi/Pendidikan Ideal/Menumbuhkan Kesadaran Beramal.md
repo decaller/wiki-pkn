@@ -124,17 +124,7 @@ Fokus pada proses berarti:
 
 Pendidikan karakter nabawiyah dianalogikan secara tepat dengan **dunia agrikultur (pertanian)**, bukan dunia industri manufaktur pabrik:
 
-```mermaid
-flowchart LR
-    subgraph PABRIK["Model Pabrik (Mekanistis)"]
-        direction TB
-        B1["Bahan Baku Mentah"] --> B2["Mesin Cetak Seragam"] --> B3["Produk Jadi Identik"]
-    end
-    subgraph TANI["Model Tani (Organik Nabawiyah)"]
-        direction TB
-        T1["Benih Unik (Fitrah)"] --> T2["Tanah Subur (Qolbu)"] --> T3["Air & Pupuk (Ilmu & Cinta)"] --> T4["Pohon Berbuah Lebat"]
-    end
-```
+![[canvas/Menumbuhkan Kesadaran Beramal - Metafora Pertanian - Mendidik Layaknya Bertani.canvas]]
 
 Al-Qur'an memfirmankan metafora pohon yang baik:
 
@@ -209,26 +199,7 @@ Pendidikan Karakter Nabawiyah merumuskan proporsi komunikasi secara berjenjang m
 
 Tiga modalitas komunikasi ini disesuaikan dengan fase kematangan fitrah:
 
-```mermaid
-flowchart TD
-    subgraph HATI["1: Bahasa Hati (Qolbiyah)"]
-        H1["Keteladanan Nyata (Qudwah)"]
-        H2["Pancaran Kasih Sayang & Penerimaan"]
-        H3["Dominan pada Usia Thufulah (0–7 Thn)"]
-    end
-    subgraph LISAN["2: Bahasa Lisan (Kalamiyah)"]
-        L1["Dialog Logis, Kisah, Diskusi"]
-        L2["Penjelasan Hikmah & Kaidah Hukum"]
-        L3["Dominan pada Usia Tamyiz (7–10 Thn)"]
-    end
-    subgraph TANGAN["3: Bahasa Tangan (Amaliyah / Ketegasan)"]
-        T1["Konsekuensi Logis & Tindakan Disiplin"]
-        T2["Penegakan Batasan & Tanggung Jawab"]
-        T3["Diterapkan pada Usia Murahaqah (10 Thn - Baligh)"]
-    end
-
-    HATI -->|"Fondasi Wajib"| LISAN -->|"Pematangan Nalar"| TANGAN
-```
+![[canvas/Menumbuhkan Kesadaran Beramal - Menghadapi Tanah Keras - Komunikasi 3 Bahasa.canvas]]
 
 > [!CAUTION]
 > **Kesalahan Fatal:** Menggunakan **Bahasa Tangan (bentakan/hukuman fisik)** pada anak usia *Thufulah* (0–7 tahun) akan menghancurkan tangki cinta dan melahirkan jiwa pemberontak atau penakut yang kehilangan fitrah kesadarannya.

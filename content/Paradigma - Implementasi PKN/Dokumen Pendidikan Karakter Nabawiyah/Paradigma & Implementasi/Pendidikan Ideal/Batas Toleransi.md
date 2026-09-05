@@ -52,18 +52,7 @@ Pendidikan modern sering kali terjebak dalam dua ekstrem yang merusak: **Otorita
 
 Pendidikan Karakter Nabawiyah memetakan perilaku anak ke dalam tiga zona yang sangat jelas bagi orang tua maupun anak:
 
-```mermaid
-graph TD
-    subgraph ZONASI_TOLERANSI["TIGA ZONA PERILAKU ANAK"]
-        Z1["🟢 ZONA HIJAU (Eksplorasi Bebas)<br/>Bermain, menyalurkan bakat, mencoba hal baru, berantakan kreatif"]
-        Z2["🟡 ZONA KUNING (Negosiasi & Bimbingan)<br/>Kelelahan, lupa waktu, adab makan, perselisihan saudara"]
-        Z3["🔴 ZONA MERAH (Nol Toleransi / Pagar Hima)<br/>Syirik, penistaan adab, kekerasan fisik, pornografi/aurat"]
-    end
-
-    Z1 --> Tindakan1["Beri Kebebasan Penuh, Tanpa Intervensi Cemas"]
-    Z2 --> Tindakan2["Gunakan [[Bahasa Lisan]]: Dialog Hikmah & Konsekuensi"]
-    Z3 --> Tindakan3["Gunakan [[Bahasa Tangan]]: Tindakan Tegas Seketika Tanpa Kompromi"]
-```
+![[canvas/Batas Toleransi - Tiga Zonasi Perilaku dalam PKN - Hijau, Kuning, dan Merah.canvas]]
 
 ### A. Zona Hijau (Kelonggaran Fitrah Eksplorasi)
 - Meliputi: bermain kotor dengan lumpur, memanjat pohon, membongkar mainan untuk tahu isinya, menggambar sesuka hati, melompat di kasur, memiliki preferensi warna atau pakaian (selama menutup aurat).

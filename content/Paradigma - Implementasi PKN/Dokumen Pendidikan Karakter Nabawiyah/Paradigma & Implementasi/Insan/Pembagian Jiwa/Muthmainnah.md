@@ -47,20 +47,7 @@ Pendidikan Karakter Nabawiyah menegaskan bahwa kepribadian anak yang tangguh, be
 
 Membentuk Nafsul Muthmainnah pada anak bukanlah menunggu hingga mereka tua, melainkan menyemai benih-benihnya sejak usia dini. Tanda-tanda mekarnya jiwa muthmainnah pada generasi muda meliputi:
 
-```mermaid
-graph TD
-    subgraph CIRI_MUTHMAINNAH["PILAR NAFSUL MUTHMAINNAH ANAK"]
-        C1["1: Qalbun Salim<br/>Hati Bersih dari Dendam, Hasad, dan Kesombongan"]
-        C2["2: Muraqabatullah<br/>Merasa Senantiasa Diawasi Allah di Mana Pun Berada"]
-        C3["3: Ikhlas & Ridha<br/>Tidak Haus Pujian Manusia, Tabah Menghadapi Ujian"]
-        C4["4: Tangki Cinta Penuh<br/>Merasa Dicintai Allah & Keluarga, Kebal dari Grooming Sosial"]
-    end
-
-    C1 --> Output["Kepribadian Mukallaf Tangguh & Beradab"]
-    C2 --> Output
-    C3 --> Output
-    C4 --> Output
-```
+![[canvas/Muthmainnah - Karakteristik Nafsul Muthmainnah dalam Diri Anak.canvas]]
 
 1. **Memiliki Ketahanan Moral (*Moral Resilience*):** Anak tidak mudah hanyut oleh arus pergaulan bebas atau tekanan teman sebaya (*peer pressure*), karena identitas batinnya telah kokoh tertambat kepada Allah.
 2. **Ikhlas dalam Berbuat Baik:** Ia menolong sesama bukan demi mendapatkan bintang penghargaan guru atau konten media sosial orang tua, melainkan semata-mata mencari ridha Allah.

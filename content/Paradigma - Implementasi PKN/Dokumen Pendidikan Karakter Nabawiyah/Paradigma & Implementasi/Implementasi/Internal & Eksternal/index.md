@@ -50,22 +50,7 @@ Keberhasilan pembentukan karakter anak adalah hasil harmonisasi antara **Faktor 
 
 ## 1. Peta Sinergi Faktor Internal dan Eksternal
 
-```mermaid
-graph LR
-    subgraph INTERNAL["💎 FAKTOR INTERNAL (JIWA PENDIDIK)"]
-        Tazkiyah["[[Tazkiyatun Nafs]]<br/>• Pembersihan Syirik & Hasad<br/>• Keikhlasan Niat Lillahi Ta'ala<br/>• Ketenangan Batin Orang Tua"]
-        Qudwah["Keteladanan Autentik<br/>• Keselarasan Kata dan Perbuatan<br/>• Qalbun Salim di Dalam Rumah"]
-    end
-
-    subgraph EKSTERNAL["🛡️ FAKTOR EKSTERNAL (IKHTIAR & BENTENG)"]
-        Doa["[[Tawakkal dan Doa]]<br/>• Doa Sepertiga Malam Terakhir<br/>• Penyerahan Hasil Mutlak ke Allah"]
-        Hima["[[Batas Toleransi]]<br/>• Proteksi Gawai & Pornografi<br/>• Aturan Privasi & Aurat Syariat"]
-        Bi'ah["[[Imunitas Sosial]]<br/>• Komunitas & Sahabat Shalih<br/>• Filter Ekosistem Masyarakat"]
-    end
-
-    INTERNAL --> Output["Pembentukan Karakter Mukallaf Akil-Baligh"]
-    EKSTERNAL --> Output
-```
+![[canvas/Internal & Eksternal - Peta Sinergi Faktor Internal dan Eksternal.canvas]]
 
 ---
 

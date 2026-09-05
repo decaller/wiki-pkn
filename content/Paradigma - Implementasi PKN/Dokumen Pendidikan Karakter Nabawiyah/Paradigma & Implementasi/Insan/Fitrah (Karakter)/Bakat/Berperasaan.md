@@ -65,19 +65,7 @@ Anak dengan bakat dominan Berperasaan memiliki ciri:
 
 Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18:
 
-```mermaid
-graph TD
-    BPer["Berperasaan (Asy-Syu'ur)"] --> G1["Sub 7: Apa Adanya"]
-    BPer --> G2["Sub 8: Pendiam & Menjaga Diri"]
-    BPer --> G3["Sub 9: Suka Merendah & Qana'ah"]
-
-    G1 --> P12["#12 Shidq (Jujur Tanpa Rekayasa)"]
-    G2 --> P13["#13 'Iffah (Menjaga Kesucian Diri)"]
-    G2 --> P14["#14 Shamt (Bijak Mengendalikan Lisan)"]
-    G3 --> P15["#15 Hayaa' (Rasa Malu Syar'i)"]
-    G3 --> P16["#16 Qanaa'ah (Merasa Cukup)"]
-    G3 --> P17["#17 Tawaadhu' (Rendah Hati)"]
-```
+![[canvas/Berperasaan - Enam Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #12: Shidq (الصِّدْق - Jujur & Autentik)
 * **Sub-Kelompok:** Suka Apa Adanya (Introvert + Rasa)

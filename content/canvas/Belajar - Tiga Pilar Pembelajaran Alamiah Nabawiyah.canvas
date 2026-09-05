@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "TIGA_PILAR",
+      "type": "group",
+      "label": "TIGA INSTRUMEN FITRAH BELAJAR NABAWI",
+      "x": -730,
+      "y": -50,
+      "width": 1460,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "1: Tadabbur Alam (Observasi Sensori)\nPemanfaatan Pendengaran & Penglihatan Mengeksplorasi Ayat Kauniyah",
+      "x": -700,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "2: Tajribah & Ibtikar (Eksperimen Bebas)\nUji Coba Nyata, Meraba, Membongkar-Pasang, Trial & Error",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "3: Hiwar & Muhawarah (Dialog Sokratik)\nTanya-Jawab Kritis Mengaktifkan Nafsul Lawwamah Menuju Hikmah",
+      "x": 280,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Hasil",
+      "type": "text",
+      "text": "Pecinta Ilmu Seumur Hidup (Thalibul 'Ilmi Hakiki)",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_P1_Hasil",
+      "fromNode": "P1",
+      "fromSide": "right",
+      "toNode": "Hasil",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_P2_Hasil",
+      "fromNode": "P2",
+      "fromSide": "bottom",
+      "toNode": "Hasil",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_P3_Hasil",
+      "fromNode": "P3",
+      "fromSide": "left",
+      "toNode": "Hasil",
+      "toSide": "right"
+    }
+  ]
+}

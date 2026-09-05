@@ -47,18 +47,7 @@ Allah Azza wa Jalla memuliakan entitas jiwa ini secara luar biasa dengan menjadi
 
 Imam Ibnul Qayyim merinci bahwa celaan jiwa (*al-laum*) terbagi ke dalam dua jenis yang sangat menentukan arah kepribadian anak:
 
-```mermaid
-graph TD
-    subgraph LAWWAMAH_DIV["DUA SISI NAFSUL LAWWAMAH"]
-        L["Nafsul Lawwamah (Jiwa Pencela)"]
-    end
-
-    L -->|1: Al-Lawwamah al-Mamduhah (Terpuji)| Positif["Penyesalan Konstruktif<br/>Muhasabah, Evaluasi Diri, Taubat Nasuha, Haus Perbaikan"]
-    L -->|2: Al-Lawwamah al-Madzmumah (Tercela)| Negatif["Penyesalan Toksik & Putus Asa<br/>Mencela diri berlebihan, Insecure, Menyalahkan Takdir, Depresi"]
-
-    Positif -->|Tarbiyah Nabawiyah| Muthmainnah["Meningkat Menuju Nafsul Muthmainnah"]
-    Negatif -->|Luka Pengasuhan| AmmarahLiar["Jatuh Kembali Menuju Ammarah bis-Su'"]
-```
+![[canvas/Lawwamah - Trikotomi Lawwamah Menurut Ulama Klasik.canvas]]
 
 1. **Al-Lawwamah al-Mamduhah (Jiwa Pencela yang Terpuji):**
    - Jiwa yang mencela dirinya tatkala berbuat dosa, lalu segera bertaubat; atau mencela dirinya mengapa ia hanya berbuat sedikit ketaatan, lalu bergegas menambah amal saleh.

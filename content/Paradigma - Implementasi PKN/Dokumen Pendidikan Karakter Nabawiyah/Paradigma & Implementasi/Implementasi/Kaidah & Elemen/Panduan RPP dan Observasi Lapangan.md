@@ -51,26 +51,7 @@ Pendidikan Karakter Nabawiyah (PKN) menolak pemisahan artifisial antara kurikulu
 
 Untuk menjembatani paradigma filosofis dengan realitas ruang kelas dan asrama ma'had, artikel ini menyajikan **cetak biru operasional instrumen pembelajaran dan evaluasi harian** yang siap diaplikasikan oleh para guru, wali asrama, dan pimpinan lembaga.
 
-```mermaid
-flowchart LR
-    subgraph Input["PERENCANAAN"]
-        RPP["RPP Karakter Terpadu<br/>(Aqidah, Fiqh, Adab & Bakat)"] --> PROJ["Form Proyek Pembelajaran<br/>(Prinsip 3A: Suka, Bisa, Berguna)"]
-    end
-
-    subgraph Proses["PELAKSANAAN & OBSERVASI"]
-        PROJ --> OBS1["Observasi Harian 40 Pilar<br/>(Checklist Kekerapan Perilaku)"]
-        PROJ --> OBS2["Observasi Pertumbuhan Karakter<br/>(Instrumen 19 Indikator)"]
-    end
-
-    subgraph Output["EVALUASI & INTERVENSI"]
-        OBS1 & OBS2 --> INDEKS["Penghitungan Indeks Karakter<br/>(Skala 1.00 - 4.00)"]
-        INDEKS --> RAPOR["Rapor Karakter Santri<br/>& Terapi Recovery"]
-    end
-
-    style Input fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style Proses fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff
-    style Output fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#fff
-```
+![[canvas/Panduan RPP dan Observasi Lapangan - 📝 Panduan RPP dan Observasi Lapangan Karakt.canvas]]
 
 ---
 
@@ -143,13 +124,7 @@ III. LANGKAH-LANGKAH KEGIATAN:
 
 Untuk santri fase *Al-Murahaqah* (10–14 tahun) dan *Asy-Syabab* (>14 tahun), pembelajaran diorganisasikan melalui penugasan proyek peradaban. Format perencanaan proyek mencakup:
 
-```mermaid
-graph TD
-    A["TEMA PROYEK NYATA<br/>(Masalah Lingkungan Santri)"] --> B["PEMETAAN PERAN SESUAI BAKAT TB-40<br/>(Suka & Bisa)"]
-    B --> C["EKSEKUSI PROYEK BERKELOMPOK<br/>(Asah Ta'awun & 'Aziimah)"]
-    C --> D["OUTPUT KEBERMANFAATAN RIIL<br/>(Al-Mufid bagi Umat)"]
-    D --> E["REFLEKSI & ASESMEN PORTOFOLIO<br/>(Laporan Naratif)"]
-```
+![[canvas/Panduan RPP dan Observasi Lapangan - Format Perencanaan Proyek Pembelajaran ( -.canvas]]
 
 ### 2.1 Lembar Perencanaan Proyek (Template Standar)
 1. **Nama Proyek:** Judul proyek kemanfaatan (contoh: *"Pengolahan Kompos Organik Dapur Ma'had & Budidaya Sayur Barakah"*).
@@ -243,20 +218,7 @@ $$\text{Indeks Karakter Komposit Santri} = \frac{35 + 27 + 31}{10 + 9 + 9} = \fr
 
 ### 4.3 Matriks Interpretasi dan Intervensi Pedagogis
 
-```mermaid
-graph LR
-    subgraph RentangSkor["RENTANG INDEKS KARAKTER"]
-        K1["1.00 - 1.75<br/>FASE KRITIS"] --> T1["Terapi Recovery Total<br/>(Stop Tuntutan Akademik)"]
-        K2["1.76 - 2.50<br/>FASE PENUMBUHAN AWAL"] --> T2["Bahasa Hati Intensif<br/>(Penuhi Tangki Cinta)"]
-        K3["2.51 - 3.25<br/>FASE PEMANTAPAN"] --> T3["Tantangan Proyek Alamiah<br/>(Kemandirian Terbimbing)"]
-        K4["3.26 - 4.00<br/>FASE MANDIRI / ISTIQAMAH"] --> T4["Akselerasi & Kepemimpinan<br/>(Peran Kontribusi Peradaban)"]
-    end
-
-    style K1 fill:#991b1b,stroke:#f87171,color:#fff
-    style K2 fill:#854d0e,stroke:#facc15,color:#fff
-    style K3 fill:#065f46,stroke:#34d399,color:#fff
-    style K4 fill:#1e3a8a,stroke:#60a5fa,color:#fff
-```
+![[canvas/Panduan RPP dan Observasi Lapangan - Matriks Interpretasi dan Intervensi Pedagog.canvas]]
 
 | Rentang Indeks | Kategori Kematangan | Diagnosis Perkembangan | Tindakan Intervensi Pendidik & Orang Tua |
 |:---:|:---:|---|---|

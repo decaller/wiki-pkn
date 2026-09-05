@@ -1,0 +1,277 @@
+{
+  "nodes": [
+    {
+      "id": "JASAD_PATH",
+      "type": "group",
+      "label": "Jalur Jasad — Hayawaniyah",
+      "x": -305,
+      "y": 120,
+      "width": 455,
+      "height": 840,
+      "color": "5"
+    },
+    {
+      "id": "AKAL_PATH",
+      "type": "group",
+      "label": "Jalur Akal — Lawwamah",
+      "x": -460,
+      "y": -50,
+      "width": 765,
+      "height": 670,
+      "color": "5"
+    },
+    {
+      "id": "RUH_PATH",
+      "type": "group",
+      "label": "Jalur Ruh — Muthmainnah",
+      "x": 5,
+      "y": 120,
+      "width": 455,
+      "height": 840,
+      "color": "5"
+    },
+    {
+      "id": "SF",
+      "type": "text",
+      "text": "Sumber Fitrah",
+      "x": -275,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "BIMBANG",
+      "type": "text",
+      "text": "Kebimbangan",
+      "x": 35,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "LAW",
+      "type": "text",
+      "text": "Lawwamah",
+      "x": -430,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "JASAD",
+      "type": "text",
+      "text": "Jasad",
+      "x": -120,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "RUH",
+      "type": "text",
+      "text": "Ruh",
+      "x": 190,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "BELAJAR",
+      "type": "text",
+      "text": "Belajar",
+      "x": -430,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "HAY",
+      "type": "text",
+      "text": "Hayawaniyah",
+      "x": -120,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "RUBU",
+      "type": "text",
+      "text": "Rububiyyah",
+      "x": 190,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "TAM",
+      "type": "text",
+      "text": "Tamyiz 7-10 tahun",
+      "x": -430,
+      "y": 510,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "AMM",
+      "type": "text",
+      "text": "Ammarah",
+      "x": -120,
+      "y": 510,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "MUT",
+      "type": "text",
+      "text": "Muthmainnah",
+      "x": 190,
+      "y": 510,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "BAKAT",
+      "type": "text",
+      "text": "Bakat",
+      "x": -275,
+      "y": 680,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "IMAN2",
+      "type": "text",
+      "text": "Iman",
+      "x": 35,
+      "y": 680,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "MUR",
+      "type": "text",
+      "text": "Murahaqah 10-Baligh",
+      "x": -275,
+      "y": 850,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "THU",
+      "type": "text",
+      "text": "Thufulah 0-7 Tahun",
+      "x": 35,
+      "y": 850,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_SF_JASAD",
+      "fromNode": "SF",
+      "fromSide": "bottom",
+      "toNode": "JASAD",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_SF_RUH",
+      "fromNode": "SF",
+      "fromSide": "right",
+      "toNode": "RUH",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_JASAD_HAY",
+      "fromNode": "JASAD",
+      "fromSide": "bottom",
+      "toNode": "HAY",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_HAY_AMM",
+      "fromNode": "HAY",
+      "fromSide": "bottom",
+      "toNode": "AMM",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_AMM_BAKAT",
+      "fromNode": "AMM",
+      "fromSide": "bottom",
+      "toNode": "BAKAT",
+      "toSide": "top"
+    },
+    {
+      "id": "e_5_BAKAT_MUR",
+      "fromNode": "BAKAT",
+      "fromSide": "bottom",
+      "toNode": "MUR",
+      "toSide": "top"
+    },
+    {
+      "id": "e_6_BIMBANG_LAW",
+      "fromNode": "BIMBANG",
+      "fromSide": "left",
+      "toNode": "LAW",
+      "toSide": "right"
+    },
+    {
+      "id": "e_7_LAW_BELAJAR",
+      "fromNode": "LAW",
+      "fromSide": "bottom",
+      "toNode": "BELAJAR",
+      "toSide": "top"
+    },
+    {
+      "id": "e_8_BELAJAR_TAM",
+      "fromNode": "BELAJAR",
+      "fromSide": "bottom",
+      "toNode": "TAM",
+      "toSide": "top"
+    },
+    {
+      "id": "e_9_RUH_RUBU",
+      "fromNode": "RUH",
+      "fromSide": "bottom",
+      "toNode": "RUBU",
+      "toSide": "top"
+    },
+    {
+      "id": "e_10_RUBU_MUT",
+      "fromNode": "RUBU",
+      "fromSide": "bottom",
+      "toNode": "MUT",
+      "toSide": "top"
+    },
+    {
+      "id": "e_11_MUT_IMAN2",
+      "fromNode": "MUT",
+      "fromSide": "bottom",
+      "toNode": "IMAN2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_12_IMAN2_THU",
+      "fromNode": "IMAN2",
+      "fromSide": "bottom",
+      "toNode": "THU",
+      "toSide": "top"
+    }
+  ]
+}

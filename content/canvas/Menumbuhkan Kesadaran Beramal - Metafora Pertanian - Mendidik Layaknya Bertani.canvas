@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "PABRIK",
+      "type": "group",
+      "label": "Model Pabrik (Mekanistis)",
+      "x": -13,
+      "y": -345,
+      "width": 937,
+      "height": 415,
+      "color": "5"
+    },
+    {
+      "id": "TANI",
+      "type": "group",
+      "label": "Model Tani (Organik Nabawiyah)",
+      "x": -30,
+      "y": -175,
+      "width": 644,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "B1",
+      "type": "text",
+      "text": "Bahan Baku Mentah",
+      "x": 17,
+      "y": -295,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "Benih Unik (Fitrah)",
+      "x": 17,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "Air & Pupuk (Ilmu & Cinta)",
+      "x": 0,
+      "y": 45,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T4",
+      "type": "text",
+      "text": "Pohon Berbuah Lebat",
+      "x": 17,
+      "y": 215,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "text": "Mesin Cetak Seragam",
+      "x": 344,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "Tanah Subur (Qolbu)",
+      "x": 344,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "text": "Produk Jadi Identik",
+      "x": 654,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_B1_B2",
+      "fromNode": "B1",
+      "fromSide": "right",
+      "toNode": "B2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_B2_B3",
+      "fromNode": "B2",
+      "fromSide": "right",
+      "toNode": "B3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_T1_T2",
+      "fromNode": "T1",
+      "fromSide": "right",
+      "toNode": "T2",
+      "toSide": "left"
+    }
+  ]
+}

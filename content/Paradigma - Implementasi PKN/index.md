@@ -46,18 +46,7 @@ Pendidikan Karakter Nabawiyah lahir dari kegelisahan mendalam atas disorientasi 
 
 PKN merekonstruksi paradigma pendidikan kembali ke jalan kenabian (*manhaj nabawi*) yang bersumber langsung dari wahyu Al-Qur'an dan As-Sunnah:
 
-```mermaid
-graph TD
-    AlQuran["📖 WAHYU ILAHI<br/>Al-Qur'an & As-Sunnah As-Shahihah"] --> PKN["🌟 PENDIDIKAN KARAKTER NABAWIYAH"]
-    
-    PKN --> Branch1["🏛️ PARADIGMA PENDIDIKAN<br/>Hakikat Insan, Fitrah, & Kematangan Akil-Baligh"]
-    PKN --> Branch2["⚙️ IMPLEMENTASI OPERASIONAL<br/>Kaidah, 8 Standar, Peran Segitiga Emas, & RPP"]
-    PKN --> Branch3["📋 STANDAR & TEMPLATE<br/>Instrumen Evaluasi, Lembar Observasi 3A, & Format RPP"]
-    
-    Branch1 --> Goal["🎯 INSAN KAMIL MUKALLAF<br/>'Abdullah yang Taat & Khalifah Pemakmur Bumi"]
-    Branch2 --> Goal
-    Branch3 --> Goal
-```
+![[canvas/Paradigma - Implementasi PKN - Visi Besar Pendidikan Karakter Nabawiyah.canvas]]
 
 ---
 
@@ -108,14 +97,7 @@ Membumikan nilai dan paradigma ke dalam tindakan praktis terukur di lembaga pend
 
 Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan penelusuran berikut:
 
-```mermaid
-flowchart LR
-    Start["Mulai dari Sini"] --> Step1["1: Baca [[Beranda Utama]] & Peta Konsep"]
-    Step1 --> Step2["2: Dalami Hakikat Anak di [[Insan]]"]
-    Step2 --> Step3["3: Pahami Metodologi di [[Pendidikan Ideal]]"]
-    Step3 --> Step4["4: Eksekusi Lapangan via [[Implementasi]]"]
-    Step4 --> Step5["5: Gunakan Format Baku di [[Template]]"]
-```
+![[canvas/Paradigma - Implementasi PKN - Panduan Memulai bagi Pengguna Baru.canvas]]
 
 ---
 

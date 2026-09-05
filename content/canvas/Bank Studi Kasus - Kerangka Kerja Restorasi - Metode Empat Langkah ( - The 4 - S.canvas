@@ -1,0 +1,161 @@
+{
+  "nodes": [
+    {
+      "id": "C",
+      "type": "text",
+      "text": "Langkah 2: Bahasa Hati (Resonansi Kalbu & Empati)",
+      "x": -1500,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A1",
+      "type": "text",
+      "text": "Isi Tangki Cinta: Pelukan, Kebersamaan, Validasi Emosi",
+      "x": -1010,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "E",
+      "type": "text",
+      "text": "Langkah 3: Bahasa Lisan (Dialog Aqil & Pembacaan Bobot Moral)",
+      "x": -520,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Belum",
+      "type": "text",
+      "text": "Defensif / Emosional",
+      "x": -30,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "C1",
+      "type": "text",
+      "text": "Metode 'Turun Gas': Kembali ke Bahasa Hati & Recovery EMISOL",
+      "x": 280,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Ya",
+      "type": "text",
+      "text": "Syarat Ketat Terpenuhi",
+      "x": 770,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G",
+      "type": "text",
+      "text": "Langkah 4: Bahasa Tangan (Ta'dib Edukatif, Batas Hak, Restitusi)",
+      "x": 1080,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A",
+      "type": "text",
+      "text": "Langkah 1: Tangki Cinta (Koneksi Rahmah)",
+      "x": -753,
+      "y": 170,
+      "width": 400,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "Apakah Siap Dialog Reflektif?",
+      "x": -283,
+      "y": 170,
+      "width": 301,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "F",
+      "type": "text",
+      "text": "Apakah Perlu Penegakan Batas Fisik?",
+      "x": 88,
+      "y": 170,
+      "width": 355,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "H",
+      "type": "text",
+      "text": "Restorasi Adab Tuntas",
+      "x": 513,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "Apakah Hati Anak Terbuka?",
+      "x": -132,
+      "y": 340,
+      "width": 265,
+      "height": 80,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A_B",
+      "fromNode": "A",
+      "fromSide": "right",
+      "toNode": "B",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_A1_A",
+      "fromNode": "A1",
+      "fromSide": "right",
+      "toNode": "A",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_C_D",
+      "fromNode": "C",
+      "fromSide": "right",
+      "toNode": "D",
+      "toSide": "left"
+    },
+    {
+      "id": "e_16_E_F",
+      "fromNode": "E",
+      "fromSide": "right",
+      "toNode": "F",
+      "toSide": "left"
+    },
+    {
+      "id": "e_21_G_H",
+      "fromNode": "G",
+      "fromSide": "left",
+      "toNode": "H",
+      "toSide": "right"
+    }
+  ]
+}

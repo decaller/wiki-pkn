@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "Keluarga",
+      "type": "text",
+      "text": "🏠 KELUARGA (PENANGGUNG JAWAB UTAMA - FARDHU 'AIN)\n• [[Peran Ayah dan Bunda]]: Qawwamah & Rahimah\n• [[Tanggung Jawab Pendidikan]]: Perlindungan Api Neraka",
+      "x": -700,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Sekolah",
+      "type": "text",
+      "text": "🏫 SEKOLAH / GURU (MITRA PENOPANG - WARATSATUL ANBIYA')\n• [[Peran Guru dan Lembaga Pendidikan]]: Transfer Adab & Keahlian\n• Fasilitasi 40 Bakat Unik Murid Tanpa Penyeragaman Kaku",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Masyarakat",
+      "type": "text",
+      "text": "🌍 MASYARAKAT / LINGKUNGAN (BENTENG BUDAYA)\n• Kontrol Sosial Amar Ma'ruf Nahi Munkar\n• Penyediaan Ekosistem Shalih Penumbuh [[Imunitas Sosial]]",
+      "x": 280,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

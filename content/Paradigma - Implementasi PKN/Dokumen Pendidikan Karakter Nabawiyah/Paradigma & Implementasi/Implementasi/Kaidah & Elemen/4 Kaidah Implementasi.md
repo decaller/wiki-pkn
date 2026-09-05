@@ -53,14 +53,7 @@ description: "Empat Kaidah Emas PKN: satu anak satu kurikulum, tadarruj bertahap
 
 Pendidikan Karakter Nabawiyah merumuskan **4 Kaidah Emas Operasional** yang wajib dipegang teguh oleh setiap pendidik:
 
-```mermaid
-graph TD
-    K["4 Kaidah Emas Implementasi PKN"]
-    K --> K1["Kaidah 1: Pentahapan Alami (At-Tadarruj)"]
-    K --> K2["Kaidah 2: Koneksi Sebelum Koreksi (Al-Washlu qablal Qath')"]
-    K --> K3["Kaidah 3: Keteladanan Sebelum Tuntutan (Al-Qudwah qablad Da'wah)"]
-    K --> K4["Kaidah 4: Fokus Kekuatan Bakat (Ta'zizul Quwwah)"]
-```
+![[canvas/Kaidah Implementasi - Arsitektur Empat Kaidah Emas PKN.canvas]]
 
 ---
 

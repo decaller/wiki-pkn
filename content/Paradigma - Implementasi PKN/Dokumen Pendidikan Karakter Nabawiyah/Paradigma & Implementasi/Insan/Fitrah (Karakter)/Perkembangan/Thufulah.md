@@ -129,17 +129,7 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 
 ## Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun)
 
-```mermaid
-flowchart TD
-    subgraph Thufulah["ETAPE THUFULAH (0-7 TAHUN)"]
-        A["1: Kebutuhan Mutlak<br/>• Limpahan Kasih Sayang Murni<br/>• Rasa Aman & Kelekatan Fisik<br/>• Bermain Bebas Tanpa Beban"]
-        B["2: Resapan Qudwah (Al-Muhakah)<br/>• Meniru Gerak & Lisan Orang Tua<br/>• Belajar Alami Lewat Indera Sensorik<br/>• Fitrah Tauhid Disiram Keindahan Alam"]
-        C["3: Penjagaan Fitrah<br/>• Nihil Hisab Syariat (La Taklif)<br/>• Bebas Bentakan & Trauma Fisik<br/>• Tangki Cinta Terisi Penuh"]
-    end
-    A --> B
-    B --> C
-    C --> Output["Pondasi Jiwa Kokoh Menuju Tamyiz"]
-```
+![[canvas/Thufulah - Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun).canvas]]
 
 ---
 

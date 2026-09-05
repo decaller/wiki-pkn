@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "KUTUB_RUH",
+      "type": "group",
+      "label": "🌌 KUTUB RUH (LANGIT)",
+      "x": -30,
+      "y": -5,
+      "width": 480,
+      "height": 670,
+      "color": "5"
+    },
+    {
+      "id": "NAFS",
+      "type": "group",
+      "label": "⚡ MEDAN NAFS (JIWA ANAK)",
+      "x": 460,
+      "y": -175,
+      "width": 480,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "KUTUB_JASAD",
+      "type": "group",
+      "label": "🌍 KUTUB JASAD (BUMI)",
+      "x": -30,
+      "y": -685,
+      "width": 480,
+      "height": 670,
+      "color": "5"
+    },
+    {
+      "id": "J1",
+      "type": "text",
+      "text": "Asal: Sari Pati Tanah",
+      "x": 90,
+      "y": -635,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "J2",
+      "type": "text",
+      "text": "Orientasi: Dunia & Sensori",
+      "x": 73,
+      "y": -465,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "J3",
+      "type": "text",
+      "text": "Karakter: Kenyamanan, Makan, Istirahat, Amarah, Hawa Nafsu",
+      "x": 0,
+      "y": -295,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "J4",
+      "type": "text",
+      "text": "Kebutuhan: Nutrisi Halal, Gerak Fisik, Disiplin Tubuh",
+      "x": 0,
+      "y": -125,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R1",
+      "type": "text",
+      "text": "Asal: Tiupan Ilahi",
+      "x": 90,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R2",
+      "type": "text",
+      "text": "Orientasi: Akhirat & Tauhid",
+      "x": 68,
+      "y": 215,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R3",
+      "type": "text",
+      "text": "Karakter: Ketenangan, Keikhlasan, Empati, Iffah",
+      "x": 0,
+      "y": 385,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R4",
+      "type": "text",
+      "text": "Kebutuhan: Zikir, Ilmu Syar'i, Cinta Kasih",
+      "x": 1,
+      "y": 555,
+      "width": 418,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Pertarungan Pilihan Bebas",
+      "x": 567,
+      "y": -125,
+      "width": 265,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Tazkiyah (Penyucian) vs Tadsiyah (Pengotoran)",
+      "x": 490,
+      "y": 45,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_KUTUB_RUH_NAFS",
+      "fromNode": "KUTUB_RUH",
+      "fromSide": "right",
+      "toNode": "NAFS",
+      "toSide": "left",
+      "label": "Menarik ke Atas: Bimbingan Adab"
+    },
+    {
+      "id": "e_1_KUTUB_JASAD_NAFS",
+      "fromNode": "KUTUB_JASAD",
+      "fromSide": "right",
+      "toNode": "NAFS",
+      "toSide": "left",
+      "label": "Menarik ke Bawah: Dorongan Biologis"
+    }
+  ]
+}

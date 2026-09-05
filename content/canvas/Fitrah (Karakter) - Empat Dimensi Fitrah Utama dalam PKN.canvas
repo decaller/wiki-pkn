@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "POHON_FITRAH",
+      "type": "group",
+      "label": "EMPAT DIMENSI FITRAH INSAN",
+      "x": -975,
+      "y": -50,
+      "width": 1950,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "F1",
+      "type": "text",
+      "text": "1: [[Iman|Fitrah Keimanan]]\nKerinduan Tauhid, Pengenalan Khaliq, Rasa Takjub & Tunduk",
+      "x": -945,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "F2",
+      "type": "text",
+      "text": "2: [[Belajar|Fitrah Belajar & Bernalar]]\nRasa Ingin Tahu, Eksperimen (Tajribah), Nalar Kritis & Logika",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "F3",
+      "type": "text",
+      "text": "3: [[Bakat|Fitrah Bakat & Karakteristik]]\n40 Pilar Keunikan Syakilah, Ragam Kecerdasan & Kontribusi Peradaban",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "F4",
+      "type": "text",
+      "text": "4: [[Perkembangan|Fitrah Perkembangan Usia]]\nTahapan Biopsikospiritual: Thufulah, Tamyiz, Murahaqah, Menuju Akil-Baligh",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Pusat",
+      "type": "text",
+      "text": "Keseimbangan Kepribadian Insan Kamil (Akil-Baligh Mukallaf)",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_F1_Pusat",
+      "fromNode": "F1",
+      "fromSide": "right",
+      "toNode": "Pusat",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_F2_Pusat",
+      "fromNode": "F2",
+      "fromSide": "right",
+      "toNode": "Pusat",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_F3_Pusat",
+      "fromNode": "F3",
+      "fromSide": "left",
+      "toNode": "Pusat",
+      "toSide": "right"
+    },
+    {
+      "id": "e_3_F4_Pusat",
+      "fromNode": "F4",
+      "fromSide": "left",
+      "toNode": "Pusat",
+      "toSide": "right"
+    }
+  ]
+}

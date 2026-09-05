@@ -70,26 +70,7 @@ Pendidikan Karakter Nabawiyah (PKN) memandang bahwa setiap anak melewati tahapan
 
 ## 2. Empat Fase Usia Nabawiyah
 
-```mermaid
-timeline
-    title 4 Fase Perkembangan Fitrah Anak
-    0 - 7 Tahun (Thufulah) : Masa Raja (Malik)
-                           : Dimensi Fitrah Iman
-                           : Hak Bermain Bebas & Tuntas Egosentris
-                           : Metode Bahasa Hati Tanpa Syarat
-    7 - 10 Tahun (Tamyiz) : Masa Pembelajar / Teman (Khadim)
-                          : Dimensi Fitrah Belajar
-                          : Trial-Error & Pembiasaan Shalat
-                          : Metode Bahasa Lisan Reflektif
-    10 - 14 Tahun (Murahaqah) : Masa Disiplin & Magang (Aseer)
-                              : Dimensi Fitrah Bakat & Karya
-                              : Pisah Ranjang & Latihan Mandiri
-                              : Metode Bahasa Tangan Bersyarat
-    15+ Tahun (Syabab) : Masa Sahabat / Mitra (Wazeer)
-                       : Status Mukallaf Mandiri
-                       : Tanggung Jawab Syariat & Nafkah Pribadi
-                       : Metode Dialog Kemitraan Dewasa
-```
+![[canvas/Perkembangan - Empat Fase Usia Nabawiyah.canvas]]
 
 | Fase Usia | Rentang Usia | Karakteristik Fitrah | Batas Toleransi | Metode Dominan | Status Hukum Syariat |
 |---|---|---|---|---|---|
@@ -117,13 +98,7 @@ Salah satu pengamatan paling tajam dari **Ustadz Abdul Kholiq** dalam ceramah-ce
 
 Krisis terbesar generasi hari ini adalah: **"Baligh datang semakin cepat, namun Aqil datang semakin lambat."**
 
-```mermaid
-graph TD
-    A["Gizi Modern & Paparan Visual Digital"] -->|Akselerasi Biologis| B["Baligh Dini (Usia 10-12 Tahun)"]
-    C["Manja Finansial & Kungkungan Akademik"] -->|Penundaan Kemandirian| D["Aqil Terlambat (Usia 20+ Masih Kekanak-kanakan)"]
-    B & D --> E["Krisis Aqil-Baligh: 'Raksasa Biologis Berjiwa Balita'"]
-    E --> F["Solusi PKN: Latihan Tanggung Jawab & Magang Nyata sejak Usia 10 Tahun"]
-```
+![[canvas/Perkembangan - Mengatasi Kesenjangan Aqil - Baligh.canvas]]
 
 Jika anak baligh di usia 11 tahun tetapi belum mandiri mengurus diri, belum mengerti hukum syariat mandi wajib, dan masih tergantung penuh uang jajan orang tua, ia berada dalam status bahaya: **sudah memikul dosa syariat sebagai mukallaf, tetapi belum memiliki akal budi yang matang untuk menjaga diri**.
 

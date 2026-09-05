@@ -1,0 +1,135 @@
+{
+  "nodes": [
+    {
+      "id": "Jiwa",
+      "type": "group",
+      "label": "3 TINGKAT JIWA MANUSIA",
+      "x": -393,
+      "y": -50,
+      "width": 592,
+      "height": 524,
+      "color": "5"
+    },
+    {
+      "id": "Shalat",
+      "type": "group",
+      "label": "MANIFESTASI DALAM SHALAT SANTRI",
+      "x": -180,
+      "y": 128,
+      "width": 573,
+      "height": 524,
+      "color": "5"
+    },
+    {
+      "id": "M",
+      "type": "text",
+      "text": "Nafsul Muthma'innah\n(Afeksi: Ikhlas, Ridha & Khusyu')",
+      "x": -168,
+      "y": 0,
+      "width": 337,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L",
+      "type": "text",
+      "text": "Nafsul Lawwamah\n(Kognisi: Paham Makna & Sadar Diri)",
+      "x": -336,
+      "y": 178,
+      "width": 355,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "Hati Tenteram & Khusyu'\n(Shalat Tanpa Disuruh)",
+      "x": 89,
+      "y": 178,
+      "width": 247,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "A",
+      "type": "text",
+      "text": "Nafsul Ammarah\n(Motorik: Reflek Hafalan & Gerak Tubuh)",
+      "x": -363,
+      "y": 356,
+      "width": 391,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "Memahami Bacaan & Gerakan\n(Mengerti Mengapa Shalat)",
+      "x": 98,
+      "y": 356,
+      "width": 265,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "A1",
+      "type": "text",
+      "text": "Sekadar Gugur Kewajiban\n(Cepat, Malas, atau Terpaksa)",
+      "x": -150,
+      "y": 534,
+      "width": 301,
+      "height": 88,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_M_L",
+      "fromNode": "M",
+      "fromSide": "bottom",
+      "toNode": "L",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_L_A",
+      "fromNode": "L",
+      "fromSide": "bottom",
+      "toNode": "A",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_M1_L1",
+      "fromNode": "M1",
+      "fromSide": "bottom",
+      "toNode": "L1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_L1_A1",
+      "fromNode": "L1",
+      "fromSide": "left",
+      "toNode": "A1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_4_M_M1",
+      "fromNode": "M",
+      "fromSide": "right",
+      "toNode": "M1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_L_L1",
+      "fromNode": "L",
+      "fromSide": "right",
+      "toNode": "L1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_A_A1",
+      "fromNode": "A",
+      "fromSide": "bottom",
+      "toNode": "A1",
+      "toSide": "top"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Step1",
+      "type": "text",
+      "text": "1: Menyiapkan Diri dalam Kondisi Rileks & Jujur",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Step2",
+      "type": "text",
+      "text": "2: Membaca 40 Pernyataan Sifat dengan Seksama",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Step3",
+      "type": "text",
+      "text": "3: Menentukan Pilihan: Sangat Gue / Netral / Bukan Gue",
+      "x": -210,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Step4",
+      "type": "text",
+      "text": "4: Pemetaan Warna (Merah: Bakat Kuat, Hitam: Kelemahan Minor)",
+      "x": -210,
+      "y": 340,
+      "width": 420,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Step5",
+      "type": "text",
+      "text": "5: Diskusi Konfirmasi Bersama Mentor / Orang Tua",
+      "x": -210,
+      "y": 510,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "Step6",
+      "type": "text",
+      "text": "6: Penyusunan Rencana Aksi Pengembangan Bakat Dominan",
+      "x": -210,
+      "y": 680,
+      "width": 420,
+      "height": 80,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_Step2_Step3",
+      "fromNode": "Step2",
+      "fromSide": "left",
+      "toNode": "Step3",
+      "toSide": "right"
+    },
+    {
+      "id": "e_3_Step3_Step4",
+      "fromNode": "Step3",
+      "fromSide": "bottom",
+      "toNode": "Step4",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_Step4_Step5",
+      "fromNode": "Step4",
+      "fromSide": "bottom",
+      "toNode": "Step5",
+      "toSide": "top"
+    },
+    {
+      "id": "e_5_Step5_Step6",
+      "fromNode": "Step5",
+      "fromSide": "bottom",
+      "toNode": "Step6",
+      "toSide": "top"
+    }
+  ]
+}

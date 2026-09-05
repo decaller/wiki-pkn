@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "KOMPONEN_IMUNITAS",
+      "type": "group",
+      "label": "EMPAT LAPISAN IMUNITAS SOSIAL ANAK",
+      "x": -975,
+      "y": -50,
+      "width": 1950,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "1: I'tizaz bil Islam (Kebanggaan Identitas)\nBangga Menjadi Muslim, Tidak Rendah Diri di Depan Budaya Asing",
+      "x": -945,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L2",
+      "type": "text",
+      "text": "2: Al-Furqan (Nalar Kritis Menyaring Nilai)\nMampu Membedakan Hak vs Batil, Kritis terhadap Tren Medsos",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L3",
+      "type": "text",
+      "text": "3: Tangki Cinta Penuh di Rumah\nKebutuhan Validasi Terpenuhi, Kebal terhadap Bujuk Rayu Jahil",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L4",
+      "type": "text",
+      "text": "4: Produktivitas Bakat Nyata\nSibuk Menekuni 40 Pilar Bakat, Tidak Ada Waktu untuk Hal Sia-sia",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Kebal",
+      "type": "text",
+      "text": "Antibodi Moral Kebal Fitnah Zaman (Generasi Tahan Uji)",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_L1_Kebal",
+      "fromNode": "L1",
+      "fromSide": "right",
+      "toNode": "Kebal",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_L2_Kebal",
+      "fromNode": "L2",
+      "fromSide": "right",
+      "toNode": "Kebal",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_L3_Kebal",
+      "fromNode": "L3",
+      "fromSide": "left",
+      "toNode": "Kebal",
+      "toSide": "right"
+    },
+    {
+      "id": "e_3_L4_Kebal",
+      "fromNode": "L4",
+      "fromSide": "left",
+      "toNode": "Kebal",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "FASE_1",
+      "type": "group",
+      "label": "0–7 TAHUN (THUFULAH)",
+      "x": 41,
+      "y": -50,
+      "width": 325,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "FASE_2",
+      "type": "group",
+      "label": "7–10 TAHUN (TAMYIZ)",
+      "x": -185,
+      "y": 180,
+      "width": 370,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "FASE_3",
+      "type": "group",
+      "label": "10–BALIGH (MURAHAQAH)",
+      "x": -203,
+      "y": 410,
+      "width": 406,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "Mukallaf",
+      "type": "text",
+      "text": "Insan Kamil Mandiri & Akil-Baligh",
+      "x": -336,
+      "y": 30,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H1",
+      "type": "text",
+      "text": "Hak Disenangkan\nHak Main Bebas\nHak Dicintai Tanpa Syarat\n[[Bahasa Hati]]",
+      "x": 71,
+      "y": 0,
+      "width": 265,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "H2",
+      "type": "text",
+      "text": "Hak Dipahamkan\nHak Eksplorasi Nalar\nHak Mendengar Logika Kebenaran\n[[Bahasa Lisan]]",
+      "x": -155,
+      "y": 230,
+      "width": 310,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "H3",
+      "type": "text",
+      "text": "Hak Dibiasakan & Ditugaskan\nHak Mendapat Ta'dib Tegas Terukur\nHak Memikul Tanggung Jawab Mandiri\n[[Bahasa Tangan]]",
+      "x": -173,
+      "y": 460,
+      "width": 346,
+      "height": 140,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_FASE_1_FASE_2",
+      "fromNode": "FASE_1",
+      "fromSide": "bottom",
+      "toNode": "FASE_2",
+      "toSide": "top",
+      "label": "Transisi Lembut"
+    },
+    {
+      "id": "e_1_FASE_2_FASE_3",
+      "fromNode": "FASE_2",
+      "fromSide": "bottom",
+      "toNode": "FASE_3",
+      "toSide": "top",
+      "label": "Internalisasi Adab"
+    }
+  ]
+}

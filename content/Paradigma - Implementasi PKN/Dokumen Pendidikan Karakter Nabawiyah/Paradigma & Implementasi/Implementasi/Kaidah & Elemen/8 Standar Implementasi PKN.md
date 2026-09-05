@@ -45,29 +45,7 @@ description: "Delapan Standar Mutu PKN 11/2024: pedoman audit kurikulum, pendewa
 
 Penyelenggaraan pendidikan karakter nabawiyah di tingkat institusi menuntut tata kelola yang tertib, terukur, dan akuntabel tanpa mereduksi kelenturan fitrah manusia menjadi sekadar mekanisasi birokrasi. Jika [[4 Kaidah Implementasi]] menetapkan rambu-rambu metodologis universal dan [[4 Elemen Implementasi]] memetakan pilar ekosistemnya, maka **8 Standar Implementasi PKN** menguraikan langkah-langkah prosedural operasional lembaga dari hulu ke hilir.
 
-```mermaid
-flowchart TD
-    subgraph Pondasi["PONDASI MANAJEMEN"]
-        S1["Klausul 5: Konteks Lembaga & Stakeholder"] --> S2["Klausul 6: Kepemimpinan & Komitmen"]
-        S2 --> S3["Klausul 7: Standar Tujuan (QS. 51:56)"]
-    end
-
-    subgraph Operasional["OPERASIONALISASI FITRAH"]
-        S3 --> S4["Klausul 8: Standar Perencanaan (Kurikulum Wajib & Khusus)"]
-        S4 --> S5["Klausul 9: Standar Proses (3 Tahapan Fitrah)"]
-        S5 --> S6["Klausul 10: Standar Pendewasaan (Aqil Baligh)"]
-    end
-
-    subgraph Ekosistem["PENJAMINAN MUTU & EKOSISTEM"]
-        S6 --> S7["Klausul 11: Evaluasi, Audit & Recovery"]
-        S7 --> S8A["Klausul 12: Standar Pendidik"]
-        S7 --> S8B["Klausul 13: Standar Kemitraan Orang Tua"]
-    end
-
-    style Pondasi fill:#1e293b,stroke:#0284c7,stroke-width:2px,color:#fff
-    style Operasional fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
-    style Ekosistem fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff
-```
+![[canvas/Standar Implementasi PKN - 🏛️ 8 Standar Implementasi Pendidikan Karakter Nabawiy.canvas]]
 
 ---
 
@@ -133,14 +111,7 @@ Kebijakan lembaga harus secara eksplisit menyatakan:
 
 Standar ini mengunci arah seluruh program pendidikan agar tidak melenceng dari tujuan penciptaan manusia di muka bumi.
 
-```mermaid
-graph LR
-    A["Tujuan Hakiki Insan<br/>(QS. Adz-Dzariyat: 56)"] --> B["Ubudiyah Khashshah<br/>(Hamba Allah yang Taat)"]
-    A --> C["Khilafah fil Ardh<br/>(Pemakmur Bumi & Peradaban)"]
-    B --> D["Standar Tujuan Baku Lembaga"]
-    C --> D
-    D --> E["Mewujudkan 'Sekolah Mempesona'<br/>(Pondok Manusia)"]
-```
+![[canvas/Standar Implementasi PKN - Klausul 7 - Standar Tujuan Lembaga.canvas]]
 
 ### 7.1 Landasan Filosofis Tujuan Pendidikan (Lampiran C)
 Lembaga merujuk langsung pada firman Allah *Subhanahu wa Ta'ala*:
@@ -284,22 +255,7 @@ Setiap intervensi perbaikan harus berbasis kasih sayang (*Rahmah*), dialog empat
 
 Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pendidik di sekolah dan Orang Tua di rumah.
 
-```mermaid
-graph TD
-    subgraph SegitigaEmas["SEGITIGA EMAS IMPLEMENTASI PKN"]
-        P["PENDIDIK (Klausul 12)<br/>• Pemetaan Bakat Guru<br/>• Self-Recovery Guru<br/>• Penugasan Sesuai Fitrah"] 
-        O["ORANG TUA (Klausul 13)<br/>• Parent Class Wajib<br/>• Home Visit Rutin<br/>• Keselarasan Pola Asuh"]
-        S["SANTRI MEMPESONA<br/>Fitrah Terjaga & Karakter Tumbuh"]
-        
-        P <-->|Sinergi Edukasi| O
-        P -->|Bimbingan Kasih Sayang| S
-        O -->|Pengasuhan Rumah| S
-    end
-
-    style P fill:#0369a1,stroke:#38bdf8,color:#fff
-    style O fill:#047857,stroke:#34d399,color:#fff
-    style S fill:#7c2d12,stroke:#fb923c,color:#fff
-```
+![[canvas/Standar Implementasi PKN - Klausul 12 & 13 - Standar Pendidik dan Kemitraan Oran.canvas]]
 
 ### 12.1 Standar Pendidik (Klausul 12)
 1. **Pemetaan Potensi Guru:** Setiap guru yang bergabung wajib mengikuti asesmen TB-40 untuk mengetahui 5 bakat dominannya.

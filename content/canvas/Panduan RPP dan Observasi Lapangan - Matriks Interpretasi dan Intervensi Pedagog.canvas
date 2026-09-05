@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "RentangSkor",
+      "type": "group",
+      "label": "RENTANG INDEKS KARAKTER",
+      "x": -30,
+      "y": -450,
+      "width": 678,
+      "height": 880,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "1.00 - 1.75\nFASE KRITIS",
+      "x": 26,
+      "y": -400,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "1.76 - 2.50\nFASE PENUMBUHAN AWAL",
+      "x": 26,
+      "y": -222,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "2.51 - 3.25\nFASE PEMANTAPAN",
+      "x": 26,
+      "y": -44,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "3.26 - 4.00\nFASE MANDIRI / ISTIQAMAH",
+      "x": 18,
+      "y": 134,
+      "width": 256,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "T4",
+      "type": "text",
+      "text": "Akselerasi & Kepemimpinan\n(Peran Kontribusi Peradaban)",
+      "x": 0,
+      "y": 312,
+      "width": 292,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "Terapi Recovery Total\n(Stop Tuntutan Akademik)",
+      "x": 362,
+      "y": -222,
+      "width": 256,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "Bahasa Hati Intensif\n(Penuhi Tangki Cinta)",
+      "x": 370,
+      "y": -44,
+      "width": 240,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "Tantangan Proyek Alamiah\n(Kemandirian Terbimbing)",
+      "x": 362,
+      "y": 134,
+      "width": 256,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_K1_T1",
+      "fromNode": "K1",
+      "fromSide": "right",
+      "toNode": "T1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_K2_T2",
+      "fromNode": "K2",
+      "fromSide": "right",
+      "toNode": "T2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_K3_T3",
+      "fromNode": "K3",
+      "fromSide": "right",
+      "toNode": "T3",
+      "toSide": "left"
+    }
+  ]
+}

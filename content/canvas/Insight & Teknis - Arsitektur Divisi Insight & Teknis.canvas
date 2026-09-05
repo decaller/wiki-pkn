@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "IT",
+      "type": "text",
+      "text": "Insight & Teknis PKN",
+      "x": -780,
+      "y": 4,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "INS",
+      "type": "text",
+      "text": "💡 [[Insight]]\n(Wawasan Filosofis & Catatan Kritis)",
+      "x": -470,
+      "y": 0,
+      "width": 364,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "TEK",
+      "type": "text",
+      "text": "🛠️ [[Arahan Teknis Implementasi]]\n(SOP Operasional & Panduan Harian)",
+      "x": -36,
+      "y": 0,
+      "width": 346,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "VID",
+      "type": "text",
+      "text": "🎥 [[Referensi Kajian Video]]\n(122 Judul & 1.159 Bab Kajian Transkrip)",
+      "x": 380,
+      "y": 0,
+      "width": 400,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "SOT",
+      "type": "text",
+      "text": "🏫 [[SOTABH]]\n(Sekolah Orang Tua Berbasis Hadits)",
+      "x": -177,
+      "y": 178,
+      "width": 355,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Harmon",
+      "type": "text",
+      "text": "Penyelarasan Mindset Pendidik",
+      "x": -150,
+      "y": 356,
+      "width": 301,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_6_IT_SOT",
+      "fromNode": "IT",
+      "fromSide": "right",
+      "toNode": "SOT",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_INS_Harmon",
+      "fromNode": "INS",
+      "fromSide": "bottom",
+      "toNode": "Harmon",
+      "toSide": "top"
+    },
+    {
+      "id": "e_10_TEK_Harmon",
+      "fromNode": "TEK",
+      "fromSide": "bottom",
+      "toNode": "Harmon",
+      "toSide": "top"
+    },
+    {
+      "id": "e_11_SOT_Harmon",
+      "fromNode": "SOT",
+      "fromSide": "bottom",
+      "toNode": "Harmon",
+      "toSide": "top"
+    },
+    {
+      "id": "e_12_VID_Harmon",
+      "fromNode": "VID",
+      "fromSide": "left",
+      "toNode": "Harmon",
+      "toSide": "right"
+    }
+  ]
+}

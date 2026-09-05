@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "TAKHALLI",
+      "type": "group",
+      "label": "1: TAKHALLI (Pembersihan / Detoksifikasi)",
+      "x": 29,
+      "y": -260,
+      "width": 361,
+      "height": 670,
+      "color": "5"
+    },
+    {
+      "id": "TAHALLI",
+      "type": "group",
+      "label": "2: TAHALLI (Penghiasan / Nutrisi Ruh)",
+      "x": 460,
+      "y": -345,
+      "width": 406,
+      "height": 670,
+      "color": "5"
+    },
+    {
+      "id": "Pancaran",
+      "type": "text",
+      "text": "Pancaran Wibawa Nabawiyah (Koneksi Batin Pendidik & Anak)",
+      "x": 0,
+      "y": -380,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "Mengikis Riya' & Sum'ah",
+      "x": 86,
+      "y": -210,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "Membuang Amarah & Dendam",
+      "x": 82,
+      "y": -40,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "Menghilangkan Kibir (Sombong)",
+      "x": 59,
+      "y": 130,
+      "width": 301,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T4",
+      "type": "text",
+      "text": "Menghindari Rezeki Syubhat",
+      "x": 73,
+      "y": 300,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H1",
+      "type": "text",
+      "text": "Menghias dengan Ikhlas Lillah",
+      "x": 512,
+      "y": -295,
+      "width": 301,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "H2",
+      "type": "text",
+      "text": "Menghias dengan Kelembutan (Rifq)",
+      "x": 494,
+      "y": -125,
+      "width": 337,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "H3",
+      "type": "text",
+      "text": "Menghias dengan Tawadhu' & Sabar",
+      "x": 499,
+      "y": 45,
+      "width": 328,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "H4",
+      "type": "text",
+      "text": "Menghias dengan Qiyamul Lail & Doa",
+      "x": 490,
+      "y": 215,
+      "width": 346,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_TAKHALLI_TAHALLI",
+      "fromNode": "TAKHALLI",
+      "fromSide": "right",
+      "toNode": "TAHALLI",
+      "toSide": "left"
+    }
+  ]
+}

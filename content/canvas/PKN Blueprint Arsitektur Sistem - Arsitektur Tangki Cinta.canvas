@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {
+      "id": "PENDIDIK",
+      "type": "text",
+      "text": "Pendidik (sebelum baligh)",
+      "x": -622,
+      "y": 0,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "ALLAH",
+      "type": "text",
+      "text": "Allah Jalla Jalaluh tidak terbatas (setelah baligh)",
+      "x": -287,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "RECOVERY",
+      "type": "text",
+      "text": "Self Recovery: istirahat, hobi, variasi aktivitas",
+      "x": 202,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "TANK",
+      "type": "text",
+      "text": "Tangki Cinta Pendidik",
+      "x": -120,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "TANK_ANAK",
+      "type": "text",
+      "text": "Tangki Cinta Anak",
+      "x": -120,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_PENDIDIK_TANK",
+      "fromNode": "PENDIDIK",
+      "fromSide": "right",
+      "toNode": "TANK",
+      "toSide": "left",
+      "label": "masuk"
+    },
+    {
+      "id": "e_1_ALLAH_TANK",
+      "fromNode": "ALLAH",
+      "fromSide": "bottom",
+      "toNode": "TANK",
+      "toSide": "top",
+      "label": "masuk"
+    },
+    {
+      "id": "e_2_RECOVERY_TANK",
+      "fromNode": "RECOVERY",
+      "fromSide": "left",
+      "toNode": "TANK",
+      "toSide": "right",
+      "label": "masuk dari bawah"
+    },
+    {
+      "id": "e_3_TANK_TANK_ANAK",
+      "fromNode": "TANK",
+      "fromSide": "bottom",
+      "toNode": "TANK_ANAK",
+      "toSide": "top",
+      "label": "keluar"
+    }
+  ]
+}

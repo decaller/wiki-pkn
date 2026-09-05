@@ -65,21 +65,7 @@ Karakteristik dominan anak berbakat Bekerja Sama:
 
 Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18:
 
-```mermaid
-graph TD
-    BS["Bekerja Sama (At-Ta'amul)"] --> G1["Sub 13: Menggunakan Relasi yang Ada"]
-    BS --> G2["Sub 14: Membuka Relasi Baru"]
-    BS --> G3["Sub 15: Mengeratkan Ikatan Kasih"]
-
-    G1 --> P25["#25 Ta'aawun (Sinergi Beramal)"]
-    G1 --> P26["#26 Ulfah (Persatuan Hati)"]
-    G1 --> P27["#27 'Adaalah (Keadilan Proporsional)"]
-    G1 --> P28["#28 Wafaa' (Menepati Janji)"]
-    G2 --> P29["#29 Muzaah (Canda Mengakrabkan)"]
-    G2 --> P30["#30 Basyaasyah (Wajah Ramah Berseri)"]
-    G3 --> P31["#31 Rifq (Lemah Lembut)"]
-    G3 --> P32["#32 Mahabbah (Cinta Karena Allah)"]
-```
+![[canvas/Bekerja Sama - Delapan Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #25: Ta'aawun (التَّعَاوُن - Sinergi Kolektif)
 * **Sub-Kelompok:** Menggunakan Relasi yang Ada (Ekstrovert + Cipta)

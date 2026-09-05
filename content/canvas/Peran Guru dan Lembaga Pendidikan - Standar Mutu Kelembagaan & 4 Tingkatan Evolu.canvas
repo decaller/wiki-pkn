@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "Tingkat 1: Mindset Pribadi\nPerbaikan Diri Pendidik di Kelas",
+      "x": 46,
+      "y": -222,
+      "width": 328,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "Tingkat 2: Kolaborasi Sejawat\nMeluaskan Pengaruh & Asesmen Bakat",
+      "x": 37,
+      "y": -44,
+      "width": 346,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "T4",
+      "type": "text",
+      "text": "Tingkat 4: Holistik Berkelanjutan\nKurikulum Fardhu 'Ain & Pilihan Bakat Penuh",
+      "x": 0,
+      "y": 134,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "Tingkat 3: Kebijakan Parsial\nPilot Project Asrama/Kesiswaan Tanpa Hukuman",
+      "x": 490,
+      "y": -44,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_T2_T3",
+      "fromNode": "T2",
+      "fromSide": "right",
+      "toNode": "T3",
+      "toSide": "left"
+    }
+  ]
+}

@@ -64,30 +64,7 @@ Pendidikan Karakter Nabawiyah (PKN) meletakkan pemahaman ini sebagai pondasi uta
 
 Persatuan antara ruh dan jasad menciptakan polaritas dinamis di dalam diri setiap anak. Memahami polaritas ini menghindarkan orang tua dari kekeliruan mendiagnosis masalah perilaku:
 
-```mermaid
-graph LR
-    subgraph KUTUB_RUH["🌌 KUTUB RUH (LANGIT)"]
-        R1["Asal: Tiupan Ilahi"]
-        R2["Orientasi: Akhirat & Tauhid"]
-        R3["Karakter: Ketenangan, Keikhlasan, Empati, Iffah"]
-        R4["Kebutuhan: Zikir, Ilmu Syar'i, Cinta Kasih"]
-    end
-
-    subgraph NAFS["⚡ MEDAN NAFS (JIWA ANAK)"]
-        N1["Pertarungan Pilihan Bebas"]
-        N2["Tazkiyah (Penyucian) vs Tadsiyah (Pengotoran)"]
-    end
-
-    subgraph KUTUB_JASAD["🌍 KUTUB JASAD (BUMI)"]
-        J1["Asal: Sari Pati Tanah"]
-        J2["Orientasi: Dunia & Sensori"]
-        J3["Karakter: Kenyamanan, Makan, Istirahat, Amarah, Hawa Nafsu"]
-        J4["Kebutuhan: Nutrisi Halal, Gerak Fisik, Disiplin Tubuh"]
-    end
-
-    KUTUB_RUH -->|Menarik ke Atas: Bimbingan Adab| NAFS
-    KUTUB_JASAD -->|Menarik ke Bawah: Dorongan Biologis| NAFS
-```
+![[canvas/Bersatunya Ruh dan Jasad Membentuk Jiwa - Analisis Dua Kutub Eksistensial Manusi.canvas]]
 
 ### A. Karakteristik Tarikan Jasad (*Al-Jadzbul Ardhi*)
 - Berasal dari tanah, maka watak alaminya berat, lambat, condong ke bawah (*as-sufliyyat*), mencari kenikmatan instan (*syahwatul batn wal farj*), dan menghindari rasa lelah.

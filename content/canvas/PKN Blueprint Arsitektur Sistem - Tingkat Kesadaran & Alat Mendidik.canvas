@@ -1,0 +1,219 @@
+{
+  "nodes": [
+    {
+      "id": "AMM_PATH",
+      "type": "group",
+      "label": "Ammarah — Bawah Sadar (Refleks)",
+      "x": -30,
+      "y": -260,
+      "width": 1230,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "LAW_PATH",
+      "type": "group",
+      "label": "Lawwamah — Sadar (Conscious)",
+      "x": -30,
+      "y": -90,
+      "width": 1230,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "MUT_PATH",
+      "type": "group",
+      "label": "Muthmainnah — Atas Sadar (Rasa)",
+      "x": -30,
+      "y": 80,
+      "width": 1230,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "A1",
+      "type": "text",
+      "text": "Bawah Sadar refleks",
+      "x": 0,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B1",
+      "type": "text",
+      "text": "Sadar conscious",
+      "x": 0,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "C1",
+      "type": "text",
+      "text": "Atas Sadar rasa",
+      "x": 0,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A2",
+      "type": "text",
+      "text": "Memori",
+      "x": 310,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "text": "Nalar",
+      "x": 310,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "C2",
+      "type": "text",
+      "text": "Emosi",
+      "x": 310,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "A3",
+      "type": "text",
+      "text": "Riyadah",
+      "x": 620,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "text": "Mawizah",
+      "x": 620,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "C3",
+      "type": "text",
+      "text": "Qudwah",
+      "x": 620,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "A4",
+      "type": "text",
+      "text": "Beramal",
+      "x": 930,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "text": "Berilmu",
+      "x": 930,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "C4",
+      "type": "text",
+      "text": "Dicintai",
+      "x": 930,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A1_A2",
+      "fromNode": "A1",
+      "fromSide": "right",
+      "toNode": "A2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_A2_A3",
+      "fromNode": "A2",
+      "fromSide": "right",
+      "toNode": "A3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_A3_A4",
+      "fromNode": "A3",
+      "fromSide": "right",
+      "toNode": "A4",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_B1_B2",
+      "fromNode": "B1",
+      "fromSide": "right",
+      "toNode": "B2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_B2_B3",
+      "fromNode": "B2",
+      "fromSide": "right",
+      "toNode": "B3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_B3_B4",
+      "fromNode": "B3",
+      "fromSide": "right",
+      "toNode": "B4",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_C1_C2",
+      "fromNode": "C1",
+      "fromSide": "right",
+      "toNode": "C2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_C2_C3",
+      "fromNode": "C2",
+      "fromSide": "right",
+      "toNode": "C3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_C3_C4",
+      "fromNode": "C3",
+      "fromSide": "right",
+      "toNode": "C4",
+      "toSide": "left"
+    }
+  ]
+}

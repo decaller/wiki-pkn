@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "id": "LANGIT",
+      "type": "group",
+      "label": "🌌 DIMENSI RUH",
+      "x": -30,
+      "y": -5,
+      "width": 300,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "MEDAN_NAFS",
+      "type": "group",
+      "label": "⚡ MEDAN PERTARUNGAN JIWA (AN-NAFS)",
+      "x": 280,
+      "y": -183,
+      "width": 687,
+      "height": 346,
+      "color": "5"
+    },
+    {
+      "id": "BUMI",
+      "type": "group",
+      "label": "🌍 DIMENSI JASAD",
+      "x": -30,
+      "y": -515,
+      "width": 300,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "J1",
+      "type": "text",
+      "text": "Sensori & Motorik",
+      "x": 0,
+      "y": -465,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "J2",
+      "type": "text",
+      "text": "Kebutuhan Biologis",
+      "x": 0,
+      "y": -295,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "J3",
+      "type": "text",
+      "text": "Ketahanan Fisik",
+      "x": 0,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R1",
+      "type": "text",
+      "text": "Nurani Ilahi",
+      "x": 0,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "R2",
+      "type": "text",
+      "text": "Fitrah Tauhid",
+      "x": 0,
+      "y": 215,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "R3",
+      "type": "text",
+      "text": "Transendensi Nilai",
+      "x": 0,
+      "y": 385,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Nafsul Lawwamah\n(Nalar Kritis & Muhasabah)",
+      "x": 310,
+      "y": -133,
+      "width": 274,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "N3",
+      "type": "text",
+      "text": "Nafsul Ammarah\n(Impuls Syahwat Kebumian)",
+      "x": 314,
+      "y": 45,
+      "width": 265,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Nafsul Muthmainnah\n(Ketenangan Tauhid & Ridha)",
+      "x": 654,
+      "y": -44,
+      "width": 283,
+      "height": 88,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_N3_N2",
+      "fromNode": "N3",
+      "fromSide": "top",
+      "toNode": "N2",
+      "toSide": "bottom",
+      "label": "Tazkiyah & Adab"
+    },
+    {
+      "id": "e_1_N2_N1",
+      "fromNode": "N2",
+      "fromSide": "right",
+      "toNode": "N1",
+      "toSide": "left",
+      "label": "Pematangan Iman & Bakat"
+    },
+    {
+      "id": "e_2_LANGIT_MEDAN_NAFS",
+      "fromNode": "LANGIT",
+      "fromSide": "right",
+      "toNode": "MEDAN_NAFS",
+      "toSide": "left",
+      "label": "Bimbingan Hidayah"
+    },
+    {
+      "id": "e_3_BUMI_MEDAN_NAFS",
+      "fromNode": "BUMI",
+      "fromSide": "right",
+      "toNode": "MEDAN_NAFS",
+      "toSide": "left",
+      "label": "Tuntutan Kebutuhan"
+    }
+  ]
+}

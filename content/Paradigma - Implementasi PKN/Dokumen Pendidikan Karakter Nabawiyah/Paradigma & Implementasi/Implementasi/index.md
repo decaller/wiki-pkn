@@ -56,19 +56,7 @@ Implementasi PKN berdiri kokoh di atas tiga pilar penyangga utama: **Kaidah & El
 
 Implementasi kurikulum PKN memadukan tiga komponen strategis yang saling mengunci:
 
-```mermaid
-graph TD
-    subgraph ARSITEKTUR_IMPLEMENTASI["SEGITIGA EMAS IMPLEMENTASI PKN"]
-        Kaidah["1: [[Kaidah & Elemen]]<br/>4 Kaidah Emas (Taisir, Qudwah, Rahmah, Tadarruj)<br/>4 Elemen Operasional (Ghayah, Manhaj, Uslub, Taqyim)"]
-        Internal["2: [[Internal & Eksternal]]<br/>Pilar Internal: [[Tazkiyatun Nafs]] & [[Tawakkal dan Doa]]<br/>Pilar Eksternal: [[Imunitas Sosial]] & [[Batas Toleransi]]"]
-        Peran["3: [[Peran & Tanggung Jawab]]<br/>Segitiga Sinergi:<br/>Ayah (Qawwamah) • Bunda (Rahimah) • Guru (Waratsatul Anbiya')"]
-    end
-
-    Kaidah <--> Internal
-    Internal <--> Peran
-    Peran <--> Kaidah
-    ARSITEKTUR_IMPLEMENTASI --> Output["Generasi Khairu Ummah: Akil-Baligh Mukallaf"]
-```
+![[canvas/Implementasi - Arsitektur Segitiga Implementasi PKN.canvas]]
 
 ---
 

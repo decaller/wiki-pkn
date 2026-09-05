@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {
+      "id": "DUA_HIDAYAH",
+      "type": "group",
+      "label": "HAKIKAT HIDAYAH DALAM PENDIDIKAN",
+      "x": -212,
+      "y": -50,
+      "width": 822,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "Tawakkal",
+      "type": "text",
+      "text": "Tawakkal Total & Doa Tanpa Putus",
+      "x": -580,
+      "y": 4,
+      "width": 328,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H1",
+      "type": "text",
+      "text": "1: Hidayatul Irsyad wal Bayan\n(Petunjuk Penjelasan & Bimbingan)",
+      "x": -182,
+      "y": 0,
+      "width": 337,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "H2",
+      "type": "text",
+      "text": "2: Hidayatut Taufiq wal Ilham\n(Ketetapan Hati Menerima Kebenaran)",
+      "x": 225,
+      "y": 0,
+      "width": 355,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Ikhtiar",
+      "type": "text",
+      "text": "Mendidik, Meneladankan, Memfasilitasi Adab",
+      "x": -209,
+      "y": 178,
+      "width": 418,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Hasil Akhir: Berserah Diri pada Takdir Allah",
+      "x": -210,
+      "y": 348,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_H1_Ikhtiar",
+      "fromNode": "H1",
+      "fromSide": "bottom",
+      "toNode": "Ikhtiar",
+      "toSide": "top",
+      "label": "Tugas & Wilayah Ikhtiar Orang Tua"
+    },
+    {
+      "id": "e_3_Ikhtiar_Output",
+      "fromNode": "Ikhtiar",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_Tawakkal_Output",
+      "fromNode": "Tawakkal",
+      "fromSide": "right",
+      "toNode": "Output",
+      "toSide": "left"
+    }
+  ]
+}

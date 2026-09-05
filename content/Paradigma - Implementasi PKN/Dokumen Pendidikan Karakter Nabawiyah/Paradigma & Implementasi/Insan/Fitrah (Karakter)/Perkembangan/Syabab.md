@@ -98,13 +98,7 @@ Dalam *Majmu' Al-Fatawa* (Juz 15 Hal. 328):
 
 Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesiapan Mukallaf**:
 
-```mermaid
-graph TD
-    SY["Pemuda Mukallaf Mandiri (Syabab)"]
-    SY --> P1["1: Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
-    SY --> P2["2: Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
-    SY --> P3["3: Kesiapan Ba'ah Pernikahan: Siap Menjadi Qowwamah Keluarga"]
-```
+![[canvas/Syabab - Tiga Pilar Kemandirian Pemuda Mukallaf PKN.canvas]]
 
 1. **Kesiapan Ruhiyah (Ibadah Tanpa Paksaan):**
    * Shalat malam (*qiyamullail*), tilawah harian, shaum sunnah, dan menundukkan pandangan (*ghaddhul bashar*) menjadi kebutuhan batinnya sendiri.
@@ -126,19 +120,7 @@ graph TD
 
 Dokumen resmi *Panduan Implementasi Standar PKN* menetapkan prosedur penjaminan mutu pendewasaan bagi santri yang telah menginjak usia baligh. Tujuan utamanya adalah memastikan santri tidak sekadar bertambah umur biologisnya, melainkan matang status mukallafnya (*Baligh sekaligus 'Aqil*):
 
-```mermaid
-graph TD
-    subgraph STANDAR_PENDEWASAAN["6 PILAR STANDAR PENDEWASAAN SANTRI (KLAUSUL 10)"]
-        K1["10.1 Pembinaan Kepemudaan & Kerumahtanggaan<br/>(Fiqh Munakahat & Qawwamah)"]
-        K2["10.2 Pembelajaran Berbasis Proyek<br/>(Solusi Masalah Nyata Umat)"]
-        K3["10.3 Pengelolaan Sarpras oleh Santri<br/>(Ownership & Kemandirian)"]
-        K4["10.4 Pemandirian Finansial Putra<br/>(Menabung & Usaha Mandiri)"]
-        K5["10.5 Pemandirian Domestik Putri<br/>(Rabbatul Bait & Gizi Sehat)"]
-        K6["10.6 Program Magang Nyata<br/>(Apprenticeship di Bawah Praktisi)"]
-    end
-
-    STANDAR_PENDEWASAAN --> Output["Generasi Syabab Tangguh: Mandiri, Bertauhid, dan Siap Berkeluarga"]
-```
+![[canvas/Syabab - Standar Pendewasaan Kelembagaan (Klausul 10 Standar PKN 11 - 2024).canvas]]
 
 ### 1. Pembinaan Kepemudaan dan Kerumahtanggaan (Klausul 10.1)
 Santri mukallaf dibekali kurikulum kerumahtanggaan syar'i yang mencakup:
@@ -177,13 +159,7 @@ Santri tidak hanya belajar teori di dalam kelas ma'had, melainkan diterjunkan ma
 
 Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesiapan Mukallaf**:
 
-```mermaid
-graph TD
-    SY["Pemuda Mukallaf Mandiri (Syabab)"]
-    SY --> P1["1: Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah"]
-    SY --> P2["2: Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri"]
-    SY --> P3["3: Kesiapan Ba'ah Pernikahan: Siap Menjadi Qawwamah Keluarga"]
-```
+![[canvas/Syabab - Tiga Pilar Kesiapan Mukallaf Mandiri.canvas]]
 
 1. **Kesiapan Ruhiyah (Ibadah Tanpa Paksaan):**
    - Shalat malam (*qiyamullail*), tilawah harian, shaum sunnah, dan menundukkan pandangan (*ghaddhul bashar*) menjadi kebutuhan batinnya sendiri.

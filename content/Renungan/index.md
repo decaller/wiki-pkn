@@ -70,24 +70,7 @@ Salah satu jebakan terbesar dalam pengasuhan kontemporer adalah ketidakseimbanga
 
 Dalam kerangka Pendidikan Karakter Nabawiyah, hak anak bergeser dan bertransformasi seiring perkembangan usianya:
 
-```mermaid
-graph TD
-    subgraph FASE_1["0–7 TAHUN (THUFULAH)"]
-        H1["Hak Disenangkan<br/>Hak Main Bebas<br/>Hak Dicintai Tanpa Syarat<br/>[[Bahasa Hati]]"]
-    end
-
-    subgraph FASE_2["7–10 TAHUN (TAMYIZ)"]
-        H2["Hak Dipahamkan<br/>Hak Eksplorasi Nalar<br/>Hak Mendengar Logika Kebenaran<br/>[[Bahasa Lisan]]"]
-    end
-
-    subgraph FASE_3["10–BALIGH (MURAHAQAH)"]
-        H3["Hak Dibiasakan & Ditugaskan<br/>Hak Mendapat Ta'dib Tegas Terukur<br/>Hak Memikul Tanggung Jawab Mandiri<br/>[[Bahasa Tangan]]"]
-    end
-
-    FASE_1 -->|Transisi Lembut| FASE_2
-    FASE_2 -->|Internalisasi Adab| FASE_3
-    FASE_3 -->|Kematangan Mukallaf| Mukallaf["Insan Kamil Mandiri & Akil-Baligh"]
-```
+![[canvas/Renungan - Keseimbangan Hak dan Kewajiban Anak.canvas]]
 
 Jika anak pada usia di bawah 7 tahun dirampas hak bermain dan hak dicintainya—misalnya dipaksa mengikuti les akademis yang menjemukan atau dituntut patuh tanpa kehangatan—maka jiwanya akan mengalami kekeringan batin. Kekeringan inilah yang menjadi bibit munculnya [[Luka dan Hutang Pengasuhan]], yang kelak meledak menjadi pemberontakan di usia remaja.
 

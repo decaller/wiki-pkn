@@ -52,18 +52,7 @@ Bagian **Insight & Teknis** merupakan jembatan emas yang menghubungkan antara wa
 
 Divisi ini memuat catatan refleksi, hasil kajian video, serta instrumen terapan yang dirancang untuk memperkaya keterampilan pengasuhan ayah, bunda, dan para guru:
 
-```mermaid
-graph TD
-    IT["Insight & Teknis PKN"] --> INS["💡 [[Insight]]<br/>(Wawasan Filosofis & Catatan Kritis)"]
-    IT --> TEK["🛠️ [[Arahan Teknis Implementasi]]<br/>(SOP Operasional & Panduan Harian)"]
-    IT --> SOT["🏫 [[SOTABH]]<br/>(Sekolah Orang Tua Berbasis Hadits)"]
-    IT --> VID["🎥 [[Referensi Kajian Video]]<br/>(122 Judul & 1.159 Bab Kajian Transkrip)"]
-
-    INS --> Harmon["Penyelarasan Mindset Pendidik"]
-    TEK --> Harmon
-    SOT --> Harmon
-    VID --> Harmon
-```
+![[canvas/Insight & Teknis - Arsitektur Divisi Insight & Teknis.canvas]]
 
 ---
 

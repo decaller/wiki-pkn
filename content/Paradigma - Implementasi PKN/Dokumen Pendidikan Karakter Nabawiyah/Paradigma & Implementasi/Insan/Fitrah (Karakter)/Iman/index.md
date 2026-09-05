@@ -47,20 +47,7 @@ Oleh karena itu, iman bukanlah benda asing yang harus diimpor atau dipaksakan da
 
 Krisis moral generasi muda hari ini acapkali bukan karena kurangnya sekolah Islam atau minimnya target hafalan surat, melainkan karena **pembalikan metodologi nabawiyah**: mengajarkan teks Al-Qur'an dan hukum halal-haram sebelum kalbu anak merasakan manisnya iman.
 
-```mermaid
-graph TD
-    subgraph METODE_KELIRU["⚠️ PENDEKATAN TERBALIK (MODERN MEKANIS)"]
-        K1["Target Hafalan & Teori Fikih Sejak Balita"] --> K2["Anak Hafal Lafadz tapi Kering Rasa & Adab"]
-        K2 --> K3["Tekanan & Ancaman Dosa Berlebihan"]
-        K3 --> K4["Resistensi Spiritual Pasca-Baligh (Atheism/Apatis)"]
-    end
-
-    subgraph METODE_NABAWI["✅ KAIDAH EMAS NABAWIYAH (PKN)"]
-        N1["Belajar Iman: Kenalkan Cinta Allah & Tadabbur Alam"] --> N2["Tangki Cinta Penuh & Hubungan Hati Kokoh"]
-        N2 --> N3["Belajar Al-Qur'an: Ayat Mengobarkan Rindu Amal"]
-        N3 --> N4["Kematangan Akil-Baligh: Mukallaf yang Beradab & Tangguh"]
-    end
-```
+![[canvas/Iman - Patologi Pendidikan Agama Kontemporer - Membalik Kaidah Emas.canvas]]
 
 Jika anak diajarkan Al-Qur'an sebelum iman tertanam:
 1. Anak menghafal ayat-ayat tentang neraka, namun hatinya tidak mengenal betapa luasnya rahmat Allah, sehingga ia tumbuh menjadi pribadi yang cemas, kaku, atau justru skeptis.

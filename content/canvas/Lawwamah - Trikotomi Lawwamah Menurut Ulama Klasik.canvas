@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "id": "LAWWAMAH_DIV",
+      "type": "group",
+      "label": "DUA SISI NAFSUL LAWWAMAH",
+      "x": 370,
+      "y": -46,
+      "width": 370,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "al-Mamduhah",
+      "type": "text",
+      "text": "Terpuji",
+      "x": -710,
+      "y": 4,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "al-Madzmumah",
+      "type": "text",
+      "text": "Tercela",
+      "x": -400,
+      "y": 4,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Negatif",
+      "type": "text",
+      "text": "Penyesalan Toksik & Putus Asa\nMencela diri berlebihan, Insecure, Menyalahkan Takdir, Depresi",
+      "x": -90,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L",
+      "type": "text",
+      "text": "Nafsul Lawwamah (Jiwa Pencela)",
+      "x": 400,
+      "y": 4,
+      "width": 310,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Positif",
+      "type": "text",
+      "text": "Penyesalan Konstruktif\nMuhasabah, Evaluasi Diri, Taubat Nasuha, Haus Perbaikan",
+      "x": -427,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "AmmarahLiar",
+      "type": "text",
+      "text": "Jatuh Kembali Menuju Ammarah bis-Su'",
+      "x": 63,
+      "y": 182,
+      "width": 364,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Muthmainnah",
+      "type": "text",
+      "text": "Meningkat Menuju Nafsul Muthmainnah",
+      "x": -177,
+      "y": 356,
+      "width": 355,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_L_Positif",
+      "fromNode": "L",
+      "fromSide": "left",
+      "toNode": "Positif",
+      "toSide": "right",
+      "label": "1: Al-Lawwamah al-Mamduhah (Terpuji)"
+    },
+    {
+      "id": "e_3_Positif_Muthmainnah",
+      "fromNode": "Positif",
+      "fromSide": "right",
+      "toNode": "Muthmainnah",
+      "toSide": "left",
+      "label": "Tarbiyah Nabawiyah"
+    },
+    {
+      "id": "e_4_Negatif_AmmarahLiar",
+      "fromNode": "Negatif",
+      "fromSide": "bottom",
+      "toNode": "AmmarahLiar",
+      "toSide": "top",
+      "label": "Luka Pengasuhan"
+    }
+  ]
+}

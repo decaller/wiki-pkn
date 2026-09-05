@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "Murahaqah",
+      "type": "group",
+      "label": "ETAPE MURAHAQAH (10-15 TAHUN)",
+      "x": -221,
+      "y": -50,
+      "width": 442,
+      "height": 680,
+      "color": "5"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "1: Badai Pubertas & Gejolak Syahwat\n• Perubahan Hormon & Fisik Drastis\n• Godaan Emosi & Pengaruh Teman\n• Pemisahan Ranjang (Tafriqul Madhaji)",
+      "x": -191,
+      "y": 0,
+      "width": 382,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "M2",
+      "type": "text",
+      "text": "2: Penegakan Batas Syariat (Hudud)\n• Ketegasan Pendidik Penuh Adab\n• Konsekuensi Logis Terukur\n• Perlindungan Muru'ah & Kehormatan",
+      "x": -177,
+      "y": 230,
+      "width": 355,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "M3",
+      "type": "text",
+      "text": "3: Pemagangan Peran Nyata\n• Penugasan Proyek Kemandirian\n• Pengasahan Bakat Spesifik\n• Tanggung Jawab Sosial & Finansial",
+      "x": -177,
+      "y": 460,
+      "width": 355,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Insan Mukallaf Siap Berdikari (Syabab)",
+      "x": -191,
+      "y": 690,
+      "width": 382,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_M1_M2",
+      "fromNode": "M1",
+      "fromSide": "bottom",
+      "toNode": "M2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_M2_M3",
+      "fromNode": "M2",
+      "fromSide": "bottom",
+      "toNode": "M3",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_M3_Output",
+      "fromNode": "M3",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    }
+  ]
+}

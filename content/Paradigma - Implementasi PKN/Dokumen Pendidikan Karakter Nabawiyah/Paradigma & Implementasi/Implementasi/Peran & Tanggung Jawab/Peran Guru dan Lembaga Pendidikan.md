@@ -95,13 +95,7 @@ Dalam kitab *Akhlaqul Ulama* (Hal. 45):
 
 ## 4. Tiga Peran Pokok Guru dalam Ekosistem PKN
 
-```mermaid
-graph LR
-    G["Peran Luhur Guru PKN"]
-    G --> G1["1: Mu'addib (Penanam Adab Sebelum Ilmu)"]
-    G --> G2["2: Rawi Fitrah (Fasilitator Penemu Bakat 3A)"]
-    G --> G3["3: Qudwah Hayyah (Model Keteladanan Nyata)"]
-```
+![[canvas/Peran Guru dan Lembaga Pendidikan - Tiga Peran Pokok Guru dalam Ekosistem PKN.canvas]]
 
 1. **Sebagai Mu'addib (Penanam Adab Sebelum Ilmu):**
    * Memastikan murid menghormati ilmu, menghargai buku, menyayangi kawan, dan berbakti kepada orang tua sebelum mengajarkan rumus-rumus sains dan matematika.
@@ -119,20 +113,7 @@ graph LR
 
 Dalam kajian resmi Akademi Guru PKN Batch 7, **Prof. Dr. Iman Harymawan** (Guru Besar Universitas Airlangga, Peneliti Senior NUS, dan praktisi *homeschooling*) menguraikan konsep **Pendidikan Lestari**:
 
-```mermaid
-graph TD
-    subgraph Krisis["KRISIS SEKOLAH MEKANISTIK"]
-        K1["Tekanan Akademik Semu & Standarisasi Nilai"] --> K2["Emosi Anak Diabaikan & Hubungan Renggang"]
-        K2 --> K3["Darurat Kesehatan Mental & Krisis Eksistensial Remaja"]
-    end
-
-    subgraph Lestari["PARADIGMA PENDIDIKAN LESTARI"]
-        L1["Menjaga Ekosistem Fitrah Insan"] --> L2["Belajar Melibatkan Emosi Positif & Cinta"]
-        L2 --> L3["Sinergi Hakiki: Pendidik - Orang Tua - Santri"]
-    end
-
-    Krisis -.->|Transformasi Fitrah| Lestari
-```
+![[canvas/Peran Guru dan Lembaga Pendidikan - Paradigma Pendidikan Lestari ( - Sustainable.canvas]]
 
 ### A. Kritik atas Darurat Kesehatan Mental Remaja
 Data empiris menunjukkan lonjakan drastis kasus depresi dan krisis kesehatan mental pada kalangan remaja di Indonesia. Salah satu akar masalah utamanya adalah **miskonsepsi persekolahan modern**:
@@ -167,12 +148,7 @@ Dokumen *Standar Implementasi PKN 11/2024* menetapkan bahwa guru adalah instrume
 
 Berdasarkan dokumen master *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* (Abdul Kholiq & Bayu Issetyadi), transformasi sekolah konvensional menuju madrasah nabawiyah dilakukan melalui **Empat Tingkatan Adopsi**:
 
-```mermaid
-graph LR
-    T1["Tingkat 1: Mindset Pribadi<br/>Perbaikan Diri Pendidik di Kelas"] --> T2["Tingkat 2: Kolaborasi Sejawat<br/>Meluaskan Pengaruh & Asesmen Bakat"]
-    T2 --> T3["Tingkat 3: Kebijakan Parsial<br/>Pilot Project Asrama/Kesiswaan Tanpa Hukuman"]
-    T3 --> T4["Tingkat 4: Holistik Berkelanjutan<br/>Kurikulum Fardhu 'Ain & Pilihan Bakat Penuh"]
-```
+![[canvas/Peran Guru dan Lembaga Pendidikan - Standar Mutu Kelembagaan & 4 Tingkatan Evolu.canvas]]
 
 1. **Tingkat 1 (Menata Ulang Mindset Diri Sendiri):** Guru memulai dari perbaikan cara pandang terhadap fitrah anak. Menerapkan 5 Bahasa Cinta di jam pelajarannya sendiri tanpa menunggu persetujuan birokrasi yayasan.
 2. **Tingkat 2 (Meluaskan Pengaruh tanpa Merubah Sistem):** Berbagi wawasan santai dengan rekan guru sejawat, mulai mengobservasi fadhilah dan 40 pilar [[Bakat]] siswa, serta menyisipkan rencana pembelajaran alamiah yang kontekstual.

@@ -51,23 +51,7 @@ title: "Peran Ayah dan Bunda"
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), keluarga diposisikan sebagai **laboratorium peradaban terkecil**. Allah menciptakan laki-laki dan perempuan dengan fitrah jasmani dan rohani yang berbeda bukan untuk saling mendominasi, melainkan untuk membentuk **sinergi komplementer** yang sempurna:
 
-```mermaid
-graph LR
-    subgraph "Kutub Maskulin (Ayah)"
-        A1["Arsitek Visi & Arah Hidup"]
-        A2["Penanam Akidah & Keberanian (Syajaa'ah)"]
-        A3["Penegak Batas Hukum & Wibawa (Waqaar)"]
-    end
-
-    subgraph "Kutub Feminin (Bunda)"
-        B1["Madrasah Pertama & Rahim Kasih Sayang"]
-        B2["Pengasah Empati & Kepekaan Nurani"]
-        B3["Pembiasaan Adab & Kehangatan Rumah"]
-    end
-
-    A1 & A2 & A3 --> K["Jiwa Anak Tangguh, Beradab, dan Seimbang"]
-    B1 & B2 & B3 --> K
-```
+![[canvas/Peran Ayah dan Bunda - Hakikat Sinergi Dua Kutub Pengasuhan.canvas]]
 
 ---
 

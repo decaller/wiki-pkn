@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "1: Empati (Edukasi Rasa)",
+      "x": -345,
+      "y": 0,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "3: Solusi (Edukasi Aksi & Restitusi)",
+      "x": -19,
+      "y": 0,
+      "width": 364,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "2: Imajinasi (Edukasi Visi)",
+      "x": -296,
+      "y": 170,
+      "width": 283,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "Fitrah Pulih Sempurna",
+      "x": 56,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A_B",
+      "fromNode": "A",
+      "fromSide": "bottom",
+      "toNode": "B",
+      "toSide": "top",
+      "label": "Hati Tenang & Percaya Kembali"
+    },
+    {
+      "id": "e_3_C_D",
+      "fromNode": "C",
+      "fromSide": "bottom",
+      "toNode": "D",
+      "toSide": "top",
+      "label": "Kemandirian Mukallaf Tercapai"
+    }
+  ]
+}

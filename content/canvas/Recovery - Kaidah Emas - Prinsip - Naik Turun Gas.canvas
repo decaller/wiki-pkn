@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "Hati",
+      "type": "text",
+      "text": "Bahasa Hati (Pelukan & Empati)",
+      "x": 0,
+      "y": -40,
+      "width": 310,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Naik",
+      "type": "text",
+      "text": "NAIKKAN GAS PERLAHAN!",
+      "x": 380,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "Lisan",
+      "type": "text",
+      "text": "Bahasa Lisan (Dialog & Arahan)",
+      "x": 690,
+      "y": -40,
+      "width": 310,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "Turun",
+      "type": "text",
+      "text": "TURUNKAN GAS!",
+      "x": 1070,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Lisan_Turun",
+      "fromNode": "Lisan",
+      "fromSide": "right",
+      "toNode": "Turun",
+      "toSide": "left",
+      "label": "Anak Membantah / Defensif"
+    },
+    {
+      "id": "e_1_Turun_Hati",
+      "fromNode": "Turun",
+      "fromSide": "left",
+      "toNode": "Hati",
+      "toSide": "right"
+    },
+    {
+      "id": "e_2_Hati_Naik",
+      "fromNode": "Hati",
+      "fromSide": "right",
+      "toNode": "Naik",
+      "toSide": "left",
+      "label": "Hati Meleleh & Suasana Hangat"
+    },
+    {
+      "id": "e_3_Naik_Lisan",
+      "fromNode": "Naik",
+      "fromSide": "right",
+      "toNode": "Lisan",
+      "toSide": "left"
+    }
+  ]
+}

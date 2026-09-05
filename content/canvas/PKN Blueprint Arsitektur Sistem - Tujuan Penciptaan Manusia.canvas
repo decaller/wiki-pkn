@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "id": "SHOLIH_BLOCK",
+      "type": "group",
+      "label": "Sholih — Hasil Karakter",
+      "x": -92,
+      "y": 120,
+      "width": 926,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "MUSLIH_BLOCK",
+      "type": "group",
+      "label": "Muslih — Peran Sosial",
+      "x": -834,
+      "y": 120,
+      "width": 1046,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "TPC",
+      "type": "text",
+      "text": "Tujuan Penciptaan Manusia",
+      "x": -132,
+      "y": 0,
+      "width": 265,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "MUSLIH",
+      "type": "text",
+      "text": "Muslih",
+      "x": -275,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "SHOLIH",
+      "type": "text",
+      "text": "Sholih",
+      "x": 35,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "Imunitas Sosial - 8 lebih dari 88",
+      "x": -804,
+      "y": 340,
+      "width": 337,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "M2",
+      "type": "text",
+      "text": "Peran / Profesi - 8 ke 88",
+      "x": -397,
+      "y": 340,
+      "width": 265,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "S1",
+      "type": "text",
+      "text": "Iman - karakter Iman",
+      "x": -62,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S2",
+      "type": "text",
+      "text": "Ilmu - karakter Belajar",
+      "x": 247,
+      "y": 340,
+      "width": 247,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "S3",
+      "type": "text",
+      "text": "Amal - karakter Bakat",
+      "x": 564,
+      "y": 340,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "STD",
+      "type": "text",
+      "text": "Syariat, Masyarakat Sekitar, Pribadi",
+      "x": -182,
+      "y": 510,
+      "width": 364,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_TPC_SHOLIH",
+      "fromNode": "TPC",
+      "fromSide": "bottom",
+      "toNode": "SHOLIH",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_TPC_MUSLIH",
+      "fromNode": "TPC",
+      "fromSide": "bottom",
+      "toNode": "MUSLIH",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_SHOLIH_S1",
+      "fromNode": "SHOLIH",
+      "fromSide": "bottom",
+      "toNode": "S1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_SHOLIH_S2",
+      "fromNode": "SHOLIH",
+      "fromSide": "right",
+      "toNode": "S2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_SHOLIH_S3",
+      "fromNode": "SHOLIH",
+      "fromSide": "right",
+      "toNode": "S3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_MUSLIH_M1",
+      "fromNode": "MUSLIH",
+      "fromSide": "left",
+      "toNode": "M1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_6_MUSLIH_M2",
+      "fromNode": "MUSLIH",
+      "fromSide": "bottom",
+      "toNode": "M2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_7_M1_STD",
+      "fromNode": "M1",
+      "fromSide": "right",
+      "toNode": "STD",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_M2_STD",
+      "fromNode": "M2",
+      "fromSide": "right",
+      "toNode": "STD",
+      "toSide": "left"
+    }
+  ]
+}

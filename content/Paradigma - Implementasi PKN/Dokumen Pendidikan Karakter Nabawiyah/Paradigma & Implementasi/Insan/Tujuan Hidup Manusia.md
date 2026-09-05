@@ -334,13 +334,4 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 
 ## Visualisasi Arsitektur Visi Kehidupan: 'Ibadah & Khilafah
 
-```mermaid
-flowchart TD
-    subgraph Visi["ARSITEKTUR TUJUAN EKSISTENSI INSAN"]
-        Pillar1["1: Hubungan Vertikal ('Ibadah)<br/>• Penghambaan Murni Lillahi Ta'ala<br/>• Ketaatan Syariat Lahir & Batin<br/>• Meraih Ridha & Jannah Allah"]
-        Pillar2["2: Hubungan Horizontal (Khilafah)<br/>• Memakmurkan Bumi (Imaratul Ardh)<br/>• Menegakkan Keadilan & Kebajikan<br/>• Memanfaatkan Bakat Demi Maslahat Umat"]
-    end
-    Pillar1 <--> Pillar2
-    Pillar1 --> Goal["KEBAHAGIAAN PARIPURNA (AS-SA'ADAH)<br/>Selamat di Dunia & Mulia di Akhirat"]
-    Pillar2 --> Goal
-```
+![[canvas/Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa.canvas]]

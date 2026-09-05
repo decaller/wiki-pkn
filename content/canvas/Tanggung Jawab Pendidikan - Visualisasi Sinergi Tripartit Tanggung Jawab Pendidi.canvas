@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "Sinergi",
+      "type": "group",
+      "label": "TRIANGEL SINERGI PENDIDIKAN NABAWIYAH",
+      "x": -583,
+      "y": -50,
+      "width": 1166,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "Ayah",
+      "type": "text",
+      "text": "AYAH (Qawwam & Visioner)\n• Penanggung Jawab Aqidah Utama\n• Pemberi Nafkah Halal\n• Penegak Prinsip & Disiplin",
+      "x": -553,
+      "y": 0,
+      "width": 319,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Bunda",
+      "type": "text",
+      "text": "BUNDA (Madrasatul Ula)\n• Pemuas Tangki Cinta & Kelekatan\n• Pembiasaan Adab Harian\n• Penjaga Kehangatan Rumah",
+      "x": -164,
+      "y": 0,
+      "width": 337,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Guru",
+      "type": "text",
+      "text": "GURU & SEKOLAH (Mitra Murabbi)\n• Transmisi Ilmu Terstruktur\n• Fasilitator Eksplorasi Bakat\n• Penguat Adab Kolektif",
+      "x": 243,
+      "y": 0,
+      "width": 310,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Anak",
+      "type": "text",
+      "text": "ANAK BERFITRAH KOKOH & BERKARYA",
+      "x": -159,
+      "y": 230,
+      "width": 319,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_5_Bunda_Anak",
+      "fromNode": "Bunda",
+      "fromSide": "bottom",
+      "toNode": "Anak",
+      "toSide": "top"
+    },
+    {
+      "id": "e_6_Guru_Anak",
+      "fromNode": "Guru",
+      "fromSide": "left",
+      "toNode": "Anak",
+      "toSide": "right"
+    }
+  ]
+}

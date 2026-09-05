@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "Fondasi",
+      "type": "group",
+      "label": "4 KAIDAH EMAS PKN",
+      "x": -675,
+      "y": -50,
+      "width": 1350,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "Pilar",
+      "type": "group",
+      "label": "4 ELEMEN STRUKTURAL PKN",
+      "x": -791,
+      "y": 120,
+      "width": 1582,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "1: Satu Anak Satu Kurikulum",
+      "x": -645,
+      "y": 0,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "2: Tadarruj (Bertahap Alami)",
+      "x": -292,
+      "y": 0,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "3: Teladan Sebelum Arahan",
+      "x": 70,
+      "y": 0,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "4: Asah Bakat Dominan",
+      "x": 405,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "E1",
+      "type": "text",
+      "text": "Elemen 1: Manusia Beriman (Insan)",
+      "x": -761,
+      "y": 170,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "E2",
+      "type": "text",
+      "text": "Elemen 2: Adab & Akhlak Nabawiyah",
+      "x": -354,
+      "y": 170,
+      "width": 337,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "E3",
+      "type": "text",
+      "text": "Elemen 3: Ilmu & Wawasan Luas",
+      "x": 53,
+      "y": 170,
+      "width": 301,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "E4",
+      "type": "text",
+      "text": "Elemen 4: Amal Shalih & Peradaban",
+      "x": 424,
+      "y": 170,
+      "width": 337,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Buah",
+      "type": "text",
+      "text": "GENERASI KHALIFAH RABBANIYAH",
+      "x": -146,
+      "y": 340,
+      "width": 292,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Fondasi_Pilar",
+      "fromNode": "Fondasi",
+      "fromSide": "bottom",
+      "toNode": "Pilar",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_Pilar_Buah",
+      "fromNode": "Pilar",
+      "fromSide": "bottom",
+      "toNode": "Buah",
+      "toSide": "top"
+    }
+  ]
+}

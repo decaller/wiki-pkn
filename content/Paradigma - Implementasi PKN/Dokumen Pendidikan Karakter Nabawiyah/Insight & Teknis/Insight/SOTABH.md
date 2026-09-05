@@ -58,34 +58,7 @@ SOTABH hadir untuk mendekonstruksi kekeliruan ini: **Pendidikan sejati bukanlah 
 
 Berdasarkan khazanah literatur SOTAB HEBAT, terdapat 6 pilar paradigma mendasar yang membedakan Belajar Hati dengan sekolah konvensional:
 
-```mermaid
-mindmap
-  root((SOTABH: Belajar Hati))
-    Anak Adalah Benih
-      Bukan Bata Cetakan
-      Pertumbuhan Sunnatullah
-      Tugas Merawat Tanah Fitrah
-    Satu Anak Satu Kurikulum
-      Keunikan Rukun 3A
-      Bukan Penjurusan Prematur
-      Menghargai Keberagaman Bakat
-    Koneksi Sebelum Koreksi
-      Bahasa Hati Tanpa Syarat
-      Isi Tangki Cinta
-      Sentuh Pikiran Bawah Sadar
-    Adab Sebelum Ilmu
-      Iman Sebelum Al-Qur'an
-      Cinta Guru Sebelum Materi
-      Penyadaran Nurani
-    Menghapus Noda Hati
-      Deteksi Luka Pengasuhan
-      Protokol 9 Tahap Pemulihan
-      Damai dengan Masa Lalu
-    Kurikulum Berbasis Peristiwa
-      Kuttab di Dalam Rumah
-      Setiap Konflik adalah Entry Point
-      Metode Naik Turun Gas
-```
+![[canvas/SOTABH - Enam Pilar Paradigma Belajar Hati.canvas]]
 
 ### 1. Paradigma Benih vs Paradigma Bata (*Anak Itu Benih, Bukan Bata*)
 Allah Subhanahu wa Ta'ala berfirman tentang Maryam 'alaihassalam:
@@ -115,12 +88,7 @@ Rumah adalah *Kuttab* sejati. Peristiwa tumpahnya susu, pertengkaran saudara, at
 
 Salah satu kontribusi terpenting dari SOTAB HEBAT adalah **Sistematika Pemulihan Luka Batin (*Healing & Recovery*)** yang terbagi ke dalam 9 tahapan terstruktur:
 
-```mermaid
-flowchart LR
-    P1["1: Kenali Penyebab"] --> P2["2: Baca Tanda Perilaku"] --> P3["3: Analisa Akar Masalah"]
-    P3 --> P4["4: Hadirkan Penawar (Empati)"] --> P5["5: Taburkan Obat (Ma'ruf)"] --> P6["6: Balut Luka (Sentuhan)"]
-    P6 --> P7["7: Rawat Kebersamaan"] --> P8["8: Kuatkan Jiwa"] --> P9["9: Pemulihan Tuntas (Restorasi)"]
-```
+![[canvas/SOTABH - Protokol 9 Tahap Menghapus Noda & Luka Hati.canvas]]
 
 | Tahap | Nama Tahapan | Fokus Intervensi Orang Tua |
 |---|---|---|

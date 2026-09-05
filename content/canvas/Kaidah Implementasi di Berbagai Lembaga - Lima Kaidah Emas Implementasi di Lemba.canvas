@@ -1,0 +1,87 @@
+{
+  "nodes": [
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "1: Mulai Dari Pribadi\n(Ibda' Binafsik)",
+      "x": -513,
+      "y": 0,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "3: Mulai Dari yang Mudah & Tidak Ideal\n(Ma La Yudraku Kulluh)",
+      "x": -203,
+      "y": 0,
+      "width": 382,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K5",
+      "type": "text",
+      "text": "5: Sesuaikan Ekspektasi\n(Tadarruj & Sabar Proses)",
+      "x": 248,
+      "y": 0,
+      "width": 265,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "2: Utamakan Hindari Mudhorot\n(Dar'ul Mafasid)",
+      "x": -580,
+      "y": 178,
+      "width": 292,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "4: Pilih Mudhorot yang Terkecil\n(Irtikabu Akhaffidh Dhararain)",
+      "x": -218,
+      "y": 178,
+      "width": 319,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Sukses",
+      "type": "text",
+      "text": "Keberlanjutan Dakwah Pendidikan Nabawiyah",
+      "x": 171,
+      "y": 182,
+      "width": 409,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_K1_K2",
+      "fromNode": "K1",
+      "fromSide": "bottom",
+      "toNode": "K2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_K3_K4",
+      "fromNode": "K3",
+      "fromSide": "bottom",
+      "toNode": "K4",
+      "toSide": "top"
+    },
+    {
+      "id": "e_6_K5_Sukses",
+      "fromNode": "K5",
+      "fromSide": "bottom",
+      "toNode": "Sukses",
+      "toSide": "top"
+    }
+  ]
+}

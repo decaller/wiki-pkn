@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "Tamyiz",
+      "type": "group",
+      "label": "ETAPE TAMYIZ (7-10 TAHUN)",
+      "x": -212,
+      "y": -50,
+      "width": 424,
+      "height": 680,
+      "color": "5"
+    },
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "1: Mekarnya Akal Selektif\n• Mampu Membedakan Baik vs Buruk\n• Memahami Hubungan Sebab-Akibat\n• Mulai Terbuka pada Dialog Nalar",
+      "x": -168,
+      "y": 0,
+      "width": 337,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "2: Laboratorium Pembiasaan Shalat\n• 3 Tahun Penuh (5000+ Waktu Shalat)\n• Dilatih Bersuci & Tertib Ibadah\n• Tanpa Pukulan atau Paksaan Melukai",
+      "x": -182,
+      "y": 230,
+      "width": 364,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "3: Observasi Rukun 3A Bakat\n• Menjelajahi Berbagai Aktivitas\n• Menemukan sukA (Al-Hirsh)\n• Mengasah bisA (Al-Itqan)",
+      "x": -164,
+      "y": 460,
+      "width": 328,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Kesiapan Mental Memasuki Murahaqah",
+      "x": -173,
+      "y": 690,
+      "width": 346,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_T1_T2",
+      "fromNode": "T1",
+      "fromSide": "bottom",
+      "toNode": "T2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_T2_T3",
+      "fromNode": "T2",
+      "fromSide": "bottom",
+      "toNode": "T3",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_T3_Output",
+      "fromNode": "T3",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    }
+  ]
+}

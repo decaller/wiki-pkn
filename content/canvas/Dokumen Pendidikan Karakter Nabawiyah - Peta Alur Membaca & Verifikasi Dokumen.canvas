@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Doc",
+      "type": "text",
+      "text": "Master Dokumen PKN",
+      "x": 26,
+      "y": -129,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P5",
+      "type": "text",
+      "text": "5: Eksekusi Kaidah Lapangan\n(Sinergi Ayah, Bunda & Guru)",
+      "x": 0,
+      "y": 41,
+      "width": 292,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "1: Pelajari Paradigma Insan\n(Kenali Karakteristik Anak)",
+      "x": 362,
+      "y": -44,
+      "width": 283,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "2: Kuasai Metode Mendidik\n(Bahasa Hati, Lisan, Tangan)",
+      "x": 715,
+      "y": -44,
+      "width": 292,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "3: Pantau Fase Perkembangan\n(Thufulah s/d Syabab)",
+      "x": 1077,
+      "y": -44,
+      "width": 283,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "P4",
+      "type": "text",
+      "text": "4: Petakan Bakat Unik TB40\n(Rukun 3A: Suka, Bisa, Berguna)",
+      "x": 1430,
+      "y": -44,
+      "width": 319,
+      "height": 88,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Doc_P1",
+      "fromNode": "Doc",
+      "fromSide": "right",
+      "toNode": "P1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_P1_P2",
+      "fromNode": "P1",
+      "fromSide": "right",
+      "toNode": "P2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_P2_P3",
+      "fromNode": "P2",
+      "fromSide": "right",
+      "toNode": "P3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_P3_P4",
+      "fromNode": "P3",
+      "fromSide": "right",
+      "toNode": "P4",
+      "toSide": "left"
+    }
+  ]
+}

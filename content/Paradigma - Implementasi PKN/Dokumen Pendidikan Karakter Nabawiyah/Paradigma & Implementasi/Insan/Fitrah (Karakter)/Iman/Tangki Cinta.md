@@ -52,21 +52,7 @@ Rasulullah ﷺ adalah figur pendidik agung yang senantiasa memastikan tangki cin
 
 Anak yang dibesarkan dalam keluarga dengan tangki cinta kering kerontang—meskipun berlimpah fasilitas materi—akan mengalami fenomena **Kelaparan Emosional (*Emotional Hunger*)** dan krisis ketiadaan ayah (*Father Hunger*). Kondisi ini melahirkan kerentanan psikososial yang sangat fatal:
 
-```mermaid
-graph TD
-    subgraph KONDISI_TANGKI["DIAGNOSIS STATUS TANGKI CINTA ANAK"]
-        Empty["Tangki Cinta Kering Kerontang<br/>(Ketiadaan Pelukan, Dingin Emosi, Banyak Celaan)"]
-        Full["Tangki Cinta Penuh Meluap<br/>(Diterima Tanpa Syarat, Didengar, Dekat Fisik)"]
-    end
-
-    Empty -->|Mencari Validasi di Luar Rumah| V1["Mudah Terkena Grooming & Pergaulan Bebas"]
-    Empty -->|Kompensasi Candu Digital| V2["Kecanduan Gadget, Pornografi, Game Online"]
-    Empty -->|Pertahanan Ego Rapuh| V3["Jiwa Ammarah Liar, Agresif, atau Depresi Insecure"]
-
-    Full -->|Benteng Imunitas Batin| S1["Percaya Diri, Resilien Menghadapi Bullying"]
-    Full -->|Kepatuhan Berbasis Cinta| S2["Mudah Diarahkan Beradab & Shalat Tanpa Bentakan"]
-    Full -->|Kesiapan Memikul Taklif| S3["Jiwa Muthmainnah Tumbuh Kokoh Menuju Akil-Baligh"]
-```
+![[canvas/Tangki Cinta - Patologi Tangki Cinta Kosong - Pintu Masuk Kehancuran Karakter.canvas]]
 
 Jika tangki cinta anak kosong:
 1. Anak menjadi sasaran empuk predator seksual dan doktrin menyimpang di luar rumah, karena siapa pun orang asing yang memberi sedikit perhatian palsu akan dianggap sebagai pahlawan penyelamat.

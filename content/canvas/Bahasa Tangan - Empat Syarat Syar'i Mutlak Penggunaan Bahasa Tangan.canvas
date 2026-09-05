@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "BT",
+      "type": "text",
+      "text": "Syarat Syar'i Bahasa Tangan",
+      "x": -631,
+      "y": 0,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S1",
+      "type": "text",
+      "text": "1: Usia Minimal 10 Tahun & Didahului 3 Tahun Nasihat",
+      "x": -278,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S3",
+      "type": "text",
+      "text": "3: Pukulan Simbolis (Ghairu Mubarrih) & Haram di Wajah",
+      "x": 211,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S2",
+      "type": "text",
+      "text": "2: Motivasi Rahmah Bukan Luapan Amarah (Ghadhab)",
+      "x": -455,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "S4",
+      "type": "text",
+      "text": "4: Bersifat Personal Tanpa Mempermalukan Publik",
+      "x": 35,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_BT_S2",
+      "fromNode": "BT",
+      "fromSide": "right",
+      "toNode": "S2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_BT_S4",
+      "fromNode": "BT",
+      "fromSide": "right",
+      "toNode": "S4",
+      "toSide": "left"
+    }
+  ]
+}

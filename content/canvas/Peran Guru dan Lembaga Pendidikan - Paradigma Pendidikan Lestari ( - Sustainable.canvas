@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "Krisis",
+      "type": "group",
+      "label": "KRISIS SEKOLAH MEKANISTIK",
+      "x": -719,
+      "y": -50,
+      "width": 1438,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "Lestari",
+      "type": "group",
+      "label": "PARADIGMA PENDIDIKAN LESTARI",
+      "x": -665,
+      "y": 120,
+      "width": 1330,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "Tekanan Akademik Semu & Standarisasi Nilai",
+      "x": -689,
+      "y": 0,
+      "width": 418,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "Emosi Anak Diabaikan & Hubungan Renggang",
+      "x": -201,
+      "y": 0,
+      "width": 400,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "Darurat Kesehatan Mental & Krisis Eksistensial Remaja",
+      "x": 269,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "Menjaga Ekosistem Fitrah Insan",
+      "x": -635,
+      "y": 170,
+      "width": 310,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "L2",
+      "type": "text",
+      "text": "Belajar Melibatkan Emosi Positif & Cinta",
+      "x": -255,
+      "y": 170,
+      "width": 400,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "L3",
+      "type": "text",
+      "text": "Sinergi Hakiki: Pendidik - Orang Tua - Santri",
+      "x": 215,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_8_L2_L3",
+      "fromNode": "L2",
+      "fromSide": "right",
+      "toNode": "L3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_Krisis_Lestari",
+      "fromNode": "Krisis",
+      "fromSide": "bottom",
+      "toNode": "Lestari",
+      "toSide": "top",
+      "label": "Transformasi Fitrah"
+    }
+  ]
+}

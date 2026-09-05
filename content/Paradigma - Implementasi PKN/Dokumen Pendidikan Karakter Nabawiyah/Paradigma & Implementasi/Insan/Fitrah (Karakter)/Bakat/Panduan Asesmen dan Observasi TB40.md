@@ -56,20 +56,7 @@ Dalam lanskap psikologi modern, instrumen kepribadian (seperti MBTI, DISC, Ennea
 
 Sebaliknya, **Asesmen Tafsir Bakat TB-40 (Manhaj SKIS Semarang & Akademi Guru PKN)** berpijak pada antropologi insan Islam:
 
-```mermaid
-graph TD
-    subgraph ASESMEN_SEKULER["Pendekatan Asesmen Sekuler (Pabrik)"]
-        S1["Orientasi: Standarisasi Karyawan & Pasar Tenaga Kerja"]
-        S2["Paradigma: Menilai Kelemahan untuk Diseragamkan (Remedial Kaku)"]
-        S3["Hasil: Pelabelan Deterministik (Kamu Tipe X, Bukan Tipe Y)"]
-    end
-
-    subgraph ASESMEN_NABAWI["Pendekatan Asesmen TB-40 (Pohon Fitrah)"]
-        N1["Orientasi: Menemukan Peran Unik Kekhalifahan di Muka Bumi"]
-        N2["Paradigma: Fokus Asah Kekuatan, Siasati Keterbatasan dengan Sinergi"]
-        N3["Hasil: Penjagaan Adab, Pencegahan Tafrith-Ifrath, & Gelar Fitrah"]
-    end
-```
+![[canvas/Panduan Asesmen dan Observasi TB40 - Filosofi Asesmen Bakat Nabawiyah vs Asesmen.canvas]]
 
 Tiga Prinsip Fundamental Asesmen TB-40:
 1. **Fokus pada Kekuatan (*Focus on Strengths*):** Setiap anak diciptakan Allah dengan benih keunggulan unik. Pendidikan bertugas menyuburkan benih tersebut hingga berbuah lebat, bukan memaksa pohon mangga berbuah apel.
@@ -153,12 +140,7 @@ Berikut adalah naskah lengkap butir indikator perilaku untuk 40 pilar karakter n
 
 Setelah 40 butir pernyataan diisi dan dinilai (skala 0–100), sistem pengolahan asesmen (sebagaimana bekerja pada `APLIKASI TB-40(dewasa).xlsx` dan `RAPORT TB-40-TK-SD 123.xlsx`) menjalankan 4 tahap algoritma:
 
-```mermaid
-graph LR
-    A["Tahap 1: Input Skor (0–100)"] --> B["Tahap 2: Perangkingan Rank 1–40"]
-    B --> C["Tahap 3: Pemetaan 6 Kluster"]
-    C --> D["Tahap 4: Sintesis Profil & Julukan"]
-```
+![[canvas/Panduan Asesmen dan Observasi TB40 - Prosedur Analisis & Algoritma Penentuan Pro.canvas]]
 
 1. **Penentuan Top 6 Potensi Kekuatan (Peringkat 1 s/d 6):**
    - Ini adalah modalitas fitrah alami ananda. Di area inilah Allah menitipkan potensi kemudahan beramal (*muyassarun lima khuliqa lahu*).

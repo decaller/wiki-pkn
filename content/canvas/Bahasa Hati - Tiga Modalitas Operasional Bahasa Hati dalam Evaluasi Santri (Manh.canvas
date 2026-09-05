@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "BH",
+      "type": "text",
+      "text": "Bahasa Hati (Lughatul Qalb)",
+      "x": -385,
+      "y": 4,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "D3",
+      "type": "text",
+      "text": "Menemani bermain, hadir utuh fisik & jiwa,\nmerasakan empati anak, waktu tanpa gawai",
+      "x": -32,
+      "y": 0,
+      "width": 418,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "1: Bahasa Pelayanan (Al-Khidmah)",
+      "x": -598,
+      "y": 178,
+      "width": 328,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "M2",
+      "type": "text",
+      "text": "2: Bahasa Perlindungan (Al-Himayah)",
+      "x": -200,
+      "y": 178,
+      "width": 355,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "M3",
+      "type": "text",
+      "text": "3: Bahasa Kebersamaan (Al-Mushahabah)",
+      "x": 225,
+      "y": 178,
+      "width": 373,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "D1",
+      "type": "text",
+      "text": "Melayani kemauan, menuruti permintaan wajar,\nmenjaga rahasia, menutupi aib, memaafkan kesalahan",
+      "x": -455,
+      "y": 348,
+      "width": 420,
+      "height": 88,
+      "color": "1"
+    },
+    {
+      "id": "D2",
+      "type": "text",
+      "text": "Membela saat terpojok, menghadirkan rasa aman batin,\nmenepis kecemasan, menjadi benteng perlindungan",
+      "x": 35,
+      "y": 348,
+      "width": 420,
+      "height": 88,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_BH_M1",
+      "fromNode": "BH",
+      "fromSide": "left",
+      "toNode": "M1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_1_BH_M2",
+      "fromNode": "BH",
+      "fromSide": "right",
+      "toNode": "M2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_BH_M3",
+      "fromNode": "BH",
+      "fromSide": "right",
+      "toNode": "M3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_M1_D1",
+      "fromNode": "M1",
+      "fromSide": "right",
+      "toNode": "D1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_M2_D2",
+      "fromNode": "M2",
+      "fromSide": "right",
+      "toNode": "D2",
+      "toSide": "left"
+    }
+  ]
+}

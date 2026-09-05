@@ -201,16 +201,7 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
 
 ## Visualisasi Pohon Keputusan Problem Pengasuhan Cepat
 
-```mermaid
-flowchart TD
-    Start["Anak Menunjukkan Perilaku Bermasalah"] --> Q1{"Apakah Usianya di Bawah 7 Tahun?"}
-    Q1 -- Ya --> A1["Dekap & Alihkan Perhatian<br/>(Jangan Dihukum / Bentak)"]
-    Q1 -- Tidak --> Q2{"Apakah Tangki Cintanya Kosong?"}
-    Q2 -- Ya --> A2["Pulihkan Kelekatan Dulu<br/>(Waktu Khusus 15 Menit)"]
-    Q2 -- Tidak --> Q3{"Apakah Ini Luapan Bakat yang Tersumbat?"}
-    Q3 -- Ya --> A3["Salurkan ke Wadah Positif SOTABH"]
-    Q3 -- Tidak --> A4["Tegakkan Konsekuensi Logis Bersama"]
-```
+![[canvas/FAQ Ringkas - Visualisasi Pohon Keputusan Problem Pengasuhan Cepat.canvas]]
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

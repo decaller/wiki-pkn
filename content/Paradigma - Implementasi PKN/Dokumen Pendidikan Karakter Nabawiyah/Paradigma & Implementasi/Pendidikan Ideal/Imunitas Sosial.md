@@ -69,20 +69,7 @@ Banyak orang tua yang berniat baik tergelincir ke dalam sindrom "Sterilisasi Eks
 
 Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib diinokulasikan kepada ananda sejak dini:
 
-```mermaid
-graph TD
-    subgraph KOMPONEN_IMUNITAS["EMPAT LAPISAN IMUNITAS SOSIAL ANAK"]
-        L1["1: I'tizaz bil Islam (Kebanggaan Identitas)<br/>Bangga Menjadi Muslim, Tidak Rendah Diri di Depan Budaya Asing"]
-        L2["2: Al-Furqan (Nalar Kritis Menyaring Nilai)<br/>Mampu Membedakan Hak vs Batil, Kritis terhadap Tren Medsos"]
-        L3["3: Tangki Cinta Penuh di Rumah<br/>Kebutuhan Validasi Terpenuhi, Kebal terhadap Bujuk Rayu Jahil"]
-        L4["4: Produktivitas Bakat Nyata<br/>Sibuk Menekuni 40 Pilar Bakat, Tidak Ada Waktu untuk Hal Sia-sia"]
-    end
-
-    L1 --> Kebal["Antibodi Moral Kebal Fitnah Zaman (Generasi Tahan Uji)"]
-    L2 --> Kebal
-    L3 --> Kebal
-    L4 --> Kebal
-```
+![[canvas/Imunitas Sosial - Empat Komponen Pembentuk Antibodi Sosial Anak.canvas]]
 
 ### A. Al-I'tizaz bil Islam (Kebanggaan Identitas Muslim)
 - Anak yang memiliki *izzah* tidak akan minder mempertahankan shalat saat bepergian, tidak malu menutup aurat saat berolahraga, dan tidak merasa rendah diri tatkala tidak mengikuti tren gaya hidup teman-temannya yang melanggar syariat.

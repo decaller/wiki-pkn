@@ -154,25 +154,7 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 
 ## Visualisasi Filter Tutur Lisan Nabawi (Tiga Saringan Kata)
 
-```mermaid
-flowchart TD
-    subgraph Lisan["FILTER TUTUR KATA PENDIDIK"]
-        In["Kata / Dorongan yang Ingin Diucapkan"]
-        F1{"Filter 1: Ash-Shidq<br/>Apakah Benar & Bebas Labeling?"}
-        F2{"Filter 2: Al-Adab<br/>Apakah Santun & Memuliakan Fitrah?"}
-        F3{"Filter 3: Al-Manfa'ah<br/>Apakah Berdaya Ubah & Bernilai Doa?"}
-        Speak["Ucapkan dengan Nada Teduh & Sejajar Mata"]
-        Silent["Tahan Lisan / Alihkan ke Doa Batin"]
-    end
-
-    In --> F1
-    F1 -- Ya --> F2
-    F1 -- Tidak --> Silent
-    F2 -- Ya --> F3
-    F2 -- Tidak --> Silent
-    F3 -- Ya --> Speak
-    F3 -- Tidak --> Silent
-```
+![[canvas/Bahasa Lisan - Visualisasi Filter Tutur Lisan Nabawi (Tiga Saringan Kata).canvas]]
 
 ---
 

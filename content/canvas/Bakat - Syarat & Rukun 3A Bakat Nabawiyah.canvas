@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Syarat",
+      "type": "group",
+      "label": "SYARAT MUTLAK BAKAT",
+      "x": -240,
+      "y": -50,
+      "width": 480,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "Rukun",
+      "type": "group",
+      "label": "3 RUKUN BAKAT (3A)",
+      "x": -512,
+      "y": 128,
+      "width": 1024,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "AD-DAWAM / ISTIQAMAH\n(HR. Bukhari: Amalan Paling Dicintai Adalah yang Kontinu)",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "A",
+      "type": "text",
+      "text": "1: Al-Hirsh (الحِرْص)\nsukA (Enjoy / Gairah)",
+      "x": -482,
+      "y": 178,
+      "width": 240,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "2: Al-Itqan (الإِتْقَان)\nbisA (Easy / Mahir)",
+      "x": -172,
+      "y": 178,
+      "width": 256,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "3: Al-Mufid (المُفِيد)\nbergunA (Excellent / Bermanfaat)",
+      "x": 154,
+      "y": 178,
+      "width": 328,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Hasil",
+      "type": "text",
+      "text": "BAKAT SEJATI\n(Karya Amal Shalih Berkelanjutan)",
+      "x": -168,
+      "y": 356,
+      "width": 337,
+      "height": 88,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_D_Rukun",
+      "fromNode": "D",
+      "fromSide": "bottom",
+      "toNode": "Rukun",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_Rukun_Hasil",
+      "fromNode": "Rukun",
+      "fromSide": "bottom",
+      "toNode": "Hasil",
+      "toSide": "top"
+    }
+  ]
+}

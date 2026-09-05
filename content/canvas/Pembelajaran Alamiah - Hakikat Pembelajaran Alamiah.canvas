@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "Kurikulum Organik Kehidupan",
+      "type": "group",
+      "label": "Kurikulum Organik Kehidupan",
+      "x": -865,
+      "y": -50,
+      "width": 1730,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "A",
+      "type": "text",
+      "text": "1: Peristiwa (Moment Spontan)",
+      "x": -835,
+      "y": 0,
+      "width": 301,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "Fokus: Penanaman Adab, Iman, & Resonansi Nurani",
+      "x": -464,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "2: Kegiatan (Project Terencana)",
+      "x": 26,
+      "y": 0,
+      "width": 319,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "M2",
+      "type": "text",
+      "text": "Fokus: Pengasahan Bakat (Rukun 3A), Nalar, & Karya",
+      "x": 415,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "T",
+      "type": "text",
+      "text": "Pribadi Beradab, Cerdas, dan Tangguh Menghadapi Realitas",
+      "x": -210,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_4_M1_T",
+      "fromNode": "M1",
+      "fromSide": "right",
+      "toNode": "T",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_M2_T",
+      "fromNode": "M2",
+      "fromSide": "left",
+      "toNode": "T",
+      "toSide": "right"
+    }
+  ]
+}

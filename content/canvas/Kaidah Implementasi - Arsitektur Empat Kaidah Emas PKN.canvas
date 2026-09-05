@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "K",
+      "type": "text",
+      "text": "4 Kaidah Emas Implementasi PKN",
+      "x": -155,
+      "y": 0,
+      "width": 310,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "Kaidah 1: Pentahapan Alami (At-Tadarruj)",
+      "x": -935,
+      "y": 170,
+      "width": 400,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "Kaidah 2: Koneksi Sebelum Koreksi (Al-Washlu qablal Qath')",
+      "x": -465,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "Kaidah 3: Keteladanan Sebelum Tuntutan (Al-Qudwah qablad Da'wah)",
+      "x": 25,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "Kaidah 4: Fokus Kekuatan Bakat (Ta'zizul Quwwah)",
+      "x": 515,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_K_K1",
+      "fromNode": "K",
+      "fromSide": "left",
+      "toNode": "K1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_1_K_K2",
+      "fromNode": "K",
+      "fromSide": "left",
+      "toNode": "K2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_2_K_K3",
+      "fromNode": "K",
+      "fromSide": "right",
+      "toNode": "K3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_K_K4",
+      "fromNode": "K",
+      "fromSide": "right",
+      "toNode": "K4",
+      "toSide": "left"
+    }
+  ]
+}

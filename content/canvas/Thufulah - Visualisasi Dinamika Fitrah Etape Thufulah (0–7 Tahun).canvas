@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "Thufulah",
+      "type": "group",
+      "label": "ETAPE THUFULAH (0-7 TAHUN)",
+      "x": -221,
+      "y": -50,
+      "width": 442,
+      "height": 680,
+      "color": "5"
+    },
+    {
+      "id": "A",
+      "type": "text",
+      "text": "1: Kebutuhan Mutlak\n• Limpahan Kasih Sayang Murni\n• Rasa Aman & Kelekatan Fisik\n• Bermain Bebas Tanpa Beban",
+      "x": -150,
+      "y": 0,
+      "width": 301,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "2: Resapan Qudwah (Al-Muhakah)\n• Meniru Gerak & Lisan Orang Tua\n• Belajar Alami Lewat Indera Sensorik\n• Fitrah Tauhid Disiram Keindahan Alam",
+      "x": -191,
+      "y": 230,
+      "width": 382,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "3: Penjagaan Fitrah\n• Nihil Hisab Syariat (La Taklif)\n• Bebas Bentakan & Trauma Fisik\n• Tangki Cinta Terisi Penuh",
+      "x": -168,
+      "y": 460,
+      "width": 337,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Pondasi Jiwa Kokoh Menuju Tamyiz",
+      "x": -164,
+      "y": 690,
+      "width": 328,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A_B",
+      "fromNode": "A",
+      "fromSide": "bottom",
+      "toNode": "B",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_B_C",
+      "fromNode": "B",
+      "fromSide": "bottom",
+      "toNode": "C",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_C_Output",
+      "fromNode": "C",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    }
+  ]
+}

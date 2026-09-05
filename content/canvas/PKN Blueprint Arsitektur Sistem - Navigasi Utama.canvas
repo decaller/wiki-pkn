@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "IMAN",
+      "type": "text",
+      "text": "Iman (Why?)",
+      "x": 0,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "JIWA",
+      "type": "text",
+      "text": "Jiwa Pendidik",
+      "x": 0,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "ILMU",
+      "type": "text",
+      "text": "Ilmu (How?)",
+      "x": 310,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "PERAN",
+      "type": "text",
+      "text": "Peran Pendidik",
+      "x": 310,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "AMAL",
+      "type": "text",
+      "text": "Amal (What?)",
+      "x": 620,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "METODE",
+      "type": "text",
+      "text": "Metode Mendidik",
+      "x": 620,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "MATERI",
+      "type": "text",
+      "text": "Materi Pendidikan",
+      "x": 930,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "IMPL",
+      "type": "text",
+      "text": "Implementasi",
+      "x": 1240,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_IMAN_ILMU",
+      "fromNode": "IMAN",
+      "fromSide": "right",
+      "toNode": "ILMU",
+      "toSide": "left",
+      "label": "<<"
+    },
+    {
+      "id": "e_1_ILMU_AMAL",
+      "fromNode": "ILMU",
+      "fromSide": "right",
+      "toNode": "AMAL",
+      "toSide": "left",
+      "label": "<<"
+    },
+    {
+      "id": "e_2_JIWA_PERAN",
+      "fromNode": "JIWA",
+      "fromSide": "right",
+      "toNode": "PERAN",
+      "toSide": "left",
+      "label": ">>"
+    },
+    {
+      "id": "e_3_PERAN_METODE",
+      "fromNode": "PERAN",
+      "fromSide": "right",
+      "toNode": "METODE",
+      "toSide": "left",
+      "label": ">>"
+    },
+    {
+      "id": "e_4_METODE_MATERI",
+      "fromNode": "METODE",
+      "fromSide": "right",
+      "toNode": "MATERI",
+      "toSide": "left",
+      "label": ">>"
+    },
+    {
+      "id": "e_5_MATERI_IMPL",
+      "fromNode": "MATERI",
+      "fromSide": "right",
+      "toNode": "IMPL",
+      "toSide": "left",
+      "label": ">>"
+    }
+  ]
+}

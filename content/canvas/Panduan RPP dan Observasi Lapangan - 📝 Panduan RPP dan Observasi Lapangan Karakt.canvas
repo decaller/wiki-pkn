@@ -1,0 +1,124 @@
+{
+  "nodes": [
+    {
+      "id": "Input",
+      "type": "group",
+      "label": "PERENCANAAN",
+      "x": -30,
+      "y": -272,
+      "width": 397,
+      "height": 524,
+      "color": "5"
+    },
+    {
+      "id": "Proses",
+      "type": "group",
+      "label": "PELAKSANAAN & OBSERVASI",
+      "x": -30,
+      "y": -183,
+      "width": 777,
+      "height": 435,
+      "color": "5"
+    },
+    {
+      "id": "Output",
+      "type": "group",
+      "label": "EVALUASI & INTERVENSI",
+      "x": 18,
+      "y": -183,
+      "width": 1091,
+      "height": 346,
+      "color": "5"
+    },
+    {
+      "id": "RPP",
+      "type": "text",
+      "text": "RPP Karakter Terpadu\n(Aqidah, Fiqh, Adab & Bakat)",
+      "x": 22,
+      "y": -222,
+      "width": 292,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "RAPOR",
+      "type": "text",
+      "text": "Rapor Karakter Santri\n& Terapi Recovery",
+      "x": 48,
+      "y": -44,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "PROJ",
+      "type": "text",
+      "text": "Form Proyek Pembelajaran\n(Prinsip 3A: Suka, Bisa, Berguna)",
+      "x": 0,
+      "y": 134,
+      "width": 337,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "OBS1",
+      "type": "text",
+      "text": "Observasi Harian 40 Pilar\n(Checklist Kekerapan Perilaku)",
+      "x": 407,
+      "y": -133,
+      "width": 310,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "OBS2",
+      "type": "text",
+      "text": "Observasi Pertumbuhan Karakter\n(Instrumen 19 Indikator)",
+      "x": 407,
+      "y": 45,
+      "width": 310,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "INDEKS",
+      "type": "text",
+      "text": "Penghitungan Indeks Karakter\n(Skala 1.00 - 4.00)",
+      "x": 787,
+      "y": -44,
+      "width": 292,
+      "height": 88,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_PROJ_OBS1",
+      "fromNode": "PROJ",
+      "fromSide": "right",
+      "toNode": "OBS1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_PROJ_OBS2",
+      "fromNode": "PROJ",
+      "fromSide": "right",
+      "toNode": "OBS2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_OBS1_INDEKS",
+      "fromNode": "OBS1",
+      "fromSide": "right",
+      "toNode": "INDEKS",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_OBS2_INDEKS",
+      "fromNode": "OBS2",
+      "fromSide": "right",
+      "toNode": "INDEKS",
+      "toSide": "left"
+    }
+  ]
+}

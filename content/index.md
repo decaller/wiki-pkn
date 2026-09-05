@@ -128,43 +128,7 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 
 Pendidikan Karakter Nabawiyah memandang manusia sebagai kesatuan utuh (*insan kamil*) yang bertumbuh secara organik melalui integrasi tiga pilar agung:
 
-```mermaid
-graph TD
-    subgraph AKAR["🌱 PONDASI INSAN (AKAR TAUHID)"]
-        Tujuan["[[Tujuan Hidup Manusia]]<br/>Ibadah & Khilafah"]
-        RuhJasad["[[Bersatunya Ruh dan Jasad Membentuk Jiwa]]<br/>Tiupan Ruh & Tanah"]
-        Trilogi["[[Pembagian Jiwa]]<br/>Muthmainnah • Lawwamah • Ammarah"]
-        Fitrah["[[Fitrah (Karakter)]]<br/>Cetak Biru Suci Lahiriah"]
-    end
-
-    subgraph BATANG["🌳 PENDIDIKAN IDEAL (BATANG ADAB & METODOLOGI)"]
-        Benang["[[Benang Merah Pendidikan]]<br/>Wasathiyah: Anti-Tafrith & Ifrath"]
-        TigaBahasa["[[Metode Mendidik]]<br/>[[Bahasa Hati]] • [[Bahasa Lisan]] • [[Bahasa Tangan]]"]
-        Fase["[[Perkembangan]]<br/>[[Thufulah]] (0-7) • [[Tamyiz]] (7-10) • [[Murahaqah]] (10-15) • [[Syabab]] (15+)"]
-        Proteksi["[[Batas Toleransi]] • [[Imunitas Sosial]] • [[Recovery]]"]
-    end
-
-    subgraph RANTING["🍃 FITRAH BAKAT (40 PILAR TB40)"]
-        BakatUmum["[[Bakat]] (Syakilah Unik)"]
-        Sub1["[[Bekerja Keras]] (Al-Hammasah)"]
-        Sub2["[[Berpikir]] (Al-Fikrah)"]
-        Sub3["[[Berperasaan]] (Al-Wijdaniyyah)"]
-        Sub4["[[Memerintah]] (At-Ta'tsir)"]
-        Sub5["[[Bekerja Sama]] (At-Ta'amul)"]
-        Sub6["[[Melayani]] (Al-Khidmah)"]
-    end
-
-    subgraph BUAH["🍎 IMPLEMENTASI & KARYA PERADABAN"]
-        Kaidah["[[4 Kaidah Implementasi]]<br/>Taisir • Qudwah • Rahmah • Tadarruj"]
-        Elemen["[[4 Elemen Implementasi]]<br/>Ghayah • Manhaj • Uslub • Taqyim"]
-        Sinergi["[[Tanggung Jawab Pendidikan]]<br/>[[Peran Ayah dan Bunda]] • [[Peran Guru dan Lembaga Pendidikan]] • [[Kaidah Implementasi di Berbagai Lembaga]]"]
-        Output["Kematangan Akil-Baligh & Khairu Ummah"]
-    end
-
-    AKAR --> BATANG
-    BATANG --> RANTING
-    RANTING --> BUAH
-```
+![[canvas/Beranda - Peta Konsep Arsitektur Pendidikan Karakter Nabawiyah.canvas]]
 
 ---
 

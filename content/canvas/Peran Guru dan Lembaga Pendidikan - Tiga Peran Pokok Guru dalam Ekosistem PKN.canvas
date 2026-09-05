@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "id": "G",
+      "type": "text",
+      "text": "Peran Luhur Guru PKN",
+      "x": 0,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "1: Mu'addib (Penanam Adab Sebelum Ilmu)",
+      "x": 324,
+      "y": -210,
+      "width": 391,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "2: Rawi Fitrah (Fasilitator Penemu Bakat 3A)",
+      "x": 310,
+      "y": -40,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "3: Qudwah Hayyah (Model Keteladanan Nyata)",
+      "x": 311,
+      "y": 130,
+      "width": 418,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_G_G1",
+      "fromNode": "G",
+      "fromSide": "right",
+      "toNode": "G1",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_G_G2",
+      "fromNode": "G",
+      "fromSide": "right",
+      "toNode": "G2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_G_G3",
+      "fromNode": "G",
+      "fromSide": "right",
+      "toNode": "G3",
+      "toSide": "left"
+    }
+  ]
+}

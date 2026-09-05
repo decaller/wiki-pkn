@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "L5",
+      "type": "text",
+      "text": "❤️ TINGKAT 5: PENGORBANAN & RAHMAH PENDIDIK\nOrang tua/guru mencurahkan kasih sayang murni, doa malam, dan pengorbanan waktu",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "L4",
+      "type": "text",
+      "text": "🌟 TINGKAT 4: KEKAGUMAN TERHADAP FIGUR (USWAH HASANAH)\nAnak kagum, terpikat oleh akhlak pendidik, dan melahirkan Kepercayaan Penuh (Trust)",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "L3",
+      "type": "text",
+      "text": "✨ TINGKAT 3: CINTA TERHADAP AKTIVITAS KEBAIKAN\nAnak mencintai shalat, belajar, dan adab karena mencintai sosok yang mengajarkannya",
+      "x": -210,
+      "y": 356,
+      "width": 420,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "L2",
+      "type": "text",
+      "text": "📖 TINGKAT 2: ILMU TENTANG FADHILAH AMAL\nPenjelasan hikmah dan ayat Al-Qur'an diserap dengan lapang dada tanpa resistensi",
+      "x": -210,
+      "y": 534,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "🎯 TINGKAT 1: NIAT & AMAL SHALIH MANDIRI\nAnak beramal dengan gembira, konsisten, dan memiliki integritas muraqabatullah tanpa perlu diawasi CCTV",
+      "x": -210,
+      "y": 712,
+      "width": 420,
+      "height": 88,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_L5_L4",
+      "fromNode": "L5",
+      "fromSide": "bottom",
+      "toNode": "L4",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_L4_L3",
+      "fromNode": "L4",
+      "fromSide": "bottom",
+      "toNode": "L3",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_L3_L2",
+      "fromNode": "L3",
+      "fromSide": "bottom",
+      "toNode": "L2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_L2_L1",
+      "fromNode": "L2",
+      "fromSide": "bottom",
+      "toNode": "L1",
+      "toSide": "top"
+    }
+  ]
+}

@@ -57,16 +57,7 @@ description: "Kajian komprehensif 4 Elemen Implementasi dalam kerangka manhaj Pe
 
 Agar Pendidikan Karakter Nabawiyah dapat beroperasi secara utuh di rumah dan sekolah, terdapat **4 Elemen Inti** yang harus hadir secara serentak dan saling menopang:
 
-```mermaid
-graph TD
-    subgraph Ekosistem["4 Elemen Implementasi PKN"]
-        E1["1: Elemen Iman (Ghayah/Tujuan)<br>Penanaman Tauhidullah & Muraqabatullah"]
-        E2["2: Elemen Adab (Tazkiyah/Penyucian)<br>Pembersihan Hati & Akhlakul Karimah"]
-        E3["3: Elemen Belajar (Manhaj/Nalar)<br>Eksplorasi Alam & Fiqih Syariat"]
-        E4["4: Elemen Bakat (Khafiyah/Amal Shalih)<br>Aktualisasi 40 Potensi Peradaban"]
-    end
-    E1 --> E2 --> E3 --> E4
-```
+![[canvas/Elemen Implementasi - Arsitektur Empat Elemen Ekosistem PKN.canvas]]
 
 ---
 
@@ -115,16 +106,7 @@ Untuk memastikan keempat elemen ini tidak berjalan secara terisolasi, orang tua 
 
 Dalam implementasi kelembagaan di **Sekolah Karakter Imam Syafi'i (SKIS Semarang)** di bawah bimbingan Ustadz Abdul Kholiq, S.Pd, elemen evaluasi diwujudkan dalam **Laporan Perkembangan Karakter Santri (Rapor PKN)**. Rapor ini menolak standardisasi angka ranking akademis yang kompetitif-destruktif, dan menggantinya dengan pemetaan tumbuh kembang fitrah secara holistik.
 
-```mermaid
-graph TD
-    subgraph ARSITEKTUR_RAPOR["5 BAGIAN UTAMA RAPOR KARAKTER SANTRI"]
-        B1["I. Karakter Iman<br/>Aqidah, Ibadah, Adab/Akhlaq, Profil Bahasa Hati"]
-        B2["II. Karakter Belajar<br/>Gaya Belajar: Al-Fu'ad, As-Sam'u, Al-Bashar & Setting Belajar"]
-        B3["III. Karakter Bakat (TB-40)<br/>Top 6 Potensi Kekuatan & Pemberian Julukan (Laqab)"]
-        B4["IV. Kesehatan Fisik & Indera<br/>TB, BB, Mata, Telinga, Gigi, Rambut, Kulit"]
-        B5["V. Catatan Wali Santri<br/>Rekomendasi Profesi Peradaban & Jurusan Studi"]
-    end
-```
+![[canvas/Elemen Implementasi - Sistem Evaluasi Autentik - Blueprint Rapor Karakter Santri.canvas]]
 
 ### A. Lima Komponen Inti Rapor Karakter Santri
 

@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "id": "Start",
+      "type": "text",
+      "text": "Anak Menunjukkan Perilaku Bermasalah",
+      "x": -349,
+      "y": 4,
+      "width": 364,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "A1",
+      "type": "text",
+      "text": "Dekap & Alihkan Perhatian\n(Jangan Dihukum / Bentak)",
+      "x": 84,
+      "y": 0,
+      "width": 265,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Q1",
+      "type": "text",
+      "text": "Apakah Usianya di Bawah 7 Tahun?",
+      "x": -164,
+      "y": 178,
+      "width": 328,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "Q2",
+      "type": "text",
+      "text": "Apakah Tangki Cintanya Kosong?",
+      "x": -951,
+      "y": 352,
+      "width": 310,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "A2",
+      "type": "text",
+      "text": "Pulihkan Kelekatan Dulu\n(Waktu Khusus 15 Menit)",
+      "x": -571,
+      "y": 348,
+      "width": 247,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "Q3",
+      "type": "text",
+      "text": "Apakah Ini Luapan Bakat yang Tersumbat?",
+      "x": -254,
+      "y": 352,
+      "width": 391,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "A3",
+      "type": "text",
+      "text": "Salurkan ke Wadah Positif SOTABH",
+      "x": 207,
+      "y": 352,
+      "width": 328,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "A4",
+      "type": "text",
+      "text": "Tegakkan Konsekuensi Logis Bersama",
+      "x": 605,
+      "y": 352,
+      "width": 346,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "Ya",
+      "type": "text",
+      "text": "Ya",
+      "x": -275,
+      "y": 526,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Tidak",
+      "type": "text",
+      "text": "Tidak",
+      "x": 35,
+      "y": 526,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Start_Q1",
+      "fromNode": "Start",
+      "fromSide": "bottom",
+      "toNode": "Q1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_Q1_Ya",
+      "fromNode": "Q1",
+      "fromSide": "bottom",
+      "toNode": "Ya",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_Q1_Tidak",
+      "fromNode": "Q1",
+      "fromSide": "bottom",
+      "toNode": "Tidak",
+      "toSide": "top"
+    },
+    {
+      "id": "e_5_Tidak_Q2",
+      "fromNode": "Tidak",
+      "fromSide": "left",
+      "toNode": "Q2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_6_Q2_Ya",
+      "fromNode": "Q2",
+      "fromSide": "right",
+      "toNode": "Ya",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_Ya_A2",
+      "fromNode": "Ya",
+      "fromSide": "left",
+      "toNode": "A2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_8_Q2_Tidak",
+      "fromNode": "Q2",
+      "fromSide": "right",
+      "toNode": "Tidak",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_Tidak_Q3",
+      "fromNode": "Tidak",
+      "fromSide": "left",
+      "toNode": "Q3",
+      "toSide": "right"
+    },
+    {
+      "id": "e_10_Q3_Ya",
+      "fromNode": "Q3",
+      "fromSide": "bottom",
+      "toNode": "Ya",
+      "toSide": "top"
+    },
+    {
+      "id": "e_11_Ya_A3",
+      "fromNode": "Ya",
+      "fromSide": "right",
+      "toNode": "A3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_12_Q3_Tidak",
+      "fromNode": "Q3",
+      "fromSide": "right",
+      "toNode": "Tidak",
+      "toSide": "left"
+    },
+    {
+      "id": "e_13_Tidak_A4",
+      "fromNode": "Tidak",
+      "fromSide": "right",
+      "toNode": "A4",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "id": "AYAT",
+      "type": "text",
+      "text": "QS. An-Nahl: 78: As-Sam'a, Al-Abshara, Al-Af'idah",
+      "x": -692,
+      "y": 4,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "1: Al-Fu'ad (الفُؤَاد)\nKinestetik & Eksperiensial",
+      "x": -202,
+      "y": 0,
+      "width": 274,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "2: As-Sam'u (السَمْع)\nAuditori & Dialogis",
+      "x": 142,
+      "y": 0,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "3: Al-Bashar (البَصَر)\nVisual & Observasional",
+      "x": 452,
+      "y": 0,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "S1",
+      "type": "text",
+      "text": "Ciri: Bergerak, membongkar-pasang, praktik nyata\nSetting: Alam terbuka, lapangan, bengkel, kebun",
+      "x": -700,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "S2",
+      "type": "text",
+      "text": "Ciri: Menyimak kisah, diskusi, talaqqi, peka intonasi\nSetting: Halaqah melingkar, podcast, ruang tenang",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "S3",
+      "type": "text",
+      "text": "Ciri: Peta konsep, infografis, demonstrasi bentuk\nSetting: Ruang berpencahayaan baik, media visual",
+      "x": 280,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_6_G1_S1",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "S1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_7_G2_S2",
+      "fromNode": "G2",
+      "fromSide": "left",
+      "toNode": "S2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_8_G3_S3",
+      "fromNode": "G3",
+      "fromSide": "bottom",
+      "toNode": "S3",
+      "toSide": "top"
+    }
+  ]
+}

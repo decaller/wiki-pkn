@@ -382,9 +382,4 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
 
 ## Visualisasi Jalur Belajar Video Kajian PKN
 
-```mermaid
-flowchart LR
-    V1["1: Seri Fondasi Insan<br/>(Hakikat Jiwa & Fitrah)"] --> V2["2: Seri Metode Tarbiyah<br/>(Bahasa Hati & Batas Toleransi)"]
-    V2 --> V3["3: Seri Peta Bakat 40<br/>(Observasi & Rukun 3A)"]
-    V3 --> V4["4: Seri Implementasi Lembaga<br/>(Kaidah Emas & Standar Mutu)"]
-```
+![[canvas/Referensi Kajian Video - Visualisasi Jalur Belajar Video Kajian PKN.canvas]]

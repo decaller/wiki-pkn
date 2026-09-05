@@ -1,0 +1,87 @@
+{
+  "nodes": [
+    {
+      "id": "CIRI_MUTHMAINNAH",
+      "type": "group",
+      "label": "PILAR NAFSUL MUTHMAINNAH ANAK",
+      "x": -975,
+      "y": -50,
+      "width": 1950,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "C1",
+      "type": "text",
+      "text": "1: Qalbun Salim\nHati Bersih dari Dendam, Hasad, dan Kesombongan",
+      "x": -945,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C2",
+      "type": "text",
+      "text": "2: Muraqabatullah\nMerasa Senantiasa Diawasi Allah di Mana Pun Berada",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C3",
+      "type": "text",
+      "text": "3: Ikhlas & Ridha\nTidak Haus Pujian Manusia, Tabah Menghadapi Ujian",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C4",
+      "type": "text",
+      "text": "4: Tangki Cinta Penuh\nMerasa Dicintai Allah & Keluarga, Kebal dari Grooming Sosial",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Kepribadian Mukallaf Tangguh & Beradab",
+      "x": -191,
+      "y": 178,
+      "width": 382,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_C2_Output",
+      "fromNode": "C2",
+      "fromSide": "right",
+      "toNode": "Output",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_C3_Output",
+      "fromNode": "C3",
+      "fromSide": "left",
+      "toNode": "Output",
+      "toSide": "right"
+    },
+    {
+      "id": "e_4_C4_Output",
+      "fromNode": "C4",
+      "fromSide": "left",
+      "toNode": "Output",
+      "toSide": "right"
+    }
+  ]
+}

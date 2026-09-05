@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "id": "BK",
+      "type": "text",
+      "text": "Bekerja Keras (Al-Hamasah)",
+      "x": -137,
+      "y": 0,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "Sub 1: Berambisi",
+      "x": -430,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "Sub 2: Berwibawa",
+      "x": -120,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "Sub 3: Giat Bekerja",
+      "x": 190,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "#01 Himmah (Cita-cita Tinggi)",
+      "x": -1127,
+      "y": 340,
+      "width": 301,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "#02 Ihsaan (Perfeksionis Mutqin)",
+      "x": -756,
+      "y": 340,
+      "width": 328,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "#03 'Izzah (Keteguhan Harga Diri)",
+      "x": -358,
+      "y": 340,
+      "width": 337,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P4",
+      "type": "text",
+      "text": "#04 Waqaar (Ketenangan Berwibawa)",
+      "x": 48,
+      "y": 340,
+      "width": 337,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P5",
+      "type": "text",
+      "text": "#05 'Aziimah (Tekad Memulai)",
+      "x": 455,
+      "y": 340,
+      "width": 292,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P6",
+      "type": "text",
+      "text": "#06 Nasyaath (Semangat Tuntas)",
+      "x": 817,
+      "y": 340,
+      "width": 310,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_BK_G1",
+      "fromNode": "BK",
+      "fromSide": "left",
+      "toNode": "G1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_1_BK_G2",
+      "fromNode": "BK",
+      "fromSide": "bottom",
+      "toNode": "G2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_BK_G3",
+      "fromNode": "BK",
+      "fromSide": "right",
+      "toNode": "G3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_G1_P1",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_4_G1_P2",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_G2_P3",
+      "fromNode": "G2",
+      "fromSide": "left",
+      "toNode": "P3",
+      "toSide": "right"
+    },
+    {
+      "id": "e_6_G2_P4",
+      "fromNode": "G2",
+      "fromSide": "right",
+      "toNode": "P4",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_G3_P5",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P5",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_G3_P6",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P6",
+      "toSide": "left"
+    }
+  ]
+}

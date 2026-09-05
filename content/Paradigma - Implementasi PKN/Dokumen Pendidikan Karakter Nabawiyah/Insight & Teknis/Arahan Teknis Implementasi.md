@@ -52,12 +52,7 @@ Dokumen ini memuat prosedur standar operasional (SOP), checklist harian, instrum
 
 Penerapan PKN di rumah dibangun di atas ritme sunnah yang teratur, berporos pada 5 waktu shalat fardhu:
 
-```mermaid
-graph TD
-    Subuh["🌅 WAKTU SUBUH & PAGI<br/>• Shalat Berjamaah di Masjid (Ayah & Anak Laki-laki)<br/>• Dzikir Pagi & Tadabbur 1 Ayat Bersama Bunda<br/>• Pelukan Kehangatan Pengisi Tangki Cinta"] --> Siang["☀️ WAKTU SIANG & SORE<br/>• Eksplorasi Pembelajaran Alamiah / Sekolah<br/>• Makan Siang Beradab & Istirahat Qailulah<br/>• Penyaluran Gerak Fisik & Mengasah 40 Bakat (TB40)"]
-    Siang --> Maghrib["🌇 WAKTU MAGHRIB & ISYA<br/>• Shalat Berjamaah & Tilawah Al-Qur'an Bersama<br/>• Evaluasi Pekanan / Dialog Nalar Kasih Sayang<br/>• Menutup Akses Seluruh Gawai (Digital Curfew)"]
-    Maghrib --> Malam["🌙 WAKTU MALAM SEBELUM TIDUR<br/>• Adab Wudhu & Membaca Doa/Dzikir Tidur<br/>• Kisah Sirah Shahabat Pengantar Tidur (Bahasa Hati)<br/>• Qiyamul Lail & Doa Mustajab Orang Tua"]
-```
+![[canvas/Arahan Teknis Implementasi - Siklus Rutinitas Harian Keluarga Nabawiyah.canvas]]
 
 ---
 

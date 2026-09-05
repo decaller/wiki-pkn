@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "ZONASI_TOLERANSI",
+      "type": "group",
+      "label": "TIGA ZONA PERILAKU ANAK",
+      "x": -485,
+      "y": -50,
+      "width": 1460,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "Tindakan2",
+      "type": "text",
+      "text": "Gunakan [[Bahasa Lisan]]: Dialog Hikmah & Konsekuensi",
+      "x": -945,
+      "y": 4,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Z1",
+      "type": "text",
+      "text": "🟢 ZONA HIJAU (Eksplorasi Bebas)\nBermain, menyalurkan bakat, mencoba hal baru, berantakan kreatif",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Z2",
+      "type": "text",
+      "text": "🟡 ZONA KUNING (Negosiasi & Bimbingan)\nKelelahan, lupa waktu, adab makan, perselisihan saudara",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Z3",
+      "type": "text",
+      "text": "🔴 ZONA MERAH (Nol Toleransi / Pagar Hima)\nSyirik, penistaan adab, kekerasan fisik, pornografi/aurat",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Tindakan1",
+      "type": "text",
+      "text": "Beri Kebebasan Penuh, Tanpa Intervensi Cemas",
+      "x": -455,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Tindakan3",
+      "type": "text",
+      "text": "Gunakan [[Bahasa Tangan]]: Tindakan Tegas Seketika Tanpa Kompromi",
+      "x": 35,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Z1_Tindakan1",
+      "fromNode": "Z1",
+      "fromSide": "bottom",
+      "toNode": "Tindakan1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_Z3_Tindakan3",
+      "fromNode": "Z3",
+      "fromSide": "left",
+      "toNode": "Tindakan3",
+      "toSide": "right"
+    }
+  ]
+}

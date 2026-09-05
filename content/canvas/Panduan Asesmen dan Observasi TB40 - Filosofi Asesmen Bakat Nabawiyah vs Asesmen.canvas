@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "ASESMEN_SEKULER",
+      "type": "group",
+      "label": "Pendekatan Asesmen Sekuler (Pabrik)",
+      "x": 5,
+      "y": -50,
+      "width": 1460,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "ASESMEN_NABAWI",
+      "type": "group",
+      "label": "Pendekatan Asesmen TB-40 (Pohon Fitrah)",
+      "x": -1465,
+      "y": -50,
+      "width": 1460,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Orientasi: Menemukan Peran Unik Kekhalifahan di Muka Bumi",
+      "x": -1435,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Paradigma: Fokus Asah Kekuatan, Siasati Keterbatasan dengan Sinergi",
+      "x": -945,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N3",
+      "type": "text",
+      "text": "Hasil: Penjagaan Adab, Pencegahan Tafrith-Ifrath, & Gelar Fitrah",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "S1",
+      "type": "text",
+      "text": "Orientasi: Standarisasi Karyawan & Pasar Tenaga Kerja",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S2",
+      "type": "text",
+      "text": "Paradigma: Menilai Kelemahan untuk Diseragamkan (Remedial Kaku)",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S3",
+      "type": "text",
+      "text": "Hasil: Pelabelan Deterministik (Kamu Tipe X, Bukan Tipe Y)",
+      "x": 1015,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": []
+}

@@ -410,6 +410,31 @@ wiki-pkn/
   - Mengintegrasikan hook symlink otomatis di `quartz/build.ts` yang membuat tautan `public/presentations -> ../presentations` setiap kali build dijalankan.
   - Verifikasi build Quartz v5 sukses 100% (113 Markdown terproses, 659 berkas web statis terbit ke `public/`).
 
+---
+
+### Milestone 37: Konversi 100% Diagram Mermaid ke Obsidian Canvas Resmi (`.canvas`) `[SELESAI]`
+- **Pemindaian & Analisis Menyeluruh Diagram Mermaid:**
+  - Menemukan dan memetakan 94 diagram Mermaid yang tersebar di 66 artikel Markdown di `content/`: 61 `graph` (TD/LR), 30 `flowchart` (TD/LR), 2 `mindmap` (`SOTABH.md` & `PKN Blueprint Arsitektur Sistem.md`), dan 1 `timeline` (`Perkembangan/index.md`).
+- **Pembangunan Engine Konversi & Layout Cerdas (`scripts/convert_all_mermaid_to_canvas.py` & `scripts/dag_layout.py`):**
+  - Mengembangkan parser sintaks Mermaid yang andal untuk node shapes (`[...]`, `(...)`, `{...}`, `((...))`), edge labels (`|label|`, `-- label -->`, `== label ==>`), subgraphs/clusters, dan format multi-arah (TD, TB, LR, RL).
+  - Algoritma Layout DAG (Topological Sort / Layered Hierarchy): Menghitung koordinat 2D node secara proporsional berdasarkan panjang teks dan baris, memusatkan baris/kolom secara simetris, dan mencegah tumpang tindih (*zero-overlapping*).
+  - Mendukung penanganan Subgraph Obsidian Canvas: Subgraph dipetakan menjadi node `type: "group"` dengan label judul dan bounding box yang membungkus rapi seluruh simpul anggota.
+  - Koneksi Panah Cerdas (*Smart Directional Edges*): Menghitung `fromSide` dan `toSide` secara dinamis berdasarkan posisi relatif simpul sumber dan target (top/bottom/left/right) untuk alur visual yang alami.
+  - Pewarnaan Semantik Obsidian Canvas (1–6): Coral/Merah (peringatan/masalah), Oranye/Kuning (proses/keputusan/pertanyaan), Hijau (tujuan/fitrah/solusi), Biru (akar/wahyu/tauhid), Ungu (sintesis pilar).
+- **Eksekusi Konversi Batch 94 Berkas `.canvas` (`content/canvas/`):**
+  - Menghasilkan 94 berkas `.canvas` berstandar resmi JSON Canvas 1.0 ke direktori terorganisir `content/canvas/`.
+  - Mengganti seluruh blok ````mermaid ... ```` pada 66 artikel Markdown dengan transklusi standar Obsidian/Quartz:
+    ```markdown
+    ![[canvas/Nama-Diagram.canvas]]
+    ```
+  - Menerapkan prinsip *Zero Deletion*: Tidak ada teks isi artikel, dalil, callout, atau metadata yang hilang atau terhapus.
+- **Penyempurnaan Tautan & Tombol Kanvas Interaktif Quartz:**
+  - Menyesuaikan i18n Quartz (`quartz/i18n/locales/id-ID.ts`) pada properti `transcludes.linkToOriginal` menjadi `"🔍 Buka Halaman Penuh ↗"`.
+  - Menambahkan styling responsif pada `a.transclude-src` di `quartz/styles/custom.scss` untuk tombol akses kanvas interaktif layar penuh dengan animasi hover halus.
+- **Verifikasi Build & Integritas:**
+  - `npx quartz build` sukses 100% tanpa error (113 file Markdown ter-parse, 94 file canvas ter-render menjadi halaman HTML interaktif dan WebP og-image, total 847 file statis terbit ke `public/`).
+
+
 
 
 

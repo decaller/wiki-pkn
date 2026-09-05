@@ -135,16 +135,7 @@ Bagaimana orang tua membumikan Bahasa Hati setiap hari di rumah tangga? Terapkan
 
 Dalam instrumen evaluasi **Laporan Perkembangan Karakter Santri (SKIS Semarang)**, Bahasa Hati dioperasionalkan ke dalam **Tiga Modalitas Fungsional Utama**. Setiap anak memiliki satu atau kombinasi modalitas yang paling cepat meresap dan meluluhkan hatinya:
 
-```mermaid
-graph TD
-    BH["Bahasa Hati (Lughatul Qalb)"] --> M1["1: Bahasa Pelayanan (Al-Khidmah)"]
-    BH --> M2["2: Bahasa Perlindungan (Al-Himayah)"]
-    BH --> M3["3: Bahasa Kebersamaan (Al-Mushahabah)"]
-
-    M1 --> D1["Melayani kemauan, menuruti permintaan wajar,<br/>menjaga rahasia, menutupi aib, memaafkan kesalahan"]
-    M2 --> D2["Membela saat terpojok, menghadirkan rasa aman batin,<br/>menepis kecemasan, menjadi benteng perlindungan"]
-    M3 --> D3["Menemani bermain, hadir utuh fisik & jiwa,<br/>merasakan empati anak, waktu tanpa gawai"]
-```
+![[canvas/Bahasa Hati - Tiga Modalitas Operasional Bahasa Hati dalam Evaluasi Santri (Manh.canvas]]
 
 | Modalitas Bahasa Hati | Bentuk Tindakan Pengasuhan Nyata | Tipe Anak yang Paling Responsif |
 |---|---|---|

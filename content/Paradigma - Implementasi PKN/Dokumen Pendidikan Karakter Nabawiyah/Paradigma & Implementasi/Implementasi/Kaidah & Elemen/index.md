@@ -156,22 +156,4 @@ Berikut adalah skenario penerapan nyata bagaimana 4 Kaidah dan 4 Elemen bekerja 
 
 ## Visualisasi Integrasi Kaidah dan Elemen PKN
 
-```mermaid
-flowchart TD
-    subgraph Fondasi["4 KAIDAH EMAS PKN"]
-        K1["1: Satu Anak Satu Kurikulum"]
-        K2["2: Tadarruj (Bertahap Alami)"]
-        K3["3: Teladan Sebelum Arahan"]
-        K4["4: Asah Bakat Dominan"]
-    end
-
-    subgraph Pilar["4 ELEMEN STRUKTURAL PKN"]
-        E1["Elemen 1: Manusia Beriman (Insan)"]
-        E2["Elemen 2: Adab & Akhlak Nabawiyah"]
-        E3["Elemen 3: Ilmu & Wawasan Luas"]
-        E4["Elemen 4: Amal Shalih & Peradaban"]
-    end
-
-    Fondasi ==> Pilar
-    Pilar ==> Buah["GENERASI KHALIFAH RABBANIYAH"]
-```
+![[canvas/Kaidah & Elemen - Visualisasi Integrasi Kaidah dan Elemen PKN.canvas]]

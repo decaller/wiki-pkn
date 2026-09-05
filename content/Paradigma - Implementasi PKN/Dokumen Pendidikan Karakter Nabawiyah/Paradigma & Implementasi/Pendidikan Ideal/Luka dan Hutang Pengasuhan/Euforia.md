@@ -59,19 +59,7 @@ Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah n
 
 Berikut adalah analisis komparatif dua sisi mata uang sindrom euforia yang wajib diwaspadai:
 
-```mermaid
-graph TD
-    subgraph DUA_EUFORIA["DUA SISI BAHAYA FASE EUFORIA"]
-        E1["1: EUFORIA HIJRAH ORANG TUA<br/>Semangat Baru Tanpa Tadarruj"]
-        E2["2: EUFORIA PELEPASAN ANAK<br/>Ledakan Dendam Fitrah Terpasung"]
-    end
-
-    E1 -->|Pola Ekstrem Seketika| P1["Rumah Menjadi Medan Teror Baru<br/>Bakar Mainan, Paksa Shalat Khusyuk Instan"]
-    P1 -->|Kelelahan Batin| B1["Burnout & Menyerah Kembali ke Pola Lama"]
-
-    E2 -->|Anak Mendapat Kebebasan| P2["Pemberontakan Pasca-Baligh<br/>Kecanduan Gawai Tanpa Batas, Pergaulan Bebas"]
-    P2 -->|Kehilangan Kendali| B2["Penolakan Total Terhadap Nasihat Agama"]
-```
+![[canvas/Euforia - Anatomi Dua Bentuk Euforia dalam Ranah Tarbiyah.canvas]]
 
 ### A. Euforia Hijrah Orang Tua (The Zealot Parent Trap)
 - Terjadi saat orang tua baru pulang dari seminar parenting atau kajian sunnah. Dengan semangat membara, dalam semalam mereka ingin mengubah rumah menjadi "pesantren mini": membuang semua mainan anak, mematikan internet total, memaksa balita duduk mengaji 2 jam, dan memarahi anak jika tidak segera khusyuk.

@@ -59,25 +59,7 @@ Para ulama salaf sepakat bahwa mendidik anak bermula dari menyucikan diri pendid
 
 Proses penyucian jiwa pendidik berlangsung melalui dua tahapan dialektis yang berkesinambungan:
 
-```mermaid
-graph LR
-    subgraph TAKHALLI["1: TAKHALLI (Pembersihan / Detoksifikasi)"]
-        T1["Mengikis Riya' & Sum'ah"]
-        T2["Membuang Amarah & Dendam"]
-        T3["Menghilangkan Kibir (Sombong)"]
-        T4["Menghindari Rezeki Syubhat"]
-    end
-
-    subgraph TAHALLI["2: TAHALLI (Penghiasan / Nutrisi Ruh)"]
-        H1["Menghias dengan Ikhlas Lillah"]
-        H2["Menghias dengan Kelembutan (Rifq)"]
-        H3["Menghias dengan Tawadhu' & Sabar"]
-        H4["Menghias dengan Qiyamul Lail & Doa"]
-    end
-
-    TAKHALLI --> TAHALLI
-    TAHALLI --> Pancaran["Pancaran Wibawa Nabawiyah (Koneksi Batin Pendidik & Anak)"]
-```
+![[canvas/Tazkiyatun Nafs - Dua Etape Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]]
 
 ### A. Etape Takhalli (Detoksifikasi Racun Hati)
 - **Mengikis Riya' Pengasuhan:** Sering kali orang tua mendidik anak bukan karena Allah, melainkan demi memuaskan gengsi sosial: agar dipuji sebagai "keluarga teladan" atau "orang tua sukses". Riya' ini meracuni ketulusan hubungan dengan anak.

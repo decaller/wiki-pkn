@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "Root",
+      "type": "text",
+      "text": "Paradigma & Implementasi PKN",
+      "x": -1183,
+      "y": 43,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "1: [[Insan]]\n(Pondasi Hakikat Manusia)",
+      "x": -821,
+      "y": 39,
+      "width": 265,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "2: [[Pendidikan Ideal]]\n(Metodologi & Benang Merah)",
+      "x": -486,
+      "y": 39,
+      "width": 283,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "3: [[Implementasi]]\n(Kaidah, Elemen & Tanggung Jawab)",
+      "x": -133,
+      "y": 39,
+      "width": 337,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C2",
+      "type": "text",
+      "text": "• [[Benang Merah Pendidikan]] (Wasathiyah)\n• [[Metode Mendidik]] (Bahasa Hati, Lisan, Tangan)\n• [[Pembelajaran Alamiah]]\n• [[Batas Toleransi]] & [[Imunitas Sosial]]\n• [[Luka dan Hutang Pengasuhan]] & [[Recovery]]",
+      "x": 273,
+      "y": 0,
+      "width": 420,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "C3",
+      "type": "text",
+      "text": "• [[4 Kaidah Implementasi]] (Taisir, Qudwah, Rahmah, Tadarruj)\n• [[4 Elemen Implementasi]] (Ghayah, Manhaj, Uslub, Taqyim)\n• [[Tazkiyatun Nafs]] & [[Tawakkal dan Doa]]\n• [[Tanggung Jawab Pendidikan]]\n• [[Peran Ayah dan Bunda]] & [[Peran Guru dan Lembaga Pendidikan]]",
+      "x": 763,
+      "y": 0,
+      "width": 420,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "C1",
+      "type": "text",
+      "text": "• [[Tujuan Hidup Manusia]]\n• [[Bersatunya Ruh dan Jasad Membentuk Jiwa]]\n• [[Pembagian Jiwa]] (Muthmainnah, Lawwamah, Ammarah)\n• [[Fitrah (Karakter)]] (Iman, Belajar, Bakat)\n• [[Perkembangan]] (Thufulah s/d Syabab)",
+      "x": -210,
+      "y": 256,
+      "width": 420,
+      "height": 166,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_6_P1_C1",
+      "fromNode": "P1",
+      "fromSide": "right",
+      "toNode": "C1",
+      "toSide": "left"
+    }
+  ]
+}

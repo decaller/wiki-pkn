@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "SY",
+      "type": "text",
+      "text": "Pemuda Mukallaf Mandiri (Syabab)",
+      "x": -409,
+      "y": 0,
+      "width": 328,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "1: Kesiapan Ruhiyah: Istiqamah Ibadah & Muraqabatullah",
+      "x": -11,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "2: Kesiapan Kafa'ah Finansial: Menghasilkan Nafkah Halal Sendiri",
+      "x": -455,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "3: Kesiapan Ba'ah Pernikahan: Siap Menjadi Qowwamah Keluarga",
+      "x": 35,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_SY_P2",
+      "fromNode": "SY",
+      "fromSide": "bottom",
+      "toNode": "P2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_3_SY_P3",
+      "fromNode": "SY",
+      "fromSide": "right",
+      "toNode": "P3",
+      "toSide": "left"
+    }
+  ]
+}

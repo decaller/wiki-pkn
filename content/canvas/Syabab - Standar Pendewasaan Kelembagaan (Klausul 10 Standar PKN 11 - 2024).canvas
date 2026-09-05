@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    {
+      "id": "STANDAR_PENDEWASAAN",
+      "type": "group",
+      "label": "6 PILAR STANDAR PENDEWASAAN SANTRI (KLAUSUL 10)",
+      "x": -1262,
+      "y": -50,
+      "width": 2524,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "10.1 Pembinaan Kepemudaan & Kerumahtanggaan\n(Fiqh Munakahat & Qawwamah)",
+      "x": -1232,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "10.2 Pembelajaran Berbasis Proyek\n(Solusi Masalah Nyata Umat)",
+      "x": -742,
+      "y": 0,
+      "width": 337,
+      "height": 88,
+      "color": "1"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "10.3 Pengelolaan Sarpras oleh Santri\n(Ownership & Kemandirian)",
+      "x": -335,
+      "y": 0,
+      "width": 364,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "10.4 Pemandirian Finansial Putra\n(Menabung & Usaha Mandiri)",
+      "x": 99,
+      "y": 0,
+      "width": 328,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K5",
+      "type": "text",
+      "text": "10.5 Pemandirian Domestik Putri\n(Rabbatul Bait & Gizi Sehat)",
+      "x": 497,
+      "y": 0,
+      "width": 319,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "K6",
+      "type": "text",
+      "text": "10.6 Program Magang Nyata\n(Apprenticeship di Bawah Praktisi)",
+      "x": 886,
+      "y": 0,
+      "width": 346,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Generasi Syabab Tangguh: Mandiri, Bertauhid, dan Siap Berkeluarga",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_STANDAR_PENDEWASAAN_Output",
+      "fromNode": "STANDAR_PENDEWASAAN",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    }
+  ]
+}

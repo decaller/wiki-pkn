@@ -50,16 +50,7 @@ Pendidikan sejati dalam tradisi Islam bukanlah proses fabrikasi massal atau peny
 1. **Sebagai 'Abdullah (Hamba Allah):** Mengikhlaskan seluruh ibadah, ketaatan, cinta, dan ketundukan vertikal hanya kepada Allah Ta'ala tanpa menyekutukan-Nya.
 2. **Sebagai Khalifah fil Ardh (Wakil Pemakmur Bumi):** Menegakkan keadilan, menyebarkan rahmat bagi semesta alam (*rahmatan lil 'alamin*), dan membangun peradaban berbasis optimalisasi 40 pilar [[Bakat]] yang diamanahkan Allah.
 
-```mermaid
-graph TD
-    A["ALLAH TA'ALA<br/>Maha Pencipta & Penguasa Semesta"] -->|Nafkhatur Ruh| B["🌌 Dimensi Ruh (Langit)<br/>Cahaya Tauhid, Nurani, Kerinduan Ilahi"]
-    A -->|Sari Pati Tanah| C["🌍 Dimensi Jasad (Bumi)<br/>Struktur Biologis, Panca Indera, Syahwat Fisik"]
-    B & C --> D["⚡ AN-NAFS (JIWA / KESADARAN)<br/>Medan Ujian, Ikhtiar Moral, & Karakter"]
-    D -->|Tarbiyah Nabawiyah| E["DWI-MANDAT EKSISTENSIAL"]
-    E --> F["🕋 'Abdullah (Hamba Allah)<br/>QS. Adz-Dzariyat: 56"]
-    E --> G["🌱 Khalifah fil Ardh (Pengelola Bumi)<br/>QS. Al-Baqarah: 30"]
-    F & G --> H["🎯 INSAN KAMIL / MUKALLAF<br/>Akil-Baligh Mandiri, Tangguh, Beradab"]
-```
+![[canvas/Insan - Epistemologi & Landasan Teologis Insan PKN.canvas]]
 
 ---
 
@@ -104,31 +95,7 @@ Merujuk pada telaah psiko-spiritual Islam klasik karya Imam Abu Hamid Al-Ghazali
 | **Jasad (*Al-Jasad*)** | Alam Kebumian / Tanah Liat (*Sulalatin min Thiin*) | Tunduk pada gravitasi dan hukum biologis: butuh nutrisi, gerak, tidur, dan syahwat alami. | Kendaraan amal saleh; dilatih melalui adab fisik, ketangkasan, dan kehalalan konsumsi. | Dominasi insting kebinatangan (*hayawaniyah*), malas, obesitas, kecanduan indrawi. |
 | **Jiwa (*An-Nafs*)** | Titik Temu Ruh & Jasad | Memiliki kesadaran (*syu'ur*), kehendak bebas (*masyi'ah*), dan akal budi (*'aql*). | Medan pertarungan utama tarbiyah: tazkiyah dari [[Ammarah]] menuju [[Muthmainnah]]. | Kerasnya hati (*qaswatul qalb*), cinta dunia buta, penyimpangan karakter bawaan. |
 
-```mermaid
-graph LR
-    subgraph LANGIT["🌌 DIMENSI RUH"]
-        R1["Nurani Ilahi"]
-        R2["Fitrah Tauhid"]
-        R3["Transendensi Nilai"]
-    end
-
-    subgraph MEDAN_NAFS["⚡ MEDAN PERTARUNGAN JIWA (AN-NAFS)"]
-        N1["Nafsul Muthmainnah<br/>(Ketenangan Tauhid & Ridha)"]
-        N2["Nafsul Lawwamah<br/>(Nalar Kritis & Muhasabah)"]
-        N3["Nafsul Ammarah<br/>(Impuls Syahwat Kebumian)"]
-        N3 -->|Tazkiyah & Adab| N2
-        N2 -->|Pematangan Iman & Bakat| N1
-    end
-
-    subgraph BUMI["🌍 DIMENSI JASAD"]
-        J1["Sensori & Motorik"]
-        J2["Kebutuhan Biologis"]
-        J3["Ketahanan Fisik"]
-    end
-
-    LANGIT -->|Bimbingan Hidayah| MEDAN_NAFS
-    BUMI -->|Tuntutan Kebutuhan| MEDAN_NAFS
-```
+![[canvas/Insan - Arsitektur Tripartit Insan - Ruh, Jasad, dan Nafs.canvas]]
 
 ---
 
@@ -174,13 +141,7 @@ Gerbang induk menuju eksplorasi karakter holistik anak, yang menaungi empat caba
 
 Untuk menerapkan Paradigma Insan secara sistematis di rumah maupun di sekolah, berikut alur bertahap yang direkomendasikan:
 
-```mermaid
-flowchart TD
-    Step1["LANGKAH 1: PENATAAN VISI<br/>Pelajari [[Tujuan Hidup Manusia]]<br/>Luruskan orientasi akhirat & khilafah"] --> Step2["LANGKAH 2: PEMAHAMAN STRUKTUR DIRI<br/>Pelajari [[Bersatunya Ruh dan Jasad Membentuk Jiwa]]<br/>Pahami tarik-menarik langit vs bumi"]
-    Step2 --> Step3["LANGKAH 3: DIAGNOSA KONDISI JIWA<br/>Pelajari [[Pembagian Jiwa]]<br/>Deteksi: Apakah anak di fase Ammarah atau Lawwamah?"]
-    Step3 --> Step4["LANGKAH 4: INTERVENSI FITRAH KHUSUS<br/>Pelajari [[Fitrah (Karakter)]]<br/>Isi [[Tangki Cinta]], rangsang [[Belajar]], petakan [[Bakat]]"]
-    Step4 --> Step5["LANGKAH 5: EKSEKUSI SESUAI USIA<br/>Terapkan etape [[Perkembangan]]<br/>Thufulah (0-7) ➔ Tamyiz (7-10) ➔ Murahaqah (10-Baligh)"]
-```
+![[canvas/Insan - Alur Belajar & Roadmap Kurikuler bagi Orang Tua dan Pendidik.canvas]]
 
 ### Penjelasan 5 Langkah Penerapan:
 1. **Langkah 1 (Penataan Visi):** Orang tua membersihkan motif pengasuhan dari ambisi duniawi sempit, menyelaraskan masa depan ananda dengan mandat ibadah dan khilafah.

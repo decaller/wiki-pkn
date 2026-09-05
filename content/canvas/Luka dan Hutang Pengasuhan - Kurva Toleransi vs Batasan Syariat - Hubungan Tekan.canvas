@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "0 - 7 Tahun (Thufulah)\nToleransi Paling Longgar",
+      "x": 36,
+      "y": -133,
+      "width": 256,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "10 Tahun - Baligh (Murahaqah)\nBatasan Syariat & Disiplin Tegas",
+      "x": 0,
+      "y": 45,
+      "width": 328,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "7 - 10 Tahun (Tamyiz)\nPembiasaan Lembut Tanpa Pukulan",
+      "x": 398,
+      "y": -133,
+      "width": 319,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": ">14 Tahun (Syabab)\nMukallaf Mandiri Penuh",
+      "x": 437,
+      "y": 45,
+      "width": 240,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A_B",
+      "fromNode": "A",
+      "fromSide": "right",
+      "toNode": "B",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_C_D",
+      "fromNode": "C",
+      "fromSide": "right",
+      "toNode": "D",
+      "toSide": "left"
+    }
+  ]
+}

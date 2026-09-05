@@ -50,16 +50,7 @@ Halaman ini membedah arsitektur akuntabilitas dan pembagian peran para pemangku 
 
 ## 1. Segitiga Emas Ekosistem Pendidikan Nabawiyah
 
-```mermaid
-graph TD
-    Keluarga["🏠 KELUARGA (PENANGGUNG JAWAB UTAMA - FARDHU 'AIN)<br/>• [[Peran Ayah dan Bunda]]: Qawwamah & Rahimah<br/>• [[Tanggung Jawab Pendidikan]]: Perlindungan Api Neraka"]
-    Sekolah["🏫 SEKOLAH / GURU (MITRA PENOPANG - WARATSATUL ANBIYA')<br/>• [[Peran Guru dan Lembaga Pendidikan]]: Transfer Adab & Keahlian<br/>• Fasilitasi 40 Bakat Unik Murid Tanpa Penyeragaman Kaku"]
-    Masyarakat["🌍 MASYARAKAT / LINGKUNGAN (BENTENG BUDAYA)<br/>• Kontrol Sosial Amar Ma'ruf Nahi Munkar<br/>• Penyediaan Ekosistem Shalih Penumbuh [[Imunitas Sosial]]"]
-
-    Keluarga <-->|Amanah & Delegasi Terbatas| Sekolah
-    Sekolah <-->|Kiprah & Pengabdian Nyata| Masyarakat
-    Masyarakat <-->|Benteng Budaya Bersama| Keluarga
-```
+![[canvas/Peran & Tanggung Jawab - Segitiga Emas Ekosistem Pendidikan Nabawiyah.canvas]]
 
 ---
 

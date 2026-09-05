@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "AlQuran",
+      "type": "text",
+      "text": "📖 WAHYU ILAHI\nAl-Qur'an & As-Sunnah As-Shahihah",
+      "x": -1098,
+      "y": 0,
+      "width": 337,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "PKN",
+      "type": "text",
+      "text": "🌟 PENDIDIKAN KARAKTER NABAWIYAH",
+      "x": -691,
+      "y": 4,
+      "width": 319,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Branch1",
+      "type": "text",
+      "text": "🏛️ PARADIGMA PENDIDIKAN\nHakikat Insan, Fitrah, & Kematangan Akil-Baligh",
+      "x": -302,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Branch2",
+      "type": "text",
+      "text": "⚙️ IMPLEMENTASI OPERASIONAL\nKaidah, 8 Standar, Peran Segitiga Emas, & RPP",
+      "x": 188,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Branch3",
+      "type": "text",
+      "text": "📋 STANDAR & TEMPLATE\nInstrumen Evaluasi, Lembar Observasi 3A, & Format RPP",
+      "x": 678,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Goal",
+      "type": "text",
+      "text": "🎯 INSAN KAMIL MUKALLAF\n'Abdullah yang Taat & Khalifah Pemakmur Bumi",
+      "x": -210,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_11_Branch2_Goal",
+      "fromNode": "Branch2",
+      "fromSide": "left",
+      "toNode": "Goal",
+      "toSide": "right"
+    },
+    {
+      "id": "e_12_Branch3_Goal",
+      "fromNode": "Branch3",
+      "fromSide": "left",
+      "toNode": "Goal",
+      "toSide": "right"
+    }
+  ]
+}

@@ -69,14 +69,7 @@ Bahasa Tangan **baru diizinkan penggunaannya pada anak usia 10 tahun ke atas (Fa
 
 Para fukaha dan ulama tarbiyah menetapkan **4 Syarat Ketat** yang tidak boleh dilanggar dalam menjatuhkan sanksi fisik:
 
-```mermaid
-graph TD
-    BT["Syarat Syar'i Bahasa Tangan"]
-    BT --> S1["1: Usia Minimal 10 Tahun & Didahului 3 Tahun Nasihat"]
-    BT --> S2["2: Motivasi Rahmah Bukan Luapan Amarah (Ghadhab)"]
-    BT --> S3["3: Pukulan Simbolis (Ghairu Mubarrih) & Haram di Wajah"]
-    BT --> S4["4: Bersifat Personal Tanpa Mempermalukan Publik"]
-```
+![[canvas/Bahasa Tangan - Empat Syarat Syar'i Mutlak Penggunaan Bahasa Tangan.canvas]]
 
 ### 1. Telah Melewati Fase Bahasa Hati (0–7 th) & Lisan (7–10 th)
 Sanksi pukulan di usia 10 tahun adalah hak syariat yang sah hanya jika orang tua telah tuntas mengisi tangki cinta anak selama 7 tahun pertama dan telah konsisten mengajak shalat dengan lisan santun selama 3 tahun penuh (usia 7–10 tahun). Jika orang tua tidak pernah mengajari shalat di usia 7 tahun lalu tiba-tiba memukul di usia 10 tahun, maka orang tualah yang berdosa.

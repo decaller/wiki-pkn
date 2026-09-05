@@ -63,22 +63,7 @@ Sebagaimana hutang finansial yang terus berbunga jika tidak dibayar, hutang peng
 
 Hutang pengasuhan terjadi ketika orang tua menerapkan metode yang melompati sunnatullah tahapan perkembangan anak:
 
-```mermaid
-graph TD
-    subgraph "Fase 1: Usia 0–7 Tahun (Thufulah)"
-        H1["Hak: Bermain Bebas & Tuntas Egosentris"] -->|Jika Dikekang / Dimarahi| D1["Hutang Cinta & Egosentris Belum Tuntas"]
-    end
-
-    subgraph "Fase 2: Usia 7–10 Tahun (Tamyiz)"
-        H2["Hak: Belajar Alami & Trial-Error"] -->|Jika Dibungkam / Dituntut Nilai| D2["Hutang Inisiatif & Takut Berbuat Salah"]
-    end
-
-    subgraph "Fase 3: Usia 10–Baligh (Murahaqah)"
-        H3["Hak: Berkarya & Latihan Mandiri"] -->|Jika Dimanja / Diabaikan Ayah| D3["Hutang Identitas & Father Hunger"]
-    end
-
-    D1 & D2 & D3 --> K["Akumulasi: Ledakan Euforia & Trauma Spiritual"]
-```
+![[canvas/Luka dan Hutang Pengasuhan - Mekanisme Terjadinya Hutang per Fase Usia.canvas]]
 
 ### 1. Defisit Fase Thufulah (0–7 Tahun): Egosentris yang Belum Tuntas
 Pada usia 0–7 tahun, anak adalah "Raja" yang berhak dimanjakan dengan kasih sayang tanpa syarat (*Bahasa Hati*). Hak bermain dan rasa ingin tahunya harus dituntaskan dengan 3 syarat:
@@ -103,26 +88,7 @@ Kajian resmi *Kondisi Jiwa Anak* membedah bahwa hutang pengasuhan secara langsun
 2. **Nafsul Lawwamah (النَّفْسُ اللَّوَّامَةُ):** Jiwa yang mulai memiliki kesadaran nalar, mencela diri sendiri saat bersalah, dan menimbang kaidah hukum syariat (QS. Al-Qiyamah: 2).
 3. **Nafsul Muthma'innah (النَّفْسُ الْمُطْمَئِنَّةُ):** Jiwa yang tenang, ikhlas, tunduk dengan penuh kerinduan kepada Allah, dan merasakan lezatnya ibadah (QS. Al-Fajr: 27-28).
 
-```mermaid
-graph TD
-    subgraph Jiwa["3 TINGKAT JIWA MANUSIA"]
-        M["Nafsul Muthma'innah<br/>(Afeksi: Ikhlas, Ridha & Khusyu')"]
-        L["Nafsul Lawwamah<br/>(Kognisi: Paham Makna & Sadar Diri)"]
-        A["Nafsul Ammarah<br/>(Motorik: Reflek Hafalan & Gerak Tubuh)"]
-        M --> L --> A
-    end
-
-    subgraph Shalat["MANIFESTASI DALAM SHALAT SANTRI"]
-        M1["Hati Tenteram & Khusyu'<br/>(Shalat Tanpa Disuruh)"]
-        L1["Memahami Bacaan & Gerakan<br/>(Mengerti Mengapa Shalat)"]
-        A1["Sekadar Gugur Kewajiban<br/>(Cepat, Malas, atau Terpaksa)"]
-        M1 --> L1 --> A1
-    end
-
-    M -.-> M1
-    L -.-> L1
-    A -.-> A1
-```
+![[canvas/Luka dan Hutang Pengasuhan - Dinamika Psikospiritual - Tiga Tingkat Jiwa & Barom.canvas]]
 
 ### Barometer Shalat bagi Kesehatan Jiwa Anak
 Ketika anak mengalami penumpukan hutang pengasuhan dan defisit tangki cinta, kondisi jiwanya merosot ke level *Ammarah*. Akibatnya, ibadah shalat anak hanya sebatas **pengguguran kewajiban mekanik** (motorik belaka):
@@ -150,12 +116,7 @@ Banyak orang tua dan pendidik merasa telah menasihati anak dengan sangat lembut,
 
 Berdasarkan naskah *Seminar 1: Kondisi Jiwa Anak*, akumulasi akhlaq tercela pada anak adalah fungsi dari **ketidaksesuaian perlakuan orang tua terhadap kurva perkembangan fitrah**:
 
-```mermaid
-graph LR
-    A["0 - 7 Tahun (Thufulah)<br/>Toleransi Paling Longgar"] --> B["7 - 10 Tahun (Tamyiz)<br/>Pembiasaan Lembut Tanpa Pukulan"]
-    B --> C["10 Tahun - Baligh (Murahaqah)<br/>Batasan Syariat & Disiplin Tegas"]
-    C --> D[">14 Tahun (Syabab)<br/>Mukallaf Mandiri Penuh"]
-```
+![[canvas/Luka dan Hutang Pengasuhan - Kurva Toleransi vs Batasan Syariat - Hubungan Tekan.canvas]]
 
 ### Distorsi Pengasuhan Modern
 1. **Terlalu Keras di Usia Dini (0–7 Tahun):**

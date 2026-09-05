@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "Kajian & Buku PKN\n(Wawasan Kognitif)",
+      "x": 30,
+      "y": -311,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "Tazkiyatun Nafs\n(Pembersihan Hati Pendidik)",
+      "x": 9,
+      "y": -133,
+      "width": 283,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "Observasi Fitrah & Rukun 3A\n(Instrumen SOTABH)",
+      "x": 9,
+      "y": 45,
+      "width": 283,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "Ekosistem Rumah & Kelas\n(Aksi Lapangan Berkelanjutan)",
+      "x": 0,
+      "y": 223,
+      "width": 301,
+      "height": 88,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

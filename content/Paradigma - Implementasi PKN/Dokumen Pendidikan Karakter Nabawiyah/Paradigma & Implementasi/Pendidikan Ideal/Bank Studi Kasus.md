@@ -65,19 +65,7 @@ Setiap konflik adalah ruang bagi seorang anak untuk bertransformasi menjadi seor
 
 Kerangka ini berakar pada prinsip *Adab al-Mu'allimin* (Etika Pendidik), di mana peran orang tua adalah sebagai arsitek jiwa yang memegang amanah besar (*Mas’uliyah ‘Adhimah*).
 
-```mermaid
-flowchart TD
-    A["Langkah 1: Tangki Cinta (Koneksi Rahmah)"] --> B{"Apakah Hati Anak Terbuka?"}
-    B -- "Ya" --> C["Langkah 2: Bahasa Hati (Resonansi Kalbu & Empati)"]
-    B -- "Belum" --> A1["Isi Tangki Cinta: Pelukan, Kebersamaan, Validasi Emosi"] --> A
-    C --> D{"Apakah Siap Dialog Reflektif?"}
-    D -- "Ya" --> E["Langkah 3: Bahasa Lisan (Dialog Aqil & Pembacaan Bobot Moral)"]
-    D -- "Belum (Defensif / Emosional)" --> C1["Metode 'Turun Gas': Kembali ke Bahasa Hati & Recovery EMISOL"] --> C
-    E --> F{"Apakah Perlu Penegakan Batas Fisik?"}
-    F -- "Ya (Syarat Ketat Terpenuhi)" --> G["Langkah 4: Bahasa Tangan (Ta'dib Edukatif, Batas Hak, Restitusi)"]
-    F -- "Cukup Lisan" --> H["Restorasi Adab Tuntas"]
-    G --> H
-```
+![[canvas/Bank Studi Kasus - Kerangka Kerja Restorasi - Metode Empat Langkah ( - The 4 - S.canvas]]
 
 ### Penjelasan 4 Langkah:
 

@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "KONDISI_JIWA",
+      "type": "group",
+      "label": "PETA TRILOGI JIWA DALAM PKN",
+      "x": -655,
+      "y": -50,
+      "width": 1310,
+      "height": 246,
+      "color": "5"
+    },
+    {
+      "id": "Muth",
+      "type": "text",
+      "text": "1: NAFSUL MUTHMAINNAH\n<b>Dimensi Hati (Qalbu)</b>\nHak: Disenangkan (Edukasi Rasa)\nBahasa Utama: [[Bahasa Hati]]\nFokus: Karakter Iman & Tangki Cinta",
+      "x": -625,
+      "y": 0,
+      "width": 355,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "Laww",
+      "type": "text",
+      "text": "2: NAFSUL LAWWAMAH\n<b>Dimensi Akal (Otak/Fikr)</b>\nHak: Dipahamkan (Edukasi Logika)\nBahasa Utama: [[Bahasa Lisan]]\nFokus: Karakter Belajar & Nalar Kritis",
+      "x": -200,
+      "y": 0,
+      "width": 382,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "Amm",
+      "type": "text",
+      "text": "3: NAFSUL AMMARAH\n<b>Dimensi Jasad (Fisik/Gerak)</b>\nHak: Dibiasakan (Edukasi Gerak)\nBahasa Utama: [[Bahasa Tangan]]\nFokus: Karakter Bakat & Disiplin Aksi",
+      "x": 252,
+      "y": 0,
+      "width": 373,
+      "height": 166,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Amm_Laww",
+      "fromNode": "Amm",
+      "fromSide": "left",
+      "toNode": "Laww",
+      "toSide": "right",
+      "label": "Didisiplinkan & Diarahkan"
+    },
+    {
+      "id": "e_1_Laww_Muth",
+      "fromNode": "Laww",
+      "fromSide": "left",
+      "toNode": "Muth",
+      "toSide": "right",
+      "label": "Dituntun Hikmah & Hidayah"
+    },
+    {
+      "id": "e_2_Muth_Amm",
+      "fromNode": "Muth",
+      "fromSide": "right",
+      "toNode": "Amm",
+      "toSide": "left",
+      "label": "Memimpin & Mensucikan"
+    }
+  ]
+}

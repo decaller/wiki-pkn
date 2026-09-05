@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "id": "BM",
+      "type": "text",
+      "text": "Memerintah (At-Ta'tsir)",
+      "x": -327,
+      "y": 0,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "Sub 12: Suka Menolong & Berkorban",
+      "x": -10,
+      "y": 0,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "Sub 10: Suka Menguasai / Menertibkan",
+      "x": -779,
+      "y": 170,
+      "width": 364,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "Sub 11: Suka Memotivasi / Mengarahkan",
+      "x": -345,
+      "y": 170,
+      "width": 373,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P23",
+      "type": "text",
+      "text": "#23 Nushrah (Membela Tertindas)",
+      "x": 98,
+      "y": 170,
+      "width": 319,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P24",
+      "type": "text",
+      "text": "#24 Juud (Dermawan Pemimpin)",
+      "x": 487,
+      "y": 170,
+      "width": 292,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P18",
+      "type": "text",
+      "text": "#18 Syajaa'ah (Keberanian Ksatria)",
+      "x": -1009,
+      "y": 340,
+      "width": 346,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P19",
+      "type": "text",
+      "text": "#19 Ghairah (Cemburu Membela Syariat)",
+      "x": -593,
+      "y": 340,
+      "width": 373,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P20",
+      "type": "text",
+      "text": "#20 Munaafasah (Fastabiqul Khairat)",
+      "x": -150,
+      "y": 340,
+      "width": 355,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P21",
+      "type": "text",
+      "text": "#21 Nashiihah (Tulus Membimbing)",
+      "x": 274,
+      "y": 340,
+      "width": 328,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P22",
+      "type": "text",
+      "text": "#22 Fashaahah (Fasih Artikulatif)",
+      "x": 672,
+      "y": 340,
+      "width": 337,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_BM_G1",
+      "fromNode": "BM",
+      "fromSide": "left",
+      "toNode": "G1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_1_BM_G2",
+      "fromNode": "BM",
+      "fromSide": "bottom",
+      "toNode": "G2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_G1_P18",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P18",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_G1_P19",
+      "fromNode": "G1",
+      "fromSide": "right",
+      "toNode": "P19",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_G1_P20",
+      "fromNode": "G1",
+      "fromSide": "right",
+      "toNode": "P20",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_G2_P21",
+      "fromNode": "G2",
+      "fromSide": "right",
+      "toNode": "P21",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_G2_P22",
+      "fromNode": "G2",
+      "fromSide": "right",
+      "toNode": "P22",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_G3_P23",
+      "fromNode": "G3",
+      "fromSide": "bottom",
+      "toNode": "P23",
+      "toSide": "top"
+    },
+    {
+      "id": "e_10_G3_P24",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P24",
+      "toSide": "left"
+    }
+  ]
+}

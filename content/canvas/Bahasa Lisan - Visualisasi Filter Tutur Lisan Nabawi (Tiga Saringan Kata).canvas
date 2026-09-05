@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "id": "Lisan",
+      "type": "group",
+      "label": "FILTER TUTUR KATA PENDIDIK",
+      "x": -858,
+      "y": -50,
+      "width": 1716,
+      "height": 686,
+      "color": "5"
+    },
+    {
+      "id": "In",
+      "type": "text",
+      "text": "Kata / Dorongan yang Ingin Diucapkan",
+      "x": -182,
+      "y": 0,
+      "width": 364,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "F1",
+      "type": "text",
+      "text": "Filter 1: Ash-Shidq\nApakah Benar & Bebas Labeling?",
+      "x": -155,
+      "y": 170,
+      "width": 310,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "Ya",
+      "type": "text",
+      "text": "Ya",
+      "x": -275,
+      "y": 348,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Tidak",
+      "type": "text",
+      "text": "Tidak",
+      "x": 35,
+      "y": 348,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "F2",
+      "type": "text",
+      "text": "Filter 2: Al-Adab\nApakah Santun & Memuliakan Fitrah?",
+      "x": -828,
+      "y": 518,
+      "width": 346,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "F3",
+      "type": "text",
+      "text": "Filter 3: Al-Manfa'ah\nApakah Berdaya Ubah & Bernilai Doa?",
+      "x": -412,
+      "y": 518,
+      "width": 355,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "Speak",
+      "type": "text",
+      "text": "Ucapkan dengan Nada Teduh & Sejajar Mata",
+      "x": 12,
+      "y": 522,
+      "width": 400,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Silent",
+      "type": "text",
+      "text": "Tahan Lisan / Alihkan ke Doa Batin",
+      "x": 482,
+      "y": 522,
+      "width": 346,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_In_F1",
+      "fromNode": "In",
+      "fromSide": "bottom",
+      "toNode": "F1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_F1_Ya",
+      "fromNode": "F1",
+      "fromSide": "bottom",
+      "toNode": "Ya",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_Ya_F2",
+      "fromNode": "Ya",
+      "fromSide": "left",
+      "toNode": "F2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_3_F1_Tidak",
+      "fromNode": "F1",
+      "fromSide": "bottom",
+      "toNode": "Tidak",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_Tidak_Silent",
+      "fromNode": "Tidak",
+      "fromSide": "right",
+      "toNode": "Silent",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_F2_Ya",
+      "fromNode": "F2",
+      "fromSide": "right",
+      "toNode": "Ya",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_Ya_F3",
+      "fromNode": "Ya",
+      "fromSide": "bottom",
+      "toNode": "F3",
+      "toSide": "top"
+    },
+    {
+      "id": "e_7_F2_Tidak",
+      "fromNode": "F2",
+      "fromSide": "right",
+      "toNode": "Tidak",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_Tidak_Silent",
+      "fromNode": "Tidak",
+      "fromSide": "right",
+      "toNode": "Silent",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_F3_Ya",
+      "fromNode": "F3",
+      "fromSide": "top",
+      "toNode": "Ya",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e_10_Ya_Speak",
+      "fromNode": "Ya",
+      "fromSide": "right",
+      "toNode": "Speak",
+      "toSide": "left"
+    },
+    {
+      "id": "e_11_F3_Tidak",
+      "fromNode": "F3",
+      "fromSide": "right",
+      "toNode": "Tidak",
+      "toSide": "left"
+    },
+    {
+      "id": "e_12_Tidak_Silent",
+      "fromNode": "Tidak",
+      "fromSide": "right",
+      "toNode": "Silent",
+      "toSide": "left"
+    }
+  ]
+}

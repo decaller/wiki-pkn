@@ -58,20 +58,7 @@ Pendidikan Karakter Nabawiyah menolak secara tegas teori sekuler Barat seperti d
 
 Pendidikan Karakter Nabawiyah memetakan fitrah anak ke dalam empat rumpun dimensi yang saling terintegrasi:
 
-```mermaid
-graph TD
-    subgraph POHON_FITRAH["EMPAT DIMENSI FITRAH INSAN"]
-        F1["1: [[Iman|Fitrah Keimanan]]<br/>Kerinduan Tauhid, Pengenalan Khaliq, Rasa Takjub & Tunduk"]
-        F2["2: [[Belajar|Fitrah Belajar & Bernalar]]<br/>Rasa Ingin Tahu, Eksperimen (Tajribah), Nalar Kritis & Logika"]
-        F3["3: [[Bakat|Fitrah Bakat & Karakteristik]]<br/>40 Pilar Keunikan Syakilah, Ragam Kecerdasan & Kontribusi Peradaban"]
-        F4["4: [[Perkembangan|Fitrah Perkembangan Usia]]<br/>Tahapan Biopsikospiritual: Thufulah, Tamyiz, Murahaqah, Menuju Akil-Baligh"]
-    end
-
-    F1 --> Pusat["Keseimbangan Kepribadian Insan Kamil (Akil-Baligh Mukallaf)"]
-    F2 --> Pusat
-    F3 --> Pusat
-    F4 --> Pusat
-```
+![[canvas/Fitrah (Karakter) - Empat Dimensi Fitrah Utama dalam PKN.canvas]]
 
 ### A. [[Iman|Fitrah Keimanan (Fitratul Iman)]]
 - Merupakan akar dari seluruh fitrah. Setiap jiwa anak telah bersaksi di alam ruh bahwa Allah adalah Rabb-nya (*QS. Al-A'raf: 172*).

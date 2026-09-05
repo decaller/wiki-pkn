@@ -66,21 +66,7 @@ Karakteristik khas anak berbakat Melayani:
 
 Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18:
 
-```mermaid
-graph TD
-    BMel["Melayani (Al-Khidmah)"] --> G1["Sub 16: Melayani dengan Memberi"]
-    BMel --> G2["Sub 17: Melayani dengan Menjaga"]
-    BMel --> G3["Sub 18: Melayani dengan Mengalah & Sabar"]
-
-    G1 --> P33["#33 Rahmah (Belas Kasih Murni)"]
-    G1 --> P34["#34 Itsaar (Mendahulukan Saudara)"]
-    G2 --> P35["#35 Kitmaanus Sirr (Menjaga Rahasia)"]
-    G2 --> P36["#36 Satr (Menutup Aib Sesama)"]
-    G3 --> P37["#37 Amaanah (Bertanggung Jawab)"]
-    G3 --> P38["#38 Anaah (Tenang & Cermat)"]
-    G3 --> P39["#39 Hilm (Pemaaf Lapang Dada)"]
-    G3 --> P40["#40 Shabr (Tabah Bertahan)"]
-```
+![[canvas/Melayani - Delapan Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #33: Rahmah (الرَّحْمَة - Kasih Sayang Murni)
 * **Sub-Kelompok:** Melayani dengan Memberi (Ekstrovert + Rasa)

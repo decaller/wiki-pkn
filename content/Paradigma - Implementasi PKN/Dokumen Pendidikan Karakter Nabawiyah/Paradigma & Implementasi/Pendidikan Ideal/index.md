@@ -64,15 +64,7 @@ Dalam sistem pendidikan modern sekuler, terjadi jurang pemisah yang sangat lebar
 * **Akil Ditunda-tunda:** Di sisi lain, sistem persekolahan formal menunda kedewasaan mental anak hingga usia 22–25 tahun (lulus kuliah). Anak usia 17 tahun yang telah baligh selama bertahun-tahun masih diperlakukan sebagai "anak-anak" yang tidak berdaya, tidak mandiri secara finansial, dan bebas dari tanggung jawab sosial.
 * **Ledakan Masalah Remaja:** Jurang pemisah 10–12 tahun antara baligh dan akil ini melahirkan fenomena kebingungan identitas, kecanduan pornografi, pergaulan bebas, apatisme, hingga depresi mental.
 
-```mermaid
-graph LR
-    subgraph Model_Modern["Pendidikan Sekuler Modern"]
-        M1["Baligh Cepat (Usia 10-12)"] -.->|Jurang 10-12 Tahun Labil| M2["Akil Terlambat (Usia 22-25)"]
-    end
-    subgraph Model_Nabawi["Pendidikan Ideal Nabawiyah"]
-        N1["Baligh Biologis (Usia 14-15)"] ===|Tersinkronisasi Sempurna| N2["Akil & Mukallaf Mandiri (Usia 14-15)"]
-    end
-```
+![[canvas/Pendidikan Ideal - Kesenjangan Patologis Peradaban Modern.canvas]]
 
 Pendidikan Ideal Nabawiyah menolak pengkastaan generasi "buih" (*ghutsa'*). Anak yang telah baligh adalah orang dewasa penuh (*rijal / nisa'*) yang siap memikul beban hukum syariat (*taklif*) dan memimpin umat.
 

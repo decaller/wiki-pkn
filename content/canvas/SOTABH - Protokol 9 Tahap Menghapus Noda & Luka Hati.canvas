@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "1: Kenali Penyebab",
+      "x": 0,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "2: Baca Tanda Perilaku",
+      "x": 310,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "3: Analisa Akar Masalah",
+      "x": 620,
+      "y": -40,
+      "width": 247,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "P4",
+      "type": "text",
+      "text": "4: Hadirkan Penawar (Empati)",
+      "x": 937,
+      "y": -40,
+      "width": 292,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "P5",
+      "type": "text",
+      "text": "5: Taburkan Obat (Ma'ruf)",
+      "x": 1299,
+      "y": -40,
+      "width": 265,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "P6",
+      "type": "text",
+      "text": "6: Balut Luka (Sentuhan)",
+      "x": 1634,
+      "y": -40,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P7",
+      "type": "text",
+      "text": "7: Rawat Kebersamaan",
+      "x": 1960,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P8",
+      "type": "text",
+      "text": "8: Kuatkan Jiwa",
+      "x": 2270,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P9",
+      "type": "text",
+      "text": "9: Pemulihan Tuntas (Restorasi)",
+      "x": 2580,
+      "y": -40,
+      "width": 319,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_P1_P2",
+      "fromNode": "P1",
+      "fromSide": "right",
+      "toNode": "P2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_P2_P3",
+      "fromNode": "P2",
+      "fromSide": "right",
+      "toNode": "P3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_P3_P4",
+      "fromNode": "P3",
+      "fromSide": "right",
+      "toNode": "P4",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_P4_P5",
+      "fromNode": "P4",
+      "fromSide": "right",
+      "toNode": "P5",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_P5_P6",
+      "fromNode": "P5",
+      "fromSide": "right",
+      "toNode": "P6",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_P6_P7",
+      "fromNode": "P6",
+      "fromSide": "right",
+      "toNode": "P7",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_P7_P8",
+      "fromNode": "P7",
+      "fromSide": "right",
+      "toNode": "P8",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_P8_P9",
+      "fromNode": "P8",
+      "fromSide": "right",
+      "toNode": "P9",
+      "toSide": "left"
+    }
+  ]
+}

@@ -69,15 +69,7 @@ Inti dari metodologi ini bersandar pada kaidah agung **At-Tadarruj (Pentahapan A
 
 PKN merumuskan instrumen komunikasi pendidikan ke dalam **Tiga Bahasa Nabawiyah** yang diterapkan secara hierarkis:
 
-```mermaid
-graph TD
-    subgraph Piramida["Piramida Tiga Bahasa Pengasuhan PKN"]
-        BT["Puncak: BAHASA TANGAN<br>Usia 10+ Tahun (Fase Murahaqah & Syabab)<br>Disiplin Amal & Penegakan Konsekuensi"]
-        BL["Tengah: BAHASA LISAN<br>Usia 7 - 10 Tahun (Fase Tamyiz)<br>Disiplin Ilmu & Dialog Nalar Sebab-Akibat"]
-        BH["Pondasi: BAHASA HATI<br>Usia 0 - 7 Tahun (Fase Thufulah)<br>Disiplin Iman & Keteladanan Cinta Tanpa Syarat"]
-    end
-    BH --> BL --> BT
-```
+![[canvas/Metode Mendidik - Arsitektur Piramida Tiga Bahasa Pengasuhan.canvas]]
 
 ### Matriks Komparasi Tiga Bahasa Pendidikan:
 | Aspek Pembeda | [[Bahasa Hati]] | [[Bahasa Lisan]] | [[Bahasa Tangan]] |

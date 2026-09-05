@@ -1,0 +1,257 @@
+{
+  "nodes": [
+    {
+      "id": "AKAR",
+      "type": "group",
+      "label": "🌱 PONDASI INSAN (AKAR TAUHID)",
+      "x": -765,
+      "y": -50,
+      "width": 1530,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "BATANG",
+      "type": "group",
+      "label": "🌳 PENDIDIKAN IDEAL (BATANG ADAB & METODOLOGI)",
+      "x": -933,
+      "y": 128,
+      "width": 1866,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "RANTING",
+      "type": "group",
+      "label": "🍃 FITRAH BAKAT (40 PILAR TB40)",
+      "x": -1248,
+      "y": 306,
+      "width": 2496,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "BUAH",
+      "type": "group",
+      "label": "🍎 IMPLEMENTASI & KARYA PERADABAN",
+      "x": -873,
+      "y": 476,
+      "width": 1746,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "Tujuan",
+      "type": "text",
+      "text": "[[Tujuan Hidup Manusia]]\nIbadah & Khilafah",
+      "x": -735,
+      "y": 0,
+      "width": 256,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "RuhJasad",
+      "type": "text",
+      "text": "[[Bersatunya Ruh dan Jasad Membentuk Jiwa]]\nTiupan Ruh & Tanah",
+      "x": -409,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Trilogi",
+      "type": "text",
+      "text": "[[Pembagian Jiwa]]\nMuthmainnah • Lawwamah • Ammarah",
+      "x": 81,
+      "y": 0,
+      "width": 328,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Fitrah",
+      "type": "text",
+      "text": "[[Fitrah (Karakter)]]\nCetak Biru Suci Lahiriah",
+      "x": 479,
+      "y": 0,
+      "width": 256,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Benang",
+      "type": "text",
+      "text": "[[Benang Merah Pendidikan]]\nWasathiyah: Anti-Tafrith & Ifrath",
+      "x": -903,
+      "y": 178,
+      "width": 337,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "TigaBahasa",
+      "type": "text",
+      "text": "[[Metode Mendidik]]\n[[Bahasa Hati]] • [[Bahasa Lisan]] • [[Bahasa Tangan]]",
+      "x": -496,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Fase",
+      "type": "text",
+      "text": "[[Perkembangan]]\n[[Thufulah]] (0-7) • [[Tamyiz]] (7-10) • [[Murahaqah]] (10-15) • [[Syabab]] (15+)",
+      "x": -6,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Proteksi",
+      "type": "text",
+      "text": "[[Batas Toleransi]] • [[Imunitas Sosial]] • [[Recovery]]",
+      "x": 483,
+      "y": 182,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "BakatUmum",
+      "type": "text",
+      "text": "[[Bakat]] (Syakilah Unik)",
+      "x": -1218,
+      "y": 356,
+      "width": 265,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub1",
+      "type": "text",
+      "text": "[[Bekerja Keras]] (Al-Hammasah)",
+      "x": -883,
+      "y": 356,
+      "width": 319,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub2",
+      "type": "text",
+      "text": "[[Berpikir]] (Al-Fikrah)",
+      "x": -494,
+      "y": 356,
+      "width": 256,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub3",
+      "type": "text",
+      "text": "[[Berperasaan]] (Al-Wijdaniyyah)",
+      "x": -168,
+      "y": 356,
+      "width": 328,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub4",
+      "type": "text",
+      "text": "[[Memerintah]] (At-Ta'tsir)",
+      "x": 229,
+      "y": 356,
+      "width": 283,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub5",
+      "type": "text",
+      "text": "[[Bekerja Sama]] (At-Ta'amul)",
+      "x": 582,
+      "y": 356,
+      "width": 301,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Sub6",
+      "type": "text",
+      "text": "[[Melayani]] (Al-Khidmah)",
+      "x": 953,
+      "y": 356,
+      "width": 265,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "Kaidah",
+      "type": "text",
+      "text": "[[4 Kaidah Implementasi]]\nTaisir • Qudwah • Rahmah • Tadarruj",
+      "x": -843,
+      "y": 526,
+      "width": 355,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Elemen",
+      "type": "text",
+      "text": "[[4 Elemen Implementasi]]\nGhayah • Manhaj • Uslub • Taqyim",
+      "x": -418,
+      "y": 526,
+      "width": 328,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Sinergi",
+      "type": "text",
+      "text": "[[Tanggung Jawab Pendidikan]]\n[[Peran Ayah dan Bunda]] • [[Peran Guru dan Lembaga Pendidikan]] • [[Kaidah Implementasi di Berbagai Lembaga]]",
+      "x": -20,
+      "y": 526,
+      "width": 420,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Kematangan Akil-Baligh & Khairu Ummah",
+      "x": 470,
+      "y": 530,
+      "width": 373,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_AKAR_BATANG",
+      "fromNode": "AKAR",
+      "fromSide": "bottom",
+      "toNode": "BATANG",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_BATANG_RANTING",
+      "fromNode": "BATANG",
+      "fromSide": "bottom",
+      "toNode": "RANTING",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_RANTING_BUAH",
+      "fromNode": "RANTING",
+      "fromSide": "bottom",
+      "toNode": "BUAH",
+      "toSide": "top"
+    }
+  ]
+}

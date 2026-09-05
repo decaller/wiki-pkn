@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "Desain",
+      "type": "text",
+      "text": "Desain",
+      "x": 0,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "B",
+      "x": 0,
+      "y": -40,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "C",
+      "x": 0,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Eksperimen",
+      "type": "text",
+      "text": "Eksperimen",
+      "x": 310,
+      "y": -125,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "Kemanfaatan",
+      "type": "text",
+      "text": "Kemanfaatan",
+      "x": 310,
+      "y": 45,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_3_B_Eksperimen",
+      "fromNode": "B",
+      "fromSide": "right",
+      "toNode": "Eksperimen",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_C_Kemanfaatan",
+      "fromNode": "C",
+      "fromSide": "right",
+      "toNode": "Kemanfaatan",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "ENERGI_AMMARAH",
+      "type": "group",
+      "label": "POTENSI ENERGI AMMARAH ANAK",
+      "x": -240,
+      "y": -50,
+      "width": 480,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "Raw",
+      "type": "text",
+      "text": "Energi Fisik Meluap\nImpulsif, Ingin Menang Sendiri, Gerak Tanpa Henti",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Broken",
+      "type": "text",
+      "text": "Jiwa Patah / Luka Fitrah\nPemberontak Pasif, Hipokrit, Pengecut",
+      "x": -630,
+      "y": 178,
+      "width": 373,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "Liar",
+      "type": "text",
+      "text": "Ammarah bis-Su' Liar\nTirani Kecil, Hedonis, Narsistik",
+      "x": -187,
+      "y": 178,
+      "width": 328,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "Khair",
+      "type": "text",
+      "text": "Ammarah bil-Khair\nTangguh, Berdaya Juang Tinggi, Bakat Terasah",
+      "x": 210,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Raw_Broken",
+      "fromNode": "Raw",
+      "fromSide": "left",
+      "toNode": "Broken",
+      "toSide": "right",
+      "label": "Pola Asuh Otoriter & Kasar"
+    },
+    {
+      "id": "e_1_Raw_Liar",
+      "fromNode": "Raw",
+      "fromSide": "bottom",
+      "toNode": "Liar",
+      "toSide": "top",
+      "label": "Pola Asuh Permisif & Manja"
+    },
+    {
+      "id": "e_2_Raw_Khair",
+      "fromNode": "Raw",
+      "fromSide": "right",
+      "toNode": "Khair",
+      "toSide": "left",
+      "label": "Pendidikan Karakter Nabawiyah"
+    }
+  ]
+}

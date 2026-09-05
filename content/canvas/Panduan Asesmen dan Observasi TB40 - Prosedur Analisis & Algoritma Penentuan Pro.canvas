@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "Tahap 1: Input Skor (0–100)",
+      "x": 31,
+      "y": -125,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "Tahap 4: Sintesis Profil & Julukan",
+      "x": 0,
+      "y": 45,
+      "width": 346,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "Tahap 2: Perangkingan Rank 1–40",
+      "x": 416,
+      "y": -40,
+      "width": 319,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "Tahap 3: Pemetaan 6 Kluster",
+      "x": 805,
+      "y": -40,
+      "width": 283,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A_B",
+      "fromNode": "A",
+      "fromSide": "right",
+      "toNode": "B",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_B_C",
+      "fromNode": "B",
+      "fromSide": "right",
+      "toNode": "C",
+      "toSide": "left"
+    }
+  ]
+}

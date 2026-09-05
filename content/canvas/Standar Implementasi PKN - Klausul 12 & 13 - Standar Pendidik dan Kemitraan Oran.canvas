@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "SegitigaEmas",
+      "type": "group",
+      "label": "SEGITIGA EMAS IMPLEMENTASI PKN",
+      "x": -321,
+      "y": -50,
+      "width": 642,
+      "height": 398,
+      "color": "5"
+    },
+    {
+      "id": "P",
+      "type": "text",
+      "text": "PENDIDIK (Klausul 12)\n• Pemetaan Bakat Guru\n• Self-Recovery Guru\n• Penugasan Sesuai Fitrah",
+      "x": -291,
+      "y": 0,
+      "width": 265,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "O",
+      "type": "text",
+      "text": "ORANG TUA (Klausul 13)\n• Parent Class Wajib\n• Home Visit Rutin\n• Keselarasan Pola Asuh",
+      "x": 44,
+      "y": 0,
+      "width": 247,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "S",
+      "type": "text",
+      "text": "SANTRI MEMPESONA\nFitrah Terjaga & Karakter Tumbuh",
+      "x": -164,
+      "y": 230,
+      "width": 328,
+      "height": 88,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_1_P_S",
+      "fromNode": "P",
+      "fromSide": "bottom",
+      "toNode": "S",
+      "toSide": "top",
+      "label": "Bimbingan Kasih Sayang"
+    },
+    {
+      "id": "e_2_O_S",
+      "fromNode": "O",
+      "fromSide": "bottom",
+      "toNode": "S",
+      "toSide": "top",
+      "label": "Pengasuhan Rumah"
+    }
+  ]
+}

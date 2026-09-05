@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "m_1",
+      "type": "text",
+      "text": "SOTABH: Belajar Hati",
+      "x": 48,
+      "y": -2080,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_2",
+      "type": "text",
+      "text": "Anak Adalah Benih",
+      "x": 48,
+      "y": -1910,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_3",
+      "type": "text",
+      "text": "Bukan Bata Cetakan",
+      "x": 48,
+      "y": -1740,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_4",
+      "type": "text",
+      "text": "Pertumbuhan Sunnatullah",
+      "x": 45,
+      "y": -1570,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_5",
+      "type": "text",
+      "text": "Tugas Merawat Tanah Fitrah",
+      "x": 31,
+      "y": -1400,
+      "width": 274,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_6",
+      "type": "text",
+      "text": "Satu Anak Satu Kurikulum",
+      "x": 40,
+      "y": -1230,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_7",
+      "type": "text",
+      "text": "Keunikan Rukun 3A",
+      "x": 48,
+      "y": -1060,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_8",
+      "type": "text",
+      "text": "Bukan Penjurusan Prematur",
+      "x": 36,
+      "y": -890,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_9",
+      "type": "text",
+      "text": "Menghargai Keberagaman Bakat",
+      "x": 22,
+      "y": -720,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_10",
+      "type": "text",
+      "text": "Koneksi Sebelum Koreksi",
+      "x": 45,
+      "y": -550,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_11",
+      "type": "text",
+      "text": "Bahasa Hati Tanpa Syarat",
+      "x": 40,
+      "y": -380,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_12",
+      "type": "text",
+      "text": "Isi Tangki Cinta",
+      "x": 48,
+      "y": -210,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_13",
+      "type": "text",
+      "text": "Sentuh Pikiran Bawah Sadar",
+      "x": 31,
+      "y": -40,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_14",
+      "type": "text",
+      "text": "Adab Sebelum Ilmu",
+      "x": 48,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_15",
+      "type": "text",
+      "text": "Iman Sebelum Al-Qur'an",
+      "x": 48,
+      "y": 300,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_16",
+      "type": "text",
+      "text": "Cinta Guru Sebelum Materi",
+      "x": 36,
+      "y": 470,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_17",
+      "type": "text",
+      "text": "Penyadaran Nurani",
+      "x": 48,
+      "y": 640,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_18",
+      "type": "text",
+      "text": "Menghapus Noda Hati",
+      "x": 48,
+      "y": 810,
+      "width": 240,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "m_19",
+      "type": "text",
+      "text": "Deteksi Luka Pengasuhan",
+      "x": 45,
+      "y": 980,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_20",
+      "type": "text",
+      "text": "Protokol 9 Tahap Pemulihan",
+      "x": 31,
+      "y": 1150,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_21",
+      "type": "text",
+      "text": "Damai dengan Masa Lalu",
+      "x": 48,
+      "y": 1320,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_22",
+      "type": "text",
+      "text": "Kurikulum Berbasis Peristiwa",
+      "x": 22,
+      "y": 1490,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_23",
+      "type": "text",
+      "text": "Kuttab di Dalam Rumah",
+      "x": 48,
+      "y": 1660,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_24",
+      "type": "text",
+      "text": "Setiap Konflik adalah Entry Point",
+      "x": 0,
+      "y": 1830,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_25",
+      "type": "text",
+      "text": "Metode Naik Turun Gas",
+      "x": 48,
+      "y": 2000,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "type": "text",
+      "text": "ALLAH TA'ALA\nMaha Pencipta & Penguasa Semesta",
+      "x": -616,
+      "y": 0,
+      "width": 328,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B",
+      "type": "text",
+      "text": "🌌 Dimensi Ruh (Langit)\nCahaya Tauhid, Nurani, Kerinduan Ilahi",
+      "x": -218,
+      "y": 0,
+      "width": 382,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "D",
+      "type": "text",
+      "text": "⚡ AN-NAFS (JIWA / KESADARAN)\nMedan Ujian, Ikhtiar Moral, & Karakter",
+      "x": 234,
+      "y": 0,
+      "width": 382,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "C",
+      "type": "text",
+      "text": "🌍 Dimensi Jasad (Bumi)\nStruktur Biologis, Panca Indera, Syahwat Fisik",
+      "x": -368,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "E",
+      "type": "text",
+      "text": "DWI-MANDAT EKSISTENSIAL",
+      "x": 121,
+      "y": 182,
+      "width": 247,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "F",
+      "type": "text",
+      "text": "🕋 'Abdullah (Hamba Allah)\nQS. Adz-Dzariyat: 56",
+      "x": -349,
+      "y": 356,
+      "width": 265,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "G",
+      "type": "text",
+      "text": "🌱 Khalifah fil Ardh (Pengelola Bumi)\nQS. Al-Baqarah: 30",
+      "x": -14,
+      "y": 356,
+      "width": 364,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "H",
+      "type": "text",
+      "text": "🎯 INSAN KAMIL / MUKALLAF\nAkil-Baligh Mandiri, Tangguh, Beradab",
+      "x": -186,
+      "y": 534,
+      "width": 373,
+      "height": 88,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_A_C",
+      "fromNode": "A",
+      "fromSide": "right",
+      "toNode": "C",
+      "toSide": "left",
+      "label": "Sari Pati Tanah"
+    },
+    {
+      "id": "e_7_D_E",
+      "fromNode": "D",
+      "fromSide": "left",
+      "toNode": "E",
+      "toSide": "right",
+      "label": "Tarbiyah Nabawiyah"
+    },
+    {
+      "id": "e_8_E_F",
+      "fromNode": "E",
+      "fromSide": "left",
+      "toNode": "F",
+      "toSide": "right"
+    },
+    {
+      "id": "e_9_E_G",
+      "fromNode": "E",
+      "fromSide": "bottom",
+      "toNode": "G",
+      "toSide": "top"
+    },
+    {
+      "id": "e_10_F_H",
+      "fromNode": "F",
+      "fromSide": "right",
+      "toNode": "H",
+      "toSide": "left"
+    },
+    {
+      "id": "e_11_G_H",
+      "fromNode": "G",
+      "fromSide": "bottom",
+      "toNode": "H",
+      "toSide": "top"
+    }
+  ]
+}

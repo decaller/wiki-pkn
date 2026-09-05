@@ -47,7 +47,7 @@ export default {
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Transklusi dari ${targetSlug}`,
-      linkToOriginal: "Tautan ke asli",
+      linkToOriginal: "🔍 Buka Halaman Penuh ↗",
     },
     search: {
       title: "Cari",

@@ -59,18 +59,7 @@ Ketiga istilah ini bukanlah tiga jiwa yang terpisah di dalam satu tubuh, melaink
 
 Berikut adalah matriks komparatif tiga dimensi jiwa, hubungannya dengan anatomi manusia, instrumen pendidikan, dan target perkembangannya:
 
-```mermaid
-graph TD
-    subgraph KONDISI_JIWA["PETA TRILOGI JIWA DALAM PKN"]
-        Muth["1: NAFSUL MUTHMAINNAH<br/><b>Dimensi Hati (Qalbu)</b><br/>Hak: Disenangkan (Edukasi Rasa)<br/>Bahasa Utama: [[Bahasa Hati]]<br/>Fokus: Karakter Iman & Tangki Cinta"]
-        Laww["2: NAFSUL LAWWAMAH<br/><b>Dimensi Akal (Otak/Fikr)</b><br/>Hak: Dipahamkan (Edukasi Logika)<br/>Bahasa Utama: [[Bahasa Lisan]]<br/>Fokus: Karakter Belajar & Nalar Kritis"]
-        Amm["3: NAFSUL AMMARAH<br/><b>Dimensi Jasad (Fisik/Gerak)</b><br/>Hak: Dibiasakan (Edukasi Gerak)<br/>Bahasa Utama: [[Bahasa Tangan]]<br/>Fokus: Karakter Bakat & Disiplin Aksi"]
-    end
-
-    Amm -->|Didisiplinkan & Diarahkan| Laww
-    Laww -->|Dituntun Hikmah & Hidayah| Muth
-    Muth -->|Memimpin & Mensucikan| Amm
-```
+![[canvas/Pembagian Jiwa - Anatomi Tiga Keadaan Jiwa dalam PKN.canvas]]
 
 ---
 

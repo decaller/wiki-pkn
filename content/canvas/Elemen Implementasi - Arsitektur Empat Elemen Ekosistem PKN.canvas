@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "Ekosistem",
+      "type": "group",
+      "label": "4 Elemen Implementasi PKN",
+      "x": -221,
+      "y": -50,
+      "width": 442,
+      "height": 702,
+      "color": "5"
+    },
+    {
+      "id": "E1",
+      "type": "text",
+      "text": "1: Elemen Iman (Ghayah/Tujuan)\nPenanaman Tauhidullah & Muraqabatullah",
+      "x": -191,
+      "y": 0,
+      "width": 382,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "E2",
+      "type": "text",
+      "text": "2: Elemen Adab (Tazkiyah/Penyucian)\nPembersihan Hati & Akhlakul Karimah",
+      "x": -177,
+      "y": 178,
+      "width": 355,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "E3",
+      "type": "text",
+      "text": "3: Elemen Belajar (Manhaj/Nalar)\nEksplorasi Alam & Fiqih Syariat",
+      "x": -164,
+      "y": 356,
+      "width": 328,
+      "height": 88,
+      "color": "6"
+    },
+    {
+      "id": "E4",
+      "type": "text",
+      "text": "4: Elemen Bakat (Khafiyah/Amal Shalih)\nAktualisasi 40 Potensi Peradaban",
+      "x": -191,
+      "y": 534,
+      "width": 382,
+      "height": 88,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_E1_E2",
+      "fromNode": "E1",
+      "fromSide": "bottom",
+      "toNode": "E2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_E2_E3",
+      "fromNode": "E2",
+      "fromSide": "bottom",
+      "toNode": "E3",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_E3_E4",
+      "fromNode": "E3",
+      "fromSide": "bottom",
+      "toNode": "E4",
+      "toSide": "top"
+    }
+  ]
+}

@@ -57,17 +57,7 @@ Sistem persekolahan massal yang mendominasi dunia hari ini lahir dari revolusi i
 * **Reduksi Manusia Menjadi Angka Rapor:** Kecerdasan manusia yang mahakaya direduksi hanya pada kemampuan menghafal dan berhitung di atas kertas ujian. Anak yang memiliki kejeniusan sosial, kepemimpinan lapangan, atau keahlian mekanik dicap "kurang pintar" hanya karena nilai matematikanya rendah.
 * **Perampasan Hak Fase Emas:** Anak-anak balita di usia 4–6 tahun dipaksa duduk tenang dengan tugas pekerjaan rumah (*PR*) dan drill calistung mekanis, merampas hak bermain merdeka yang dijamin fitrah dan sunnah Nabi ﷺ.
 
-```mermaid
-graph TD
-    subgraph Sistem_Pabrik["Sistem Pendidikan Pabrik Modern"]
-        P1["Keseragaman Massal & Kurikulum Kaku"] --> P2["Menghukum Perbedaan Bakat & Keunikan"]
-        P2 --> P3["Melahirkan 'Generasi Buih' yang Seragam tapi Rapuh"]
-    end
-    subgraph Benang_Merah["Benang Merah Pendidikan Nabawiyah"]
-        N1["Observasi Cetak Biru Fitrah (Syakilah)"] --> N2["Fasilitasi Pertumbuhan 40 Pilar Bakat Unik"]
-        N2 --> N3["Melahirkan Generasi Muslih Mandiri Sesuai Peran"]
-    end
-```
+![[canvas/Benang Merah Pendidikan - Kritik Paradigma Pendidikan Modern Model Pabrik (Pruss.canvas]]
 
 ---
 
@@ -132,19 +122,7 @@ Berdasarkan naskah *Menumbuhkan Kesadaran Beramal* (Abdul Kholiq), kegagalan ter
 
 Pendidikan Karakter Nabawiyah merumuskan **Pola Lima Tingkat Sebab Hadirnya Amal Sadar**:
 
-```mermaid
-graph TD
-    L5["❤️ TINGKAT 5: PENGORBANAN & RAHMAH PENDIDIK<br/>Orang tua/guru mencurahkan kasih sayang murni, doa malam, dan pengorbanan waktu"]
-    L4["🌟 TINGKAT 4: KEKAGUMAN TERHADAP FIGUR (USWAH HASANAH)<br/>Anak kagum, terpikat oleh akhlak pendidik, dan melahirkan Kepercayaan Penuh (Trust)"]
-    L3["✨ TINGKAT 3: CINTA TERHADAP AKTIVITAS KEBAIKAN<br/>Anak mencintai shalat, belajar, dan adab karena mencintai sosok yang mengajarkannya"]
-    L2["📖 TINGKAT 2: ILMU TENTANG FADHILAH AMAL<br/>Penjelasan hikmah dan ayat Al-Qur'an diserap dengan lapang dada tanpa resistensi"]
-    L1["🎯 TINGKAT 1: NIAT & AMAL SHALIH MANDIRI<br/>Anak beramal dengan gembira, konsisten, dan memiliki integritas muraqabatullah tanpa perlu diawasi CCTV"]
-
-    L5 --> L4
-    L4 --> L3
-    L3 --> L2
-    L2 --> L1
-```
+![[canvas/Benang Merah Pendidikan - Grand Theory Kesadaran Beramal - Rantai Kausalitas 5 T.canvas]]
 
 ### Metafora Agraris: Mendidik Layaknya Bertani
 Rasulullah ﷺ menyabdakan perumpamaan agung tentang hati manusia dan ilmu:

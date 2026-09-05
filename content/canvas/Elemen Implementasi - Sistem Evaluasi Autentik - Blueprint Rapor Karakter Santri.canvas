@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "ARSITEKTUR_RAPOR",
+      "type": "group",
+      "label": "5 BAGIAN UTAMA RAPOR KARAKTER SANTRI",
+      "x": -1219,
+      "y": -50,
+      "width": 2438,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "B1",
+      "type": "text",
+      "text": "I. Karakter Iman\nAqidah, Ibadah, Adab/Akhlaq, Profil Bahasa Hati",
+      "x": -1189,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "text": "II. Karakter Belajar\nGaya Belajar: Al-Fu'ad, As-Sam'u, Al-Bashar & Setting Belajar",
+      "x": -699,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "text": "III. Karakter Bakat (TB-40)\nTop 6 Potensi Kekuatan & Pemberian Julukan (Laqab)",
+      "x": -209,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "text": "IV. Kesehatan Fisik & Indera\nTB, BB, Mata, Telinga, Gigi, Rambut, Kulit",
+      "x": 281,
+      "y": 0,
+      "width": 418,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "text": "V. Catatan Wali Santri\nRekomendasi Profesi Peradaban & Jurusan Studi",
+      "x": 769,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

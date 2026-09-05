@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "START",
+      "type": "text",
+      "text": "Mulai Implementasi PKN",
+      "x": -120,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "Langkah 1: Mulai dari Diri Personal\\nJiwa: Muthmainnah",
+      "x": -210,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "L2",
+      "type": "text",
+      "text": "Langkah 2: Dari yang Mudah / Tidak Ideal\\nJiwa: Lawwamah — Kaizen 1persen per hari",
+      "x": -455,
+      "y": 340,
+      "width": 420,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "NOTE1",
+      "type": "text",
+      "text": "Praktik: pembiasaan kecil sholat tepat waktu, senyum salam sapa",
+      "x": 35,
+      "y": 340,
+      "width": 420,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "L3",
+      "type": "text",
+      "text": "Langkah 3: Utamakan Menghindari Mudharat\\nJiwa: Ammarah",
+      "x": -210,
+      "y": 510,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "L4",
+      "type": "text",
+      "text": "Langkah 4: Sesuaikan Ekspektasi dengan Fitrah\\nJiwa: Lawwamah",
+      "x": -455,
+      "y": 680,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "NOTE2",
+      "type": "text",
+      "text": "Prioritas: lindungi dari pornografi, gadget tak terbatas, bullying",
+      "x": 35,
+      "y": 680,
+      "width": 420,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "NOTE3",
+      "type": "text",
+      "text": "Mindset: garis finish adalah Keridhaan Allah dan keselamatan akhirat",
+      "x": -210,
+      "y": 850,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_START_L1",
+      "fromNode": "START",
+      "fromSide": "bottom",
+      "toNode": "L1",
+      "toSide": "top"
+    },
+    {
+      "id": "e_1_L1_L2",
+      "fromNode": "L1",
+      "fromSide": "left",
+      "toNode": "L2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_2_L2_L3",
+      "fromNode": "L2",
+      "fromSide": "right",
+      "toNode": "L3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_L3_L4",
+      "fromNode": "L3",
+      "fromSide": "left",
+      "toNode": "L4",
+      "toSide": "right"
+    },
+    {
+      "id": "e_4_L1_NOTE1",
+      "fromNode": "L1",
+      "fromSide": "right",
+      "toNode": "NOTE1",
+      "toSide": "left",
+      "label": "praktik"
+    },
+    {
+      "id": "e_5_L3_NOTE2",
+      "fromNode": "L3",
+      "fromSide": "right",
+      "toNode": "NOTE2",
+      "toSide": "left",
+      "label": "prioritas"
+    },
+    {
+      "id": "e_6_L4_NOTE3",
+      "fromNode": "L4",
+      "fromSide": "right",
+      "toNode": "NOTE3",
+      "toSide": "left",
+      "label": "mindset"
+    }
+  ]
+}

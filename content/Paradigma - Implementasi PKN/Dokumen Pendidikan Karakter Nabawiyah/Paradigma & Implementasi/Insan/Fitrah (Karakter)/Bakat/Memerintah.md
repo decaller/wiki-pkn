@@ -66,20 +66,7 @@ Karakteristik dominan anak berbakat Memerintah:
 
 Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18:
 
-```mermaid
-graph TD
-    BM["Memerintah (At-Ta'tsir)"] --> G1["Sub 10: Suka Menguasai / Menertibkan"]
-    BM --> G2["Sub 11: Suka Memotivasi / Mengarahkan"]
-    BM --> G3["Sub 12: Suka Menolong & Berkorban"]
-
-    G1 --> P18["#18 Syajaa'ah (Keberanian Ksatria)"]
-    G1 --> P19["#19 Ghairah (Cemburu Membela Syariat)"]
-    G1 --> P20["#20 Munaafasah (Fastabiqul Khairat)"]
-    G2 --> P21["#21 Nashiihah (Tulus Membimbing)"]
-    G2 --> P22["#22 Fashaahah (Fasih Artikulatif)"]
-    G3 --> P23["#23 Nushrah (Membela Tertindas)"]
-    G3 --> P24["#24 Juud (Dermawan Pemimpin)"]
-```
+![[canvas/Memerintah - Tujuh Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #18: Syajaa'ah (الشَّجَاعَة - Keberanian Ksatria)
 * **Sub-Kelompok:** Suka Menguasai (Ekstrovert + Karsa)

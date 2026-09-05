@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "id": "DUA_EUFORIA",
+      "type": "group",
+      "label": "DUA SISI BAHAYA FASE EUFORIA",
+      "x": -140,
+      "y": -50,
+      "width": 741,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "B1",
+      "type": "text",
+      "text": "Burnout & Menyerah Kembali ke Pola Lama",
+      "x": -571,
+      "y": 4,
+      "width": 391,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "E1",
+      "type": "text",
+      "text": "1: EUFORIA HIJRAH ORANG TUA\nSemangat Baru Tanpa Tadarruj",
+      "x": -110,
+      "y": 0,
+      "width": 292,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "E2",
+      "type": "text",
+      "text": "2: EUFORIA PELEPASAN ANAK\nLedakan Dendam Fitrah Terpasung",
+      "x": 252,
+      "y": 0,
+      "width": 319,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "Rumah Menjadi Medan Teror Baru\nBakar Mainan, Paksa Shalat Khusyuk Instan",
+      "x": -449,
+      "y": 178,
+      "width": 409,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "Pemberontakan Pasca-Baligh\nKecanduan Gawai Tanpa Batas, Pergaulan Bebas",
+      "x": 29,
+      "y": 178,
+      "width": 420,
+      "height": 88,
+      "color": "2"
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "text": "Penolakan Total Terhadap Nasihat Agama",
+      "x": -191,
+      "y": 356,
+      "width": 382,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_E1_P1",
+      "fromNode": "E1",
+      "fromSide": "left",
+      "toNode": "P1",
+      "toSide": "right",
+      "label": "Pola Ekstrem Seketika"
+    },
+    {
+      "id": "e_3_E2_P2",
+      "fromNode": "E2",
+      "fromSide": "bottom",
+      "toNode": "P2",
+      "toSide": "top",
+      "label": "Anak Mendapat Kebebasan"
+    },
+    {
+      "id": "e_4_P2_B2",
+      "fromNode": "P2",
+      "fromSide": "left",
+      "toNode": "B2",
+      "toSide": "right",
+      "label": "Kehilangan Kendali"
+    }
+  ]
+}

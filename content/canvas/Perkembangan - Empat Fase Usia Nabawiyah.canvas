@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "time_0",
+      "type": "text",
+      "text": "### ⏳ 0 - 7 Tahun (Thufulah)\n\n• Masa Raja (Malik)\n• Dimensi Fitrah Iman\n• Hak Bermain Bebas & Tuntas Egosentris\n• Metode Bahasa Hati Tanpa Syarat",
+      "x": 0,
+      "y": -96,
+      "width": 391,
+      "height": 192,
+      "color": "4"
+    },
+    {
+      "id": "time_1",
+      "type": "text",
+      "text": "### ⏳ 7 - 10 Tahun (Tamyiz)\n\n• Masa Pembelajar / Teman (Khadim)\n• Dimensi Fitrah Belajar\n• Trial-Error & Pembiasaan Shalat\n• Metode Bahasa Lisan Reflektif",
+      "x": 461,
+      "y": -96,
+      "width": 346,
+      "height": 192,
+      "color": "4"
+    },
+    {
+      "id": "time_2",
+      "type": "text",
+      "text": "### ⏳ 10 - 14 Tahun (Murahaqah)\n\n• Masa Disiplin & Magang (Aseer)\n• Dimensi Fitrah Bakat & Karya\n• Pisah Ranjang & Latihan Mandiri\n• Metode Bahasa Tangan Bersyarat",
+      "x": 877,
+      "y": -96,
+      "width": 337,
+      "height": 192,
+      "color": "4"
+    },
+    {
+      "id": "time_3",
+      "type": "text",
+      "text": "### ⏳ 15+ Tahun (Syabab)\n\n• Masa Sahabat / Mitra (Wazeer)\n• Status Mukallaf Mandiri\n• Tanggung Jawab Syariat & Nafkah Pribadi\n• Metode Dialog Kemitraan Dewasa",
+      "x": 1284,
+      "y": -96,
+      "width": 409,
+      "height": 192,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_time_0_time_1",
+      "fromNode": "time_0",
+      "fromSide": "right",
+      "toNode": "time_1",
+      "toSide": "left",
+      "label": "Lanjut"
+    },
+    {
+      "id": "e_1_time_1_time_2",
+      "fromNode": "time_1",
+      "fromSide": "right",
+      "toNode": "time_2",
+      "toSide": "left",
+      "label": "Lanjut"
+    },
+    {
+      "id": "e_2_time_2_time_3",
+      "fromNode": "time_2",
+      "fromSide": "right",
+      "toNode": "time_3",
+      "toSide": "left",
+      "label": "Lanjut"
+    }
+  ]
+}

@@ -65,18 +65,7 @@ Anak dengan bakat dominan Berpikir dicirikan oleh:
 
 Bakat Berpikir membawahi **5 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18. Masing-masing pilar berakar pada keteladanan agung para Shahabat Nabi radhiyallahu 'anhum:
 
-```mermaid
-graph TD
-    BP["Berpikir (At-Tafkir)"] --> G1["Sub 4: Imajinatif & Visioner"]
-    BP --> G2["Sub 5: Berpikir Positif"]
-    BP --> G3["Sub 6: Analitis & Bijaksana"]
-
-    G1 --> P7["#07 Firaasah (Ketajaman Intuisi)"]
-    G1 --> P8["#08 Nubl (Banyak Akal Solutif)"]
-    G2 --> P9["#09 Husnuzhan (Objektif Positif)"]
-    G3 --> P10["#10 Dzakaa' (Cerdas Analitis)"]
-    G3 --> P11["#11 Hikmah (Tepat Menempatkan Perkara)"]
-```
+![[canvas/Berpikir - Lima Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #07: Firaasah (الفِرَاسَة - Ketajaman Firasat Iman)
 * **Sub-Kelompok:** Suka Berpikir Imajinatif / Visioner (Introvert + Cipta)

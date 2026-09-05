@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "Kutub Maskulin (Ayah)",
+      "type": "group",
+      "label": "Kutub Maskulin (Ayah)",
+      "x": -30,
+      "y": -5,
+      "width": 451,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "Kutub Feminin (Bunda)",
+      "type": "group",
+      "label": "Kutub Feminin (Bunda)",
+      "x": -21,
+      "y": -515,
+      "width": 433,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "B1",
+      "type": "text",
+      "text": "Madrasah Pertama & Rahim Kasih Sayang",
+      "x": 9,
+      "y": -465,
+      "width": 373,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "text": "Pengasah Empati & Kepekaan Nurani",
+      "x": 27,
+      "y": -295,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "text": "Pembiasaan Adab & Kehangatan Rumah",
+      "x": 22,
+      "y": -125,
+      "width": 346,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A1",
+      "type": "text",
+      "text": "Arsitek Visi & Arah Hidup",
+      "x": 63,
+      "y": 45,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A2",
+      "type": "text",
+      "text": "Penanam Akidah & Keberanian (Syajaa'ah)",
+      "x": 0,
+      "y": 215,
+      "width": 391,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "A3",
+      "type": "text",
+      "text": "Penegak Batas Hukum & Wibawa (Waqaar)",
+      "x": 9,
+      "y": 385,
+      "width": 373,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K",
+      "type": "text",
+      "text": "Jiwa Anak Tangguh, Beradab, dan Seimbang",
+      "x": 461,
+      "y": -40,
+      "width": 400,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_A1_K",
+      "fromNode": "A1",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_A2_K",
+      "fromNode": "A2",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    },
+    {
+      "id": "e_2_A3_K",
+      "fromNode": "A3",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_B1_K",
+      "fromNode": "B1",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    },
+    {
+      "id": "e_4_B2_K",
+      "fromNode": "B2",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    },
+    {
+      "id": "e_5_B3_K",
+      "fromNode": "B3",
+      "fromSide": "right",
+      "toNode": "K",
+      "toSide": "left"
+    }
+  ]
+}

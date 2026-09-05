@@ -61,14 +61,7 @@ Para perumus manhaj PKN (Ustadz Abdul Kholiq dan Bayu Issetyadi) dalam dokumen r
 
 Berdasarkan dokumen master *Kaidah Implementasi PKN dalam Berbagai Lembaga*, terdapat 5 pilar navigasi kebijakan:
 
-```mermaid
-graph TD
-    K1["1: Mulai Dari Pribadi<br/>(Ibda' Binafsik)"] --> K2["2: Utamakan Hindari Mudhorot<br/>(Dar'ul Mafasid)"]
-    K2 --> K3["3: Mulai Dari yang Mudah & Tidak Ideal<br/>(Ma La Yudraku Kulluh)"]
-    K3 --> K4["4: Pilih Mudhorot yang Terkecil<br/>(Irtikabu Akhaffidh Dhararain)"]
-    K4 --> K5["5: Sesuaikan Ekspektasi<br/>(Tadarruj & Sabar Proses)"]
-    K5 --> Sukses["Keberlanjutan Dakwah Pendidikan Nabawiyah"]
-```
+![[canvas/Kaidah Implementasi di Berbagai Lembaga - Lima Kaidah Emas Implementasi di Lemba.canvas]]
 
 ### 1. Mulai Dari Pribadi (*Ibda' Binafsik*)
 - **Prinsip:** Guru atau ustadz tidak perlu menunggu yayasan mengeluarkan Surat Keputusan (SK) resmi atau merombak kurikulum nasional untuk mulai mendidik secara nabawiyah.

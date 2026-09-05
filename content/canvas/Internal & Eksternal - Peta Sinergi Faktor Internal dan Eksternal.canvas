@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "id": "INTERNAL",
+      "type": "group",
+      "label": "💎 FAKTOR INTERNAL (JIWA PENDIDIK)",
+      "x": -21,
+      "y": 84,
+      "width": 388,
+      "height": 424,
+      "color": "5"
+    },
+    {
+      "id": "EKSTERNAL",
+      "type": "group",
+      "label": "🛡️ FAKTOR EKSTERNAL (IKHTIAR & BENTENG)",
+      "x": -30,
+      "y": -528,
+      "width": 406,
+      "height": 602,
+      "color": "5"
+    },
+    {
+      "id": "Doa",
+      "type": "text",
+      "text": "[[Tawakkal dan Doa]]\n• Doa Sepertiga Malam Terakhir\n• Penyerahan Hasil Mutlak ke Allah",
+      "x": 0,
+      "y": -478,
+      "width": 346,
+      "height": 114,
+      "color": "4"
+    },
+    {
+      "id": "Hima",
+      "type": "text",
+      "text": "[[Batas Toleransi]]\n• Proteksi Gawai & Pornografi\n• Aturan Privasi & Aurat Syariat",
+      "x": 9,
+      "y": -274,
+      "width": 328,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "ah",
+      "type": "text",
+      "text": "[[Imunitas Sosial]]\n• Komunitas & Sahabat Shalih\n• Filter Ekosistem Masyarakat",
+      "x": 22,
+      "y": -70,
+      "width": 301,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Tazkiyah",
+      "type": "text",
+      "text": "[[Tazkiyatun Nafs]]\n• Pembersihan Syirik & Hasad\n• Keikhlasan Niat Lillahi Ta'ala\n• Ketenangan Batin Orang Tua",
+      "x": 9,
+      "y": 134,
+      "width": 328,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Qudwah",
+      "type": "text",
+      "text": "Keteladanan Autentik\n• Keselarasan Kata dan Perbuatan\n• Qalbun Salim di Dalam Rumah",
+      "x": 9,
+      "y": 364,
+      "width": 328,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Pembentukan Karakter Mukallaf Akil-Baligh",
+      "x": 416,
+      "y": -40,
+      "width": 409,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_INTERNAL_Output",
+      "fromNode": "INTERNAL",
+      "fromSide": "right",
+      "toNode": "Output",
+      "toSide": "left"
+    },
+    {
+      "id": "e_1_EKSTERNAL_Output",
+      "fromNode": "EKSTERNAL",
+      "fromSide": "right",
+      "toNode": "Output",
+      "toSide": "left"
+    }
+  ]
+}

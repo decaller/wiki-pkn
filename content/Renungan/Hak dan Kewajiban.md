@@ -145,15 +145,7 @@ Keadilan syariat tampak pada proporsi perimbangan antara hak dan kewajiban anak 
 
 ## Visualisasi Neraca Keadilan Hak dan Kewajiban Anak
 
-```mermaid
-flowchart TD
-    subgraph Neraca["NERACA HAK & KEWAJIBAN FITRAH"]
-        Hak["HAK ANAK DARI ORANG TUA<br/>• Cinta Tanpa Syarat & Kelembutan<br/>• Perlindungan Jiwa & Raga<br/>• Nafkah Halal & Nama Mulia<br/>• Pendidikan Agama & Adab"]
-        Kewajiban["KEWAJIBAN ANAK SECARA BERTAHAP<br/>• 0-7 Th: Nol Kewajiban Syariat<br/>• 7-10 Th: Pembiasaan Shalat & Adab<br/>• 10-15 Th: Disiplin & Tanggung Jawab<br/>• 15+ Th: Berbakti (Birrul Walidain)"]
-    end
-    Hak ==> Kewajiban
-    Kewajiban ==> Ridha["RIDHA ALLAH & KEBERKAHAN KELUARGA"]
-```
+![[canvas/Hak dan Kewajiban - Visualisasi Neraca Keadilan Hak dan Kewajiban Anak.canvas]]
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

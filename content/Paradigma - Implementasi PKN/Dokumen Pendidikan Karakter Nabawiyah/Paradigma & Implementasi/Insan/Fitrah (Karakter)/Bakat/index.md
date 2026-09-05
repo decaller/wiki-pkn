@@ -77,21 +77,7 @@ Bakat bukanlah sekadar keterampilan duniawi untuk mencari penghasilan material, 
 
 Sebuah aktivitas dapat divalidasi sebagai **Bakat Sejati** jika memenuhi satu syarat mutlak dan tiga rukun fundamental:
 
-```mermaid
-flowchart TD
-    subgraph Syarat["SYARAT MUTLAK BAKAT"]
-        D["AD-DAWAM / ISTIQAMAH<br/>(HR. Bukhari: Amalan Paling Dicintai Adalah yang Kontinu)"]
-    end
-
-    subgraph Rukun["3 RUKUN BAKAT (3A)"]
-        A["1: Al-Hirsh (الحِرْص)<br/>sukA (Enjoy / Gairah)"]
-        B["2: Al-Itqan (الإِتْقَان)<br/>bisA (Easy / Mahir)"]
-        C["3: Al-Mufid (المُفِيد)<br/>bergunA (Excellent / Bermanfaat)"]
-    end
-
-    D --> Rukun
-    Rukun --> Hasil["BAKAT SEJATI<br/>(Karya Amal Shalih Berkelanjutan)"]
-```
+![[canvas/Bakat - Syarat & Rukun 3A Bakat Nabawiyah.canvas]]
 
 ### A. Syarat Mutlak: *Ad-Dawam* (Kontinuitas Amal)
 Merujuk pada sabda Rasulullah *shallallahu 'alaihi wa sallam*:

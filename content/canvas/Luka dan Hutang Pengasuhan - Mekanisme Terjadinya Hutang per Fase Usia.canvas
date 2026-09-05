@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "Fase 1: Usia 0–7 Tahun (Thufulah)",
+      "type": "group",
+      "label": "Fase 1: Usia 0–7 Tahun (Thufulah)",
+      "x": -1020,
+      "y": -50,
+      "width": 894,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "Fase 2: Usia 7–10 Tahun (Tamyiz)",
+      "type": "group",
+      "label": "Fase 2: Usia 7–10 Tahun (Tamyiz)",
+      "x": -116,
+      "y": -50,
+      "width": 839,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "Fase 3: Usia 10–Baligh (Murahaqah)",
+      "type": "group",
+      "label": "Fase 3: Usia 10–Baligh (Murahaqah)",
+      "x": 733,
+      "y": -50,
+      "width": 777,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "K",
+      "type": "text",
+      "text": "Akumulasi: Ledakan Euforia & Trauma Spiritual",
+      "x": -1480,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H1",
+      "type": "text",
+      "text": "Hak: Bermain Bebas & Tuntas Egosentris",
+      "x": -990,
+      "y": 0,
+      "width": 382,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "D1",
+      "type": "text",
+      "text": "Hutang Cinta & Egosentris Belum Tuntas",
+      "x": -538,
+      "y": 0,
+      "width": 382,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "H2",
+      "type": "text",
+      "text": "Hak: Belajar Alami & Trial-Error",
+      "x": -86,
+      "y": 0,
+      "width": 328,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "D2",
+      "type": "text",
+      "text": "Hutang Inisiatif & Takut Berbuat Salah",
+      "x": 311,
+      "y": 0,
+      "width": 382,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "H3",
+      "type": "text",
+      "text": "Hak: Berkarya & Latihan Mandiri",
+      "x": 763,
+      "y": 0,
+      "width": 319,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "D3",
+      "type": "text",
+      "text": "Hutang Identitas & Father Hunger",
+      "x": 1152,
+      "y": 0,
+      "width": 328,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

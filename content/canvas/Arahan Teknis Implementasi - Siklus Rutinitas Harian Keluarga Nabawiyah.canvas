@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "Subuh",
+      "type": "text",
+      "text": "🌅 WAKTU SUBUH & PAGI\n• Shalat Berjamaah di Masjid (Ayah & Anak Laki-laki)\n• Dzikir Pagi & Tadabbur 1 Ayat Bersama Bunda\n• Pelukan Kehangatan Pengisi Tangki Cinta",
+      "x": -945,
+      "y": 0,
+      "width": 420,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Siang",
+      "type": "text",
+      "text": "☀️ WAKTU SIANG & SORE\n• Eksplorasi Pembelajaran Alamiah / Sekolah\n• Makan Siang Beradab & Istirahat Qailulah\n• Penyaluran Gerak Fisik & Mengasah 40 Bakat (TB40)",
+      "x": -455,
+      "y": 0,
+      "width": 420,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Maghrib",
+      "type": "text",
+      "text": "🌇 WAKTU MAGHRIB & ISYA\n• Shalat Berjamaah & Tilawah Al-Qur'an Bersama\n• Evaluasi Pekanan / Dialog Nalar Kasih Sayang\n• Menutup Akses Seluruh Gawai (Digital Curfew)",
+      "x": 35,
+      "y": 0,
+      "width": 420,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "Malam",
+      "type": "text",
+      "text": "🌙 WAKTU MALAM SEBELUM TIDUR\n• Adab Wudhu & Membaca Doa/Dzikir Tidur\n• Kisah Sirah Shahabat Pengantar Tidur (Bahasa Hati)\n• Qiyamul Lail & Doa Mustajab Orang Tua",
+      "x": 525,
+      "y": 0,
+      "width": 420,
+      "height": 140,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "Step1",
+      "type": "text",
+      "text": "LANGKAH 1: PENATAAN VISI\nPelajari [[Tujuan Hidup Manusia]]\nLuruskan orientasi akhirat & khilafah",
+      "x": -431,
+      "y": 0,
+      "width": 373,
+      "height": 114,
+      "color": "4"
+    },
+    {
+      "id": "Step2",
+      "type": "text",
+      "text": "LANGKAH 2: PEMAHAMAN STRUKTUR DIRI\nPelajari [[Bersatunya Ruh dan Jasad Membentuk Jiwa]]\nPahami tarik-menarik langit vs bumi",
+      "x": 11,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Step3",
+      "type": "text",
+      "text": "LANGKAH 3: DIAGNOSA KONDISI JIWA\nPelajari [[Pembagian Jiwa]]\nDeteksi: Apakah anak di fase Ammarah atau Lawwamah?",
+      "x": -210,
+      "y": 204,
+      "width": 420,
+      "height": 114,
+      "color": "3"
+    },
+    {
+      "id": "Step4",
+      "type": "text",
+      "text": "LANGKAH 4: INTERVENSI FITRAH KHUSUS\nPelajari [[Fitrah (Karakter)]]\nIsi [[Tangki Cinta]], rangsang [[Belajar]], petakan [[Bakat]]",
+      "x": -210,
+      "y": 408,
+      "width": 420,
+      "height": 114,
+      "color": "4"
+    },
+    {
+      "id": "Step5",
+      "type": "text",
+      "text": "LANGKAH 5: EKSEKUSI SESUAI USIA\nTerapkan etape [[Perkembangan]]\nThufulah (0-7) ➔ Tamyiz (7-10) ➔ Murahaqah (10-Baligh)",
+      "x": -210,
+      "y": 612,
+      "width": 420,
+      "height": 114,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_Step2_Step3",
+      "fromNode": "Step2",
+      "fromSide": "left",
+      "toNode": "Step3",
+      "toSide": "right"
+    },
+    {
+      "id": "e_3_Step3_Step4",
+      "fromNode": "Step3",
+      "fromSide": "bottom",
+      "toNode": "Step4",
+      "toSide": "top"
+    },
+    {
+      "id": "e_4_Step4_Step5",
+      "fromNode": "Step4",
+      "fromSide": "bottom",
+      "toNode": "Step5",
+      "toSide": "top"
+    }
+  ]
+}

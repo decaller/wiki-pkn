@@ -65,19 +65,7 @@ Anak dengan bakat dominan Bekerja Keras dicirikan oleh:
 
 Bakat Bekerja Keras membawahi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam 3 sub-kelompok Level 18. Setiap pilar terinspirasi langsung oleh keteladanan para Shahabat Nabi radhiyallahu 'anhum:
 
-```mermaid
-graph TD
-    BK["Bekerja Keras (Al-Hamasah)"] --> G1["Sub 1: Berambisi"]
-    BK --> G2["Sub 2: Berwibawa"]
-    BK --> G3["Sub 3: Giat Bekerja"]
-
-    G1 --> P1["#01 Himmah (Cita-cita Tinggi)"]
-    G1 --> P2["#02 Ihsaan (Perfeksionis Mutqin)"]
-    G2 --> P3["#03 'Izzah (Keteguhan Harga Diri)"]
-    G2 --> P4["#04 Waqaar (Ketenangan Berwibawa)"]
-    G3 --> P5["#05 'Aziimah (Tekad Memulai)"]
-    G3 --> P6["#06 Nasyaath (Semangat Tuntas)"]
-```
+![[canvas/Bekerja Keras - Enam Turunan Pilar Karakter TB40 & Inspirasi Shahabat Nabi ﷺ.canvas]]
 
 ### Pilar #01: Himmah (الهِمَّة - Cita-cita Luhur)
 * **Sub-Kelompok:** Berambisi (Introvert + Karsa)

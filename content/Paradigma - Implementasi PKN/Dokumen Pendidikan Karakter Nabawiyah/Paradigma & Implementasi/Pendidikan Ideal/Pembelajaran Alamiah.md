@@ -53,16 +53,7 @@ title: "Pembelajaran Alamiah"
 
 Dalam paradigma ini, proses belajar dibagi secara tegas ke dalam dua instrumen utama: **Peristiwa (*Moment*)** dan **Kegiatan (*Project*)**:
 
-```mermaid
-graph TD
-    subgraph "Kurikulum Organik Kehidupan"
-        A["1: Peristiwa (Moment Spontan)"] -->|Insidental, Tak Terduga| M1["Fokus: Penanaman Adab, Iman, & Resonansi Nurani"]
-        B["2: Kegiatan (Project Terencana)"] -->|Terstruktur, Terukur| M2["Fokus: Pengasahan Bakat (Rukun 3A), Nalar, & Karya"]
-    end
-
-    M1 --> T["Pribadi Beradab, Cerdas, dan Tangguh Menghadapi Realitas"]
-    M2 --> T
-```
+![[canvas/Pembelajaran Alamiah - Hakikat Pembelajaran Alamiah.canvas]]
 
 ### A. Peristiwa (*Moment Spontan*): Pintu Masuk Adab
 - **Karakteristik:** Terjadi secara insidental di rumah dan lingkungan harian (anak menumpahkan makanan, bertengkar memperebutkan mainan, melihat orang miskin di jalan, atau mengalami kekalahan dalam perlombaan).
@@ -128,16 +119,7 @@ Paradigma alamiah menolak keras generalisasi kemampuan anak:
 ### B. 4 Siklus Pelaksanaan Proyek Alamiah
 Pembelajaran proyek dijalankan melalui empat tahapan terstruktur:
 
-```mermaid
-flowchart LR
-    A["1: Investigasi & Observasi
-(Tadabbur Ayat Kauniyah)"] --> B["2: Perencanaan & Desain
-(Kolaborasi & Nalar)"]
-    B --> C["3: Eksekusi & Eksperimen
-(Aksi Nyata / Trial & Error)"]
-    C --> D["4: Refleksi & Kemanfaatan
-(Presentasi & Khidmah)"]
-```
+![[canvas/Pembelajaran Alamiah - B. 4 Siklus Pelaksanaan Proyek Alamiah.canvas]]
 
 1. **Investigasi & Observasi Lapangan:** Mengamati fenomena ciptaan Allah dan menemukan permasalahan riil di lingkungan sekitar (misal: penanganan sampah organik, tata kelola air wudhu, perawatan hewan ternak).
 2. **Perencanaan & Kolaborasi Tim:** Berdiskusi merumuskan hipotesis, membagi peran kerja berdasarkan kecenderungan bakat masing-masing anak, dan menyusun kebutuhan bahan.

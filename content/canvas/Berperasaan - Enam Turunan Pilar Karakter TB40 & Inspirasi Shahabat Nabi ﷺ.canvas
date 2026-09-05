@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "id": "BPer",
+      "type": "text",
+      "text": "Berperasaan (Asy-Syu'ur)",
+      "x": -503,
+      "y": 0,
+      "width": 256,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "Sub 8: Pendiam & Menjaga Diri",
+      "x": -177,
+      "y": 0,
+      "width": 301,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "Sub 9: Suka Merendah & Qana'ah",
+      "x": 193,
+      "y": 0,
+      "width": 310,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "Sub 7: Apa Adanya",
+      "x": -1088,
+      "y": 170,
+      "width": 240,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P13",
+      "type": "text",
+      "text": "#13 'Iffah (Menjaga Kesucian Diri)",
+      "x": -778,
+      "y": 170,
+      "width": 346,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P14",
+      "type": "text",
+      "text": "#14 Shamt (Bijak Mengendalikan Lisan)",
+      "x": -362,
+      "y": 170,
+      "width": 373,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P15",
+      "type": "text",
+      "text": "#15 Hayaa' (Rasa Malu Syar'i)",
+      "x": 81,
+      "y": 170,
+      "width": 301,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P16",
+      "type": "text",
+      "text": "#16 Qanaa'ah (Merasa Cukup)",
+      "x": 452,
+      "y": 170,
+      "width": 283,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P17",
+      "type": "text",
+      "text": "#17 Tawaadhu' (Rendah Hati)",
+      "x": 805,
+      "y": 170,
+      "width": 283,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P12",
+      "type": "text",
+      "text": "#12 Shidq (Jujur Tanpa Rekayasa)",
+      "x": -164,
+      "y": 340,
+      "width": 328,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_BPer_G1",
+      "fromNode": "BPer",
+      "fromSide": "left",
+      "toNode": "G1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_G1_P12",
+      "fromNode": "G1",
+      "fromSide": "right",
+      "toNode": "P12",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_G2_P13",
+      "fromNode": "G2",
+      "fromSide": "left",
+      "toNode": "P13",
+      "toSide": "right"
+    },
+    {
+      "id": "e_7_G2_P14",
+      "fromNode": "G2",
+      "fromSide": "bottom",
+      "toNode": "P14",
+      "toSide": "top"
+    },
+    {
+      "id": "e_8_G3_P15",
+      "fromNode": "G3",
+      "fromSide": "bottom",
+      "toNode": "P15",
+      "toSide": "top"
+    },
+    {
+      "id": "e_9_G3_P16",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P16",
+      "toSide": "left"
+    },
+    {
+      "id": "e_10_G3_P17",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P17",
+      "toSide": "left"
+    }
+  ]
+}

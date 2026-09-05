@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "BP",
+      "type": "text",
+      "text": "Berpikir (At-Tafkir)",
+      "x": -477,
+      "y": 0,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "Sub 4: Imajinatif & Visioner",
+      "x": -167,
+      "y": 0,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "Sub 6: Analitis & Bijaksana",
+      "x": 194,
+      "y": 0,
+      "width": 283,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "Sub 5: Berpikir Positif",
+      "x": -924,
+      "y": 170,
+      "width": 247,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P7",
+      "type": "text",
+      "text": "#07 Firaasah (Ketajaman Intuisi)",
+      "x": -607,
+      "y": 170,
+      "width": 328,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P8",
+      "type": "text",
+      "text": "#08 Nubl (Banyak Akal Solutif)",
+      "x": -209,
+      "y": 170,
+      "width": 310,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P10",
+      "type": "text",
+      "text": "#10 Dzakaa' (Cerdas Analitis)",
+      "x": 171,
+      "y": 170,
+      "width": 301,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P11",
+      "type": "text",
+      "text": "#11 Hikmah (Tepat Menempatkan Perkara)",
+      "x": 542,
+      "y": 170,
+      "width": 382,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P9",
+      "type": "text",
+      "text": "#09 Husnuzhan (Objektif Positif)",
+      "x": -164,
+      "y": 340,
+      "width": 328,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_BP_G2",
+      "fromNode": "BP",
+      "fromSide": "left",
+      "toNode": "G2",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_G1_P7",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P7",
+      "toSide": "right"
+    },
+    {
+      "id": "e_6_G1_P8",
+      "fromNode": "G1",
+      "fromSide": "bottom",
+      "toNode": "P8",
+      "toSide": "top"
+    },
+    {
+      "id": "e_7_G2_P9",
+      "fromNode": "G2",
+      "fromSide": "right",
+      "toNode": "P9",
+      "toSide": "left"
+    },
+    {
+      "id": "e_8_G3_P10",
+      "fromNode": "G3",
+      "fromSide": "bottom",
+      "toNode": "P10",
+      "toSide": "top"
+    },
+    {
+      "id": "e_9_G3_P11",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P11",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "V1",
+      "type": "text",
+      "text": "1: Seri Fondasi Insan\n(Hakikat Jiwa & Fitrah)",
+      "x": 36,
+      "y": -311,
+      "width": 247,
+      "height": 88,
+      "color": "4"
+    },
+    {
+      "id": "V2",
+      "type": "text",
+      "text": "2: Seri Metode Tarbiyah\n(Bahasa Hati & Batas Toleransi)",
+      "x": 0,
+      "y": -133,
+      "width": 319,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "V3",
+      "type": "text",
+      "text": "3: Seri Peta Bakat 40\n(Observasi & Rukun 3A)",
+      "x": 39,
+      "y": 45,
+      "width": 240,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "V4",
+      "type": "text",
+      "text": "4: Seri Implementasi Lembaga\n(Kaidah Emas & Standar Mutu)",
+      "x": 13,
+      "y": 223,
+      "width": 292,
+      "height": 88,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

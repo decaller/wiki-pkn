@@ -163,9 +163,4 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 
 ## Visualisasi Jalur Transformasi Wawasan (Insight) ke Implementasi
 
-```mermaid
-flowchart LR
-    A["Kajian & Buku PKN<br/>(Wawasan Kognitif)"] --> B["Tazkiyatun Nafs<br/>(Pembersihan Hati Pendidik)"]
-    B --> C["Observasi Fitrah & Rukun 3A<br/>(Instrumen SOTABH)"]
-    C --> D["Ekosistem Rumah & Kelas<br/>(Aksi Lapangan Berkelanjutan)"]
-```
+![[canvas/Insight - Visualisasi Jalur Transformasi Wawasan (Insight) ke Implementasi.canvas]]

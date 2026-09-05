@@ -1,0 +1,107 @@
+{
+  "nodes": [
+    {
+      "id": "Sistem_Pabrik",
+      "type": "group",
+      "label": "Sistem Pendidikan Pabrik Modern",
+      "x": -198,
+      "y": -50,
+      "width": 848,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "Benang_Merah",
+      "type": "group",
+      "label": "Benang Merah Pendidikan Nabawiyah",
+      "x": -650,
+      "y": -50,
+      "width": 890,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Observasi Cetak Biru Fitrah (Syakilah)",
+      "x": -620,
+      "y": 0,
+      "width": 382,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "P1",
+      "type": "text",
+      "text": "Keseragaman Massal & Kurikulum Kaku",
+      "x": -168,
+      "y": 0,
+      "width": 355,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "P2",
+      "type": "text",
+      "text": "Menghukum Perbedaan Bakat & Keunikan",
+      "x": 256,
+      "y": 0,
+      "width": 364,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Fasilitasi Pertumbuhan 40 Pilar Bakat Unik",
+      "x": -454,
+      "y": 170,
+      "width": 418,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P3",
+      "type": "text",
+      "text": "Melahirkan 'Generasi Buih' yang Seragam tapi Rapuh",
+      "x": 34,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "N3",
+      "type": "text",
+      "text": "Melahirkan Generasi Muslih Mandiri Sesuai Peran",
+      "x": -210,
+      "y": 340,
+      "width": 420,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_4_P2_P3",
+      "fromNode": "P2",
+      "fromSide": "left",
+      "toNode": "P3",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_N1_N2",
+      "fromNode": "N1",
+      "fromSide": "right",
+      "toNode": "N2",
+      "toSide": "left"
+    },
+    {
+      "id": "e_6_N2_N3",
+      "fromNode": "N2",
+      "fromSide": "right",
+      "toNode": "N3",
+      "toSide": "left"
+    }
+  ]
+}

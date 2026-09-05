@@ -47,16 +47,7 @@ Dalam pendidikan sekuler atau mistisisme ekstrem, ammarah sering kali dipandang 
 
 Pada anak-anak, khususnya di bawah usia 10 tahun, dominasi nafsul ammarah tampak sangat kentara. Orang tua wajib memahami bahwa ammarah anak adalah **potensi mentah (*raw energy*)**, bukan niat jahat terencana:
 
-```mermaid
-graph TD
-    subgraph ENERGI_AMMARAH["POTENSI ENERGI AMMARAH ANAK"]
-        Raw["Energi Fisik Meluap<br/>Impulsif, Ingin Menang Sendiri, Gerak Tanpa Henti"]
-    end
-
-    Raw -->|Pola Asuh Otoriter & Kasar| Broken["Jiwa Patah / Luka Fitrah<br/>Pemberontak Pasif, Hipokrit, Pengecut"]
-    Raw -->|Pola Asuh Permisif & Manja| Liar["Ammarah bis-Su' Liar<br/>Tirani Kecil, Hedonis, Narsistik"]
-    Raw -->|Pendidikan Karakter Nabawiyah| Khair["Ammarah bil-Khair<br/>Tangguh, Berdaya Juang Tinggi, Bakat Terasah"]
-```
+![[canvas/Ammarah - Ammarah dalam Perkembangan Anak - Bukan Jahat, tapi Mentah.canvas]]
 
 ### A. Manifestasi Alami Ammarah Anak
 1. **Tantrum & Ledakan Emosi:** Saat keinginannya tertunda atau tidak terpenuhi, ammarah bereaksi secara reaktif karena belum matangnya regulasi emosi di otak prefrontal.

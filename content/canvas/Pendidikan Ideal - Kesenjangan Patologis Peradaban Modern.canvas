@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Model_Modern",
+      "type": "group",
+      "label": "Pendidikan Sekuler Modern",
+      "x": 19,
+      "y": -260,
+      "width": 728,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "Model_Nabawi",
+      "type": "group",
+      "label": "Pendidikan Ideal Nabawiyah",
+      "x": -30,
+      "y": -90,
+      "width": 424,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "M1",
+      "type": "text",
+      "text": "Baligh Cepat (Usia 10-12)",
+      "x": 49,
+      "y": -210,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Baligh Biologis (Usia 14-15)",
+      "x": 36,
+      "y": -40,
+      "width": 292,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Akil & Mukallaf Mandiri (Usia 14-15)",
+      "x": 0,
+      "y": 130,
+      "width": 364,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "M2",
+      "type": "text",
+      "text": "Akil Terlambat (Usia 22-25)",
+      "x": 434,
+      "y": -40,
+      "width": 283,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_M1_M2",
+      "fromNode": "M1",
+      "fromSide": "right",
+      "toNode": "M2",
+      "toSide": "left",
+      "label": "Jurang 10-12 Tahun Labil"
+    }
+  ]
+}

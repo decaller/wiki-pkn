@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "ARSITEKTUR_IMPLEMENTASI",
+      "type": "group",
+      "label": "SEGITIGA EMAS IMPLEMENTASI PKN",
+      "x": -730,
+      "y": -50,
+      "width": 1460,
+      "height": 194,
+      "color": "5"
+    },
+    {
+      "id": "Kaidah",
+      "type": "text",
+      "text": "1: [[Kaidah & Elemen]]\n4 Kaidah Emas (Taisir, Qudwah, Rahmah, Tadarruj)\n4 Elemen Operasional (Ghayah, Manhaj, Uslub, Taqyim)",
+      "x": -700,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Internal",
+      "type": "text",
+      "text": "2: [[Internal & Eksternal]]\nPilar Internal: [[Tazkiyatun Nafs]] & [[Tawakkal dan Doa]]\nPilar Eksternal: [[Imunitas Sosial]] & [[Batas Toleransi]]",
+      "x": -210,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Peran",
+      "type": "text",
+      "text": "3: [[Peran & Tanggung Jawab]]\nSegitiga Sinergi:\nAyah (Qawwamah) • Bunda (Rahimah) • Guru (Waratsatul Anbiya')",
+      "x": 280,
+      "y": 0,
+      "width": 420,
+      "height": 114,
+      "color": "5"
+    },
+    {
+      "id": "Output",
+      "type": "text",
+      "text": "Generasi Khairu Ummah: Akil-Baligh Mukallaf",
+      "x": -210,
+      "y": 204,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_3_ARSITEKTUR_IMPLEMENTASI_Output",
+      "fromNode": "ARSITEKTUR_IMPLEMENTASI",
+      "fromSide": "bottom",
+      "toNode": "Output",
+      "toSide": "top"
+    }
+  ]
+}

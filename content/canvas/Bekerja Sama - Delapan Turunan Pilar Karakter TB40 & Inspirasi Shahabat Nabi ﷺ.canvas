@@ -1,0 +1,203 @@
+{
+  "nodes": [
+    {
+      "id": "BS",
+      "type": "text",
+      "text": "Bekerja Sama (At-Ta'amul)",
+      "x": -132,
+      "y": 0,
+      "width": 265,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "G1",
+      "type": "text",
+      "text": "Sub 13: Menggunakan Relasi yang Ada",
+      "x": -553,
+      "y": 170,
+      "width": 355,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G2",
+      "type": "text",
+      "text": "Sub 14: Membuka Relasi Baru",
+      "x": -128,
+      "y": 170,
+      "width": 283,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "G3",
+      "type": "text",
+      "text": "Sub 15: Mengeratkan Ikatan Kasih",
+      "x": 225,
+      "y": 170,
+      "width": 328,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "P25",
+      "type": "text",
+      "text": "#25 Ta'aawun (Sinergi Beramal)",
+      "x": -1494,
+      "y": 340,
+      "width": 310,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P26",
+      "type": "text",
+      "text": "#26 Ulfah (Persatuan Hati)",
+      "x": -1114,
+      "y": 340,
+      "width": 274,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P27",
+      "type": "text",
+      "text": "#27 'Adaalah (Keadilan Proporsional)",
+      "x": -770,
+      "y": 340,
+      "width": 364,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P28",
+      "type": "text",
+      "text": "#28 Wafaa' (Menepati Janji)",
+      "x": -336,
+      "y": 340,
+      "width": 283,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P29",
+      "type": "text",
+      "text": "#29 Muzaah (Canda Mengakrabkan)",
+      "x": 17,
+      "y": 340,
+      "width": 319,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P30",
+      "type": "text",
+      "text": "#30 Basyaasyah (Wajah Ramah Berseri)",
+      "x": 406,
+      "y": 340,
+      "width": 364,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P31",
+      "type": "text",
+      "text": "#31 Rifq (Lemah Lembut)",
+      "x": 840,
+      "y": 340,
+      "width": 247,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "P32",
+      "type": "text",
+      "text": "#32 Mahabbah (Cinta Karena Allah)",
+      "x": 1157,
+      "y": 340,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_BS_G1",
+      "fromNode": "BS",
+      "fromSide": "left",
+      "toNode": "G1",
+      "toSide": "right"
+    },
+    {
+      "id": "e_1_BS_G2",
+      "fromNode": "BS",
+      "fromSide": "bottom",
+      "toNode": "G2",
+      "toSide": "top"
+    },
+    {
+      "id": "e_2_BS_G3",
+      "fromNode": "BS",
+      "fromSide": "right",
+      "toNode": "G3",
+      "toSide": "left"
+    },
+    {
+      "id": "e_3_G1_P25",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P25",
+      "toSide": "right"
+    },
+    {
+      "id": "e_4_G1_P26",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P26",
+      "toSide": "right"
+    },
+    {
+      "id": "e_5_G1_P27",
+      "fromNode": "G1",
+      "fromSide": "left",
+      "toNode": "P27",
+      "toSide": "right"
+    },
+    {
+      "id": "e_6_G1_P28",
+      "fromNode": "G1",
+      "fromSide": "right",
+      "toNode": "P28",
+      "toSide": "left"
+    },
+    {
+      "id": "e_7_G2_P29",
+      "fromNode": "G2",
+      "fromSide": "bottom",
+      "toNode": "P29",
+      "toSide": "top"
+    },
+    {
+      "id": "e_8_G2_P30",
+      "fromNode": "G2",
+      "fromSide": "right",
+      "toNode": "P30",
+      "toSide": "left"
+    },
+    {
+      "id": "e_9_G3_P31",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P31",
+      "toSide": "left"
+    },
+    {
+      "id": "e_10_G3_P32",
+      "fromNode": "G3",
+      "fromSide": "right",
+      "toNode": "P32",
+      "toSide": "left"
+    }
+  ]
+}

@@ -56,18 +56,7 @@ Pendidikan modern bergaya industrial sering kali mereduksi fitrah belajar yang m
 
 Pendidikan Karakter Nabawiyah merumuskan bahwa proses belajar anak harus selaras dengan hukum alam penciptaan (*sunnatullah kauni*):
 
-```mermaid
-graph TD
-    subgraph TIGA_PILAR["TIGA INSTRUMEN FITRAH BELAJAR NABAWI"]
-        P1["1: Tadabbur Alam (Observasi Sensori)<br/>Pemanfaatan Pendengaran & Penglihatan Mengeksplorasi Ayat Kauniyah"]
-        P2["2: Tajribah & Ibtikar (Eksperimen Bebas)<br/>Uji Coba Nyata, Meraba, Membongkar-Pasang, Trial & Error"]
-        P3["3: Hiwar & Muhawarah (Dialog Sokratik)<br/>Tanya-Jawab Kritis Mengaktifkan Nafsul Lawwamah Menuju Hikmah"]
-    end
-
-    P1 --> Hasil["Pecinta Ilmu Seumur Hidup (Thalibul 'Ilmi Hakiki)"]
-    P2 --> Hasil
-    P3 --> Hasil
-```
+![[canvas/Belajar - Tiga Pilar Pembelajaran Alamiah Nabawiyah.canvas]]
 
 ### A. Tadabbur Alam (Observasi Sensori Terbuka)
 - Anak belajar paling cepat tatkala melibatkan seluruh panca inderanya di alam terbuka: menyentuh tekstur tanah, mengamati semut berbaris, mencium bau hujan, mendengarkan desir angin.
@@ -100,16 +89,7 @@ Pendidikan Karakter Nabawiyah mengkritisi sistem persekolahan konvensional yang 
 
 Merujuk pada firman Allah Ta'ala dalam **QS. An-Nahl: 78**, instrumen penyerapan ilmu pada manusia dianugerahkan dalam tiga saluran utama: pendengaran (*As-Sam'u*), penglihatan (*Al-Bashar*), dan hati nurani/daya gerak batin (*Al-Af'idah/Al-Fu'ad*). Diadaptasi dalam sistem evaluasi rapor karakter santri PKN, ketiga instrumen ini melahirkan **Tiga Gaya Belajar Fitrah**:
 
-```mermaid
-graph TD
-    AYAT["QS. An-Nahl: 78: As-Sam'a, Al-Abshara, Al-Af'idah"] --> G1["1: Al-Fu'ad (الفُؤَاد)<br/>Kinestetik & Eksperiensial"]
-    AYAT --> G2["2: As-Sam'u (السَمْع)<br/>Auditori & Dialogis"]
-    AYAT --> G3["3: Al-Bashar (البَصَر)<br/>Visual & Observasional"]
-
-    G1 --> S1["Ciri: Bergerak, membongkar-pasang, praktik nyata<br/>Setting: Alam terbuka, lapangan, bengkel, kebun"]
-    G2 --> S2["Ciri: Menyimak kisah, diskusi, talaqqi, peka intonasi<br/>Setting: Halaqah melingkar, podcast, ruang tenang"]
-    G3 --> S3["Ciri: Peta konsep, infografis, demonstrasi bentuk<br/>Setting: Ruang berpencahayaan baik, media visual"]
-```
+![[canvas/Belajar - Tiga Gaya Belajar Fitrah Berbasis Al - Qur'an (Manhaj SKIS Semarang).canvas]]
 
 | Gaya Belajar | Modalitas Indera | Ciri Perilaku Dominan Anak | Setting Lingkungan Belajar yang Optimal |
 |---|---|---|---|

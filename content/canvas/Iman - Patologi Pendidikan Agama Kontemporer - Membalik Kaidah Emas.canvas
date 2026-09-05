@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "METODE_KELIRU",
+      "type": "group",
+      "label": "⚠️ PENDEKATAN TERBALIK (MODERN MEKANIS)",
+      "x": -1402,
+      "y": -50,
+      "width": 1397,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "METODE_NABAWI",
+      "type": "group",
+      "label": "✅ KAIDAH EMAS NABAWIYAH (PKN)",
+      "x": -37,
+      "y": -50,
+      "width": 1439,
+      "height": 330,
+      "color": "5"
+    },
+    {
+      "id": "K1",
+      "type": "text",
+      "text": "Target Hafalan & Teori Fikih Sejak Balita",
+      "x": -1372,
+      "y": 0,
+      "width": 409,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K2",
+      "type": "text",
+      "text": "Anak Hafal Lafadz tapi Kering Rasa & Adab",
+      "x": -893,
+      "y": 0,
+      "width": 409,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K3",
+      "type": "text",
+      "text": "Tekanan & Ancaman Dosa Berlebihan",
+      "x": -414,
+      "y": 0,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N1",
+      "type": "text",
+      "text": "Belajar Iman: Kenalkan Cinta Allah & Tadabbur Alam",
+      "x": -7,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N2",
+      "type": "text",
+      "text": "Tangki Cinta Penuh & Hubungan Hati Kokoh",
+      "x": 482,
+      "y": 0,
+      "width": 400,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "N4",
+      "type": "text",
+      "text": "Kematangan Akil-Baligh: Mukallaf yang Beradab & Tangguh",
+      "x": 952,
+      "y": 0,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "K4",
+      "type": "text",
+      "text": "Resistensi Spiritual Pasca-Baligh (Atheism/Apatis)",
+      "x": -455,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "N3",
+      "type": "text",
+      "text": "Belajar Al-Qur'an: Ayat Mengobarkan Rindu Amal",
+      "x": 35,
+      "y": 170,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_6_K3_K4",
+      "fromNode": "K3",
+      "fromSide": "bottom",
+      "toNode": "K4",
+      "toSide": "top"
+    },
+    {
+      "id": "e_11_N2_N3",
+      "fromNode": "N2",
+      "fromSide": "left",
+      "toNode": "N3",
+      "toSide": "right"
+    }
+  ]
+}

@@ -59,12 +59,7 @@ Pemulihan ini berpijak pada kaidah dasar bahwa fitrah manusia pada dasarnya cond
 
 Kerangka utama recovery dijalankan melalui tiga tahapan terstruktur yang disebut **EMISOL**:
 
-```mermaid
-flowchart TD
-    A["1: Empati (Edukasi Rasa)"] -->|Hati Tenang & Percaya Kembali| B["2: Imajinasi (Edukasi Visi)"]
-    B -->|Visi Diri Tumbuh & Sadar Hakikat| C["3: Solusi (Edukasi Aksi & Restitusi)"]
-    C -->|Kemandirian Mukallaf Tercapai| D["Fitrah Pulih Sempurna"]
-```
+![[canvas/Recovery - Metode EMISOL - Tiga Pilar Pemulihan.canvas]]
 
 ### 1. Empati (Edukasi Rasa)
 - **Tujuan:** Meruntuhkan tembok pertahanan batin anak dan membangun kembali rasa aman (*safety zone*).
@@ -92,14 +87,7 @@ flowchart TD
 
 Dalam interaksi harian selama masa pemulihan, orang tua wajib menguasai analogi **"Naik Turun Gas"** yang diajarkan oleh Ustadz Abdul Kholiq:
 
-```mermaid
-flowchart LR
-    Lisan["Bahasa Lisan (Dialog & Arahan)"]
-    Hati["Bahasa Hati (Pelukan & Empati)"]
-
-    Lisan -->|"Anak Membantah / Defensif"| Turun["TURUNKAN GAS!"] --> Hati
-    Hati -->|"Hati Meleleh & Suasana Hangat"| Naik["NAIKKAN GAS PERLAHAN!"] --> Lisan
-```
+![[canvas/Recovery - Kaidah Emas - Prinsip - Naik Turun Gas.canvas]]
 
 1. **Awali dengan Bahasa Lisan:** Bicarakan aturan atau tugas rumah tangga secara baik-baik.
 2. **Deteksi Resistensi:** Jika anak mulai cemberut, membanting pintu, atau meninggikan nada bicara, ini tanda bahwa **amigdala (otak emosi) anak sedang membajak nalarnya**.

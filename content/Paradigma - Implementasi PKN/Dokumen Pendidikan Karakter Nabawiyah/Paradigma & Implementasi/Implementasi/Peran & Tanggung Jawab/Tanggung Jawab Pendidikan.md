@@ -132,20 +132,7 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
 
 ## Visualisasi Sinergi Tripartit Tanggung Jawab Pendidikan
 
-```mermaid
-flowchart TD
-    subgraph Sinergi["TRIANGEL SINERGI PENDIDIKAN NABAWIYAH"]
-        Ayah["AYAH (Qawwam & Visioner)<br/>• Penanggung Jawab Aqidah Utama<br/>• Pemberi Nafkah Halal<br/>• Penegak Prinsip & Disiplin"]
-        Bunda["BUNDA (Madrasatul Ula)<br/>• Pemuas Tangki Cinta & Kelekatan<br/>• Pembiasaan Adab Harian<br/>• Penjaga Kehangatan Rumah"]
-        Guru["GURU & SEKOLAH (Mitra Murabbi)<br/>• Transmisi Ilmu Terstruktur<br/>• Fasilitator Eksplorasi Bakat<br/>• Penguat Adab Kolektif"]
-    end
-    Ayah <--> Bunda
-    Ayah <--> Guru
-    Bunda <--> Guru
-    Ayah --> Anak["ANAK BERFITRAH KOKOH & BERKARYA"]
-    Bunda --> Anak
-    Guru --> Anak
-```
+![[canvas/Tanggung Jawab Pendidikan - Visualisasi Sinergi Tripartit Tanggung Jawab Pendidi.canvas]]
 
 ---
 

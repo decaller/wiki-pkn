@@ -48,22 +48,7 @@ Kerangka pendidikan karakter berbasis Nabawiyah yang mengintegrasikan
 
 ## Navigasi Utama
 
-```mermaid
-flowchart LR
-    IMAN["Iman (Why?)"]
-    ILMU["Ilmu (How?)"]
-    AMAL["Amal (What?)"]
-
-    IMAN -->|"<<"| ILMU -->|"<<"| AMAL
-
-    JIWA["Jiwa Pendidik"]
-    PERAN["Peran Pendidik"]
-    METODE["Metode Mendidik"]
-    MATERI["Materi Pendidikan"]
-    IMPL["Implementasi"]
-
-    JIWA -->|">>"| PERAN -->|">>"| METODE -->|">>"| MATERI -->|">>"| IMPL
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Navigasi Utama.canvas]]
 
 ---
 
@@ -71,26 +56,7 @@ flowchart LR
 
 ### 1.1 Tujuan Penciptaan Manusia
 
-```mermaid
-flowchart TD
-    TPC["Tujuan Penciptaan Manusia"]
-
-    TPC --> SHOLIH["Sholih"]
-    TPC --> MUSLIH["Muslih"]
-
-    subgraph SHOLIH_BLOCK["Sholih — Hasil Karakter"]
-        SHOLIH --> S1["Iman - karakter Iman"]
-        SHOLIH --> S2["Ilmu - karakter Belajar"]
-        SHOLIH --> S3["Amal - karakter Bakat"]
-    end
-
-    subgraph MUSLIH_BLOCK["Muslih — Peran Sosial"]
-        MUSLIH --> M1["Imunitas Sosial - 8 lebih dari 88"]
-        MUSLIH --> M2["Peran / Profesi - 8 ke 88"]
-        M1 --> STD["Syariat, Masyarakat Sekitar, Pribadi"]
-        M2 --> STD
-    end
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Tujuan Penciptaan Manusia.canvas]]
 
 ### 1.2 8 Kompetensi & Standar
 
@@ -136,36 +102,7 @@ flowchart TD
 Analogi alam: Kucing mencari susu induk dan berlatih memburu secara alami.
 Serangga langsung mencari makan dan berkembang biak tanpa diajarkan.
 
-```mermaid
-flowchart TD
-    SF["Sumber Fitrah"]
-
-    SF --> JASAD["Jasad"]
-    SF --> RUH["Ruh"]
-
-    subgraph JASAD_PATH["Jalur Jasad — Hayawaniyah"]
-        direction LR
-        JASAD --> HAY["Hayawaniyah"]
-        HAY --> AMM["Ammarah"]
-        AMM --> BAKAT["Bakat"]
-        BAKAT --> MUR["Murahaqah 10-Baligh"]
-    end
-
-    subgraph AKAL_PATH["Jalur Akal — Lawwamah"]
-        direction LR
-        BIMBANG["Kebimbangan"] --> LAW["Lawwamah"]
-        LAW --> BELAJAR["Belajar"]
-        BELAJAR --> TAM["Tamyiz 7-10 tahun"]
-    end
-
-    subgraph RUH_PATH["Jalur Ruh — Muthmainnah"]
-        direction LR
-        RUH --> RUBU["Rububiyyah"]
-        RUBU --> MUT["Muthmainnah"]
-        MUT --> IMAN2["Iman"]
-        IMAN2 --> THU["Thufulah 0-7 Tahun"]
-    end
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Paradigma — 'Fitrah' sebagai Referensi.canvas]]
 
 ### 2.2 Tabel Perkembangan 3 Fase
 
@@ -209,26 +146,7 @@ flowchart TD
 
 ### 4.1 Tingkat Kesadaran & Alat Mendidik
 
-```mermaid
-flowchart LR
-    subgraph AMM_PATH["Ammarah — Bawah Sadar (Refleks)"]
-        direction LR
-        A1["Bawah Sadar refleks"] --> A2["Memori"]
-        A2 --> A3["Riyadah"] --> A4["Beramal"]
-    end
-
-    subgraph LAW_PATH["Lawwamah — Sadar (Conscious)"]
-        direction LR
-        B1["Sadar conscious"] --> B2["Nalar"]
-        B2 --> B3["Mawizah"] --> B4["Berilmu"]
-    end
-
-    subgraph MUT_PATH["Muthmainnah — Atas Sadar (Rasa)"]
-        direction LR
-        C1["Atas Sadar rasa"] --> C2["Emosi"]
-        C2 --> C3["Qudwah"] --> C4["Dicintai"]
-    end
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Tingkat Kesadaran & Alat Mendidik.canvas]]
 
 ### 4.2 Tipe Pembelajaran
 
@@ -281,19 +199,7 @@ flowchart LR
 
 ### 5.1 Arsitektur Tangki Cinta
 
-```mermaid
-flowchart TD
-    PENDIDIK["Pendidik (sebelum baligh)"]
-    ALLAH["Allah Jalla Jalaluh tidak terbatas (setelah baligh)"]
-    TANK["Tangki Cinta Pendidik"]
-    RECOVERY["Self Recovery: istirahat, hobi, variasi aktivitas"]
-    TANK_ANAK["Tangki Cinta Anak"]
-
-    PENDIDIK -->|"masuk"| TANK
-    ALLAH -->|"masuk"| TANK
-    RECOVERY -->|"masuk dari bawah"| TANK
-    TANK -->|"keluar"| TANK_ANAK
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Arsitektur Tangki Cinta.canvas]]
 
 ### 5.2 Tazkiyyatun Nafs — Penyucian Jiwa Pendidik
 
@@ -307,25 +213,7 @@ flowchart TD
 
 ### 5.3 Implementasi — 4 Langkah Berurutan
 
-```mermaid
-flowchart TD
-    START(["Mulai Implementasi PKN"])
-
-    L1["Langkah 1: Mulai dari Diri Personal\nJiwa: Muthmainnah"]
-    L2["Langkah 2: Dari yang Mudah / Tidak Ideal\nJiwa: Lawwamah — Kaizen 1persen per hari"]
-    L3["Langkah 3: Utamakan Menghindari Mudharat\nJiwa: Ammarah"]
-    L4["Langkah 4: Sesuaikan Ekspektasi dengan Fitrah\nJiwa: Lawwamah"]
-
-    START --> L1 --> L2 --> L3 --> L4
-
-    NOTE1["Praktik: pembiasaan kecil sholat tepat waktu, senyum salam sapa"]
-    NOTE2["Prioritas: lindungi dari pornografi, gadget tak terbatas, bullying"]
-    NOTE3["Mindset: garis finish adalah Keridhaan Allah dan keselamatan akhirat"]
-
-    L1 -.->|"praktik"| NOTE1
-    L3 -.->|"prioritas"| NOTE2
-    L4 -.->|"mindset"| NOTE3
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Implementasi — 4 Langkah Berurutan.canvas]]
 
 #### Detail 4 Langkah Implementasi
 
@@ -352,56 +240,7 @@ flowchart TD
 
 ## Ringkasan Sistem PKN
 
-```mermaid
-mindmap
-  root(PKN Blueprint)
-    Materi
-      Tujuan Penciptaan Manusia
-        Sholih
-        Muslih
-      8 Kompetensi
-        Aqidah
-        Ibadah
-        Kemandirian
-        Inisiatif
-        Ketekunan
-        Keunikan
-        Rela Berkorban
-        Kebermanfaatan
-      Maqasid Syariah
-        Agama
-        Jiwa ke Kesehatan
-        Akal ke STEM
-        Kehormatan ke Adab
-        Harta ke Fiqh
-    Metode
-      Fitrah Paradigma
-        Jasad ke Hayawaniyah ke Ammarah
-        Ruh ke Rububiyyah ke Muthmainnah
-      3 Fase Perkembangan
-        Thufulah 0-7
-        Tamyiz 7-10
-        Murahaqah 10-Baligh
-    Personal
-      Gaya Belajar
-        Kinestetik Ammarah
-        Visual Lawwamah
-        Auditori Muthmainnah
-      Fitrah Bakat
-        Introvert vs Ekstrovert
-    Peran Pendidik
-      Tingkat Kesadaran
-        Bawah Sadar Refleks
-        Sadar Conscious
-        Atas Sadar Rasa
-      Personalisasi
-        Ayah vs Ibu
-        Kepala Sekolah
-    Jiwa Pendidik
-      Tangki Cinta
-      Tazkiyyatun Nafs
-      Implementasi 4 Langkah
-```
+![[canvas/PKN Blueprint Arsitektur Sistem - Ringkasan Sistem PKN.canvas]]
 
 ---
 

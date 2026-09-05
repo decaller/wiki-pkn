@@ -1,0 +1,142 @@
+{
+  "nodes": [
+    {
+      "id": "HATI",
+      "type": "group",
+      "label": "1: Bahasa Hati (Qolbiyah)",
+      "x": -592,
+      "y": -50,
+      "width": 1184,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "LISAN",
+      "type": "group",
+      "label": "2: Bahasa Lisan (Kalamiyah)",
+      "x": -587,
+      "y": 120,
+      "width": 1174,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "TANGAN",
+      "type": "group",
+      "label": "3: Bahasa Tangan (Amaliyah / Ketegasan)",
+      "x": -669,
+      "y": 290,
+      "width": 1338,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "H1",
+      "type": "text",
+      "text": "Keteladanan Nyata (Qudwah)",
+      "x": -562,
+      "y": 0,
+      "width": 274,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H2",
+      "type": "text",
+      "text": "Pancaran Kasih Sayang & Penerimaan",
+      "x": -218,
+      "y": 0,
+      "width": 346,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "H3",
+      "type": "text",
+      "text": "Dominan pada Usia Thufulah (0–7 Thn)",
+      "x": 198,
+      "y": 0,
+      "width": 364,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "L1",
+      "type": "text",
+      "text": "Dialog Logis, Kisah, Diskusi",
+      "x": -557,
+      "y": 170,
+      "width": 292,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "L2",
+      "type": "text",
+      "text": "Penjelasan Hikmah & Kaidah Hukum",
+      "x": -195,
+      "y": 170,
+      "width": 328,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "L3",
+      "type": "text",
+      "text": "Dominan pada Usia Tamyiz (7–10 Thn)",
+      "x": 202,
+      "y": 170,
+      "width": 355,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "T1",
+      "type": "text",
+      "text": "Konsekuensi Logis & Tindakan Disiplin",
+      "x": -639,
+      "y": 340,
+      "width": 373,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "T2",
+      "type": "text",
+      "text": "Penegakan Batasan & Tanggung Jawab",
+      "x": -196,
+      "y": 340,
+      "width": 346,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "T3",
+      "type": "text",
+      "text": "Diterapkan pada Usia Murahaqah (10 Thn - Baligh)",
+      "x": 219,
+      "y": 340,
+      "width": 420,
+      "height": 80,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_HATI_LISAN",
+      "fromNode": "HATI",
+      "fromSide": "bottom",
+      "toNode": "LISAN",
+      "toSide": "top",
+      "label": "Fondasi Wajib"
+    },
+    {
+      "id": "e_1_LISAN_TANGAN",
+      "fromNode": "LISAN",
+      "fromSide": "bottom",
+      "toNode": "TANGAN",
+      "toSide": "top",
+      "label": "Pematangan Nalar"
+    }
+  ]
+}

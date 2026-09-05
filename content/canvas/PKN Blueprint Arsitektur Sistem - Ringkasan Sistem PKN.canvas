@@ -1,0 +1,475 @@
+{
+  "nodes": [
+    {
+      "id": "m_1",
+      "type": "text",
+      "text": "PKN Blueprint",
+      "x": 44,
+      "y": -3950,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_2",
+      "type": "text",
+      "text": "Materi",
+      "x": 44,
+      "y": -3780,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_3",
+      "type": "text",
+      "text": "Tujuan Penciptaan Manusia",
+      "x": 31,
+      "y": -3610,
+      "width": 265,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_4",
+      "type": "text",
+      "text": "Sholih",
+      "x": 44,
+      "y": -3440,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_5",
+      "type": "text",
+      "text": "Muslih",
+      "x": 44,
+      "y": -3270,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_6",
+      "type": "text",
+      "text": "8 Kompetensi",
+      "x": 44,
+      "y": -3100,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_7",
+      "type": "text",
+      "text": "Aqidah",
+      "x": 44,
+      "y": -2930,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_8",
+      "type": "text",
+      "text": "Ibadah",
+      "x": 44,
+      "y": -2760,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_9",
+      "type": "text",
+      "text": "Kemandirian",
+      "x": 44,
+      "y": -2590,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_10",
+      "type": "text",
+      "text": "Inisiatif",
+      "x": 44,
+      "y": -2420,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_11",
+      "type": "text",
+      "text": "Ketekunan",
+      "x": 44,
+      "y": -2250,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_12",
+      "type": "text",
+      "text": "Keunikan",
+      "x": 44,
+      "y": -2080,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_13",
+      "type": "text",
+      "text": "Rela Berkorban",
+      "x": 44,
+      "y": -1910,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_14",
+      "type": "text",
+      "text": "Kebermanfaatan",
+      "x": 44,
+      "y": -1740,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_15",
+      "type": "text",
+      "text": "Maqasid Syariah",
+      "x": 44,
+      "y": -1570,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_16",
+      "type": "text",
+      "text": "Agama",
+      "x": 44,
+      "y": -1400,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_17",
+      "type": "text",
+      "text": "Jiwa ke Kesehatan",
+      "x": 44,
+      "y": -1230,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_18",
+      "type": "text",
+      "text": "Akal ke STEM",
+      "x": 44,
+      "y": -1060,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_19",
+      "type": "text",
+      "text": "Kehormatan ke Adab",
+      "x": 44,
+      "y": -890,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_20",
+      "type": "text",
+      "text": "Harta ke Fiqh",
+      "x": 44,
+      "y": -720,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_21",
+      "type": "text",
+      "text": "Metode",
+      "x": 44,
+      "y": -550,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_22",
+      "type": "text",
+      "text": "Fitrah Paradigma",
+      "x": 44,
+      "y": -380,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_23",
+      "type": "text",
+      "text": "Jasad ke Hayawaniyah ke Ammarah",
+      "x": 4,
+      "y": -210,
+      "width": 319,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_24",
+      "type": "text",
+      "text": "Ruh ke Rububiyyah ke Muthmainnah",
+      "x": 0,
+      "y": -40,
+      "width": 328,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_25",
+      "type": "text",
+      "text": "3 Fase Perkembangan",
+      "x": 44,
+      "y": 130,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_26",
+      "type": "text",
+      "text": "Thufulah 0-7",
+      "x": 44,
+      "y": 300,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_27",
+      "type": "text",
+      "text": "Tamyiz 7-10",
+      "x": 44,
+      "y": 470,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_28",
+      "type": "text",
+      "text": "Murahaqah 10-Baligh",
+      "x": 44,
+      "y": 640,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_29",
+      "type": "text",
+      "text": "Personal",
+      "x": 44,
+      "y": 810,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_30",
+      "type": "text",
+      "text": "Gaya Belajar",
+      "x": 44,
+      "y": 980,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_31",
+      "type": "text",
+      "text": "Kinestetik Ammarah",
+      "x": 44,
+      "y": 1150,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_32",
+      "type": "text",
+      "text": "Visual Lawwamah",
+      "x": 44,
+      "y": 1320,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_33",
+      "type": "text",
+      "text": "Auditori Muthmainnah",
+      "x": 44,
+      "y": 1490,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_34",
+      "type": "text",
+      "text": "Fitrah Bakat",
+      "x": 44,
+      "y": 1660,
+      "width": 240,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "m_35",
+      "type": "text",
+      "text": "Introvert vs Ekstrovert",
+      "x": 40,
+      "y": 1830,
+      "width": 247,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_36",
+      "type": "text",
+      "text": "Peran Pendidik",
+      "x": 44,
+      "y": 2000,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_37",
+      "type": "text",
+      "text": "Tingkat Kesadaran",
+      "x": 44,
+      "y": 2170,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_38",
+      "type": "text",
+      "text": "Bawah Sadar Refleks",
+      "x": 44,
+      "y": 2340,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_39",
+      "type": "text",
+      "text": "Sadar Conscious",
+      "x": 44,
+      "y": 2510,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_40",
+      "type": "text",
+      "text": "Atas Sadar Rasa",
+      "x": 44,
+      "y": 2680,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_41",
+      "type": "text",
+      "text": "Personalisasi",
+      "x": 44,
+      "y": 2850,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_42",
+      "type": "text",
+      "text": "Ayah vs Ibu",
+      "x": 44,
+      "y": 3020,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_43",
+      "type": "text",
+      "text": "Kepala Sekolah",
+      "x": 44,
+      "y": 3190,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_44",
+      "type": "text",
+      "text": "Jiwa Pendidik",
+      "x": 44,
+      "y": 3360,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_45",
+      "type": "text",
+      "text": "Tangki Cinta",
+      "x": 44,
+      "y": 3530,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_46",
+      "type": "text",
+      "text": "Tazkiyyatun Nafs",
+      "x": 44,
+      "y": 3700,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "m_47",
+      "type": "text",
+      "text": "Implementasi 4 Langkah",
+      "x": 44,
+      "y": 3870,
+      "width": 240,
+      "height": 80,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

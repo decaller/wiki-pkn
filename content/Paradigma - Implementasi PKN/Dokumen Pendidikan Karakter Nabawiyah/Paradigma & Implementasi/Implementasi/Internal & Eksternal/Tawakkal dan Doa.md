@@ -59,19 +59,7 @@ Pendidikan yang hampa dari tawakkal dan doa akan melahirkan kesombongan intelekt
 
 Pendidikan Karakter Nabawiyah membedakan secara tegas dua tingkatan hidayah agar orang tua tidak melampaui batas kewenangannya:
 
-```mermaid
-graph TD
-    subgraph DUA_HIDAYAH["HAKIKAT HIDAYAH DALAM PENDIDIKAN"]
-        H1["1: Hidayatul Irsyad wal Bayan<br/>(Petunjuk Penjelasan & Bimbingan)"]
-        H2["2: Hidayatut Taufiq wal Ilham<br/>(Ketetapan Hati Menerima Kebenaran)"]
-    end
-
-    H1 -->|Tugas & Wilayah Ikhtiar Orang Tua| Ikhtiar["Mendidik, Meneladankan, Memfasilitasi Adab"]
-    H2 -->|Hak Prerogatif Allah Semata| Tawakkal["Tawakkal Total & Doa Tanpa Putus"]
-
-    Ikhtiar --> Output["Hasil Akhir: Berserah Diri pada Takdir Allah"]
-    Tawakkal --> Output
-```
+![[canvas/Tawakkal dan Doa - Memahami Teologi Hidayah - Irsyad vs Taufiq.canvas]]
 
 1. **Hidayatul Irsyad wal Bayan:** Tugas orang tua dan pendidik. Meliputi mengajarkan tauhid, mendialogkan adab, menyediakan lingkungan yang steril dari maksiat, dan mengasah bakat. Di wilayah inilah orang tua akan dihisab atas kesungguhan ikhtiarnya.
 2. **Hidayatut Taufiq wal Ilham:** Wilayah Allah semata. Allah menegaskan kepada Nabi terbaik-Nya ﷺ:  

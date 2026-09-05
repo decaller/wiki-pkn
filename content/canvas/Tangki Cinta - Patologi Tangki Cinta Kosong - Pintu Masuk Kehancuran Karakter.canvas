@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "KONDISI_TANGKI",
+      "type": "group",
+      "label": "DIAGNOSIS STATUS TANGKI CINTA ANAK",
+      "x": -5,
+      "y": -50,
+      "width": 970,
+      "height": 168,
+      "color": "5"
+    },
+    {
+      "id": "V1",
+      "type": "text",
+      "text": "Mudah Terkena Grooming & Pergaulan Bebas",
+      "x": -935,
+      "y": 4,
+      "width": 400,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "S2",
+      "type": "text",
+      "text": "Mudah Diarahkan Beradab & Shalat Tanpa Bentakan",
+      "x": -465,
+      "y": 4,
+      "width": 420,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Empty",
+      "type": "text",
+      "text": "Tangki Cinta Kering Kerontang\n(Ketiadaan Pelukan, Dingin Emosi, Banyak Celaan)",
+      "x": 25,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "Full",
+      "type": "text",
+      "text": "Tangki Cinta Penuh Meluap\n(Diterima Tanpa Syarat, Didengar, Dekat Fisik)",
+      "x": 515,
+      "y": 0,
+      "width": 420,
+      "height": 88,
+      "color": "5"
+    },
+    {
+      "id": "V2",
+      "type": "text",
+      "text": "Kecanduan Gadget, Pornografi, Game Online",
+      "x": -938,
+      "y": 178,
+      "width": 409,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "V3",
+      "type": "text",
+      "text": "Jiwa Ammarah Liar, Agresif, atau Depresi Insecure",
+      "x": -459,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "S1",
+      "type": "text",
+      "text": "Percaya Diri, Resilien Menghadapi Bullying",
+      "x": 30,
+      "y": 178,
+      "width": 418,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "S3",
+      "type": "text",
+      "text": "Jiwa Muthmainnah Tumbuh Kokoh Menuju Akil-Baligh",
+      "x": 518,
+      "y": 178,
+      "width": 420,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_2_Empty_V2",
+      "fromNode": "Empty",
+      "fromSide": "left",
+      "toNode": "V2",
+      "toSide": "right",
+      "label": "Kompensasi Candu Digital"
+    },
+    {
+      "id": "e_3_Empty_V3",
+      "fromNode": "Empty",
+      "fromSide": "left",
+      "toNode": "V3",
+      "toSide": "right",
+      "label": "Pertahanan Ego Rapuh"
+    },
+    {
+      "id": "e_4_Full_S1",
+      "fromNode": "Full",
+      "fromSide": "left",
+      "toNode": "S1",
+      "toSide": "right",
+      "label": "Benteng Imunitas Batin"
+    },
+    {
+      "id": "e_7_Full_S3",
+      "fromNode": "Full",
+      "fromSide": "bottom",
+      "toNode": "S3",
+      "toSide": "top",
+      "label": "Kesiapan Memikul Taklif"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "Neraca",
+      "type": "group",
+      "label": "NERACA HAK & KEWAJIBAN FITRAH",
+      "x": -216,
+      "y": -50,
+      "width": 618,
+      "height": 502,
+      "color": "5"
+    },
+    {
+      "id": "Ridha",
+      "type": "text",
+      "text": "RIDHA ALLAH & KEBERKAHAN KELUARGA",
+      "x": -372,
+      "y": 43,
+      "width": 337,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "Hak",
+      "type": "text",
+      "text": "HAK ANAK DARI ORANG TUA\n• Cinta Tanpa Syarat & Kelembutan\n• Perlindungan Jiwa & Raga\n• Nafkah Halal & Nama Mulia\n• Pendidikan Agama & Adab",
+      "x": 35,
+      "y": 0,
+      "width": 337,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "Kewajiban",
+      "type": "text",
+      "text": "KEWAJIBAN ANAK SECARA BERTAHAP\n• 0-7 Th: Nol Kewajiban Syariat\n• 7-10 Th: Pembiasaan Shalat & Adab\n• 10-15 Th: Disiplin & Tanggung Jawab\n• 15+ Th: Berbakti (Birrul Walidain)",
+      "x": -186,
+      "y": 256,
+      "width": 373,
+      "height": 166,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0_Hak_Kewajiban",
+      "fromNode": "Hak",
+      "fromSide": "bottom",
+      "toNode": "Kewajiban",
+      "toSide": "top"
+    }
+  ]
+}
