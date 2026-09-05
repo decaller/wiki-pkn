@@ -160,6 +160,18 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
+>
+> - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -188,15 +200,3 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
   </div>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
->
-> - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
->   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
-

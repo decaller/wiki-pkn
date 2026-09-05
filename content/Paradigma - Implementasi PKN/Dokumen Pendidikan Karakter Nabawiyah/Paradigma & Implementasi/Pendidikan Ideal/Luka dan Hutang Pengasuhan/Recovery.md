@@ -208,6 +208,57 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *3. PEMULIHAN KARAKTER (Materi 3)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 22–65 (Protokol Pemulihan Karakter, 9 Tahap Menghapus Noda Hati, Terapi Luka Batin)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (51.7 MB)](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=0)
+>
+> - **Materi:** *2. Menangani Anak yang Bermasalah*
+>   - 📖 **Rujukan Slide:** Slide Hal. 10–38 (Diagnosis Masalah Anak: Perilaku Permukaan vs Luka Hati Tersembunyi)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.8 MB)](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=1) • [📊 Unduh PPTX Asli (15.4 MB)](https://www.dropbox.com/scl/fi/1jsh6r3q0e9477q0e25q2/2.-Menangani-anak-yang-bermasalah.pptx?rlkey=1x696k9m9m1j2v2q3o0p713s5&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=0)
+>
+> - **Materi:** *RECOVERY KESADARAN & PENANGANAN BULLYING*
+>   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
+
+---
+
+## Protokol Pemulihan (Recovery) Berdasarkan Etape Usia
+
+Waktu intervensi pemulihan luka pengasuhan menentukan kecepatan restorasi fitrah (*maraji': Fatawa al-Shabaka al-Islamiyya*):
+
+1. **Recovery pada Etape Thufulah (0–7 Th):**
+   * Sangat cepat pulih (hitungan pekan) cukup dengan kehadiran fisik orang tua yang hangat, tatapan mata penuh kasih, dan pelukan harian 8 kali.
+2. **Recovery pada Etape Tamyiz (7–10 Th):**
+   * Memerlukan rekonstruksi dialog, permohonan maaf tulus dari ayah/bunda atas kekasaran masa lalu, dan pemberian ruang validasi emosi.
+3. **Recovery pada Etape Murahaqah (10–15 Th):**
+   * Membutuhkan figur ketiga (mentor/guru bijak) jika komunikasi orang tua-anak mengalami kebuntuan (*blocking*), disertai pembersihan residu trauma perundungan.
+4. **Recovery pada Etape Syabab (15+ Th):**
+   * Bersifat muhasabah mandiri (*self-recovery*), pemahaman qada dan qadar, serta memutus mata rantai pengasuhan toksik (*toxic parenting*) melalui tazkiyatun nafs intensif.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Pemantauan Kemajuan Proses Pemulihan (Recovery)
+| No | Indikator Kesembuhan Luka Batin Anak | Masih Terluka Dalam | Mulai Membuka Diri | Pulih & Tangguh |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Reaksi fisik saat didekati orang tua (tidak lagi tegang atau menjauh) | [ ] | [ ] | [ ] |
+| 2 | Berani menatap mata orang tua saat diajak berbicara | [ ] | [ ] | [ ] |
+| 3 | Kemampuan mengekspresikan kesedihan atau kekecewaan tanpa meledak marah | [ ] | [ ] | [ ] |
+| 4 | Hilangnya gejala psikosomatis (mual, pusing, mengompol saat cemas) | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Orang Tua
+1. Apakah saya sudah tulus meminta maaf kepada anak atas kekasaran lisan atau fisik di masa lalu?
+2. Seberapa sabar saya menerima proses pemulihan anak yang mungkin mengalami pasang surut?
+3. Sudahkah saya memaafkan diri saya sendiri dan memohon ampun kepada Allah atas kelalaian masa lalu?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Tulis surat pendek berisi permohonan maaf dan ungkapan kasih sayang, selipkan di bawah bantal anak Anda malam ini.
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -270,53 +321,3 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
   </div>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *3. PEMULIHAN KARAKTER (Materi 3)*
->   - 📖 **Rujukan Slide:** Slide Hal. 22–65 (Protokol Pemulihan Karakter, 9 Tahap Menghapus Noda Hati, Terapi Luka Batin)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (51.7 MB)](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=0)
->
-> - **Materi:** *2. Menangani Anak yang Bermasalah*
->   - 📖 **Rujukan Slide:** Slide Hal. 10–38 (Diagnosis Masalah Anak: Perilaku Permukaan vs Luka Hati Tersembunyi)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.8 MB)](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=1) • [📊 Unduh PPTX Asli (15.4 MB)](https://www.dropbox.com/scl/fi/1jsh6r3q0e9477q0e25q2/2.-Menangani-anak-yang-bermasalah.pptx?rlkey=1x696k9m9m1j2v2q3o0p713s5&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=0)
->
-> - **Materi:** *RECOVERY KESADARAN & PENANGANAN BULLYING*
->   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
-
----
-
-## Protokol Pemulihan (Recovery) Berdasarkan Etape Usia
-
-Waktu intervensi pemulihan luka pengasuhan menentukan kecepatan restorasi fitrah (*maraji': Fatawa al-Shabaka al-Islamiyya*):
-
-1. **Recovery pada Etape Thufulah (0–7 Th):**
-   * Sangat cepat pulih (hitungan pekan) cukup dengan kehadiran fisik orang tua yang hangat, tatapan mata penuh kasih, dan pelukan harian 8 kali.
-2. **Recovery pada Etape Tamyiz (7–10 Th):**
-   * Memerlukan rekonstruksi dialog, permohonan maaf tulus dari ayah/bunda atas kekasaran masa lalu, dan pemberian ruang validasi emosi.
-3. **Recovery pada Etape Murahaqah (10–15 Th):**
-   * Membutuhkan figur ketiga (mentor/guru bijak) jika komunikasi orang tua-anak mengalami kebuntuan (*blocking*), disertai pembersihan residu trauma perundungan.
-4. **Recovery pada Etape Syabab (15+ Th):**
-   * Bersifat muhasabah mandiri (*self-recovery*), pemahaman qada dan qadar, serta memutus mata rantai pengasuhan toksik (*toxic parenting*) melalui tazkiyatun nafs intensif.
-
----
-
-## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
-
-### 1. Rubrik Pemantauan Kemajuan Proses Pemulihan (Recovery)
-| No | Indikator Kesembuhan Luka Batin Anak | Masih Terluka Dalam | Mulai Membuka Diri | Pulih & Tangguh |
-| :-: | :--- | :-: | :-: | :-: |
-| 1 | Reaksi fisik saat didekati orang tua (tidak lagi tegang atau menjauh) | [ ] | [ ] | [ ] |
-| 2 | Berani menatap mata orang tua saat diajak berbicara | [ ] | [ ] | [ ] |
-| 3 | Kemampuan mengekspresikan kesedihan atau kekecewaan tanpa meledak marah | [ ] | [ ] | [ ] |
-| 4 | Hilangnya gejala psikosomatis (mual, pusing, mengompol saat cemas) | [ ] | [ ] | [ ] |
-
-### 2. Tiga Pertanyaan Reflektif Orang Tua
-1. Apakah saya sudah tulus meminta maaf kepada anak atas kekasaran lisan atau fisik di masa lalu?
-2. Seberapa sabar saya menerima proses pemulihan anak yang mungkin mengalami pasang surut?
-3. Sudahkah saya memaafkan diri saya sendiri dan memohon ampun kepada Allah atas kelalaian masa lalu?
-
-### 3. Aksi Cepat (*Quick Win*) Hari Ini
-* Tulis surat pendek berisi permohonan maaf dan ungkapan kasih sayang, selipkan di bawah bantal anak Anda malam ini.

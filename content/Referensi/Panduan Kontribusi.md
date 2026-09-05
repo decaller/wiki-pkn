@@ -110,11 +110,12 @@ Setiap artikel materi sebaiknya memiliki elemen:
    ```
 2. **Banner Ilustrasi:** Disematkan di awal artikel: `![[assets/banners/nama_banner.webp]]`.
 3. **Isi Pembahasan Utama:** Terstruktur dengan heading `##`, `###`, poin teratur, dan bagan/tabel jika diperlukan.
-4. **Callout Refleksi & Mitigasi:** Diletakkan di bagian akhir konten artikel (sebelum materi presentasi / PPT):
+4. **Callout Refleksi & Mitigasi:** Diletakkan di bagian akhir konten artikel:
    - `> [!info] Refleksi Lapangan: Realitas Penerapan ...`
    - `> [!warning] Peringatan Risiko: Jebakan Formalitas ...`
    - `> [!tip] Tips Praktis Pengasuhan ...`
-5. **Media Presentasi & Slide Interaktif (PPTX):** Disematkan di bagian penutup artikel.
+5. **Sitasi Rujukan Resmi:** `> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN` (jika materi bersumber dari slide pelatihan).
+6. **Media Presentasi & Slide Interaktif (Office Web Apps):** Disematkan sebagai elemen mutlak paling akhir di halaman (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`).
 
 ---
 

@@ -563,9 +563,10 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
     2. Banner Ilustrasi WebP
     3. Isi Pembahasan Utama (`##`, `###`, tabel, dalil, kanvas)
     4. Callout Refleksi & Mitigasi (`[!info]`, `[!warning]`, `[!tip]`) di akhir konten
-    5. Media Presentasi & Slide Interaktif (PPTX) sebagai penutup artikel.
+    5. Sitasi & Daftar Berkas Rujukan Resmi (`[!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN`)
+    6. **Media Presentasi & Slide Interaktif (Office Web Apps)**: Diletakkan sebagai elemen mutlak paling akhir di setiap halaman (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`).
 - **Verifikasi Komprehensif:**
-  - Pemindaian menyeluruh memastikan **0 callout** yang tertinggal di atas H1 dan **0 callout** yang berada di bawah blok PPTX.
+  - Pemindaian menyeluruh memastikan **0 callout** yang tertinggal di atas H1 dan **100% berkas presentasi** menempatkan penampil Office Web Apps di akhir halaman (0 teks setelah `<!-- END_OFFICE_PPTX_EMBED -->`).
   - Kompilasi `npx quartz build` sukses 100%.
 
 

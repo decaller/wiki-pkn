@@ -217,6 +217,18 @@ ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *1. Mengembalikan Pendidikan ke Asalnya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 12–35 (Pondasi Hakiki Pendidikan, Pemakmur Bumi & 5 Rantai Kausalitas Amal)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (16.2 MB)](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=1) • [📊 Unduh PPTX Asli (21.6 MB)](https://www.dropbox.com/scl/fi/7tr7sclrokirbdi53i1k7/1.-Mengembalikan-Pendidikan-ke-asalnya.pptx?rlkey=yvzin1fsnr1uw8chd1v7f6d8h&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=0)
+>
+> - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -245,14 +257,3 @@ ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
   </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (31.78 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *1. Mengembalikan Pendidikan ke Asalnya*
->   - 📖 **Rujukan Slide:** Slide Hal. 12–35 (Pondasi Hakiki Pendidikan, Pemakmur Bumi & 5 Rantai Kausalitas Amal)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (16.2 MB)](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=1) • [📊 Unduh PPTX Asli (21.6 MB)](https://www.dropbox.com/scl/fi/7tr7sclrokirbdi53i1k7/1.-Mengembalikan-Pendidikan-ke-asalnya.pptx?rlkey=yvzin1fsnr1uw8chd1v7f6d8h&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=0)
->
-> - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)

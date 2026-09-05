@@ -173,6 +173,18 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 > * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
 > * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Fase Thufulah (0–7 Tahun) dapat terserap dengan indah.
 
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
+>
+> - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -201,14 +213,3 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
   </div>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
->
-> - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
->   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)

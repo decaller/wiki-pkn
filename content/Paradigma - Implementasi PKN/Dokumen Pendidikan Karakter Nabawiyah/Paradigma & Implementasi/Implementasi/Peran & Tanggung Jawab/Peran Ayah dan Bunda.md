@@ -140,6 +140,46 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
 
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Standar Implementasi PKN 11-2024 (Rev 04)*
+>   - 📖 **Rujukan Slide:** Dokumen Manual Hal. 10–48 (8 Standar Mutu PKN, Standar Pendewasaan Aqil-Baligh & Tata Kelola Lembaga)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.5 MB)](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=0)
+>
+> - **Materi:** *3. PEMBELAJARAN BERBASIS PROJEK*
+>   - 📖 **Rujukan Slide:** Slide Hal. 5–32 (Desain Pembelajaran Berbasis Proyek Karakter & Format RPP Terpadu)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=1) • [📊 Unduh PPTX Asli (27.7 MB)](https://www.dropbox.com/scl/fi/s5odch61rsyu9gxos96a9/3.-PEMBELAJARAN-BERBASIS-PROJEK.pptx?rlkey=cfru4prp5q37ag3bf4z8jhzcb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=0)
+>
+> - **Materi:** *6. Implementasi Kurikulum PKN Pada Persekolahan*
+>   - 📖 **Rujukan Slide:** Slide Hal. 8–28 (Tahapan Adopsi Kurikulum Karakter pada Sekolah, Pesantren, dan Madrasah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (1.9 MB)](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=1) • [📊 Unduh PPTX Asli (501 KB)](https://www.dropbox.com/scl/fi/d5g15b0din35v06sanzcx/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pptx?rlkey=n7o2e20svwk8p61i7fp9cvcys&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=0)
+>
+> - **Materi:** *10 MASALAH PENDIDIKAN*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Pembagian Peran Pengasuhan Ayah dan Bunda
+| No | Indikator Peran Pengasuhan Harmonis | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Ayah: Menjadi teladan visi tauhid dan memimpin ibadah shalat keluarga | [ ] | [ ] | [ ] |
+| 2 | Ayah: Berdialog mendalam (*deep talk*) dengan anak minimal 2 kali sepekan | [ ] | [ ] | [ ] |
+| 3 | Bunda: Menjaga kehangatan rumah dan menjadi tempat curahan hati yang aman | [ ] | [ ] | [ ] |
+| 4 | Ayah & Bunda: Satu suara di depan anak dan tidak berdebat aturan di hadapan mereka | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah ayah hadir secara utuh jiwa dan raga di rumah, bukan sekadar 'mesin ATM pencari nafkah'?
+2. Apakah bunda mendapatkan dukungan emosional dari ayah sehingga tidak meluapkan stres kepada anak?
+3. Sudahkah kami berdua mendoakan anak bersama-sama setelah shalat berjamaah?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ayah mengajak anak keluar rumah berdua saja untuk minum teh atau jalan santai selama 20 menit tanpa interupsi pekerjaan.
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -202,42 +242,3 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
   </div>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *Standar Implementasi PKN 11-2024 (Rev 04)*
->   - 📖 **Rujukan Slide:** Dokumen Manual Hal. 10–48 (8 Standar Mutu PKN, Standar Pendewasaan Aqil-Baligh & Tata Kelola Lembaga)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.5 MB)](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=0)
->
-> - **Materi:** *3. PEMBELAJARAN BERBASIS PROJEK*
->   - 📖 **Rujukan Slide:** Slide Hal. 5–32 (Desain Pembelajaran Berbasis Proyek Karakter & Format RPP Terpadu)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=1) • [📊 Unduh PPTX Asli (27.7 MB)](https://www.dropbox.com/scl/fi/s5odch61rsyu9gxos96a9/3.-PEMBELAJARAN-BERBASIS-PROJEK.pptx?rlkey=cfru4prp5q37ag3bf4z8jhzcb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=0)
->
-> - **Materi:** *6. Implementasi Kurikulum PKN Pada Persekolahan*
->   - 📖 **Rujukan Slide:** Slide Hal. 8–28 (Tahapan Adopsi Kurikulum Karakter pada Sekolah, Pesantren, dan Madrasah)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (1.9 MB)](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=1) • [📊 Unduh PPTX Asli (501 KB)](https://www.dropbox.com/scl/fi/d5g15b0din35v06sanzcx/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pptx?rlkey=n7o2e20svwk8p61i7fp9cvcys&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=0)
->
-> - **Materi:** *10 MASALAH PENDIDIKAN*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
-
----
-
-## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
-
-### 1. Rubrik Pembagian Peran Pengasuhan Ayah dan Bunda
-| No | Indikator Peran Pengasuhan Harmonis | Belum Terlihat | Mulai Terlihat | Membudaya |
-| :-: | :--- | :-: | :-: | :-: |
-| 1 | Ayah: Menjadi teladan visi tauhid dan memimpin ibadah shalat keluarga | [ ] | [ ] | [ ] |
-| 2 | Ayah: Berdialog mendalam (*deep talk*) dengan anak minimal 2 kali sepekan | [ ] | [ ] | [ ] |
-| 3 | Bunda: Menjaga kehangatan rumah dan menjadi tempat curahan hati yang aman | [ ] | [ ] | [ ] |
-| 4 | Ayah & Bunda: Satu suara di depan anak dan tidak berdebat aturan di hadapan mereka | [ ] | [ ] | [ ] |
-
-### 2. Tiga Pertanyaan Reflektif Malam Hari
-1. Apakah ayah hadir secara utuh jiwa dan raga di rumah, bukan sekadar 'mesin ATM pencari nafkah'?
-2. Apakah bunda mendapatkan dukungan emosional dari ayah sehingga tidak meluapkan stres kepada anak?
-3. Sudahkah kami berdua mendoakan anak bersama-sama setelah shalat berjamaah?
-
-### 3. Aksi Cepat (*Quick Win*) Hari Ini
-* Ayah mengajak anak keluar rumah berdua saja untuk minum teh atau jalan santai selama 20 menit tanpa interupsi pekerjaan.
