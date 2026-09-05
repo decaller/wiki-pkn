@@ -1,3 +1,7 @@
+---
+title: "Fitrah Keimanan"
+---
+
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Fitrah Keimanan
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -14,10 +18,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
-
----
-title: "Fitrah Keimanan"
----
 
 # Fitrah Keimanan: Belajar Iman Sebelum Belajar Al-Qur'an
 

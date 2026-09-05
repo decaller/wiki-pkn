@@ -1,3 +1,13 @@
+---
+title: "Tamyiz"
+tags:
+  - pkn
+  - perkembangan
+  - tamyiz
+  - bahasa_lisan
+  - fitrah_belajar
+---
+
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Tamyiz (7–10 Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Tamyiz (7–10 Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
 > **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  
@@ -14,16 +24,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
 > * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Fase Tamyiz (7–10 Tahun) dapat terserap dengan indah.
-
----
-title: "Tamyiz"
-tags:
-  - pkn
-  - perkembangan
-  - tamyiz
-  - bahasa_lisan
-  - fitrah_belajar
----
 
 # Fase Tamyiz (7 – 10 Tahun): Etape Pembantu, Adab, & Pencerahan Nalar
 

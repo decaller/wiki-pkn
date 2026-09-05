@@ -1,5 +1,8 @@
 ---
 title: "PKN Blueprint: Arsitektur Sistem Pendidikan Karakter Nabawiyah"
+aliases:
+  - "PKN Blueprint: Arsitektur Sistem"
+  - "PKN Blueprint"
 tags:
   - blueprint
   - arsitektur

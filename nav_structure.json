@@ -11,6 +11,11 @@
         "children": []
       },
       {
+        "title": "PKN Blueprint: Arsitektur Sistem",
+        "icon": "blueprint",
+        "children": []
+      },
+      {
         "title": "Insan",
         "icon": "universal-access",
         "children": [
@@ -75,39 +80,250 @@
                     "children": []
                   },
                   {
-                    "title": "Bekerja Keras",
+                    "title": "Panduan Asesmen dan Observasi TB-40",
                     "icon": "universal-access",
                     "children": []
                   },
                   {
-                    "title": "Memerintah",
-                    "icon": "universal-access",
+                    "title": "Kuisioner Asesmen 40 Bakat Nabawiyah",
+                    "icon": "clipboard-check",
                     "children": []
+                  },
+                  {
+                    "title": "Bekerja Keras",
+                    "icon": "universal-access",
+                    "children": [
+                      {
+                        "title": "01. Himmah (Bercita-Cita Tinggi)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "02. Ihsaan (Perfeksionis)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "03. 'Izzah (Harga Diri)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "04. Waqaar (Berwibawa)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "05. 'Aziimah (Bertekad Kuat)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "06. Nasyaath (Bersemangat)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "title": "Berpikir",
                     "icon": "universal-access",
-                    "children": []
-                  },
-                  {
-                    "title": "Bekerja Sama",
-                    "icon": "universal-access",
-                    "children": []
+                    "children": [
+                      {
+                        "title": "07. Firaasah (Berfirasat)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "08. Nubl (Cerdik)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "09. Husnuzhan (Berprasangka Baik)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "10. Dzakaa' (Cerdas)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "11. Hikmah (Ahli Hikmah)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "title": "Berperasaan",
                     "icon": "universal-access",
-                    "children": []
+                    "children": [
+                      {
+                        "title": "12. Shidq (Jujur)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "13. 'Iffah (Menjaga Diri)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "14. Shamt (Pendiam)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "15. Hayaa' (Pemalu)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "16. Qanaa'ah (Sederhana)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "17. Shabr (Penyabar)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Memerintah",
+                    "icon": "universal-access",
+                    "children": [
+                      {
+                        "title": "18. Syajaa'ah (Pemberani)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "19. Ghairah (Pencemburu)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "20. Munaafasah (Kompetitif)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "21. Nashiihah (Penasehat)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "22. Fashaahah (Komunikatif)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "23. Nushrah (Menolong)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "24. Juud (Dermawan)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Bekerja Sama",
+                    "icon": "universal-access",
+                    "children": [
+                      {
+                        "title": "25. Ta'aawun (Bekerjasama)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "26. Ulfah (Bersatu)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "27. 'Adaalah (Adil)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "28. Wafaa' (Menepati Janji)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "29. Muzaah (Humoris)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "30. Basyaasyah (Berseri-Seri)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "31. Rifq (Lemah Lembut)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "32. Rahmah (Berbelas Kasih)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "title": "Melayani",
                     "icon": "universal-access",
-                    "children": []
-                  },
-                  {
-                    "title": "Panduan Asesmen dan Observasi TB-40",
-                    "icon": "universal-access",
-                    "children": []
+                    "children": [
+                      {
+                        "title": "33. Mahabbah (Penuh Cinta)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "34. Itsaar (Melayani)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "35. Kitmaanus Sirr (Penjaga Rahasia)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "36. Satr (Menutup Aib)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "37. Amaanah (Bertanggung Jawab)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "38. Anaah (Tidak Tergesa)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "39. Hilm (Santun)",
+                        "icon": "star",
+                        "children": []
+                      },
+                      {
+                        "title": "40. Tawaadhu' (Rendah Hati)",
+                        "icon": "star",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -173,6 +389,11 @@
           },
           {
             "title": "Pembelajaran Alamiah",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "Menumbuhkan Kesadaran Beramal",
             "icon": "academicCap",
             "children": []
           },
@@ -280,6 +501,38 @@
                 "children": []
               }
             ]
+          },
+          {
+            "title": "Arahan & Insight Teknis",
+            "icon": "tools",
+            "children": [
+              {
+                "title": "Arahan Teknis Implementasi",
+                "icon": "tools",
+                "children": []
+              },
+              {
+                "title": "SOTABH",
+                "icon": "tools",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Renungan",
+        "icon": "heart",
+        "children": [
+          {
+            "title": "Renungan Pengasuhan Nabawiyah",
+            "icon": "heart",
+            "children": []
+          },
+          {
+            "title": "Hak dan Kewajiban",
+            "icon": "scale",
+            "children": []
           }
         ]
       },
@@ -300,12 +553,44 @@
           {
             "title": "Korpus Dalil & Atsar Klasik",
             "icon": "book-open",
-            "children": []
+            "children": [
+              {
+                "title": "Master Katalog Dalil Al-Qur'an",
+                "icon": "book",
+                "children": []
+              },
+              {
+                "title": "Master Katalog Dalil Hadits & Sunnah",
+                "icon": "book",
+                "children": []
+              }
+            ]
           },
           {
             "title": "Panduan Kontribusi",
             "icon": "git-pull-request",
-            "children": []
+            "children": [
+              {
+                "title": "Standar Template Wiki PKN",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Template Elemen Karakteristik",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Template Komponen Refleksi, Implementasi & Risiko",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Template Tema",
+                "icon": "file-text",
+                "children": []
+              }
+            ]
           },
           {
             "title": "Referensi Tambahan Buku Cetak",

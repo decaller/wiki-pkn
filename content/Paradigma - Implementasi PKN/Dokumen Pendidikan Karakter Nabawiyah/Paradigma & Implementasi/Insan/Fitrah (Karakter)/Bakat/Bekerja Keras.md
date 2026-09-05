@@ -1,3 +1,13 @@
+---
+title: "Bekerja Keras"
+tags:
+  - pkn
+  - fitrah_bakat
+  - bekerja_keras
+  - tb40
+  - shahabat
+---
+
 > [!info] Refleksi Lapangan: Gejala Sindrom Anak Rapuh (*Strawberry Generation*)
 > **Kondisi Faktual:** Anak zaman sekarang mudah menyerah saat menghadapi kesulitan tugas sekolah, menangis ketika dikritik sedikit oleh guru, dan enggan melakukan pekerjaan fisik yang menguras keringat.  
 > **Akar Masalah PKN:** Pola asuh over-protektif (*helicopter parenting*) yang melayani segala kebutuhan anak sejak kecil tanpa pernah melatih otot daya juang (*Al-Jalad*) dan ketahanan menghadapi tekanan (*resilience*).  
@@ -14,16 +24,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Saat anak mengeluh lelah mengerjakan tugas atau membantu di rumah, jangan langsung mengambil alih. Tatap matanya dan katakan: *"Ayah tahu ini berat, tapi Ayah percaya otot jiwamu sedang tumbuh semakin kuat sekarang."*
 > * **Tujuan:** Menanamkan kebanggaan atas rasa lelah yang halal dan melatih ketangguhan mental (*Al-Hammasah wal-Jalad*).
-
----
-title: "Bekerja Keras"
-tags:
-  - pkn
-  - fitrah_bakat
-  - bekerja_keras
-  - tb40
-  - shahabat
----
 
 # Bakat Bekerja Keras (الحَمَاسَة - Al-Hamasah)
 

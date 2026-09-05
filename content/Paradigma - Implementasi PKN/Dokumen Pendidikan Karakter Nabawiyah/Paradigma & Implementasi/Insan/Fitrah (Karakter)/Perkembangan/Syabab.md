@@ -1,3 +1,14 @@
+---
+title: "Syabab"
+tags:
+  - pkn
+  - perkembangan
+  - syabab
+  - mukallaf
+  - kemandirian
+  - kepemimpinan
+---
+
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Syabab (15+ Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Syabab (15+ Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
 > **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  
@@ -14,17 +25,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
 > * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Fase Syabab (15+ Tahun) dapat terserap dengan indah.
-
----
-title: "Syabab"
-tags:
-  - pkn
-  - perkembangan
-  - syabab
-  - mukallaf
-  - kemandirian
-  - kepemimpinan
----
 
 # Fase Syabab (15+ Tahun / Pasca-Baligh): Etape Sahabat, Mukallaf Mandiri, & Pencetak Peradaban
 

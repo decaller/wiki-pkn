@@ -1,6 +1,8 @@
 ---
 title: "Renungan Pengasuhan Nabawiyah"
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+aliases:
+  - Renungan
 tags:
   - pendidikan-karakter
   - fitrah-nabawiyah

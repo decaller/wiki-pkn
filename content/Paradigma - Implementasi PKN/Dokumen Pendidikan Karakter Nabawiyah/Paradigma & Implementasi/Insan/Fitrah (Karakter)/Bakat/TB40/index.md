@@ -1,6 +1,9 @@
 ---
 title: "Pangkalan Data 40 Pilar Bakat (TB-40)"
 description: "Eksplorasi pangkalan data interaktif 40 pilar bakat nabawiyah (Tafsir Bakat 40) terintegrasi Bases Page Quartz."
+aliases:
+  - "Pangkalan Data TB-40 (Bases)"
+  - "Pangkalan Data TB-40"
 tags:
   - tb40
   - bakat

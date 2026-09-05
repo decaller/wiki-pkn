@@ -1,3 +1,14 @@
+---
+title: "Panduan Asesmen dan Observasi TB-40"
+tags:
+  - pkn
+  - fitrah_bakat
+  - tb40
+  - asesmen
+  - instrumen
+  - observasi
+---
+
 > [!info] Refleksi Lapangan: Realitas Penerapan Panduan Asesmen dan Observasi TB40
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Panduan Asesmen dan Observasi TB40 sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -14,17 +25,6 @@
 > [!tip] Tips Praktis Hari Ini
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
----
-title: "Panduan Asesmen dan Observasi TB-40"
-tags:
-  - pkn
-  - fitrah_bakat
-  - tb40
-  - asesmen
-  - instrumen
-  - observasi
----
 
 # Panduan Asesmen dan Observasi TB-40: Metodologi Penemuan Syakilah Insan
 

@@ -1,3 +1,15 @@
+---
+title: "Menumbuhkan Kesadaran Beramal"
+tags:
+  - kesadaran
+  - paradigma
+  - pendidikan-ideal
+  - dalil
+  - metodologi
+  - official-docs
+description: "Monograf komprehensif mengenai hakikat, filosofi, metafora ekologi qolbu, tahapan kemunculan kesadaran beramal, dan ikhtiar aplikatif pendidikan karakter nabawiyah berlandaskan Al-Qur'an dan As-Sunnah."
+---
+
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Kesadaran Beramal
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Kesadaran Beramal, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -14,18 +26,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
-
----
-title: "Menumbuhkan Kesadaran Beramal"
-tags:
-  - kesadaran
-  - paradigma
-  - pendidikan-ideal
-  - dalil
-  - metodologi
-  - official-docs
-description: "Monograf komprehensif mengenai hakikat, filosofi, metafora ekologi qolbu, tahapan kemunculan kesadaran beramal, dan ikhtiar aplikatif pendidikan karakter nabawiyah berlandaskan Al-Qur'an dan As-Sunnah."
----
 
 # Menumbuhkan Kesadaran Beramal
 

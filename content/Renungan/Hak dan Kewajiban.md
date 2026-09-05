@@ -1,3 +1,7 @@
+---
+title: "Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?"
+---
+
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Hak dan Kewajiban Insani
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -14,10 +18,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
-
----
-title: "Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?"
----
 
 # Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?
 
@@ -41,7 +41,7 @@ Secara perlahan dan bertahap, kita memahami sesuai nalar kita bahwa adalah kewaj
 
 Padahal, pondasi dari melakukan kewajibannya (beramal) adalah kesadaran. Kesadaran dari lubuk hati terdalam niatan untuk mendapatkan pahala, menghindari dosa dan atas cinta kepada Rabnya untuk beramal amalan sholeh yang baik untuk dirinya dan bermanfaat untuk orang lain. Sedianya, kesadaran ini sebenarnya sudah ditanamkan oleh Allah Azza wa Jalla pada setiap manusia, tetapi tugas orang tua dan pendidiknya untuk menumbuhkannya.
 
-<< Dalil semua adalah fitrah >>
+<< Dalil semu anak adalah terlahir fitrah >>
 
 Mungkin sebagian dari kita melihat hadis ini sekilas dan menyimpulkan bahwa artinya, ananda harus segera disiapkan sebelum terpengaruh dengan lingkungan luar yang menyesatkan. Akan tetapi jika kembali ke arahan Rasul dalam mendidik sholat :
 

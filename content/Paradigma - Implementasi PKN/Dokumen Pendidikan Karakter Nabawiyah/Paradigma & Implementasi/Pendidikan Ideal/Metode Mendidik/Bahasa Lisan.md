@@ -1,3 +1,13 @@
+---
+title: "Bahasa Lisan"
+tags:
+  - pkn
+  - bahasa_lisan
+  - tamyiz
+  - dialog_nabawi
+  - qaulan_sadida
+---
+
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Lisan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Lisan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -14,16 +24,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
-
----
-title: "Bahasa Lisan"
-tags:
-  - pkn
-  - bahasa_lisan
-  - tamyiz
-  - dialog_nabawi
-  - qaulan_sadida
----
 
 # Bahasa Lisan: Seni Dialog Dialogis & Pencerahan Nalar Nabawiyah
 

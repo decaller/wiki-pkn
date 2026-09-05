@@ -1,3 +1,7 @@
+---
+title: "Fitrah Belajar"
+---
+
 > [!info] Refleksi Lapangan: Mogok Belajar Akibat Desensitisasi Fitrah Intelektual
 > **Kondisi Faktual:** Anak usia 8 tahun (kelas 2 SD) mulai menunjukkan keengganan membuka buku, menangis histeris saat disuruh mengerjakan PR, dan mengeluh kepalanya pusing setiap kali jam belajar tiba.  
 > **Akar Masalah PKN:** Penjejangan kognitif massal gaya Prusia yang memaksa anak duduk diam 6 jam sehari sambil menghafal rumus abstrak, mematikan rasa ingin tahu alami (*curiosity*) dan menguras tangki cinta tanpa memberi ruang gerak fisik kinestetik.  
@@ -14,10 +18,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Ganti pertanyaan klise saat anak pulang: *"Dapat nilai berapa tadi?"* dengan pertanyaan fitrah: *"Apa hal baru paling menakjubkan yang kamu pelajari hari ini, Nak?"*
 > * **Tujuan:** Menyalakan pelita gairah cinta ilmu (*Syaghaf bil 'Ilm*) dan menanamkan bahwa belajar adalah petualangan seumur hidup.
-
----
-title: "Fitrah Belajar"
----
 
 # Fitrah Belajar: Dari Kebebasan Eksplorasi Menuju Nalar Hikmah
 

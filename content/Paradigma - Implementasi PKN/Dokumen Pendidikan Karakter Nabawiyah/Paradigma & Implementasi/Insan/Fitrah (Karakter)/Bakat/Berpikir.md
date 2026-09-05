@@ -1,3 +1,13 @@
+---
+title: "Berpikir"
+tags:
+  - pkn
+  - fitrah_bakat
+  - berpikir
+  - tb40
+  - shahabat
+---
+
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Berpikir di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Berpikir karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
 > **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  
@@ -14,16 +24,6 @@
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Luangkan waktu khusus 15 menit hari ini untuk berdialog intim dari hati ke hati bersama anak tanpa menyentuh gawai sama sekali.
 > * **Tujuan:** Menjaga kebersihan saluran batin (*wasilah qalbiyah*) agar nilai-nilai mulia Rumpun Berpikir dapat terserap dengan indah.
-
----
-title: "Berpikir"
-tags:
-  - pkn
-  - fitrah_bakat
-  - berpikir
-  - tb40
-  - shahabat
----
 
 # Bakat Berpikir (التَّفْكِيْر - At-Tafkir)
 

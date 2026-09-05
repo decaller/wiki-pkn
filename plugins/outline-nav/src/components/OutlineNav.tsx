@@ -62,6 +62,19 @@ function resolveNodeSlug(
     return slugMap.get(tLow)!
   }
 
+  // Support matching TB-40 items by number prefix (e.g. "01. Himmah" or "01 - Himmah")
+  const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]/)
+  if (tbMatch) {
+    const num = tbMatch[1].padStart(2, "0")
+    for (const file of allFiles) {
+      if (!file.slug) continue
+      const last = file.slug.split("/").pop() ?? ""
+      if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40")) {
+        return file.slug
+      }
+    }
+  }
+
   const sTitle = slugify(title)
   if (slugMap.has(sTitle)) {
     return slugMap.get(sTitle)!

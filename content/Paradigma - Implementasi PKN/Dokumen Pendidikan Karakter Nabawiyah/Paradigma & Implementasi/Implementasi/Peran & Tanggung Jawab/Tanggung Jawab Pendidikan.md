@@ -1,3 +1,12 @@
+---
+title: "Tanggung Jawab Pendidikan"
+tags:
+  - pkn
+  - tanggung_jawab
+  - amanah_orang_tua
+  - fardhu_ain
+---
+
 > [!info] Refleksi Lapangan: Realitas Penerapan Tanggung Jawab Pendidikan
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Tanggung Jawab Pendidikan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -14,15 +23,6 @@
 > [!tip] Tips Praktis Hari Ini
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
----
-title: "Tanggung Jawab Pendidikan"
-tags:
-  - pkn
-  - tanggung_jawab
-  - amanah_orang_tua
-  - fardhu_ain
----
 
 # Tanggung Jawab Asali Pendidikan: Mandat Mutlak di Pundak Orang Tua
 
