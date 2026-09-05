@@ -24,3 +24,45 @@ a.transclude-src {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
   }
 }
+
+// Brand Logo & Page Title Styling
+h2.page-title {
+  margin: 0.35rem 0 0.85rem 0;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
+    text-decoration: none;
+    font-size: 1.65rem;
+    font-weight: 700;
+    color: var(--dark);
+    letter-spacing: -0.02em;
+    transition: all 0.2s ease;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 2.2rem;
+      height: 2.2rem;
+      background-image: url("/static/icon.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      flex-shrink: 0;
+      transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    &:hover {
+      color: var(--secondary);
+
+      &::before {
+        transform: scale(1.1) rotate(-3deg);
+      }
+    }
+  }
+}
+
+:root[saved-theme="dark"] h2.page-title a::before {
+  filter: invert(1);
+}
