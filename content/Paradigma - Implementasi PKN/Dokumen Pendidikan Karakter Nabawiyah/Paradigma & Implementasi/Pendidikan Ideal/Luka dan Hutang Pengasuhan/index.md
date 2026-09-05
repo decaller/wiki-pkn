@@ -273,3 +273,22 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
 >   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
 
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Hutang Pengasuhan (*Emotional Debt*)
+| No | Bentuk Hutang Pengasuhan Terabaikan | Lunas Terbayar | Terhutang Sebagian | Menumpuk Berat |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Hutang Dekapan & Sentuhan Fisik Hangat di Usia Dini | [ ] | [ ] | [ ] |
+| 2 | Hutang Kehadiran Jiwa Ayah (*Father Hunger*) | [ ] | [ ] | [ ] |
+| 3 | Hutang Bermain Bersama Tanpa Interupsi Pekerjaan | [ ] | [ ] | [ ] |
+| 4 | Hutang Apresiasi dan Pengakuan atas Usaha Kerasnya | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Berapa banyak janji kepada anak yang belum sempat saya tunaikan hingga hari ini?
+2. Apakah sikap keras kepala anak hari ini adalah cerminan dari bentakan saya bertahun-tahun yang lalu?
+3. Sebelum ajal menjemput, hutang pengasuhan mana yang paling mendesak untuk saya bayar kepada anak?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Lunasi satu janji kecil kepada anak yang pernah tertunda pekan ini tanpa mencari alasan lagi.

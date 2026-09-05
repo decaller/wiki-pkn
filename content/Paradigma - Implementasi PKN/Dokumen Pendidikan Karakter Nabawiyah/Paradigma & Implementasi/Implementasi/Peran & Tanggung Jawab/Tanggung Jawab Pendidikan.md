@@ -99,6 +99,56 @@ PKN menegaskan pembagian peran kepemimpinan keluarga yang harmonis:
 
 ---
 
+## Pembagian Tanggung Jawab Pendidikan Lintas Etape Usia
+
+Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah & Tuhfatul Maudud*), tanggung jawab nafkah, pengasuhan (*hadhanah*), dan pengajaran (*ta'dib*) bergeser secara harmonis:
+
+1. **Etape Thufulah (0–7 Tahun):** Hak mutlak kelekatan ibu dalam hadhanah; ayah menjamin nafkah halal dan stabilitas ketenangan rumah tangga.
+2. **Etape Tamyiz (7–10 Tahun):** Ayah mulai memimpin edukasi ibadah shalat dan memantau interaksi sosial; ibu mendampingi kebiasaan adab harian.
+3. **Etape Murahaqah (10–15 Tahun):** Ayah mengawal penegakan batasan hukum (*hudud*) dan melatih ketangguhan mental anak; ibu menjadi tempat mencurahkan gejolak emosi.
+4. **Etape Syabab (15+ Tahun):** Orang tua beralih peran sebagai dewan penasihat (*syura*); anak dilatih menanggung konsekuensi hukum dan finansial pribadinya.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Tanggung Jawab Pendidikan Keluarga
+| No | Pilar Tanggung Jawab Pendidikan | Diabaikan | Dititipkan Penuh ke Sekolah | Dikelola Mandiri Secara Bersama |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Penanaman Aqidah & Tauhid | [ ] | [ ] | [ ] |
+| 2 | Pembiasaan Adab & Akhlak Harian | [ ] | [ ] | [ ] |
+| 3 | Pengajaran Baca Tulis Al-Qur'an | [ ] | [ ] | [ ] |
+| 4 | Penjagaan Kesehatan Jasad & Makanan Halal | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Orang Tua
+1. Apakah saya menganggap tanggung jawab mendidik anak selesai begitu uang SPP sekolah dibayar?
+2. Bagaimana jika kelak di akhirat Allah menuntut saya atas aqidah anak yang menyimpang?
+3. Langkah nyata apa yang sudah saya siapkan untuk memastikan anak kokoh memegang agama sebelum baligh?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ambil alih satu sesi belajar adab atau mengaji Al-Qur'an anak malam ini langsung oleh ayah atau bunda di rumah.
+
+---
+
+## Visualisasi Sinergi Tripartit Tanggung Jawab Pendidikan
+
+```mermaid
+flowchart TD
+    subgraph Sinergi["TRIANGEL SINERGI PENDIDIKAN NABAWIYAH"]
+        Ayah["AYAH (Qawwam & Visioner)<br/>• Penanggung Jawab Aqidah Utama<br/>• Pemberi Nafkah Halal<br/>• Penegak Prinsip & Disiplin"]
+        Bunda["BUNDA (Madrasatul Ula)<br/>• Pemuas Tangki Cinta & Kelekatan<br/>• Pembiasaan Adab Harian<br/>• Penjaga Kehangatan Rumah"]
+        Guru["GURU & SEKOLAH (Mitra Murabbi)<br/>• Transmisi Ilmu Terstruktur<br/>• Fasilitator Eksplorasi Bakat<br/>• Penguat Adab Kolektif"]
+    end
+    Ayah <--> Bunda
+    Ayah <--> Guru
+    Bunda <--> Guru
+    Ayah --> Anak["ANAK BERFITRAH KOKOH & BERKARYA"]
+    Bunda --> Anak
+    Guru --> Anak
+```
+
+---
+
 ## 5. Tautan Konseptual Terkait
 * [[Peran Ayah dan Bunda]] — Pembagian Mandat Qowwamah dan Rahimah.
 * [[Peran Guru dan Lembaga Pendidikan]] — Posisi Sekolah sebagai Mitra Komplementer.

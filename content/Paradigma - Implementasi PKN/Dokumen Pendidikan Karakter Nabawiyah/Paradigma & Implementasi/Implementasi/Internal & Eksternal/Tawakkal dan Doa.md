@@ -140,6 +140,37 @@ Jangan biarkan doa orang tua hanya diucapkan secara sporadis tatkala panik mengh
 
 ---
 
+## Orientasi Doa dan Tawakkal Sesuai Etape Perkembangan Anak
+
+Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-Nawawi*), dengan fokus munajat yang berganti sesuai etape:
+
+1. **Doa Etape Thufulah:** Memohon perlindungan fitrah dari gangguan setan (*U'idzukuma bi kalimaatillaahit taammah*) dan kesehatan jasad.
+2. **Doa Etape Tamyiz:** Memohon agar anak dicintai keimanan dan dihiasi keindahan shalat (*Rabbij'alni muqiimash shalaati wa min dzurriyyati*).
+3. **Doa Etape Murahaqah:** Memohon kesucian diri, penjagaan dari fitnah syahwat, dan diteguhkan dalam ketaatan (*Allahumma inni as'alukal huda wat tuqa wal 'afafa wal ghina*).
+4. **Doa Etape Syabab:** Memohon keturunan yang menjadi penyejuk pandangan dan imam bagi orang-orang bertakwa (*Qurrata a'yunin waj'alna lil muttaqiina imaama*).
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Keseimbangan Ikhtiar dan Tawakkal Pengasuhan
+| No | Dimensi Kepasrahan Hati Pendidik | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Memulai setiap rencana mendidik dengan basmalah dan istikharah | [ ] | [ ] | [ ] |
+| 2 | Menyerahkan hasil akhir hidayah anak kepada kehendak Allah (*Tawakkal Mutlak*) | [ ] | [ ] | [ ] |
+| 3 | Menyisihkan waktu sepertiga malam terakhir khusus menangis mendoakan anak | [ ] | [ ] | [ ] |
+| 4 | Tidak membanggakan kehebatan metode atau materi sendiri saat anak berhasil | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah saya lebih percaya pada kehebatan tips parenting modern daripada ketuk pintu langit lewat doa?
+2. Bagaimana ketenangan hati saya ketika anak menghadapi jalan terjal yang tidak sesuai rencana saya?
+3. Sudahkah air mata taubat saya menetes membasahi sajadah demi keselamatan iman anak saya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Bangun 15 menit sebelum adzan Subuh, dirikan dua rakaat shalat malam dan sebutkan nama anak Anda satu per satu dalam doa qunut atau sujud terakhir.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Implementasi]] — Paradigma menyeluruh implementasi kurikulum PKN.

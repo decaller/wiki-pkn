@@ -354,3 +354,32 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Rencana Pembelajaran Mandiri Wali Santri (Video Learning Log)
+| Judul Kajian Video PKN | Durasi Disimak | Poin Utama yang Menggugah | Aksi Nyata yang Akan Diterapkan |
+| :--- | :-: | :--- | :--- |
+| (Kajian 1: .................) | ... Menit | ................................... | ................................... |
+| (Kajian 2: .................) | ... Menit | ................................... | ................................... |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Seberapa rutin saya meluangkan waktu menuntut ilmu pengasuhan nabawi di tengah kesibukan kerja?
+2. Apakah ilmu dari rekaman kajian ini sekadar menjadi wawasan atau sudah meresap ke dalam akhlak saya mendidik?
+3. Siapa kawan atau kerabat yang paling membutuhkan video kajian ini untuk saling menguatkan dalam kebaikan?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Simak 1 rekaman kajian video PKN pilihan Anda hari ini bersama pasangan selama 15 menit dan tuliskan satu intisarinya.
+
+---
+
+## Visualisasi Jalur Belajar Video Kajian PKN
+
+```mermaid
+flowchart LR
+    V1["1: Seri Fondasi Insan<br/>(Hakikat Jiwa & Fitrah)"] --> V2["2: Seri Metode Tarbiyah<br/>(Bahasa Hati & Batas Toleransi)"]
+    V2 --> V3["3: Seri Peta Bakat 40<br/>(Observasi & Rukun 3A)"]
+    V3 --> V4["4: Seri Implementasi Lembaga<br/>(Kaidah Emas & Standar Mutu)"]
+```

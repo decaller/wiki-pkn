@@ -156,6 +156,37 @@ graph TD
 
 ---
 
+## Pembentukan Imunitas Sosial Berdasarkan Etape Usia Nabawiyah
+
+Membangun imunitas dari polusi lingkungan jahiliyah modern membutuhkan tahapan terstruktur:
+
+1. **Etape Thufulah (0–7 Th — Proteksi Steril):** Mengisolasi anak dari paparan gawai bebas, konten kekerasan, dan bahasa kotor; lingkungan rumah menjadi benteng steril.
+2. **Etape Tamyiz (7–10 Th — Vaksinasi Nalar):** Mengenalkan realitas sosial secara terbimbing, melatih anak membedakan mana adab terpuji dan mana perilaku tercela di lingkungannya.
+3. **Etape Murahaqah (10–15 Th — Latihan Kekebalan di Medan Nyata):** Melatih ketahanan mental terhadap tekanan teman sebaya (*peer pressure*), membangun identitas diri yang bangga dengan syariat Islam.
+4. **Etape Syabab (15+ Th — Agen Imunitas Peradaban):** Anak bukan lagi sekadar kebal dari maksiat, melainkan menjadi pembawa obat bagi kerusakan masyarakat (*muslih*).
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Ketahanan Benteng Imunitas Sosial Anak
+| No | Indikator Imunitas Terhadap Pengaruh Negatif | Rentan Terbawa Arus | Kadang Bimbang | Kokoh Berpendirian |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Menolak ajakan teman untuk berkata kotor atau mengejek orang lain | [ ] | [ ] | [ ] |
+| 2 | Tidak minder mengenakan pakaian syar'i di tengah lingkungan heterogen | [ ] | [ ] | [ ] |
+| 3 | Mampu membatasi waktu bermain gawai sesuai kesepakatan keluarga | [ ] | [ ] | [ ] |
+| 4 | Memilih sahabat karib yang shalih dan saling mengingatkan dalam kebaikan | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah pergaulan anak di luar rumah sudah diimbangi dengan kehangatan obrolan di dalam rumah?
+2. Seberapa siap anak saya berani mengatakan *"Tidak, ini haram"* saat sendirian tanpa pengawasan orang tua?
+3. Sudahkah kita membekali anak dengan dalil rasional mengapa syariat Islam melindungi dirinya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Diskusikan satu tren media sosial terkini bersama anak remaja Anda, ajak ia membedah dampaknya terhadap kemuliaan akhlak.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Batas Toleransi]] — Menegakkan batas hima sebagai fondasi sebelum melepas anak ke medan sosial.

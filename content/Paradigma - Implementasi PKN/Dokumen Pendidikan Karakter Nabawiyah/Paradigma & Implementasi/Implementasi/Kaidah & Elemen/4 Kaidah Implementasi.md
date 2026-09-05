@@ -104,6 +104,45 @@ graph TD
 
 ---
 
+## Penerapan 4 Kaidah Emas Berdasarkan Etape Usia Nabawiyah
+
+Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*), penerapan 4 kaidah emas PKN harus mengikuti kematangan fitrah anak secara bertahap (*tadarruj*):
+
+1. **Fase Thufulah (0–7 Tahun — Masa Kelekatan & Kelembutan Fitrah):**
+   * **Fokus Kaidah:** Dominansi Kaidah 1 (Satu Anak Satu Kurikulum) dan Kaidah 3 (Mendidik dengan Keteladanan & Bahasa Hati).
+   * **Praktek:** Anak belum memiliki nalar beban syariat (*khitab taklif*). Perlakukan dengan limpahan kasih sayang, bermain bersama, dan perlindungan total dari kata-kata kasar. Keteladanan adab orang tua diserap secara murni lewat pandangan mata (*al-muhakah*).
+2. **Fase Tamyiz (7–10 Tahun — Pembiasaan Nalar & Pembentukan Adab):**
+   * **Fokus Kaidah:** Kaidah 2 (Tadarruj / Bertahap) dan Kaidah 4 (Fokus Kekuatan Bakat).
+   * **Praktek:** Masa pembiasaan shalat 3 tahun penuh (5.000+ waktu shalat) tanpa kekerasan fisik, melatih nalar sebab-akibat, dan menugaskan tanggung jawab harian di rumah yang menumbuhkan rasa percaya diri.
+3. **Fase Murahaqah (10–15 Tahun — Pendisiplinan & Pemagangan Tanggung Jawab):**
+   * **Fokus Kaidah:** Penegakan batas syariat yang tegas namun adil (*Kaidah Wasathiyah*).
+   * **Praktek:** Pemisahan tempat tidur (*tafriq fil madhaji'*), sanksi edukatif tanpa mempermalukan di depan umum, serta pemagangan proyek nyata untuk menguji ketangguhan karakter dan bakat kepemimpinannya.
+4. **Fase Syabab (15+ Tahun — Kemitraan Menuju Aqil-Baligh & Karya Peradaban):**
+   * **Fokus Kaidah:** Transformasi hubungan dari figur otoritas menjadi sahabat kemitraan sejati (*Ukhuwwah & Syuraka'*).
+   * **Praktek:** Anak telah memikul hisab syar'i (*mukallaf*). Dilibatkan dalam musyawarah keluarga, pengelolaan finansial mandiri, dan penyaluran bakat untuk kemaslahatan ummah.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Kepatuhan Penerapan 4 Kaidah Emas PKN
+| No | Kaidah Emas PKN | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Kaidah 1: Menghargai keunikan tiap anak ('satu anak satu kurikulum') | [ ] | [ ] | [ ] |
+| 2 | Kaidah 2: Menerapkan penahapan alami tanpa melompati etape (*tadarruj*) | [ ] | [ ] | [ ] |
+| 3 | Kaidah 3: Mengedepankan keteladanan visual sebelum instruksi lisan | [ ] | [ ] | [ ] |
+| 4 | Kaidah 4: Mengasah bakat dominan dan mengabaikan kelemahan minor | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Kaidah emas mana yang paling sering terlanggar dalam pola asuh saya pekan ini?
+2. Apakah saya memperlakukan semua anak dengan tuntutan seragam yang tidak adil?
+3. Seberapa sabar saya membiarkan proses tadarruj berjalan tanpa tergesa-gesa memetik hasil?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Hentikan membandingkan capaian satu anak dengan saudaranya atau anak tetangga hari ini.
+
+---
+
 ## 3. Tautan Konseptual Terkait
 * [[4 Elemen Implementasi]] — Struktur Empat Komponen Ekosistem PKN.
 * [[Metode Mendidik]] — Operasionalisasi Tiga Bahasa Nabawiyah.

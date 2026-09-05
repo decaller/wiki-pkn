@@ -143,6 +143,25 @@ Rasulullah ﷺ tidak memotong energi biologis pemuda itu, melainkan mengalirkann
 
 ---
 
+## Penjinakan Jiwa Ammarah Berdasarkan Etape Usia Nabawiyah
+
+Sifat primitif nafsu ammarah (*maraji': Ihya Ulumiddin karya Al-Ghazali & Majallat al-Bayan*) bermutasi seiring pertambahan usia anak dan menuntut pendekatan kuratif yang berbeda:
+
+1. **Ammarah Fase Thufulah (0–7 Tahun):**
+   * *Bentuk Gejala:* Tantrum, menangis bergulingan saat mainan direbut, memukul tanpa nalar.
+   * *Terapi Nabawi:* Dekap dengan tenang (*holding therapy*), alihkan perhatian pada objek lain, jangan dipukul atau dibentak karena akal tamyiznya belum mekar.
+2. **Ammarah Fase Tamyiz (7–10 Tahun):**
+   * *Bentuk Gejala:* Berbohong untuk membela diri, egois enggan berbagi, membantah nasihat ringan.
+   * *Terapi Nabawi:* Ajak dialog nalar sebab-akibat saat emosi reda, latih puasa sunnah bertahap untuk mengekang syahwat konsumtif, dan ajarkan istighfar.
+3. **Ammarah Fase Murahaqah (10–15 Tahun):**
+   * *Bentuk Gejala:* Memberontak terhadap aturan rumah, kecanduan gawai secara sembunyi-sembunyi, agresivitas fisik.
+   * *Terapi Nabawi:* Salurkan energi fisik ke dalam olahraga sunnah berkeringat (panahan, bela diri, berenang), beri tanggung jawab proyek menantang, tegakkan konsekuensi logis yang disepakati bersama.
+4. **Ammarah Fase Syabab (15+ Tahun):**
+   * *Bentuk Gejala:* Tergoda syahwat pornografi, hedonisme pergaulan bebas, kesombongan intelektual.
+   * *Terapi Nabawi:* Bimbingan shaum Dawud/Senin-Kamis, tazkiyatun nafs terstruktur, serta dorongan segera menikah jika sudah berkemampuan (*al-ba'ah*).
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Pembagian Jiwa]] — Konsep utuh trilogi jiwa dalam PKN.

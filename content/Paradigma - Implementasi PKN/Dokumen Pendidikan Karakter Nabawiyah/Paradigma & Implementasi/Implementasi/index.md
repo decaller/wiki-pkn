@@ -145,6 +145,37 @@ Untuk memulai implementasi PKN tanpa rasa kewalahan (*overwhelmed*), lakukan lan
 
 ---
 
+## Alur Implementasi Kurikulum PKN Berdasarkan 4 Etape Usia
+
+Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti 4 etape penciptaan:
+
+1. **Etape Thufulah (Taman Fitrah 0–7 Th):** Penanaman cinta kepada Allah dan Rasul-Nya melalui keindahan ciptaan-Nya; bebas dari tekanan hafalan tanpa makna.
+2. **Etape Tamyiz (Sekolah Adab 7–10 Th):** Penguatan rukun iman, tata cara ibadah bersuci dan shalat, serta penjelajahan sifat-sifat bakat dominan.
+3. **Etape Murahaqah (Kawah Kepemimpinan 10–15 Th):** Pengasahan keterampilan spesifik, latihan kerja nyata, dan pembentengan syahwat serta muru'ah.
+4. **Etape Syabab (Akademi Mandiri 15+ Th):** Integrasi ilmu syar'i dan kepakaran duniawi untuk melahirkan karya monumental penopang kejayaan umat.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Kesiapan Implementasi Ekosistem PKN
+| No | Komponen Ekosistem Belajar | Tahap Awal | Berkembang | Mandiri Berkelanjutan |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Ruang fisik yang ramah gerak fitrah dan eksplorasi alam | [ ] | [ ] | [ ] |
+| 2 | Jadwal harian yang lapang dan tidak terburu-buru | [ ] | [ ] | [ ] |
+| 3 | Budaya apresiasi proses dan pembiasaan adab salam, senyum, sapa | [ ] | [ ] | [ ] |
+| 4 | Bank portofolio bakat dan karya nyata anak | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah implementasi PKN di lingkungan kita sudah menyentuh hati atau baru sebatas jargon di dinding?
+2. Hambatan mental apa yang paling menghalangi kita untuk konsisten menerapkan fitrah nabawiyah?
+3. Sudahkah seluruh anggota keluarga/pengajar memiliki pemahaman visi yang setara?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Buat papan majalah dinding sederhana di ruang keluarga untuk memajang karya dan apresiasi kebaikan harian anak.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Kaidah & Elemen]] — Matriks komprehensif 4 kaidah emas dan 4 elemen operasional.

@@ -95,6 +95,26 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Ceklist Kesiapan Transformasi Pendidikan Karakter Nabawiyah
+| No | Indikator Transformasi Budaya Pengasuhan | Belum Dimulai | Tahap Adaptasi | Membudaya Istiqamah |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Keluarga/Lembaga memiliki visi peradaban akhirat yang jelas dan tertulis | [ ] | [ ] | [ ] |
+| 2 | Bahasa Hati dan keteladanan menjadi instrumen utama komunikasi harian | [ ] | [ ] | [ ] |
+| 3 | Meniadakan pelabelan negatif dan pemaksaan kurikulum seragam | [ ] | [ ] | [ ] |
+| 4 | Menumbuhkan kesadaran beramal shalih atas dorongan cinta kepada Allah | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Utama
+1. Apakah rumah dan sekolah kita sudah menjadi oasis ketenangan yang merawat fitrah anak-anak kita?
+2. Warisan karakter apa yang paling ingin kita tinggalkan dalam jiwa mereka ketika kita telah tiada?
+3. Sudahkah kita berpasrah total kepada Allah setelah menyempurnakan seluruh ikhtiar tarbiyah ini?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ambil komitmen satu perubahan kecil hari ini: gantikan satu teriakan marah dengan satu pelukan doa yang tulus bagi anak Anda.
+
+---
+
 ## 1. Peta Konsep Arsitektur Pendidikan Karakter Nabawiyah
 
 

@@ -186,3 +186,33 @@ Pembaca dapat menelusuri artikel pendalaman dari arsip resmi SOTAB HEBAT di dire
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Penerapan SOTAB HEBAT Berdasarkan Etape Usia Nabawiyah
+
+Observasi bakat SOTABH (*Sifat, Observasi, Temu Bakat HEBAT*) mengikuti tahapan kematangan fitrah:
+
+1. **Fase Thufulah (0–7 Th):** Eksplorasi bebas tanpa asesmen formal; orang tua mencatat kecenderungan gerak dan respon sensorik alami anak.
+2. **Fase Tamyiz (7–10 Th):** Pengamatan Rukun 3A (*Suka, Bisa, Bermanfaat*) dalam aktivitas harian dan penugasan proyek mini kelompok.
+3. **Fase Murahaqah (10–15 Th):** Pengisian Kuisioner 40 Bakat Nabawiyah (TB-40), validasi silang antara penilaian mandiri dan observasi mentor.
+4. **Fase Syabab (15+ Th):** Portofolio karya bakat nyata, magang profesional sesuai bakat dominan, dan kontribusi solusi bagi problem umat.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Observasi Rukun 3A SOTAB HEBAT
+| Aktivitas Unik Anak | sukA (Al-Hirsh) | bisA (Al-Itqan) | bergunA (Al-Mufid) | Status Validasi Bakat |
+| :--- | :-: | :-: | :-: | :--- |
+| (Aktivitas 1: .................) | [ ] | [ ] | [ ] | Calon Bakat Kuat / Lemah |
+| (Aktivitas 2: .................) | [ ] | [ ] | [ ] | Calon Bakat Kuat / Lemah |
+| (Aktivitas 3: .................) | [ ] | [ ] | [ ] | Calon Bakat Kuat / Lemah |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Aktivitas apa yang membuat anak saya lupa waktu dan mengerjakannya dengan mata berbinar-binar?
+2. Apakah saya mengapresiasi keunikan bakat anak yang berbeda dari bakat saya sendiri?
+3. Wadah nyata apa yang sudah saya sediakan untuk menyalurkan energi bakatnya agar bermanfaat bagi orang lain?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Amati dan catat satu aktivitas anak hari ini yang memenuhi ketiga kriteria Rukun 3A secara alami.

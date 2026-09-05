@@ -251,3 +251,22 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 >   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
 
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Analisis Kasus Masalah Perilaku Anak
+| Tahapan Diagnosis | Pertanyaan Kunci Evaluasi Mandiri | Catatan Kondisi Anak |
+| :--- | :--- | :--- |
+| **Identifikasi Gejala** | Perilaku tampak apa yang meresahkan (tantrum, membantah, malas)? | |
+| **Pemeriksaan Tangki Cinta** | Kapan terakhir kali anak merasa benar-benar dicintai tanpa syarat? | |
+| **Deteksi Etape Usia** | Apakah tuntutan kita sudah sesuai dengan kapasitas usianya? | |
+| **Pemetaan Bakat Terdistorsi** | Apakah perilaku buruk tersebut sebenarnya luapan energi bakat yang tersumbat? | |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah saya melihat masalah anak sebagai aib yang harus ditutupi atau sebagai panggilan untuk memperbaiki diri?
+2. Seberapa sering saya terburu-buru menghukum sebelum memahami akar luka di balik perbuatannya?
+3. Sudahkah saya memohon petunjuk khusus kepada Allah dalam sujud tahajud mengenai kasus anak ini?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Tuliskan satu kasus perilaku anak yang paling memusingkan Anda hari ini, bedah menggunakan kacamata 'energi bakat yang salah wadah'.

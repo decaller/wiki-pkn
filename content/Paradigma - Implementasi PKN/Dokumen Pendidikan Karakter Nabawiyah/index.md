@@ -126,3 +126,23 @@ graph LR
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Navigasi Pembelajaran Korpus PKN
+| No | Klaster Dokumen PKN | Belum Dibaca | Sedang Dipelajari | Telah Diterapkan di Lapangan |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Klaster Fondasi Insan & Jiwa | [ ] | [ ] | [ ] |
+| 2 | Klaster Fitrah, Karakter & Bakat | [ ] | [ ] | [ ] |
+| 3 | Klaster Metode Mendidik & Pemulihan | [ ] | [ ] | [ ] |
+| 4 | Klaster Kaidah & Standar Implementasi | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah saya sudah membaca dokumen ini secara berurutan atau hanya melompat ke topik praktis?
+2. Bagaimana pemahaman menyeluruh terhadap korpus ini mengubah cara pandang saya membesarkan generasi?
+3. Langkah apa yang saya siapkan untuk membagikan mutiara ilmu ini kepada komunitas di sekitar saya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Tandai satu dokumen tema yang paling menantang bagi Anda, jadwalkan waktu 20 menit besok pagi untuk membacanya tuntas.

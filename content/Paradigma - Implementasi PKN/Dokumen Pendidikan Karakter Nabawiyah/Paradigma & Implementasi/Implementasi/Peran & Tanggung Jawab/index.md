@@ -142,3 +142,32 @@ Seringkali terjadi benturan ekspektasi antara pihak sekolah dan orang tua. Berik
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
 
+---
+
+## Peta Sinergi Peran & Tanggung Jawab Lintas Etape Usia
+
+Sinergi tripartit (Ayah, Bunda, Guru) bergerak dinamis mengikuti kurva kematangan fitrah anak:
+
+1. **Fase Thufulah (0–7 Tahun):** Bunda 70% (kehangatan hadhanah), Ayah 30% (proteksi & pilar visi), Guru sebagai fasilitator bermain.
+2. **Fase Tamyiz (7–10 Tahun):** Keseimbangan Ayah-Bunda 50%-50% dalam pembiasaan adab shalat; Guru sebagai mitra pembentukan etika belajar.
+3. **Fase Murahaqah (10–15 Tahun):** Ayah 60% (penegakan prinsip & mentoring maskulinitas/feminitas), Bunda 40% (penjaga kehangatan batin), Guru sebagai pembimbing bakat.
+4. **Fase Syabab (15+ Tahun):** Kemitraan tripartit penuh untuk mengantarkan anak mandiri memikul beban taklif dan dakwah.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Keselarasan Tripartit (Ayah, Bunda, Guru)
+| No | Dimensi Koordinasi Pengasuhan | Retak / Kontradiktif | Kadang Selaras | Terpadu Sempurna |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Kesepakatan batasan penggunaan gawai di rumah dan sekolah | [ ] | [ ] | [ ] |
+| 2 | Kesamaan cara merespon pelanggaran adab anak | [ ] | [ ] | [ ] |
+| 3 | Keterbukaan informasi mengenai perkembangan emosi dan bakat anak | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah anak melihat adanya perbedaan standar aturan yang membuatnya bingung bersikap?
+2. Seberapa solid komunikasi antara wali murid dan wali kelas dalam menangani problem santri?
+3. Apakah ego orang tua atau guru pernah menghalangi kemaslahatan terbaik bagi jiwa anak?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Kirimkan pesan singkat ucapan terima kasih dari orang tua kepada guru kelas atas kesabarannya membimbing anak hari ini.

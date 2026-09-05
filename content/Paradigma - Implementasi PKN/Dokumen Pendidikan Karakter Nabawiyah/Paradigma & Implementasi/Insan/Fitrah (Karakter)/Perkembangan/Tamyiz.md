@@ -116,6 +116,22 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
 ---
 
+## Visualisasi Gerbang Nalar & Pembiasaan Adab Etape Tamyiz (7–10 Tahun)
+
+```mermaid
+flowchart TD
+    subgraph Tamyiz["ETAPE TAMYIZ (7-10 TAHUN)"]
+        T1["1: Mekarnya Akal Selektif<br/>• Mampu Membedakan Baik vs Buruk<br/>• Memahami Hubungan Sebab-Akibat<br/>• Mulai Terbuka pada Dialog Nalar"]
+        T2["2: Laboratorium Pembiasaan Shalat<br/>• 3 Tahun Penuh (5000+ Waktu Shalat)<br/>• Dilatih Bersuci & Tertib Ibadah<br/>• Tanpa Pukulan atau Paksaan Melukai"]
+        T3["3: Observasi Rukun 3A Bakat<br/>• Menjelajahi Berbagai Aktivitas<br/>• Menemukan sukA (Al-Hirsh)<br/>• Mengasah bisA (Al-Itqan)"]
+    end
+    T1 --> T2
+    T2 --> T3
+    T3 --> Output["Kesiapan Mental Memasuki Murahaqah"]
+```
+
+---
+
 ## 5. Tautan Konseptual Terkait
 * [[Perkembangan]] — Matriks 4 Etape Usia Nabawiyah.
 * [[Bahasa Lisan]] — Metode Komunikasi Dialogis Usia Tamyiz.

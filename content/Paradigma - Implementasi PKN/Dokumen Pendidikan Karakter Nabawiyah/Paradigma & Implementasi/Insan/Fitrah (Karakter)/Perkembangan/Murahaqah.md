@@ -133,6 +133,22 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 
 ---
 
+## Visualisasi Tangga Kesiapan Baligh Etape Murahaqah (10–15 Tahun)
+
+```mermaid
+flowchart TD
+    subgraph Murahaqah["ETAPE MURAHAQAH (10-15 TAHUN)"]
+        M1["1: Badai Pubertas & Gejolak Syahwat<br/>• Perubahan Hormon & Fisik Drastis<br/>• Godaan Emosi & Pengaruh Teman<br/>• Pemisahan Ranjang (Tafriqul Madhaji)"]
+        M2["2: Penegakan Batas Syariat (Hudud)<br/>• Ketegasan Pendidik Penuh Adab<br/>• Konsekuensi Logis Terukur<br/>• Perlindungan Muru'ah & Kehormatan"]
+        M3["3: Pemagangan Peran Nyata<br/>• Penugasan Proyek Kemandirian<br/>• Pengasahan Bakat Spesifik<br/>• Tanggung Jawab Sosial & Finansial"]
+    end
+    M1 --> M2
+    M2 --> M3
+    M3 --> Output["Insan Mukallaf Siap Berdikari (Syabab)"]
+```
+
+---
+
 ## 6. Tautan Konseptual Terkait
 * [[Perkembangan]] — Garis Waktu Perkembangan Karakter Nabawiyah.
 * [[Bahasa Tangan]] — Panduan Teknis Sanksi Mendidik Usia 10+ Tahun.

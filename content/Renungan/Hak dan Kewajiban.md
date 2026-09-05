@@ -109,3 +109,48 @@ Jangan salahkan ananda jika mereka enggan dalam melaksanakan kewajibannya, hanya
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
 
 ---
+
+---
+
+## Penyelarasan Hak dan Kewajiban Berdasarkan Etape Usia
+
+Keadilan syariat tampak pada proporsi perimbangan antara hak dan kewajiban anak (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah*):
+
+1. **Thufulah (0–7 Th):** Hak 100%, Kewajiban 0%. Anak berhak atas perlindungan, kasih sayang, nafkah, dan imunisasi fitrah tanpa tuntutan hisab.
+2. **Tamyiz (7–10 Th):** Hak 80%, Kewajiban 20%. Anak mulai dilatih memikul kewajiban adab dan ibadah ringan secara sukarela.
+3. **Murahaqah (10–15 Th):** Hak 50%, Kewajiban 50%. Kewajiban syariat ditegakkan seimbang dengan hak pembimbingan dan apresiasi karya.
+4. **Syabab (15+ Th):** Kewajiban Penuh (*Mukallaf*). Hak beralih menjadi tanggung jawab memberi kontribusi bagi orang tua dan umat.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Penunaian Hak Anak di Rumah
+| No | Hak Syar'i Anak yang Wajib Diberikan | Terabaikan | Diberikan Bersyarat | Diberikan Penuh Tanpa Syarat |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Hak Rasa Aman dan Terbebas dari Kekerasan Verbal | [ ] | [ ] | [ ] |
+| 2 | Hak Dididik Mengenal Allah dan Rasul-Nya | [ ] | [ ] | [ ] |
+| 3 | Hak Diberikan Makanan dari Harta yang Halal | [ ] | [ ] | [ ] |
+| 4 | Hak Diperlakukan Adil di Antara Saudara-saudaranya | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah saya lebih sering menuntut kewajiban anak daripada menunaikan hak-haknya?
+2. Bagaimana jika anak kelak menuntut saya di hadapan mahkamah Allah atas haknya yang saya rampas?
+3. Sudahkah saya meminta maaf kepada anak atas hak kasih sayangnya yang sering tercuri oleh kesibukan kerja saya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Tunaikan satu hak anak hari ini: berikan waktu mendengarkan seluruh keluh kesahnya tanpa menyela sedikit pun.
+
+---
+
+## Visualisasi Neraca Keadilan Hak dan Kewajiban Anak
+
+```mermaid
+flowchart TD
+    subgraph Neraca["NERACA HAK & KEWAJIBAN FITRAH"]
+        Hak["HAK ANAK DARI ORANG TUA<br/>• Cinta Tanpa Syarat & Kelembutan<br/>• Perlindungan Jiwa & Raga<br/>• Nafkah Halal & Nama Mulia<br/>• Pendidikan Agama & Adab"]
+        Kewajiban["KEWAJIBAN ANAK SECARA BERTAHAP<br/>• 0-7 Th: Nol Kewajiban Syariat<br/>• 7-10 Th: Pembiasaan Shalat & Adab<br/>• 10-15 Th: Disiplin & Tanggung Jawab<br/>• 15+ Th: Berbakti (Birrul Walidain)"]
+    end
+    Hak ==> Kewajiban
+    Kewajiban ==> Ridha["RIDHA ALLAH & KEBERKAHAN KELUARGA"]
+```

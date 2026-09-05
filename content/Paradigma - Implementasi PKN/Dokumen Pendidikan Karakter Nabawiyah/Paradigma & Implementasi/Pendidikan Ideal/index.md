@@ -124,6 +124,37 @@ Untuk merealisasikan pendidikan ideal yang memerdekakan fitrah anak, PKN merumus
 
 ---
 
+## Arsitektur Pendidikan Ideal Berdasarkan 4 Etape Usia
+
+Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, bukan ambisi kurikulum manusia:
+
+1. **Etape Thufulah (0–7 Th):** Rumah cinta dan kelekatan; bermain adalah sarana belajar terbaik.
+2. **Etape Tamyiz (7–10 Th):** Sekolah dasar kehidupan; pembiasaan shalat, adab bertutur, dan penemuan bakat.
+3. **Etape Murahaqah (10–15 Th):** Ma'had tarbiyah dan pemagangan; penempaan daya juang (*adversity quotient*) dan ketahanan syahwat.
+4. **Etape Syabab (15+ Th):** Universitas peradaban; kemandirian karya, penegakan sunnah, dan pembinaan keluarga sakinah.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Standar Emas Lingkungan Pendidikan Ideal
+| No | Indikator Sekolah / Rumah Mempesona | Jauh dari Standar | Mendekati Standar | Memenuhi Standar Emas |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Rasa aman fisik dan psikologis bagi seluruh anak | [ ] | [ ] | [ ] |
+| 2 | Keterbukaan ruang dialog tanpa rasa takut dihakimi | [ ] | [ ] | [ ] |
+| 3 | Fasilitas pengembangan bakat yang beragam dan adil | [ ] | [ ] | [ ] |
+| 4 | Keterikatan batin yang hangat antara guru dan murid | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah anak-anak kita merasa bahagia dan bersemangat saat melangkahkan kaki ke tempat belajarnya?
+2. Nilai-nilai peradaban apa yang paling kuat tertanam di lingkungan belajar anak kita?
+3. Apa kontribusi nyata yang dapat saya berikan untuk mewujudkan iklim pendidikan ideal di sekitar saya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Bersihkan dan tata ulang satu sudut ruang belajar anak di rumah agar lebih nyaman, lapang, dan mengundang inspirasi.
+
+---
+
 ## 5. Tautan Konseptual Terkait
 * [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal]] — Monograf Hakikat & Penumbuhan Kesadaran Beramal.
 * [[PKN Blueprint Arsitektur Sistem]] — Blueprint Arsitektur Sistem PKN.

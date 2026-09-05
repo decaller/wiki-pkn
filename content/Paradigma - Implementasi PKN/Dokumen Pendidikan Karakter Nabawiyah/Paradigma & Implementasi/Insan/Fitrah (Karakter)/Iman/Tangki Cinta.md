@@ -142,6 +142,26 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Ceklis Level Indikator Tangki Cinta Anak
+| No | Parameter Perilaku Teramati | Tangki Kosong (Merah) | Tangki Cukup (Kuning) | Tangki Penuh (Hijau) |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Respon saat dipanggil orang tua | Menghindar / Membantah | Merespon lambat | Datang dengan ceria |
+| 2 | Interaksi dengan saudara kandung | Sering bertengkar / Iri hati | Kadang berselisih | Rukun dan mau berbagi |
+| 3 | Reaksi saat menghadapi kegagalan kecil | Tantrum / Merajuk lama | Kecewa sebentar | Cepat bangkit kembali |
+| 4 | Keterbukaan menceritakan masalah | Menutup diri / Berbohong | Bercerita jika ditanya | Curhat spontan dan jujur |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah perilaku reaktif anak hari ini merupakan sinyal minta perhatian karena tangki cintanya tiris?
+2. Sudahkah saya menyisihkan waktu berkualitas 15 menit (*undivided attention*) tanpa memegang gawai?
+3. Bahasa cinta mana (*kata penegasan, sentuhan fisik, waktu berkualitas, hadiah, atau pelayanan*) yang paling membuat mata anak berbinar hari ini?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Luangkan 15 menit waktu khusus berdua saja dengan anak sebelum tidur, lakukan aktivitas yang ia pilih sepenuhnya.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Iman]] — Buah manis dari tangki cinta yang terisi penuh.

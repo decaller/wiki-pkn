@@ -149,6 +149,25 @@ Sebagai panduan harian di rumah dan madrasah, berikut tabel observasi untuk meng
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Pemetaan Dinamika Tiga Jiwa (Ammarah, Lawwamah, Muthmainnah)
+| No | Sinyal Dominansi Jiwa | Ammarah (Merah) | Lawwamah (Kuning) | Muthmainnah (Hijau) |
+| :-: | :--- | :--- | :--- | :--- |
+| 1 | Respon terhadap godaan | Larut dan menuruti hawa nafsu | Sempat tergoda lalu menyesal | Teguh menolak dengan tenang |
+| 2 | Respon saat ditegur salah | Membela diri dan marah | Menunduk dan meminta maaf | Berterima kasih atas koreksi |
+| 3 | Motif dalam beramal | Ingin dipuji / dipandang hebat | Khawatir tidak diterima | Tulus mengharap ridha Allah |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Jiwa mana yang paling mendominasi perilaku anak saya dan respon saya sendiri hari ini?
+2. Bagaimana cara saya menyuburkan penyesalan nurani (*Lawwamah*) tanpa membuatnya putus asa?
+3. Sudahkah saya mengalirkan asupan dzikir yang memampukan jiwa anak menundukkan syahwatnya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Saat anak melakukan kesalahan kecil, puji keberaniannya untuk jujur mengakui sebelum membahas solusi perbaikannya.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Ammarah]] — Karakteristik dorongan jasad, syahwat, dan seni mendisiplinkannya.

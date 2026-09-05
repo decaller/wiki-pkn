@@ -166,6 +166,26 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Evaluasi Penerapan Bahasa Hati di Rumah
+| No | Indikator Bahasa Hati Teramati | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Menatap mata anak dengan senyum tulus sebelum berbicara | [ ] | [ ] | [ ] |
+| 2 | Menahan emosi dan tidak berbicara saat dada sedang marah | [ ] | [ ] | [ ] |
+| 3 | Memeluk anak minimal 4 kali sehari tanpa alasan tertentu | [ ] | [ ] | [ ] |
+| 4 | Mendoakan anak secara spesifik saat mereka tertidur lelap | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah tatapan mata saya kepada anak hari ini memancarkan rasa aman atau justru intimidasi?
+2. Kapan terakhir kali saya mendengarkan cerita anak tanpa menyela atau menghakimi?
+3. Sudahkah getaran batin saya selaras dengan kata-kata doa yang saya panjatkan untuknya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Peluk anak Anda selama 20 detik tanpa mengucapkan kata instruksi apa pun, lalu bisikkan: *"Ayah/Bunda bersyukur Allah menitipkanmu pada kami."*
+
+---
+
 ## 6. Tautan Konseptual Terkait
 * [[Metode Mendidik]] — Arsitektur Induk Tiga Bahasa Pengasuhan.
 * [[Bahasa Lisan]] — Tahap Lanjutan Pengajaran Nalar Usia 7–10 Tahun.

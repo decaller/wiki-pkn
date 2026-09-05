@@ -138,3 +138,33 @@ Dalam menghadapi tantangan eksternal zaman modern, terdapat dua pendekatan yang 
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Penyelarasan Faktor Internal (Ruhiyah) dan Eksternal (Lingkungan)
+| No | Dimensi Ekosistem Tumbuh Kembang | Lemah / Kontradiktif | Cukup Terjaga | Sinergis Paripurna |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Internal: Kekuatan ruhiyah orang tua dan keteraturan ibadah rumah tangga | [ ] | [ ] | [ ] |
+| 2 | Eksternal: Lingkungan tetangga dan teman sebaya yang mendukung keshalihan | [ ] | [ ] | [ ] |
+| 3 | Eksternal: Kemitraan harmonis dengan lembaga pendidikan formal | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah kita terlalu sibuk membenahi faktor luar sementara ruhiyah internal keluarga keropos?
+2. Bagaimana cara kita menyaring polusi lingkungan luar tanpa harus mengurung anak di dalam rumah?
+3. Seberapa kokoh benteng keimanan internal anak saat menghadapi badai fitnah pergaulan?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Lakukan evaluasi bersama pasangan mengenai tontonan dan pengaruh lingkungan luar yang paling mendesak untuk dibatasi pekan ini.
+
+---
+
+## Penyelarasan Faktor Internal dan Eksternal Berdasarkan Etape Usia
+
+Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fase:
+
+1. **Etape Thufulah (0–7 Th):** Faktor internal keluarga 90%, eksternal 10%. Rumah harus menjadi lingkungan steril penuh kehangatan tauhid dan cinta.
+2. **Etape Tamyiz (7–10 Th):** Faktor internal 70%, eksternal 30%. Mulai mengenalkan anak pada lingkungan masjid dan sekolah dengan filter selektif dari orang tua.
+3. **Etape Murahaqah (10–15 Th):** Faktor internal 50%, eksternal 50%. Penguatan daya imun internal agar anak mampu menolak pengaruh negatif lingkungan pergaulan sebaya.
+4. **Etape Syabab (15+ Th):** Internal mandiri sebagai agen perbaikan (*Muslih*). Anak terjun ke medan sosial eksternal untuk memberi pengaruh kebaikan, bukan lagi sekadar mempertahankan diri.

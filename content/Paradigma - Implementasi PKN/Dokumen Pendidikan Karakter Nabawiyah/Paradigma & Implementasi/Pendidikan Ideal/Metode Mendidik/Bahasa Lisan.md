@@ -132,6 +132,50 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Higienitas Tutur Kata (Lisan Nabawi)
+| No | Indikator Kualitas Lisan Pengasuhan | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Bebas dari pelabelan negatif (*bodoh, malas, nakal, cerewet*) | [ ] | [ ] | [ ] |
+| 2 | Menggunakan kalimat perintah positif (*"Simpan sepatumu di rak"*) bukan larangan (*"Jangan taruh sembarangan"*) | [ ] | [ ] | [ ] |
+| 3 | Berbicara sejajar mata (*eye-level*) dengan merendahkan tubuh | [ ] | [ ] | [ ] |
+| 4 | Memulai teguran dengan pujian atas usahanya terlebih dahulu | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Berapa perbandingan kata apresiasi vs kata kritik yang saya lontarkan kepada anak hari ini?
+2. Apakah nada bicara saya membuat anak merasa dihargai fitrahnya atau justru dikecilkan hatinya?
+3. Sudahkah lisan saya mengalirkan doa thayyibah saat memanggil namanya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ganti satu kalimat larangan yang biasa Anda ucapkan hari ini dengan kalimat ajakan positif yang menggugah nalar.
+
+---
+
+## Visualisasi Filter Tutur Lisan Nabawi (Tiga Saringan Kata)
+
+```mermaid
+flowchart TD
+    subgraph Lisan["FILTER TUTUR KATA PENDIDIK"]
+        In["Kata / Dorongan yang Ingin Diucapkan"]
+        F1{"Filter 1: Ash-Shidq<br/>Apakah Benar & Bebas Labeling?"}
+        F2{"Filter 2: Al-Adab<br/>Apakah Santun & Memuliakan Fitrah?"}
+        F3{"Filter 3: Al-Manfa'ah<br/>Apakah Berdaya Ubah & Bernilai Doa?"}
+        Speak["Ucapkan dengan Nada Teduh & Sejajar Mata"]
+        Silent["Tahan Lisan / Alihkan ke Doa Batin"]
+    end
+
+    In --> F1
+    F1 -- Ya --> F2
+    F1 -- Tidak --> Silent
+    F2 -- Ya --> F3
+    F2 -- Tidak --> Silent
+    F3 -- Ya --> Speak
+    F3 -- Tidak --> Silent
+```
+
+---
+
 ## 6. Tautan Konseptual Terkait
 * [[Metode Mendidik]] — Arsitektur Induk Tiga Bahasa Nabawiyah.
 * [[Bahasa Hati]] — Pondasi Cinta yang Menjiwai Setiap Kata.

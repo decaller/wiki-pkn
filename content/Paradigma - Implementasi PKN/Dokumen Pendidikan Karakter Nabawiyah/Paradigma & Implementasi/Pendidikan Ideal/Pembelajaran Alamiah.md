@@ -246,3 +246,22 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
 
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Pemenuhan Siklus Belajar Alami Anak
+| No | Tahapan Belajar Alami | Terbelenggu Ruang Kaku | Cukup Terfasilitasi | Bebas Bereksplorasi |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Mengamati fenomena alam ciptaan Allah secara langsung | [ ] | [ ] | [ ] |
+| 2 | Bertanya kritis dan mendiskusikan sebab-akibat | [ ] | [ ] | [ ] |
+| 3 | Mencoba langsung lewat tangan dan alat (*hands-on learning*) | [ ] | [ ] | [ ] |
+| 4 | Mengambil hikmah dan mensyukuri kebesaran Sang Pencipta | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Berapa jam anak saya menghabiskan waktu di alam terbuka pekan ini dibandingkan di depan layar?
+2. Apakah saya terlalu cepat mematikan rasa penasaran anak dengan jawaban singkat yang tidak memancing nalar?
+3. Bagaimana kita mengubah lingkungan rumah menjadi laboratorium kehidupan yang menakjubkan?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Bawa sehelai daun atau sebiji batu ke meja makan, amati guratan seratnya bersama anak menggunakan kaca pembesar dan tadabburi keteraturannya.

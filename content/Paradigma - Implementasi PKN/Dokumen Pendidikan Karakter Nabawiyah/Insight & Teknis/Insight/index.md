@@ -135,3 +135,33 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Transformasi Wawasan (Insight) Menjadi Amal Nyata
+| No | Tahap Penyerapan Wawasan PKN | Sekadar Wacana Teori | Mulai Diuji Coba | Menjadi Kebiasaan Otomatis |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Memahami kaidah 'satu anak satu kurikulum' | [ ] | [ ] | [ ] |
+| 2 | Mengganti bentakan dengan dialog Bahasa Hati | [ ] | [ ] | [ ] |
+| 3 | Menghubungkan bakat anak dengan misi peradaban Islam | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Dari sekian banyak materi PKN yang saya baca, berapa persen yang sudah saya praktikkan di rumah?
+2. Hambatan psikologis apa yang membuat kita sulit mengubah pola asuh lama yang keliru?
+3. Bagaimana cara kita saling mengingatkan antar anggota keluarga saat kembali tergoda menggunakan cara-cara instan?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Pilih satu konsep kecil dari wiki ini hari ini, diskusikan bersama pasangan saat makan malam dan sepakati langkah penerapannya.
+
+---
+
+## Visualisasi Jalur Transformasi Wawasan (Insight) ke Implementasi
+
+```mermaid
+flowchart LR
+    A["Kajian & Buku PKN<br/>(Wawasan Kognitif)"] --> B["Tazkiyatun Nafs<br/>(Pembersihan Hati Pendidik)"]
+    B --> C["Observasi Fitrah & Rukun 3A<br/>(Instrumen SOTABH)"]
+    C --> D["Ekosistem Rumah & Kelas<br/>(Aksi Lapangan Berkelanjutan)"]
+```

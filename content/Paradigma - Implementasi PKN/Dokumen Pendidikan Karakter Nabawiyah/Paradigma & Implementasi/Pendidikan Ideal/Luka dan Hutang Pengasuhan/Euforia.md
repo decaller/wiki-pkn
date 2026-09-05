@@ -145,6 +145,37 @@ Jika generasi terbaik sahabat saja dididik oleh wahyu secara bertahap, bagaimana
 
 ---
 
+## Mencegah Racun Euforia Semu Berdasarkan Etape Usia
+
+Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazali*) merusak keikhlasan di tiap jenjang usia:
+
+1. **Etape Thufulah (0–7 Th):** Hindari mengikutsertakan balita dalam kontes lomba kecantikan atau kelucuan komersial yang merusak kemurnian fitrahnya.
+2. **Etape Tamyiz (7–10 Th):** Puji proses kerja keras dan kejujurannya (*Al-Itqan*), bukan hasil angka rapor atau piala yang memicu riya' dan kesombongan.
+3. **Etape Murahaqah (10–15 Th):** Bimbing anak agar tidak haus validasi (*like & followers*) di media sosial; tanamkan kebanggaan pada amal sembunyi-sembunyi.
+4. **Etape Syabab (15+ Th):** Tautkan karya prestasi dengan niat lillahi ta'ala dan kemaslahatan akhirat, membebaskan jiwa dari jebakan pujian manusia.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Deteksi Candu Euforia Prestasi Semu
+| No | Gejala Jebakan Euforia Prestasi | Nihil | Terindikasi Ringan | Parah / Menjadi Candu |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Anak mogok belajar atau putus asa saat tidak mendapatkan juara satu | [ ] | [ ] | [ ] |
+| 2 | Orang tua memamerkan piala anak di media sosial demi menaikkan gengsi keluarga | [ ] | [ ] | [ ] |
+| 3 | Hubungan persaudaraan menjadi tegang karena kompetisi prestasi yang tidak sehat | [ ] | [ ] | [ ] |
+| 4 | Anak hanya mau berbuat baik jika dijanjikan hadiah atau sanjungan khalayak | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Untuk siapa sebenarnya piala dan sertifikat lomba anak ini diperjuangkan: untuk Allah atau ego orang tua?
+2. Kapan terakhir kali saya memuji kebaikan anak yang tidak menghasilkan piagam penghargaan?
+3. Apakah saya tetap mencintai anak dengan kadar yang sama ketika ia gagal dalam perlombaan?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Peluk anak Anda dan katakan: *"Bagi Ayah dan Bunda, keikhlasan dan kejujuranmu jauh lebih berharga daripada seribu piala di dunia."*
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Luka dan Hutang Pengasuhan]] — Induk diagnosis luka psikospiritual akibat pengasuhan keliru.

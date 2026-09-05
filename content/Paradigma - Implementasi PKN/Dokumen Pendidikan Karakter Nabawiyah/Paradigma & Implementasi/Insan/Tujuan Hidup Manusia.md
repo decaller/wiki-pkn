@@ -278,3 +278,37 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
 
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Internalisasi Visi Khalifah fil Ardh pada Anak
+| No | Indikator Kesadaran Eksistensial | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Mengetahui bahwa dirinya diciptakan semata-mata untuk beribadah kepada Allah | [ ] | [ ] | [ ] |
+| 2 | Memiliki cita-cita yang berorientasi kemanfaatan bagi umat, bukan sekadar gaji materi | [ ] | [ ] | [ ] |
+| 3 | Menghubungkan setiap ilmu dan keterampilan sekolah dengan bekal dakwah Islam | [ ] | [ ] | [ ] |
+| 4 | Merasa gelisah ketika melihat kemungkaran atau kesulitan orang lain di sekitarnya | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah obrolan harian keluarga lebih banyak membahas capaian duniawi atau tujuan akhirat?
+2. Bagaimana respon anak ketika ditanya: *"Untuk apa kamu belajar hari ini?"*
+3. Sudahkah saya meneladankan gaya hidup seorang hamba yang faqir di hadapan Allah?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Tanyakan kepada anak: *"Menurutmu, kebaikan apa yang paling ingin kamu persembahkan untuk menolong sesama kelak ketika sudah dewasa?"* Dengarkan tanpa mengoreksi.
+
+---
+
+## Visualisasi Arsitektur Visi Kehidupan: 'Ibadah & Khilafah
+
+```mermaid
+flowchart TD
+    subgraph Visi["ARSITEKTUR TUJUAN EKSISTENSI INSAN"]
+        Pillar1["1: Hubungan Vertikal ('Ibadah)<br/>• Penghambaan Murni Lillahi Ta'ala<br/>• Ketaatan Syariat Lahir & Batin<br/>• Meraih Ridha & Jannah Allah"]
+        Pillar2["2: Hubungan Horizontal (Khilafah)<br/>• Memakmurkan Bumi (Imaratul Ardh)<br/>• Menegakkan Keadilan & Kebajikan<br/>• Memanfaatkan Bakat Demi Maslahat Umat"]
+    end
+    Pillar1 <--> Pillar2
+    Pillar1 --> Goal["KEBAHAGIAAN PARIPURNA (AS-SA'ADAH)<br/>Selamat di Dunia & Mulia di Akhirat"]
+    Pillar2 --> Goal
+```

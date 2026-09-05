@@ -151,6 +151,21 @@ Gunakan rubrik berikut untuk mendeteksi kesehatan jiwa kita sebelum berinteraksi
 
 ---
 
+## Penerapan Tazkiyatun Nafs Berdasarkan Etape Usia Nabawiyah
+
+Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Madarijus Salikin Ibnul Qayyim*) bergerak selaras dengan tahapan fitrah:
+
+1. **Fase Thufulah (0–7 Tahun — Kesucian Alami Fitrah):**
+   * Fokus tazkiyah berada 100% pada orang tua (menjaga makanan halal, keheningan rumah dari maksiat suara/gambar). Jiwa anak belum ternoda dosa; ia menyerap energi ketenangan orang tua secara langsung.
+2. **Fase Tamyiz (7–10 Tahun — Pengenalan Hati Nurani):**
+   * Anak mulai dilatih muhasabah ringan sebelum tidur: membiasakan membaca doa tidur, memaafkan teman yang nakal, dan istighfar atas kekhilafan kecil di siang hari.
+3. **Fase Murahaqah (10–15 Tahun — Mujahadah Melawan Syahwat):**
+   * Melatih puasa sunnah untuk menundukkan dorongan nafsu ammarah, membiasakan tilawah Al-Qur'an harian untuk membasahi hati, dan membangun rasa malu kepada Allah (*Al-Haya'*).
+4. **Fase Syabab (15+ Tahun — Kemandirian Istiqamah Ruhiyah):**
+   * Anak telah memikul hisab pribadi (*mukallaf*); dibimbing melakukan qiyamullail mandiri, menjaga pandangan (*ghaddhul bashar*), dan berkhidmah untuk umat demi mengikis kesombongan diri.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Implementasi]] — Paradigma menyeluruh operasionalisasi PKN.

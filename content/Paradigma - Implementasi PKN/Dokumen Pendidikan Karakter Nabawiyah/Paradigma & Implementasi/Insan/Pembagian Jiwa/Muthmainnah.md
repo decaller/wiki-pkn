@@ -146,6 +146,26 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Penanaman Ketenangan Jiwa (Nafs Muthmainnah)
+| No | Indikator Ketenangan Batin Teramati | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Wajah riang dan tenang saat diajak mendirikan shalat berjamaah | [ ] | [ ] | [ ] |
+| 2 | Mampu mengendalikan diri dari rasa panik atau cemas berlebih saat menghadapi ujian | [ ] | [ ] | [ ] |
+| 3 | Ridha dan tidak mengeluh berkepanjangan atas ketetapan takdir yang tidak menyenangkan | [ ] | [ ] | [ ] |
+| 4 | Merasa tenteram saat berdzikir atau berada di lingkungan majelis ilmu | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah atmosfer rumah saya hari ini memancarkan ketenangan (*sakinah*) atau kepanikan terburu-buru?
+2. Seberapa sering dzikirullah terucap di tengah aktivitas keluarga?
+3. Sudahkah saya mengajari anak mencari pelarian kepada sajadah saat hatinya sedang sempit?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Matikan seluruh layar digital 30 menit sebelum tidur, bacakan surah Al-Mulk bersama-sama dalam suasana temaram yang tenang.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Pembagian Jiwa]] — Induk pembahasan trilogi jiwa PKN.

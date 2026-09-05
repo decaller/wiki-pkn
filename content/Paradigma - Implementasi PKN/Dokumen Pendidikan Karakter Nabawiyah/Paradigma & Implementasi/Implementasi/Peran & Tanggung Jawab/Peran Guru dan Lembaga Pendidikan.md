@@ -184,6 +184,37 @@ Untuk panduan mendalam mengenai 5 strategi ushul fiqih dalam mengelola konflik a
 
 ---
 
+## Penerapan Peran Guru Berdasarkan Etape Usia Nabawiyah
+
+Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al-Mu'allimin karya Sahnun*) mengemban peran spesifik pada tiap etape santri:
+
+1. **Guru Fase Thufulah (0–7 Tahun):** Berperan sebagai figur pengganti ibu (*ummun muthabbiqah*), menyiram cinta, memeluk, dan menuntun doa dengan riang gembira.
+2. **Guru Fase Tamyiz (7–10 Tahun):** Berperan sebagai teladan adab (*uswatun hasanah*), mengurai alasan logis di balik perintah syariat, dan melatih kemandirian tanpa mencela kekurangan anak.
+3. **Guru Fase Murahaqah (10–15 Tahun):** Berperan sebagai mentor kepemimpinan (*mu'addib wa musyir*), berdialog tentang gejolak syahwat, dan menjaga benteng pergaulan santri.
+4. **Guru Fase Syabab (15+ Tahun):** Berperan sebagai rekan diskusi intelektual (*syarik fikri*), membimbing karya riset peradaban, dan mendoakan keberkahan dakwah murid di malam hari.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Evaluasi Diri Pendidik Berbasis Fitrah
+| No | Indikator Keteladanan Guru di Kelas | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Memulai pembelajaran dengan menyapa ramah dan mendoakan keberkahan murid | [ ] | [ ] | [ ] |
+| 2 | Menghargai setiap pendapat murid tanpa menertawakan jawaban yang salah | [ ] | [ ] | [ ] |
+| 3 | Menghindari pemberian cap 'bodoh' atau 'nakal' pada santri yang lambat paham | [ ] | [ ] | [ ] |
+| 4 | Mengkaitkan materi pelajaran umum dengan tanda-tanda kebesaran Allah | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Pendidik
+1. Apakah kehadiran saya di kelas dirindukan oleh murid atau justru membuat mereka tegang tertekan?
+2. Seberapa banyak saya mendoakan hidayah bagi murid-murid yang paling sulit diatur?
+3. Sudahkah saya membersihkan niat mengajar murni lillahi ta'ala hari ini?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Berikan catatan apresiasi tertulis di buku tugas seorang murid yang paling sering membuat masalah, puji satu kebaikan kecil yang ia lakukan hari ini.
+
+---
+
 ## 8. Tautan Konseptual Terkait
 
 * [[Tanggung Jawab Pendidikan]] — Mandat Fardhu 'Ain di Pundak Orang Tua.

@@ -153,3 +153,14 @@ Akhirilah setiap renungan dengan merendahkan hati di hadapan Allah, memohon agar
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
 
 ---
+
+---
+
+## Muhasabah Perjalanan Mendidik di Tiap Etape Usia
+
+Setiap etape usia anak adalah amanah tak berulang yang menuntut perenungan mendalam:
+
+1. **Renungan Etape Thufulah:** Apakah kita telah memberikan tatapan mata penuh kehangatan, ataukah kita telah mencuri masa kecil mereka dengan layar gawai dingin?
+2. **Renungan Etape Tamyiz:** Apakah kita mendidik shalat dengan cinta keteladanan, atau sekadar ancaman marah yang membuat mereka menjauhi masjid?
+3. **Renungan Etape Murahaqah:** Apakah kita menjadi teman bicara yang aman saat badai pubertas datang, atau hakim yang selalu memvonis salah?
+4. **Renungan Etape Syabab:** Sudahkah kita melepaskan mereka menjadi rajawali peradaban yang mandiri di hadapan Allah?

@@ -181,6 +181,17 @@ Penerapan benang merah pendidikan secara institusional menuntut perubahan kultur
 
 ---
 
+## Penerapan Benang Merah Pendidikan Berdasarkan Etape Usia
+
+Prinsip benang merah (Tauhid $ightarrow$ Adab $ightarrow$ Ilmu $ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
+
+1. **Thufulah (0–7 Th):** Benang Tauhid dianyam lewat pengenalan asma Allah yang Maha Pengasih di alam raya.
+2. **Tamyiz (7–10 Th):** Benang Adab ditegakkan melalui penghormatan kepada orang tua, guru, dan adab thalabul ilmi.
+3. **Murahaqah (10–15 Th):** Benang Ilmu & Bakat diasah untuk menguasai kompetensi nyata yang bermanfaat bagi sesama.
+4. **Syabab (15+ Th):** Benang Kesadaran Beramal mekar menjadi amal jariyah dan peran kepemimpinan peradaban.
+
+---
+
 ## 7. Tautan Konseptual Terkait
 
 * [[8 Standar Implementasi PKN]] — Panduan Manajemen Penjaminan Mutu Lembaga Resmi Standar 11/2024 Rev 04.

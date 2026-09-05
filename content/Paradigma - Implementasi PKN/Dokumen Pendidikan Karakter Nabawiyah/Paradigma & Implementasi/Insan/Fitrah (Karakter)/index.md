@@ -165,6 +165,26 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Kemurnian Fitrah Anak
+| No | Pilar Fitrah yang Diobservasi | Terdistorsi / Tertekan | Mengembang Alami | Mekar Paripurna |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Fitrah Keimanan: Antusiasme mendengar kisah kebesaran Allah | [ ] | [ ] | [ ] |
+| 2 | Fitrah Belajar & Nalar: Rasa ingin tahu tinggi dan banyak bertanya | [ ] | [ ] | [ ] |
+| 3 | Fitrah Bakat: Keunikan sifat dan gaya kerja alami yang khas | [ ] | [ ] | [ ] |
+| 4 | Fitrah Seksualitas: Kejelasan identitas peran gender (maskulinitas/feminitas) | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Bagian fitrah anak mana yang hari ini paling sering saya interupsi atau saya paksakan?
+2. Apakah saya mendidik anak sesuai cetak biru fitrahnya atau sekadar menuruti ambisi pribadi?
+3. Sudahkah saya mensyukuri keunikan anak yang berbeda dari saudara-saudaranya?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Amati satu rasa ingin tahu anak hari ini, luangkan waktu untuk menjawab pertanyaannya secara ilmiah dan mendalam.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Iman]] — Penanaman tauhid dan cinta Allah sebelum teks Al-Qur'an.

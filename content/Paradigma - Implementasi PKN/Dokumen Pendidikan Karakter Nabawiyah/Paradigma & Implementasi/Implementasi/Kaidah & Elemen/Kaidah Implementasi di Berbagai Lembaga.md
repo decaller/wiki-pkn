@@ -166,6 +166,41 @@ Berdasarkan klausul audit resmi, terdapat 6 standar penjaminan mutu kelembagaan 
 
 ---
 
+## Penerapan Kaidah Lembaga Berdasarkan Etape Usia Nabawiyah
+
+Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga SMA/Aliyah) wajib mengadaptasi desain kurikulum berbasis etape usia nabawi (*maraji': Al-Fatawa al-Kubra Ibnu Taimiyah & Ihya Ulumiddin Al-Ghazali*):
+
+1. **Jenjang PAUD/TK (Fase Thufulah 0–7 Tahun):**
+   * Bebas dari target calistung kaku dan beban ujian akademik; sekolah adalah taman bermain alami yang merawat fitrah keimanan dan kebahagiaan belajar.
+2. **Jenjang SD / MI (Fase Tamyiz 7–10 Tahun):**
+   * Fokus pada pembiasaan ibadah praktis, adab pergaulan islami, dan observasi minat-bakat melalui eksplorasi alam terbuka tanpa rangking kelas komparatif.
+3. **Jenjang SMP / MTs / Pesantren Awal (Fase Murahaqah 10–15 Tahun):**
+   * Penegakan disiplin adab berasrama, program mentoring bakat terarah, dan latihan tanggung jawab sosial (khidmah santri).
+4. **Jenjang SMA / MA / Mahad Aly (Fase Syabab 15+ Tahun):**
+   * Pemagangan profesional, inkubasi karya kemandirian umat, dan pembekalan fiqh dakwah peradaban.
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Keselarasan Kebijakan Lembaga dengan Fitrah Nabawiyah
+| No | Dimensi Kebijakan Lembaga Pendidikan | Bertentangan | Transisi Penyesuaian | Selaras Penuh |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Sistem Penilaian: Meniadakan perangkingan angka yang melukai harga diri santri | [ ] | [ ] | [ ] |
+| 2 | Manajemen Disiplin: Menerapkan konsekuensi edukatif tanpa kekerasan verbal/fisik | [ ] | [ ] | [ ] |
+| 3 | Fasilitas Bakat: Menyediakan ruang eksplorasi karya nyata di luar kelas | [ ] | [ ] | [ ] |
+| 4 | Sinergi Wali Santri: Komunikasi berkala dua arah memetakan perkembangan fitrah | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Lembaga
+1. Apakah kurikulum lembaga kita memanusiakan santri atau memperlakukan mereka sebagai produk pabrik?
+2. Sudahkah para pengajar dibekali tazkiyatun nafs sebelum memasuki ruang kelas?
+3. Bagaimana lembaga memfasilitasi anak-anak dengan bakat unik yang tidak tertampung di ujian konvensional?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Adakan forum dialog santai antara dewan guru dan perwakilan wali santri untuk menyamakan frekuensi bahasa cinta di rumah dan sekolah.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Peran Guru dan Lembaga Pendidikan]] — Kedudukan guru sebagai Waratsatul Anbiya' dan mitra komplementer orang tua.

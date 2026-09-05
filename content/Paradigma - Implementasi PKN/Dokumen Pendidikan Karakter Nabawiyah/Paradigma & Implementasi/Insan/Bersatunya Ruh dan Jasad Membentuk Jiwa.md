@@ -161,6 +161,26 @@ Dalam Islam, jasad dan ruh adalah kesatuan organik yang saling mempengaruhi. Ima
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Keseimbangan Asupan Jasad dan Ruhaniyah Anak
+| No | Dimensi Pemenuhan Kebutuhan Insan | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Jasad: Asupan makanan halal, thayyib, bergizi, dan minim zat kimia sintetis | [ ] | [ ] | [ ] |
+| 2 | Jasad: Gerak fisik aktif, paparan sinar matahari pagi, dan tidur tepat waktu | [ ] | [ ] | [ ] |
+| 3 | Ruh: Gemar mendengarkan lantunan Al-Qur'an dan kisah orang shalih | [ ] | [ ] | [ ] |
+| 4 | Nafs: Kestabilan emosi dan kemampuan menunda kepuasan instan (*delay gratification*) | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif Malam Hari
+1. Apakah kelesuan ibadah anak disebabkan oleh kelelahan fisik jasadiah ataukah kekeringan nutrisi ruhaniyah?
+2. Makanan dan tontonan apa yang masuk ke dalam tubuh dan indera anak saya hari ini?
+3. Sudahkah saya merawat ketenangan jiwa saya sendiri sebelum menuntut anak untuk tenang?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ajak anak berjalan kaki di luar ruangan tanpa alas kaki di atas rumput (*grounding*) sambil merenungkan keagungan ciptaan Allah di langit.
+
+---
+
 ## Tautan Rujukan Terkait
 
 * [[Insan]] — Arsitektur besar penciptaan manusia dalam PKN.

@@ -245,6 +245,19 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 
 ---
 
+## Visualisasi Alur Pengisian dan Scoring Kuisioner TB-40
+
+```mermaid
+flowchart TD
+    Step1["1: Menyiapkan Diri dalam Kondisi Rileks & Jujur"] --> Step2["2: Membaca 40 Pernyataan Sifat dengan Seksama"]
+    Step2 --> Step3["3: Menentukan Pilihan: Sangat Gue / Netral / Bukan Gue"]
+    Step3 --> Step4["4: Pemetaan Warna (Merah: Bakat Kuat, Hitam: Kelemahan Minor)"]
+    Step4 --> Step5["5: Diskusi Konfirmasi Bersama Mentor / Orang Tua"]
+    Step5 --> Step6["6: Penyusunan Rencana Aksi Pengembangan Bakat Dominan"]
+```
+
+---
+
 ## Tautan Navigasi Terkait
 
 * 🌐 **[Aplikasi Web Peta Bakat & Sifat Manusia](https://pub.insantaqwa.org/bakat/)** (Visualisasi Interaktif Insan Taqwa)

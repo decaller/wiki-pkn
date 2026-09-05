@@ -142,3 +142,22 @@ Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang T
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Audit Kemandirian Teknis Pengasuhan
+| No | Kemampuan Teknis Pendidik | Belum Dikuasai | Sedang Dipelajari | Mahir Mempraktikkan |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Melakukan observasi bakat berbasis Rukun 3A | [ ] | [ ] | [ ] |
+| 2 | Mengisi dan menganalisis Kuisioner TB-40 | [ ] | [ ] | [ ] |
+| 3 | Merancang Rencana Pelaksanaan Pembelajaran (RPP) berbasis fitrah | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Apakah instrumen teknis yang kita gunakan mempermudah kita mendidik atau justru membebani birokrasi?
+2. Bagaimana cara menjaga agar instrumen teknis tidak menghilangkan ruh kasih sayang alami dalam keluarga?
+3. Sudahkah data observasi anak didokumentasikan dengan rapi untuk dievaluasi per semester?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Buka satu catatan observasi anak, perbarui catatan perkembangannya berdasarkan pengamatan sepekan terakhir.

@@ -171,3 +171,21 @@ Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
 
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Penyelarasan Paradigma dan Aksi Lapangan
+| No | Pilar Paradigma PKN | Paradigma Materialistik Lama | Transisi Kesadaran | Paradigma Nabawiyah Utuh |
+| :-: | :--- | :--- | :--- | :--- |
+| 1 | Orientasi Sukses Anak | Gaji tinggi dan jabatan duniawi | Sukses dunia dan akhirat | Ridha Allah dan karya peradaban |
+| 2 | Cara Memandang Kenakalan | Anak rusak / pembuat onar | Butuh perhatian | Energi bakat yang tersumbat |
+| 3 | Metode Memperbaiki Sikap | Hukuman keras dan bentakan | Dialog nalar | Doa, teladan, dan Bahasa Hati |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Sejauh mana paradigma berpikir saya sudah berhijrah dari standar pabrik menuju standar kenabian?
+2. Ketika anak berbuat salah, apakah respon pertama saya adalah kemarahan ataukah empati mendalam?
+3. Siapa figur panutan utama yang saya rujuk dalam menyelesaikan konflik pengasuhan di rumah?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Reframing satu 'kelakuan menjengkelkan' anak hari ini menjadi potensi fitrah yang sedang mencari wadah penyalurannya.

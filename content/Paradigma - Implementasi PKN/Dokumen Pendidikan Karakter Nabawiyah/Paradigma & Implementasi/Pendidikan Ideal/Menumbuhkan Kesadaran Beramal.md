@@ -335,6 +335,25 @@ Pendidik PKN mengiringi setiap detik interaksi muridnya dengan doa di sepertiga 
 
 ---
 
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Pengukuran Motivasi Beramal Anak (Internal vs Eksternal)
+| No | Parameter Kesadaran Beramal | Level 1: Imbalan/Hukuman | Level 2: Pujian Sosial | Level 3: Kesadaran Lillahi Ta'ala |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Menunaikan shalat lima waktu | Menunggu diancam/diberi hadiah | Karena malu dilihat orang | Bersegera saat adzan berkumandang |
+| 2 | Merapikan tempat tidur dan mainan | Menunggu diteriaki | Ingin dibilang anak pintar | Spontan atas inisiatif mandiri |
+| 3 | Menolong teman atau adik | Mengharap balasan setimpal | Agar dipuji guru | Ikhlas karena cinta kebaikan |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Seberapa sering saya menyogok anak dengan imbalan materi agar ia mau melakukan ketaatan?
+2. Bagaimana cara saya menyadarkan anak bahwa Allah Maha Melihat setiap amal rahasianya?
+3. Apakah saya sendiri sudah menikmati manisnya beramal shalih tanpa mengharap balasan manusia?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Ajak anak memasukkan sedekah ke kotak amal secara diam-diam tanpa ada orang lain yang melihat, lalu rasakan kebahagiaannya bersama.
+
+---
+
 ## Tautan Navigasi Terkait
 
 * [[Paradigma & Implementasi/index|Paradigma & Implementasi PKN]]

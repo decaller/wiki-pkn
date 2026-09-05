@@ -172,3 +172,37 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
+
+---
+
+## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+
+### 1. Rubrik Ceklist Diagnostik Masalah Parenting Harian
+| No | Pertanyaan Diagnostik Cepat | Ya | Ragu-ragu | Tidak |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Apakah saya tahu apa kebutuhan batin anak saat ia sedang rewel? | [ ] | [ ] | [ ] |
+| 2 | Apakah aturan di rumah sudah jelas konsekuensi logisnya bagi anak? | [ ] | [ ] | [ ] |
+| 3 | Apakah anak memiliki waktu bermain bebas di luar ruangan setiap hari? | [ ] | [ ] | [ ] |
+
+### 2. Tiga Pertanyaan Reflektif
+1. Dari berbagai jawaban di FAQ ini, poin mana yang paling relevan dengan kondisi keluarga saya saat ini?
+2. Apakah saya mencari solusi instan ataukah siap menjalani proses kesabaran tarbiyah?
+3. Sudahkah saya mendiskusikan FAQ ini bersama pasangan untuk menyamakan langkah?
+
+### 3. Aksi Cepat (*Quick Win*) Hari Ini
+* Pilih satu solusi dari FAQ ini dan terapkan langsung pada situasi konflik anak sore nanti.
+
+---
+
+## Visualisasi Pohon Keputusan Problem Pengasuhan Cepat
+
+```mermaid
+flowchart TD
+    Start["Anak Menunjukkan Perilaku Bermasalah"] --> Q1{"Apakah Usianya di Bawah 7 Tahun?"}
+    Q1 -- Ya --> A1["Dekap & Alihkan Perhatian<br/>(Jangan Dihukum / Bentak)"]
+    Q1 -- Tidak --> Q2{"Apakah Tangki Cintanya Kosong?"}
+    Q2 -- Ya --> A2["Pulihkan Kelekatan Dulu<br/>(Waktu Khusus 15 Menit)"]
+    Q2 -- Tidak --> Q3{"Apakah Ini Luapan Bakat yang Tersumbat?"}
+    Q3 -- Ya --> A3["Salurkan ke Wadah Positif SOTABH"]
+    Q3 -- Tidak --> A4["Tegakkan Konsekuensi Logis Bersama"]
+```
