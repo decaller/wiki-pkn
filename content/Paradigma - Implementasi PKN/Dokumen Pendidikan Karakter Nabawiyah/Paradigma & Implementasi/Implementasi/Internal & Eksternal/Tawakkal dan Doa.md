@@ -2,6 +2,10 @@
 title: "Tawakkal dan Doa"
 ---
 
+
+![[assets/banners/banner_tawakkal_doa.webp]]
+*Gambar: Kepasrahan Tawakkal dan Senjata Doa*
+
 # Tawakkal dan Doa: Jangkar Spiritual Pengasuhan Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

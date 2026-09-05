@@ -2,6 +2,10 @@
 title: "Referensi Kajian Video"
 ---
 
+
+![[assets/banners/banner_referensi_kajian_video.webp]]
+*Gambar: Arsip Audio Visual Rekaman Kajian dan Dauroh Ilmiah*
+
 # Indeks Referensi Kajian Video Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

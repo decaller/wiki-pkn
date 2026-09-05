@@ -8,6 +8,10 @@ tags:
   - manhaj_nabawi
 ---
 
+
+![[assets/banners/banner_hub_pendidikan_ideal.webp]]
+*Gambar: Cita-Cita Pendidikan Ideal Berdasarkan Manhaj Kenabian*
+
 # Pendidikan Ideal Nabawiyah: Menautkan Akil dan Baligh Menuju Generasi Peradaban
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

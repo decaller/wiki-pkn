@@ -2,6 +2,10 @@
 title: "Tazkiyatun Nafs"
 ---
 
+
+![[assets/banners/banner_tazkiyatun_nafs.webp]]
+*Gambar: Penyucian Jiwa (Tazkiyatun Nafs) Menuju Kesucian Fitrah*
+
 # Tazkiyatun Nafs: Menyucikan Bejana Pendidik Sebelum Menumbuhkan Fitrah Anak
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

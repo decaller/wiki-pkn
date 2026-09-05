@@ -2,6 +2,10 @@
 title: Dokumen Pendidikan Karakter Nabawiyah
 ---
 
+
+![[assets/banners/banner_hub_dokumen_pkn.webp]]
+*Gambar: Korpus Dokumen Kurikulum Pendidikan Karakter Nabawiyah*
+
 # Dokumen Master Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

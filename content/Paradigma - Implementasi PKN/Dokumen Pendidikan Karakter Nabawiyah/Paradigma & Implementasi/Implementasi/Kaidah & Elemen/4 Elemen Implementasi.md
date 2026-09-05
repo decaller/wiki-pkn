@@ -7,6 +7,10 @@ tags:
   - kurikulum_fitrah
 ---
 
+
+![[assets/banners/banner_4_elemen_implementasi.webp]]
+*Gambar: Empat Elemen Pondasi Implementasi Pendidikan Karakter*
+
 # 4 Elemen Implementasi Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

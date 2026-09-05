@@ -2,6 +2,10 @@
 title: FAQ Ringkas
 ---
 
+
+![[assets/banners/banner_faq_ringkas.webp]]
+*Gambar: Pelita Jawaban atas Pertanyaan Fundamental PKN*
+
 # FAQ Ringkas: Tanya Jawab Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

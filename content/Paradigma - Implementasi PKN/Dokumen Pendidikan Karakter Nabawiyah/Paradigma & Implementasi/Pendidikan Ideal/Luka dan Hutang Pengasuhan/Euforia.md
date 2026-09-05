@@ -2,6 +2,10 @@
 title: "Fase Euforia"
 ---
 
+
+![[assets/banners/banner_euforia_pengasuhan.webp]]
+*Gambar: Meredam Euforia Pengasuhan Menuju Kedamaian Hati yang Seimbang*
+
 # Fase Euforia: Mengelola Ledakan Emosi dan Jebakan Faddisme Pengasuhan
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

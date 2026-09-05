@@ -2,6 +2,10 @@
 title: "Paradigma - Implementasi PKN"
 ---
 
+
+![[assets/banners/banner_hub_paradigma_root.webp]]
+*Gambar: Peradaban Ilmu dan Fondasi Pendidikan Karakter Generasi Gemilang*
+
 # Paradigma & Implementasi Pendidikan Karakter Nabawiyah (PKN)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

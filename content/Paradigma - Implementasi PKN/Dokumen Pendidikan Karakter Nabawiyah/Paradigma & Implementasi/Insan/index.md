@@ -4,6 +4,10 @@ aliases:
   - "Paradigma Insan"
 ---
 
+
+![[assets/banners/banner_hub_insan.webp]]
+*Gambar: Pilar Hakikat Insan: Memahami Struktur Jasad, Ruh, dan Nafs*
+
 # Paradigma Insan: Peta Navigasi & Arsitektur Manusia dalam PKN
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

@@ -2,6 +2,10 @@
 title: "Renungan Pengasuhan Nabawiyah"
 ---
 
+
+![[assets/banners/banner_renungan_index.webp]]
+*Gambar: Tafakkur Malam: Merenungi Tanda-Tanda Kebesaran Ilahi*
+
 # Renungan Pengasuhan Nabawiyah: Ruang Tadabbur Jiwa Pendidik
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

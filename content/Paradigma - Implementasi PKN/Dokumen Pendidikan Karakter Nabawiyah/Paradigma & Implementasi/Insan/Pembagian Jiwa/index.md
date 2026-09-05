@@ -2,6 +2,10 @@
 title: "Pembagian Jiwa"
 ---
 
+
+![[assets/banners/banner_hub_pembagian_jiwa.webp]]
+*Gambar: Karakteristik Jiwa: Dinamika Ammarah, Lawwamah, dan Muthmainnah*
+
 # Pembagian Jiwa dalam Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

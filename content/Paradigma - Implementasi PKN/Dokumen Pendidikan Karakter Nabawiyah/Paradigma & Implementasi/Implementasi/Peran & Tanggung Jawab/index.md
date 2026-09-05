@@ -2,6 +2,10 @@
 title: Peran & Tanggung Jawab
 ---
 
+
+![[assets/banners/banner_hub_peran_tanggung_jawab.webp]]
+*Gambar: Gerbang Tanggung Jawab dan Naungan Perlindungan Pengasuhan Nabawiyah*
+
 # Peran & Tanggung Jawab dalam Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

@@ -8,6 +8,10 @@ tags:
   - disiplin_positif
 ---
 
+
+![[assets/banners/banner_bahasa_tangan.webp]]
+*Gambar: Bahasa Tangan: Teladan Amal dan Keterampilan Nyata*
+
 # Bahasa Tangan: Batasan Syar'i Ketegasan & Ta'dib Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

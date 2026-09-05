@@ -2,6 +2,10 @@
 title: Arahan Teknis Implementasi
 ---
 
+
+![[assets/banners/banner_arahan_teknis.webp]]
+*Gambar: Peta Jalan dan Panduan Teknis Pelaksanaan di Lapangan*
+
 # Arahan Teknis Implementasi: Pedoman Operasional Pengasuhan Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

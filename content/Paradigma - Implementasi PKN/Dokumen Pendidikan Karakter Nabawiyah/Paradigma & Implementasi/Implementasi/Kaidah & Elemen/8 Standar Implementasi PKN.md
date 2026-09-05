@@ -10,6 +10,10 @@ tags:
   - recovery
 ---
 
+
+![[assets/banners/banner_8_standar_pkn.webp]]
+*Gambar: Pilar-pilar 8 Standar Mutu Implementasi PKN*
+
 # 🏛️ 8 Standar Implementasi Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

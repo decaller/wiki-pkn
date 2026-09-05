@@ -2,6 +2,10 @@
 title: "Bank Studi Kasus"
 ---
 
+
+![[assets/banners/banner_bank_studi_kasus.webp]]
+*Gambar: Dokumentasi dan Analisis Komparatif Studi Kasus Pendidikan*
+
 # Bank Studi Kasus Kurikulum Berbasis Peristiwa: Panduan Restorasi Adab & Karakter Anak
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

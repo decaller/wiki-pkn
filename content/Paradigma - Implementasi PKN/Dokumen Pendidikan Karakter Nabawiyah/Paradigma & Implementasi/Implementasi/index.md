@@ -2,6 +2,10 @@
 title: "Paradigma Implementasi"
 ---
 
+
+![[assets/banners/banner_hub_implementasi.webp]]
+*Gambar: Kerangka Kerja Implementasi Kurikulum Karakter Nabawiyah*
+
 # Paradigma Implementasi Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

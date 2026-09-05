@@ -2,6 +2,10 @@
 title: "Fitrah (Karakter)"
 ---
 
+
+![[assets/banners/banner_hub_fitrah.webp]]
+*Gambar: Fitrah Insan: Menjaga dan Membina Potensi Suci Bawaan Ilahi*
+
 # Konsepsi Fitrah dalam Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

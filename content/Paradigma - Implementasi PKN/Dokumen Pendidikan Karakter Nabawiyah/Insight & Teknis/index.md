@@ -2,6 +2,10 @@
 title: Insight & Teknis
 ---
 
+
+![[assets/banners/banner_hub_insight_teknis.webp]]
+*Gambar: Panduan Teknis, Standarisasi Mutu, dan Wawasan Lapangan*
+
 # Insight & Teknis Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

@@ -8,6 +8,10 @@ tags:
   - openbayan
 ---
 
+
+![[assets/banners/banner_katalog_hadits.webp]]
+*Gambar: Katalog Sunnah dan Hadits Nabawiyah*
+
 # Master Katalog Dalil & Rujukan Nabawiyah Wiki PKN
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

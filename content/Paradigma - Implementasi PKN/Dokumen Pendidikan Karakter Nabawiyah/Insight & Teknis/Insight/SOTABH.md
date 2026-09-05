@@ -2,6 +2,10 @@
 title: "SOTABH"
 ---
 
+
+![[assets/banners/banner_sotabh.webp]]
+*Gambar: SOTABH: Menemukan dan Mengembangkan Bakat Nabawiyah Berbasis Fitrah*
+
 # SOTABH: State of the Art Belajar Hati
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

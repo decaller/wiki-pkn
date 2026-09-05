@@ -2,6 +2,10 @@
 title: Paradigma & Implementasi
 ---
 
+
+![[assets/banners/banner_hub_paradigma_implementasi.webp]]
+*Gambar: Sintesis Paradigma Filosofis dan Eksekusi Lapangan PKN*
+
 # Paradigma & Implementasi: Gerbang Arsitektur Utama PKN
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

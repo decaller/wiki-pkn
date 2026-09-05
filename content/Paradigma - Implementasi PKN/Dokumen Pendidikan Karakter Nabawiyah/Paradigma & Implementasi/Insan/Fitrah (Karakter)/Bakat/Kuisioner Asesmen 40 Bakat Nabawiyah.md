@@ -9,6 +9,10 @@ tags:
 description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berbasis skala Likert 5 tingkat, dilengkapi teks Arab, transliterasi, deskriptor perilaku, dan rubrik rekapitulasi kluster."
 ---
 
+
+![[assets/banners/banner_asesmen_bakat.webp]]
+*Gambar: Kompas Penjelajahan 40 Potensi Bakat Nabawiyah*
+
 # Kuisioner Asesmen 40 Bakat Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

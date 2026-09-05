@@ -10,6 +10,10 @@ tags:
 description: "Master blueprint dan peta arsitektur sistem utuh Pendidikan Karakter Nabawiyah (PKN), mengintegrasikan dimensi Jiwa Pendidik, Peran Pendidik, Metode, Materi Kurikulum, hingga 4 Langkah Implementasi Lapangan."
 ---
 
+
+![[assets/banners/banner_blueprint_arsitektur.webp]]
+*Gambar: Cetak Biru Arsitektur Sistem Pendidikan Karakter Nabawiyah*
+
 # PKN Blueprint: Arsitektur Sistem Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

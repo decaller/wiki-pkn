@@ -2,6 +2,10 @@
 title: Beranda Utama
 ---
 
+
+![[assets/banners/banner_home_gerbang.webp]]
+*Gambar: Gerbang Peradaban dan Pendidikan Karakter Nabawiyah*
+
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

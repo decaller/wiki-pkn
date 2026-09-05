@@ -2,6 +2,10 @@
 title: Kaidah & Elemen Implementasi
 ---
 
+
+![[assets/banners/banner_hub_kaidah_elemen.webp]]
+*Gambar: Kaidah-Kaidah Emas dan Elemen Kunci Pembelajaran Nabawiyah*
+
 # Kaidah & Elemen Implementasi Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

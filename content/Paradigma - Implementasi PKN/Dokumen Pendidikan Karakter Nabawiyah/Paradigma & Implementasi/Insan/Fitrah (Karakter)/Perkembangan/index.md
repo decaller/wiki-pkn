@@ -2,6 +2,10 @@
 title: "Perkembangan"
 ---
 
+
+![[assets/banners/banner_hub_perkembangan.webp]]
+*Gambar: Tahapan Perkembangan Fitrah Menuju Usia Baligh dan Taklif*
+
 # Karakter Perkembangan: Peta Jalan Menuju Aqil-Baligh
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

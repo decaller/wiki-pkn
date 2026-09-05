@@ -2,6 +2,10 @@
 title: Insight Wawasan PKN
 ---
 
+
+![[assets/banners/banner_hub_insight.webp]]
+*Gambar: Refleksi dan Wawasan Strategis Penerapan Pendidikan Karakter*
+
 # Insight: Wawasan & Refleksi Kritis Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

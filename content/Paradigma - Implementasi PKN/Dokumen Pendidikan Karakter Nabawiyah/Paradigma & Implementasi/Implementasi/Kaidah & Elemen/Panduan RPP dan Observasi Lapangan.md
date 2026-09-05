@@ -10,6 +10,10 @@ tags:
   - tb40
 ---
 
+
+![[assets/banners/banner_panduan_rpp_observasi.webp]]
+*Gambar: Panduan Observasi Lapangan dan Perancangan Pembelajaran Fitrah*
+
 # 📝 Panduan RPP dan Observasi Lapangan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

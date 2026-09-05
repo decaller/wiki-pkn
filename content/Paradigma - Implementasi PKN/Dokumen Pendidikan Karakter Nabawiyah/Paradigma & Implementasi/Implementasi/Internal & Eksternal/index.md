@@ -2,6 +2,10 @@
 title: Internal & Eksternal
 ---
 
+
+![[assets/banners/banner_hub_internal_eksternal.webp]]
+*Gambar: Sinergi Faktor Internal Jiwa dan Ekosistem Lingkungan Eksternal*
+
 # Faktor Internal & Eksternal dalam Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

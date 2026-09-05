@@ -2,6 +2,10 @@
 title: "Bersatunya Ruh dan Jasad Membentuk Jiwa"
 ---
 
+
+![[assets/banners/banner_ruh_jasad_jiwa.webp]]
+*Gambar: Penyatuan Ruh dan Jasad Membentuk Hakikat Jiwa Insan*
+
 # Bersatunya Ruh dan Jasad Membentuk Jiwa
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

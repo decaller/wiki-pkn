@@ -8,6 +8,10 @@ tags:
   - rahmah
 ---
 
+
+![[assets/banners/banner_4_kaidah_implementasi.webp]]
+*Gambar: Kaidah-Kaidah Keseimbangan dalam Penerapan PKN*
+
 # 4 Kaidah Emas Implementasi Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

@@ -8,6 +8,10 @@ tags:
   - manhaj_nabawi
 ---
 
+
+![[assets/banners/banner_hub_metode_mendidik.webp]]
+*Gambar: Ragam Metode Mendidik Nabawiyah: Keteladanan, Lisan, dan Hikmah*
+
 # Metode Mendidik Nabawiyah: Tiga Bahasa Pengasuhan
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

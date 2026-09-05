@@ -2,6 +2,10 @@
 title: "Bakat"
 ---
 
+
+![[assets/banners/banner_hub_bakat.webp]]
+*Gambar: Bakat dan Keunikan Potensi Nabawiyah Setiap Anak*
+
 # Karakter Bakat: Menemukan Panggilan Misi Kekhalifahan
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen

@@ -8,6 +8,10 @@ tags:
   - openbayan
 ---
 
+
+![[assets/banners/banner_katalog_quran.webp]]
+*Gambar: Katalog Dalil Al-Qur'anul Karim*
+
 # 📖 Master Katalog Dalil Al-Qur'an untuk Seluruh Tema & Halaman Wiki PKN
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
