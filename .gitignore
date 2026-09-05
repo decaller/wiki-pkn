@@ -18,3 +18,5 @@ __pycache__/
 searchable_pdfs/
 index_pdf_pipeline.py
 test_pipeline.py
+pexels-mcp-server/
+.venv/
