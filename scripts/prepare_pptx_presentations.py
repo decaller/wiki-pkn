@@ -328,6 +328,23 @@ CANONICAL_TOPICS = {
         'targets': [
             'content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/index.md'
         ]
+    },
+    'ruh_ringkas': {
+        'clean_name': '39-ruh-ringkas.pptx',
+        'title': '1. RUH Ringkas: Hakikat Ruh, Jasad, dan Jiwa',
+        'targets': [
+            'content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Bersatunya Ruh dan Jasad Membentuk Jiwa.md',
+            'content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Pembagian Jiwa/index.md'
+        ]
+    },
+    'recovery_fitrah': {
+        'clean_name': '40-recovery-fitrah.pptx',
+        'title': '2. Recovery Fitrah: Pemulihan Jiwa dan Tangki Hati',
+        'targets': [
+            'content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery.md',
+            'content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/Tangki Cinta.md',
+            'content/Renungan/Disiplin Positif PKN.md'
+        ]
     }
 }
 
@@ -336,6 +353,10 @@ def get_canonical_key(name):
     n = re.sub(r'\[\d+\]', '', n)
     n = n.replace('.pptx', '').strip().lower()
     n = re.sub(r'[\s\-_]+', '_', n)
+    if 'ruh_ringkas' in n:
+        return 'ruh_ringkas'
+    if 'recovery_fitrah' in n:
+        return 'recovery_fitrah'
     if 'bakat_tb_40' in n or 'bakat_tb40' in n or 'tafsir_bakat_tb_40' in n or n == 'bakat':
         return 'bakat_tb40'
     if '40_pilar_karakter' in n:

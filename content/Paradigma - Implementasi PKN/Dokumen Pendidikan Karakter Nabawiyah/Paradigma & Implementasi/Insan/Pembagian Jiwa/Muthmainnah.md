@@ -172,6 +172,8 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

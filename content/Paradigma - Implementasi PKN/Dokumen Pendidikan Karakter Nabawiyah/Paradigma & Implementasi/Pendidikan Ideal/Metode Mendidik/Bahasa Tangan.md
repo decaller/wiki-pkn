@@ -177,6 +177,8 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

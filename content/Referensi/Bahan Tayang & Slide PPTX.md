@@ -1,6 +1,6 @@
 ---
 title: "Bahan Tayang & Slide PPTX"
-description: "Direktori 39 berkas tayang resmi presentasi kajian PKN Ustadz Abdul Kholiq yang telah terintegrasi dengan penampil Microsoft Office Online interaktif dan tautan unduh."
+description: "Direktori 41 berkas tayang resmi presentasi kajian PKN Ustadz Abdul Kholiq yang telah terintegrasi dengan penampil Microsoft Office Online interaktif dan tautan unduh."
 aliases:
   - Slide Presentasi
   - Bahan Tayang PPTX
@@ -22,7 +22,7 @@ tags:
 
 # Katalog Berkas Tayang & Slide Presentasi PKN
 
-Berikut adalah daftar 39 berkas tayang utama presentasi **Ustadz Abdul Kholiq** yang telah dikelompokkan berdasarkan fase kurikulum dan tema pembahasan:
+Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** yang telah dikelompokkan berdasarkan fase kurikulum dan tema pembahasan:
 
 ---
 
@@ -48,6 +48,9 @@ Berikut adalah daftar 39 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 * **10. Fitrah Bakat & Matriks 40 Potensi (TB-40)**  
   *Topik:* Identifikasi 40 ragam bakat fitrah manusia dan pemetaan peran peradaban.  
   *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/10-fitrah-bakat-dan-ragam-potensi.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F10-fitrah-bakat-dan-ragam-potensi.pptx)
+* **39. RUH Ringkas: Hakikat Ruh, Jasad, dan Jiwa**  
+  *Topik:* Anatomi jasad (buruk) vs ruh (baik), persenyawaan membentuk jiwa (*nafs*), dan dinamika 3 tingkatan nafsu (*muthmainnah*, *lawwamah*, *ammarah bissuu'*).  
+  *Akses Berkas:* [📥 Unduh PPTX (1.85 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/39-ruh-ringkas.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F39-ruh-ringkas.pptx)
 
 ---
 
@@ -62,7 +65,7 @@ Berikut adalah daftar 39 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 ---
 
-## 🛠️ Kelompok 4: Implementasi Lembaga & Rumah Tangga
+## 🛠️ Kelompok 4: Implementasi Lembaga, Pemulihan, & Rumah Tangga
 
 * **24. 4 Kaidah & 4 Elemen Implementasi PKN**  
   *Topik:* Taisir, Qudwah, Rahmah, Tadarruj; Ghayah, Manhaj, Uslub, Taqyim.  
@@ -70,6 +73,9 @@ Berikut adalah daftar 39 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 * **32. Menumbuhkan Kesadaran Beramal (Edisi 2025)**  
   *Topik:* Menjadikan amal saleh sebagai kebutuhan jiwa anak, bukan beban kewajiban yang ditakuti.  
   *Akses Berkas:* [📥 Unduh PPTX (36.4 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/32-menumbuhkan-kesadaran-2025.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F32-menumbuhkan-kesadaran-2025.pptx)
+* **40. Recovery Fitrah: Pemulihan Jiwa dan Tangki Hati**  
+  *Topik:* Pemulihan karakter berbasis fitrah, pengisian tangki cinta batin, validasi pengakuan ego, dan resolusi hati terluka.  
+  *Akses Berkas:* [📥 Unduh PPTX (9.99 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/40-recovery-fitrah.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F40-recovery-fitrah.pptx)
 
 ---
 

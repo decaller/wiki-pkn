@@ -167,6 +167,8 @@ Sifat primitif nafsu ammarah (*maraji': Ihya Ulumiddin karya Al-Ghazali & Majall
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

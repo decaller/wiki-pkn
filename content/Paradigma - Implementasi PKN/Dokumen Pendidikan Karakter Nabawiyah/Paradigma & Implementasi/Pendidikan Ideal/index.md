@@ -193,6 +193,8 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

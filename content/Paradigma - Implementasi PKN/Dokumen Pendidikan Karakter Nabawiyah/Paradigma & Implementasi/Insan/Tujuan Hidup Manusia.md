@@ -271,6 +271,8 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

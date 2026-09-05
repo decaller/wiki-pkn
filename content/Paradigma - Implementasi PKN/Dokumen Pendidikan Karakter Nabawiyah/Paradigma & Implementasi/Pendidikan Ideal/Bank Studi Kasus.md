@@ -232,6 +232,8 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

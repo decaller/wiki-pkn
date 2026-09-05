@@ -177,6 +177,8 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

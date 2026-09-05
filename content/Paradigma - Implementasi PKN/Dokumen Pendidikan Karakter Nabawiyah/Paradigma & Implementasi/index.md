@@ -151,6 +151,8 @@ Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

@@ -219,6 +219,8 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

@@ -142,6 +142,8 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

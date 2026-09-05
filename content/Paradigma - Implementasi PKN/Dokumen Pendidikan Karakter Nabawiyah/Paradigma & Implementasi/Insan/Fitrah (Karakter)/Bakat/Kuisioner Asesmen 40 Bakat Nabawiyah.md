@@ -272,6 +272,8 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

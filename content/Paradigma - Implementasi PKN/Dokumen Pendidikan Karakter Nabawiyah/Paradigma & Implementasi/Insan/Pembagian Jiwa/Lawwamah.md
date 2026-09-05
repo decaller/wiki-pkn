@@ -157,6 +157,8 @@ Ketika seorang pemuda meminta fatwa halal untuk berzina, Nabi ﷺ tidak menghard
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---

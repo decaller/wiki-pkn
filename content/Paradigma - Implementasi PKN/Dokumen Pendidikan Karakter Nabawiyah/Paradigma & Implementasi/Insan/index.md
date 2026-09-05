@@ -234,6 +234,8 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
 
 
 
+
+
 <!-- START_OFFICE_PPTX_EMBED -->
 
 ---
