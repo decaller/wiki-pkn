@@ -15,6 +15,10 @@ description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berba
 
 ---
 
+> [!tip] 🌐 Eksplorasi Visual Interaktif
+> Selain mengisi kuisioner mandiri di bawah ini, Anda juga dapat menelusuri definisi sifat dan keterkaitan 40 pilar bakat secara visual pada aplikasi web:  
+> 👉 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)**
+
 ## 1. Petunjuk Teknis Pelaksanaan Asesmen
 
 ### A. Prinsip Pengisian
@@ -185,6 +189,8 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 ---
 
 ## Tautan Navigasi Terkait
+
+* 🌐 **[Aplikasi Web Peta Bakat & Sifat Manusia](https://pub.insantaqwa.org/bakat/)** (Visualisasi Interaktif Insan Taqwa)
 
 * [[Insan/Fitrah (Karakter)/Bakat/Panduan Asesmen dan Observasi TB40|Panduan Komprehensif Asesmen dan Observasi TB40]]
 * [[Implementasi/Kaidah & Elemen/Panduan RPP dan Observasi Lapangan|Panduan RPP dan Lembar Observasi Lapangan]]

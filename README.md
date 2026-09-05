@@ -6,7 +6,11 @@
 [![Total Karakter](https://img.shields.io/badge/Total%20Karakter-953%2C300%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
 [![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](DALIL_MAPPING.md)
 
-Basis pengetahuan digital komprehensif **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan terstruktur yang merekonstruksi paradigma, kurikulum, metodologi, dan tata kelola implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
+Basis pengetahuan digital komprehensif **Pendidikan Karakter Nabawiyah (PKN)**
+> [!tip] 🌐 Aplikasi Web Pendukung: Peta Bakat & Sifat Manusia
+> Repositori ini terhubung dengan aplikasi web interaktif untuk eksplorasi visual 40 pilar bakat nabawiyah:  
+> 👉 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)**
+—sebuah ensiklopedia rujukan terstruktur yang merekonstruksi paradigma, kurikulum, metodologi, dan tata kelola implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
 ---
 
@@ -108,8 +112,54 @@ Buka peramban di `http://localhost:8888/` untuk menelusuri seluruh basis pengeta
 
 ---
 
-## 5. Tim Penyusun & Pengembang
+---
+
+## 5. Panduan Deployment Portainer Stack (Fitur Git)
+
+Repositori ini telah dikonfigurasi penuh agar dapat langsung di-*deploy* menggunakan fitur **Portainer Stack (Repository/Git)** dan mendukung kustomisasi nama domain serta port via environment variables (`DOMAIN` dan `PORT`).
+
+### A. Konfigurasi Environment Variables
+
+File `.env.example` telah disediakan. Variabel utama yang didukung:
+
+| Variabel | Deskripsi | Default | Contoh Nilai |
+|---|---|---|---|
+| `DOMAIN` | Domain publik untuk canonical URL, OpenGraph metadata, dan sitemap | `localhost:8080` | `wiki.domainanda.com` |
+| `PORT` | Port server Quartz di dalam dan luar container | `8080` | `8080` / `3000` |
+| `HOST_PORT` | Port binding host (opsional jika berbeda dari port container) | `${PORT}` | `80` |
+| `WS_PORT` | Port WebSocket live-reload | `3001` | `3001` |
+
+> [!NOTE]
+> Format `DOMAIN` dapat ditulis dengan atau tanpa `https://` (misal `https://wiki.domainanda.com` atau `wiki.domainanda.com`). Sistem secara otomatis membersihkan awalan protokol dan garis miring penutup.
+
+---
+
+### B. Langkah-langkah Deploy di Portainer
+
+1. **Masuk ke Portainer Web UI**
+2. Pilih environment Docker Anda, lalu klik menu **Stacks** di bilah navigasi kiri.
+3. Klik tombol **Add stack** (+).
+4. Pilih metode build **Repository** (Git repository):
+   - **Name:** Beri nama stack, contoh: `wiki-pkn`
+   - **Repository URL:** `https://github.com/decaller/wiki-pkn.git` (atau URL repositori Anda)
+   - **Repository reference:** `refs/heads/v5` (atau branch target deployment Anda)
+   - **Compose path:** `docker-compose.yml`
+5. **Konfigurasi GitOps / Automatic Updates (Sangat Direkomendasikan):**
+   - Aktifkan toggle **Automatic updates**.
+   - Pilih **Polling** (misal interval 5m) atau **Webhook**.
+   - Jika menggunakan Webhook, salin Webhook URL yang disediakan Portainer ke pengaturan Webhook repositori GitHub/Gitlab Anda. Setiap kali ada `git push`, Portainer akan otomatis menarik perubahan dan me-rebuild wiki Anda.
+6. **Isi Environment Variables:**
+   - Di bagian bawah, pada kartu **Environment variables**, klik **Add an environment variable**:
+     - `DOMAIN` = `wiki.domainanda.com` (atau domain Anda)
+     - `PORT` = `8080`
+7. Klik tombol **Deploy the stack**.
+8. Portainer akan secara otomatis meng-clone repositori, membangun image container, dan menjalankan stack `wiki-pkn`!
+
+---
+
+## 6. Tim Penyusun & Pengembang
 
 * **Perumus Manhaj PKN:** Ustadz Abdul Kholiq, Bayu Issetyadi, dan Tim SOTAB HEBAT.
 * **Penerbit Dokumen Acuan:** Perkumpulan Radio Komunitas Mutiara Qur'an, Sawangan, Depok.
 * **Pengembang Basis Pengetahuan & Sistem Quartz:** Tim Relawan Pengembang Digital PKN.
+

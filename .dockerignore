@@ -1,0 +1,16 @@
+node_modules
+.venv
+__pycache__
+old_backup
+searchable_pdfs
+dropbox_files.md
+dropbox_links_cache.json
+generate_dropbox_links.py
+test_pipeline.py
+index_pdf_pipeline.py
+public
+.quartz-cache
+*.log
+.DS_Store
+.vscode
+.idea

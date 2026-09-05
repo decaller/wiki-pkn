@@ -1,0 +1,19 @@
+services:
+  wiki-pkn:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: wiki-pkn
+    restart: unless-stopped
+    ports:
+      - "${HOST_PORT:-${PORT:-8080}}:${PORT:-8080}"
+    environment:
+      - DOMAIN=${DOMAIN:-localhost}
+      - PORT=${PORT:-8080}
+      - WS_PORT=${WS_PORT:-3001}
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:' + (process.env.PORT || 8080)).then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s

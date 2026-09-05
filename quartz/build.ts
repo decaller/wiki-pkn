@@ -60,7 +60,15 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     virtualPages: [],
   }
 
+  const envDomain = process.env.DOMAIN || process.env.BASE_URL || process.env.QUARTZ_BASE_URL
+  if (envDomain && cfg.configuration) {
+    cfg.configuration.baseUrl = envDomain.replace(/^https?:\/\//, "").replace(/\/+$/, "")
+  }
+
+  console.log(styleText("cyan", `[buildQuartz] Using baseUrl: ${cfg.configuration.baseUrl}`))
+
   const perf = new PerfTimer()
+
   const output = argv.output
 
   const pluginCount = Object.values(cfg.plugins).flat().length

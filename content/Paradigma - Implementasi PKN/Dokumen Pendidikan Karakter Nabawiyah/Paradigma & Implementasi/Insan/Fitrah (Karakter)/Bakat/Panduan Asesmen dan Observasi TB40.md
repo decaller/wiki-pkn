@@ -22,6 +22,10 @@ tags:
 
 ---
 
+> [!tip] 🌐 Alat Visualisasi Eksternal
+> Untuk mempermudah pemetaan visual sifat dan hubungan antar pilar bakat, gunakan aplikasi web interaktif:  
+> 👉 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)**
+
 ## 1. Filosofi Asesmen Bakat Nabawiyah vs Asesmen Sekuler
 
 Dalam lanskap psikologi modern, instrumen kepribadian (seperti MBTI, DISC, Enneagram, atau Big Five) kerap terjebak dalam **reduksionisme materialistis**: manusia dinilai semata-mata dari produktivitas ekonomi, kecenderungan psikis lahiriah, atau sekadar penyesuaian sosial.

@@ -18,6 +18,10 @@ title: "Bakat"
 
 ---
 
+> [!tip] 🌐 Eksplorasi Visual: Peta Bakat & Sifat Manusia (Insan Taqwa)
+> Anda dapat menjelajahi peta kluster sifat, potensi fitrah, dan visualisasi 40 pilar bakat manusia secara interaktif melalui aplikasi web resmi:  
+> 👉 **[Aplikasi Web Peta Bakat & Sifat Manusia — pub.insantaqwa.org/bakat](https://pub.insantaqwa.org/bakat/)**
+
 ## 1. Hakikat Bakat (*Al-Mauhibah & Fitrah*)
 
 Dalam naskah resmi *Seminar 2: Tafsir Bakat TB-40*, **Bakat** secara syar'i diistilahkan sebagai **Al-Mauhibah (المَوْهِبَة)**, yaitu anugerah keistimewaan sifat dan kecondongan fitriah yang Allah sematkan secara unik pada diri setiap hamba sebagai bekal menunaikan peran peradaban.
@@ -239,6 +243,8 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 ---
 
 ## 10. Navigasi Instrumen & Panduan Terkait
+
+* 🌐 **[Aplikasi Web Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)** — Visualisasi interaktif spektrum sifat dan 40 pilar bakat.
 
 * [[Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]] — Instrumen baku self-assessment 40 butir Likert 5 tingkat, teks Arab, deskriptor perilaku, dan rekapitulasi kluster.
 * [[Panduan Asesmen dan Observasi TB40]] — Pedoman komprehensif instrumen 40 pilar, Likert 0–100 vs Ipsative 360°, dan pemetaan karir peradaban.

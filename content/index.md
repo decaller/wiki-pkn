@@ -56,7 +56,8 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 > 
 > #### 3️⃣ Fokus Menguatkan Kelebihan dalam Bakat, Niscaya Kelemahan akan Membaik Perlahan
 > * **Formula Rukun 3A:** Amati keunikan 40 pilar bakat fitrah ([[Bakat]]) setiap anak dengan prinsip: **Alami** (beri keleluasaan mencoba ragam aktivitas), **Acuhkan** kelemahan minor yang bukan fardhu 'ain, dan **Asah** potensi kekuatan dominan hingga melahirkan karya peradaban.
-> * **Sunnatullah Pengangkatan Kelemahan:** Energi manusia terbatas; menguras energi untuk memaksa memperbaiki kelemahan minor hanya melahirkan stres, rendah diri, dan penolakan belajar. Sebaliknya, ketika anak difasilitasi mengasah bakat terbaiknya hingga berdaya guna bagi sesama ([[Melayani]] / *Al-Khidmah*), rasa percaya diri dan kematangan jiwanya akan bangkit, sehingga kelemahan-kelemahan perilakunya akan membaik dan terangkat secara alami (*Tazkiyah bil 'Amal*).
+> * 🌐 **Eksplorasi Interaktif:** Jelajahi pemetaan sifat, fitrah, dan 40 pilar bakat secara visual melalui aplikasi web resmi [Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/).
+* **Sunnatullah Pengangkatan Kelemahan:** Energi manusia terbatas; menguras energi untuk memaksa memperbaiki kelemahan minor hanya melahirkan stres, rendah diri, dan penolakan belajar. Sebaliknya, ketika anak difasilitasi mengasah bakat terbaiknya hingga berdaya guna bagi sesama ([[Melayani]] / *Al-Khidmah*), rasa percaya diri dan kematangan jiwanya akan bangkit, sehingga kelemahan-kelemahan perilakunya akan membaik dan terangkat secara alami (*Tazkiyah bil 'Amal*).
 > 
 > #### 4️⃣ Implementasikan Secara Bertahap dari yang Mudah dari Kondisi yang Ada
 > * **Kaidah Kemudahan (*Taisir*):** Pegang teguh prinsip *"Maa laa yudraku kulluh, laa yutraku julluh"*—apa yang belum sanggup diterapkan seluruhnya, jangan ditinggalkan semuanya ([[4 Kaidah Implementasi]]).
@@ -159,6 +160,7 @@ Wiki PKN terintegrasi penuh dengan dua basis data ilmiah pelengkap:
 * 📖 **[[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]]:** Memuat lebih dari 110 ayat Al-Qur'an berharakat lengkap, terjemahan resmi, takhrij surah/ayat, serta syarah klasik dari **Tafsir Ibnu Katsir** melalui korpus **OpenBayan**.
 * 📜 **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]:** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
 * 🎥 **[[Referensi Kajian Video]]:** Indeks komprehensif berisi 122 judul rekaman kajian dan 1.159 bab transkrip pembahasan video Ustadz Abdul Kholiq untuk pendalaman materi audio-visual.
+* 🌐 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/):** Platform web interaktif untuk mengeksplorasi visualisasi spektrum 40 pilar bakat, sifat manusia, dan kluster peradaban secara komprehensif.
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.
