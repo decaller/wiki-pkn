@@ -58,6 +58,11 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
       2. **Pendidik (Guru & Ustadz)**: *Qudwah Hasanah* melampaui ceramah, pembelajaran alamiah di dunia nyata, serta observasi 40 pilar bakat fitrah melalui formula Rukun 3A (*Alami, Acuhkan kelemahan minor, Asah kekuatan dominan*).
       3. **Lembaga Pendidikan (Sekolah & Pesantren)**: Reposisi sebagai mitra pendukung orang tua (kemitraan segitiga emas), transformasi dari ranking komparatif menuju asesmen portofolio holistik, penciptaan lingkungan suci (*safe haven* bebas bullying/gadget), dan inkubasi kemandirian akil-baligh (*Syabab*).
     - Panjang halaman `content/index.md` meningkat menjadi **11.800 karakter**, mendorong akumulasi total wiki menjadi **719.332 karakter** di seluruh **67 artikel** (100% kepatuhan emas $\ge 5.000$ karakter, 0 defisit).
+23. **Transformasi Dalil Utama Beranda PKN (`content/index.md`)**:
+    - Mengganti dalil metafora pohon (QS. Ibrahim: 24–25) dengan **Dua Dalil Utama Operasional Manhaj PKN**:
+      1. *Dalil Perintah Shalat (HR. Abu Dawud 495, Ahmad 6689, Al-Hakim 1/197)*: Sebagai barometer fitrah dan penahapan usia (*at-tadarruj*) 0–7 tahun ([[Thufulah]] - tangki cinta & teladan), 7–10 tahun ([[Tamyiz]] - 5.000x pembiasaan shalat tanpa kekerasan), dan 10–15 tahun ([[Murahaqah]] - disiplin ketegasan ta'dib & pemisahan tempat tidur menuju [[Syabab]]).
+      2. *Dalil Mengubah Kemungkaran dengan Tangan, Lisan, dan Hati (HR. Muslim 49)*: Sebagai fondasi hierarki Tiga Bahasa Pengasuhan ([[Metode Mendidik]]) yang menempatkan [[Bahasa Hati]] sebagai pondasi kelekatan jiwa, [[Bahasa Lisan]] sebagai dialog nalar hikmah (*qaulan sadida*), dan [[Bahasa Tangan]] sebagai otoritas ketegasan protektif ([[Batas Toleransi]] & [[Imunitas Sosial]]).
+    - Halaman [content/index.md](file:///home/abuhafi/Project/wiki-pkn/content/index.md) kini memuat **14.010 karakter**, membawa akumulasi total ensiklopedia menjadi **721.542 karakter** di seluruh **67 artikel** (100% kepatuhan standar emas $\ge 5.000$ karakter, 0 defisit).
 
 ---
 
