@@ -1,4 +1,4 @@
-// plugins/outline-nav/src/components/OutlineNav.tsx
+// src/components/OutlineNav.tsx
 import fs from "fs";
 import path from "path";
 import { resolveRelative } from "@quartz-community/utils";
@@ -440,7 +440,7 @@ li.outline-folder:not(:has(> .folder-outer.open)) > .outline-folder-container .f
   return OutlineNav;
 });
 
-// plugins/outline-nav/src/index.ts
+// src/index.ts
 var index_default = OutlineNav_default;
 export {
   OutlineNav_default as OutlineNav,
