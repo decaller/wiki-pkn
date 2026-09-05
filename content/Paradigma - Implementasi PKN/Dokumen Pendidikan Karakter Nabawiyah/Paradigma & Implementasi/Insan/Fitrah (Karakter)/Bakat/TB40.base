@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.hasTag("tb40")
+views:
+  - type: table
+    name: "Tabel 40 Pilar Bakat"
+    order:
+      - no
+      - title
+      - arab
+      - rumpun
+      - profesi
+      - jurusan
+      - tafrith
+      - ifrath
+    sort:
+      - property: no
+        direction: ASC
+  - type: cards
+    name: "Kartu Bakat Nabawiyah"
+    order:
+      - no
+      - title
+      - arab
+      - rumpun
+      - profesi
+  - type: board
+    name: "Papan Rumpun Bakat"
+    boardProperty: rumpun
+    order:
+      - no
+      - title
+      - arab

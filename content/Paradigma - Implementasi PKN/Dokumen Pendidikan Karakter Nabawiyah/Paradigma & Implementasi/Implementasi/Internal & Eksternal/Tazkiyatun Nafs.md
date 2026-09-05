@@ -1,5 +1,10 @@
 ---
 title: "Tazkiyatun Nafs"
+description: "Tazkiyatun Nafs Pendidik: membersihkan bejana batin guru dan orang tua sebagai syarat mutlak mengalirkan hidayah ilmu."
+tags:
+  - tazkiyatun-nafs
+  - pensucian-jiwa
+  - adab-pendidik
 ---
 
 

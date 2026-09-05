@@ -6,6 +6,7 @@ tags:
   - tiga_bahasa
   - tadarruj
   - manhaj_nabawi
+description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

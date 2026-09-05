@@ -6,6 +6,7 @@ tags:
   - katalog
   - sunnah
   - openbayan
+description: "Kajian komprehensif Master Katalog Dalil Hadits dan Sunnah dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

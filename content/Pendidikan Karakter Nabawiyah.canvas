@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "header-main",
+      "type": "text",
+      "text": "# 🌟 PENDIDIKAN KARAKTER NABAWIYAH (PKN)\n**Peta Arsitektur Komprehensif Manhaj Tarbiyah Berbasis Fitrah & Sunnah**\n*Ustadz Abdul Kholiq • SOTAB HEBAT • Himmatul Ummah*",
+      "x": -400,
+      "y": -600,
+      "width": 800,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "group-sektor1",
+      "type": "group",
+      "label": "SEKTOR 1: FONDASI, SUMBER & KOMPONEN KURIKULUM",
+      "x": -850,
+      "y": -400,
+      "width": 1700,
+      "height": 480,
+      "color": "4"
+    },
+    {
+      "id": "node-sumber",
+      "type": "text",
+      "text": "### 📖 5 Sumber Otoritatif\n1. **Al-Qur'anul Karim** (Petunjuk Utama)\n2. **As-Sunnah Ash-Shahihah** (Model Teladan)\n3. **As-Sirah An-Nabawiyyah** (Konteks Sejarah)\n4. **Kalam Ulama Salaf** (Syarah & Atsar)\n5. **Ilmu Pengetahuan Objektif** (Ayat Kauniyah)",
+      "x": -800,
+      "y": -340,
+      "width": 360,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "node-komponen",
+      "type": "text",
+      "text": "### ⚖️ 5 Komponen Pokok\n1. **Aqidah & Tauhid** (Pondasi Jiwa)\n2. **Ibadah Mahdhah** (Penghambaan Murni)\n3. **Akhlaq & Adab** (Buah Keimanan)\n4. **Muamalah Sosial** (Keadilan & Rahmah)\n5. **Dakwah & Khilafah** (Peran Peradaban)",
+      "x": 440,
+      "y": -340,
+      "width": 360,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "node-kurikulum-core",
+      "type": "text",
+      "text": "## 🏛️ KURIKULUM PENDIDIKAN KARAKTER NABAWIYAH\n**'Satu Anak Satu Kurikulum'**\nMemandu tumbuh kembang fitrah insan secara utuh tanpa penyeragaman kaku model pabrik.",
+      "x": -240,
+      "y": -330,
+      "width": 480,
+      "height": 150,
+      "color": "2"
+    },
+    {
+      "id": "node-sub-kurikulum",
+      "type": "text",
+      "text": "### 🧩 Ranting Kurikulum Tematik\n• **Adab & Muru'ah** (Integritas Pribadi)\n• **Ketahanan Jati Diri** (Anti-Perundungan & Syahwat)\n• **Eksplorasi 40 Bakat (TB-40)** (Keunikan Potensi)\n• **Pembelajaran Alamiah** (Tadabbur Alam Semesta)\n• **Keterampilan Hidup & Kepekaan Sosial**",
+      "x": -320,
+      "y": -140,
+      "width": 640,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "group-sektor2",
+      "type": "group",
+      "label": "SEKTOR 2: DIMENSI INSAN & METODE PENDEKATAN",
+      "x": -850,
+      "y": 140,
+      "width": 1700,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "node-dimensi-insan",
+      "type": "text",
+      "text": "### 👤 4 Dimensi Hakikat Insan\n1. **Ruh:** Bernafaskan Asma Allah & Panggilan Fitrah\n2. **Jasad:** Fisik Sehat, Halal Thayyib & Gerak Motorik\n3. **Akal:** Nalar Kritis, Tadabbur & Ilmu Bermanfaat\n4. **Nafs:** Jiwa yang Ditanamkan Taubat & Tazkiyah",
+      "x": -800,
+      "y": 200,
+      "width": 360,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "node-metode-tadarruj",
+      "type": "text",
+      "text": "### 🔄 Kaidah Metode Nabawi: Tadarruj\n• **Berorientasi Proses:** Bukan Angka Rapor Semu\n• **Naik Turun Gas:** Fleksibel Menyesuaikan Ritme Jiwa\n• **Teladan Nyata:** Qudwah Hasanah Sebelum Instruksi Lisan\n• **Bahasa Cinta:** Mengisi Tangki Batin Sebelum Mendisiplinkan",
+      "x": -240,
+      "y": 200,
+      "width": 480,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "node-target-output",
+      "type": "text",
+      "text": "### 🎯 4 Pilar Luaran (Output)\n1. **Akhlaq Karimah:** Kehalusan Tutur & Sikap\n2. **Adab Nabawi:** Tata Krama Ibadah & Belajar\n3. **Ilmu Nafi':** Wawasan Luas Pemakmur Bumi\n4. **Amal Shalih:** Karya Nyata Pemikul Ummah",
+      "x": 440,
+      "y": 200,
+      "width": 360,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "group-sektor3",
+      "type": "group",
+      "label": "SEKTOR 3: TANGGA FITRAH 4 ETAPE USIA NABAWIYAH",
+      "x": -850,
+      "y": 620,
+      "width": 1700,
+      "height": 360,
+      "color": "3"
+    },
+    {
+      "id": "node-thufulah",
+      "type": "text",
+      "text": "### 👶 1. Thufulah (0–7 Th)\n*Masa Kelekatan & Kasih Sayang*\n• **Bahasa Hati 100%**\n• Bebas Hisab & Beban Kaku\n• Bermain Bebas di Alam\n• Pengisian Tangki Cinta Penuh",
+      "x": -800,
+      "y": 680,
+      "width": 360,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "node-tamyiz",
+      "type": "text",
+      "text": "### 👦 2. Tamyiz (7–10 Th)\n*Masa Nalar & Pembiasaan Adab*\n• **Bahasa Lisan yang Lembut**\n• Latihan Shalat 3 Tahun (5000+ kali)\n• Dialog Sebab-Akibat\n• Observasi Minat & Rukun 3A",
+      "x": -380,
+      "y": 680,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "node-murahaqah",
+      "type": "text",
+      "text": "### 🧑 3. Murahaqah (10–15 Th)\n*Masa Disiplin & Pemagangan*\n• **Bahasa Tangan Berbatas Syariat**\n• Pisah Ranjang & Penjagaan Muru'ah\n• Penugasan Tanggung Jawab Nyata\n• Pengasahan Bakat Spesifik",
+      "x": 40,
+      "y": 680,
+      "width": 360,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "node-syabab",
+      "type": "text",
+      "text": "### 👨‍🎓 4. Syabab (15+ Th)\n*Kemitraan Aqil-Baligh & Karya*\n• **Sahabat Kemitraan (Ukhuwwah)**\n• Memikul Beban Hisab (Mukallaf)\n• Kemandirian Finansial & Sosial\n• Kontribusi Dakwah Peradaban",
+      "x": 460,
+      "y": 680,
+      "width": 360,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "group-sektor4",
+      "type": "group",
+      "label": "SEKTOR 4: PERAN PENDIDIK & KEDISIPLINAN WASATHIYAH",
+      "x": -850,
+      "y": 1040,
+      "width": 1700,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node-peran-ayah",
+      "type": "text",
+      "text": "### 👨 Peran Ayah\n**Qawwam & Visioner**\n• Penanggung Jawab Aqidah\n• Pemberi Nafkah Halal\n• Penegak Prinsip & Muru'ah",
+      "x": -800,
+      "y": 1100,
+      "width": 320,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "node-peran-bunda",
+      "type": "text",
+      "text": "### 👩 Peran Bunda\n**Madrasatul Ula**\n• Pemuas Tangki Cinta Batin\n• Pembiasaan Adab Harian\n• Penjaga Kehangatan Rumah",
+      "x": -420,
+      "y": 1100,
+      "width": 320,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "node-peran-guru",
+      "type": "text",
+      "text": "### 👨‍🏫 Peran Guru / Lembaga\n**Mitra Murabbi**\n• Transmisi Ilmu Terstruktur\n• Ekosistem Bebas Perundungan\n• Fasilitator Lab Bakat Terbuka",
+      "x": -40,
+      "y": 1100,
+      "width": 320,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "node-wasathiyah-disiplin",
+      "type": "text",
+      "text": "### ⚖️ Kedisiplinan Wasathiyah\n**Tafrith (Lalai):** Pembiaran tanpa batas $\\rightarrow$ Generasi rapuh\n**Ifrath (Keras):** Hukuman fisik & bentakan $\\rightarrow$ Luka batin & munafik\n**Wasathiyah:** Ketegasan berbalut kelembutan, memanusiakan anak.",
+      "x": 360,
+      "y": 1100,
+      "width": 440,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "group-sektor5",
+      "type": "group",
+      "label": "SEKTOR 5: TARGET AKHIR & JEJAK PERADABAN",
+      "x": -850,
+      "y": 1500,
+      "width": 1700,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "node-target-akhir",
+      "type": "text",
+      "text": "## 🏆 TARGET PARIPURNA PENDIDIKAN KARAKTER NABAWIYAH\n### Lahirnya Generasi Mukallaf yang Beriman Kokoh, Mandiri Beramal, Beradab Luhur, dan Berkarya Sesuai Panggilan Fitrah Penciptaannya (*Kullun Muyassarun Lima Khuliqa Lahu*).\n\n*Selamat di Dunia, Mulia di Hadapan Allah di Akhirat.*",
+      "x": -700,
+      "y": 1560,
+      "width": 1400,
+      "height": 180,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-sum-kur",
+      "fromNode": "node-sumber",
+      "fromSide": "right",
+      "toNode": "node-kurikulum-core",
+      "toSide": "left",
+      "label": "Mengalirkan Dalil"
+    },
+    {
+      "id": "e-kom-kur",
+      "fromNode": "node-komponen",
+      "fromSide": "left",
+      "toNode": "node-kurikulum-core",
+      "toSide": "right",
+      "label": "Membentuk Struktur"
+    },
+    {
+      "id": "e-kur-sub",
+      "fromNode": "node-kurikulum-core",
+      "fromSide": "bottom",
+      "toNode": "node-sub-kurikulum",
+      "toSide": "top"
+    },
+    {
+      "id": "e-sub-met",
+      "fromNode": "node-sub-kurikulum",
+      "fromSide": "bottom",
+      "toNode": "node-metode-tadarruj",
+      "toSide": "top"
+    },
+    {
+      "id": "e-insan-met",
+      "fromNode": "node-dimensi-insan",
+      "fromSide": "right",
+      "toNode": "node-metode-tadarruj",
+      "toSide": "left"
+    },
+    {
+      "id": "e-met-out",
+      "fromNode": "node-metode-tadarruj",
+      "fromSide": "right",
+      "toNode": "node-target-output",
+      "toSide": "left"
+    },
+    {
+      "id": "e-thuf-tam",
+      "fromNode": "node-thufulah",
+      "fromSide": "right",
+      "toNode": "node-tamyiz",
+      "toSide": "left"
+    },
+    {
+      "id": "e-tam-mur",
+      "fromNode": "node-tamyiz",
+      "fromSide": "right",
+      "toNode": "node-murahaqah",
+      "toSide": "left"
+    },
+    {
+      "id": "e-mur-sya",
+      "fromNode": "node-murahaqah",
+      "fromSide": "right",
+      "toNode": "node-syabab",
+      "toSide": "left"
+    },
+    {
+      "id": "e-etape-ayah",
+      "fromNode": "node-thufulah",
+      "fromSide": "bottom",
+      "toNode": "node-peran-ayah",
+      "toSide": "top"
+    },
+    {
+      "id": "e-etape-bunda",
+      "fromNode": "node-tamyiz",
+      "fromSide": "bottom",
+      "toNode": "node-peran-bunda",
+      "toSide": "top"
+    },
+    {
+      "id": "e-etape-guru",
+      "fromNode": "node-murahaqah",
+      "fromSide": "bottom",
+      "toNode": "node-peran-guru",
+      "toSide": "top"
+    },
+    {
+      "id": "e-etape-wasat",
+      "fromNode": "node-syabab",
+      "fromSide": "bottom",
+      "toNode": "node-wasathiyah-disiplin",
+      "toSide": "top"
+    },
+    {
+      "id": "e-disiplin-final",
+      "fromNode": "node-wasathiyah-disiplin",
+      "fromSide": "bottom",
+      "toNode": "node-target-akhir",
+      "toSide": "top"
+    },
+    {
+      "id": "e-guru-final",
+      "fromNode": "node-peran-guru",
+      "fromSide": "bottom",
+      "toNode": "node-target-akhir",
+      "toSide": "top"
+    }
+  ]
+}

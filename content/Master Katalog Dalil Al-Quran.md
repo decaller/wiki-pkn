@@ -6,6 +6,7 @@ tags:
   - katalog
   - tafsir
   - openbayan
+description: "Kajian komprehensif Master Katalog Dalil Al-Quran dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

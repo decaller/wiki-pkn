@@ -6,6 +6,7 @@ tags:
   - akil_baligh
   - generasi_peradaban
   - manhaj_nabawi
+description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

@@ -1,5 +1,10 @@
 ---
 title: "Referensi Kajian Video"
+description: "Direktori Video Ceramah PKN: indeks 122 rekaman kajian Ustadz Abdul Kholiq lengkap dengan navigasi timestamp topik."
+tags:
+  - kajian-video
+  - multimedia
+  - arsip-ceramah
 ---
 
 

@@ -75,6 +75,11 @@
                 "icon": "universal-access",
                 "children": [
                   {
+                    "title": "Pangkalan Data TB-40 (Bases)",
+                    "icon": "database",
+                    "children": []
+                  },
+                  {
                     "title": "Bekerja Keras",
                     "icon": "universal-access",
                     "children": []
@@ -244,7 +249,6 @@
               }
             ]
           },
-
           {
             "title": "Internal & Eksternal",
             "icon": "tools",

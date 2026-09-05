@@ -1,5 +1,9 @@
 ---
 title: Arahan Teknis Implementasi
+description: "Kajian komprehensif Arahan Teknis Implementasi dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+tags:
+  - pendidikan-karakter
+  - fitrah-nabawiyah
 ---
 
 

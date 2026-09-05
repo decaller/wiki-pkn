@@ -1,5 +1,10 @@
 ---
 title: "Bersatunya Ruh dan Jasad Membentuk Jiwa"
+description: "Integrasi Ruh, Jasad, dan Nafs: membedah anatomi penciptaan manusia dan keseimbangan asupan nutrisi batiniah."
+tags:
+  - hakikat-insan
+  - ruh-jasad
+  - jiwa
 ---
 
 

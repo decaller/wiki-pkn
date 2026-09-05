@@ -1,5 +1,10 @@
 ---
 title: FAQ Ringkas
+description: "Tanya Jawab Ringkas PKN: solusi cepat atas problematika umum pengasuhan anak harian di rumah dan sekolah."
+tags:
+  - faq
+  - panduan-praktis
+  - tanya-jawab
 ---
 
 

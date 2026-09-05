@@ -1,5 +1,10 @@
 ---
 title: "Fase Euforia"
+description: "Dekonstruksi Jebakan Euforia: bahaya candu piala dan sanjungan semu yang merusak keikhlasan serta kemurnian fitrah beramal."
+tags:
+  - dekonstruksi-mitos
+  - euforia
+  - ikhtiar-ikhlas
 ---
 
 

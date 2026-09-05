@@ -1,5 +1,9 @@
 ---
 title: Insight & Teknis
+description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+tags:
+  - pendidikan-karakter
+  - fitrah-nabawiyah
 ---
 
 

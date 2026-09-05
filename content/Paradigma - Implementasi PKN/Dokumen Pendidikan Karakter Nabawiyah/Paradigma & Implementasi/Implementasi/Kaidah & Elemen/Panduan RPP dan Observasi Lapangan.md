@@ -8,6 +8,7 @@ tags:
   - instrumen-penilaian
   - indeks-karakter
   - tb40
+description: "Kajian komprehensif Panduan RPP dan Observasi Lapangan dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

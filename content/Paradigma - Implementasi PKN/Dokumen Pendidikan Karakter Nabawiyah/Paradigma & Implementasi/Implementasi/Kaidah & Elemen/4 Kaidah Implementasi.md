@@ -6,6 +6,7 @@ tags:
   - tadarruj
   - qudwah
   - rahmah
+description: "Empat Kaidah Emas PKN: satu anak satu kurikulum, tadarruj bertahap, teladan sebelum arahan, dan asah bakat dominan."
 ---
 
 

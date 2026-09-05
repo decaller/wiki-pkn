@@ -1,5 +1,9 @@
 ---
 title: "Fitrah (Karakter)"
+description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+tags:
+  - pendidikan-karakter
+  - fitrah-nabawiyah
 ---
 
 

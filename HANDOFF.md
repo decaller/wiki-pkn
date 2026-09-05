@@ -353,4 +353,42 @@ wiki-pkn/
 3. **Diagram Visual Interaktif (Mermaid & SVG):**
    - Memperbanyak visualisasi bagan kausalitas amal, pohon fitrah, dan matriks polarisasi bakat pada artikel-artikel hub level atas (*Insan*, *Pendidikan Ideal*, *Implementasi*).
 
+---
+
+### Milestone 34: Integrasi Riset Qaf AI & Pengayaan Paripurna Seluruh Konten (Zero Deletion) `[SELESAI]`
+- **Integrasi Mesin Riset Turats Qaf AI (`qaf_wrapper`):** Menghubungkan SDK Python Qaf AI dan mengekstrak 320+ rujukan maraji' kitab klasik (Ibnul Qayyim, Al-Ghazali, Ibnu Hajar, Imam Nawawi, Al-Jauzi, dll.) ke dalam `data/qaf_insights.json`.
+- **Penyelarasan 4 Etape Usia Nabawiyah (100% / 68 Artikel):** Menambahkan panduan komparatif lintas etape (*Thufulah 0–7 Th, Tamyiz 7–10 Th, Murahaqah 10–15 Th, Syabab 15+ Th*) pada 16 artikel yang sebelumnya belum memilikinya via `scripts/enrich_etape_usia.py`.
+- **Desain Instrumen Terapan & Lembar Evaluasi Mandiri (100% / 67 Artikel):** Mengimplementasikan pilar ke-6 gaya khas Ustadz Abdul Kholiq pada 34 artikel via `scripts/enrich_instrumen.py` (tabel rubrik 3-level, 3 pertanyaan reflektif muhasabah malam, dan quick win aksi hari ini).
+- **Visualisasi Diagram Alur Mermaid Bersih (66 / 68 Artikel):** Menambahkan diagram Mermaid alur logika pada 14 artikel via `scripts/enrich_mermaid.py`, disanitasi bebas dari sintaks list untuk mencegah error `Unsupported markdown: list`.
+- **Verifikasi Zero Deletion:** 43 berkas artikel diperkaya, `+1.080 baris penambahan murni, 0 baris dihapus`.
+- **Verifikasi Build:** `npx quartz build` lulus 100% (72 Markdown ter-parse, 469 web files ter-emit).
+- **Sinkronisasi Git:** Berhasil di-commit dan di-push ke branch `main` GitHub (commit `940d722`).
+
+---
+
+### Milestone 35: Fitur Lanjutan Quartz, Obsidian Canvas, Analisis pub.insantaqwa.org, dan Pangkalan Data TB40 Bases `[SELESAI]`
+- **Kloning & Analisis Mendalam `pub.insantaqwa.org`:**
+  - Mengkloning repositori interaktif ke `old_backup/pub.insantaqwa.org/` (memuat 14 simulasi/visualisasi HTML interaktif dan aplikasi Vite `bakat/`).
+  - Menghasilkan dokumen analisis komprehensif [INSANTAQWA_ANALYSIS.md](file:///home/abuhafi/Project/wiki-pkn/INSANTAQWA_ANALYSIS.md) yang memetakan seluruh visualisasi ke halaman Wiki PKN terkait beserta rekomendasi penyematan iframe/komponen.
+- **Obsidian Canvas Bagan Alur Manhaj PKN (`content/Pendidikan Karakter Nabawiyah.canvas`):**
+  - Menganalisis bagan poster resmi 16MB `old_backup/official_docs/Pendidikan Karakter Nabawiyah_1.pdf` dengan AI Vision (`gemini-2.5-flash`).
+  - Membangun berkas Obsidian Canvas resmi berstandar JSON (`content/Pendidikan Karakter Nabawiyah.canvas`) dengan 22 nodes, 15 edges, dan 5 kluster hierarkis sistematis (Sumber & Komponen, Dimensi Insan & Metode Tadarruj, 4 Etape Usia, Peran Pendidik Tripartit & Disiplin Wasathiyah, serta Target Akhir Peradaban).
+- **Pangkalan Data TB40 Bases & 40 Catatan Profil Karakter:**
+  - Mengekstrak data resmi dari `/home/abuhafi/Project/observasi-karakter-api/api-tb40-explore/api/v0.1/tb40/calculation.json` via `scripts/generate_tb40_bases.py`.
+  - Menerbitkan 40 catatan profil individual (`01-himmah.md` s/d `40-tawaadhu.md`) dengan frontmatter terstruktur (`no`, `name`, `arab`, `arti`, `rumpun`, `tafrith`, `ifrath`, `profesi`, `jurusan`, `tags`) di folder `content/.../Bakat/TB40/`.
+  - Membangun berkas Obsidian Base `TB40.base` (mendukung tampilan Tabel, Kartu, dan Kanban Board berdasarkan 6 rumpun bakat) serta hub navigasi `TB40/index.md` dan tautan `nav_structure.json`.
+- **Aktivasi & Optimalisasi Fitur Quartz v5 (`quartz.config.yaml`):**
+  - **Base URL & Lingkungan:** Menetapkan `baseUrl: wikipkn.insanmustaqbal.or.id`, membuat berkas `.env` dan memperbarui `.env.example`.
+  - **Palet Warna Nabawiyah (Earth & Emerald):** Menerapkan kombinasi warna elegan Coklat-Hijau Nabawiyah (Parchment `#fbf8f3`, Walnut Brown `#3d312a`, Emerald `#2d6a4f` pada light mode; Charcoal Espresso `#1a1714`, Ivory Linen `#ded5cb`, Luminous Mint `#52b788` pada dark mode) yang nyaman untuk membaca jangka panjang.
+  - **Bibliografi Akademik Sitasi (`citations`):** Membuat `bibliography.bib` di root repositori untuk sitasi turats klasik dan standar kelembagaan PKN.
+  - **Giscus Komentar Komunitas:** Mengaktifkan plugin `comments` berbasis GitHub Discussions (`decaller/wiki-pkn`, repositori ID dan kategori ID siap diisi).
+  - **Stacked Pages:** Mengaktifkan navigasi halaman bertumpuk khas Andy Matuschak / Obsidian Publish (`priority: 50`).
+  - **Recent Notes (Khusus Halaman Beranda):** Menambahkan kondisi kustom `"only-index"` di `quartz/plugins/loader/conditions.ts` sehingga `recent-notes` tampil eksklusif di bagian tengah halaman utama (`index.md`) tanpa mengotori halaman artikel lainnya.
+  - **Tag List:** Mengaktifkan `tag-list` di bawah header artikel (`beforeBody, priority: 30`).
+  - **Footer Bersih:** Menghapus tautan Discord non-aktif dan memperbarui tautan footer ke repositori GitHub, SOTAB HEBAT, dan Insan Mustaqbal.
+- **Pengayaan Frontmatter Deskripsi & Tag:** Mengisi ringkasan semantik `description:` dan taksonomi `tags:` terstruktur pada seluruh 68 berkas artikel via `scripts/enrich_metadata_tags.py`.
+- **Verifikasi Build:** `npx quartz build` memproses 113 berkas Markdown dan menerbitkan 659 berkas web statis ke `public/` dengan status 100% sukses.
+
+
+
 

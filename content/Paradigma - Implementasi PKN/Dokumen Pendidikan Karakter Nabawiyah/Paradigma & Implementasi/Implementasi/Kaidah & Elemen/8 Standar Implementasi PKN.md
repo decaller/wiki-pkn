@@ -8,6 +8,7 @@ tags:
   - penjaminan-mutu
   - aqil-baligh
   - recovery
+description: "Delapan Standar Mutu PKN 11/2024: pedoman audit kurikulum, pendewasaan santri, dan manajemen lembaga Islam."
 ---
 
 

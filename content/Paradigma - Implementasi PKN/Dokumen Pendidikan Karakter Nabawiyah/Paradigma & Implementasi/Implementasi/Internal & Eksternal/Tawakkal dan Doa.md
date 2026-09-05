@@ -1,5 +1,10 @@
 ---
 title: "Tawakkal dan Doa"
+description: "Senjata Ruhiyah Tarbiyah: perimbangan ikhtiar optimal dan kepasrahan total melalui munajat sepertiga malam terakhir."
+tags:
+  - ruhiyah
+  - doa
+  - tawakkal
 ---
 
 

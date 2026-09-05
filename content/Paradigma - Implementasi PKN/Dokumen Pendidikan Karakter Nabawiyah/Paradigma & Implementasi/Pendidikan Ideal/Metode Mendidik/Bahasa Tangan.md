@@ -6,6 +6,7 @@ tags:
   - murahaqah
   - ta'dib
   - disiplin_positif
+description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, larangan memukul wajah, dan sanksi edukatif tanpa mempermalukan."
 ---
 
 

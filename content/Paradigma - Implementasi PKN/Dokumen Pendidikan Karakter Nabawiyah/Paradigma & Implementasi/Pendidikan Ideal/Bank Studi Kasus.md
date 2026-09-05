@@ -1,5 +1,9 @@
 ---
 title: "Bank Studi Kasus"
+description: "Kajian komprehensif Bank Studi Kasus dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+tags:
+  - pendidikan-karakter
+  - fitrah-nabawiyah
 ---
 
 

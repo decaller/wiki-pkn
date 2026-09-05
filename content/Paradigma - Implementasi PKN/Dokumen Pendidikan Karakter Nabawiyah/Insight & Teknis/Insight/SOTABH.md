@@ -1,5 +1,10 @@
 ---
 title: "SOTABH"
+description: "Metodologi SOTAB HEBAT: panduan praktis observasi sifat alami anak dan validasi bakat melalui Rukun 3A."
+tags:
+  - sotabh
+  - observasi-bakat
+  - rukun-3a
 ---
 
 

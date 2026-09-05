@@ -5,6 +5,7 @@ tags:
   - elemen_implementasi
   - arsitektur_pkn
   - kurikulum_fitrah
+description: "Kajian komprehensif 4 Elemen Implementasi dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
 

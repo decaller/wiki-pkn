@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: id-ID
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: wikipkn.insanmustaqbal.or.id
   ignorePatterns:
     - private
     - templates
@@ -21,24 +21,24 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fbf8f3"
+        lightgray: "#ede5d8"
+        gray: "#b5a797"
+        darkgray: "#3d312a"
+        dark: "#261e18"
+        secondary: "#2d6a4f"
+        tertiary: "#52796f"
+        highlight: rgba(45, 106, 79, 0.12)
+        textHighlight: "#e9c46a88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#1a1714"
+        lightgray: "#2d2621"
+        gray: "#796d63"
+        darkgray: "#ded5cb"
+        dark: "#f5efe6"
+        secondary: "#52b788"
+        tertiary: "#74c69d"
+        highlight: rgba(82, 183, 136, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -87,7 +87,9 @@ plugins:
       renderEngine: katex
     order: 80
   - source: "@quartz-community/citations"
-    enabled: false
+    enabled: true
+    options:
+      bibliographyFile: "./bibliography.bib"
     order: 85
   - source: "@quartz-community/hard-line-breaks"
     enabled: false
@@ -169,7 +171,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -197,10 +199,19 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: decaller/wiki-pkn
+        repoId: ""
+        category: General
+        categoryId: ""
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: bottom
+        lang: id
     layout:
       position: afterBody
       priority: 10
@@ -208,13 +219,22 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/decaller/wiki-pkn
+        SOTAB HEBAT: https://sotabh.com
+        Insan Mustaqbal: https://insanmustaqbal.or.id
     layout:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: "Materi Baru & Terakhir Diperbarui"
+      limit: 5
+      showTags: true
+    layout:
+      position: afterBody
+      priority: 20
+      condition: only-index
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -257,7 +277,7 @@ plugins:
       outputPath: static/encryptedContentIndex.json
     order: 900
   - source: "@quartz-community/stacked-pages"
-    enabled: false
+    enabled: true
     layout:
       position: afterBody
       priority: 50
