@@ -4,6 +4,12 @@ title: "Batas Toleransi"
 
 # Batas Toleransi: Penegakan Hima dan Zonasi Batasan Perilaku
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam kerangka Pendidikan Karakter Nabawiyah (PKN), **Batas Toleransi** adalah prinsip penegakan batas wilayah (*boundary setting*) yang memadukan antara kelonggaran fitrah bermain dengan ketegasan hukum syariat. Kata kunci nabawiyah yang mendasari konsep ini adalah **Al-Hima**—yakni "tanah larangan suci" yang dipagari oleh seorang penggembala agar ternaknya tidak memakan tanaman terlarang. Dalam pendidikan anak, batas toleransi berfungsi bagaikan pagar pelindung di tepi jurang: pagar itu tidak bertujuan mengekang kebebasan anak bermain di hamparan padang rumput, melainkan mencegahnya agar tidak terpeleset jatuh ke jurang kebinasaan.
 
 Pendidikan modern sering kali terjebak dalam dua ekstrem yang merusak: **Otoritarianisme Kaku** yang tidak memiliki toleransi sama sekali sehingga mencekik fitrah anak, atau **Permisivisme Ekstrem** (*gentle parenting* tanpa batas) yang menoleransi segala keburukan hingga anak tumbuh menjadi pribadi tanpa batas moral (*entitled & undisciplined*). PKN menerapkan pendekatan *Wasathiyah* (moderat-proporsional) yang bertahap sesuai dengan kematangan nalar dan fase usia anak.
@@ -96,3 +102,17 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
 * [[Metode Mendidik]] — Seni memadukan kelembutan hati dengan ketegasan aturan.
 * [[Luka dan Hutang Pengasuhan]] — Dampak batas yang terlalu menindas atau terlalu abai.
 * [[Thufulah]] — Kebijakan kelonggaran pemaafan pada usia dini (0–7 tahun).
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *4. METODE PENDIDIKAN KARAKTER NABAWIYAH*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–38 (Piramida Tiga Bahasa Mendidik, Kaidah Penegakan Batas Toleransi, & Imunitas Sosial)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (10.8 MB)](https://www.dropbox.com/scl/fi/ek8ggskgiuxailx94rek1/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pdf?rlkey=fkmrh2p89fkebuz0bf15tyip4&dl=1) • [📊 Unduh PPTX Asli (24.9 MB)](https://www.dropbox.com/scl/fi/ev1k0fq14pjn5xd3gpazj/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pptx?rlkey=nq1anr4vj64jws4n3jio2uhlg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/ek8ggskgiuxailx94rek1/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pdf?rlkey=fkmrh2p89fkebuz0bf15tyip4&dl=0)
+>
+> - **Materi:** *3. Pembelajaran Alamiyah*
+>   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+

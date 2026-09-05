@@ -4,6 +4,12 @@ title: Beranda Utama
 
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan komprehensif yang merekonstruksi paradigma, kurikulum, metodologi, dan implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan para ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
 > [!quote] Dalil Utama Manhaj PKN: Pentahapan Shalat & Tiga Bahasa Mendidik
@@ -164,3 +170,17 @@ Wiki PKN terintegrasi penuh dengan dua basis data ilmiah pelengkap:
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *1. Mengembalikan Pendidikan ke Asalnya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 12–35 (Pondasi Hakiki Pendidikan, Pemakmur Bumi & 5 Rantai Kausalitas Amal)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (16.2 MB)](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=1) • [📊 Unduh PPTX Asli (21.6 MB)](https://www.dropbox.com/scl/fi/7tr7sclrokirbdi53i1k7/1.-Mengembalikan-Pendidikan-ke-asalnya.pptx?rlkey=yvzin1fsnr1uw8chd1v7f6d8h&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/51xv1fqskyyv8pu3i6nyd/1.-Mengembalikan-Pendidikan-ke-asalnya.pdf?rlkey=uxh4fwjnaqloraoxfvsju2dkc&dl=0)
+>
+> - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
+

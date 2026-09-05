@@ -4,6 +4,12 @@ title: "Fase Euforia"
 
 # Fase Euforia: Mengelola Ledakan Emosi dan Jebakan Faddisme Pengasuhan
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam peta patologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Fase Euforia** merujuk pada dua fenomena psikososial yang sangat kritis: **(1) Sindrom Euforia Orang Tua Baru Hijrah**, yakni ledakan antusiasme emosional yang berlebihan tatkala orang tua baru mengenal konsep parenting nabawiyah lalu menerapkan perubahan drastis secara tergesa-gesa tanpa hikmah; serta **(2) Sindrom Euforia Pelepasan Remaja**, yakni ledakan keliaran perilaku yang dialami anak tatkala ia tiba-tiba terbebas dari penindasan disiplin kaku masa kecilnya (*rebound effect*).
 
 Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah nabawiyah: **At-Tadarruj (Bertahap)** dan **Al-Istiqamah (Konsistensi Berkelanjutan)**. Rasulullah ﷺ sangat mencintai amalan yang dilakukan secara berkesinambungan meskipun kuantitasnya sedikit (*adwamuha wa in qalla*). Segala bentuk perubahan karakter yang dipicu semata-mata oleh luapan emosi sesaat tanpa akar keilmuan dan kesabaran yang mendalam niscaya akan layu dengan cepat, menyisakan kelelahan mental (*burnout*), rasa bersalah, dan luka pengasuhan yang lebih parah.
@@ -90,3 +96,21 @@ Jika generasi terbaik sahabat saja dididik oleh wahyu secara bertahap, bagaimana
 * [[4 Kaidah Implementasi]] — Prinsip Tadarruj (bertahap) dan Taisir (kemudahan).
 * [[Tangki Cinta]] — Menambal kebocoran batin pencegah ledakan euforia remaja.
 * [[Batas Toleransi]] — Menegakkan pagar hima yang proporsional dan tidak menindas.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *3. PEMULIHAN KARAKTER (Materi 3)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 22–65 (Protokol Pemulihan Karakter, 9 Tahap Menghapus Noda Hati, Terapi Luka Batin)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (51.7 MB)](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/i4wqpb1kbveh33ln1nzkq/3.-PEMULIHAN-KARAKTER-MATERI-3.pptx?rlkey=1bauf7luniop6gjq36dtc0sh1&dl=0)
+>
+> - **Materi:** *2. Menangani Anak yang Bermasalah*
+>   - 📖 **Rujukan Slide:** Slide Hal. 10–38 (Diagnosis Masalah Anak: Perilaku Permukaan vs Luka Hati Tersembunyi)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.8 MB)](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=1) • [📊 Unduh PPTX Asli (15.4 MB)](https://www.dropbox.com/scl/fi/1jsh6r3q0e9477q0e25q2/2.-Menangani-anak-yang-bermasalah.pptx?rlkey=1x696k9m9m1j2v2q3o0p713s5&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/0gawb637j3l5p76m037o3/2.-Menangani-anak-yang-bermasalah.pdf?rlkey=26i13l75150w0nff636p311t9&dl=0)
+>
+> - **Materi:** *RECOVERY KESADARAN & PENANGANAN BULLYING*
+>   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
+

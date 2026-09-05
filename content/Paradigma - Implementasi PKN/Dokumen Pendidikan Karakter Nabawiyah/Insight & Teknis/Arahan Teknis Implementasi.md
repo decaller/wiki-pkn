@@ -4,6 +4,12 @@ title: Arahan Teknis Implementasi
 
 # Arahan Teknis Implementasi: Pedoman Operasional Pengasuhan Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dokumen ini memuat prosedur standar operasional (SOP), checklist harian, instrumen observasi, serta langkah-langkah terapan untuk mengeksekusi prinsip **Pendidikan Karakter Nabawiyah (PKN)** dalam rutinitas keluarga dan lingkungan sekolah.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Ketekunan Beramal Nyata

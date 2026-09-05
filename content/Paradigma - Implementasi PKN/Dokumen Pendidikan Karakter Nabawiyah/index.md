@@ -4,6 +4,12 @@ title: Dokumen Pendidikan Karakter Nabawiyah
 
 # Dokumen Master Pendidikan Karakter Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **Pendidikan Karakter Nabawiyah (PKN)**. Dokumen ini merangkum sintesis holistik antara dalil-dalil Al-Qur'an, as-Sunnah ash-Shahihah, khazanah tarbiyah ulama salafush shalih, serta aplikasi empiris pengasuhan berbasis fitrah di era kontemporer.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Petunjuk yang Paripurna

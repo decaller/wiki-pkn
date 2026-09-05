@@ -4,6 +4,12 @@ title: Insight Wawasan PKN
 
 # Insight: Wawasan & Refleksi Kritis Pendidikan Karakter Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan catatan lapangan dari para asatidzah serta praktisi **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini bertujuan mendekonstruksi kekeliruan mindset pengasuhan modern dan mengembalikannya ke rel keautentikan fitrah nubuwah.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Berpijak di Atas Ilmu yang Shahih

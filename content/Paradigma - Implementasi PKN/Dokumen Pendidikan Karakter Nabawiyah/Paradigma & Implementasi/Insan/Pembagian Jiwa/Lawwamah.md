@@ -4,6 +4,12 @@ title: "Nafsul Lawwamah"
 
 # Nafsul Lawwamah: Nalar Kritis, Nurani, dan Penyesalan Konstruktif
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam arsitektur psikospiritual Pendidikan Karakter Nabawiyah (PKN), **Nafsul Lawwamah** menempati posisi sentral sebagai jembatan dialektis antara keliaran biologis [[Ammarah]] dan kedamaian transenden [[Muthmainnah]]. Kata *lawwamah* berakar dari kata *lauma* (*al-laum*) yang bermakna "mencela", "mengkritik", atau "menyesali". Nafsul Lawwamah adalah kondisi jiwa yang memiliki kesadaran reflektif (*self-awareness*), nalar kritis (*fikr*), serta nurani moral (*dhamir*) yang senantiasa menimbang, mengawasi, dan mengoreksi tindakan dirinya sendiri.
 
 Allah Azza wa Jalla memuliakan entitas jiwa ini secara luar biasa dengan menjadikannya sebagai objek sumpah bersanding dengan Hari Kiamat. Sumpah ini mengisyaratkan bahwa pengadilan batin di dunia—yakni celaan nalar nurani terhadap dosa—merupakan miniatur dari pengadilan hakiki di padang mahsyar kelak. Dalam PKN, menumbuhkembangkan Nafsul Lawwamah pada anak adalah kunci melahirkan pribadi berkarakter mandiri yang memiliki integritas internal (*internal locus of control*), bukan sekadar patuh karena takut diawasi manusia.
@@ -107,3 +113,17 @@ Ketika seorang pemuda meminta fatwa halal untuk berzina, Nabi ﷺ tidak menghard
 * [[Muthmainnah]] — Muara kesadaran moral menuju ketenangan tauhid.
 * [[Bahasa Lisan]] — Seni dialog, narasi hikmah, dan komunikasi efektif.
 * [[Perkembangan/Tamyiz]] — Fase keemasan mengasah logika dan kemandirian nalar (7–10 tahun).
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Materi Seminar 1: Kondisi Jiwa Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 18–45 (Persenyawaan Ruh & Jasad, Dinamika 3 Tingkat Jiwa: Ammarah, Lawwamah, Muthmainnah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (19.3 MB)](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=0)
+>
+> - **Materi:** *1. Jiwa dan Metode Mendidiknya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+

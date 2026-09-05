@@ -10,6 +10,12 @@ tags:
 
 # 📖 Master Katalog Dalil Al-Qur'an untuk Seluruh Tema & Halaman Wiki PKN
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (exhaustive mapping)** dalil-dalil Al-Qur'an yang relevan dengan setiap tema bahasan di seluruh berkas halaman **Wiki PKN**. Pemetaan ini dilengkapi dengan teks Arab berharakat lengkap, terjemahan resmi bahasa Indonesia, takhrij surah dan nomor ayat, relevansi pedagogis dalam **Pendidikan Karakter Nabawiyah (PKN)**, serta cuplikan rujukan dari kitab klasik **Tafsir Ibnu Katsir** melalui korpus **OpenBayan** (`data/shamela_corpus.db`).
 
 > **Statistik Pemetaan:** Terindeks **59 tema halaman pokok** dengan total lebih dari **110 ayat Al-Qur'an** pilihan.

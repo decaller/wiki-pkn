@@ -4,6 +4,12 @@ title: "Nafsul Muthmainnah"
 
 # Nafsul Muthmainnah: Puncak Kedamaian Jiwa dan Kematangan Iman
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam hierarki psikospiritual Pendidikan Karakter Nabawiyah (PKN), **Nafsul Muthmainnah** merupakan puncak kesempurnaan karakter dan stasiun tertinggi (*maqam*) yang dapat dicapai oleh jiwa manusia di dunia. Berakar dari kata *thuma'ninah*, kata ini menggambarkan kondisi batin yang mantap, tenang, tidak bergoncang oleh badai fitnah, dan selamat dari keraguan (*syubhat*) maupun jeratan hawa nafsu (*syahwat*). Nafsul Muthmainnah adalah kondisi jiwa yang telah disucikan (*tazkiyatun nafs*), di mana nurani ruh memimpin seluruh anggota jasad dan nalar akal dengan penuh harmoni di bawah naungan wahyu Ilahi.
 
 Pendidikan Karakter Nabawiyah menegaskan bahwa kepribadian anak yang tangguh, berakhlak mulia, dan siap memikul beban syariat (*mukallaf*) hanya dapat lahir dari jiwa yang telah merasakan manisnya ketenangan iman (*thuma'ninatul iman*). Inilah jiwa yang disapa secara mesra oleh Allah Subhanahu wa Ta'ala tatkala sakaratul maut tiba untuk memasuki surga-Nya dalam keadaan ridha dan diridhai.
@@ -99,3 +105,17 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 * [[Lawwamah]] — Nalar kritis yang menghantarkan menuju thuma'ninah.
 * [[Tangki Cinta]] — Wadah emosional pengasuhan pemenuh jiwa muthmainnah.
 * [[Bahasa Hati]] — Seni koneksi batin dan bahasa kelembutan nabawiyah.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Materi Seminar 1: Kondisi Jiwa Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 18–45 (Persenyawaan Ruh & Jasad, Dinamika 3 Tingkat Jiwa: Ammarah, Lawwamah, Muthmainnah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (19.3 MB)](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=0)
+>
+> - **Materi:** *1. Jiwa dan Metode Mendidiknya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+

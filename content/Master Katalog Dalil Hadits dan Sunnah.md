@@ -10,6 +10,12 @@ tags:
 
 # Master Katalog Dalil & Rujukan Nabawiyah Wiki PKN
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu Katsir, dan Syarah Klasik*) yang diekstraksi dari korpus **OpenBayan** (`data/shamela_corpus.db`) untuk setiap topik bahasan di **Wiki PKN**.
 
 > **Total Entri Terindeks:** 44 berkas halaman materi pokok.

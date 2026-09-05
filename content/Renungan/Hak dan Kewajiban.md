@@ -4,6 +4,12 @@ title: "Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 
 
 # Hak Ananda yang Tak TertuntaskanKita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
 > « إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلِأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ »

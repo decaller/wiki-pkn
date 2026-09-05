@@ -4,6 +4,12 @@ title: Internal & Eksternal
 
 # Faktor Internal & Eksternal dalam Pendidikan Karakter Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Keberhasilan pembentukan karakter anak adalah hasil harmonisasi antara **Faktor Internal** (kesucian batiniah dan kualitas spiritual pendidik) dengan **Faktor Eksternal** (ikhtiar nyata, doa, dan proteksi lingkungan pergaulan).
 
 > [!quote] Dalil & Rujukan Nabawiyah: Perubahan Bermula dari Dalam Jiwa

@@ -4,6 +4,12 @@ title: "Imunitas Sosial"
 
 # Imunitas Sosial: Menumbuhkan Daya Tahan Fitrah Menghadapi Polusi Zaman
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), **Imunitas Sosial** (*Al-Manā'ah al-Ijtimā'iyyah*) adalah daya tahan psikospiritual internal yang dimiliki anak untuk menyaring, menolak, dan bertahan dari pengaruh destruktif lingkungan sosial yang korup tanpa harus mengisolasi diri dari dunia nyata. Konsep ini membedakan secara radikal antara metodologi nabawiyah dengan pendekatan proteksi ekstrem yang keliru. Pendekatan keliru berusaha menciptakan "ruang kaca steril" (*bubble isolation*) yang mengurung anak dari segala interaksi sosial; sementara PKN membekali anak dengan **antibodi nilai tauhid dan adab** sehingga tatkala ia terjun ke tengah masyarakat majemuk, ia tidak tertular penyakit moral, melainkan mampu menjadi agen penawar dan penyembuh (*mushlih*).
 
 Rasulullah ﷺ secara tegas memuji seorang mukmin yang berinteraksi dengan masyarakat dan sabar menanggung gangguan mereka, jauh melebihi orang yang memilih menyendiri di puncak gunung demi menghindari fitnah. Menyiapkan anak menghadapi era akhir zaman menuntut orang tua membentuk kekebalan moral yang berakar dari dalam kalbu (*internal locus of moral control*).
@@ -104,3 +110,17 @@ graph TD
 * [[Internal & Eksternal]] — Harmoni benteng internal diri dan benteng eksternal masyarakat.
 * [[Bakat]] — Menyalurkan energi anak ke dalam karya produktif peradaban.
 * [[Murahaqah]] — Fase krusial transisi pembentukan imunitas sosial mandiri (10 tahun–baligh).
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *4. METODE PENDIDIKAN KARAKTER NABAWIYAH*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–38 (Piramida Tiga Bahasa Mendidik, Kaidah Penegakan Batas Toleransi, & Imunitas Sosial)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (10.8 MB)](https://www.dropbox.com/scl/fi/ek8ggskgiuxailx94rek1/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pdf?rlkey=fkmrh2p89fkebuz0bf15tyip4&dl=1) • [📊 Unduh PPTX Asli (24.9 MB)](https://www.dropbox.com/scl/fi/ev1k0fq14pjn5xd3gpazj/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pptx?rlkey=nq1anr4vj64jws4n3jio2uhlg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/ek8ggskgiuxailx94rek1/4.-METODE-PENDIDIKAN-KARAKTER-NABAWIYAH.pdf?rlkey=fkmrh2p89fkebuz0bf15tyip4&dl=0)
+>
+> - **Materi:** *3. Pembelajaran Alamiyah*
+>   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+

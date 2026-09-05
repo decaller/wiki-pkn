@@ -4,6 +4,12 @@ title: Insight & Teknis
 
 # Insight & Teknis Pendidikan Karakter Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Bagian **Insight & Teknis** merupakan jembatan emas yang menghubungkan antara wawasan filosofis (*insight batiniah*) dengan pedoman operasional lapangan (*panduan teknis empiris*) dalam ekosistem **Pendidikan Karakter Nabawiyah (PKN)**. 
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menyatukan Iman dan Aksi Nyata

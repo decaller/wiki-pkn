@@ -6,6 +6,12 @@ aliases:
 
 # Paradigma Insan: Peta Navigasi & Arsitektur Manusia dalam PKN
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 > [!important] Gerbang Utama Klaster Insan (Map of Content / Navigation Hub)
 > Halaman ini merupakan **Simpul Navigasi Eksekutif (*Executive Navigation Hub*)** yang memetakan seluruh ontologi, arsitektur psiko-spiritual, dan taksonomi fitrah manusia dalam Pendidikan Karakter Nabawiyah (PKN). Setiap sub-pilar di bawah klaster Insan dirancang untuk menjawab pertanyaan paling mendasar bagi orang tua dan pendidik: **"Siapakah hakikat anak yang sedang kita didik, ke mana arah perkembangannya, dan bagaimana mengantarkannya mencapai kematangan akil-baligh yang paripurna?"**
 
@@ -200,3 +206,17 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
   * [[Implementasi]] — Standar eksekusi kurikulum keluarga dan sinergi segitiga emas pendidikan.
   * [[8 Standar Implementasi PKN]] — Kaidah mutu pendidikan karakter di rumah dan sekolah.
   * [[Panduan RPP dan Observasi Lapangan]] — Instrumen teknis asesmen karakter harian berbasis rubrik 3A.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Materi Seminar 1: Kondisi Jiwa Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 18–45 (Persenyawaan Ruh & Jasad, Dinamika 3 Tingkat Jiwa: Ammarah, Lawwamah, Muthmainnah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (19.3 MB)](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=0)
+>
+> - **Materi:** *1. Jiwa dan Metode Mendidiknya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+

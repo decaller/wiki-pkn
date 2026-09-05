@@ -4,6 +4,12 @@ title: "Paradigma - Implementasi PKN"
 
 # Paradigma & Implementasi Pendidikan Karakter Nabawiyah (PKN)
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 > [!important] Gerbang Utama Seluruh Korpus Dokumen PKN (Master Portal Hub)
 > Halaman ini merupakan **Pintu Gerbang Utama (*Master Hub*)** bagi seluruh struktur dokumen, metodologi, standar operasional, dan materi panduan Pendidikan Karakter Nabawiyah (PKN). Disusun secara komprehensif untuk menyatukan visi teologis-filosofis (*Paradigma*) dengan panduan tindakan praktis di rumah, sekolah, dan ma'had (*Implementasi*).
 

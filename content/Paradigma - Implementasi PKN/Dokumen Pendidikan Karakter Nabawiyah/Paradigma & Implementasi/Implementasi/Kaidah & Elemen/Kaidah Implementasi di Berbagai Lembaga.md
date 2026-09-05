@@ -11,6 +11,12 @@ tags:
 
 # Kaidah Implementasi PKN dalam Berbagai Lembaga
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Penerapan kurikulum Pendidikan Karakter Nabawiyah (PKN) pada institusi pendidikan formal maupun non-formal—seperti Sekolah Islam Terpadu (SIT), Madrasah, Pondok Pesantren/Ma'had, hingga Komunitas Homeschooling—memiliki dinamika tantangan yang berbeda dengan penerapan di ranah domestik keluarga. Lembaga pendidikan melibatkan banyak pemangku kepentingan (*stakeholders*): yayasan pemilik modal, dewan guru senior, kurikulum dinas pemerintah, ekspektasi orang tua wali santri, hingga budaya birokrasi yang telah mengakar puluhan tahun.
 
 Para perumus manhaj PKN (Ustadz Abdul Kholiq dan Bayu Issetyadi) dalam dokumen resmi *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* menegaskan bahwa peralihan menuju sistem nabawiyah tidak boleh dilakukan secara serampangan, emosional, atau revolusioner frontal. Pengelola lembaga wajib mengadopsi **5 Kaidah Emas Strategi Adopsi** yang berakar kuat pada kaidah ushul fiqih Islam, didukung oleh **4 Tingkatan Evolusi Kelembagaan**.
@@ -119,3 +125,25 @@ Berdasarkan klausul audit resmi, terdapat 6 standar penjaminan mutu kelembagaan 
 * [[Implementasi]] — Paradigma menyeluruh implementasi kurikulum PKN.
 * [[Benang Merah Pendidikan]] — Kritik terhadap sistem schooling pabrik Prusia.
 * [[Recovery]] — Penanganan kelembagaan terhadap ketidaksesuaian perkembangan santri.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Standar Implementasi PKN 11-2024 (Rev 04)*
+>   - 📖 **Rujukan Slide:** Dokumen Manual Hal. 10–48 (8 Standar Mutu PKN, Standar Pendewasaan Aqil-Baligh & Tata Kelola Lembaga)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.5 MB)](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=0)
+>
+> - **Materi:** *3. PEMBELAJARAN BERBASIS PROJEK*
+>   - 📖 **Rujukan Slide:** Slide Hal. 5–32 (Desain Pembelajaran Berbasis Proyek Karakter & Format RPP Terpadu)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=1) • [📊 Unduh PPTX Asli (27.7 MB)](https://www.dropbox.com/scl/fi/s5odch61rsyu9gxos96a9/3.-PEMBELAJARAN-BERBASIS-PROJEK.pptx?rlkey=cfru4prp5q37ag3bf4z8jhzcb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=0)
+>
+> - **Materi:** *6. Implementasi Kurikulum PKN Pada Persekolahan*
+>   - 📖 **Rujukan Slide:** Slide Hal. 8–28 (Tahapan Adopsi Kurikulum Karakter pada Sekolah, Pesantren, dan Madrasah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (1.9 MB)](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=1) • [📊 Unduh PPTX Asli (501 KB)](https://www.dropbox.com/scl/fi/d5g15b0din35v06sanzcx/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pptx?rlkey=n7o2e20svwk8p61i7fp9cvcys&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=0)
+>
+> - **Materi:** *10 MASALAH PENDIDIKAN*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+

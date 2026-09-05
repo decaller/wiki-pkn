@@ -4,6 +4,12 @@ title: "Tangki Cinta"
 
 # Tangki Cinta: Prasyarat Emosional Penanaman Karakter Nabawiyah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam psikologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Tangki Cinta** (*Emotional Love Tank*) adalah metafora wadah batin penampung rasa aman, kasih sayang, dan penghargaan tanpa syarat yang mutlak dibutuhkan oleh setiap anak untuk tumbuh secara sehat. Sebagaimana kendaraan bermotor tidak akan pernah bisa melaju tanpa bahan bakar, demikian pula jiwa seorang anak tidak akan pernah mampu menapaki jalan taklif syariat, mematuhi adab, dan mengasah bakatnya jika tangki emosionalnya berada dalam kondisi kosong (*empty tank*).
 
 Rasulullah ﷺ adalah figur pendidik agung yang senantiasa memastikan tangki cinta para sahabat ciliknya terisi penuh meluap. Beliau memeluk, mencium, memangku, membonceng, mendengarkan curahan hati, hingga bermain kuda-kudaan bersama anak-anak. PKN meletakkan kaidah fundamental: **"Koneksi Sebelum Koreksi"** (*Connection before Correction*). Orang tua tidak akan pernah memiliki otoritas wibawa untuk mendidik dan menegur perilaku anak tatkala saluran koneksi cinta antara hati orang tua dan hati anak mengalami kebuntuan.
@@ -90,3 +96,17 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 * [[Luka dan Hutang Pengasuhan]] — Mengidentifikasi kebocoran tangki cinta akibat trauma masa lalu.
 * [[Peran Ayah dan Bunda]] — Sinergi qawwamah ayah dan rahimah bunda dalam mengisi tangki anak.
 * [[Thufulah]] — Fase emas pengisian tangki cinta tanpa syarat (0–7 tahun).
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
+>
+> - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+

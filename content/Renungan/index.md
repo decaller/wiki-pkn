@@ -4,6 +4,12 @@ title: "Renungan Pengasuhan Nabawiyah"
 
 # Renungan Pengasuhan Nabawiyah: Ruang Tadabbur Jiwa Pendidik
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 > [!important] Simpul Kontemplasi & Evaluasi Diri (Reflective MOC Hub)
 > Halaman ini merupakan simpul kontemplatif bagi para orang tua dan pendidik dalam menyelami kedalaman makna pengasuhan berbasis nabawiyah. Di tengah tuntutan kurikulum, target prestasi akademis, dan dinamika keseharian keluarga, ruang renungan ini hadir untuk mengajak kita berhenti sejenak, meluruskan niat (*tashihun niyah*), serta menata ulang hati agar tidak terjebak dalam kezaliman tersembunyi terhadap fitrah anak.
 

@@ -4,6 +4,12 @@ title: "Nafsul Ammarah"
 
 # Nafsul Ammarah: Hakikat, Dinamika, dan Penaklukannya
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam khazanah psikospiritual Islam dan Pendidikan Karakter Nabawiyah (PKN), **Nafsul Ammarah** (*an-nafs al-ammarah bis-su'*) adalah manifestasi jiwa yang paling dekat dengan natur biologis jasad. Kata *ammarah* merupakan bentuk *shighah mubalaghah* dalam bahasa Arab yang berarti "sangat banyak memerintah" atau "senantiasa mendesakkan kehendak". Karakteristik dasar jiwa ammarah adalah impulsif, menuntut pemenuhan kepuasan seketika (*instant gratification*), menghindari rasa sakit, dan condong pada kelezatan ragawi.
 
 Dalam pendidikan sekuler atau mistisisme ekstrem, ammarah sering kali dipandang sebagai "musuh jahat" yang harus dimatikan atau dibungkam sepenuhnya. PKN menolak pandangan ini. Ammarah adalah **energi penggerak kehidupan (*al-quwwah al-muharrikah*)**. Tanpa ammarah, manusia tidak memiliki nafsu makan, tidak memiliki dorongan mempertahankan diri, tidak memiliki gairah berkarya, dan tidak memiliki energi juang (*grit*). Misi PKN bukanlah membunuh ammarah, melainkan menjinakkan, mendisiplinkan, dan mengarahkannya dari *Ammarah bis-Su'* (pendorong keburukan) menjadi **Ammarah bil-Khair** (pendorong amal saleh peradaban).
@@ -96,3 +102,17 @@ Rasulullah ﷺ tidak memotong energi biologis pemuda itu, melainkan mengalirkann
 * [[Muthmainnah]] — Muara akhir: ketenangan batin dalam ridha Allah.
 * [[Bahasa Tangan]] — Instrumen ketegasan dan pembiasaan fisik tanpa kekerasan.
 * [[Bakat]] — Penyaluran energi ammarah menuju 40 pilar amal peradaban.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *Materi Seminar 1: Kondisi Jiwa Anak*
+>   - 📖 **Rujukan Slide:** Slide Hal. 18–45 (Persenyawaan Ruh & Jasad, Dinamika 3 Tingkat Jiwa: Ammarah, Lawwamah, Muthmainnah)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (19.3 MB)](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/zlkox52wnhorr3gdcurh1/Materi-Seminar-1_-Kondisi-Jiwa-Anak.pdf?rlkey=dga9nc3450lfs3qbfkwzid5pw&dl=0)
+>
+> - **Materi:** *1. Jiwa dan Metode Mendidiknya*
+>   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
+>   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+

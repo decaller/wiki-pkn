@@ -4,6 +4,12 @@ title: "Fitrah Belajar"
 
 # Fitrah Belajar: Dari Kebebasan Eksplorasi Menuju Nalar Hikmah
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam paradigma Pendidikan Karakter Nabawiyah (PKN), **Fitrah Belajar dan Bernalar** (*Fitratut Ta'allum wal 'Aql*) adalah instrumen kognitif agung yang dianugerahkan Allah kepada setiap manusia untuk mengeksplorasi ayat-ayat-Nya, baik ayat kauniyah yang terhampar di alam semesta maupun ayat qauliyah yang termaktub di dalam wahyu Al-Qur'an. Manusia tidak diciptakan dalam keadaan dungu permanen; Allah membekali manusia sejak dalam rahim dengan potensi pendengaran, penglihatan, dan hati nurani (*as-sam'a wal abshara wal af'idah*) agar mereka mampu belajar dan bersyukur.
 
 Pendidikan modern bergaya industrial sering kali mereduksi fitrah belajar yang mulia ini menjadi sekadar hafalan mekanis, duduk diam mendengarkan satu arah di ruang kelas tertutup, demi mengejar standarisasi nilai ujian yang seragam. PKN merekonstruksi hakikat belajar kembali ke fitrah nabawiyah: **belajar adalah petualangan spiritual yang menyenangkan, didorong oleh rasa ingin tahu (*curiosity*) yang murni, dipandu oleh metodologi eksperimen (*tajribah*), dan bermuara pada lahirnya hikmah serta ketundukan kepada Sang Maha Mengetahui (*Al-'Alim*)**.
@@ -138,3 +144,21 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 * [[Bakat]] — Mengalirkan gairah belajar ke dalam 40 pilar kontribusi peradaban.
 * [[Tamyiz]] — Etape keemasan kematangan nalar logika anak (7–10 tahun).
 * [[Pembelajaran Alamiah]] — Prinsip belajar berbasis fitrah alam dan kehidupan nyata.
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
+>
+> - **Materi:** *BAKAT - TB - 40 (Tafsir Bakat 40 Karakter Nabawiyah)*
+>   - 📖 **Rujukan Slide:** Slide Hal. 20–85 (Konsep Al-Mauhibah, Silsilah 6 Rumpun Bakat, 18 Sub-Kelompok, & Taksonomi 40 Sifat)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (11.2 MB)](https://www.dropbox.com/scl/fi/ws2rfs4dlnhiv4zfzg4bg/2.-BAKAT-TB-40.pdf?rlkey=tw82umdj2dljhrc1h4fb0gtgt&dl=1) • [📊 Unduh PPTX Asli (8.0 MB)](https://www.dropbox.com/scl/fi/9xroycr8405dd7a0bwpi0/2.-BAKAT-TB-40.pptx?rlkey=1du37yttvbovjte96quzez1b7&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/ws2rfs4dlnhiv4zfzg4bg/2.-BAKAT-TB-40.pdf?rlkey=tw82umdj2dljhrc1h4fb0gtgt&dl=0)
+>
+> - **Materi:** *Materi Seminar 2: Kupas Tuntas Tafsir Bakat TB-40*
+>   - 📖 **Rujukan Slide:** Slide Hal. 30–120 (Formula Asesmen, Analisis Tafrith vs Ifrath, Rukun 3A, dan Pemetaan Karir Peradaban)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (24.6 MB)](https://www.dropbox.com/scl/fi/of5hkad2jl8evdbx86o2y/Materi-Seminar-2_-Tafsir-Bakat-TB-40.pdf?rlkey=m1qcgt0bmcwsjsmtvuw58m3q0&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/of5hkad2jl8evdbx86o2y/Materi-Seminar-2_-Tafsir-Bakat-TB-40.pdf?rlkey=m1qcgt0bmcwsjsmtvuw58m3q0&dl=0)
+>
+> - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
+>   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
+>   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+

@@ -4,6 +4,12 @@ title: "Fitrah Keimanan"
 
 # Fitrah Keimanan: Belajar Iman Sebelum Belajar Al-Qur'an
 
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+
+
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), **Fitrah Keimanan** adalah pondasi paling hakiki yang mendasari seluruh bangunan kepribadian insan. Al-Qur'an dan Sunnah menegaskan bahwa setiap anak lahir dengan membawa perjanjian ketuhanan yang primordial (*mitsaq al-awwal*). Jauh sebelum jasad manusia dirakit di alam rahim, seluruh ruh keturunan Adam telah dikumpulkan di hadapan Allah Ta'ala dan menyatakan sumpah kesaksian: *“Alastu birabbikum? Qalu: Balaa syahidna!”* (Bukankah Aku ini Tuhanmu? Mereka menjawab: Benar, kami bersaksi! - QS. Al-A'raf: 172).
 
 Oleh karena itu, iman bukanlah benda asing yang harus diimpor atau dipaksakan dari luar ke dalam diri anak. Iman adalah kerinduan alami batin yang tertidur, yang menanti dibangunkan melalui sentuhan kasih sayang, keteladanan orang tua (*qudwah hasanah*), dan pembiasaan adab yang indah. PKN merumuskan kaidah emas pendidikan tauhid nabawiyah: **"Mempelajari Iman Sebelum Mempelajari Al-Qur'an"**—yakni menumbuhkan rasa cinta, pengagungan, dan hubungan emosional yang lekat dengan Allah sebelum membebani anak dengan hafalan teks dan rincian hukum fikih yang rumit.
