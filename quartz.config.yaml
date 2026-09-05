@@ -199,14 +199,14 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options:
         repo: decaller/wiki-pkn
-        repoId: ""
+        repoId: R_kgDOUCGG4g
         category: General
-        categoryId: ""
+        categoryId: DIC_kwDOUCGG4s4DE8U6
         mapping: pathname
         strict: false
         reactionsEnabled: true
