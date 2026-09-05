@@ -9,6 +9,8 @@ title: "Luka dan Hutang Pengasuhan"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-08.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -37,6 +39,11 @@ Sebagaimana hutang finansial yang terus berbunga jika tidak dibayar, hutang peng
 ---
 
 ## 2. Mekanisme Terjadinya Hutang per Fase Usia
+
+
+![Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu](/assets/slides/slide-akhlak-tercela-hutang.webp)
+*Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu*
+
 
 Hutang pengasuhan terjadi ketika orang tua menerapkan metode yang melompati sunnatullah tahapan perkembangan anak:
 

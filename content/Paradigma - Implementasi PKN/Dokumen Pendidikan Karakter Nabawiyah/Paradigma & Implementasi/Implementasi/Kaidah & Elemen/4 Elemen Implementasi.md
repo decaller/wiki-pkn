@@ -14,6 +14,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-37.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -27,6 +29,11 @@ tags:
 ---
 
 ## 1. Arsitektur Empat Elemen Ekosistem PKN
+
+
+![Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan](/assets/slides/slide-implementasi-persekolahan.webp)
+*Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan*
+
 
 Agar Pendidikan Karakter Nabawiyah dapat beroperasi secara utuh di rumah dan sekolah, terdapat **4 Elemen Inti** yang harus hadir secara serentak dan saling menopang:
 

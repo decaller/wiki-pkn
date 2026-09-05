@@ -9,6 +9,8 @@ title: Beranda Utama
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-01.webp)
+
 
 Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan komprehensif yang merekonstruksi paradigma, kurikulum, metodologi, dan implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan para ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
@@ -75,6 +77,11 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 ---
 
 ## 1. Peta Konsep Arsitektur Pendidikan Karakter Nabawiyah
+
+
+![Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal](/assets/slides/slide-piramida-pendidikan.webp)
+*Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal*
+
 
 Pendidikan Karakter Nabawiyah memandang manusia sebagai kesatuan utuh (*insan kamil*) yang bertumbuh secara organik melalui integrasi tiga pilar agung:
 
@@ -172,6 +179,11 @@ Wiki PKN terintegrasi penuh dengan dua basis data ilmiah pelengkap:
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.
 
 ---
+
+
+
+![Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak](/assets/slides/slide-sholat-barometer.webp)
+*Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak*
 
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:

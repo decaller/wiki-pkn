@@ -9,6 +9,8 @@ title: "Bank Studi Kasus"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-34.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -22,6 +24,11 @@ title: "Bank Studi Kasus"
 ---
 
 ## 1. Landasan Filosofis: Mengatasi Kesenjangan Aqil-Baligh melalui Peristiwa
+
+
+![Teknik Mengurai Kegiatan Lapangan ke Dalam 40 Pilar Karakter Nabawiyah](/assets/slides/slide-mengurai-kegiatan-karakter.webp)
+*Teknik Mengurai Kegiatan Lapangan ke Dalam 40 Pilar Karakter Nabawiyah*
+
 
 Dalam lanskap pendidikan kontemporer, kita menghadapi krisis arsitektural yang fundamental: fenomena di mana **"Baligh datang lebih cepat, namun Aqil datang lebih lambat"**. Generasi digital hari ini mengalami akselerasi kematangan biologis akibat paparan gizi dan informasi visual, namun sering kali mengalami keterlambatan dalam kematangan akal, kemandirian mental, dan tanggung jawab spiritual (*mukallaf*). Ketimpangan ini bukan sekadar tren sosial, melainkan sebuah kegagalan sistemik yang memerlukan **Restorasi Karakter (*Character Recovery*)** sebagai prioritas strategis.
 

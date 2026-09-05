@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-05.webp)
+
 
 Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (exhaustive mapping)** dalil-dalil Al-Qur'an yang relevan dengan setiap tema bahasan di seluruh berkas halaman **Wiki PKN**. Pemetaan ini dilengkapi dengan teks Arab berharakat lengkap, terjemahan resmi bahasa Indonesia, takhrij surah dan nomor ayat, relevansi pedagogis dalam **Pendidikan Karakter Nabawiyah (PKN)**, serta cuplikan rujukan dari kitab klasik **Tafsir Ibnu Katsir** melalui korpus **OpenBayan** (`data/shamela_corpus.db`).
 

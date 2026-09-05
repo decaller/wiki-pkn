@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-38.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Bahasa Hati dalam Arsitektur PKN
+
+
+![Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati](/assets/slides/slide-bahasa-hati-0-7.webp)
+*Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati*
+
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Hati (*Lughatul Qalb*)** adalah modalitas pengasuhan berbasis getaran rasa (*Al-Qalb* pada jiwa muthmainnah), keteladanan visual tanpa kata-kata (*lisanul hal*), sentuhan fisik penuh kasih, dan doa tulus di keheningan malam.
 

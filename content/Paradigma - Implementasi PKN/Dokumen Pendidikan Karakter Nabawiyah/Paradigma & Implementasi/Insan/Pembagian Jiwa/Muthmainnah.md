@@ -9,6 +9,8 @@ title: "Nafsul Muthmainnah"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-09.webp)
+
 
 Dalam hierarki psikospiritual Pendidikan Karakter Nabawiyah (PKN), **Nafsul Muthmainnah** merupakan puncak kesempurnaan karakter dan stasiun tertinggi (*maqam*) yang dapat dicapai oleh jiwa manusia di dunia. Berakar dari kata *thuma'ninah*, kata ini menggambarkan kondisi batin yang mantap, tenang, tidak bergoncang oleh badai fitnah, dan selamat dari keraguan (*syubhat*) maupun jeratan hawa nafsu (*syahwat*). Nafsul Muthmainnah adalah kondisi jiwa yang telah disucikan (*tazkiyatun nafs*), di mana nurani ruh memimpin seluruh anggota jasad dan nalar akal dengan penuh harmoni di bawah naungan wahyu Ilahi.
 
@@ -107,6 +109,11 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 * [[Bahasa Hati]] — Seni koneksi batin dan bahasa kelembutan nabawiyah.
 
 ---
+
+
+
+![Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak](/assets/slides/slide-sholat-barometer.webp)
+*Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak*
 
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:

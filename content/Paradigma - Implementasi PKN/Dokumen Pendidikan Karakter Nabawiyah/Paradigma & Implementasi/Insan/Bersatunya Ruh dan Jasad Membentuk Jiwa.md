@@ -9,6 +9,8 @@ title: "Bersatunya Ruh dan Jasad Membentuk Jiwa"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-06.webp)
+
 
 Manusia bukanlah makhluk material murni sebagaimana doktrin ateisme-materialisme, bukan pula malaikat immateri yang terbebas dari tuntutan biologis. Allah Yang Maha Pencipta merancang manusia melalui sebuah proses persenyawaan kosmis yang agung: membentuk kerangka jasad dari materi bumi (*tanah liat kering / shalshalin min hama-in masnun*), lalu meniupkan ruh ciptaan-Nya ke dalam jasad tersebut. Dari persatuan sakral antara unsur bumi yang fana dan unsur langit yang abadi inilah terpancar entitas ketiga yang memiliki kehendak, kesadaran, dan emosi, yaitu **Jiwa (*An-Nafs*)**.
 
@@ -30,6 +32,11 @@ Pendidikan Karakter Nabawiyah (PKN) meletakkan pemahaman ini sebagai pondasi uta
 ---
 
 ## 1. Analisis Dua Kutub Eksistensial Manusia
+
+
+![Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)](/assets/slides/slide-tiga-kondisi-jiwa.webp)
+*Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)*
+
 
 Persatuan antara ruh dan jasad menciptakan polaritas dinamis di dalam diri setiap anak. Memahami polaritas ini menghindarkan orang tua dari kekeliruan mendiagnosis masalah perilaku:
 

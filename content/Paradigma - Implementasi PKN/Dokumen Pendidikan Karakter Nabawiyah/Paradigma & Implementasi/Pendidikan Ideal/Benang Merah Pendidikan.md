@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-31.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Kritik Paradigma Pendidikan Modern Model Pabrik (Prussian Schooling)
+
+
+![Filosofi Pendidikan Karakter: Mendidik Anak Seperti Bertani Merawat Benih Fitrah](/assets/slides/slide-mendidik-seperti-bertani.webp)
+*Filosofi Pendidikan Karakter: Mendidik Anak Seperti Bertani Merawat Benih Fitrah*
+
 
 Sistem persekolahan massal yang mendominasi dunia hari ini lahir dari revolusi industri abad ke-19 (Model Prusia) yang didesain bukan untuk memuliakan fitrah manusia, melainkan untuk **mencetak pekerja pabrik dan birokrat yang patuh, seragam, dan mudah diatur**:
 * **Standarisasi Kaku:** Jam masuk berbunyi lonceng bagaikan pabrik, murid dibagi berdasarkan usia (tahun produksi), dan dinilai dari kepatuhan duduk diam berjam-jam mendengarkan instruksi satu arah.

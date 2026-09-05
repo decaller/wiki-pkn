@@ -17,6 +17,8 @@ description: "Monograf komprehensif mengenai hakikat, filosofi, metafora ekologi
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-33.webp)
+
 
 > *"Dan tiada (pula) berdosa atas orang-orang yang apabila mereka datang kepadamu supaya kamu memberi mereka kendaraan, lalu kamu berkata: 'Aku tidak memperoleh kendaraan untuk membawamu', lalu mereka kembali, sedang mata mereka bercucuran air mata karena kesedihan, lantaran mereka tidak memperoleh apa yang akan mereka infakkan."*  
 > — **QS. At-Taubah [9]: 92**

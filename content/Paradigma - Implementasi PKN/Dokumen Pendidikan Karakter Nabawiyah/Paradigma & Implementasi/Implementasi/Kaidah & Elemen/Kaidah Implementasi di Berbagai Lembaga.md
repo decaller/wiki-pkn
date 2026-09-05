@@ -16,6 +16,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-39.webp)
+
 
 Penerapan kurikulum Pendidikan Karakter Nabawiyah (PKN) pada institusi pendidikan formal maupun non-formal—seperti Sekolah Islam Terpadu (SIT), Madrasah, Pondok Pesantren/Ma'had, hingga Komunitas Homeschooling—memiliki dinamika tantangan yang berbeda dengan penerapan di ranah domestik keluarga. Lembaga pendidikan melibatkan banyak pemangku kepentingan (*stakeholders*): yayasan pemilik modal, dewan guru senior, kurikulum dinas pemerintah, ekspektasi orang tua wali santri, hingga budaya birokrasi yang telah mengakar puluhan tahun.
 

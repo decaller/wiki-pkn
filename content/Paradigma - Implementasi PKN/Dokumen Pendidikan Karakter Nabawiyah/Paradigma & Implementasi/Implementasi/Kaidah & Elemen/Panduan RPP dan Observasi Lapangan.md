@@ -17,6 +17,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-40.webp)
+
 
 > [!IMPORTANT]
 > **Instrumen Resmi Pembelajaran & Observasi:** Panduan ini disusun berdasarkan berkas instrumen resmi kurikulum Pendidikan Karakter Nabawiyah, meliputi:
@@ -53,6 +55,11 @@ flowchart LR
 ---
 
 ## 1. Cetak Biru Rencana Pembelajaran Karakter (RPP) Berbasis Fitrah
+
+
+![Alur Pembelajaran Berbasis Kegiatan Nyata (Project-Based Learning)](/assets/slides/slide-alur-kegiatan-projek.webp)
+*Alur Pembelajaran Berbasis Kegiatan Nyata (Project-Based Learning)*
+
 
 Format RPP Karakter PKN dirancang terintegrasi (*integrated thematic learning*) yang menyatukan muatan syariat dengan penumbuhan sifat-sifat mulia 40 pilar bakat nabawiyah ([[Panduan Asesmen dan Observasi TB40]]).
 

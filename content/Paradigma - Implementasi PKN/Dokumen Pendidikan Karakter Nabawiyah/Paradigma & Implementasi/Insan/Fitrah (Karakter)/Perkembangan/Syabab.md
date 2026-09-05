@@ -16,6 +16,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-29.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -29,6 +31,11 @@ tags:
 ---
 
 ## 1. Hakikat Fase Syabab dalam Arsitektur PKN
+
+
+![Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya](/assets/slides/slide-fase-perkembangan-tujuan.webp)
+*Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya*
+
 
 Begitu seorang anak mengalami tanda baligh (mimpi basah bagi laki-laki, haidh bagi perempuan, atau genap usia 15 tahun), status hukumnya dalam syariat Islam berubah secara radikal:
 * **Beralih dari 'Ashab (Keluarga) ke Mukallaf Mandiri:** Setiap detik catatan amalnya dipertanggungjawabkan sendiri di hadapan Allah SWT.

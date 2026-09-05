@@ -9,6 +9,8 @@ title: "Bakat"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-16.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -44,6 +46,11 @@ Bakat bukanlah sekadar keterampilan duniawi untuk mencari penghasilan material, 
 ---
 
 ## 2. Syarat & Rukun 3A Bakat Nabawiyah
+
+
+![Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)](/assets/slides/slide-rukun-3a-bakat.webp)
+*Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)*
+
 
 Sebuah aktivitas dapat divalidasi sebagai **Bakat Sejati** jika memenuhi satu syarat mutlak dan tiga rukun fundamental:
 
@@ -87,6 +94,11 @@ Aktivitas yang hanya digemari sesaat lalu ditinggalkan ketika bosan bukanlah bak
 ---
 
 ## 3. Paradigma Reframing: "Bakat Tersembunyi di Balik Kenakalan Anak"
+
+
+![Kaidah Reframing: Ada Potensi Bakat Tersembunyi di Balik Kenakalan Anak](/assets/slides/slide-reframing-kenakalan-1.webp)
+*Kaidah Reframing: Ada Potensi Bakat Tersembunyi di Balik Kenakalan Anak*
+
 
 Salah satu revolusi cara pandang dalam *Seminar 2: Tafsir Bakat TB-40* adalah kaidah **Reframing Perilaku**. Di mata orang tua konvensional, anak yang berbeda sering dicap "nakal" atau "bermasalah". Namun, kacamata PKN memandang perilaku tersebut sebagai **sinyal energi bakat yang tersumbat dan mencari jalan keluar**:
 
@@ -261,6 +273,11 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 
 
 ---
+
+
+
+![Makna Hakiki Al-Mauhibah (Bakat): Karunia Allah yang Melekat Kuat](/assets/slides/slide-makna-al-mauhibah.webp)
+*Makna Hakiki Al-Mauhibah (Bakat): Karunia Allah yang Melekat Kuat*
 
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:

@@ -11,6 +11,8 @@ aliases:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-05.webp)
+
 
 > [!important] Gerbang Utama Klaster Insan (Map of Content / Navigation Hub)
 > Halaman ini merupakan **Simpul Navigasi Eksekutif (*Executive Navigation Hub*)** yang memetakan seluruh ontologi, arsitektur psiko-spiritual, dan taksonomi fitrah manusia dalam Pendidikan Karakter Nabawiyah (PKN). Setiap sub-pilar di bawah klaster Insan dirancang untuk menjawab pertanyaan paling mendasar bagi orang tua dan pendidik: **"Siapakah hakikat anak yang sedang kita didik, ke mana arah perkembangannya, dan bagaimana mengantarkannya mencapai kematangan akil-baligh yang paripurna?"**
@@ -39,6 +41,11 @@ graph TD
 ---
 
 ## 2. Landasan Dalil Al-Qur'an & Takhrij Tafsir
+
+
+![Sistem Berpikir Jiwa: Kesadaran Atas Sadar vs Dorongan Bawah Sadar](/assets/slides/slide-sistem-berpikir-jiwa.webp)
+*Sistem Berpikir Jiwa: Kesadaran Atas Sadar vs Dorongan Bawah Sadar*
+
 
 Kemuliaan penciptaan insan dan risiko kejatuhan derajatnya dipaparkan secara gamblang dalam nas-nas Al-Qur'an dan As-Sunnah:
 

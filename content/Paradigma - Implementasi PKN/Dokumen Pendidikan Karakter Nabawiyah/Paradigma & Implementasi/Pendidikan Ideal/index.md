@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-30.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Pendidikan Ideal: Rekonstruksi Paradigma Akil-Baligh
+
+
+![Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal](/assets/slides/slide-piramida-pendidikan.webp)
+*Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal*
+
 
 Pendidikan Ideal dalam Pendidikan Karakter Nabawiyah (PKN) berakar pada satu misi sentral: **Mengantarkan anak mencapai kedewasaan mental, spiritual, dan sosial (*Akil*) tepat bersamaan dengan datangnya kedewasaan biologis (*Baligh*)**.
 
@@ -52,6 +59,11 @@ Pendidikan Ideal Nabawiyah menolak pengkastaan generasi "buih" (*ghutsa'*). Anak
 ---
 
 ## 2. Teladan Rasulullah ﷺ Membangun Generasi Terbaik
+
+
+![Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)](/assets/slides/slide-prioritas-iman-quran.webp)
+*Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)*
+
 
 Rasulullah ﷺ diutus kepada bangsa Arab jahiliyah yang terpecah-belah, buta huruf, dan menyembah berhala. Dalam kurun waktu hanya 23 tahun, melalui metode pendidikan berbasis fitrah dan masjid, beliau berhasil mentransformasikan lebih dari 120.000 manusia menjadi generasi paling agung sepanjang sejarah manusia:
 

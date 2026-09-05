@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-27.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Fase Tamyiz dalam Arsitektur PKN
+
+
+![Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah](/assets/slides/slide-bahasa-lisan-7-10.webp)
+*Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah*
+
 
 Secara etimologi, **Tamyiz (التَّمْيِيْز)** bermakna kemampuan memilah dan membedakan. Pada usia 7–10 tahun, anak bertransformasi dari masa egosentris balita (*Thufulah*) menuju masa **kemandirian nalar awal**:
 * **Kemampuan Kognitif Operasional Konkret:** Anak mulai memahami hubungan sebab-akibat, membedakan mana hak miliknya dan mana hak orang lain, serta memahami konsep pahala dan adab.

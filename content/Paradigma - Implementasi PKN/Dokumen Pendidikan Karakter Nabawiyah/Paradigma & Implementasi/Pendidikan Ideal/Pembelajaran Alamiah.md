@@ -9,6 +9,8 @@ title: "Pembelajaran Alamiah"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-32.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -25,6 +27,11 @@ title: "Pembelajaran Alamiah"
 ---
 
 ## 1. Hakikat Pembelajaran Alamiah
+
+
+![Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani](/assets/slides/slide-kertas-kosong-vs-fitrah.webp)
+*Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani*
+
 
 **Pembelajaran Alamiah (*Natural Learning*)** adalah paradigma pendidikan yang membebaskan anak dari jeratan pemesinan kurikulum artifisial, lalu mengembalikan mereka kepada ekosistem belajar yang otentik dan selaras dengan sunnatullah fitrah manusia.
 

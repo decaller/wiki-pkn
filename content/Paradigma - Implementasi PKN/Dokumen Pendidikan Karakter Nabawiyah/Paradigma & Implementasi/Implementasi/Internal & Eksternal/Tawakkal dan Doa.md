@@ -9,6 +9,8 @@ title: "Tawakkal dan Doa"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-10.webp)
+
 
 Dalam paradigma Pendidikan Karakter Nabawiyah (PKN), **Tawakkal dan Doa** bukanlah jalan pintas kepasrahan kaum pemalas, melainkan puncak tertinggi dari arsitektur ikhtiar seorang mukmin. Setelah seluruh perangkat manhaj, kurikulum 40 bakat, metode tiga bahasa, dan keteladanan adab dikerahkan secara optimal, seorang pendidik muslim wajib menyadari batas eksistensial dirinya sebagai makhluk. Manusia hanyalah perantara wasilah; yang memiliki kekuasaan mutlak untuk membolak-balikkan hati, menumbuhkan hidayah, dan mengokohkan karakter anak hanyalah Allah Subhanahu wa Ta'ala.
 

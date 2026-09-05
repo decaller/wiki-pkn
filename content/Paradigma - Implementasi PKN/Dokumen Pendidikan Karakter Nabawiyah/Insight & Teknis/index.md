@@ -9,6 +9,8 @@ title: Insight & Teknis
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-18.webp)
+
 
 Bagian **Insight & Teknis** merupakan jembatan emas yang menghubungkan antara wawasan filosofis (*insight batiniah*) dengan pedoman operasional lapangan (*panduan teknis empiris*) dalam ekosistem **Pendidikan Karakter Nabawiyah (PKN)**. 
 

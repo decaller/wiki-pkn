@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-39.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Bahasa Lisan dalam Arsitektur PKN
+
+
+![Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah](/assets/slides/slide-bahasa-lisan-7-10.webp)
+*Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah*
+
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Lisan (*Lughatul Lisan*)** adalah instrumen pengajaran utama pada **Fase Tamyiz (Usia 7–10 Tahun)**. Pada fase ini, anak mulai mengalami kematangan kognitif (*mumayyiz*): ia mulai mampu membedakan baik dan buruk, memahami hubungan sebab-akibat, serta memiliki rasa ingin tahu logis yang sangat besar.
 

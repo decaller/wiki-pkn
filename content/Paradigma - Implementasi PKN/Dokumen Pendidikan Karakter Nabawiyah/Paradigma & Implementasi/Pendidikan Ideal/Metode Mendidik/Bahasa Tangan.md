@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-40.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Bahasa Tangan dalam Arsitektur PKN
+
+
+![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
+*Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
+
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Tangan (*Lughatul Yad / At-Ta'dib*)** adalah instrumen penegakan aturan (*enforcement*), ketegasan disiplin, dan penetapan konsekuensi nyata.
 

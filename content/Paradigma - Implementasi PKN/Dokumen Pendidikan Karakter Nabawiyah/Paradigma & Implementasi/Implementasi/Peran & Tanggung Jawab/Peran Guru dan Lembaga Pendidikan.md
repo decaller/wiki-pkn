@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-03.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat Posisi Guru & Sekolah dalam Perspektif PKN
+
+
+![Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan](/assets/slides/slide-implementasi-persekolahan.webp)
+*Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan*
+
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah, **Lembaga Pendidikan (Sekolah/Kuttab/Pesantren) berposisi sebagai MITRA KOMPLEMENTER bagi orang tua, BUKAN pengganti fungsi keluarga**:
 * **Menolak Korporatisasi Pendidikan:** Sekolah bukan pabrik pencetak nilai ujian dan guru bukan buruh pengajar yang sekadar mentransfer kurikulum demi gaji. Guru adalah *Mu'addib* (pembina adab) dan *Muslih* (perawat jiwa generasi).

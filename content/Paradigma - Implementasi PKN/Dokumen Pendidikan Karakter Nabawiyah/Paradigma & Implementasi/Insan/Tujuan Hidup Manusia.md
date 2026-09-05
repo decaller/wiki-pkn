@@ -9,6 +9,8 @@ title: "Tujuan Hidup Manusia"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-07.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -213,6 +215,11 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 > 
 
 ---
+
+
+
+![Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya](/assets/slides/slide-fase-perkembangan-tujuan.webp)
+*Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya*
 
 > [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:

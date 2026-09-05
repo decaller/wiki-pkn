@@ -9,6 +9,8 @@ title: "Nafsul Ammarah"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-11.webp)
+
 
 Dalam khazanah psikospiritual Islam dan Pendidikan Karakter Nabawiyah (PKN), **Nafsul Ammarah** (*an-nafs al-ammarah bis-su'*) adalah manifestasi jiwa yang paling dekat dengan natur biologis jasad. Kata *ammarah* merupakan bentuk *shighah mubalaghah* dalam bahasa Arab yang berarti "sangat banyak memerintah" atau "senantiasa mendesakkan kehendak". Karakteristik dasar jiwa ammarah adalah impulsif, menuntut pemenuhan kepuasan seketika (*instant gratification*), menghindari rasa sakit, dan condong pada kelezatan ragawi.
 

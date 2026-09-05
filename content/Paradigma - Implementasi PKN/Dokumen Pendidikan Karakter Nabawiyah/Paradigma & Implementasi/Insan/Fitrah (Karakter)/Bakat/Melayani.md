@@ -16,6 +16,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-22.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -29,6 +31,11 @@ tags:
 ---
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
+
+
+![Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40](/assets/slides/slide-peta-struktur-tb40.webp)
+*Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40*
+
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bakat Melayani** adalah hasil persilangan antara **Kutub Ekstrovert** (fokus aksi tercurah kepada kebutuhan orang lain) dan **Dimensi Rasa / Hati** (*Al-Qalb* pada jiwa muthmainnah yang dipenuhi kasih sayang ilahiah).
 

@@ -9,6 +9,8 @@ title: Peran & Tanggung Jawab
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-01.webp)
+
 
 Halaman ini membedah arsitektur akuntabilitas dan pembagian peran para pemangku kepentingan (*stakeholders*) dalam ekosistem **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini menegaskan batas tanggung jawab syar'i antara orang tua, guru, lembaga pendidikan, dan masyarakat luas.
 

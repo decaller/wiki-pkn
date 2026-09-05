@@ -9,6 +9,8 @@ title: Paradigma & Implementasi
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-34.webp)
+
 
 Halaman ini merupakan simpul pintu gerbang (*master landing node*) yang memetakan seluruh bangunan teori dan aplikasi praktis **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini menguraikan dua pilar penyangga utama: **Paradigma Konseptual** (memahami hakikat manusia dan fitrah) serta **Implementasi Operasional** (mengeksekusinya di dunia nyata).
 

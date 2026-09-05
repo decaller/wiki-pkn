@@ -16,6 +16,8 @@ description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berba
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-24.webp)
+
 
 > Dokumen ini merupakan instrumen asesmen baku yang diadopsi langsung dari **Panduan Implementasi Standar PKN (A4)** (Klausul 10 & Lampiran Tabel 15–16). Instrumen ini diformulasikan untuk membantu santri usia *Tamyiz akhir* hingga *Murahaqah* (10–15+ tahun) serta pendidik dalam memetakan profil fitrah bakat unik secara terstruktur.
 
@@ -220,6 +222,11 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 >
 > - **Materi:** *Materi Seminar 2: Kupas Tuntas Tafsir Bakat TB-40*
 >   - 📖 **Rujukan Slide:** Slide Hal. 30–120 (Formula Asesmen, Analisis Tafrith vs Ifrath, Rukun 3A, dan Pemetaan Karir Peradaban)
+
+
+![Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)](/assets/slides/slide-rukun-3a-bakat.webp)
+*Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)*
+
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (24.6 MB)](https://www.dropbox.com/scl/fi/of5hkad2jl8evdbx86o2y/Materi-Seminar-2_-Tafsir-Bakat-TB-40.pdf?rlkey=m1qcgt0bmcwsjsmtvuw58m3q0&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/of5hkad2jl8evdbx86o2y/Materi-Seminar-2_-Tafsir-Bakat-TB-40.pdf?rlkey=m1qcgt0bmcwsjsmtvuw58m3q0&dl=0)
 >
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*

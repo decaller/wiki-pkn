@@ -9,6 +9,8 @@ title: "Imunitas Sosial"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-36.webp)
+
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), **Imunitas Sosial** (*Al-Manā'ah al-Ijtimā'iyyah*) adalah daya tahan psikospiritual internal yang dimiliki anak untuk menyaring, menolak, dan bertahan dari pengaruh destruktif lingkungan sosial yang korup tanpa harus mengisolasi diri dari dunia nyata. Konsep ini membedakan secara radikal antara metodologi nabawiyah dengan pendekatan proteksi ekstrem yang keliru. Pendekatan keliru berusaha menciptakan "ruang kaca steril" (*bubble isolation*) yang mengurung anak dari segala interaksi sosial; sementara PKN membekali anak dengan **antibodi nilai tauhid dan adab** sehingga tatkala ia terjun ke tengah masyarakat majemuk, ia tidak tertular penyakit moral, melainkan mampu menjadi agen penawar dan penyembuh (*mushlih*).
 
@@ -30,6 +32,11 @@ Rasulullah ﷺ secara tegas memuji seorang mukmin yang berinteraksi dengan masya
 ---
 
 ## 1. Dekonstruksi Isolasi Buta vs Imunitas Nabawiyah
+
+
+![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
+*Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
+
 
 Banyak orang tua yang berniat baik tergelincir ke dalam sindrom "Sterilisasi Ekstrem". Tabel berikut menguraikan komparasi antara kedua paradigma ini:
 

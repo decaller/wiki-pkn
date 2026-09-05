@@ -9,6 +9,8 @@ title: "Fase Euforia"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-10.webp)
+
 
 Dalam peta patologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Fase Euforia** merujuk pada dua fenomena psikososial yang sangat kritis: **(1) Sindrom Euforia Orang Tua Baru Hijrah**, yakni ledakan antusiasme emosional yang berlebihan tatkala orang tua baru mengenal konsep parenting nabawiyah lalu menerapkan perubahan drastis secara tergesa-gesa tanpa hikmah; serta **(2) Sindrom Euforia Pelepasan Remaja**, yakni ledakan keliaran perilaku yang dialami anak tatkala ia tiba-tiba terbebas dari penindasan disiplin kaku masa kecilnya (*rebound effect*).
 
@@ -58,6 +60,11 @@ graph TD
 ---
 
 ## 2. Hukum Alam Tadarruj: Mengapa Perubahan Wajib Bertahap
+
+
+![Paradigma Anak Berkehebatan Khusus (ABK): Energi Bakat Ekstrem yang Membutuhkan Kanal Ma'ruf](/assets/slides/slide-anak-kehebatan-khusus.webp)
+*Paradigma Anak Berkehebatan Khusus (ABK): Energi Bakat Ekstrem yang Membutuhkan Kanal Ma'ruf*
+
 
 Al-Qur'an diturunkan secara berangsur-angsur (*tanjim*) selama 23 tahun. Pengharaman khamr tidak terjadi dalam semalam, melainkan melewati empat tahapan edukasi kesadaran. Sayyidah Aisyah radhiyallahu 'anha menjelaskan:
 > *"Sesungguhnya ayat Al-Qur'an yang pertama kali turun adalah surat mufashshal yang menyebutkan tentang surga dan neraka. Hingga tatkala manusia telah mantap memeluk Islam, barulah turun ayat-ayat tentang halal dan haram. Seandainya yang pertama kali turun adalah ayat 'Janganlah kalian meminum khamr!', niscaya mereka akan menjawab: 'Kami tidak akan meninggalkan khamr selamanya!' Dan seandainya yang pertama kali turun adalah ayat 'Janganlah kalian berzina!', niscaya mereka akan menjawab: 'Kami tidak akan meninggalkan zina selamanya!'"* (HR. Bukhari No. 4993).

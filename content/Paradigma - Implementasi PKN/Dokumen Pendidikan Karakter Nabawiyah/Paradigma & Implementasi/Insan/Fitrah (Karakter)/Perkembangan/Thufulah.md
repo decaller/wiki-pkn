@@ -16,6 +16,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-26.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -29,6 +31,11 @@ tags:
 ---
 
 ## 1. Hakikat Fase Thufulah dalam Arsitektur PKN
+
+
+![Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati](/assets/slides/slide-bahasa-hati-0-7.webp)
+*Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati*
+
 
 Fase Thufulah adalah masa pertumbuhan fisik dan sensori-motorik di mana fitrah keimanan anak berada pada kondisi paling murni. Dalam peribahasa hikmah kearifan Islam para salaf disebutkan:
 > *"Ajaklah anakmu bermain pada 7 tahun pertama (Thufulah), didiklah ia adab dan aturan pada 7 tahun kedua (Tamyiz), bersahabatlah dengannya pada 7 tahun ketiga (Murahaqah), dan setelah itu lepaskanlah ia memikul urusannya sendiri (Syabab)."*

@@ -9,6 +9,8 @@ title: "Perkembangan"
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-25.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -25,6 +27,11 @@ title: "Perkembangan"
 ---
 
 ## 1. Landasan Syariat & Sunnatullah Perkembangan
+
+
+![Masa Emas Pertumbuhan Fitrah Anak (0-7 th, 7-10 th, 10-14 th, 15+ th)](/assets/slides/slide-golden-age-pertumbuhan.webp)
+*Masa Emas Pertumbuhan Fitrah Anak (0-7 th, 7-10 th, 10-14 th, 15+ th)*
+
 
 Pendidikan Karakter Nabawiyah (PKN) memandang bahwa setiap anak melewati tahapan perkembangan fitrah yang tidak boleh dilompati (*sunnatullah tadarruj*). Landasan dasarnya berpijak pada dua hadits agung:
 

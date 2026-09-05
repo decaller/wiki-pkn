@@ -70,6 +70,7 @@ graph TD
    - *Kaidah Implementasi PKN dalam Berbagai Lembaga*
 4. **Navigasi Kustom `OutlineNav`:** Komponen navigasi sidebar khusus yang membaca struktur hierarki `nav_structure.json`, dilengkapi fitur *inside scrolling*, *active link auto-expand*, dan *session scroll state persistence*.
 5. **Dukungan Diagram Interaktif Mermaid & Callout Quartz:** Visualisasi psikospiritual dan rubrik aksi yang memikat serta responsif.
+6. **Aset Visual & Infografis Resmi:** Dilengkapi horizontal hero banner berdimensi presisi tinggi 350px ($1050 \times 350$ px) di seluruh 72 artikel dan 29 diagram slide presentasi rujukan resmi PKN karya Ustadz Abdul Kholiq.
 
 ---
 

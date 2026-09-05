@@ -9,6 +9,8 @@ title: Kaidah & Elemen Implementasi
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-35.webp)
+
 
 Halaman ini merupakan sintesis induk yang merangkum kaidah operasional dan komponen arsitektur dalam mengeksekusi kurikulum **Pendidikan Karakter Nabawiyah (PKN)** di lingkungan keluarga, sekolah, maupun komunitas dakwah.
 

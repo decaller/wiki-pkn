@@ -15,6 +15,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-17.webp)
+
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -28,6 +30,11 @@ tags:
 ---
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
+
+
+![Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)](/assets/slides/slide-matriks-polarisasi-bakat.webp)
+*Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)*
+
 
 Dalam taksonomi Pendidikan Karakter Nabawiyah (PKN), **Bekerja Keras** merupakan persilangan antara **Kutub Introvert** (dorongan energi yang bersumber dari konsentrasi internal mandiri) dan **Dimensi Karsa / Jasad** (*Al-Hawa* yang telah ditundukkan oleh syariat pada jiwa ammarah). 
 

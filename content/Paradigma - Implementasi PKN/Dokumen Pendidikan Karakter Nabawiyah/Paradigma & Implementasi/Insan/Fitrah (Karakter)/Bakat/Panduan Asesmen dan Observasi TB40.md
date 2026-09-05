@@ -16,6 +16,8 @@ tags:
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-23.webp)
+
 
 > [!quote] Dalil & Pijakan Syariat Asesmen Fitrah
 > **Naskah Al-Qur'an:**  
@@ -61,6 +63,11 @@ Tiga Prinsip Fundamental Asesmen TB-40:
 ---
 
 ## 2. Dua Modalitas Pengukuran Asesmen TB-40
+
+
+![Syarat Bakat Sejati: Konsistensi Tanpa Lelah (Dawam)](/assets/slides/slide-syarat-dawam-bakat.webp)
+*Syarat Bakat Sejati: Konsistensi Tanpa Lelah (Dawam)*
+
 
 Instrumen TB-40 dirancang secara fleksibel melalui dua format pengukuran ilmiah:
 

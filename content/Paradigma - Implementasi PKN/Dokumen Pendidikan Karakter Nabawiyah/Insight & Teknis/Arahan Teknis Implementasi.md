@@ -9,6 +9,8 @@ title: Arahan Teknis Implementasi
 > 
 > Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
+![Banner Ilustrasi](/assets/banners/banner-40.webp)
+
 
 Dokumen ini memuat prosedur standar operasional (SOP), checklist harian, instrumen observasi, serta langkah-langkah terapan untuk mengeksekusi prinsip **Pendidikan Karakter Nabawiyah (PKN)** dalam rutinitas keluarga dan lingkungan sekolah.
 
