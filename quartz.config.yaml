@@ -219,9 +219,13 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/decaller/wiki-pkn
-        SOTAB HEBAT: https://sotabh.com
-        Insan Mustaqbal: https://insanmustaqbal.or.id
+        "PKN - Pendidikan Karakter Nabawiyah": https://karakternabawiyah.com/
+        "Sekolah Karakter Imam Syafi'i (SKIS)": https://sekolahkarakter.com/
+        "Himmatul Ummah": https://himmatulummah.or.id/
+        "SOTAB": https://sotabh.com
+        "Yayasan Bina Insan Taqwa": https://insantaqwa.org/
+        "Insan Mustaqbal": https://insanmustaqbal.or.id
+        "GitHub": https://github.com/decaller/wiki-pkn
     layout:
       position: footer
       priority: 50

@@ -104,3 +104,50 @@ h2.page-title {
   }
 }
 
+// Footer Styling & Responsive Links Wrap
+footer {
+  margin-top: 3.5rem;
+  margin-bottom: 4rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--lightgray);
+  opacity: 0.85;
+
+  p {
+    margin-bottom: 0.6rem;
+    font-size: 0.88rem;
+    color: var(--gray);
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+      padding: 0;
+
+      a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        font-size: 0.88rem;
+        font-weight: 500;
+        color: var(--secondary);
+        text-decoration: none;
+        transition: color 0.15s ease;
+
+        &:hover {
+          color: var(--tertiary);
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+

@@ -117,6 +117,11 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
     - **Diagnosa Masalah:** Pada Mermaid v10+, mesin parser markdown Mermaid membaca teks node berformat `"1. ..."` atau `"<br/>- ..."` sebagai sintaks list Markdown (`<ol>` / `<ul>`). Karena renderer SVG Mermaid tidak mendukung elemen list di dalam shape node, Mermaid melemparkan pesan error runtime di peramban: `Unsupported markdown: list`.
     - **Solusi Rekayasa:** Menulis dan mengeksekusi skrip `scripts/fix_mermaid_lists.py` untuk memformat ulang seluruh penomoran list `1. `, `2. `, dst. menjadi format non-list `1: `, `2: `, dst. serta mengubah bullet tanda hubung `- ` menjadi Unicode bullet `• ` pada 25 berkas markdown terdampak.
     - **Verifikasi Komprehensif:** Pemindaian ulang menunjukkan 0 sisa pola list Markdown yang memicu error di seluruh diagram repositori. Build Quartz v5 sukses bersih.
+34. **Integrasi Riset Qaf AI & Pengayaan Paripurna Seluruh Konten (Zero Deletion)**: Menghubungkan SDK Python Qaf AI (320+ rujukan maraji' kitab klasik), menyelaraskan 4 etape usia nabawiyah di 100% artikel, menyematkan instrumen terapan 3-level rubrik, dan diagram alur terstandarisasi (+1.080 baris penambahan murni, 0 baris dihapus).
+35. **Fitur Lanjutan Quartz, Obsidian Canvas, Analisis pub.insantaqwa.org, dan Pangkalan Data TB40 Bases**: Merilis Obsidian Canvas resmi Manhaj PKN, 40 catatan profil karakter individual (`content/.../TB40/`), pangkalan data `TB40.base`, serta aktivasi fitur palet warna Nabawiyah, stacked pages, bibliografi `.bib`, dan recent notes di homepage.
+36. **Isolasi 39 PPTX Kanonikal, Sinkronisasi OneDrive via Rclone, & Microsoft Office Web Apps Viewer**: Mengisolasi 39 berkas PPTX terbaru (1,08 GiB) ke `presentations/`, mengunggah ke OneDrive via Rclone, menyematkan penampil interaktif cloud resmi Microsoft Office Web Apps Viewer pada 54 artikel wiki, dan symlink otomatis saat build.
+37. **Konversi 100% Diagram Mermaid ke Obsidian Canvas Resmi (`.canvas`)**: Mengonversi 94 diagram Mermaid di 66 artikel menjadi format standar JSON Canvas 1.0 (`content/canvas/`) dengan penataan layout otomatis DAG, transklusi `![[canvas/...]]`, dan tombol pembuka layar penuh interaktif.
+38. **Deployment Produksi via Portainer MCP Server & Otomasi Stack Git**: Mendepoloy wiki-pkn ke server produksi menggunakan MCP server `portainer` (Stack ID: 25, Endpoint ID: 3) berbasis `docker-compose.yml` langsung dari repositori Git `decaller/wiki-pkn` (branch `main`). Berjalan dengan binding port `4040:8080` dan live di domain `https://wikipkn.insanmustaqbal.or.id`. Dilengkapi integrasi materi audio kajian maqashid syariah dan optimasi tampilan mobile sidebar navigasi `OutlineNav`.
 
 ---
 
@@ -274,6 +279,61 @@ wiki-pkn/
    ---
    ```
 2. Jika ingin halaman tersebut muncul di sidebar navigasi, daftarkan judulnya ke dalam `nav_structure.json`.
+
+### Deployment Produksi via Portainer MCP Server (Git Stack):
+Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`portainer`).
+
+1. **Parameter Portainer Produksi:**
+   - **Domain Portainer:** `portainer.insanmustaqbal.or.id`
+   - **Environment ID (`endpointId`):** `3` (Lingkungan Docker Standalone utama)
+   - **Nama Stack:** `wiki-pkn`
+   - **Stack ID:** `25` (Status: `1` = Active, Tipe: `2` = Docker Standalone)
+   - **Sumber Git:** `https://github.com/decaller/wiki-pkn` (branch: `refs/heads/main`)
+   - **Berkas Compose:** `docker-compose.yml`
+
+2. **Variabel Lingkungan (Environment Variables) pada Stack:**
+   | Variabel | Nilai | Keterangan |
+   |---|---|---|
+   | `DOMAIN` | `wikipkn.insanmustaqbal.or.id` | FQDN domain produksi |
+   | `BASE_URL` | `wikipkn.insanmustaqbal.or.id` | Canonical URL Quartz v5 |
+   | `QUARTZ_BASE_URL` | `wikipkn.insanmustaqbal.or.id` | URL Quartz untuk sitemap dan OpenGraph |
+   | `PORT` | `8080` | Port HTTP internal container |
+   | `HOST_PORT` | `4040` | Port host yang diekspos ke reverse proxy |
+   | `WS_PORT` | `3001` | Port websocket internal |
+   | `GISCUS_REPO` | `decaller/wiki-pkn` | Target repositori GitHub Discussions |
+   | `GISCUS_CATEGORY` | `General` | Kategori diskusi Giscus |
+
+3. **Port Binding & Reverse Proxy:**
+   - Container port: `8080`
+   - Host binding: `0.0.0.0:4040 -> 8080/tcp`
+   - Reverse proxy server (Nginx / Caddy / Traefik) telah mengarahkan domain `https://wikipkn.insanmustaqbal.or.id` ke port lokal `4040`.
+
+4. **Operasi Pemeliharaan & Redeploy via Portainer MCP:**
+   - **Pembaruan Stack dari Git (Redeploy):**
+     Gunakan tool `StackGitRedeploy` pada MCP `portainer`:
+     ```json
+     {
+       "id": 25,
+       "endpointId": 3,
+       "prune": true,
+       "pullImage": true
+     }
+     ```
+   - **Cek Status Kontainer Docker:**
+     Gunakan tool `docker_proxy` pada MCP `portainer`:
+     ```json
+     {
+       "environment_id": 3,
+       "path": "/containers/json",
+       "query_params": {
+         "all": "true",
+         "filters": "{\"name\":[\"wiki-pkn\"]}"
+       },
+       "select": "[].{id:Id,name:Names[0],status:Status,ports:Ports}"
+     }
+     ```
+   - **Webhook Auto-Update:**
+     Dapat diaktifkan melalui menu Stack Portainer atau pemanggilan tool `StacksWebhookInvoke` untuk sinkronisasi otomatis setiap kali ada push baru ke branch `main`.
 
 ---
 
@@ -433,6 +493,20 @@ wiki-pkn/
   - Menambahkan styling responsif pada `a.transclude-src` di `quartz/styles/custom.scss` untuk tombol akses kanvas interaktif layar penuh dengan animasi hover halus.
 - **Verifikasi Build & Integritas:**
   - `npx quartz build` sukses 100% tanpa error (113 file Markdown ter-parse, 94 file canvas ter-render menjadi halaman HTML interaktif dan WebP og-image, total 847 file statis terbit ke `public/`).
+
+---
+
+### Milestone 38: Deployment Produksi via Portainer MCP Server & Otomasi Stack Git `[SELESAI]`
+- **Otomasi Deployment Portainer MCP Server:**
+  - Memanfaatkan MCP server `portainer` terintegrasi dengan tool `StackCreateDockerStandaloneRepository` untuk mendeploy repositori Git `https://github.com/decaller/wiki-pkn` (branch `refs/heads/main`) ke lingkungan Docker produksi (`endpointId: 3`).
+  - Menghasilkan Portainer Stack aktif `wiki-pkn` dengan **Stack ID: 25**.
+  - Mengonfigurasi parameter lingkungan terpusat: `DOMAIN=wikipkn.insanmustaqbal.or.id`, `HOST_PORT=4040`, `PORT=8080`, `WS_PORT=3001`, dan konfigurasi Giscus Comments `decaller/wiki-pkn`.
+  - Kontainer Docker `/wiki-pkn` berjalan sehat (*Up / healthy*) dengan binding port `0.0.0.0:4040 -> 8080/tcp`, terhubung dengan reverse proxy domain resmi **https://wikipkn.insanmustaqbal.or.id**.
+- **Integrasi Materi Kajian Audio Baru:**
+  - Mentranskripsikan rekaman audio dari `old_backup/tambahan/Unnamed note3-Recording/` menjadi teks transkrip `old_backup/tambahan/Unnamed note3 - Transcript.md`.
+  - Mengintegrasikan rekonstruksi kurikulum kemandirian dan maqashid syariah ke dalam [Kurikulum Kemandirian Berbasis Maqashid Syariah.md](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Pendidikan%20Ideal/Kurikulum%20Kemandirian%20Berbasis%20Maqashid%20Syariah.md) dengan pengayaan dalil turats OpenBayan & Qaf AI (commit `7bd1899`).
+- **Optimasi Responsivitas Navigasi Mobile `OutlineNav`:**
+  - Memperbaiki tata letak dan perilaku interaktif plugin sidebar navigasi kustom `OutlineNav` pada layar sempit/perangkat seluler (commit `c0baba8`).
 
 
 
