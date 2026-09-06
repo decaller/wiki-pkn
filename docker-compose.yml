@@ -6,7 +6,7 @@ services:
     container_name: wiki-pkn
     restart: unless-stopped
     ports:
-      - "${HOST_PORT:-${PORT:-8080}}:${PORT:-8080}"
+      - "${HOST_PORT:-4040}:${PORT:-8080}"
     environment:
       - DOMAIN=${DOMAIN:-localhost}
       - PORT=${PORT:-8080}
