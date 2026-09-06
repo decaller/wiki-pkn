@@ -659,7 +659,29 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Sinkronisasi commit `72aa9e7` dan push sukses ke branch `main`.
   - Deployment Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK` (URL: `https://wikipkn.insanmustaqbal.or.id/Referensi/Pengembangan-Software-dan-Ekosistem-Digital-PKN`).
 
----
+### Milestone 46: Penyeragaman & Pemutakhiran Seluruh Master Template Wiki PKN `[SELESAI]`
+- **Restrukturisasi Anatomi Baku 9 Lapisan:**
+  - Mengaudit dan menyelaraskan seluruh berkas template di `content/Paradigma - Implementasi PKN/Template/` dan `content/Referensi/Panduan Kontribusi.md` terhadap standar emas 120+ halaman yang telah dipublikasikan.
+  - Memformalkan urutan baku 9 lapisan halaman:
+    1. *Frontmatter YAML* (`title`, `description`, `tags`, `aliases`).
+    2. *Banner Visual Header* (`![[assets/banners/...]]`).
+    3. *Catatan Metodologi & Rekonstruksi AI* (`> [!note]`).
+    4. *Judul Utama (#)* dan paragraf konseptual.
+    5. *Dalil Syar'i Pokok & Takhrij OpenBayan* (`> [!quote]`).
+    6. *Batang Tubuh Materi* (`##` dan `###`, tabel matriks, dan visualisasi relasional).
+    7. *Trio Callout Refleksi Akhir Konten* (`[!info]` Refleksi Lapangan, `[!warning]` Peringatan Risiko / Tafrith-Ifrath, `[!tip]` Tips Praktis / Rekomendasi Solusi).
+    8. *Sitasi Rujukan Resmi* (`> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN`).
+    9. *Media Presentasi & Slide Interaktif (Office Web Apps)*: **MUTLAK ELEMEN PALING AKHIR DI SELURUH HALAMAN** (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`).
+- **Pembaruan 4 Berkas Master Template & Pedoman Kontributor:**
+  1. `content/Paradigma - Implementasi PKN/Template/index.md`: Memperbarui diagram hierarki 9 lapisan, tabel matriks aturan penempatan (*Rule of Placement*), alasan penempatan media di akhir (mencegah Layout Shift dan mengoptimalkan kecepatan muat), serta 11 butir checklist verifikasi pre-publishing.
+  2. `content/Paradigma - Implementasi PKN/Template/Template Tema.md`: Menyusun ulang kode template siap salin, menambahkan penjelasan bab 8 (Trio Refleksi) dan bab 9 (Media Presentasi), serta melarang keras penggunaan Mermaid (wajib Obsidian Canvas `.canvas`).
+  3. `content/Paradigma - Implementasi PKN/Template/Template Elemen Karakteristik.md`: Menyusun ulang struktur profil bakat TB40 lengkap dengan banner, takhrij dalil sahabat, evaluasi rukun 3A, peta karir peradaban, trio refleksi bakat, dan embed media di posisi mutlak paling bawah.
+  4. `content/Paradigma - Implementasi PKN/Template/Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`: Memperjelas fungsi trio callout sebagai penutup konten sebelum rujukan dan slide media, serta menyertakan contoh terpadu studi kasus lapangan.
+  5. `content/Referensi/Panduan Kontribusi.md`: Menyelaraskan bab 4C mengenai 9 lapisan baku, aturan wajib Obsidian Canvas vs Mermaid, dan penempatan media mutlak di akhir.
+- **Verifikasi Kualitas & Audit Posisi Media:**
+  - Audit skrip Python memastikan 100% artikel materi di `content/` konsisten menempatkan pemutar presentasi di urutan paling akhir.
+  - Bebas dari diagram Mermaid (0 blok Mermaid aktif).
+  - `npx quartz build` sukses 100% (123 berkas Markdown ter-parse dalam 10s, 1.102 berkas statis terbit ke `public/` dalam 31s).
 
 
 

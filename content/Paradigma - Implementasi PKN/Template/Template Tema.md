@@ -13,16 +13,31 @@ Gunakan template ini untuk menulis atau mengembangkan artikel tema materi pokok 
 
 ---
 
-## Contoh Struktur Kode Markdown Template:
+## Contoh Struktur Kode Markdown Template Baku:
 
 ```markdown
 ---
 title: "Nama Tema Pokok"
+description: "Deskripsi ringkas 1-2 kalimat mengenai fokus bahasan tema ini untuk pratinjau sosial dan SEO."
+tags:
+  - pendidikan-karakter-nabawiyah
+  - tema-pokok
+aliases:
+  - Alias Tema 1
+  - Alias Tema 2
 ---
+
+![[assets/banners/banner_default.webp]]
+*Gambar: Visualisasi tematik khazanah Pendidikan Karakter Nabawiyah*
+
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 # [Nama Tema Pokok]
 
-(Paragraf pengantar: 2-3 paragraf komprehensif yang menguraikan latar belakang masalah, urgensi tema dalam peradaban Islam, dan kedudukannya dalam arsitektur Pendidikan Karakter Nabawiyah.)
+(Paragraf pengantar: 2–3 paragraf komprehensif yang menguraikan latar belakang masalah, urgensi tema dalam peradaban Islam, dan kedudukannya dalam arsitektur Pendidikan Karakter Nabawiyah.)
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah Ayat / Hadits:**  
@@ -36,8 +51,8 @@ title: "Nama Tema Pokok"
 ---
 
 ## 1. Definisi & Konsep Fondasional
-- **Makna Bahasa (Etimologi):** Akar kata bahasa Arab dan asal-usul istilah.
-- **Makna Syar'i (Terminologi):** Batasan makna menurut para ulama mu'tabar.
+- **Makna Bahasa (Etimologi):** Akar kata bahasa Arab dan asal-usul istilah dari kamus mu'tabar.
+- **Makna Syar'i (Terminologi):** Batasan makna menurut para ulama salaf.
 - **Urgensi Fitrah:** Mengapa aspek ini menjadi pilar pembentukan kepribadian mukallaf yang kokoh.
 
 ## 2. Relevansi Pedagogis & Syarah Ulama Klasik
@@ -47,6 +62,7 @@ title: "Nama Tema Pokok"
 ## 3. Komponen & Taksonomi Karakter
 - Rincian pilar-pilar pembentuk (misal: pilar bakat, dimensi batin, atau instrumen adab).
 - Matriks karakteristik perilaku yang dapat diamati sehari-hari.
+- Diagram konsep wajib menggunakan tautan atau embedding **Obsidian Canvas** (`.canvas`), **dilarang menggunakan diagram Mermaid** demi stabilitas rendering.
 
 ## 4. Diagnosis Penyimpangan: Tafrith vs Ifrath
 - **Tafrith (Meremehkan / Melalaikan):** Gejala pengabaian hak anak, dampak kejiwaan, dan penyebab kesalahan pola asuh.
@@ -66,11 +82,61 @@ title: "Nama Tema Pokok"
 
 ## 7. Studi Kasus Nyata & Solusi Kuratif
 - Paparan kasus nyata problematika anak kontemporer (misal: kecanduan gawai, mogok belajar, tantrum, krisis identitas).
-- Tahapan solusi kuratif langkah-demi-langkah berlandaskan kaidah PKN.
+- Tahapan solusi kuratif langkah-demi-langkah berlandaskan kaidah PKN (*Tangki Cinta → Bahasa Hati → Bahasa Lisan → Bahasa Tangan*).
 
 ## 8. Tautan Relevan & Peta Konsep
-- Tautan silang ke halaman pendukung: [[Insan]], [[Metode Mendidik]], [[Batas Toleransi]], dll.
+- Tautan silang dua arah ke halaman pendukung: [[Insan]], [[Metode Mendidik]], [[Batas Toleransi]], dll.
+
+---
+
+## 9. Trio Callout Refleksi Lapangan, Risiko & Rekomendasi Solusi
+
+> [!info] Refleksi Lapangan: Realitas Penerapan Sehari-hari
+> (Tuliskan pengamatan nyata dari interaksi santri dan orang tua di lapangan...)
+
+> [!warning] Peringatan Risiko: Jebakan Formalitas & Tafrith-Ifrath
+> (Tuliskan bahaya laten jika tema ini diajarkan secara terburu-buru, kaku, atau sekadar memenuhi tuntutan kurikulum administratif...)
+
+> [!tip] Rekomendasi Aksi & Solusi Praktis
+> (Berikan 2–3 langkah taktis berbiaya nol yang bisa segera dimulai malam ini di meja makan keluarga...)
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> - **Materi Terkait:** Materi Kajian Standar PKN & Modul Pelatihan Asatidz.
+> - **Narasumber:** Ustadz Abdul Kholiq.
+> - **Korpus Hadits:** OpenBayan Shamela Database.
+
+---
+
+## Media Presentasi & Slide Interaktif (Office Web Apps)
+
+<!-- START_OFFICE_PPTX_EMBED -->
+> [!note] Posisi Mutlak Elemen Media
+> **ATURAN WAJIB:** Komponen pemutar presentasi ini **HARUS SELALU BERADA PADA BAGIAN PALING TERAKHIR DOKUMEN**. Jangan memindahkannya ke atas, tengah, maupun di bawah judul utama agar alur membaca narasi ilmiah tidak terpecah dan rendering dokumen tetap ringan.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; border: 1px solid var(--lightgray); margin: 1.5rem 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+  <iframe 
+    src="https://onedrive.live.com/embed?resid=PLACEHOLDER_RESID&authkey=PLACEHOLDER_AUTHKEY&em=2" 
+    width="100%" 
+    height="100%" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    frameborder="0" 
+    scrolling="no" 
+    allowfullscreen="true" 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+<div style="display: flex; gap: 0.75rem; justify-content: flex-end; margin-top: 0.5rem; flex-wrap: wrap;">
+  <a href="https://onedrive.live.com/view.aspx?resid=PLACEHOLDER_RESID" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; border-radius: 6px; background-color: var(--secondary); color: white; text-decoration: none; font-size: 0.85rem; font-weight: 500;">
+    <span>Buka di Tab Baru ↗</span>
+  </a>
+</div>
+<!-- END_OFFICE_PPTX_EMBED -->
 ```
+
 ---
 
 ## 5. Panduan Rinci Pengisian Komponen Anatomi Tema
@@ -86,12 +152,12 @@ Agar naskah yang dihasilkan mencapai standar emas (≥ 5.000 karakter), perhatik
 * Hadirkan narasi hidup keteladanan interaksi Rasulullah ﷺ: bagaimana ekspresi wajah beliau, pilihan kata lembut beliau, atau ketegasan santun beliau saat menghadapi para sahabat.
 
 ### Bagian 3: Komponen & Taksonomi Karakter
-* Petakan ke dalam tabel atau matriks terstruktur. Hindari paragraf narasi yang bertele-tele tanpa poin terukur.
-* Rinci indikator perilaku nyata yang dapat diobservasi oleh mata orang tua di rumah.
+* Petakan ke dalam tabel atau matriks terstruktur. Hindari narasi bertele-tele tanpa indikator terukur.
+* **Format Bagan / Diagram:** Buat diagram alur dalam **Obsidian Canvas** (`.canvas`) lalu tautkan link kanvasnya. Dilarang menyisipkan blok diagram Mermaid karena sering mengalami bug rendering pada mode cetak/mobile.
 
 ### Bagian 4: Diagnosis Penyimpangan: Tafrith vs Ifrath
-* **Tafrith (Under-demanding / Lalai):** Bahas bagaimana pembiaran fitrah melahirkan generasi lembek, tidak mandiri, dan rapuh iman.
-* **Ifrath (Over-demanding / Menindas):** Bahas bagaimana kekerasan verbal/fisik dan pemaksaan target melahirkan luka pengasuhan, kepalsuan adab, dan depresi batin.
+* **Tafrith (Under-demanding / Lalai):** Bahas bagaimana pembiaran fitrah melahirkan generasi rapuh iman dan tidak mandiri.
+* **Ifrath (Over-demanding / Menindas):** Bahas bagaimana kekerasan verbal/fisik dan pemaksaan target melahirkan luka pengasuhan dan adab munafik.
 * **Wasathiyah:** Tunjukkan keindahan jalan tengah yang memanusiakan anak.
 
 ### Bagian 5: Panduan Praktis untuk Ayah, Bunda & Guru
@@ -102,3 +168,11 @@ Agar naskah yang dihasilkan mencapai standar emas (≥ 5.000 karakter), perhatik
 
 ### Bagian 7: Studi Kasus Nyata & Solusi Kuratif
 * Sajikan satu skenario problematika nyata pengasuhan kontemporer dan susun langkah solusinya secara bertahap (*tadarruj*).
+
+### Bagian 8: Trio Refleksi Lapangan (Penutup Konten)
+* Letakkan 3 blok callout (`[!info]`, `[!warning]`, `[!tip]`) secara berurutan di ujung naskah konten sebelum daftar pustaka. Trio callout ini berfungsi sebagai jembatan kontemplatif bagi pembaca.
+
+### Bagian 9: Penempatan Mutlak Media Presentasi (Iframe Slide)
+* **Kaidah Mutlak:** Blok `<!-- START_OFFICE_PPTX_EMBED -->` hingga `<!-- END_OFFICE_PPTX_EMBED -->` adalah **elemen penutup paling bawah dari seluruh file**.
+* Hal ini menjaga agar proses pembacaan teks tidak terdistorsi oleh iframe berat, menghindari pergeseran tata letak halaman (*layout shift*), dan memberikan kenyamanan penuh bagi pengguna perangkat mobile.
+

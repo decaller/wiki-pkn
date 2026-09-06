@@ -96,8 +96,8 @@ Agar kualitas naskah tetap terjaga dan selaras dengan manhaj, setiap kontributor
 * **Al-Qur'an:** Tuliskan lafaz Arab berharakat lengkap (Rasm Utsmani), terjemahan resmi bahasa Indonesia, dan keterangan nama surat serta nomor ayat: *(QS. Al-Baqarah [2]: 155)*.
 * **Hadits:** Sebutkan rawi hadits (HR. Bukhari, Muslim, Abu Dawud, dll), nomor hadits, serta derajat keshahihannya berdasarkan pentahqiq mu'tabar.
 
-### C. Anatomi Standar Artikel
-Setiap artikel materi sebaiknya memiliki elemen:
+### C. Anatomi Standar Artikel (9 Lapisan Baku)
+Setiap artikel materi wajib mengikuti urutan baku penempatan elemen demi penyeragaman desain:
 1. **Frontmatter YAML:**
    ```yaml
    ---
@@ -109,13 +109,20 @@ Setiap artikel materi sebaiknya memiliki elemen:
    ---
    ```
 2. **Banner Ilustrasi:** Disematkan di awal artikel: `![[assets/banners/nama_banner.webp]]`.
-3. **Isi Pembahasan Utama:** Terstruktur dengan heading `##`, `###`, poin teratur, dan bagan/tabel jika diperlukan.
-4. **Callout Refleksi & Mitigasi:** Diletakkan di bagian akhir konten artikel:
+3. **Catatan Metodologi & Rekonstruksi AI:** Blok callout `> [!note]` sebelum judul utama `#`.
+4. **Dalil Pokok & Takhrij:** Blok callout `> [!quote]` di bawah paragraf pembuka.
+5. **Isi Pembahasan Utama:** Terstruktur dengan heading `##`, `###`, poin teratur, tabel matriks, dan visualisasi relasional.
+   > [!tip] Format Diagram Visual
+   > **Wajib menggunakan Obsidian Canvas (`.canvas`)** atau tabel Markdown terstruktur. **Dilarang keras menggunakan blok Mermaid** karena rawan terjadi kegagalan render (*parsing error*) dan layout shift pada perangkat mobile.
+6. **Trio Callout Refleksi Lapangan:** Diletakkan persis di ujung akhir isi konten artikel:
    - `> [!info] Refleksi Lapangan: Realitas Penerapan ...`
-   - `> [!warning] Peringatan Risiko: Jebakan Formalitas ...`
-   - `> [!tip] Tips Praktis Pengasuhan ...`
-5. **Sitasi Rujukan Resmi:** `> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN` (jika materi bersumber dari slide pelatihan).
-6. **Media Presentasi & Slide Interaktif (Office Web Apps):** Disematkan sebagai elemen mutlak paling akhir di halaman (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`).
+   - `> [!warning] Peringatan Risiko: Jebakan Formalitas & Tafrith-Ifrath ...`
+   - `> [!tip] Rekomendasi Solusi & Aksi Praktis ...`
+7. **Sitasi Rujukan Resmi:** `> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN` (narasumber, dokumen standar, dan korpus dalil).
+8. **Media Presentasi & Slide Interaktif (Office Web Apps):** Disematkan sebagai **elemen mutlak paling akhir di halaman** (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`). Pemutar iframe tidak boleh disisipkan di tengah atau atas agar pembacaan teks nyaman tanpa layout shift.
+
+> 📚 **Template Baku Siap Pakai:**  
+> Untuk format kode salin-tempel lengkap, buka direktori template resmi: [[Template/index|Standar Template Wiki PKN]], [[Template Tema]], dan [[Template Elemen Karakteristik]].
 
 ---
 

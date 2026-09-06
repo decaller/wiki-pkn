@@ -18,7 +18,23 @@ Gunakan template ini khusus untuk mendeskripsikan elemen karakteristik personal,
 ```markdown
 ---
 title: "Nama Karakteristik / Bakat"
+description: "Profil karakteristik bakat nabawiyah, indikator alami, evaluasi rukun 3A, dan stimulasi peran peradaban."
+tags:
+  - bakat
+  - tb40
+  - fitrah-karakter
+aliases:
+  - Alias Bakat 1
+  - Alias Bakat 2
 ---
+
+![[assets/banners/banner_bakat.webp]]
+*Gambar: Ilustrasi potensi fitrah dan bakat keunikan anak*
+
+> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
+> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
+> 
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 # [Nama Karakteristik / Bakat] (Istilah Arab)
 
@@ -29,6 +45,7 @@ title: "Nama Karakteristik / Bakat"
 > **Kutipan Dalil / Hadits:**  
 > « (Teks hadits sanjungan atau penugasan Nabi ﷺ kepada sahabat tersebut) »  
 > *"(Terjemahan hadits)"*  
+> 📚 **Sumber Takhrij OpenBayan:** (Nama Kitab, Nomor Hadits)  
 > 💡 **Hikmah Bakat:** Mengapa Rasulullah ﷺ menempatkan sahabat ini pada pos peran peradaban tersebut sesuai potensi bawaannya.
 
 ---
@@ -57,9 +74,62 @@ Ciri-ciri spontan yang tampak pada anak yang memiliki karakteristik ini:
 * **Usia 10–15 Tahun (Murahaqah):** Dimagangkan pada mentor profesional atau proyek nyata yang menguji kehandalan karyanya.
 * **Usia 15+ Tahun (Syabab):** Dilepas mandiri untuk menghasilkan karya peradaban yang bermanfaat bagi umat.
 
-## 5. Tautan Induk Terkait
+## 5. Peta Karir Peradaban & Jurusan Studi Nyata
+* **Peran Khidmah Peradaban:** (Daftar profesi/peran kontribusi umat, misal: komandan logistik, arsitek infrastruktur, juru damai sosial).
+* **Rekomendasi Jurusan Belajar:** (Bidang keilmuan yang relevan di bangku studi tinggi).
+
+## 6. Tautan Induk Terkait
 * Kembali ke kategori induk: [[Bakat]]
 * Tautan sub-bakat terkait: [[Bekerja Keras]], [[Berpikir]], [[Berperasaan]], [[Memerintah]], [[Bekerja Sama]], [[Melayani]]
+
+---
+
+## 7. Trio Refleksi Lapangan, Peringatan Salah Asuh & Tips Stimulasi
+
+> [!info] Refleksi Lapangan: Mengamati Manifestasi Bakat Sehari-hari
+> (Tuliskan contoh perilaku nyata saat bakat ini muncul di kelas atau lingkungan rumah...)
+
+> [!warning] Peringatan Risiko: Jebakan Menyeragamkan Potensi Anak
+> (Tuliskan bahaya laten jika orang tua memaksakan anak dengan bakat ini untuk mengikuti standar anak lain yang berlainan fitrah...)
+
+> [!tip] Tips Stimulasi Praktis Ayah & Bunda
+> (Berikan 2 aksi konkrit harian untuk menyalurkan energi bakat ini ke arah amal shalih...)
+
+---
+
+> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
+> - **Materi Terkait:** Seminar 2: Tafsir Bakat TB-40 & Khazanah Bakat Sahabat.
+> - **Narasumber:** Ustadz Abdul Kholiq.
+> - **Alat Asesmen Digital:** [TafsirBakat.com](https://tafsirbakat.com/) & [TB40 Insan Mustaqbal](https://tb40.insanmustaqbal.or.id/).
+
+---
+
+## Media Presentasi & Slide Interaktif (Office Web Apps)
+
+<!-- START_OFFICE_PPTX_EMBED -->
+> [!note] Aturan Baku Penempatan Media
+> **PENTING:** Bagian ini **WAJIB DILETAKKAN DI PALING AKHIR HALAMAN**. Jangan meletakkan frame presentasi di awal atau tengah artikel agar tidak memotong konsentrasi pembaca dalam memahami indikator bakat anak.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; border: 1px solid var(--lightgray); margin: 1.5rem 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+  <iframe 
+    src="https://onedrive.live.com/embed?resid=PLACEHOLDER_RESID&authkey=PLACEHOLDER_AUTHKEY&em=2" 
+    width="100%" 
+    height="100%" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    frameborder="0" 
+    scrolling="no" 
+    allowfullscreen="true" 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+<div style="display: flex; gap: 0.75rem; justify-content: flex-end; margin-top: 0.5rem; flex-wrap: wrap;">
+  <a href="https://onedrive.live.com/view.aspx?resid=PLACEHOLDER_RESID" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; border-radius: 6px; background-color: var(--secondary); color: white; text-decoration: none; font-size: 0.85rem; font-weight: 500;">
+    <span>Buka di Tab Baru ↗</span>
+  </a>
+</div>
+<!-- END_OFFICE_PPTX_EMBED -->
 ```
 ---
 
