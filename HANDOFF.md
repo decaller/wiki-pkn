@@ -731,7 +731,7 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
 | **Standarisasi Template** | 🟢 **9 Lapisan Baku** | Urutan mutlak: Frontmatter → Banner → Note AI → Judul → Dalil → Konten → Trio Refleksi → Sitasi → **Media di paling akhir** |
 | **Versi Rilis Git** | 🟢 **v1.0.0 (`v1`)** | Tag rilis stabil resmi pertama Wiki PKN mencakup seluruh 48 Milestone |
-| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
+| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 (`0.0.0.0:4040 -> 8080/tcp`) |
 
 ---
 
@@ -742,7 +742,9 @@ Rilis **v1.0.0** menandai rampungnya fondasi utama arsitektur dan konten basis p
 2. **41 Presentasi Interaktif Terintegrasi**: 100% materi slide tayang terhubung ke Microsoft OneDrive embed player (`1drv.ms/p/c/...`) yang interaktif dan responsif di mobile maupun desktop.
 3. **Ekosistem Digital Terpadu**: Integrasi rujukan ke tes online Tafsir Bakat (`tafsirbakat.com` & `tb40.insanmustaqbal.or.id`) serta dokumentasi 22+ repositori software PKN di GitHub.
 4. **Desain Visual & Aksesibilitas Premium**: Header beranda panorama Uzungöl Mosque dari Pexels, navigasi kustom `OutlineNav` dengan inside-scrolling & state persistence, serta penataan hierarki Obsidian Canvas.
-5. **Infrastruktur Produksi Handal**: Deployment otomatis via GitOps Portainer stack, SSL HTTPS Cloudflare, dan waktu muat instan berbasis SSG Quartz v5.
+5. **Infrastruktur Produksi Handal**: 
+   - Konfigurasi port binding `docker-compose.yml` disetel paten dengan fallback `"${HOST_PORT:-4040}:${PORT:-8080}"` agar reverse proxy host (**Zoraxy**) selalu tersambung stabil ke port `4040`.
+   - Deployment otomatis via GitOps Portainer stack, SSL HTTPS Cloudflare, dan waktu muat instan berbasis SSG Quartz v5.
 
 
 
