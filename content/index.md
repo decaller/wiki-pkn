@@ -178,6 +178,7 @@ Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil
 * 🎥 **[[Referensi Kajian Video]]:** Indeks komprehensif berisi 122 judul rekaman kajian dan 1.159 bab transkrip pembahasan video Ustadz Abdul Kholiq untuk pendalaman materi audio-visual.
 * 📊 **[[Bahan Tayang & Slide PPTX]]:** Katalog 39 modul presentasi resmi berformat PowerPoint (.pptx) dengan penampil interaktif Microsoft Office Web Viewer.
 * 🎯 **Platform Asesmen & Peta Bakat TB40:** [Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/) • [Platform Alternatif TB40 Insan Mustaqbal (Tahap Dev)](https://tb40.insanmustaqbal.or.id/) • [Peta Visual Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)
+* 💻 **[[Pengembangan Software dan Ekosistem Digital PKN]]:** Peta pengembangan aktif software, repositori GitHub, dan arsitektur edutech Manhaj PKN (TB40, OpenBayan, Rapor Karakter, Mading Digital, dan Quran Sekejap).
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.

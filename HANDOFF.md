@@ -633,6 +633,30 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Sinkronisasi commit dan push ke branch `main` GitHub.
   - Deployment Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
 
+---
+
+### Milestone 45: Perayapan Repositori GitHub & Penerbitan Dokumen Ekosistem Software PKN `[SELESAI]`
+- **Perayapan Repositori GitHub (`scripts/crawl_github_repos.py`):**
+  - Mengembangkan skrip perayap GitHub API terotentikasi menggunakan Personal Access Token untuk menelusuri seluruh repositori pada:
+    1. Organisasi **Yayasan-Bina-Insan-Mustaqbal** (`https://github.com/Yayasan-Bina-Insan-Mustaqbal`): 15 repositori resmi.
+    2. Profil Pengembang **decaller / Harridi Ilman Tovid** (`https://github.com/decaller`): 54 repositori.
+  - Menyimpan pangkalan data mentah repositori di `data/github_repos_raw.json`.
+- **Penyusunan Naskah Komprehensif Baru (Gold Standard):**
+  - Menerbitkan dokumen baru: `content/Referensi/Pengembangan Software dan Ekosistem Digital PKN.md`.
+  - Mengelompokkan 22+ perangkat lunak PKN ke dalam 5 kluster arsitektur:
+    1. **Kluster 1 (Mesin Korpus Hadits & AI Knowledge Graph):** OpenBayan, OpenBayanNext, Hadith-Data-Sets (62.169 hadits 9 kitab), PKN-videoDB (Turso SQLite), dan Vector Search kajian video parenting.
+    2. **Kluster 2 (Ekosistem Digital Asesmen Bakat TB40):** TafsirBakat.com, TB40 Front-End (TanStack Start + shadcn/ui), TB40 Analytics API (Node.js/SQLite), API TB40 Explore, dan Peta Bakat Visual `pub.insantaqwa.org/bakat`.
+    3. **Kluster 3 (Sistem Rapor Karakter & Observasi Sekolah):** Rapor Karakter Monorepo (Builder & Runner SurveyJS), Rapor SD Google Drive Aggregator (Caddy + ODS), Observasi Karakter API, Survey Report PKN, dan HermesDIL Collabora.
+    4. **Kluster 4 (Media Interaktif & Edukasi Quran):** Mading Digital Android TV Signage (Zero-stutter crossfade), Modul Sekejap & Cursor Quran, Dzikr-Dua Mobile (Kotlin) & Web, Factory Blockly nalar cipta, dan PosterMaker (Typst).
+    5. **Kluster 5 (Wiki PKN & Infrastruktur Terbuka):** Quartz v5, Obsidian Canvas Engine, Docker Compose, dan Portainer GitOps.
+  - Dilengkapi tabel matriks komprehensif, panduan etika koding syar'i untuk developer Muslim, dan trio callout refleksi lapangan di akhir konten.
+- **Pembaruan Navigasi & Tautan Silang:**
+  - `content/Referensi/index.md`: Menambahkan baris *"💻 Ekosistem Software & Rekayasa PKN"* pada tabel master referensi.
+  - `content/index.md`: Menambahkan rujukan software PKN pada direktori master beranda.
+- **Verifikasi Kualitas & Produksi:**
+  - `npx quartz build` sukses 100% tanpa error (123 berkas Markdown ter-parse, 1.087 berkas statis terbit ke `public/`).
+
+
 
 
 
