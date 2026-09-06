@@ -716,6 +716,33 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Sinkronisasi commit dan push ke branch `main`.
   - Deployment otomatis via Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
 
+### Milestone 49: Integrasi Penuh Dataset Maktabah Syamilah & Injeksi Link Pencarian Tematik OpenBayan `[SELESAI]`
+- **Integrasi Penuh Dataset Maktabah Syamilah:**
+  - Memperbarui banner metodologi di seluruh artikel dari batas awal 60 kitab menjadi akses penuh ke seluruh dataset **Maktabah Syamilah** ribuan kitab turats Islam via OpenBayan API.
+  - Memperbarui dokumentasi di `Korpus Dalil & Atsar Klasik.md` dan `Pengembangan Software dan Ekosistem Digital PKN.md`.
+- **Injeksi Link Pencarian Tematik OpenBayan:**
+  - Mengarahkan query OpenBayan pada **tema pokok bahasan dalam bahasa Arab** (bukan sekadar kutipan teks dalil mentah), seperti `غاية خلق الإنسان` (Tujuan Penciptaan Manusia), `أمر الأولاد بالصلاة` (Pendidikan Shalat bagi Anak), `مراتب تغيير المنكر` (Tingkatan Mengubah Kemungkaran), dan `منافع الحديد` (Pemberdayaan Teknologi & Materi).
+  - Format URL terstandarisasi: `https://openbayan.insanmustaqbal.or.id/search?q=<TEMA_BAHASA_ARAB_URL_ENCODED>&lang=id`.
+
+---
+
+### Milestone 50: Penerbitan Halaman Khusus "Tentang Aplikasi Wiki PKN" & Iframe Animasi `[SELESAI]`
+- **Penyusunan Artikel Khusus [Tentang Aplikasi Wiki PKN.md](content/Referensi/Tentang%20Aplikasi%20Wiki%20PKN.md):**
+  - Menyusun naskah komprehensif (22.800+ karakter) di folder `Referensi/`:
+    1. *Identitas Platform:* URL live `wikipkn.insanmustaqbal.or.id`, repositori GitHub `decaller/wiki-pkn`, stack Quartz v5.
+    2. *Sumber Data Otentik:* 4 kategori sumber data (8 buku acuan, 145 PPT kurikulum, 122 video kajian `pkn.db`, 117 artikel SOTAB, Peta Bakat, asesmen TB40, korpus OpenBayan).
+    3. *Metodologi Pengolahan:* Standardisasi 9 lapisan baku, verifikasi takhrij dalil, konversi diagram Obsidian Canvas, integrasi audio/video.
+    4. *Metode Peringkasan & Penulisan:* AI-augmented synthesis, verifikasi silang kurikuler, gaya bahasa hikmah edukatif.
+    5. *Arsitektur Teknologi & Plugin:* Komponen kustom `OutlineNav` (hierarki `nav_structure.json`, inside-scrolling, state persistence), Quartz core components, CSS custom tokens.
+    6. *Infrastruktur Deployment & GitOps:* Container Docker alpine, port binding host 4040, Portainer Stack GitOps, reverse proxy Zoraxy, Cloudflare SSL.
+    7. *Katalog Skrip Otomasi:* 22 skrip Python di `scripts/` untuk crawling, audit, format, dan embedding.
+    8. *Ekosistem Terintegrasi:* 7 aplikasi web mitra Yayasan / Decaller.
+- **Penyematan Iframe Animasi SVG:**
+  - Mengganti tautan teks mentah `pub.insantaqwa.org/tujuan_hidup.html` pada `Tujuan Hidup Manusia.md` dengan sematan `<iframe>` interaktif responsif berbingkai rapi (lebar 100%, maks 640px, tinggi 380px) disertai kontrol playback visual.
+- **Pembaruan Navigasi & Indeks:**
+  - Mendaftarkan entri baru di `content/Referensi/index.md`, `nav_structure.json`, dan `README.md`.
+  - Total artikel valid meningkat menjadi **124 berkas Markdown** dengan 1.112 berkas web statis terbit.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
