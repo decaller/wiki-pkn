@@ -18,7 +18,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari materi kurikulum, modul pelatihan pendidik, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 >  
-> Naskah ini telah melalui verifikasi dan pengayaan dalil-dalil shahih dari korpus **OpenBayan** (60 kitab klasik Hadits & Sunnah), serta diperkaya dengan sintesis masukan dari tim **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan dalil-dalil shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis masukan dari tim **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Disiplin Positif dan Tiga Bahasa Pengasuhan Nabawiyah](/assets/banners/banner_bahasa_tangan.webp)
 
@@ -163,6 +163,7 @@ Jawabannya terletak pada **Cetak Biru 3 Bahasa Pengasuhan Nabawiyah**:
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (Kitab ash-Shalah, No. 495) & Al-Hakim dalam Al-Mustadrak (No. 708), dinilai Shahih oleh Al-Albani.  
 > 💡 **Relevansi PKN:** Hadits ini merupakan cetak biru baku syariat mengenai batas usia perintah (*Bahasa Lisan*) dan batas usia penegakan sanksi fisik (*Bahasa Tangan*).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 
 ### 💡 Pertanyaan Reflektif
 1. Mengapa ada **jeda 3 tahun penuh (usia 7 ke 10 tahun)** antara kata "perintahkan" dan "pukullah"? Tiga tahun adalah rentang waktu untuk mengulang perintah lebih dari 5.000 kali shalat fardhu dengan penuh kesabaran nalar dan teladan, bukan kekerasan!
@@ -177,6 +178,7 @@ Jawabannya terletak pada **Cetak Biru 3 Bahasa Pengasuhan Nabawiyah**:
 > *"Rasulullah ﷺ keluar menemui kami dalam salah satu shalat malam seraya menggendong Hasan atau Husain. Beliau maju lalu meletakkannya di sampingnya, kemudian bertakbir memulai shalat. Di tengah shalatnya, beliau sujud sangat lama... Setelah selesai, para sahabat bertanya: 'Wahai Rasulullah, engkau sujud begitu lama sampai kami mengira terjadi sesuatu atau wahyu sedang turun kepadamu.' Beliau menjawab: 'Bukan demikian, melainkan cucuku menunggangi punggungku, maka aku enggan membuatnya terburu-buru hingga ia menuntaskan keinginannya.'"*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. An-Nasa'i (Kitab at-Tathbiq, No. 1141) & Musnad Ahmad (No. 16033). Hadits Shahih.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AE%D9%8E%D8%B1%D9%8E%D8%AC%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D8%A7%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%20%D9%88%D9%8E%D8%B3%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D9%81%D9%90%D9%8A%20%D8%A5%D9%90%D8%AD%D9%92%D8%AF%D9%8E%D9%89&lang=id)
 
 👉 **Pelajaran Pengasuhan:**  
 Mengapa Nabi ﷺ membiarkan anak kecil "mengganggu" rukun shalat yang paling agung? Karena pada usia 0–7 tahun (*Fase Thufulah*), target utama pengasuhan bukanlah penegakan formalitas adab yang kaku, melainkan menanamkan persepsi batin bahwa **masjid, ibadah, dan Allah adalah tempat yang paling hangat dan menyenangkan** melalui Bahasa Hati.
@@ -196,6 +198,7 @@ Dalam manhaj PKN, hadits masyhur mengenai tahapan mencegah kemungkaran direkonst
 > *"Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika ia tidak mampu, maka dengan lisannya. Dan jika ia tidak mampu juga, maka dengan hatinya, dan yang demikian itu adalah selemah-lemah iman."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Kitab al-Iman, No. 49).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8E%D9%86%D9%92%20%D8%B1%D9%8E%D8%A3%D9%8E%D9%89%20%D9%85%D9%90%D9%86%D9%92%D9%83%D9%8F%D9%85%D9%92%20%D9%85%D9%8F%D9%86%D9%92%D9%83%D9%8E%D8%B1%D9%8B%D8%A7%20%D9%81%D9%8E%D9%84%D9%92%D9%8A%D9%8F%D8%BA%D9%8E%D9%8A%D9%90%D9%91%D8%B1%D9%92%D9%87%D9%8F%20%D8%A8%D9%90%D9%8A%D9%8E%D8%AF%D9%90%D9%87%D9%90%D8%8C%20%D9%81%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%84%D9%8E%D9%85%D9%92%20%D9%8A%D9%8E%D8%B3%D9%92%D8%AA%D9%8E%D8%B7%D9%90%D8%B9%D9%92&lang=id)
 
 Dalam metodologi pendidikan, hadits ini dipahami secara berjenjang dari bawah ke atas:
 1. **Fa bi Qalbih (Bahasa Hati):**  
@@ -221,6 +224,7 @@ Seorang Arab Badui yang baru masuk Islam tiba-tiba kencing di sudut Masjid Nabaw
 > *"Biarkan dia menyelesaikan kencingnya, lalu siramlah bekas kencingnya dengan seember air. Sesungguhnya kalian diutus untuk mempermudah, bukan untuk mempersulit."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 220, 6128) & HR. Muslim (No. 284).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AF%D9%8E%D8%B9%D9%8F%D9%88%D9%87%D9%8F%20%D9%88%D9%8E%D8%A3%D9%8E%D8%B1%D9%90%D9%8A%D9%82%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A8%D9%8E%D9%88%D9%92%D9%84%D9%90%D9%87%D9%90%20%D8%B3%D9%8E%D8%AC%D9%92%D9%84%D9%8B%D8%A7%20%D9%85%D9%90%D9%86%D9%92%20%D9%85%D9%8E%D8%A7%D8%A1%D9%8D%D8%8C%20%D8%A3%D9%8E%D9%88%D9%92%20%D8%B0%D9%8E%D9%86%D9%8F%D9%88%D8%A8%D9%8B%D8%A7%20%D9%85%D9%90%D9%86%D9%92&lang=id)
 
 Nabi ﷺ kemudian memanggil orang Badui tersebut dengan ramah dan menasihatinya secara santun bahwa masjid adalah tempat suci untuk shalat dan dzikir.  
 👉 **Mengapa tidak dipukul dengan Bahasa Tangan?** Karena orang Badui tersebut berbuat salah **karena ketidaktahuan (belum berilmu)**. Pendekatannya wajib menggunakan **Bahasa Lisan**.
@@ -264,6 +268,7 @@ Atas kelalaian ini, Rasulullah ﷺ memberikan sanksi sosial berat berupa **boiko
 > *"Pena (catatan amal) diangkat dari tiga orang: dari orang yang tidur hingga ia bangun, dari anak kecil hingga ia baligh (bermimpi basah), dan dari orang gila hingga ia berakal."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (Kitab al-Hudud, No. 4403), At-Tirmidzi (No. 1423), Ibnu Majah (No. 2041), dan Ahmad (No. 940). Status: Shahih.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B1%D9%8F%D9%81%D9%90%D8%B9%D9%8E%20%D8%A7%D9%84%D9%92%D9%82%D9%8E%D9%84%D9%8E%D9%85%D9%8F%20%D8%B9%D9%8E%D9%86%D9%92%20%D8%AB%D9%8E%D9%84%D9%8E%D8%A7%D8%AB%D9%8E%D8%A9%D9%8D%3A%20%D8%B9%D9%8E%D9%86%D9%90%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A7%D8%A6%D9%90%D9%85%D9%90%20%D8%AD%D9%8E%D8%AA%D9%8E%D9%91%D9%89%20%D9%8A%D9%8E%D8%B3%D9%92%D8%AA%D9%8E%D9%8A%D9%92%D9%82%D9%90%D8%B8%D9%8E%D8%8C%20%D9%88%D9%8E%D8%B9%D9%8E%D9%86%D9%90&lang=id)
 
 Karena anak belum baligh dibebaskan dari beban dosa syariat oleh Allah Ta'ala, tindakan mendisiplinkan mereka bukanlah bentuk "hukuman pembalasan dosa", melainkan murni **edukasi pembiasaan fisik (*ta'dib*)**.
 

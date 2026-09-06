@@ -8,7 +8,7 @@ title: "Nafsul Lawwamah"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Nafsul Lawwamah: Introspeksi, Muhasabah, dan Penyesalan Hati](/assets/banners/banner-12.webp)
 
@@ -25,7 +25,8 @@ Allah Azza wa Jalla memuliakan entitas jiwa ini secara luar biasa dengan menjadi
 > 📚 **Takhrij & Analisis Ibnul Qayyim dalam Ighatsatul Lahafan (Juz 1 Hal. 76):**  
 > *"Nafsul Lawwamah adalah jiwa orang beriman. Al-Hasan Al-Bashri berkata: 'Sesungguhnya engkau tidak akan menjumpai seorang mukmin melainkan ia selalu mencela dirinya sendiri: Apa yang kuinginkan dengan ucapanku tadi? Apa maksud dari makananku tadi? Mengapa aku tergelincir berbuat demikian?' Adapun orang fasik, ia berjalan terus dalam kemaksiatannya tanpa pernah mencela dirinya sendiri. Lawwamah adalah benteng pertahanan terakhir yang menjaga fitrah manusia dari kehancuran."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%90%20%D8%A7%D9%84%D9%92%D9%82%D9%90%D9%8A%D9%8E%D8%A7%D9%85%D9%8E%D8%A9%D9%90%20%DB%9D%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8E%D8%A9%D9%90&lang=id)---
 
 ## 1. Trikotomi Lawwamah Menurut Ulama Klasik
 

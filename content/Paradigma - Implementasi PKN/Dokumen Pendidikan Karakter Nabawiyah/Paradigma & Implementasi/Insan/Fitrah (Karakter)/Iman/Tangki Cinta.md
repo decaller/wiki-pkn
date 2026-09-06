@@ -8,7 +8,7 @@ title: "Tangki Cinta"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Pengisian Tangki Cinta: Menumbuhkan Belas Kasih dan Kelembutan Fitrah](/assets/banners/banner-30.webp)
 
@@ -25,7 +25,8 @@ Rasulullah ﷺ adalah figur pendidik agung yang senantiasa memastikan tangki cin
 > 📚 **Syarah Al-Imam An-Nawawi dalam Syarah Shahih Muslim (Juz 15 Hal. 75):**  
 > *"Hadits ini merupakan anjuran agung untuk mencium anak-anak, mengusap kepala mereka, dan memperlakukan mereka dengan kelemahlembutan serta kasih sayang yang mendalam. Sikap kaku dan kasar kepada anak bukanlah tanda ketegasan kepemimpinan, melainkan tanda kekerasan hati yang dijauhkan dari curahan rahmat Allah. Kasih sayang yang ditampakkan secara fisik merupakan hak dasar fitrah anak yang wajib dipenuhi oleh para orang tua."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%86%D9%8E%D9%91%20%D8%A3%D9%8E%D8%A8%D9%8E%D8%A7%20%D9%87%D9%8F%D8%B1%D9%8E%D9%8A%D9%92%D8%B1%D9%8E%D8%A9%D9%8E%20%D8%B1%D9%8E%D8%B6%D9%90%D9%8A%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%86%D9%92%D9%87%D9%8F%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%82%D9%8E%D8%A8%D9%8E%D9%91%D9%84%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90&lang=id)---
 
 ## 1. Patologi Tangki Cinta Kosong: Pintu Masuk Kehancuran Karakter
 

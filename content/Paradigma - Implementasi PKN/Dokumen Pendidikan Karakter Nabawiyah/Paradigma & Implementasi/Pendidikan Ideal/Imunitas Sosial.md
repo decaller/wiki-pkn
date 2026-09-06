@@ -8,7 +8,7 @@ title: "Imunitas Sosial"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Membangun Imunitas Sosial Menghadapi Tekanan Lingkungan](/assets/banners/banner-18.webp)
 
@@ -29,7 +29,8 @@ Rasulullah ﷺ secara tegas memuji seorang mukmin yang berinteraksi dengan masya
 > 📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani dalam Fathul Bari (Juz 4 Hal. 324):**  
 > *"Hadits ini menggariskan dua pilar utama dalam pergaulan sosial: anjuran kuat untuk selektif memilih sahabat karib (al-khalil), serta peringatan keras dari bergaul rapat dengan para pelaku maksiat dan ahli bid'ah. Teman duduk memiliki pengaruh tak kasat mata (al-adwa) yang meresap ke dalam tabiat jiwa manusia. Oleh karena itu, membentengi anak dengan kemampuan menyaring pergaulan adalah fardhu kifayah bagi para wali agar agama anak mereka selamat."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D8%A7%D9%84%D9%90%D8%AD%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%88%D9%92%D8%A1%D9%90%20%D9%83%D9%8E%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%90%20%D8%B5%D9%8E%D8%A7%D8%AD%D9%90%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%85%D9%90%D8%B3%D9%92%D9%83%D9%90&lang=id)---
 
 ## 1. Dekonstruksi Isolasi Buta vs Imunitas Nabawiyah
 

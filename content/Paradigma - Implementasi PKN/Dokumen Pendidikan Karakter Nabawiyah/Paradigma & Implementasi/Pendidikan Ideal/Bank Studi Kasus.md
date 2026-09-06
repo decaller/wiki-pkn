@@ -16,7 +16,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -26,6 +26,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim No. 2593) & Syarah Riyadush Shalihin (Juz 49 Hal. 7)  
 > 💡 **Relevansi PKN:** Penanganan setiap studi kasus penyimpangan anak harus diawali dengan pendinginan emosi, pengisian tangki cinta, dan pendekatan bertahap berbasis kelembutan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D8%B1%D9%8E%D9%81%D9%90%D9%8A%D9%82%D9%8C%20%D9%8A%D9%8F%D8%AD%D9%90%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%8E%D8%8C%20%D9%88%D9%8E%D9%8A%D9%8F%D8%B9%D9%92%D8%B7%D9%90%D9%8A%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%90%20%D9%85%D9%8E%D8%A7%20%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 

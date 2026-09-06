@@ -18,9 +18,9 @@ description: "Kajian komprehensif Master Katalog Dalil Hadits dan Sunnah dalam k
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
-Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu Katsir, dan Syarah Klasik*) yang diekstraksi dari korpus **OpenBayan** (`data/shamela_corpus.db`) untuk setiap topik bahasan di **Wiki PKN**.
+Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu Katsir, dan Syarah Klasik*) yang diekstraksi dari korpus **OpenBayan** (terintegrasi penuh dengan seluruh dataset **Maktabah Syamilah**, `data/shamela_corpus.db`) untuk setiap topik bahasan di **Wiki PKN**.
 
 > **Total Entri Terindeks:** 44 berkas halaman materi pokok.
 
@@ -36,6 +36,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka mengabdi (beribadah) kepada-Ku."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Adz-Dzariyat: 56 & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 180)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D8%AA%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%90%D9%86%D9%8E%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%84%D9%90%D9%8A%D9%8E%D8%B9%D9%92%D8%A8%D9%8F%D8%AF%D9%8F%D9%88%D9%86%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Menegaskan orientasi mutlak penciptaan manusia adalah ibadah, penghambaan, dan ketundukan total hanya kepada Allah.
 
 ---
@@ -50,6 +51,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya salah seorang di antara kalian dihimpunkan penciptaannya dalam perut ibunya selama empat puluh hari sebagai nuthfah, kemudian menjadi 'alaqah selama itu pula, kemudian menjadi mudhghah selama itu pula, kemudian diutuslah malaikat kepadanya lalu meniupkan ruh padanya..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab Bad'ul Khalq, No. 3208) & Muslim No. 2643  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A3%D9%8E%D8%AD%D9%8E%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%8A%D9%8F%D8%AC%D9%92%D9%85%D9%8E%D8%B9%D9%8F%20%D8%AE%D9%8E%D9%84%D9%92%D9%82%D9%8F%D9%87%D9%8F%20%D9%81%D9%90%D9%8A%20%D8%A8%D9%8E%D8%B7%D9%92%D9%86%D9%90%20%D8%A3%D9%8F%D9%85%D9%90%D9%91%D9%87%D9%90%20%D8%A3%D9%8E%D8%B1%D9%92%D8%A8%D9%8E%D8%B9%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8B%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Ruh berasal dari tiupan langsung dari Allah yang suci, sedangkan jasad berasal dari tanah; perpaduan keduanya melahirkan entitas jiwa (*an-nafs*) yang diuji di dunia.
 
 ---
@@ -64,6 +66,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Jiwa manusia bertingkat menjadi tiga kondisi: Jiwa yang senantiasa memerintahkan keburukan (Ammarah bis-Suu'), Jiwa yang suka mencela dan menyesali kekhilafan (Lawwamah), dan Jiwa yang tenang tentram dalam keridhaan (Muthmainnah)."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** Tafsir Ibnu Katsir (Surat Yusuf: 53, Al-Qiyamah: 2, & Al-Fajr: 27–30) & Syarah Riyadush Shalihin (Juz 4 Hal. 11)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%86%D9%91%D9%8E%D9%81%D9%92%D8%B3%D9%8F%20%D8%AB%D9%8E%D9%84%D9%8E%D8%A7%D8%AB%D9%8E%D8%A9%D9%8F%20%D8%A3%D9%8E%D9%82%D9%92%D8%B3%D9%8E%D8%A7%D9%85%D9%8D%3A%20%D8%A3%D9%8E%D9%85%D9%91%D9%8E%D8%A7%D8%B1%D9%8E%D8%A9%D9%8C%20%D8%A8%D9%90%D8%A7%D9%84%D8%B3%D9%91%D9%8F%D9%88%D8%A1%D9%90%D8%8C%20%D9%88%D9%8E%D9%84%D9%8E%D9%88%D9%91%D9%8E%D8%A7%D9%85%D9%8E%D8%A9%D9%8C%D8%8C&lang=id)
 > 💡 **Relevansi PKN:** Fondasi taksonomi trilogi jiwa dalam PKN yang menjadi dasar pendekatan tarbiyah sesuai dinamika batiniah anak.
 
 ---
@@ -78,6 +81,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan aku tidak membebaskan diriku (dari kesalahan), karena sesungguhnya nafsu itu selalu menyuruh kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Tuhanku. Sesungguhnya Tuhanku Maha Pengampun lagi Maha Penyayang."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Yusuf: 53 & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 1 Hal. 591)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D8%A8%D9%8E%D8%B1%D9%90%D9%91%D8%A6%D9%8F%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%8A%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%D8%B1%D9%8E%D8%A9%D9%8C%20%D8%A8%D9%90%D8%A7%D9%84%D8%B3%D9%8F%D9%91%D9%88%D8%A1%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Jiwa ammarah berorientasi fisik dan dorongan syahwat/hawa nafsu; tugas pendidikan bukan membunuhnya melainkan mendisiplinkannya melalui latihan fisik dan aturan ibadah nyata.
 
 ---
@@ -92,6 +96,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan Aku bersumpah dengan jiwa yang amat menyesali (dirinya sendiri)."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Qiyamah: 2 & Syarah Shahih al-Bukhari Ibnu Bathal (Juz 4 Hal. 325)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8E%D8%A9%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Jiwa lawwamah adalah daya akal dan nalar evaluatif (*cipta*) yang menegur pemiliknya ketika berbuat salah dan mendorong introspeksi diri (*muhasabah*).
 
 ---
@@ -106,6 +111,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Wahai jiwa yang tenang! Kembalilah kepada Tuhanmu dengan hati yang puas lagi diridhai-Nya. Maka masuklah ke dalam jamaah hamba-hamba-Ku, dan masuklah ke dalam surga-Ku."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Fajr: 27–30 & Syarah Aqidah Thahawiyah Ar-Rajhi (Hal. 294)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8E%D9%91%D8%AA%D9%8F%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%B7%D9%92%D9%85%D9%8E%D8%A6%D9%90%D9%86%D9%8E%D9%91%D8%A9%D9%8F%20%DB%9D%20%D8%A7%D8%B1%D9%92%D8%AC%D9%90%D8%B9%D9%90%D9%8A%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%D9%B0%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%90%20%D8%B1%D9%8E%D8%A7%D8%B6%D9%90%D9%8A%D9%8E%D8%A9%D9%8B&lang=id)
 > 💡 **Relevansi PKN:** Puncak kematangan spiritual anak ketika hati tunduk damai, ridha pada ketetapan Allah, dan terjaga dari gejolak amarah maupun keraguan pikiran.
 
 ---
@@ -120,6 +126,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Setiap anak dilahirkan di atas fitrah (kesucian tauhid). Maka kedua orang tuanyalah yang menjadikannya seorang Yahudi, Nasrani, atau Majusi..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Jana'iz, No. 1385) & Muslim No. 2658  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%20%D9%85%D9%8E%D9%88%D9%92%D9%84%D9%8F%D9%88%D8%AF%D9%8D%20%D9%8A%D9%8F%D9%88%D9%84%D9%8E%D8%AF%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D9%81%D9%90%D8%B7%D9%92%D8%B1%D9%8E%D8%A9%D9%90%D8%8C%20%D9%81%D9%8E%D8%A3%D9%8E%D8%A8%D9%8E%D9%88%D9%8E%D8%A7%D9%87%D9%8F%20%D9%8A%D9%8F%D9%87%D9%8E%D9%88%D9%90%D9%91%D8%AF%D9%8E%D8%A7%D9%86%D9%90%D9%87%D9%90%20%D8%A3%D9%8E%D9%88%D9%92&lang=id)
 > 💡 **Relevansi PKN:** Fitrah adalah cetak biru suci bawaan lahir; peran pengasuhan orang tua adalah menjaga (*ri'ayah*) dan menumbuhkan, bukan mendistorsi atau merusaknya.
 
 ---
@@ -134,6 +141,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Kami dahulu bersama Nabi ﷺ saat kami masih remaja yang tangguh. Kami belajar iman sebelum belajar Al-Qur'an, kemudian kami mempelajari Al-Qur'an sehingga bertambahlah iman kami karenanya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Ibnu Majah (No. 61) & Al-Abwab wat-Tarajim li Shahihil Bukhari (Juz 2 Hal. 341)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%86%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%B9%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A8%D9%90%D9%8A%D9%90%D9%91%20%EF%B7%BA%20%D9%88%D9%8E%D9%86%D9%8E%D8%AD%D9%92%D9%86%D9%8F%20%D9%81%D9%90%D8%AA%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8C%20%D8%AD%D9%8E%D8%B2%D9%8E%D8%A7%D9%88%D9%90%D8%B1%D9%8E%D8%A9%D9%8C%D8%8C%20%D9%81%D9%8E%D8%AA%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%92%D9%86%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Menegaskan kaidah metodologis PKN: menumbuhkan kecintaan dan keimanan mendalam kepada Allah terlebih dahulu sebelum membebani hafalan ilmu teks kognitif.
 
 ---
@@ -148,6 +156,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Orang-orang yang penyayang niscaya akan disayangi oleh Dzat Yang Maha Pengasih. Sayangilah siapa pun yang ada di muka bumi, niscaya yang ada di langit akan menyayangi kalian."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 4941) & Syarah Riyadush Shalihin Hathibah (Juz 40 Hal. 6)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%A7%D8%AD%D9%90%D9%85%D9%8F%D9%88%D9%86%D9%8E%20%D9%8A%D9%8E%D8%B1%D9%92%D8%AD%D9%8E%D9%85%D9%8F%D9%87%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%8E%D9%86%D9%8F%D8%8C%20%D8%A7%D8%B1%D9%92%D8%AD%D9%8E%D9%85%D9%8F%D9%88%D8%A7%20%D9%85%D9%8E%D9%86%D9%92%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D8%A3%D9%8E%D8%B1%D9%92%D8%B6%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Mengisi tangki cinta anak dengan sentuhan dan kasih sayang tulus adalah syarat mutlak agar anak dapat mengenal dan merasakan sifat Rahman Rahim Allah.
 
 ---
@@ -162,6 +171,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan Dia mengajarkan kepada Adam nama-nama (benda-benda) seluruhnya, kemudian mengemukakannya kepada para Malaikat..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Baqarah: 31 & Ikhtisar Shahih al-Bukhari wa Bayanu Gharibihi (Juz 3 Hal. 416)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D8%A2%D8%AF%D9%8E%D9%85%D9%8E%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B3%D9%92%D9%85%D9%8E%D8%A7%D8%A1%D9%8E%20%D9%83%D9%8F%D9%84%D9%8E%D9%91%D9%87%D9%8E%D8%A7%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%B9%D9%8E%D8%B1%D9%8E%D8%B6%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%84%D9%8E%D8%A7%D8%A6%D9%90%D9%83%D9%8E%D8%A9%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Manusia dibekali fitrah belajar dan kemampuan kognitif mengidentifikasi realitas alamiah semesta sebagai sarana menunaikan amanah di bumi.
 
 ---
@@ -176,6 +186,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Beramallah kalian, karena masing-masing orang akan dimudahkan untuk menempuh jalan yang telah diciptakan baginya..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 295)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D9%81%D9%8E%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%85%D9%8F%D9%8A%D9%8E%D8%B3%D9%8E%D9%91%D8%B1%D9%8C%20%D9%84%D9%90%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8F%D9%84%D9%90%D9%82%D9%8E%20%D9%84%D9%8E%D9%87%D9%8F%D8%9B%20%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D9%86%D9%92%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Setiap anak dibekali keunikan bakat dan kemudahan amal (*isti'dad*) spesifik yang harus diobservasi secara personal ('satu anak satu kurikulum').
 
 ---
@@ -190,6 +201,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya Allah menyukai jika salah seorang di antara kalian melakukan suatu pekerjaan, ia mengerjakannya dengan tekun dan berkualitas tinggi (itqan)."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Baihaqi (Syu'abul Iman No. 4930) & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 5 Hal. 12)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%8A%D9%8F%D8%AD%D9%90%D8%A8%D9%8F%D9%91%20%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%B9%D9%8E%D9%85%D9%90%D9%84%D9%8E%20%D8%A3%D9%8E%D8%AD%D9%8E%D8%AF%D9%8F%D9%83%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%85%D9%8E%D9%84%D9%8B%D8%A7%20%D8%A3%D9%8E%D9%86%D9%92%20%D9%8A%D9%8F%D8%AA%D9%92%D9%82%D9%90%D9%86%D9%8E%D9%87%D9%8F&lang=id)
 > 💡 **Relevansi PKN:** Bakat bekerja keras melahirkan etos *himmah* tinggi, kesungguhan beramal (*itqan*), dan pantang menyerah dalam menuntaskan amanah.
 
 ---
@@ -204,6 +216,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Jum'ah, No. 893) & Riyadush Shalihin (Hal. 112)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%B1%D9%8E%D8%A7%D8%B9%D9%8D%20%D9%88%D9%8E%D9%83%D9%8F%D9%84%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D9%85%D9%8E%D8%B3%D9%92%D8%A6%D9%8F%D9%88%D9%84%D9%8C%20%D8%B9%D9%8E%D9%86%D9%92%20%D8%B1%D9%8E%D8%B9%D9%90%D9%8A%D9%8E%D9%91%D8%AA%D9%90%D9%87%D9%90%D8%8C%20%D9%81%D9%8E%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%85%D9%8E%D8%A7%D9%85%D9%8F%20%D8%B1%D9%8E%D8%A7%D8%B9%D9%8D&lang=id)
 > 💡 **Relevansi PKN:** Bakat kepemimpinan nabawiyah berakar dari rasa tanggung jawab (*amanah*) dan keberanian (*syaja'ah*) membela kebenaran serta memandu umat.
 
 ---
@@ -218,6 +231,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Allah menganugerahkan hikmah kepada siapa yang Dia kehendaki. Dan barangsiapa dianugerahi hikmah, dia benar-benar telah dianugerahi kebajikan yang banyak..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Baqarah: 269 & Syarah Shahih al-Bukhari lil-Huwaini (Juz 2 Hal. 8)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8F%D8%A4%D9%92%D8%AA%D9%90%D9%8A%20%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%8E%20%D9%85%D9%8E%D9%86%20%D9%8A%D9%8E%D8%B4%D9%8E%D8%A7%D8%A1%D9%8F%20%DB%9A%20%D9%88%D9%8E%D9%85%D9%8E%D9%86%20%D9%8A%D9%8F%D8%A4%D9%92%D8%AA%D9%8E%20%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%8E%20%D9%81%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8F%D9%88%D8%AA%D9%90%D9%8A%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Bakat berpikir bukan sekadar cerdas logika analitis, melainkan menghasilkan *hikmah* dan firasat tajam yang menuntun pada amal shalih.
 
 ---
@@ -232,6 +246,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Ma'idah: 2 & Mukhtashar Tafsir Ibnu Katsir (Juz 1 Hal. 474)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%88%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D8%A8%D9%90%D8%B1%D9%90%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D8%AA%D9%8E%D9%91%D9%82%D9%92%D9%88%D9%8E%D9%89%D9%B0%20%DB%96%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%88%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D8%AB%D9%92%D9%85%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Bakat interaksi dan kerjasama dibangun di atas pilar keadilan (*'adalah*), kasih sayang (*mahabbah*), dan tolong-menolong dalam kebaikan.
 
 ---
@@ -246,6 +261,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Iman memiliki tujuh puluh lebih cabang, dan rasa malu (kepekaan nurani) adalah salah satu cabang penting dari iman."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 9) & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 4 Hal. 24)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%8A%D9%85%D9%8E%D8%A7%D9%86%D9%8F%20%D8%A8%D9%90%D8%B6%D9%92%D8%B9%D9%8C%20%D9%88%D9%8E%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%8F%D9%88%D9%86%D9%8E%20%D8%B4%D9%8F%D8%B9%D9%92%D8%A8%D9%8E%D8%A9%D9%8B%D8%8C%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%8A%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B4%D9%8F%D8%B9%D9%92%D8%A8%D9%8E%D8%A9%D9%8C%20%D9%85%D9%90%D9%86%D9%8E%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%8A%D9%85%D9%8E%D8%A7%D9%86%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Bakat berperasaan membentengi anak dengan kepekaan nurani (*haya'*), kejujuran (*shidq*), dan kerendahan hati (*tawadhu'*).
 
 ---
@@ -260,6 +276,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan mereka mengutamakan (orang lain) atas diri mereka sendiri, sekalipun mereka dalam kesusahan. Dan siapa yang dipelihara dari kekikiran dirinya, mereka itulah orang-orang yang beruntung."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Hasyr: 9 & Asyrun Haditsan min Shahihil Bukhari (Hal. 47)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%8A%D9%8F%D8%A4%D9%92%D8%AB%D9%90%D8%B1%D9%8F%D9%88%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%90%D9%87%D9%90%D9%85%D9%92%20%D9%88%D9%8E%D9%84%D9%8E%D9%88%D9%92%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%A8%D9%90%D9%87%D9%90%D9%85%D9%92%20%D8%AE%D9%8E%D8%B5%D9%8E%D8%A7%D8%B5%D9%8E%D8%A9%D9%8C%20%DB%9A%20%D9%88%D9%8E%D9%85%D9%8E%D9%86%20%D9%8A%D9%8F%D9%88%D9%82%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Bakat melayani merefleksikan karakter *itsaar* (mendahulukan orang lain) dan *rahmah* untuk memberikan kemanfaatan seluas-luasnya bagi sesama.
 
 ---
@@ -274,6 +291,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Allah, Dialah yang menciptakan kamu dari keadaan lemah, kemudian Dia menjadikan (kamu) sesudah keadaan lemah itu menjadi kuat, kemudian Dia menjadikan (kamu) sesudah kuat itu lemah (kembali) dan beruban..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Ar-Rum: 54 & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 3 Hal. 467)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%8E%D9%83%D9%8F%D9%85%20%D9%85%D9%90%D9%91%D9%86%20%D8%B6%D9%8E%D8%B9%D9%92%D9%81%D9%8D%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%AC%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%20%D9%85%D9%90%D9%86%20%D8%A8%D9%8E%D8%B9%D9%92%D8%AF%D9%90%20%D8%B6%D9%8E%D8%B9%D9%92%D9%81%D9%8D%20%D9%82%D9%8F%D9%88%D9%8E%D9%91%D8%A9%D9%8B&lang=id)
 > 💡 **Relevansi PKN:** Fitrah manusia tumbuh melalui tahapan perkembangan teratur yang memiliki karakteristik, tugas perkembangan, dan ujian spesifik di setiap fasenya.
 
 ---
@@ -288,6 +306,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Rasulullah ﷺ mencium cucunya Hasan bin Ali sementara di dekat beliau ada Al-Aqra' bin Habis. Al-Aqra' berkata: 'Aku memiliki sepuluh anak, tak seorang pun dari mereka yang pernah kucium.' Maka Rasulullah ﷺ memandangnya lalu bersabda: 'Barangsiapa tidak menyayangi, niscaya tidak disayangi.'"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Adab, No. 5997) & Riyadush Shalihin (Hal. 106)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%A8%D9%8E%D9%91%D9%84%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%EF%B7%BA%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B3%D9%8E%D9%86%D9%8E%20%D8%A8%D9%92%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%90%D9%8A%D9%8D%D9%91%20%D9%88%D9%8E%D8%B9%D9%90%D9%86%D9%92%D8%AF%D9%8E%D9%87%D9%8F%20%D8%A7%D9%84%D8%A3%D9%8E%D9%82%D9%92%D8%B1%D9%8E%D8%B9%D9%8F%20%D8%A8%D9%92%D9%86%D9%8F&lang=id)
 > 💡 **Relevansi PKN:** Fase Thufulah (0–7 tahun) adalah masa emas bermain, dipeluk, dan dicium untuk mengisi penuh tangki cintanya tanpa intimidasi hukuman keras.
 
 ---
@@ -302,6 +321,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Perintahkan anak-anak kalian untuk menunaikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik) jika meninggalkannya ketika berusia sepuluh tahun, serta pisahkanlah tempat tidur mereka."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 495) & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 116)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 > 💡 **Relevansi PKN:** Usia 7–10 tahun adalah gerbang pembiasaan (*amr*) dan adab; anak mulai mampu membedakan baik dan buruk sehingga dilatih shalat secara konsisten tanpa kekerasan.
 
 ---
@@ -316,6 +336,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"...Dan pukullah mereka (dengan pukulan ketegasan tanpa mencederai) jika meninggalkannya ketika berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 495) & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 3 Hal. 173)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D8%B6%D9%92%D8%B1%D9%90%D8%A8%D9%8F%D9%88%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B9%D9%8E%D8%B4%D9%92%D8%B1%D9%8D%D8%8C%20%D9%88%D9%8E%D9%81%D9%8E%D8%B1%D9%90%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D9%81%D9%90%D9%8A&lang=id)
 > 💡 **Relevansi PKN:** Fase usia 10 tahun hingga baligh menuntut penegakan batas kedisiplinan tegas (*bahasa tangan*), penanaman rasa malu/privasi syariat, dan pemagangan karya mandiri menjelang mukallaf.
 
 ---
@@ -330,6 +351,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Tujuh golongan yang dinaungi Allah di bawah naungan-Nya pada hari tidak ada naungan selain naungan-Nya: ... (salah satunya) seorang pemuda yang tumbuh dewasa dalam beribadah kepada Allah."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Adzan, No. 660) & Bughyatul Muqtashid (Juz 3 Hal. 970)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%8E%D8%A9%D9%8C%20%D9%8A%D9%8F%D8%B8%D9%90%D9%84%D9%8F%D9%91%D9%87%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D9%81%D9%90%D9%8A%20%D8%B8%D9%90%D9%84%D9%90%D9%91%D9%87%D9%90%20%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8E%20%D9%84%D9%8E%D8%A7%20%D8%B8%D9%90%D9%84%D9%8E%D9%91%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D8%B8%D9%90%D9%84%D9%8F%D9%91%D9%87%D9%8F%3A%20...&lang=id)
 > 💡 **Relevansi PKN:** Puncak output PKN: mencetak pemuda aqil-baligh yang mandiri, tidak terjebak pubertas semu, dan menghabiskan masa mudanya untuk berbakti dan berkarya bagi umat.
 
 ---
@@ -344,6 +366,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pelajaran yang baik dan bantahlah mereka dengan cara yang baik..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. An-Nahl: 125 & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 2 Hal. 347)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%AF%D9%92%D8%B9%D9%8F%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%D9%B0%20%D8%B3%D9%8E%D8%A8%D9%90%D9%8A%D9%84%D9%90%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8E%20%D8%A8%D9%90%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%88%D9%92%D8%B9%D9%90%D8%B8%D9%8E%D8%A9%D9%90%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B3%D9%8E%D9%86%D9%8E%D8%A9%D9%90%20%DB%96&lang=id)
 > 💡 **Relevansi PKN:** Metodologi pendidikan bertahap yang mengedepankan hikmah (bahasa hati), nasihat dialogis (bahasa lisan), dan ketegasan santun (bahasa tangan).
 
 ---
@@ -358,6 +381,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya kelemahlembutan tidaklah berada pada sesuatu melainkan ia akan memperindahnya, dan tidaklah kelemahlembutan dicabut dari sesuatu melainkan ia akan memperburuknya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (No. 2594) & Syarah Riyadush Shalihin Hathibah (Juz 49 Hal. 7)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%8E%20%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8E%D9%83%D9%8F%D9%88%D9%86%D9%8F%20%D9%81%D9%90%D9%8A%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8D%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D8%B2%D9%8E%D8%A7%D9%86%D9%8E%D9%87%D9%8F%D8%8C%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8F%D9%86%D9%92%D8%B2%D9%8E%D8%B9%D9%8F%20%D9%85%D9%90%D9%86%D9%92&lang=id)
 > 💡 **Relevansi PKN:** Bahasa hati adalah induk segala metode mendidik; tanpa kehangatan, kelemahlembutan (*rifq*), dan keteladanan batiniah, nasihat lisan akan tertolak.
 
 ---
@@ -372,6 +396,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Wahai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan yang benar (tepat sasaran). Niscaya Allah memperbaiki bagimu amalan-amalanmu dan mengampuni bagimu dosa-dosamu..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Ahzab: 70–71 & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 42)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D8%A7%20%D9%82%D9%8E%D9%88%D9%92%D9%84%D9%8B%D8%A7%20%D8%B3%D9%8E%D8%AF%D9%90%D9%8A%D8%AF%D9%8B%D8%A7%20%DB%9D&lang=id)
 > 💡 **Relevansi PKN:** Bahasa lisan dalam PKN harus memenuhi kriteria *qaulan sadida* (jujur, tepat), *qaulan layyina* (santun), dan *qaulan baligha* (mengena ke relung jiwa anak).
 
 ---
@@ -386,6 +411,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Jika salah seorang di antara kalian terpaksa memukul (untuk mendisiplinkan), maka hindarilah memukul wajah!"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Itq, No. 2559) & Th. At-Ta'shil (Juz 3 Hal. 445)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%B6%D9%8E%D8%B1%D9%8E%D8%A8%D9%8E%20%D8%A3%D9%8E%D8%AD%D9%8E%D8%AF%D9%8F%D9%83%D9%8F%D9%85%D9%92%20%D9%81%D9%8E%D9%84%D9%92%D9%8A%D9%8E%D8%AC%D9%92%D8%AA%D9%8E%D9%86%D9%90%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%88%D9%8E%D8%AC%D9%92%D9%87%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Bahasa tangan adalah wujud ketegasan hukum (*ta'dib*) berbatas ketat syariat; tidak boleh didorong luapan amarah, tidak boleh melukai, dan haram menyentuh wajah atau merendahkan martabat anak.
 
 ---
@@ -400,6 +426,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"(Luqman berkata): 'Wahai anakku! Sesungguhnya jika ada (sesuatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di dalam bumi, niscaya Allah akan mendatangkannya (membalasnya)...'"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Luqman: 16 & Syarah Tafsir Ibnu Katsir Ar-Rajhi (Juz 115 Hal. 4)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A8%D9%8F%D9%86%D9%8E%D9%8A%D9%8E%D9%91%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%D9%87%D9%8E%D8%A7%20%D8%A5%D9%90%D9%86%20%D8%AA%D9%8E%D9%83%D9%8F%20%D9%85%D9%90%D8%AB%D9%92%D9%82%D9%8E%D8%A7%D9%84%D9%8E%20%D8%AD%D9%8E%D8%A8%D9%8E%D9%91%D8%A9%D9%8D%20%D9%85%D9%90%D9%91%D9%86%D9%92%20%D8%AE%D9%8E%D8%B1%D9%92%D8%AF%D9%8E%D9%84%D9%8D%20%D9%81%D9%8E%D8%AA%D9%8E%D9%83%D9%8F%D9%86%20%D9%81%D9%90%D9%8A&lang=id)
 > 💡 **Relevansi PKN:** Tarbiyah alamiah memanfaatkan fenomena nyata di alam semesta dan peristiwa keseharian untuk menancapkan kesadaran muraqabatullah (keagungan Allah).
 
 ---
@@ -414,6 +441,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara syubhat... seperti penggembala yang menggembalakan ternaknya di sekitar tanah larangan, hampir-hampir ia terjerumus ke dalamnya..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 52) & Hasyiyah As-Saharnafuri ala Shahih al-Bukhari (Juz 2 Hal. 643)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%84%D9%8E%D8%A7%D9%84%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B1%D9%8E%D8%A7%D9%85%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%D8%8C%20%D9%88%D9%8E%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D9%87%D9%8F%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%85%D9%8F%D9%88%D8%B1%D9%8C&lang=id)
 > 💡 **Relevansi PKN:** Menjaga batas toleransi (*hima*) agar fitrah anak tidak terkontaminasi oleh racun syubhat, pornografi, maupun pergaulan bebas yang merusak imunitas batinnya.
 
 ---
@@ -428,6 +456,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Perumpamaan teman duduk yang shalih dan teman duduk yang buruk ibarat penjual minyak wangi dan pandai besi. Bersama penjual minyak wangi, engkau mungkin membelinya atau mencium aroma semerbaknya..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Buyu', No. 2101) & Syarah Tafsir Ibnu Katsir Ar-Rajhi (Juz 56 Hal. 5)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D8%A7%D9%84%D9%90%D8%AD%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%88%D9%92%D8%A1%D9%90%20%D9%83%D9%8E%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%90%20%D8%B5%D9%8E%D8%A7%D8%AD%D9%90%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%85%D9%90%D8%B3%D9%92%D9%83%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Membangun imunitas sosial anak sejak dini melalui pembiasaan menyaring pertemanan dan lingkungan yang melestarikan keshalihan fitrahnya.
 
 ---
@@ -442,6 +471,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Cukuplah seseorang dikatakan berdosa besar jika ia menelantarkan dan menyia-nyiakan orang-orang yang berada di bawah tanggung jawab nafkah dan pengasuhannya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 1692) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 124)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8E%D9%81%D9%8E%D9%89%20%D8%A8%D9%90%D8%A7%D9%84%D9%92%D9%85%D9%8E%D8%B1%D9%92%D8%A1%D9%90%20%D8%A5%D9%90%D8%AB%D9%92%D9%85%D9%8B%D8%A7%20%D8%A3%D9%8E%D9%86%D9%92%20%D9%8A%D9%8F%D8%B6%D9%8E%D9%8A%D9%90%D9%91%D8%B9%D9%8E%20%D9%85%D9%8E%D9%86%D9%92%20%D9%8A%D9%8E%D9%82%D9%8F%D9%88%D8%AA%D9%8F&lang=id)
 > 💡 **Relevansi PKN:** Hutang pengasuhan terjadi saat orang tua abai mencurahkan kehadiran jiwa, kasih sayang, dan pendampingan karakter, yang kelak melahirkan luka batin menahun pada anak.
 
 ---
@@ -456,6 +486,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Setiap anak keturunan Adam pasti sering berbuat salah (khilaf), dan sebaik-baik orang yang berbuat salah adalah mereka yang senantiasa bertaubat."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Tirmidzi (No. 2499) & Syarah Riyadush Shalihin Hathibah (Juz 19 Hal. 9)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%20%D8%A8%D9%8E%D9%86%D9%90%D9%8A%20%D8%A2%D8%AF%D9%8E%D9%85%D9%8E%20%D8%AE%D9%8E%D8%B7%D9%8E%D9%91%D8%A7%D8%A1%D9%8C%20%D9%88%D9%8E%D8%AE%D9%8E%D9%8A%D9%92%D8%B1%D9%8F%20%D8%A7%D9%84%D9%92%D8%AE%D9%8E%D8%B7%D9%8E%D9%91%D8%A7%D8%A6%D9%90%D9%8A%D9%86%D9%8E%20%D8%A7%D9%84%D8%AA%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D8%A8%D9%8F%D9%88%D9%86%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Pemulihan fitrah (*recovery*) tidak pernah terlambat; dengan taubat nasuha, permohonan maaf orang tua kepada anak, dan restorasi adab, noda hati dapat dihilangkan secara tuntas.
 
 ---
@@ -470,6 +501,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Amalan yang paling dicintai oleh Allah Ta'ala adalah amalan yang paling konsisten (kontinu) meskipun jumlahnya sedikit."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab ar-Riqaq, No. 6464) & Manhaj Al-Karmani (Hal. 516)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D8%AD%D9%8E%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D8%A7%D9%84%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%84%D9%8E%D9%89%20%D8%A3%D9%8E%D8%AF%D9%92%D9%88%D9%8E%D9%85%D9%8F%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%82%D9%8E%D9%84%D9%8E%D9%91&lang=id)
 > 💡 **Relevansi PKN:** Mengendalikan sindrom euforia sesaat dalam hijrah parenting; kuncinya adalah *istiqamah* dan konsistensi harian mendampingi anak secara sabar.
 
 ---
@@ -484,6 +516,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat orang lari menjauh!"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Ilm, No. 69) & Riyadush Shalihin (Hal. 208)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D8%B9%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%D8%8C%20%D9%88%D9%8E%D8%A8%D9%8E%D8%B4%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D9%86%D9%8E%D9%81%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Kaidah emas implementasi PKN: menyajikan pendidikan karakter secara menggembirakan, aplikatif, dan tidak membebani di luar batas kemampuan anak.
 
 ---
@@ -498,6 +531,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Katakanlah: 'Tiap-tiap orang berbuat menurut keadaannya (potensi dan pembawaannya) masing-masing.' Maka Tuhanmu lebih mengetahui siapa yang lebih benar jalannya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Isra': 84 & Al-Hulal al-Ibriziyyah min Ta'liqat al-Baziyyah ala Shahih al-Bukhari (Juz 1 Hal. 30)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8F%D9%84%D9%92%20%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%B4%D9%8E%D8%A7%D9%83%D9%90%D9%84%D9%8E%D8%AA%D9%90%D9%87%D9%90%20%D9%81%D9%8E%D8%B1%D9%8E%D8%A8%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8F%20%D8%A8%D9%90%D9%85%D9%8E%D9%86%D9%92%20%D9%87%D9%8F%D9%88%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Membangun ekosistem implementasi yang menghargai keberagaman tipe fitrah (*syakilah*) masing-masing anak tanpa standardisasi pabrik.
 
 ---
@@ -512,6 +546,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sungguh beruntung orang yang menyucikan jiwa itu, dan sungguh merugi orang yang mengotorinya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Asy-Syams: 9–10 & Tatriz Riyadush Shalihin (Hal. 617)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8E%D9%81%D9%92%D9%84%D9%8E%D8%AD%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%B2%D9%8E%D9%83%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%88%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D8%A7%D8%A8%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%AF%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Penyucian jiwa (*tazkiyatun nafs*) adalah poros restorasi karakter; mendidik anak bermula dari kejernihan hati dan ketakwaan kedua orang tuanya.
 
 ---
@@ -526,6 +561,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Ya Tuhan kami, anugerahkanlah kepada kami pasangan-pasangan kami dan keturunan kami sebagai penyejuk hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Furqan: 74 & Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 2 Hal. 392)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B1%D9%8E%D8%A8%D9%8E%D9%91%D9%86%D9%8E%D8%A7%20%D9%87%D9%8E%D8%A8%D9%92%20%D9%84%D9%8E%D9%86%D9%8E%D8%A7%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D8%B2%D9%92%D9%88%D9%8E%D8%A7%D8%AC%D9%90%D9%86%D9%8E%D8%A7%20%D9%88%D9%8E%D8%B0%D9%8F%D8%B1%D9%90%D9%91%D9%8A%D9%8E%D9%91%D8%A7%D8%AA%D9%90%D9%86%D9%8E%D8%A7%20%D9%82%D9%8F%D8%B1%D9%8E%D9%91%D8%A9%D9%8E%20%D8%A3%D9%8E%D8%B9%D9%92%D9%8A%D9%8F%D9%86%D9%8D&lang=id)
 > 💡 **Relevansi PKN:** Kekuatan doa dan tawakkal orang tua adalah penentu keberhasilan tarbiyah; ikhtiar mendidik harus selalu diiringi penyerahan hasil kepada Allah.
 
 ---
@@ -540,6 +576,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. At-Tahrim: 6 & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 115)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%82%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%8A%D9%83%D9%8F%D9%85%D9%92%20%D9%86%D9%8E%D8%A7%D8%B1%D9%8B%D8%A7%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D8%AF%D9%8F%D9%87%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Tanggung jawab utama pendidikan berada di pundak orang tua; sekolah dan guru hanyalah mitra pendukung yang tidak menggantikan kewajiban asali keluarga.
 
 ---
@@ -554,6 +591,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Laki-laki (suami/ayah) itu adalah pemimpin bagi kaum wanita (istri/keluarga), oleh karena Allah telah melebihkan sebahagian mereka atas sebahagian yang lain..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. An-Nisa': 34 & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 121)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%B1%D9%90%D9%91%D8%AC%D9%8E%D8%A7%D9%84%D9%8F%20%D9%82%D9%8E%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8F%D9%88%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%86%D9%90%D9%91%D8%B3%D9%8E%D8%A7%D8%A1%D9%90%20%D8%A8%D9%90%D9%85%D9%8E%D8%A7%20%D9%81%D9%8E%D8%B6%D9%8E%D9%91%D9%84%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A8%D9%8E%D8%B9%D9%92%D8%B6%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0&lang=id)
 > 💡 **Relevansi PKN:** Ayah berperan sebagai nakhoda visi dan ketegasan arah peradaban, sementara bunda berperan sebagai madrasah pertama yang membasahi rumah dengan kasih sayang.
 
 ---
@@ -568,6 +606,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya para ulama (guru/pendidik) adalah pewaris para nabi. Dan sesungguhnya para nabi tidak mewariskan dinar maupun dirham, melainkan mewariskan ilmu..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (No. 3641) & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 383)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%B9%D9%8F%D9%84%D9%8E%D9%85%D9%8E%D8%A7%D8%A1%D9%8E%20%D9%88%D9%8E%D8%B1%D9%8E%D8%AB%D9%8E%D8%A9%D9%8F%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D9%86%D9%92%D8%A8%D9%90%D9%8A%D9%8E%D8%A7%D8%A1%D9%90%D8%8C%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D9%86%D9%92%D8%A8%D9%90%D9%8A%D9%8E%D8%A7%D8%A1%D9%8E%20%D9%84%D9%8E%D9%85%D9%92&lang=id)
 > 💡 **Relevansi PKN:** Guru dan sekolah bertindak sebagai penerus risalah kenabian yang menanamkan adab sebelum ilmu dan mendampingi fitrah unik setiap murid.
 
 ---
@@ -582,6 +621,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Agama itu adalah nasihat. Kami bertanya: 'Untuk siapa wahai Rasulullah?' Beliau menjawab: 'Untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan orang-orang awam di antara mereka.'"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim No. 55) & Shahih al-Bukhari (Th. Al-Sulthaniyyah, Juz 1 Hal. 21)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%AF%D9%90%D9%91%D9%8A%D9%86%D9%8F%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%B5%D9%90%D9%8A%D8%AD%D9%8E%D8%A9%D9%8F%D8%8C%20%D9%82%D9%8F%D9%84%D9%92%D9%86%D9%8E%D8%A7%3A%20%D9%84%D9%90%D9%85%D9%8E%D9%86%D9%92%D8%9F%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%84%D9%90%D9%84%D9%8E%D9%91%D9%87%D9%90%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%90%D9%87%D9%90%D8%8C&lang=id)
 > 💡 **Relevansi PKN:** Wiki PKN hadir sebagai ikhtiar nasihat dan edukasi tulus bagi kaum muslimin untuk membentengi keluarga di era akhir zaman.
 
 ---
@@ -596,6 +636,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya bagi Rabb-mu ada hak atas dirimu, bagi dirimu sendiri ada hak atas dirimu, dan bagi keluargamu ada hak atas dirimu. Maka berikanlah kepada setiap yang memiliki hak akan haknya masing-masing!"*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab ash-Shaum, No. 1968) & Riyadush Shalihin (Hal. 80)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D9%84%D9%90%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%AD%D9%8E%D9%82%D9%8B%D9%91%D8%A7%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%83%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%AD%D9%8E%D9%82%D9%8B%D9%91%D8%A7%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%83%D9%8E&lang=id)
 > 💡 **Relevansi PKN:** Keseimbangan hak dan kewajiban antara orang tua dan anak merupakan fondasi keadilan syariat yang mencegah kedzaliman dan kekosongan pengasuhan.
 
 ---
@@ -610,6 +651,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sesungguhnya Allah itu Maha Lembut dan mencintai kelemahlembutan. Dia memberikan pada kelemahlembutan apa yang tidak Dia berikan pada kekerasan, dan apa yang tidak Dia berikan pada selainnya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim No. 2593) & Syarah Riyadush Shalihin (Juz 49 Hal. 7)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D8%B1%D9%8E%D9%81%D9%90%D9%8A%D9%82%D9%8C%20%D9%8A%D9%8F%D8%AD%D9%90%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%8E%D8%8C%20%D9%88%D9%8E%D9%8A%D9%8F%D8%B9%D9%92%D8%B7%D9%90%D9%8A%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%90%20%D9%85%D9%8E%D8%A7%20%D9%84%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Penanganan setiap studi kasus penyimpangan anak harus diawali dengan pendinginan emosi, pengisian tangki cinta, dan pendekatan bertahap berbasis kelembutan.
 
 ---
@@ -624,6 +666,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Mulailah dari dirimu sendiri, bersedekahlah untuk dirimu. Jika ada kelebihan, maka untuk keluargamu. Jika masih ada kelebihan dari keluargamu, maka untuk kerabatmu. Jika masih ada kelebihan dari kerabatmu, maka untuk begini dan begini (orang lain di sekitarmu)..."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim - Kitab az-Zakah, No. 997) & Syarah Shahih Muslim Imam An-Nawawi (Juz 7 Hal. 83)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%A8%D9%92%D8%AF%D9%8E%D8%A3%D9%92%20%D8%A8%D9%90%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%83%D9%8E%20%D9%81%D9%8E%D8%AA%D9%8E%D8%B5%D9%8E%D8%AF%D9%8E%D9%91%D9%82%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%8E%D8%A7%D8%8C%20%D9%81%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%81%D9%8E%D8%B6%D9%8E%D9%84%D9%8E%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8C%20%D9%81%D9%8E%D9%84%D9%90%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%83%D9%8E%D8%8C&lang=id)
 > 💡 **Relevansi PKN:** Kaidah prioritas institusional: adopsi PKN pada lembaga (sekolah, pesantren, ormas, komunitas) wajib memprioritaskan pembenahan internal (keteladanan guru, kurikulum internal, adab) sebelum ekspansi program eksternal secara masif.
 
 ---
@@ -638,6 +681,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Beramallah kalian! Karena setiap orang akan dimudahkan menuju apa yang ia diciptakan untuknya."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Muslim (No. 2647) - Kitab al-Qadar; Syarah Sunan At-Tirmidzi Al-Mubarakfuri (Juz 6 Hal. 331)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D9%81%D9%8E%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%85%D9%8F%D9%8A%D9%8E%D8%B3%D9%8E%D9%91%D8%B1%D9%8C%20%D9%84%D9%90%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8F%D9%84%D9%90%D9%82%D9%8E%20%D9%84%D9%8E%D9%87%D9%8F&lang=id)
 > 💡 **Relevansi PKN:** Landasan filosofis asesmen TB-40: pemetaan bakat bertujuan menemukan medan amal peradaban yang dimudahkan Allah bagi setiap insan, bukan untuk membatasi takdir.
 
 ---
@@ -652,6 +696,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Dan tidaklah Aku menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Adz-Dzariyat: 56; Tafsir Ibnu Katsir (Juz 7 Hal. 425); Kaidah Fikih *Ad-Dhararu Yuzal* (Al-Asybah wan-Nazha'ir As-Suyuthi Hal. 83)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D8%AA%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%90%D9%86%D9%8E%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D9%92%D8%B3%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%84%D9%90%D9%8A%D9%8E%D8%B9%D9%92%D8%A8%D9%8F%D8%AF%D9%8F%D9%88%D9%86%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Standar penjaminan mutu kelembagaan: seluruh klausul operasional institusi (tujuan, proses, pendewasaan, pendidik, orang tua) diorientasikan mutlak pada penghambaan kepada Allah dan pemeliharaan fitrah tanpa menimbulkan luka baru (*Ad-Dhararu Yuzal*).
 
 ---
@@ -666,6 +711,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Amalan yang paling dicintai oleh Allah adalah amalan yang paling kontinu (dawam/istiqamah), meskipun sedikit."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari (No. 6464) & Muslim (No. 782) - Kitab ar-Riqaq; Fathul Bari Ibnu Hajar (Juz 11 Hal. 301)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D8%AD%D9%8E%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D8%A3%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D8%A7%D9%84%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%A3%D9%8E%D8%AF%D9%92%D9%88%D9%8E%D9%85%D9%8F%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%82%D9%8E%D9%84%D9%8E%D9%91&lang=id)
 > 💡 **Relevansi PKN:** Landasan observasi dan pembiasaan RPP: pembentukan karakter sejati menuntut konsistensi pembiasaan harian yang berkelanjutan (*Dawam/Istiqamah*), bukan letupan seremonial sesaat.
 
 ---
@@ -680,6 +726,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Orang yang paling penyayang di antara umatku adalah Abu Bakar, yang paling tegas dalam menegakkan agama Allah adalah Umar, yang paling pemalu adalah Utsman, yang paling mengetahui halal dan haram adalah Mu'adz bin Jabal, yang paling ahli membaca Al-Qur'an adalah Ubay (bin Ka'ab), yang paling mengetahui ilmu waris adalah Zaid bin Tsabit, dan setiap umat memiliki orang kepercayaan, dan orang kepercayaan umat ini adalah Abu Ubaidah bin Al-Jarrah."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Ahmad (3:184), At-Tirmidzi (No. 3802), Ibnu Majah (No. 154); *Siyar A'lam An-Nubala* (Adz-Dzahabi); *Ashabur Rasul SAW* (Syaikh Mahmud Al-Mishri)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D8%B1%D9%92%D8%AD%D9%8E%D9%85%D9%8F%20%D8%A3%D9%8F%D9%85%D9%8E%D9%91%D8%AA%D9%90%D9%8A%20%D8%A8%D9%90%D8%A3%D9%8F%D9%85%D9%8E%D9%91%D8%AA%D9%90%D9%8A%20%D8%A3%D9%8E%D8%A8%D9%8F%D9%88%20%D8%A8%D9%8E%D9%83%D9%92%D8%B1%D9%8D%D8%8C%20%D9%88%D9%8E%D8%A3%D9%8E%D8%B4%D9%8E%D8%AF%D9%8F%D9%91%D9%87%D9%8F%D9%85%D9%92%20%D9%81%D9%90%D9%8A%20%D8%AF%D9%90%D9%8A%D9%86%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90&lang=id)
 > 💡 **Relevansi PKN:** Mahkota pembuktian sejarah bahwa Rasulullah ﷺ memetakan dan mengapresiasi keragaman bakat bawaan (*fadhilah*) para sahabat tanpa pernah memaksakan penyeragaman yang kaku.
 
 ---
@@ -694,6 +741,7 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > *"Sebaik-baik prajurit berkuda kita hari ini adalah Abu Qatadah, dan sebaik-baik prajurit pejalan kaki (pelari) kita adalah Salamah (bin Al-Akwa')."*
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (No. 1807) - Kitab al-Jihad was-Siyar; *Ashabur Rasul SAW* (Syaikh Mahmud Al-Mishri hlm. 497)  
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%AE%D9%8E%D9%8A%D9%92%D8%B1%D9%8E%20%D9%81%D9%8F%D8%B1%D9%92%D8%B3%D9%8E%D8%A7%D9%86%D9%90%D9%86%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8E%20%D8%A3%D9%8E%D8%A8%D9%8F%D9%88%20%D9%82%D9%8E%D8%AA%D9%8E%D8%A7%D8%AF%D9%8E%D8%A9%D9%8E%D8%8C%20%D9%88%D9%8E%D8%AE%D9%8E%D9%8A%D9%92%D8%B1%D9%8E%20%D8%B1%D9%8E%D8%AC%D9%8E%D9%91%D8%A7%D9%84%D9%8E%D8%AA%D9%90%D9%86%D9%8E%D8%A7&lang=id)
 > 💡 **Relevansi PKN:** Validasi peran kinestetik motorik: stamina kerja keras fisik dan keterampilan tubuh (*gross/fine motor skills*) adalah pilar kemuliaan peradaban yang dipuji langsung oleh Rasulullah ﷺ.
 
 ---

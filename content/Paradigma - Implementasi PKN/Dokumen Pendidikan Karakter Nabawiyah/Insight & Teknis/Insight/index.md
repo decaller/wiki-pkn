@@ -16,7 +16,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan catatan lapangan dari para asatidzah serta praktisi **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini bertujuan mendekonstruksi kekeliruan mindset pengasuhan modern dan mengembalikannya ke rel keautentikan fitrah nubuwah.
 
@@ -28,6 +28,7 @@ Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan 
 > — **QS. Al-Isra': 36**
 > 
 > 💡 **Relevansi PKN:** Setiap insight tarbiyah harus berakar dari dalil syar'i dan pemahaman mendalam tentang fitrah, bukan sekadar mengikuti opini populer media sosial yang tidak dapat dipertanggungjawabkan di akhirat.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D9%82%D9%92%D9%81%D9%8F%20%D9%85%D9%8E%D8%A7%20%D9%84%D9%8E%D9%8A%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D9%83%D9%8E%20%D8%A8%D9%90%D9%87%D9%90%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8C%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%85%D9%92%D8%B9%D9%8E%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A8%D9%8E%D8%B5%D9%8E%D8%B1%D9%8E&lang=id)
 
 ---
 

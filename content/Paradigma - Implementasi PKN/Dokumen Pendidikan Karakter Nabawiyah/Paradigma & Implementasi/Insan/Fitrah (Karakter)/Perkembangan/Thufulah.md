@@ -15,7 +15,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Fase Thufulah: Menjaga Kemurnian Senyum dan Fitrah Anak Usia Dini](/assets/banners/banner-10.webp)
 
@@ -27,6 +27,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari No. 5997 & Muslim No. 2318; Kitab Al-Adab; Syarah Riyadush Shalihin Ibnu Utsaimin (Juz 3 Hal. 106).  
 > 💡 **Relevansi PKN:** Fase Thufulah (0–7 tahun) adalah masa emas pemenuhan tangki cinta (*Mahabbah*). Pada fase ini, anak diperlakukan laksana "Raja" yang dilayani, dipeluk, dan dibiarkan bermain merdeka tanpa beban kewajiban syariat kaku atau ancaman hukuman fisik.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%A8%D9%8E%D9%91%D9%84%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%EF%B7%BA%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B3%D9%8E%D9%86%D9%8E%20%D8%A8%D9%92%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%90%D9%8A%D9%8D%D9%91%20%D9%88%D9%8E%D8%B9%D9%90%D9%86%D9%92%D8%AF%D9%8E%D9%87%D9%8F%20%D8%A7%D9%84%D8%A3%D9%8E%D9%82%D9%92%D8%B1%D9%8E%D8%B9%D9%8F%20%D8%A8%D9%92%D9%86%D9%8F&lang=id)
 
 ---
 

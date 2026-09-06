@@ -14,7 +14,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Fase Tamyiz: Semangat Belajar dan Pembiasaan Amal](/assets/banners/banner-06.webp)
 
@@ -26,6 +26,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud No. 495 & Ahmad; Dishahihkan oleh Imam An-Nawawi dalam *Al-Majmu'* (Juz 3 Hal. 11) dan Al-Albani; Syarah Sunan Abi Dawud Ibnu Ruslan (Juz 3 Hal. 351).  
 > 💡 **Relevansi PKN:** Usia 7 tahun adalah garis demarkasi fitrah (*Milestone Tamyiz*). Pada fase ini anak mulai diajak memahami aturan syariat melalui *Bahasa Lisan*, dilatih adab berkhidmah laksana "Pembantu" di rumah, dan dibiasakan shalat tanpa ancaman pukulan selama 3 tahun penuh (sekitar 5.000 waktu shalat).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E&lang=id)
 
 ---
 

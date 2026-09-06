@@ -19,7 +19,7 @@ description: "Empat Kaidah Emas PKN: satu anak satu kurikulum, tadarruj bertahap
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -29,6 +29,7 @@ description: "Empat Kaidah Emas PKN: satu anak satu kurikulum, tadarruj bertahap
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari No. 69 & Muslim No. 1733; Wasiat Rasulullah ﷺ kepada Mu'adz bin Jabal dan Abu Musa Al-Asy'ari saat diutus ke Yaman; Riyadush Shalihin No. 637.  
 > 💡 **Relevansi PKN:** Empat Kaidah Implementasi adalah kompas operasional bagi seluruh orang tua, guru, dan pengelola lembaga pendidikan dalam menerapkan PKN secara aplikatif, menggembirakan, dan terbebas dari kekakuan doktrin yang membuat anak lari menjauh dari agama.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D8%B9%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%D8%8C%20%D9%88%D9%8E%D8%A8%D9%8E%D8%B4%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D9%86%D9%8E%D9%81%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%D8%8C%20%D9%88%D9%8E%D8%AA%D9%8E%D8%B7%D9%8E%D8%A7%D9%88%D9%8E%D8%B9%D9%8E%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 

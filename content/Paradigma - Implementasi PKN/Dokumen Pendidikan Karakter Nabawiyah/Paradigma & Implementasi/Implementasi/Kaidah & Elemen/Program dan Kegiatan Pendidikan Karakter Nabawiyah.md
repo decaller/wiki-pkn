@@ -37,6 +37,7 @@ tags:
 > — **HR. Bukhari (No. 71) & Muslim (No. 1037)**
 > 
 > 💡 **Relevansi Manhaj:** Pendidikan Karakter Nabawiyah bukanlah retorika teori di menara gading. Ia adalah ikhtiar nyata yang terstruktur melalui serangkaian program pembinaan intensif guna mencetak para kader pendidik (*murabbi*), menstandarisasi iklim sekolah Islam, serta menempa para pemuda agar mencapai kematangan akil baligh dan kepemimpinan umat.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%A4%D9%92%D9%85%D9%90%D9%86%D9%8F%D9%88%D9%86%D9%8E%20%D9%84%D9%90%D9%8A%D9%8E%D9%86%D9%81%D9%90%D8%B1%D9%8F%D9%88%D8%A7%20%D9%83%D9%8E%D8%A7%D9%81%D9%8E%D9%91%D8%A9%D9%8B%20%DB%9A%20%D9%81%D9%8E%D9%84%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%20%D9%86%D9%8E%D9%81%D9%8E%D8%B1%D9%8E%20%D9%85%D9%90%D9%86%20%D9%83%D9%8F%D9%84%D9%90%D9%91&lang=id)
 
 ---
 

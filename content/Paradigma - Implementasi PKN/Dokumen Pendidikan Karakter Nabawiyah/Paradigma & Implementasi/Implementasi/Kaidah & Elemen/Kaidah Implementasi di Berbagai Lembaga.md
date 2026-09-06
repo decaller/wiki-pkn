@@ -15,7 +15,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Standardisasi dan Pelatihan Implementasi PKN di Berbagai Lembaga](/assets/banners/banner-33.webp)
 
@@ -39,7 +39,8 @@ Para perumus manhaj PKN (Ustadz Abdul Kholiq dan Bayu Issetyadi) dalam dokumen r
 >  
 > 📚 **Relevansi PKN:** Kaidah-kaidah ini menjadi rem spiritual sekaligus panduan taktis bagi kepala sekolah dan mudir pesantren: jangan sampai ambisi menerapkan sistem ideal nabawiyah justru memicu perpecahan yayasan, penolakan massal guru, atau kebangkrutan operasional lembaga.
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AF%D9%8E%D8%B1%D9%92%D8%A1%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%81%D9%8E%D8%A7%D8%B3%D9%90%D8%AF%D9%90%20%D9%85%D9%8F%D9%82%D9%8E%D8%AF%D9%8E%D9%91%D9%85%D9%8C%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%AC%D9%8E%D9%84%D9%92%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D8%B5%D9%8E%D8%A7%D9%84%D9%90%D8%AD%D9%90&lang=id)---
 
 ## 1. Lima Kaidah Emas Implementasi di Lembaga
 

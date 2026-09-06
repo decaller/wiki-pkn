@@ -18,7 +18,7 @@ Kita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya s
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Timbangan Keadilan dan Penegakan Hak Syariat](/assets/banners/banner-01.webp)
 
@@ -30,6 +30,7 @@ Kita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya s
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab ash-Shaum, No. 1968) & Riyadush Shalihin (Hal. 80)  
 > 💡 **Relevansi PKN:** Keseimbangan hak dan kewajiban antara orang tua dan anak merupakan fondasi keadilan syariat yang mencegah kedzaliman dan kekosongan pengasuhan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D9%84%D9%90%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%AD%D9%8E%D9%82%D9%8B%D9%91%D8%A7%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%83%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%AD%D9%8E%D9%82%D9%8B%D9%91%D8%A7%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%83%D9%8E&lang=id)
 
 Secara perlahan dan bertahap, kita memahami sesuai nalar kita bahwa adalah kewajaran dan seharusnya bahwa hak anak dari masa kecilnya, sedikit demi sedikit berkurang hingga pada saat balighnya, kewajiban akan lebih besar daripada haknya. Akan tetapi apakah ada batasan yang tepat dalam menentukan hal ini? Apakah selama ini kita terlalu berfokus akan kewajibannya? Apakah kita berpikir dengan mempersiapkan ananda sedini mungkin akan membantu mempersiapkan ananda untuk mengemban kewajibannya?
 
@@ -43,6 +44,7 @@ Padahal, pondasi dari melakukan kewajibannya (beramal) adalah kesadaran. Kesadar
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Jana'iz, No. 1385) & Muslim No. 2658  
 > 💡 **Relevansi PKN:** Anak lahir dengan modal fitrah iman dan cinta yang suci. Kewajiban beramal kelak bersandar pada kemurnian fitrah ini, sehingga tugas orang tua adalah merawat kesucian tersebut dengan cinta dan keteladanan, bukan membebaninya secara tergesa-gesa.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%20%D9%85%D9%8E%D9%88%D9%92%D9%84%D9%8F%D9%88%D8%AF%D9%8D%20%D9%8A%D9%8F%D9%88%D9%84%D9%8E%D8%AF%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D9%81%D9%90%D8%B7%D9%92%D8%B1%D9%8E%D8%A9%D9%90%D8%8C%20%D9%81%D9%8E%D8%A3%D9%8E%D8%A8%D9%8E%D9%88%D9%8E%D8%A7%D9%87%D9%8F%20%D9%8A%D9%8F%D9%87%D9%8E%D9%88%D9%90%D9%91%D8%AF%D9%8E%D8%A7%D9%86%D9%90%D9%87%D9%90%20%D8%A3%D9%8E%D9%88%D9%92&lang=id)
 
 Mungkin sebagian dari kita melihat hadis ini sekilas dan menyimpulkan bahwa artinya, ananda harus segera disiapkan sebelum terpengaruh dengan lingkungan luar yang menyesatkan. Akan tetapi jika kembali ke arahan Rasul dalam mendidik sholat :
 
@@ -54,6 +56,7 @@ Mungkin sebagian dari kita melihat hadis ini sekilas dan menyimpulkan bahwa arti
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (Sunan Abi Dawud No. 495), Ahmad No. 6689, & Riyadush Shalihin (Tahqiq Al-Fahl No. 301 Hal. 116)  
 > 💡 **Relevansi PKN:** Manhaj Nabawi menetapkan fase 0–7 tahun bebas dari perintah wajib. Ibadah shalat baru diperintahkan pada etape tamyiz (7 tahun) dan baru ada konsekuensi pembiasaan tegas pada usia 10 tahun (3 tahun masa pembiasaan tanpa hukuman).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 
 Maka pada usia dibawah 7 tahun, tidak ada perintah untuk sholat. Jika sholat sebagai tiang agama saja kita tidak diperintahkan untuk mengajarkannya kepada anak, apalagi perintah lainnya kan? Bukankah demikian? Jadi bagaimana Rasul mendidik sholat untuk anak kecil?
 
@@ -74,6 +77,7 @@ Maka pada usia dibawah 7 tahun, tidak ada perintah untuk sholat. Jika sholat seb
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud No. 1109, At-Tirmidzi No. 3774 (Shahih), An-Nasa'i No. 1413, & Syarah Riyadush Shalihin (Juz 2 Hal. 552)  
 > 💡 **Relevansi PKN:** Majelis ilmu dan khutbah agung tidak menjadi alasan untuk mengabaikan fitrah gerak anak. Menghadirkan rasa aman dan pelukan hangat lebih didahulukan daripada formalitas protokoler.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%B3%D9%8E%D8%AC%D9%8E%D8%AF%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%EF%B7%BA%20%D8%B3%D9%8E%D8%AC%D9%92%D8%AF%D9%8E%D8%A9%D9%8B%20%D8%A3%D9%8E%D8%B7%D9%8E%D8%A7%D9%84%D9%8E%D9%87%D9%8E%D8%A7...%20%D9%81%D9%8E%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D8%A8%D9%92%D9%86%D9%90%D9%8A&lang=id)
 
 Rasul memberikan gambaran bahwa sholat dan masjid adalah tempat yang menyenangkan. Ini adalah salah satu bentuk cinta yang Rasul berikan berupa persepsi positif kepada hal-hal yang baik. Persepsi positif ini menimbulkan cinta yang akan menumbuhkan fitrah iman, pondasi kesadaran ananda. Maka ini adalah bagian dari hak ananda : dicintai tanpa persayaratan dan teguran ketika sebelum berumur 7 tahun.
 
@@ -114,6 +118,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Adab, No. 6129), Muslim No. 2150, & A'lamul Hadits lil-Khatthabi (Juz 3 Hal. 2200)  
 > 💡 **Relevansi PKN:** Rasulullah ﷺ tidak meremehkan perasaan anak kecil yang kehilangan hewan mainannya. Beliau meluangkan waktu bercanda, menghibur, dan memvalidasi emosi sedihnya sebagai wujud cinta yang tulus.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%86%D9%92%D8%AA%D9%8F%20%D8%AE%D9%8E%D9%84%D9%92%D9%81%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A8%D9%90%D9%8A%D9%90%D9%91%20%EF%B7%BA%20%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8B%D8%A7%D8%8C%20%D9%81%D9%8E%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%8A%D9%8E%D8%A7%20%D8%BA%D9%8F%D9%84%D9%8E%D8%A7%D9%85%D9%8F%D8%8C%20%D8%A5%D9%90%D9%86%D9%90%D9%91%D9%8A%20%D8%A3%D9%8F%D8%B9%D9%8E%D9%84%D9%90%D9%91%D9%85%D9%8F%D9%83%D9%8E&lang=id)
 
 Rasul memberikan gambaran bahwa Allah adalah penguasa semesta alam yang penuh rahmat dan berbagai perintahNya penuh dengan hikmah. Dan ketika anak bersalah, mereka dineshati tanpa dihukum. Maka ini termasuk bagian dari hak ananda : belajar untuk mencintai Allah dan belajar mengenal dunia bebas dari konsekuensi dan hukuman sebelum umur 10 tahun.
 
@@ -129,6 +134,7 @@ Mari juga kita tunaikan hak ananda untuk belajar mencintai Allah Azza wa Jalla :
 > 
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Kahfi: 54 & Syarah Tafsir Ibnu Katsir Ar-Rajhi (Juz 59 Hal. 6)  
 > 💡 **Relevansi PKN:** Al-Qur'an menanamkan keimanan dan akhlak lewat beragam kisah, permisalan, dan potret nyata kehidupan agar fitrah manusia terhubung dengan hikmah Ilahi secara utuh, melampaui sekadar perdebatan akal dan teori verbal kaku.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%B5%D9%8E%D8%B1%D9%8E%D9%91%D9%81%D9%92%D9%86%D9%8E%D8%A7%20%D9%81%D9%90%D9%8A%20%D9%87%D9%8E%D8%B0%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D9%82%D9%8F%D8%B1%D9%92%D8%A2%D9%86%D9%90%20%D9%84%D9%90%D9%84%D9%86%D9%8E%D9%91%D8%A7%D8%B3%D9%90%20%D9%85%D9%90%D9%86%20%D9%83%D9%8F%D9%84%D9%90%D9%91%20%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%8D%20%DB%9A%20%D9%88%D9%8E%D9%83%D9%8E%D8%A7%D9%86%D9%8E&lang=id)
 
 Bukanlah memahami itu ditandai dengan hafalan atau penguasaan akan elemen-elemen terpisah, melainkan memahami adalah mampu beramal dengan kesatuan secara penuh walaupun tidak hafal betul rinciannya. Sholat tetap sah walaupun tidak hafal dalilnya, Sholat justru tidak sah jika tidak terpenuhi rukunnya walaupun dia hafal. Maka bercerita, selain menarik, mengajarkan langsung secara keseluruhan, praktek-praktek kebaikan yang diterapkan pada dunia nyata dan bagaimana rahmat Allah Azza wa Jalla diturunkan untuk hamba-hambanya yang beriman. Niscaya fitrah iman dan belajar akan tumbuh menjadi pondasi yang kokoh untuk beramal. Baru kemudian detail mengenai tata cara ibadah dapat dengan mudah diajarkan, bukan lagi hanya karena keinginan pendidik, akan tetapi karena keinginan pribadi dari ananda untuk belajar.
 

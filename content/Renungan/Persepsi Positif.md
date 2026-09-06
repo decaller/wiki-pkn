@@ -90,6 +90,7 @@ Pendidik yang berwibawa tidak bersikap seperti mandor yang hanya bisa menyuruh. 
 > *"Nabi ﷺ senantiasa membantu melayani pekerjaan keluarganya di rumah (mencuci bajunya sendiri, memerah susu dombanya, dan memperbaiki sandalnya). Dan apabila telah tiba waktu shalat, beliau keluar menuju shalat."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Adab, No. 676) & Musnad Ahmad (No. 25341 / 24903, dinilai Shahih oleh Syaikh Al-Albani).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%8A%D9%8E%D9%83%D9%8F%D9%88%D9%86%D9%8F%20%D9%81%D9%90%D9%8A%20%D9%85%D9%90%D9%87%D9%92%D9%86%D9%8E%D8%A9%D9%90%20%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%87%D9%90%D8%8C%20%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%AD%D9%8E%D8%B6%D9%8E%D8%B1%D9%8E%D8%AA%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%8F%20%D8%AE%D9%8E%D8%B1%D9%8E%D8%AC%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%89&lang=id)
 
 Ketika anak melihat ayahnya yang gagah tidak canggung menyapu lantai, membasuh piringnya sendiri, dan melayani anak-anaknya dengan senyuman, persepsi anak terhadap figur ayah berubah dari "hakim yang menakutkan" menjadi "sumber kehangatan yang dicintai".
 
@@ -103,6 +104,7 @@ Rasulullah ﷺ tidak pernah membuat jarak feodal dengan murid-murid dan sahabatn
 > *"Rasulullah ﷺ senantiasa duduk berbaur di tengah-tengah para sahabatnya tanpa membuat tempat khusus, sampai-sampai apabila datang orang asing yang belum mengenal beliau, orang itu tidak dapat membedakan mana Rasulullah di antara mereka hingga ia harus bertanya..."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (Sunan Abi Dawud, No. 4698 / 4828) & An-Nasa'i (No. 4991). Derajat: Shahih.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%20%D9%88%D9%8E%D8%B3%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D9%8A%D9%8E%D8%AC%D9%92%D9%84%D9%90%D8%B3%D9%8F%20%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E&lang=id)
 
 Membersamai anak berarti duduk sejajar dengan pandangan matanya, menemani dunianya, mendengarkan celotehnya tanpa terdistraksi oleh gawai, dan menciptakan rasa aman batiniah.
 
@@ -149,6 +151,7 @@ Sahabat 'Amr bin al-'Ash RA mengenang betapa dahsyatnya perubahan persepsinya da
 > *"Dahulu tidak ada seorang pun yang lebih aku benci daripada Muhammad. Namun setelah Allah memasukkan Islam ke dalam hatiku, **tidak ada seorang pun yang lebih aku cintai daripada Rasulullah ﷺ**, dan tidak ada yang lebih agung di mataku daripada beliau. Bahkan aku tidak sanggup memandang beliau berlama-lama dengan memenuhi mataku karena rasa takzimku yang mendalam kepada beliau. Sekiranya aku diminta melukiskan rupa beliau, aku tidak akan mampu, karena aku tak pernah sanggup menatap wajahnya lama-lama karena rasa hormatku..."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim (Shahih Muslim - Kitab al-Iman, No. 121 / Bab Kaunul Islam Yahdimu Ma Qablahu).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%A3%D9%8E%D8%AD%D9%8E%D8%AF%D9%8C%20%D8%A3%D9%8E%D8%AD%D9%8E%D8%A8%D9%8E%D9%91%20%D8%A5%D9%90%D9%84%D9%8E%D9%8A%D9%8E%D9%91%20%D9%85%D9%90%D9%86%D9%92%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90&lang=id)
 
 Inilah kekuatan **Mahabbah**: ketika persepsi telah disentuh oleh Bahasa Hati, rasa benci dan malas menguap seketika, berganti menjadi kepatuhan mutlak yang membahagiakan.
 
@@ -168,6 +171,7 @@ Dalam menegakkan aturan dan adab, Rasulullah ﷺ tidak pernah menginjak-injak ha
 > *"Dihidangkan minuman kepada Rasulullah ﷺ lalu beliau meminumnya. Di sebelah kanan beliau duduk seorang anak kecil (Ibnu Abbas), sedangkan di sebelah kiri beliau duduk para orang tua/sahabat senior. Maka Nabi ﷺ meminta izin kepada anak kecil itu: 'Wahai ananda, apakah engkau mengizinkanku memberikan sisa minuman ini kepada orang-orang tua ini terlebih dahulu?' Anak itu menjawab tegas: 'Demi Allah, tidak wahai Rasulullah! Aku tidak akan memberikan bagian berkahku darimu kepada seorang pun!' Maka Rasulullah ﷺ pun tersenyum dan menyerahkan wadah itu langsung ke tangan anak tersebut."*  
 >  
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 2451 / 5620) & HR. Muslim (No. 2030). Hadits Shahih.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8F%D8%AA%D9%90%D9%8A%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%20%D9%88%D9%8E%D8%B3%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D8%A8%D9%90%D8%B4%D9%8E%D8%B1%D9%8E%D8%A7%D8%A8%D9%8D%20%D9%81%D9%8E%D8%B4%D9%8E%D8%B1%D9%90%D8%A8%D9%8E&lang=id)
 
 👉 **Pelajaran PKN:** Hak anak diberikan secara utuh. Ketika anak merasa haknya dihormati dan suaranya didengar, ia tidak akan merasa menjadi "objek penindasan", melainkan subjek amal yang bermartabat.
 

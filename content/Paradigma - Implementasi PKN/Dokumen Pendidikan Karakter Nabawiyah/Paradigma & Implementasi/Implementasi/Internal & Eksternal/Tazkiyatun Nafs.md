@@ -17,7 +17,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dalam epistemologi Pendidikan Karakter Nabawiyah (PKN), **Tazkiyatun Nafs** (penyucian jiwa) menempati kedudukan sebagai jantung dari seluruh proses pendidikan. Kata *tazkiyah* mengandung dua makna agung yang saling melengkapi: **At-Tath-hir** (membersihkan dari kotoran dan racun dosa) serta **An-Numuw waz-Ziyadah** (menumbuhsuburkan dan melipatgandakan potensi kebaikan). Tarbiyah nabawiyah bukanlah transmisi informasi mekanis dari otak guru ke otak murid, melainkan proses **resonansi spiritual (*al-hal anfa' minal maqal*)** di mana frekuensi kesucian kalbu pendidik memancarkan getaran hikmah yang langsung meresap ke dalam sanubari anak.
 
@@ -36,7 +36,8 @@ Para ulama salaf sepakat bahwa mendidik anak bermula dari menyucikan diri pendid
 > 📚 **Syarah Al-Imam Abu Hamid Al-Ghazali dalam Ihya 'Ulumiddin (Kitab Riyadhatun Nafs):**  
 > *"Pendidik anak ibarat pembawa bayangan; jika tongkatnya bengkok, bagaimana mungkin bayangannya akan lurus? Demikian pula seorang ayah atau guru yang tidak mampu mengendalikan syahwat dan amarahnya sendiri, bagaimana mungkin ia dapat menundukkan keliaran nafsu ammarah anak asuhnya? Tazkiyatun nafs adalah syarat mutlak bagi siapa saja yang mengemban amanah tarbiyah, agar ucapannya menjadi obat bagi hati dan perilakunya menjadi qudwah yang diridhai."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8E%D9%81%D9%92%D9%84%D9%8E%D8%AD%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%B2%D9%8E%D9%83%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%88%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D8%A7%D8%A8%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%AF%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7&lang=id)---
 
 ## 1. Dua Etape Tazkiyatun Nafs: Takhalli dan Tahalli
 

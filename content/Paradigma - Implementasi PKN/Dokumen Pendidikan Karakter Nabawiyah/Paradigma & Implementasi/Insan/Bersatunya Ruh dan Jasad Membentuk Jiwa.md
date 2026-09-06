@@ -17,7 +17,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Manusia bukanlah makhluk material murni sebagaimana doktrin ateisme-materialisme, bukan pula malaikat immateri yang terbebas dari tuntutan biologis. Allah Yang Maha Pencipta merancang manusia melalui sebuah proses persenyawaan kosmis yang agung: membentuk kerangka jasad dari materi bumi (*tanah liat kering / shalshalin min hama-in masnun*), lalu meniupkan ruh ciptaan-Nya ke dalam jasad tersebut. Dari persatuan sakral antara unsur bumi yang fana dan unsur langit yang abadi inilah terpancar entitas ketiga yang memiliki kehendak, kesadaran, dan emosi, yaitu **Jiwa (*An-Nafs*)**.
 
@@ -36,7 +36,8 @@ Pendidikan Karakter Nabawiyah (PKN) meletakkan pemahaman ini sebagai pondasi uta
 > 📚 **Syarah Al-Hafizh Ibnul Qayyim dalam Kitab ar-Ruh (Fashl 19):**  
 > *"Ruh adalah jauhar lathif (substansi halus) yang bersifat samawi lagi nurani, hidup lagi bergerak, meresap ke dalam sendi-sendi jasad bagaikan meresapnya air mawar ke dalam kelopak mawar atau minyak ke dalam buah zaitun. Selama anggota tubuh masih menerima aliran lathifah ruhaniyah ini, jasad tetap hidup, merasakan kelezatan dan rasa sakit. Bila jasad rusak atau terputus hubungannya, ruh berpisah dan kembali ke alam barzakh. Ketika ruh bersatu dengan jasad materi, lahirlah sifat-sifat nafsaniah yang menuntut pembersihan dan penggemblengan."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D9%8A%D9%92%D8%AA%D9%8F%D9%87%D9%8F%20%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%8E%D8%AE%D9%92%D8%AA%D9%8F%20%D9%81%D9%90%D9%8A%D9%87%D9%90%20%D9%85%D9%90%D9%86%20%D8%B1%D9%8F%D9%91%D9%88%D8%AD%D9%90%D9%8A%20%D9%81%D9%8E%D9%82%D9%8E%D8%B9%D9%8F%D9%88%D8%A7%20%D9%84%D9%8E%D9%87%D9%8F%20%D8%B3%D9%8E%D8%A7%D8%AC%D9%90%D8%AF%D9%90%D9%8A%D9%86%D9%8E&lang=id)---
 
 ## 1. Analisis Dua Kutub Eksistensial Manusia
 

@@ -17,7 +17,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dalam peta patologi pengasuhan Pendidikan Karakter Nabawiyah (PKN), **Fase Euforia** merujuk pada dua fenomena psikososial yang sangat kritis: **(1) Sindrom Euforia Orang Tua Baru Hijrah**, yakni ledakan antusiasme emosional yang berlebihan tatkala orang tua baru mengenal konsep parenting nabawiyah lalu menerapkan perubahan drastis secara tergesa-gesa tanpa hikmah; serta **(2) Sindrom Euforia Pelepasan Remaja**, yakni ledakan keliaran perilaku yang dialami anak tatkala ia tiba-tiba terbebas dari penindasan disiplin kaku masa kecilnya (*rebound effect*).
 
@@ -36,7 +36,8 @@ Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah n
 > 📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani dalam Fathul Bari (Juz 11 Hal. 298):**  
 > *"Hadits ini merupakan kaidah agung dalam melatih jiwa (riyadhatun nafs): amalan yang sedikit namun konsisten akan melahirkan keberkahan yang berlipat ganda, menjaga kesinambungan ketaatan, dan menghindarkan jiwa dari rasa jenuh (al-malal). Sebaliknya, membebani diri atau anak dengan target berlebihan di luar kesiapan fitrahnya hanya akan memicu keletihan mental, yang pada akhirnya membuat seseorang berhenti total dari beramal."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D8%AD%D9%8E%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D8%A7%D9%84%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%84%D9%8E%D9%89%20%D8%A3%D9%8E%D8%AF%D9%92%D9%88%D9%8E%D9%85%D9%8F%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%82%D9%8E%D9%84%D9%8E%D9%91&lang=id)---
 
 ## 1. Anatomi Dua Bentuk Euforia dalam Ranah Tarbiyah
 

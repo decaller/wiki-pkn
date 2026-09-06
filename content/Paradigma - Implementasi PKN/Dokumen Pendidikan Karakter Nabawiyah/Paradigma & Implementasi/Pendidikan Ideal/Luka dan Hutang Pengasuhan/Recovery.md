@@ -8,7 +8,7 @@ title: "Recovery"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Protokol Pemulihan Hati: Menyembuhkan Luka dan Hutang Pengasuhan](/assets/banners/banner-15.webp)
 
@@ -20,6 +20,7 @@ title: "Recovery"
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Tirmidzi (No. 2499) & Syarah Riyadush Shalihin Hathibah (Juz 19 Hal. 9)  
 > 💡 **Relevansi PKN:** Pemulihan fitrah (*recovery*) tidak pernah terlambat; dengan taubat nasuha, permohonan maaf orang tua kepada anak, dan restorasi adab, noda hati dapat dihilangkan secara tuntas.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%20%D8%A8%D9%8E%D9%86%D9%90%D9%8A%20%D8%A2%D8%AF%D9%8E%D9%85%D9%8E%20%D8%AE%D9%8E%D8%B7%D9%8E%D9%91%D8%A7%D8%A1%D9%8C%20%D9%88%D9%8E%D8%AE%D9%8E%D9%8A%D9%92%D8%B1%D9%8F%20%D8%A7%D9%84%D9%92%D8%AE%D9%8E%D8%B7%D9%8E%D9%91%D8%A7%D8%A6%D9%90%D9%8A%D9%86%D9%8E%20%D8%A7%D9%84%D8%AA%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D8%A8%D9%8F%D9%88%D9%86%D9%8E&lang=id)
 
 > *"Pemulihan jiwa tidak bisa dilakukan dengan ketergesa-gesaan. Hati yang telah retak oleh bentakan bertahun-tahun membutuhkan waktu untuk merekat kembali melalui kelembutan yang konsisten, bukan ceramah panjang yang menekan."*  
 > — **Ustadz Abdul Kholiq & SOTAB HEBAT**

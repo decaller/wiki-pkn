@@ -8,7 +8,7 @@ title: "Batas Toleransi"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Ketegasan Sikap dan Pengendalian Diri dalam Menegakkan Batas Toleransi](/assets/banners/banner-18.webp)
 
@@ -25,7 +25,8 @@ Pendidikan modern sering kali terjebak dalam dua ekstrem yang merusak: **Otorita
 > 📚 **Syarah Al-Hafizh Ibnu Rajab Al-Hanbali dalam Jami'ul 'Ulum wal Hikam (Juz 1 Hal. 198):**  
 > *"Nabi ﷺ memberikan perumpamaan agung tentang proteksi moral: barang siapa yang mendekati batas pagar larangan, niscaya syahwatnya akan menyeretnya masuk ke dalamnya. Dalam pengasuhan anak, orang tua wajib menegakkan pagar pembatas ini sejak dini. Membiarkan anak bermain-main di zona syubhat tanpa batas aturan yang jelas sama saja dengan menjerumuskannya secara sengaja ke dalam kemaksiatan."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%84%D9%8E%D8%A7%D9%84%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%D8%8C%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B1%D9%8E%D8%A7%D9%85%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%D8%8C%20%D9%88%D9%8E%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D9%87%D9%8F%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%85%D9%8F%D9%88%D8%B1%D9%8C&lang=id)---
 
 ## 1. Tiga Zonasi Perilaku dalam PKN: Hijau, Kuning, dan Merah
 

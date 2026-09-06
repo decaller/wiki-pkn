@@ -19,7 +19,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan komprehensif yang merekonstruksi paradigma, kurikulum, metodologi, dan implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan para ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
@@ -31,6 +31,7 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 > 
 > *"Perintahkan anak-anak kalian untuk menunaikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik tanpa mencederai) jika meninggalkannya ketika mereka berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*  
 > — **HR. Abu Dawud (No. 495), Ahmad (No. 6689), dan Al-Hakim (1/197); Disahihkan oleh Al-Hakim, Adz-Dzahabi, dan Al-Albani.**
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 > 
 > 💡 **Relevansi & Operasionalisasi PKN:** Shalat diposisikan sebagai **kurikulum utama pembentukan adab dan barometer kematangan jiwa**. Hadits ini meletakkan garis batas metodologis tahapan usia:
 > * **0–7 Tahun (Fase [[Thufulah]]):** Pengisian penuh [[Tangki Cinta]], teladan shalat orang tua secara visual, tanpa paksaan taklif hukum.
@@ -45,8 +46,10 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 > 
 > *"Barang siapa di antara kalian melihat suatu kemungkaran (penyimpangan/keburukan), maka hendaklah ia mengubahnya dengan tangannya (tindakan nyata/otoritas kekuasaan). Jika ia tidak sanggup, maka dengan lisannya (nasihat bijak/dialog). Dan jika ia tidak sanggup juga, maka dengan hatinya (kebencian batin/empati/doa), dan itulah selemah-lemah iman."*  
 > — **HR. Muslim (Kitab al-Iman, No. 49).**
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8E%D9%86%D9%92%20%D8%B1%D9%8E%D8%A3%D9%8E%D9%89%20%D9%85%D9%90%D9%86%D9%92%D9%83%D9%8F%D9%85%D9%92%20%D9%85%D9%8F%D9%86%D9%92%D9%83%D9%8E%D8%B1%D9%8B%D8%A7%20%D9%81%D9%8E%D9%84%D9%92%D9%8A%D9%8F%D8%BA%D9%8E%D9%8A%D9%90%D9%91%D8%B1%D9%92%D9%87%D9%8F%20%D8%A8%D9%90%D9%8A%D9%8E%D8%AF%D9%90%D9%87%D9%90%D8%8C%20%D9%81%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%84%D9%8E%D9%85%D9%92%20%D9%8A%D9%8E%D8%B3%D9%92%D8%AA%D9%8E%D8%B7%D9%90%D8%B9%D9%92&lang=id)
 > 
 > 💡 **Relevansi & Operasionalisasi PKN:** Menjadi fondasi hierarki **Tiga Bahasa Pengasuhan** ([[Metode Mendidik]]) dalam membimbing anak dan merekonstruksi karakter yang menyimpang:
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 > * **[[Bahasa Hati]] (Fondasi Primer):** Pendidik menautkan hati lewat empati batin, doa di keheningan malam, dan kelembutan jiwa. Tanpa kelekatan hati, nasihat lisan akan memicu penolakan dan trauma.
 > * **[[Bahasa Lisan]] (Jalur Dialogis):** Nasihat tepat sasaran (*qaulan sadida*), menyentuh nalar kritis ([[Lawwamah]]), membedah sebab-akibat dengan hikmah, dan menjauhi celaan/labeling negatif.
 > * **[[Bahasa Tangan]] (Ketegasan Otoritatif):** Tindakan nyata membentengi anak, menetapkan [[Batas Toleransi]], menjauhkan dari bahaya pergaulan/gadget ([[Imunitas Sosial]]), dan menegakkan konsekuensi logis secara konsisten tanpa kekerasan melukai.

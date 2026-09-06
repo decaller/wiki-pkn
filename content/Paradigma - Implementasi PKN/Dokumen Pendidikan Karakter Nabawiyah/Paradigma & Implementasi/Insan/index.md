@@ -18,7 +18,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!important] Gerbang Utama Klaster Insan (Map of Content / Navigation Hub)
 > Halaman ini merupakan **Simpul Navigasi Eksekutif (*Executive Navigation Hub*)** yang memetakan seluruh ontologi, arsitektur psiko-spiritual, dan taksonomi fitrah manusia dalam Pendidikan Karakter Nabawiyah (PKN). Setiap sub-pilar di bawah klaster Insan dirancang untuk menjawab pertanyaan paling mendasar bagi orang tua dan pendidik: **"Siapakah hakikat anak yang sedang kita didik, ke mana arah perkembangannya, dan bagaimana mengantarkannya mencapai kematangan akil-baligh yang paripurna?"**
@@ -56,6 +56,7 @@ Kemuliaan penciptaan insan dan risiko kejatuhan derajatnya dipaparkan secara gam
 > *"Allah Ta'ala mengabarkan tentang penciptaan manusia dalam rupa yang paling indah, postur yang tegak sempurna, akal budi yang cemerlang, dan anggota badan yang proporsional lagi seimbang (*fi ahsani taqwim*). Namun jika manusia menelantarkan fitrah keimanan dan ketaatan kepada Sang Pencipta, Allah akan menjatuhkannya ke jurang kenistaan yang paling hina (*asfala safilin*), yakni neraka Jahannam dan kehinaan derajat di bawah binatang ternak."*  
 >  
 > 💡 **Relevansi Pedagogis PKN:** Ayat ini menegaskan aksioma tarbiyah: potensi kemuliaan anak telah terpatri secara fitrah (*ahsani taqwim*). Tugas orang tua dan guru bukanlah "mengisi botol kosong", melainkan menjaga imunitas spiritual anak agar tidak terperosok ke lembah *asfala safilin* akibat abai terhadap adab, iman, dan pengasuhan yang tumpul.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D9%86%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%D8%A7%D9%86%D9%8E%20%D9%81%D9%90%D9%8A%20%D8%A3%D9%8E%D8%AD%D9%92%D8%B3%D9%8E%D9%86%D9%90%20%D8%AA%D9%8E%D9%82%D9%92%D9%88%D9%90%D9%8A%D9%85%D9%8D%20%DB%9D%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%B1%D9%8E%D8%AF%D9%8E%D8%AF%D9%92%D9%86%D9%8E%D8%A7%D9%87%D9%8F&lang=id)
 
 > [!quote] Dalil & Rujukan Nabawiyah II: Pemuliaan Martabat Manusia (Takrimul Insan)
 > **Teks Al-Qur'an:**  

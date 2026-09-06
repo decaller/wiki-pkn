@@ -8,7 +8,7 @@ title: "Fitrah Keimanan"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Fitrah Iman: Tali Persaudaraan Batin dan Cinta Karena Allah](/assets/banners/banner-40.webp)
 
@@ -25,7 +25,8 @@ Oleh karena itu, iman bukanlah benda asing yang harus diimpor atau dipaksakan da
 > 📚 **Syarah Al-Hafizh Ibnu Rajab Al-Hanbali dalam Fathul Bari (Juz 1 Hal. 22):**  
 > *"Jundub bin Abdillah radhiyallahu 'anhu menjelaskan manhaj tarbiyah para sahabat di bawah bimbingan Rasulullah ﷺ: mereka menanamkan ma'rifatullah (mengenal Allah), rasa cinta kepada-Nya, takut akan siksa-Nya, dan harapan akan rahmat-Nya ke dalam kalbu anak-anak. Tatkala wadah kalbu tersebut telah dipenuhi oleh cahaya keimanan, barulah ayat-ayat Al-Qur'an yang memuat perintah, larangan, janji, dan ancaman dituangkan ke dalamnya, sehingga Al-Qur'an itu langsung menyatu dan mengokohkan bangunan iman mereka."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%86%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%B9%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A8%D9%90%D9%8A%D9%90%D9%91%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%20%D9%88%D9%8E%D8%B3%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D9%88%D9%8E%D9%86%D9%8E%D8%AD%D9%92%D9%86%D9%8F%20%D9%81%D9%90%D8%AA%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8C&lang=id)---
 
 ## 1. Patologi Pendidikan Agama Kontemporer: Membalik Kaidah Emas
 

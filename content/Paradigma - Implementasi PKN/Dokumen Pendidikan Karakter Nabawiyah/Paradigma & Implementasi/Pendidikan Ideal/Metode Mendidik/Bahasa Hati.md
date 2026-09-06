@@ -14,7 +14,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Bahasa Hati: Membangun Kelekatan Jiwa dan Kehangatan Cinta](/assets/banners/banner-21.webp)
 
@@ -26,6 +26,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Muslim No. 2594, Kitab Al-Birr wash-Shilah wal-Adab; Syarah Shahih Muslim Imam An-Nawawi (Juz 16 Hal. 146); Riyadush Shalihin Tahqiq Al-Fahl No. 633.  
 > 💡 **Relevansi PKN:** Bahasa Hati adalah pondasi utama dari seluruh bangunan Pendidikan Karakter Nabawiyah. Tanpa getaran cinta batiniah dan kelembutan, seluruh doktrin syariat dan nasihat lisan akan memantul membentur benteng penolakan jiwa anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D8%B1%D9%90%D9%91%D9%81%D9%92%D9%82%D9%8E%20%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8E%D9%83%D9%8F%D9%88%D9%86%D9%8F%20%D9%81%D9%90%D9%8A%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8D%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D8%B2%D9%8E%D8%A7%D9%86%D9%8E%D9%87%D9%8F%D8%8C%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8F%D9%86%D9%92%D8%B2%D9%8E%D8%B9%D9%8F%20%D9%85%D9%90%D9%86%D9%92&lang=id)
 
 ---
 

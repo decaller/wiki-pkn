@@ -16,7 +16,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dalam konsepsi Pendidikan Karakter Nabawiyah (PKN), jiwa manusia (*an-nafs*) bukanlah entitas statis yang kaku, melainkan medan gerak dinamis yang senantiasa berfluktuasi antara tarikan luhur malaikat (*lammatul malak*) dan bisikan nista setan (*lammatus syaithan*). Al-Qur'an Al-Karim secara eksplisit memetakan dinamika psikologis manusia ke dalam **Trilogi Jiwa**: **Nafsul Ammarah**, **Nafsul Lawwamah**, dan **Nafsul Muthmainnah**.
 
@@ -31,7 +31,8 @@ Ketiga istilah ini bukanlah tiga jiwa yang terpisah di dalam satu tubuh, melaink
 > 📚 **Takhrij & Analisis Ibnul Qayyim dalam Kitab ar-Ruh (Hal. 226):**  
 > *"Nafs pada hakikatnya adalah satu dzat, namun memiliki tiga sifat yang berbeda sesuai dengan kecenderungan dominannya. Tatkala ia tunduk pada dorongan hawa nafsu dan syahwat, ia dinamakan Ammarah bis-Su'. Tatkala ia sadar, mencela kelalaian dirinya, dan berusaha menimbang kebaikan, ia dinamakan Lawwamah. Dan tatkala ia telah tenang bersama Allah, mencintai syariat-Nya, dan ridha atas takdir-Nya, ia dinamakan Muthmainnah. Pendidikan adalah sarana tazkiyah untuk mengangkat nafs dari lembah Ammarah menuju puncak Muthmainnah."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8D%20%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%81%D9%8E%D8%A3%D9%8E%D9%84%D9%92%D9%87%D9%8E%D9%85%D9%8E%D9%87%D9%8E%D8%A7%20%D9%81%D9%8F%D8%AC%D9%8F%D9%88%D8%B1%D9%8E%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%AA%D9%8E%D9%82%D9%92%D9%88%D9%8E%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%82%D9%8E%D8%AF%D9%92&lang=id)---
 
 ## 1. Anatomi Tiga Keadaan Jiwa dalam PKN
 

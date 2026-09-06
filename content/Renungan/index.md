@@ -18,7 +18,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!important] Simpul Kontemplasi & Evaluasi Diri (Reflective MOC Hub)
 > Halaman ini merupakan simpul kontemplatif bagi para orang tua dan pendidik dalam menyelami kedalaman makna pengasuhan berbasis nabawiyah. Di tengah tuntutan kurikulum, target prestasi akademis, dan dinamika keseharian keluarga, ruang renungan ini hadir untuk mengajak kita berhenti sejenak, meluruskan niat (*tashihun niyah*), serta menata ulang hati agar tidak terjebak dalam kezaliman tersembunyi terhadap fitrah anak.
@@ -40,7 +40,8 @@ Dalam Al-Qur'an, Allah menegaskan pentingnya menatap kembali apa yang telah kita
 > 📚 **Tafsir Ibnu Katsir (Juz 8 Hal. 78):**  
 > *"Hisablah diri kalian sebelum kalian dihisab pada hari kiamat. Perhatikanlah amal kebajikan dan tanggung jawab yang telah kalian tunaikan, apakah sudah sesuai dengan keridhaan Allah, ataukah sekadar memenuhi hawa nafsu duniawi semata."*
 
-Bagi seorang ayah dan ibu, ayat ini menjadi peringatan agung: kelak di yaumul akhir, setiap tarikan nafas, bentakan, pelukan, dan hak anak yang kita tunaikan atau kita telantarkan akan dimintai pertanggungjawaban langsung oleh Sang Pemilik Jiwa.
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%88%D9%8E%D9%84%D9%92%D8%AA%D9%8E%D9%86%D8%B8%D9%8F%D8%B1%D9%92%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8C%20%D9%85%D9%8E%D9%91%D8%A7&lang=id)Bagi seorang ayah dan ibu, ayat ini menjadi peringatan agung: kelak di yaumul akhir, setiap tarikan nafas, bentakan, pelukan, dan hak anak yang kita tunaikan atau kita telantarkan akan dimintai pertanggungjawaban langsung oleh Sang Pemilik Jiwa.
 
 ---
 

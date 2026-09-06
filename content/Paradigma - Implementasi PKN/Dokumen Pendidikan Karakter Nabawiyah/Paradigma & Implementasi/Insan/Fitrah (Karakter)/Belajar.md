@@ -8,7 +8,7 @@ title: "Fitrah Belajar"
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Fitrah Belajar Anak: Ketekunan Menuntut Ilmu](/assets/banners/banner-06.webp)
 
@@ -29,7 +29,8 @@ Pendidikan modern bergaya industrial sering kali mereduksi fitrah belajar yang m
 > 📚 **Analisis Sosiologis & Pedagogis Ibnu Khaldun dalam Muqaddimah (Bab VI Fashl 39):**  
 > *"Ketahuilah bahwa penggunaan kekerasan dan pemaksaan yang berlebihan terhadap para pembelajar akan mematikan fitrah belajar mereka. Jika seorang anak dididik dengan kekerasan, penindasan, dan intimidasi, jiwanya akan menjadi sempit, hilang kegembiraannya dalam menuntut ilmu, malas, serta mendorongnya untuk berbohong dan bersikap munafik demi menghindari hukuman. Mengajarkan ilmu kepada anak harus dimulai dari hal-hal yang konkrit menuju yang abstrak, secara bertahap (tadarruj), dan melalui dialog yang memicu daya nalar mereka."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D8%A2%D8%AF%D9%8E%D9%85%D9%8E%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B3%D9%92%D9%85%D9%8E%D8%A7%D8%A1%D9%8E%20%D9%83%D9%8F%D9%84%D9%8E%D9%91%D9%87%D9%8E%D8%A7%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%B9%D9%8E%D8%B1%D9%8E%D8%B6%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%84%D9%8E%D8%A7%D8%A6%D9%90%D9%83%D9%8E%D8%A9%D9%90&lang=id)---
 
 ## 1. Tiga Pilar Pembelajaran Alamiah Nabawiyah
 

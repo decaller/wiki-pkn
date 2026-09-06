@@ -15,7 +15,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Karakter Al-Qiyadah: Kepemimpinan Nabawiyah dan Pengaruh Peradaban](/assets/banners/banner-35.webp)
 
@@ -27,6 +27,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari No. 893 & Muslim No. 1829; Syarah Riyadush Shalihin (Juz 3 Hal. 412); Sunan Abi Dawud.  
 > 💡 **Relevansi PKN:** Bakat Memerintah (*At-Ta'tsir*) adalah energi kepemimpinan ekstrovert yang menggerakkan gerbong dakwah, menegakkan amar ma'ruf nahi munkar, membela kaum mustadh'afin, dan mengambil keputusan strategis di garis terdepan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%B1%D9%8E%D8%A7%D8%B9%D9%8D%D8%8C%20%D9%88%D9%8E%D9%83%D9%8F%D9%84%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D9%85%D9%8E%D8%B3%D9%92%D8%A6%D9%8F%D9%88%D9%84%D9%8C%20%D8%B9%D9%8E%D9%86%D9%92%20%D8%B1%D9%8E%D8%B9%D9%90%D9%8A%D9%8E%D9%91%D8%AA%D9%90%D9%87%D9%90&lang=id)
 
 ---
 

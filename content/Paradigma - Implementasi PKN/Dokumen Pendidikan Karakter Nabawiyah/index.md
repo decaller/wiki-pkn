@@ -16,7 +16,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **Pendidikan Karakter Nabawiyah (PKN)**. Dokumen ini merangkum sintesis holistik antara dalil-dalil Al-Qur'an, as-Sunnah ash-Shahihah, khazanah tarbiyah ulama salafush shalih, serta aplikasi empiris pengasuhan berbasis fitrah di era kontemporer.
 
@@ -29,6 +29,7 @@ Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *Tafsir Ibnu Katsir* menegaskan bahwa petunjuk Al-Qur'an adalah jalan yang paling tegak, paling adil, paling lurus (*aqwam*), dan tidak ada kebengkokan di dalamnya.  
 > 💡 **Relevansi PKN:** PKN meletakkan wahyu Ilahi sebagai rujukan mutlak di atas seluruh teori psikologi manusia yang rentan berubah dan terbatas pandangannya.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D9%87%D9%8E%D9%B0%D8%B0%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D9%82%D9%8F%D8%B1%D9%92%D8%A2%D9%86%D9%8E%20%D9%8A%D9%8E%D9%87%D9%92%D8%AF%D9%90%D9%8A%20%D9%84%D9%90%D9%84%D9%8E%D9%91%D8%AA%D9%90%D9%8A%20%D9%87%D9%90%D9%8A%D9%8E%20%D8%A3%D9%8E%D9%82%D9%92%D9%88%D9%8E%D9%85%D9%8F%20%D9%88%D9%8E%D9%8A%D9%8F%D8%A8%D9%8E%D8%B4%D9%90%D9%91%D8%B1%D9%8F&lang=id)
 
 ---
 

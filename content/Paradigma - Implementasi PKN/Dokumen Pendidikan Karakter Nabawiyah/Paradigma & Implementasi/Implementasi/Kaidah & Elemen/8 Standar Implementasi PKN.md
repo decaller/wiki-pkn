@@ -21,7 +21,7 @@ description: "Delapan Standar Mutu PKN 11/2024: pedoman audit kurikulum, pendewa
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!IMPORTANT]
 > **Rujukan Otoritatif:** Artikel ini disusun berdasarkan dokumen resmi *Panduan Implementasi Standar Pendidikan Karakter Nabawiyah pada Lembaga Pendidikan Islam* (Standar 11/2024 Rev 04) yang dirumuskan oleh Ustadz Abdul Kholiq dan Bayu Issetyadi (Penerbit Perkumpulan Radio Komunitas Mutiara Qur'an, Semarang/Depok, November 2024). Standar ini berfungsi sebagai pedoman sistem penjaminan mutu internal (*Internal Quality Assurance*) bagi sekolah, ma'had, pesantren, dan komunitas *homeschooling* yang berikhtiar menyelenggarakan pendidikan berbasis fitrah nabawiyah.

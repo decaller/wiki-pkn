@@ -18,7 +18,7 @@ description: "Kajian komprehensif Master Katalog Dalil Al-Quran dalam kerangka m
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (exhaustive mapping)** dalil-dalil Al-Qur'an yang relevan dengan setiap tema bahasan di seluruh berkas halaman **Wiki PKN**. Pemetaan ini dilengkapi dengan teks Arab berharakat lengkap, terjemahan resmi bahasa Indonesia, takhrij surah dan nomor ayat, relevansi pedagogis dalam **Pendidikan Karakter Nabawiyah (PKN)**, serta cuplikan rujukan dari kitab klasik **Tafsir Ibnu Katsir** melalui korpus **OpenBayan** (`data/shamela_corpus.db`).
 
@@ -137,6 +137,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Pendidikan berorientasi kualitas amal terbaik (ihsan & itqan) berbasis keikhlasan dan kesesuaian sunnah, bukan sekadar kuantitas materi.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D8%AA%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%90%D9%86%D9%8E%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%84%D9%90%D9%8A%D9%8E%D8%B9%D9%92%D8%A8%D9%8F%D8%AF%D9%8F%D9%88%D9%86%D9%90&lang=id)
 
 ---
 
@@ -170,6 +171,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *شرح تفسير ابن كثير - الراجحي* (ج 52 ص 5): "سبب نزول سورة الكهف قال المؤلف رحمه الله تعالى: [وقد ذكر محمد بن إسحاق سبب نزول هذه السورة الكريمة فقال: حدثني شيخ من أهل مصر قدم علينا منذ بضع وأربعين سنة عن عكرمة عن ابن عباس، قال: بعثت قريش النضر بن الحارث وعقبة بن أب..."  
 > 💡 **Relevansi Pedagogis PKN:** Mengharuskan pendidik memiliki kerendahan hati bahwa dimensi batin anak berada di tangan Allah; ikhtiar pengasuhan wajib selalu disertai tawakkal dan doa.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D9%8A%D9%92%D8%AA%D9%8F%D9%87%D9%8F%20%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%8E%D8%AE%D9%92%D8%AA%D9%8F%20%D9%81%D9%90%D9%8A%D9%87%D9%90%20%D9%85%D9%90%D9%86%20%D8%B1%D9%8F%D9%91%D9%88%D8%AD%D9%90%D9%8A%20%D9%81%D9%8E%D9%82%D9%8E%D8%B9%D9%8F%D9%88%D8%A7%20%D9%84%D9%8E%D9%87%D9%8F%20%D8%B3%D9%8E%D8%A7%D8%AC%D9%90%D8%AF%D9%90%D9%8A%D9%86%D9%8E&lang=id)
 
 ---
 
@@ -203,6 +205,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Manusia memikul beban taklif moral syariat; tujuan akhir PKN adalah mengantarkan anak menjadi mukallaf yang sanggup memegang amanah Ilahi.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D9%86%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%D8%A7%D9%86%D9%8E%20%D9%81%D9%90%D9%8A%20%D8%A3%D9%8E%D8%AD%D9%92%D8%B3%D9%8E%D9%86%D9%90%20%D8%AA%D9%8E%D9%82%D9%92%D9%88%D9%90%D9%8A%D9%85%D9%8D&lang=id)
 
 ---
 
@@ -247,6 +250,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *مختصر تفسير ابن كثير* (ج 2 ص 18): "- ٤٠ - إِنَّ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّى يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ وَكَذَلِكَ نَجْزِي الْمُجْرِمِينَ ..."  
 > 💡 **Relevansi Pedagogis PKN:** Puncak ketenangan spiritual; hati yang tunduk dalam ketauhidan dan kedamaian cinta kepada Allah SWT.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8D%20%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%81%D9%8E%D8%A3%D9%8E%D9%84%D9%92%D9%87%D9%8E%D9%85%D9%8E%D9%87%D9%8E%D8%A7%20%D9%81%D9%8F%D8%AC%D9%8F%D9%88%D8%B1%D9%8E%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%AA%D9%8E%D9%82%D9%92%D9%88%D9%8E%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%82%D9%8E%D8%AF%D9%92&lang=id)
 
 ---
 
@@ -280,6 +284,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Bahaya tafrith dalam pengasuhan permisif yang membiarkan anak diperbudak oleh segala keinginannya (hedonisme/gawai) tanpa batas adab.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D8%A8%D9%8E%D8%B1%D9%90%D9%91%D8%A6%D9%8F%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%8A%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%D8%B1%D9%8E%D8%A9%D9%8C%20%D8%A8%D9%90%D8%A7%D9%84%D8%B3%D9%8F%D9%91%D9%88%D8%A1%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -313,6 +318,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Metode latihan muhasabah harian bagi anak usia Tamyiz dan Murahaqah untuk mengevaluasi amal perbuatan dan belajar dari kegagalan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%90%20%D8%A7%D9%84%D9%92%D9%82%D9%90%D9%8A%D9%8E%D8%A7%D9%85%D9%8E%D8%A9%D9%90%20%DB%9D%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8E%D8%A9%D9%90&lang=id)
 
 ---
 
@@ -346,6 +352,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Sakinah adalah anugerah Ilahi yang tumbuh dari suasana rumah penuh rahmah dan ketenangan komunikasi kedua orang tua.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8E%D9%91%D8%AA%D9%8F%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%B7%D9%92%D9%85%D9%8E%D8%A6%D9%90%D9%86%D9%8E%D9%91%D8%A9%D9%8F%20%DB%9D%20%D8%A7%D8%B1%D9%92%D8%AC%D9%90%D8%B9%D9%90%D9%8A%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%D9%B0%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%90%20%D8%B1%D9%8E%D8%A7%D8%B6%D9%90%D9%8A%D9%8E%D8%A9%D9%8B&lang=id)
 
 ---
 
@@ -372,6 +379,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 319): "يكتمونه؛ فأخبر تعالى أنهم نبذوه وراء ظهورهم، واشتروا به ثمنًا قليلًا. وهذا اختيار ابن جرير (¬١) ﵀، و (هو) (¬٢) قول مقاتل بن حيان. وقال آخرون: بل عنى بهذه الآية جميع أهل الكفر والشرك والنفاق. وعهده إلى جميعهم في توحيده ما..."  
 > 💡 **Relevansi Pedagogis PKN:** Perjanjian primordial (mitsaq) di alam arwah; setiap anak terlahir dengan kerinduan fitrah untuk bertauhid kepada Allah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A3%D9%8E%D9%82%D9%90%D9%85%D9%92%20%D9%88%D9%8E%D8%AC%D9%92%D9%87%D9%8E%D9%83%D9%8E%20%D9%84%D9%90%D9%84%D8%AF%D9%90%D9%91%D9%8A%D9%86%D9%90%20%D8%AD%D9%8E%D9%86%D9%90%D9%8A%D9%81%D9%8B%D8%A7%20%DB%9A%20%D9%81%D9%90%D8%B7%D9%92%D8%B1%D9%8E%D8%AA%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%A7%D9%84%D9%8E%D9%91%D8%AA%D9%90%D9%8A%20%D9%81%D9%8E%D8%B7%D9%8E%D8%B1%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A7%D8%B3%D9%8E&lang=id)
 
 ---
 
@@ -405,6 +413,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 250): "فقوله: ﴿وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾ كقوله: (وهو الكبير المتعال) وهذه الآيات وما في معناها من الأحاديث الصحاح الأجود فيها طريقة السلف الصالح، أمروها كما جاءت من غير تكييف ولا تشبيه. ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَ..."  
 > 💡 **Relevansi Pedagogis PKN:** Iman tidak dapat dipaksakan secara intimidatif pada anak kecil; ia harus disemai melalui dialog logis, keteladanan hangat, dan penyerahan sukarela kalbu.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D9%B0%D9%83%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D8%AD%D9%8E%D8%A8%D9%8E%D9%91%D8%A8%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%8A%D9%85%D9%8E%D8%A7%D9%86%D9%8E%20%D9%88%D9%8E%D8%B2%D9%8E%D9%8A%D9%8E%D9%91%D9%86%D9%8E%D9%87%D9%8F%20%D9%81%D9%90%D9%8A%20%D9%82%D9%8F%D9%84%D9%8F%D9%88%D8%A8%D9%90%D9%83%D9%8F%D9%85%D9%92&lang=id)
 
 ---
 
@@ -438,6 +447,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Wasiat berkasih sayang (marhamah) di dalam rumah tangga merupakan tiang penegak keselamatan jiwa generasi penerus.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D8%B9%D9%8E%D9%85%D9%90%D9%84%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D8%A7%D9%84%D9%90%D8%AD%D9%8E%D8%A7%D8%AA%D9%90%20%D8%B3%D9%8E%D9%8A%D9%8E%D8%AC%D9%92%D8%B9%D9%8E%D9%84%D9%8F%20%D9%84%D9%8E%D9%87%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%8E%D9%B0%D9%86%D9%8F&lang=id)
 
 ---
 
@@ -480,6 +490,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 316): "وقالوا: الخطاب بما لا يفهم بعيد، وقد روى ابن أبي نجيح عن مجاهد، عن ابن عباس أنه قال: أنا من الراسخين الذين يعلمون تأويله (¬١). وقال ابن أبي نجيح، عن مجاهد: والراسخون في العلم يعلمون تأويله ويقولون: آمنا به (¬٢). وكذا قال..."  
 > 💡 **Relevansi Pedagogis PKN:** Metode pembelajaran alamiah: mengajak anak berinteraksi langsung dengan alam semesta untuk memicu nalar kritis dan rasa takjub batiniah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%82%D9%92%D8%B1%D9%8E%D8%A3%D9%92%20%D8%A8%D9%90%D8%A7%D8%B3%D9%92%D9%85%D9%90%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8E%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%8E%20%DB%9D%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%8E%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%D8%A7%D9%86%D9%8E%20%D9%85%D9%90%D9%86%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%82%D9%8D%20%DB%9D&lang=id)
 
 ---
 
@@ -506,6 +517,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Hikmah perbedaan bakat: keberagaman anugerah Allah didesain agar manusia saling bekerjasama, melengkapi, dan membangun tatanan peradaban.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8F%D9%84%D9%92%20%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%B4%D9%8E%D8%A7%D9%83%D9%90%D9%84%D9%8E%D8%AA%D9%90%D9%87%D9%90%20%D9%81%D9%8E%D8%B1%D9%8E%D8%A8%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8F%20%D8%A8%D9%90%D9%85%D9%8E%D9%86%D9%92%20%D9%87%D9%8F%D9%88%D9%8E&lang=id)
 
 ---
 
@@ -539,6 +551,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Kemandirian fisik dan etos penjelajahan bumi mencari rezeki halal melalui kerja keras yang produktif.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%82%D9%8F%D9%84%D9%90%20%D8%A7%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D9%81%D9%8E%D8%B3%D9%8E%D9%8A%D9%8E%D8%B1%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%85%D9%8E%D9%84%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%D9%87%D9%8F%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%A4%D9%92%D9%85%D9%90%D9%86%D9%8F%D9%88%D9%86%D9%8E%20%DB%96&lang=id)
 
 ---
 
@@ -572,6 +585,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *مختصر تفسير ابن كثير* (ج 1 ص 591): "- ٧٤ - وَإِذْ قَالَ إِبْرَاهِيمُ لأَبِيهِ آزَرَ أَتَتَّخِذُ أصناما آلِهَةً إِنِّي أَرَاكَ وَقَوْمَكَ فِي ضَلَالٍ مُّبِينٍ - ٧٥ - وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ وَلِيَكُونَ مِنَ الْمُوقِ..."  
 > 💡 **Relevansi Pedagogis PKN:** Perintah eksplorasi riset dan penyelidikan sains berbasis pengamatan empiris yang memicu bakat analisis anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8F%D8%A4%D9%92%D8%AA%D9%90%D9%8A%20%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%8E%20%D9%85%D9%8E%D9%86%20%D9%8A%D9%8E%D8%B4%D9%8E%D8%A7%D8%A1%D9%8F%20%DB%9A%20%D9%88%D9%8E%D9%85%D9%8E%D9%86%20%D9%8A%D9%8F%D8%A4%D9%92%D8%AA%D9%8E%20%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%8E%20%D9%81%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8F%D9%88%D8%AA%D9%90%D9%8A%D9%8E&lang=id)
 
 ---
 
@@ -605,6 +619,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Potret kedalaman cinta dan gejolak rasa seorang ibu; mendidik adalah mengokohkan ikatan hati (rabthul qalb) bersandar pada janji Allah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8E%20%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8E%D9%86%D9%81%D9%8E%D8%B9%D9%8F%20%D9%85%D9%8E%D8%A7%D9%84%D9%8C%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%A8%D9%8E%D9%86%D9%8F%D9%88%D9%86%D9%8E%20%DB%9D%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D9%86%D9%92%20%D8%A3%D9%8E%D8%AA%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D8%A8%D9%90%D9%82%D9%8E%D9%84%D9%92%D8%A8%D9%8D&lang=id)
 
 ---
 
@@ -638,6 +653,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 73): "حدثنا (¬١) محمد بن كثير، حدّثنا سفيان، عن الأعمش، عن إبراهيم، عن علقمة قال: كنا بحمص فقرأ ابن مسعود سورة يوسف فقال رجل: ما هكذا أنزلت، فقال: قرأت على رسول الله ﷺ فقال: "أحسن" ووجد منه ريح الخمر، فقال: أتجترئ أن تكذب بكتا..."  
 > 💡 **Relevansi Pedagogis PKN:** Keberanian memimpin lahir dari kesadaran kompetensi: amanah menjaga aset umat (hafizh) dan menguasai ilmunya ('alim).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%AF%D9%8E%D8%A7%D9%88%D9%8F%D9%88%D8%AF%D9%8F%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%D8%A7%20%D8%AC%D9%8E%D8%B9%D9%8E%D9%84%D9%92%D9%86%D9%8E%D8%A7%D9%83%D9%8E%20%D8%AE%D9%8E%D9%84%D9%90%D9%8A%D9%81%D9%8E%D8%A9%D9%8B%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B1%D9%92%D8%B6%D9%90%20%D9%81%D9%8E%D8%A7%D8%AD%D9%92%D9%83%D9%8F%D9%85%20%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E&lang=id)
 
 ---
 
@@ -671,6 +687,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Karakter kerja tim (teamwork): tertata rapi, memahami posisi dan peran masing-masing bagaikan batu bata bangunan peradaban yang saling menopang.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%88%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D8%A8%D9%90%D8%B1%D9%90%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D8%AA%D9%8E%D9%91%D9%82%D9%92%D9%88%D9%8E%D9%89%D9%B0%20%DB%96%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%88%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D8%A5%D9%90%D8%AB%D9%92%D9%85%D9%90&lang=id)
 
 ---
 
@@ -704,6 +721,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ت السلامة* (ج 2 ص 244): "اللهم غَفْرًا، كُلُّ الناس أفقه من عمر. ثم (¬١) رجع فركب المنبر فقال: إني (¬٢) كنت نهيتكم أن تزيدوا النساء في صداقهن (¬٣) على أربعمائة درهم، فمن شاء أن يعطي من ماله ما أحب. قال أبو يعلى: وأظنه قال: فمن طابت نفسه فليفعل. ..."  
 > 💡 **Relevansi Pedagogis PKN:** Mendidik kedermawanan aktif sejak usia dini dengan membiasakan anak berbagi barang terbaik miliknya kepada mereka yang membutuhkan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%8A%D9%8F%D8%A4%D9%92%D8%AB%D9%90%D8%B1%D9%8F%D9%88%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%90%D9%87%D9%90%D9%85%D9%92%20%D9%88%D9%8E%D9%84%D9%8E%D9%88%D9%92%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D8%A8%D9%90%D9%87%D9%90%D9%85%D9%92%20%D8%AE%D9%8E%D8%B5%D9%8E%D8%A7%D8%B5%D9%8E%D8%A9%D9%8C%20%DB%9A%20%D9%88%D9%8E%D9%85%D9%8E%D9%86%20%D9%8A%D9%8F%D9%88%D9%82%D9%8E&lang=id)
 
 ---
 
@@ -728,6 +746,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Hikmah perbedaan derajat potensi bakat: ujian amanah kekhalifahan di mana setiap insan dimintai pertanggungjawaban atas porsi kelebihan uniknya.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8F%D9%84%D9%92%20%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%B4%D9%8E%D8%A7%D9%83%D9%90%D9%84%D9%8E%D8%AA%D9%90%D9%87%D9%90%20%D9%81%D9%8E%D8%B1%D9%8E%D8%A8%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8F%20%D8%A8%D9%90%D9%85%D9%8E%D9%86%D9%92%20%D9%87%D9%8F%D9%88%D9%8E&lang=id)
 
 ---
 
@@ -754,6 +773,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *شرح تفسير ابن كثير - الراجحي* (ج 104 ص 2): "تفسير قوله تعالى: (يا أيها الناس إن كنتم في ريب من البعث فإنا خلقناكم من تراب) قال الله تعالى: ﴿يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ ..."  
 > 💡 **Relevansi Pedagogis PKN:** Terminologi Al-Qur'an membedakan fase thifl (anak-anak) dan asyudd (dewasa kokoh); tidak ada istilah remaja bingung (adolescence) yang serba galau.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%8E%D9%83%D9%8F%D9%85%20%D9%85%D9%90%D9%91%D9%86%20%D8%B6%D9%8E%D8%B9%D9%92%D9%81%D9%8D%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%AC%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%20%D9%85%D9%90%D9%86%20%D8%A8%D9%8E%D8%B9%D9%92%D8%AF%D9%90%20%D8%B6%D9%8E%D8%B9%D9%92%D9%81%D9%8D%20%D9%82%D9%8F%D9%88%D9%8E%D9%91%D8%A9%D9%8B&lang=id)
 
 ---
 
@@ -787,6 +807,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Hak penyusuan dua tahun penuh (radha'ah) dan pemenuhan kelekatan fisik (attachment) dengan bunda sebagai pondasi tangki cinta pertama anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%88%D9%90%20%D8%A7%D9%84%D8%B7%D9%90%D9%91%D9%81%D9%92%D9%84%D9%90%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%84%D9%8E%D9%85%D9%92%20%D9%8A%D9%8E%D8%B8%D9%92%D9%87%D9%8E%D8%B1%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%B9%D9%8E%D9%88%D9%92%D8%B1%D9%8E%D8%A7%D8%AA%D9%90%20%D8%A7%D9%84%D9%86%D9%90%D9%91%D8%B3%D9%8E%D8%A7%D8%A1%D9%90&lang=id)
 
 ---
 
@@ -811,6 +832,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 365): "لما كان نجاهم (به) (¬١) من فرعون وقومه. ﴿وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ﴾ قال (¬٢): بعهدي الذي أخذت (في) (¬٣) أعناقكم للنبي (محمد) (¬٤) ﷺ إذا جاءكم أنجز لكم ما وعدتكم عليه (بتصديقه) (¬٥)، واتباعه، بوضع ما كان علي..."  
 > 💡 **Relevansi Pedagogis PKN:** Perintah shalat dan penguatan adab sabar sejak usia 7 tahun membentuk disiplin spiritual harian anak secara terstruktur.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%84%D9%90%D9%8A%D9%8E%D8%B3%D9%92%D8%AA%D9%8E%D8%A3%D9%92%D8%B0%D9%90%D9%86%D9%83%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%85%D9%8E%D9%84%D9%8E%D9%83%D9%8E%D8%AA%D9%92&lang=id)
 
 ---
 
@@ -835,6 +857,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج المقدمة ص 31): "ودخل في زمرة من فسر القرآن بالرأي … والنقل والسماع لابدّ له منه في ظاهر التفسير أولًا، لِيُتَقى به مواضع الغلط، ثم بعد ذلك يتسع الفهم والاستنباط والغرائب التي لا تفهم إلا بالسماع. وقد ذكر مثل هذا التنبيه المحدث ابن الأثي..."  
 > 💡 **Relevansi Pedagogis PKN:** Puncak fase murahaqah (balagha ma'ahus sa'ya): dialog kemitraan ayah dan anak pra-baligh; anak dilibatkan dalam keputusan besar dan disiapkan memikul pengorbanan akidah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D8%A8%D9%92%D8%AA%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%92%D9%8A%D9%8E%D8%AA%D9%8E%D8%A7%D9%85%D9%8E%D9%89%D9%B0%20%D8%AD%D9%8E%D8%AA%D9%8E%D9%91%D9%89%D9%B0%20%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%A8%D9%8E%D9%84%D9%8E%D8%BA%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%86%D9%90%D9%91%D9%83%D9%8E%D8%A7%D8%AD%D9%8E%20%D9%81%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D8%A2%D9%86%D9%8E%D8%B3%D9%92%D8%AA%D9%8F%D9%85&lang=id)
 
 ---
 
@@ -868,6 +891,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Pemuda sebagai pelopor perubahan kebatilan; mencetak anak muda yang berjiwa Ibrahim AS: bernalar kritis, berani membela tauhid, dan anti-kemapanan jahiliyah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%D9%87%D9%8F%D9%85%D9%92%20%D9%81%D9%90%D8%AA%D9%92%D9%8A%D9%8E%D8%A9%D9%8C%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A8%D9%90%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%87%D9%90%D9%85%D9%92%20%D9%88%D9%8E%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%8E%D8%A7%D9%87%D9%8F%D9%85%D9%92%20%D9%87%D9%8F%D8%AF%D9%8B%D9%89&lang=id)
 
 ---
 
@@ -894,6 +918,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج المقدمة ص 18): "أسباب تحقيق الكتاب لقد درَّست تفسير ابن كثير مدة عشرين سنة، وفي هذه الفترة كان كثير من الزملاء الأساتذة وكثير من الطلاب الذين درّستهم في الدراسات العليا وفي كلية القرآن الكريم وكلية الحديث الشريف، يقترحون عليَّ تحقيق الك..."  
 > 💡 **Relevansi Pedagogis PKN:** Urutan pedagogis nabawiyah: Tilawah (pembiasaan mendengar ayat), Tazkiyah (penyucian jiwa & tangki cinta), baru Ta'lim (transfer kurikulum & keahlian).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%AF%D9%92%D8%B9%D9%8F%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%D9%B0%20%D8%B3%D9%8E%D8%A8%D9%90%D9%8A%D9%84%D9%90%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8E%20%D8%A8%D9%90%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%88%D9%92%D8%B9%D9%90%D8%B8%D9%8E%D8%A9%D9%90%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B3%D9%8E%D9%86%D9%8E%D8%A9%D9%90%20%DB%96&lang=id)
 
 ---
 
@@ -918,6 +943,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 30): "تأمر بجمع القرآن، فقلت لعمر: كيف نفعل شيئًا لم يفعله رسول الله ﷺ؟ قال عمر: هذا والله خير؛ فلم يزل عمرُ يراجعني حتى شرح الله صدري لذلك، ورأيت في ذلك الذي رأى عمر، قال زيد: قال أبو بكر: إنك رجل شاب عاقل لا نتهمك، وقد كنت ت..."  
 > 💡 **Relevansi Pedagogis PKN:** Karakter batiniah pendidik nabawiyah: empati mendalam atas kesulitan anak ('azizun 'alaihi ma 'anittum) dan antusiasme mencurahkan kebaikan (harisun 'alaikum).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A8%D9%90%D9%85%D9%8E%D8%A7%20%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8D%20%D9%85%D9%90%D9%91%D9%86%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D9%84%D9%90%D9%86%D8%AA%D9%8E%20%D9%84%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%DB%96%20%D9%88%D9%8E%D9%84%D9%8E%D9%88%D9%92%20%D9%83%D9%8F%D9%86%D8%AA%D9%8E%20%D9%81%D9%8E%D8%B8%D9%8B%D9%91%D8%A7%20%D8%BA%D9%8E%D9%84%D9%90%D9%8A%D8%B8%D9%8E&lang=id)
 
 ---
 
@@ -960,6 +986,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Menjaga kehormatan verbal di rumah: pantangan membentak dan kewajiban bertutur kata mulia dan menyejukkan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D8%A7%20%D9%82%D9%8E%D9%88%D9%92%D9%84%D9%8B%D8%A7%20%D8%B3%D9%8E%D8%AF%D9%90%D9%8A%D8%AF%D9%8B%D8%A7%20%DB%9D&lang=id)
 
 ---
 
@@ -984,6 +1011,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Kaidah emas sebelum mengeksekusi konsekuensi/bahasa tangan: orang tua wajib menunggu amarahnya reda (sakata 'anhul ghadhab) agar tindakan tidak didorong hawa nafsu dendam.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%AE%D9%8F%D8%B0%D9%92%20%D8%A8%D9%90%D9%8A%D9%8E%D8%AF%D9%90%D9%83%D9%8E%20%D8%B6%D9%90%D8%BA%D9%92%D8%AB%D9%8B%D8%A7%20%D9%81%D9%8E%D8%A7%D8%B6%D9%92%D8%B1%D9%90%D8%A8%20%D8%A8%D9%90%D9%91%D9%87%D9%90%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D8%AD%D9%92%D9%86%D9%8E%D8%AB%D9%92%20%DB%97%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%D8%A7%20%D9%88%D9%8E%D8%AC%D9%8E%D8%AF%D9%92%D9%86%D9%8E%D8%A7%D9%87%D9%8F&lang=id)
 
 ---
 
@@ -1008,6 +1036,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج المقدمة ص 5): "﷽ الحمد لله والصلاة والسلام على رسول الله ومن والاه؛ أما بعد: فقد سطع علم التفسير منذ نزول القرآن الكريم إذ بيّن النبي ﷺ للصحابة ﵃ ما يحتاجون من بيان، ولما كان الصحابة ﵃ من أعرق القبائل العربية وحظوا بذلك البيان، فقد غدو..."  
 > 💡 **Relevansi Pedagogis PKN:** Urutan tarbiyah ilahiyah: Berangkat dari Ar-Rahman (kasih sayang), Al-Qur'an (fondasi wahyu), Insan (fitrah manusia), lalu Al-Bayan (ekspresi keahlian dan komunikasi).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%A2%D8%AA%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D8%A7%20%D9%84%D9%8F%D9%82%D9%92%D9%85%D9%8E%D8%A7%D9%86%D9%8E%20%D8%A7%D9%84%D9%92%D8%AD%D9%90%D9%83%D9%92%D9%85%D9%8E%D8%A9%D9%8E%20%D8%A3%D9%8E%D9%86%D9%90%20%D8%A7%D8%B4%D9%92%D9%83%D9%8F%D8%B1%D9%92%20%D9%84%D9%90%D9%84%D9%8E%D9%91%D9%87%D9%90...%20%D9%8A%D9%8E%D8%A7%20%D8%A8%D9%8F%D9%86%D9%8E%D9%8A%D9%8E%D9%91%20%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1032,6 +1061,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 5): "﷽ ﴿* سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا قُلْ لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ (١٤٢) وَكَذَلِكَ جَعَلْنَاكُمْ أُ..."  
 > 💡 **Relevansi Pedagogis PKN:** Mencetak generasi wasathiyah: seimbang antara kebutuhan jasad dan ruh, nalar dan rasa, adab dan kebebasan berekspresi.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%87%D9%92%D8%AF%D9%90%D9%86%D9%8E%D8%A7%20%D8%A7%D9%84%D8%B5%D9%90%D9%91%D8%B1%D9%8E%D8%A7%D8%B7%D9%8E%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%B3%D9%92%D8%AA%D9%8E%D9%82%D9%90%D9%8A%D9%85%D9%8E%20%DB%9D%20%D8%B5%D9%90%D8%B1%D9%8E%D8%A7%D8%B7%D9%8E%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A3%D9%8E%D9%86%D9%92%D8%B9%D9%8E%D9%85%D9%92%D8%AA%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%D9%85%D9%92&lang=id)
 
 ---
 
@@ -1056,6 +1086,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Sains fitrah nabawiyah: mengamati proses biologis pertumbuhan tanaman sebagai sarana menguatkan keimanan saintifik anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%88%D9%8E%D9%84%D9%8E%D9%85%D9%92%20%D9%8A%D9%8E%D9%86%D8%B8%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D9%81%D9%90%D9%8A%20%D9%85%D9%8E%D9%84%D9%8E%D9%83%D9%8F%D9%88%D8%AA%D9%90%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%85%D9%8E%D8%A7%D9%88%D9%8E%D8%A7%D8%AA%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B1%D9%92%D8%B6%D9%90%20%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F&lang=id)
 
 ---
 
@@ -1089,6 +1120,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Bahaya orang tua sibuk mengejar materi (takatsur) sehingga mengorbankan waktu kehadiran mendampingi anak, meninggalkan luka batin menahun.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D8%AE%D9%92%D9%81%D9%90%D8%B6%D9%92%20%D9%84%D9%8E%D9%87%D9%8F%D9%85%D9%8E%D8%A7%20%D8%AC%D9%8E%D9%86%D9%8E%D8%A7%D8%AD%D9%8E%20%D8%A7%D9%84%D8%B0%D9%8F%D9%91%D9%84%D9%90%D9%91%20%D9%85%D9%90%D9%86%D9%8E%20%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%90%20%D9%88%D9%8E%D9%82%D9%8F%D9%84%20%D8%B1%D9%8E%D9%91%D8%A8%D9%90%D9%91%20%D8%A7%D8%B1%D9%92%D8%AD%D9%8E%D9%85%D9%92%D9%87%D9%8F%D9%85%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1113,6 +1145,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Perintah istiqamah tanpa melampaui batas (la tathghaw); orang tua yang baru belajar parenting dilarang memaksakan perubahan ekstrem yang membebani anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%B5%D9%92%D8%A8%D9%90%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D8%B5%D9%8E%D8%A7%D8%A8%D9%90%D8%B1%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D8%B1%D9%8E%D8%A7%D8%A8%D9%90%D8%B7%D9%8F%D9%88%D8%A7%20%D9%88%D9%8E%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7&lang=id)
 
 ---
 
@@ -1146,6 +1179,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 398): "فَعَلَ السُّفَهَاءُ مِنَّا﴾ [الأعراف: ١٥٥] فأوحى الله إلى موسى: إن هؤلاء السبعين ممن (اتخذ) (¬١) العجل؛ ثم إن الله أحياهم، فقاموا (وعاش) (¬٢) رجل رجل، ينظر بعضهم إلى بعض كيف يحيون؟ قال: فذلك قوله (تعالى) (¬٣): ﴿ثُمَّ بَع..."  
 > 💡 **Relevansi Pedagogis PKN:** Taubat kolektif keluarga meruntuhkan sekat ego dan memulihkan kembali kehangatan rumah tangga yang sempat retak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8F%D9%84%D9%92%20%D9%8A%D9%8E%D8%A7%20%D8%B9%D9%90%D8%A8%D9%8E%D8%A7%D8%AF%D9%90%D9%8A%D9%8E%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A3%D9%8E%D8%B3%D9%92%D8%B1%D9%8E%D9%81%D9%8F%D9%88%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%90%D9%87%D9%90%D9%85%D9%92%20%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D9%82%D9%92%D9%86%D9%8E%D8%B7%D9%8F%D9%88%D8%A7%20%D9%85%D9%90%D9%86&lang=id)
 
 ---
 
@@ -1179,6 +1213,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Peringatan Al-Qur'an tentang penyesalan akibat salah memilih kawan karib; orang tua wajib mengawasi dinamika persahabatan anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D8%B5%D9%92%D8%A8%D9%90%D8%B1%D9%92%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8E%D9%83%D9%8E%20%D9%85%D9%8E%D8%B9%D9%8E%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D8%AF%D9%92%D8%B9%D9%8F%D9%88%D9%86%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%8E%D9%91%D9%87%D9%8F%D9%85%20%D8%A8%D9%90%D8%A7%D9%84%D9%92%D8%BA%D9%8E%D8%AF%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%B9%D9%8E%D8%B4%D9%90%D9%8A%D9%90%D9%91&lang=id)
 
 ---
 
@@ -1212,6 +1247,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Pendidikan menjaga pandangan (ghaddhul bashar) sebagai benteng imunitas pertama menjaga batas toleransi moral anak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AA%D9%90%D9%84%D9%92%D9%83%D9%8E%20%D8%AD%D9%8F%D8%AF%D9%8F%D9%88%D8%AF%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D9%81%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D9%82%D9%92%D8%B1%D9%8E%D8%A8%D9%8F%D9%88%D9%87%D9%8E%D8%A7%20...%20%D8%AA%D9%90%D9%84%D9%92%D9%83%D9%8E%20%D8%AD%D9%8F%D8%AF%D9%8F%D9%88%D8%AF%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D9%81%D9%8E%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1236,6 +1272,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Studi kasus menghadapi ancaman lingkungan eksternal: keberanian bunda bersandar pada janji Allah saat melepaskan anak ke medan perjuangan hidup.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%B5%D9%8E%D8%A8%D9%92%D8%B1%D9%8C%20%D8%AC%D9%8E%D9%85%D9%90%D9%8A%D9%84%D9%8C%20%DB%96%20%D9%88%D9%8E%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%B3%D9%92%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%86%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D9%85%D9%8E%D8%A7%20%D8%AA%D9%8E%D8%B5%D9%90%D9%81%D9%8F%D9%88%D9%86%D9%8E%20...%20%D8%B9%D9%8E%D8%B3%D9%8E%D9%89&lang=id)
 
 ---
 
@@ -1262,6 +1299,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Visi puncak implementasi: melahirkan generasi pemakmur bumi yang menegakkan peradaban tauhid.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%82%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%8A%D9%83%D9%8F%D9%85%D9%92%20%D9%86%D9%8E%D8%A7%D8%B1%D9%8B%D8%A7%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D8%AF%D9%8F%D9%87%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1304,6 +1342,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Kaidah Bertahap (At-Tadarruj): penanaman adab dan kurikulum wajib mengikuti kesiapan biologis dan mental per fase usia.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8F%D8%B1%D9%90%D9%8A%D8%AF%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A8%D9%90%D9%83%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%92%D9%8A%D9%8F%D8%B3%D9%92%D8%B1%D9%8E%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8F%D8%B1%D9%90%D9%8A%D8%AF%D9%8F%20%D8%A8%D9%90%D9%83%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%92%D8%B9%D9%8F%D8%B3%D9%92%D8%B1%D9%8E&lang=id)
 
 ---
 
@@ -1346,6 +1385,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط أولاد الشيخ* (ج 1 ص 319): "وحديث صلاة الكسوف (¬١٩٥)، وليلة الإسراء، وغير ذلك من الأحاديث المتواترة في هذا المعنى، وقد خالفت المعتزلة بجهلهم في هذا ووافقهم القاضي منذر بن سعيد البلوطي قاضي الأندلس. (تنبيه ينبغي الوقوف عليه) قوله تعالى: ﴿فَأْتُوا بس..."  
 > 💡 **Relevansi Pedagogis PKN:** Elemen Evaluasi (At-Taqyim): pemantauan proses perjuangan amal anak secara kualitatif berkesinambungan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%81%D9%8E%D8%AD%D9%8E%D8%B3%D9%90%D8%A8%D9%92%D8%AA%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D9%86%D9%8E%D9%91%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D9%86%D9%8E%D8%A7%D9%83%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D8%A8%D9%8E%D8%AB%D9%8B%D8%A7%20%D9%88%D9%8E%D8%A3%D9%8E%D9%86%D9%8E%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%A5%D9%90%D9%84%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D8%A7%20%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1379,6 +1419,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 161): "عن النبي ﷺ أنه قال: "وإذا قرأ فأنصتوا" وقد صححه مسلم (¬١) بن الحجاج أيضًا، فدل هذان الحديثان على صحة هذا القول؛ وهو قول قديم للشافعي ﵀؛ والله أعلم، ورواية عن الإمام أحمد بن حنبل رحمه الله تعالى. والغرض من ذكر هذه المسائل..."  
 > 💡 **Relevansi Pedagogis PKN:** Kearifan kultural lembaga pendidikan dalam membangun sinergi bersama wali murid dan masyarakat bertahap penuh kebijaksanaan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8F%D9%83%D9%8E%D9%84%D9%90%D9%91%D9%81%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8B%D8%A7%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%88%D9%8F%D8%B3%D9%92%D8%B9%D9%8E%D9%87%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1412,6 +1453,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 18): "ووجه بعضهم حجة الظلمة وهي داحضة أن قالوا: إن هذا الرجل يزعم أنه على دين إبراهيم، فإن كان توجُّهه إلى البيت المقدس على ملة إبراهيم فلم رجع عنه؟ والجواب: أن الله تعالى اختار له التوجه إلى بيت المقدس أولًا، لما له تعالى في ..."  
 > 💡 **Relevansi Pedagogis PKN:** Tazkiyah mendahului pengajaran kitab dan hikmah; hati yang kotor tidak akan mampu menampung cahaya ilmu syar'i.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8E%D9%81%D9%92%D9%84%D9%8E%D8%AD%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%B2%D9%8E%D9%83%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%88%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D8%A7%D8%A8%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%AF%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1454,6 +1496,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 63): "يدعوني فدعوني استجبت لهم (¬١). ورواه ابن جرير عن محمد بن حميد الرازي، عن جرير به] (¬٢). ورواه ابن مردويه وأبو الشيخ الأصبهاني من حديث محمد بن أبي حميد عن جرير به (¬٣). وقال عبد الرزاق: أخبرنا جعفر بن سليمان، عن عوف، عن ا..."  
 > 💡 **Relevansi Pedagogis PKN:** Senjata terkuat orang tua adalah doa yang dipanjatkan di sepertiga malam terakhir untuk melembutkan hati anak-anaknya.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D9%86%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%8E%D9%91%D9%86%D9%8E%D8%A7%20%D9%87%D9%8E%D8%A8%D9%92%20%D9%84%D9%8E%D9%86%D9%8E%D8%A7%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D8%B2%D9%92%D9%88%D9%8E%D8%A7%D8%AC%D9%90%D9%86%D9%8E%D8%A7%20%D9%88%D9%8E%D8%B0%D9%8F%D8%B1%D9%90%D9%91%D9%8A%D9%8E%D9%91%D8%A7%D8%AA%D9%90%D9%86%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1478,6 +1521,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Peringatan Al-Qur'an agar tidak meninggalkan generasi lemah (dhurriyyatan dhi'afa) baik dalam akidah, fisik, finansial, maupun mental peradaban.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%82%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%8A%D9%83%D9%8F%D9%85%D9%92%20%D9%86%D9%8E%D8%A7%D8%B1%D9%8B%D8%A7%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D8%AF%D9%8F%D9%87%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1511,6 +1555,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Peran Rahimah Bunda: madrasah perdana yang mencurahkan kehangatan batin, mengisi tangki cinta, dan menyemai adab keseharian.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%B1%D9%90%D9%91%D8%AC%D9%8E%D8%A7%D9%84%D9%8F%20%D9%82%D9%8E%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8F%D9%88%D9%86%D9%8E%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%86%D9%90%D9%91%D8%B3%D9%8E%D8%A7%D8%A1%D9%90%20%D8%A8%D9%90%D9%85%D9%8E%D8%A7%20%D9%81%D9%8E%D8%B6%D9%8E%D9%91%D9%84%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A8%D9%8E%D8%B9%D9%92%D8%B6%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0&lang=id)
 
 ---
 
@@ -1544,6 +1589,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Karakter utama guru nabawiyah: ilmu yang dimilikinya melahirkan rasa takut dan tunduk kepada Allah (khasy-yah), bukan kesombongan gelar.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%B1%D9%92%D9%81%D9%8E%D8%B9%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%85%D9%90%D9%86%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A3%D9%8F%D9%88%D8%AA%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%92%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8E&lang=id)
 
 ---
 
@@ -1577,6 +1623,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 531): "لك أن أذكرها لنفسها؟ قال: نعم. ولكن كيف لنا بعذاب الله؟ قال الآخر: إنا لنرجو رحمة الله. فلما جاءت تخاصم زوجها ذكرا إليها نفسها؛ فقالت: لا حتى تقضيا لي على زوجي. فقضيا لها على زوجها، ثم واعدتهما خربةً من الخرب يأتيانها في..."  
 > 💡 **Relevansi Pedagogis PKN:** Kewajiban anak membalas pengasuhan dengan birrul walidain; buah manis penunaian hak anak di masa kecil.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D8%B6%D9%8E%D8%A7%D8%B1%D9%8E%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D9%90%D8%AF%D9%8E%D8%A9%D9%8C%20%D8%A8%D9%90%D9%88%D9%8E%D9%84%D9%8E%D8%AF%D9%90%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D9%85%D9%8E%D9%88%D9%92%D9%84%D9%8F%D9%88%D8%AF%D9%8C%20%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%A8%D9%90%D9%88%D9%8E%D9%84%D9%8E%D8%AF%D9%90%D9%87%D9%90%20%DB%9A%20%D9%88%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%D9%89&lang=id)
 
 ---
 
@@ -1601,6 +1648,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Sistem PKN mengarahkan keluarga pada jalan yang paling lurus (lil-lati hiya aqwam) melampaui teori psikologi sekuler barat.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B0%D9%8E%D9%B0%D9%84%D9%90%D9%83%D9%8E%20%D8%A7%D9%84%D9%92%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%8F%20%D9%84%D9%8E%D8%A7%20%D8%B1%D9%8E%D9%8A%D9%92%D8%A8%D9%8E%20%DB%9B%20%D9%81%D9%90%D9%8A%D9%87%D9%90%20%DB%9B%20%D9%87%D9%8F%D8%AF%D9%8B%D9%89%20%D9%84%D9%90%D9%91%D9%84%D9%92%D9%85%D9%8F%D8%AA%D9%8E%D9%91%D9%82%D9%90%D9%8A%D9%86%D9%8E&lang=id)
 
 ---
 
@@ -1625,6 +1673,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Kewajiban tabayyun menyaring tren parenting kontemporer agar tidak mengorbankan fitrah anak demi coba-coba keliru.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A7%D8%B3%D9%92%D8%A3%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%8E%20%D8%A7%D9%84%D8%B0%D9%90%D9%91%D9%83%D9%92%D8%B1%D9%90%20%D8%A5%D9%90%D9%86%20%D9%83%D9%8F%D9%86%D8%AA%D9%8F%D9%85%D9%92%20%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8F%D9%88%D9%86%D9%8E&lang=id)
 
 ---
 
@@ -1649,6 +1698,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 81): "الريحانة ريحها طيب وطعمها مر، ومثل الفاجر الذي لا يقرأ القرآن كمثل الحنظلة طعمها مر ولا ريح لها". وهكذا رواه (¬١) في مواضع أخر مع بقية الجماعة من طرق عن قتادة به. ووجه مناسبة الباب لهذا الحديث أن طيب الرائحة دار مع القرآ..."  
 > 💡 **Relevansi Pedagogis PKN:** Misi agung Wiki PKN: memandu keluarga muslim membangkitkan kembali kejayaan Khairu Ummah melalui rekonstruksi pendidikan nabawiyah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%84%D9%8E%D9%85%D9%92%20%D8%AA%D9%8E%D8%B1%D9%8E%20%D9%83%D9%8E%D9%8A%D9%92%D9%81%D9%8E%20%D8%B6%D9%8E%D8%B1%D9%8E%D8%A8%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%8B%D8%A7%20%D9%83%D9%8E%D9%84%D9%90%D9%85%D9%8E%D8%A9%D9%8B%20%D8%B7%D9%8E%D9%8A%D9%90%D9%91%D8%A8%D9%8E%D8%A9%D9%8B%20%D9%83%D9%8E%D8%B4%D9%8E%D8%AC%D9%8E%D8%B1%D9%8E%D8%A9%D9%8D&lang=id)
 
 ---
 
@@ -1666,6 +1716,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Setiap insight dan wawasan PKN harus berpijak pada dalil syar'i dan riset ilmiah terpercaya yang dapat dipertanggungjawabkan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D9%82%D9%92%D9%81%D9%8F%20%D9%85%D9%8E%D8%A7%20%D9%84%D9%8E%D9%8A%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D9%83%D9%8E%20%D8%A8%D9%90%D9%87%D9%90%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8C%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%85%D9%92%D8%B9%D9%8E%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A8%D9%8E%D8%B5%D9%8E%D8%B1%D9%8E&lang=id)
 
 ---
 
@@ -1681,6 +1732,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *مختصر تفسير ابن كثير* (ج 1 ص 107): "- ١١١ - وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُوداً أَوْ نَصَارَى تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُواْ بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ - ١١٢ - بَلَى مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَ..."  
 > 💡 **Relevansi Pedagogis PKN:** Kombinasi lurus antara tauhid murni (insight batin) dan aksi nyata yang terukur (teknis lapangan).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D9%85%D9%8E%D9%86%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%8A%D9%8E%D8%B1%D9%92%D8%AC%D9%8F%D9%88%20%D9%84%D9%90%D9%82%D9%8E%D8%A7%D8%A1%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%87%D9%90%20%D9%81%D9%8E%D9%84%D9%92%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%92%20%D8%B9%D9%8E%D9%85%D9%8E%D9%84%D9%8B%D8%A7%20%D8%B5%D9%8E%D8%A7%D9%84%D9%90%D8%AD%D9%8B%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7&lang=id)
 
 ---
 
@@ -1696,6 +1748,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 55): "عبد الله بن زيد أتى رسول الله ﷺ فقال: يا رسول الله، إني رأيت فيما يرى النائم، ولو قلت: إني لم أكن نائمًا لصدقت، إني بينا أنا بين النائم واليقظان إذ رأيت شخصًا عليه ثوبان أخضران فاستقبل القبلة، فقال: الله أكبر الله أكبر، ..."  
 > 💡 **Relevansi Pedagogis PKN:** Pedoman teknis beramal: menyelaraskan antara ketaatan ritual ibadah dan produktivitas aksi lapangan sehari-hari.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D9%82%D9%8F%D8%B6%D9%90%D9%8A%D9%8E%D8%AA%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%8F%20%D9%81%D9%8E%D8%A7%D9%86%D8%AA%D9%8E%D8%B4%D9%90%D8%B1%D9%8F%D9%88%D8%A7%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B1%D9%92%D8%B6%D9%90%20%D9%88%D9%8E%D8%A7%D8%A8%D9%92%D8%AA%D9%8E%D8%BA%D9%8F%D9%88%D8%A7%20%D9%85%D9%90%D9%86%20%D9%81%D9%8E%D8%B6%D9%92%D9%84%D9%90&lang=id)
 
 ---
 
@@ -1711,6 +1764,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 1 ص 473): "(عمران، عن قتادة) (¬١)، عن عبد ربه، عن (أبي عياض) (¬٢)، عن عبد الله بن مسعود ﵁ أن رسول الله ﷺ قال: "إياكم ومحقرات الذنوب، فإنهن يجتمعن على الرجل حتى يهلكنه. وإن رسول الله ﷺ ضرب لهم مثلًا كمثل قوم نزلوا بأرض فلاة، فحضر صن..."  
 > 💡 **Relevansi Pedagogis PKN:** SOTABH hadir melatih para orang tua menjadi sosok Luqman di rumahnya masing-masing berbasis hadits shahih.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A5%D9%90%D8%B0%D9%92%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%20%D9%84%D9%8F%D9%82%D9%92%D9%85%D9%8E%D8%A7%D9%86%D9%8F%20%D9%84%D9%90%D8%A7%D8%A8%D9%92%D9%86%D9%90%D9%87%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%88%D9%8E%20%D9%8A%D9%8E%D8%B9%D9%90%D8%B8%D9%8F%D9%87%D9%8F%20%D9%8A%D9%8E%D8%A7%20%D8%A8%D9%8F%D9%86%D9%8E%D9%8A%D9%8E%D9%91%20%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8F%D8%B4%D9%92%D8%B1%D9%90%D9%83%D9%92&lang=id)
 
 ---
 
@@ -1726,6 +1780,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Menyelaraskan kaidah esensial kebajikan holistik yang mencakup iman, penunaian harta, shalat, zakat, dan menepati janji.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D9%91%D9%8A%D9%92%D8%B3%D9%8E%20%D8%A7%D9%84%D9%92%D8%A8%D9%90%D8%B1%D9%8E%D9%91%20%D8%A3%D9%8E%D9%86%20%D8%AA%D9%8F%D9%88%D9%8E%D9%84%D9%8F%D9%91%D9%88%D8%A7%20%D9%88%D9%8F%D8%AC%D9%8F%D9%88%D9%87%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%82%D9%90%D8%A8%D9%8E%D9%84%D9%8E%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D8%B4%D9%92%D8%B1%D9%90%D9%82%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D9%85%D9%8E%D8%BA%D9%92%D8%B1%D9%90%D8%A8%D9%90&lang=id)
 
 ---
 
@@ -1741,6 +1796,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 252): "ومعنى قوله في الطاغوت: إنه الشيطان، قوي جدًّا، فإنه يشمل كلَّ شرٍّ كان عليه أهل الجاهلية من عبادة الأوثان والتحاكم إليها، والاستنصار بها. وقوله: ﴿فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا﴾ أي: فقد ..."  
 > 💡 **Relevansi Pedagogis PKN:** Faktor internal jiwa (tazkiyah) adalah motor utama perubahan; faktor eksternal lingkungan bertindak sebagai katalis pendukung.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%84%D9%8E%D8%A7%20%D9%8A%D9%8F%D8%BA%D9%8E%D9%8A%D9%90%D9%91%D8%B1%D9%8F%20%D9%85%D9%8E%D8%A7%20%D8%A8%D9%90%D9%82%D9%8E%D9%88%D9%92%D9%85%D9%8D%20%D8%AD%D9%8E%D8%AA%D9%8E%D9%91%D9%89%D9%B0%20%D9%8A%D9%8F%D8%BA%D9%8E%D9%8A%D9%90%D9%91%D8%B1%D9%8F%D9%88%D8%A7%20%D9%85%D9%8E%D8%A7%20%D8%A8%D9%90%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%90%D9%87%D9%90%D9%85%D9%92&lang=id)
 
 ---
 
@@ -1756,6 +1812,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ط ابن الجوزي* (ج 2 ص 165): "وقال الطحاوي: حكى لنا محمد بن عبد الله بن عبد الحكم، أنه سمع الشافعي يقول: ما صحَّ عن النبي ﷺ في تحليله ولا تحريمه شيء والقياس أنه حلال. وقد روى ذلك أبو بكر الخطيب عن أبي سعيد الصيرفي، عن أبي العباس الأصم، سمعت محمد بن ع..."  
 > 💡 **Relevansi Pedagogis PKN:** Setiap pendidik dan orang tua memikul tanggung jawab moral personal di hadapan mahkamah Allah kelak.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8D%20%D8%A8%D9%90%D9%85%D9%8E%D8%A7%20%D9%83%D9%8E%D8%B3%D9%8E%D8%A8%D9%8E%D8%AA%D9%92%20%D8%B1%D9%8E%D9%87%D9%90%D9%8A%D9%86%D9%8E%D8%A9%D9%8C&lang=id)
 
 ---
 
@@ -1771,6 +1828,7 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Kitab:** Tafsir Al-Qur'an Al-'Azhim (Ibnu Katsir) & Shahih Tafsir Salaf  
 > 💡 **Relevansi Pedagogis PKN:** Menyimak video dan kajian ilmu PKN dengan niat memilah intisari terbaik untuk diamalkan nyata dalam keluarga.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D8%B3%D9%92%D8%AA%D9%8E%D9%85%D9%90%D8%B9%D9%8F%D9%88%D9%86%D9%8E%20%D8%A7%D9%84%D9%92%D9%82%D9%8E%D9%88%D9%92%D9%84%D9%8E%20%D9%81%D9%8E%D9%8A%D9%8E%D8%AA%D9%8E%D9%91%D8%A8%D9%90%D8%B9%D9%8F%D9%88%D9%86%D9%8E%20%D8%A3%D9%8E%D8%AD%D9%92%D8%B3%D9%8E%D9%86%D9%8E%D9%87%D9%8F%20%DB%9A%20%D8%A3%D9%8F%D9%88%D9%84%D9%8E%D9%B0%D8%A6%D9%90%D9%83%D9%8E&lang=id)
 
 ---
 
@@ -1786,5 +1844,6 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *تفسير ابن كثير - ت السلامة* (ج 2 ص 306): "حديث أنك تقول: سمعت رسول الله ﷺ يقول: "إن الله يعطى عبده المؤمن بالحسنة ألف ألف حسنة" قال أبو هريرة: لا بل سمعت رسول الله ﷺ يقول: "إن الله ﷿ يعطيه ألفي ألف حسنة" ثم تلا (يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيم..."  
 > 💡 **Relevansi Pedagogis PKN:** Al-Qur'an adalah rujukan paripurna (tibyanan likulli syai') yang membedah tuntas paradigma pendidikan insan.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D8%B2%D9%8E%D9%91%D9%84%D9%92%D9%86%D9%8E%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%A7%D9%84%D9%92%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%8E%20%D8%AA%D9%90%D8%A8%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8B%D8%A7%20%D9%84%D9%90%D9%91%D9%83%D9%8F%D9%84%D9%90%D9%91%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8D%20%D9%88%D9%8E%D9%87%D9%8F%D8%AF%D9%8B%D9%89%20%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8B&lang=id)
 
 ---

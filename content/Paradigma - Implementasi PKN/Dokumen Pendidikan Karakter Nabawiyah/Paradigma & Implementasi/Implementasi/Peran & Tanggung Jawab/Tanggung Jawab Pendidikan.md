@@ -13,7 +13,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Amanah Keadilan dan Tanggung Jawab Pendidikan](/assets/banners/banner-01.webp)
 
@@ -25,6 +25,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** QS. At-Tahrim: 6; Tafsir Ibnu Katsir (Juz 8 Hal. 188); Shahih Al-Bukhari No. 893 & Muslim No. 1829 (Hadits Kepemimpinan Keluarga); Riyadush Shalihin No. 115.  
 > 💡 **Relevansi PKN:** Ayat ini menegaskan bahwa tanggung jawab pendidikan dan penyelamatan anak dari fitnah dunia dan siksa akhirat adalah mandat fardhu 'ain yang melekat mutlak pada kedua orang tua kandung. Sekolah, guru les, dan pesantren hanyalah mitra pendukung yang tidak menggugurkan hisab orang tua di hadapan Allah.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D9%82%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%86%D9%81%D9%8F%D8%B3%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D9%88%D9%8E%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90%D9%8A%D9%83%D9%8F%D9%85%D9%92%20%D9%86%D9%8E%D8%A7%D8%B1%D9%8B%D8%A7%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D8%AF%D9%8F%D9%87%D9%8E%D8%A7&lang=id)
 
 ---
 

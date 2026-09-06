@@ -14,7 +14,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ![Komunikasi Hikmah: Bahasa Lisan Dialogis Penuh Adab](/assets/banners/banner-14.webp)
 
@@ -26,6 +26,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** QS. Al-Ahzab: 70–71; Tafsir Ibnu Katsir (Juz 6 Hal. 488); Riyadush Shalihin Tahqiq Al-Fahl No. 42.  
 > 💡 **Relevansi PKN:** Bahasa Lisan Nabawiyah bukan omelan searah atau intimidasi verbal, melainkan tutur kata yang memenuhi kriteria *Qaulan Sadida* (jujur dan tepat), *Qaulan Layyina* (lemah lembut), dan *Qaulan Baligha* (mengena tepat ke relung nalar anak).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%88%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D8%A7%20%D9%82%D9%8E%D9%88%D9%92%D9%84%D9%8B%D8%A7%20%D8%B3%D9%8E%D8%AF%D9%90%D9%8A%D8%AF%D9%8B%D8%A7%20%DB%9D&lang=id)
 
 ---
 

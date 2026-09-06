@@ -19,7 +19,7 @@ description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, laranga
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
@@ -29,6 +29,7 @@ description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, laranga
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud No. 495 & Ahmad (Juz 2 Hal. 187); Dinyatakan Shahih oleh Syaikh Al-Albani dalam *Shahih Sunan Abi Dawud*; Syarah As-Sunnah Imam Al-Baghawi (Juz 2 Hal. 407).  
 > 💡 **Relevansi PKN:** Hadits ini adalah payung hukum syar'i peletakan *Bahasa Tangan* (*At-Ta'dib*). Sanksi fisik hanya dilegalkan pada usia 10 tahun (fase Murahaqah) setelah melewati 3 tahun penuh pembinaan Bahasa Hati dan Bahasa Lisan (sekitar 5.000 kali ajakan shalat tanpa kekerasan).
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 
 ---
 

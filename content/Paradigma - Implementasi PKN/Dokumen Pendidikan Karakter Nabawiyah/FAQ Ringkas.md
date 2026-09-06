@@ -17,7 +17,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dokumen ini memuat rangkuman jawaban otoritatif atas berbagai pertanyaan mendasar, keraguan teknis, serta dilema praktis yang kerap dihadapi oleh para orang tua dan pendidik saat mengkaji dan menerapkan metode **Pendidikan Karakter Nabawiyah (PKN)**.
 
@@ -29,6 +29,7 @@ Dokumen ini memuat rangkuman jawaban otoritatif atas berbagai pertanyaan mendasa
 > — **HR. Muslim (No. 55) & HR. Bukhari**
 > 
 > 💡 **Relevansi PKN:** Wiki PKN dan lembar FAQ ini disusun sebagai bentuk nasihat tulus sesama kaum muslimin demi membentengi keluarga dan fitrah anak-anak kita di tengah gelombang fitnah akhir zaman.
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%AF%D9%90%D9%91%D9%8A%D9%86%D9%8F%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%B5%D9%90%D9%8A%D8%AD%D9%8E%D8%A9%D9%8F%D8%8C%20%D9%82%D9%8F%D9%84%D9%92%D9%86%D9%8E%D8%A7%3A%20%D9%84%D9%90%D9%85%D9%8E%D9%86%D9%92%D8%9F%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%84%D9%90%D9%84%D9%8E%D9%91%D9%87%D9%90%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%90%D9%87%D9%90%D8%8C&lang=id)
 
 ---
 

@@ -16,7 +16,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
@@ -26,6 +26,7 @@ tags:
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 295)  
 > 💡 **Relevansi PKN:** Setiap anak dibekali keunikan bakat dan kemudahan amal (*isti'dad*) spesifik yang harus diobservasi secara personal ('satu anak satu kurikulum').
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D9%81%D9%8E%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%85%D9%8F%D9%8A%D9%8E%D8%B3%D9%8E%D9%91%D8%B1%D9%8C%20%D9%84%D9%90%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8F%D9%84%D9%90%D9%82%D9%8E%20%D9%84%D9%8E%D9%87%D9%8F%D8%9B%20%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D9%86%D9%92%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90&lang=id)
 
 > *"Bakat bukanlah sekadar hobi atau keterampilan mencari uang, melainkan rancang bangun fitrah yang Allah sematkan secara unik pada diri setiap hamba untuk memikul tugas kekhalifahan di muka bumi. Sebagaimana sabda Rasulullah ﷺ: 'Bekerjalah kalian, karena masing-masing insan akan dimudahkan menuju takdir penciptaannya (Kullun muyassarun limaa khuliqa lah)'."*  
 > — **Ustadz Abdul Kholiq & SOTAB HEBAT**

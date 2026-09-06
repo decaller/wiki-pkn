@@ -17,7 +17,7 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (60 kitab klasik), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Dalam paradigma Pendidikan Karakter Nabawiyah (PKN), **Tawakkal dan Doa** bukanlah jalan pintas kepasrahan kaum pemalas, melainkan puncak tertinggi dari arsitektur ikhtiar seorang mukmin. Setelah seluruh perangkat manhaj, kurikulum 40 bakat, metode tiga bahasa, dan keteladanan adab dikerahkan secara optimal, seorang pendidik muslim wajib menyadari batas eksistensial dirinya sebagai makhluk. Manusia hanyalah perantara wasilah; yang memiliki kekuasaan mutlak untuk membolak-balikkan hati, menumbuhkan hidayah, dan mengokohkan karakter anak hanyalah Allah Subhanahu wa Ta'ala.
 
@@ -36,7 +36,8 @@ Pendidikan yang hampa dari tawakkal dan doa akan melahirkan kesombongan intelekt
 > 📚 **Syarah Al-Hafizh Ibnul Qayyim dalam Zadul Ma'ad (Juz 4 Hal. 170):**  
 > *"Doa orang tua bagi anaknya memiliki kedudukan istimewa di sisi Allah karena ia bersumber dari lubuk hati yang paling ikhlas, terbebas dari kepalsuan, dan dipenuhi oleh rasa belas kasih yang mendalam. Para Nabi senantiasa memohon keturunan yang shalih sebelum anak itu lahir, tatkala ia diasuh, hingga saat mereka telah dewasa. Doa adalah senjata utama tarbiyah yang mampu menembus tirai takdir dan melunakkan hati yang membatu."*
 
----
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D9%86%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%8E%D9%91%D9%86%D9%8E%D8%A7%20%D9%87%D9%8E%D8%A8%D9%92%20%D9%84%D9%8E%D9%86%D9%8E%D8%A7%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D8%B2%D9%92%D9%88%D9%8E%D8%A7%D8%AC%D9%90%D9%86%D9%8E%D8%A7%20%D9%88%D9%8E%D8%B0%D9%8F%D8%B1%D9%90%D9%91%D9%8A%D9%8E%D9%91%D8%A7%D8%AA%D9%90%D9%86%D9%8E%D8%A7&lang=id)---
 
 ## 1. Memahami Teologi Hidayah: Irsyad vs Taufiq
 
