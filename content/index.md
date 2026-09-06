@@ -139,9 +139,10 @@ Sebagai *rahimah* dan madrasah pertama anak, Bunda bertugas menghidupkan suasana
 ### 🎓 Jalur 3: Untuk Guru & Pengelola Lembaga Pendidikan
 Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik formal dan non-formal bertugas memfasilitasi fitrah unik setiap murid:
 1. Pahami kedudukan institusi dan adab guru dalam [[Peran Guru dan Lembaga Pendidikan]] • [[Kaidah Implementasi di Berbagai Lembaga]].
-2. Pelajari kaidah operasional kurikulum berbasis fitrah dalam [[4 Kaidah Implementasi]] dan [[4 Elemen Implementasi]].
-3. Terapkan prinsip pembelajaran dunia nyata tanpa sekat kaku kelas melalui [[Pembelajaran Alamiah]].
-4. Lakukan pemetaan dan observasi 40 bakat anak menggunakan instrumen Rukun 3A di [[Bakat]], [[Bekerja Keras]], [[Berpikir]], [[Berperasaan]], [[Memerintah]], [[Bekerja Sama]], dan [[Melayani]].
+2. Pelajari kaidah operasional kurikulum berbasis fitrah dalam [[4 Kaidah Implementasi]], [[4 Elemen Implementasi]], serta [[8 Standar Implementasi PKN]].
+3. Pelajari katalog kaderisasi dan standardisasi resmi lembaga di [[Program dan Kegiatan Pendidikan Karakter Nabawiyah]] (Akademi Guru / AKG 17 batch, PIS, TDK, Talent Camp, dan Sekolah Tanpa OB).
+4. Terapkan prinsip pembelajaran dunia nyata tanpa sekat kaku kelas melalui [[Pembelajaran Alamiah]] dan [[Panduan RPP dan Observasi Lapangan]].
+5. Lakukan pemetaan dan observasi 40 bakat anak menggunakan instrumen Rukun 3A di [[Bakat]], [[Bekerja Keras]], [[Berpikir]], [[Berperasaan]], [[Memerintah]], [[Bekerja Sama]], dan [[Melayani]].
 
 ---
 
@@ -156,7 +157,7 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 | **Metodologi Pengasuhan** | [[Metode Mendidik]], [[Bahasa Hati]], [[Bahasa Lisan]], [[Bahasa Tangan]] | Hirarki tiga bahasa tarbiyah: kehangatan batin, 6 kaidah komunikasi Al-Qur'an, dan ta'dib ketegasan terukur. |
 | **Penyembuhan & Proteksi** | [[Luka dan Hutang Pengasuhan]], [[Recovery]], [[Euforia]], [[Batas Toleransi]], [[Imunitas Sosial]] | Memulihkan fitrah anak yang terluka, mengatasi sindrom euforia sesaat, serta benteng proteksi pergaulan. |
 | **40 Pilar Bakat (TB40)** | [[Bakat]], [[Bekerja Keras]], [[Berpikir]], [[Berperasaan]], [[Memerintah]], [[Bekerja Sama]], [[Melayani]] | Pemetaan bakat nabawiyah terinspirasi figur sahabat Nabi ﷺ, rubrik observasi 3A, dan pencegahan tafrith-ifrath. |
-| **Implementasi Lapangan** | [[Implementasi]], [[4 Kaidah Implementasi]], [[4 Elemen Implementasi]], [[Tanggung Jawab Pendidikan]] | Standar operasional eksekusi kurikulum keluarga, fardhu 'ain orang tua, dan sinergi segitiga emas pendidikan. |
+| **Implementasi Lapangan** | [[Implementasi]], [[4 Kaidah Implementasi]], [[4 Elemen Implementasi]], [[8 Standar Implementasi PKN]], [[Program dan Kegiatan Pendidikan Karakter Nabawiyah]], [[Tanggung Jawab Pendidikan]] | Standar operasional eksekusi kurikulum keluarga, standarisasi lembaga (AKG/PIS/TDK/TC), dan sinergi segitiga emas pendidikan. |
 
 ---
 

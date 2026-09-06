@@ -585,6 +585,36 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 - **Integrasi ke Hub Pusat Rujukan Wiki PKN (`content/Referensi/index.md`):**
   - Menambahkan baris direktori arsip resmi SKIS Semarang pada tabel kluster referensi.
 
+---
+
+### Milestone 43: Crawling & Integrasi Program Kegiatan Resmi PKN (karakternabawiyah.com) `[SELESAI]`
+- **Crawling & Pengarsipan Portal Resmi Manhaj PKN (`scripts/fetch_pkn_portal.py`):**
+  - Mengembangkan skrip perayap web otomatis berbasis Python dan BeautifulSoup untuk merayapi seluruh artikel ilmiah, katalog halaman, dan dokumentasi event dari domain resmi Manhaj PKN `https://karakternabawiyah.com/`.
+  - Mengunduh dan mengklasifikasikan seluruh konten ke dalam direktori `old_backup/karakternabawiyah/` dengan struktur rapi:
+    - `old_backup/karakternabawiyah/artikel/`: 8 artikel ilmiah manhaj (*Bahasa Hati*, *Konsep Ideal ke Praktik Nyata*, *Akses Pikiran Bawah Sadar*, *Implementasi Terbaik*, dll.).
+    - `old_backup/karakternabawiyah/events/`: Arsip kegiatan resmi PKN, mencakup Akademi Guru (AKG Batch 4 Cianjur, 5 Cikarang, 6 Solo, 7 Surabaya, 8 Malang, 9 Jambi, 10 Tasikmalaya, 11 Balikpapan, 12 Pontianak, 13 Lampung, 14 Malang, 15 Kediri, 16 Karawang, 17 Magelang), Panduan Implementasi Standar (PIS Batch 1 Cilegon, Batch 2 Salatiga, Batch 3–4), Temu Diskusi Lembaga (TDK 1 Bogor, 2 Bekasi, 3 Subang, 4 Salatiga, 5 Bandung, 6 Depok), dan Talent Camp (TC 1–4 Depok).
+    - `old_backup/karakternabawiyah/pages/`: Halaman profil perumus manhaj (Ustadz Abdul Kholiq & Prof. Iman Harymawan), inspirasi pembelajaran (agribisnis, kemandirian, kepedulian lingkungan), dan profil buku.
+    - `old_backup/karakternabawiyah/articles.json`: Basis data metadata terstruktur 60+ berkas.
+    - `old_backup/karakternabawiyah/README.md`: Indeks katalog master dokumentasi dengan tautan lokal dan eksternal.
+- **Penyusunan Naskah Materi Komprehensif Baru (Gold Standard):**
+  - Menerbitkan dokumen baru: `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Program dan Kegiatan Pendidikan Karakter Nabawiyah.md`.
+  - Mengupas tuntas 7 pilar program kaderisasi & standarisasi resmi PKN:
+    1. **Akademi Guru PKN (AKG):** Pelatihan intensif 3 hari bagi pendidik/musyrif untuk mutasi paradigma, penguasaan 3 Bahasa Pengasuhan (Hati, Lisan, Tangan), Rukun 3A, dan rekam jejak 17 batch nasional.
+    2. **Panduan Implementasi Standar (PIS):** Standardisasi manajemen lembaga pendidikan Islam berbasis Standar 11/2024 Manhaj PKN (8 pilar mutu).
+    3. **Temu Diskusi dan Komunikasi Lembaga (TDK):** Musyawarah pimpinan yayasan & mudir pesantren untuk ketahanan finansial wakaf dan penanganan resistensi kultural.
+    4. **Talent Camp (TC):** Karantina penempaan pemuda pasca-akil baligh, ekspedisi alam, khidmah dhu'afa, dan tafsir 40 bakat fitrah.
+    5. **Workshop Sekolah Tanpa OB:** Revolusi kultural meruntuhkan feodalisme borjuis dengan melatih santri berkhidmah merawat kebersihan fasilitas meneladani sunnah Nabi ﷺ.
+    6. **Inspirasi Pembelajaran Aplikatif:** Laboratorium agribisnis santri (*ihya'ul mawat*), kemandirian vokasi, dan konservasi lingkungan hemat air.
+    7. **Matriks Komparasi Program:** Tabel arsitektur komprehensif sasaran, durasi, capaian, dan sebaran wilayah.
+  - Menempatkan trio callout refleksi lapangan di bagian akhir naskah sebelum sitasi sesuai standar baku anatomi dokumen.
+- **Pembaruan Navigasi & Tautan Silang:**
+  - `content/index.md`: Menambahkan rujukan program PKN pada Jalur 3 (Pendidik) dan Kluster Implementasi Lapangan.
+  - `content/Referensi/index.md`: Memperbarui tabel kluster referensi dengan tautan langsung ke Program & Kegiatan PKN serta portal resmi `karakternabawiyah.com`.
+  - `Implementasi/index.md` & `Kaidah & Elemen/index.md`: Menautkan sub-dokumen baru ke pohon hierarki implementasi.
+- **Verifikasi Kualitas & Build:**
+  - `npx quartz build` sukses 100% tanpa error (122 berkas Markdown ter-parse, 1.085 berkas statis terbit ke `public/`).
+
+
 
 
 

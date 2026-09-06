@@ -60,6 +60,15 @@ Membedah empat instrumen operasional peradaban:
 3. **Al-Uslub (Metodologi Terapan):** Fleksibilitas metode mengajar sesuai karakteristik gaya belajar anak.
 4. **At-Taqyim (Monitoring & Evaluasi):** Pengukuran berkelanjutan menggunakan instrumen observasi autentik Rukun 3A.
 
+### 🏛️ 3. [[8 Standar Implementasi PKN]]
+Standarisasi menyeluruh mutu lembaga pendidikan Islam berbasis Standar 11/2024 Manhaj PKN.
+
+### 📝 4. [[Panduan RPP dan Observasi Lapangan]]
+Panduan praktis perancangan RPP berbasis karakter nabawiyah dan lembar observasi adab harian.
+
+### 🚀 5. [[Program dan Kegiatan Pendidikan Karakter Nabawiyah]]
+Katalog komprehensif program kaderisasi, standarisasi lembaga, dan kegiatan resmi Manhaj PKN: **Akademi Guru (AKG)** di 17 batch, **Panduan Implementasi Standar (PIS)**, **Temu Diskusi Lembaga (TDK)**, **Talent Camp (TC)** pemuda, **Workshop Sekolah Tanpa OB**, dan **Inspirasi Agribisnis Santri**.
+
 ---
 
 ## 3. Checklist Audit Implementasi untuk Lembaga & Keluarga

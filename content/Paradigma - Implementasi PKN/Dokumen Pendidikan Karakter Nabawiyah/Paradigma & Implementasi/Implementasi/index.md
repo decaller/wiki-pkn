@@ -52,6 +52,7 @@ Implementasi kurikulum PKN memadukan tiga komponen strategis yang saling mengunc
   3. *Rahmah (Kasih Sayang):* Mengutamakan kehangatan batin dan menghindari kekerasan.
   4. *Tadarruj (Bertahap):* Menghargai proses tumbuh kembang alami anak setapak demi setapak.
 - **[[4 Elemen Implementasi]]:** Komponen struktural kurikulum yang mencakup *Ghayah* (Visi Ibadah & Khilafah), *Manhaj* (Kurikulum Adab & 40 Bakat), *Uslub* (Tiga Bahasa Nabawiyah: Hati, Lisan, Tangan), serta *Taqyim* (Evaluasi Autentik Berbasis Observasi Proses).
+- **[[Program dan Kegiatan Pendidikan Karakter Nabawiyah]]:** Ekosistem program pembinaan dan standarisasi resmi Manhaj PKN: **Akademi Guru (AKG)** (17 batch), **Panduan Implementasi Standar (PIS)**, **Temu Diskusi Lembaga (TDK)**, **Talent Camp (TC)** pemuda, **Workshop Sekolah Tanpa OB**, dan **Inspirasi Agribisnis Santri**.
 
 ### B. Pilar Internal & Eksternal
 - **Faktor Internal Pendidik:** Pendidikan karakter adalah proses resonansi batin. Keberhasilan transfer adab sangat ditentukan oleh derajat kebersihan jiwa orang tua melalui [[Tazkiyatun Nafs]] serta kepasrahan total atas takdir melalui [[Tawakkal dan Doa]].
