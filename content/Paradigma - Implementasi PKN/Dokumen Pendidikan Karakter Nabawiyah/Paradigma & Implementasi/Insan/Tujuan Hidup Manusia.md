@@ -20,7 +20,7 @@ title: "Tujuan Hidup Manusia"
 >
 > 📚 **Sumber Rujukan OpenBayan:** QS. Adz-Dzariyat: 56 & Riyadush Shalihin (Tahqiq Al-Fahl, Hal. 180)  
 > 💡 **Relevansi PKN:** Menegaskan orientasi mutlak penciptaan manusia adalah ibadah, penghambaan, dan ketundukan total hanya kepada Allah.
-> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8E%D9%84%D9%8E%D9%82%D9%92%D8%AA%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%90%D9%86%D9%8E%D9%91%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D8%B3%D9%8E%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%84%D9%90%D9%8A%D9%8E%D8%B9%D9%92%D8%A8%D9%8F%D8%AF%D9%8F%D9%88%D9%86%D9%90&lang=id)
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri Tema: غاية خلق الإنسان (Tujuan Penciptaan Manusia) ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%BA%D8%A7%D9%8A%D8%A9+%D8%AE%D9%84%D9%82+%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86&lang=id)
 
 Tujuan hidup manusia adalah untuk menyembah Allah Azza wa Jalla dan pemakmur bumi sesuai dengan perannya masing-masing. 
 
@@ -72,7 +72,22 @@ Tujuan penciptaan manusia sebagai khalifah tersebut berkaitan dengan kinerja man
 
 # Tujuan Hidup Manusia
 
-[https://pub.insantaqwa.org/tujuan%5Fhidup.html](https://pub.insantaqwa.org/tujuan%5Fhidup.html)
+
+<div style="position: relative; width: 100%; max-width: 640px; margin: 1.5rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.12);">
+  <iframe
+    src="https://pub.insantaqwa.org/tujuan_hidup.html"
+    width="100%"
+    height="380"
+    style="border: none; display: block; background: #fff;"
+    title="Animasi Interaktif: Tujuan Hidup Manusia"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+
+*🎬 Animasi interaktif — gunakan tombol ▶ / ⏩ / ⏮ di bagian bawah untuk menavigasi langkah-langkah diagram. [Buka layar penuh ↗](https://pub.insantaqwa.org/tujuan_hidup.html)*
+
+
 
 ## Menjadikan Individu Sholih
 

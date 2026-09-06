@@ -44,7 +44,7 @@ tags:
 > — **HR. Tirmidzi (No. 2687) & Ibnu Majah (No. 4169)**
 > 
 > 💡 **Relevansi Manhaj:** Dalam paradigma PKN, perangkat lunak (*software*) bukanlah berhala modern yang diagungkan tanpa adab, melainkan instrumen khidmah (*wasilah peradaban*) untuk mempermudah umat mendalami Al-Qur'an, mengenali potensi fitrah bakat unik, mengelola madrasah berbasis adab, dan mendistribusikan ilmu secara adil tanpa komersialisasi berlebihan.
-> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A3%D9%8E%D9%86%D8%B2%D9%8E%D9%84%D9%92%D9%86%D9%8E%D8%A7%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%AF%D9%90%D9%8A%D8%AF%D9%8E%20%D9%81%D9%90%D9%8A%D9%87%D9%90%20%D8%A8%D9%8E%D8%A3%D9%92%D8%B3%D9%8C%20%D8%B4%D9%8E%D8%AF%D9%90%D9%8A%D8%AF%D9%8C%20%D9%88%D9%8E%D9%85%D9%8E%D9%86%D9%8E%D8%A7%D9%81%D9%90%D8%B9%D9%8F%20%D9%84%D9%90%D9%84%D9%86%D9%8E%D9%91%D8%A7%D8%B3%D9%90%20%D9%88%D9%8E%D9%84%D9%90%D9%8A%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8E&lang=id)
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri Tema: منافع الحديد (Pemberdayaan Teknologi & Materi) ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%86%D8%A7%D9%81%D8%B9+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF&lang=id)
 
 ---
 

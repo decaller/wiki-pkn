@@ -261,10 +261,11 @@ npx quartz build
 Platform **OpenBayan** (terintegrasi penuh dengan seluruh dataset **Maktabah Syamilah**) digunakan dalam dua cara:
 
 1. **Fase Pengembangan** — Verifikasi teks Arab, takhrij hadits, dan pencarian dalil tematik via API OpenBayan selama proses rekonstruksi konten.
-2. **Fase Produksi** — Setiap callout dalil dalam wiki memiliki tombol **🔍 Telusuri di OpenBayan** yang di-generate otomatis via skrip [`scripts/inject_openbayan_links.py`](https://github.com/decaller/wiki-pkn/blob/main/scripts/inject_openbayan_links.py):
+2. **Fase Produksi** — Setiap callout dalil dalam wiki memiliki tombol **🔍 Telusuri di OpenBayan** yang diarahkan pada pencarian **tema/topik pembahasan dalam bahasa Arab** (misal: *غاية خلق الإنسان*, *أمر الأولاد بالصلاة*, *مراتب تغيير المنكر*), bukan sekadar mengutip teks dalil mentah:
 
 ```
-URL Format: https://openbayan.insanmustaqbal.or.id/search?q=<TEKS_ARAB_URL_ENCODED>&lang=id
+URL Format: https://openbayan.insanmustaqbal.or.id/search?q=<TEMA_BAHASA_ARAB_URL_ENCODED>&lang=id
+Contoh: https://openbayan.insanmustaqbal.or.id/search?q=%D8%BA%D8%A7%D9%8A%D8%A9+%D8%AE%D9%84%D9%82+%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86&lang=id (Tema: غاية خلق الإنسان)
 ```
 
 ### E. Integrasi Microsoft PowerPoint Online (OneDrive)
