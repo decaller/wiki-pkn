@@ -730,7 +730,20 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |
 | **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
 | **Standarisasi Template** | 🟢 **9 Lapisan Baku** | Urutan mutlak: Frontmatter → Banner → Note AI → Judul → Dalil → Konten → Trio Refleksi → Sitasi → **Media di paling akhir** |
+| **Versi Rilis Git** | 🟢 **v1.0.0 (`v1`)** | Tag rilis stabil resmi pertama Wiki PKN mencakup seluruh 48 Milestone |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
+
+---
+
+## 3. Catatan Rilis Resmi: Versi 1.0.0 (`v1`)
+
+Rilis **v1.0.0** menandai rampungnya fondasi utama arsitektur dan konten basis pengetahuan **Wiki PKN (Pendidikan Karakter Nabawiyah)** secara komprehensif, mencakup:
+1. **123 Artikel Pengetahuan Lengkap**: Seluruh artikel memenuhi standar emas (100% kepatuhan tata letak 9 lapisan baku, teks Arab berharakat, terjemahan, takhrij, dan refleksi).
+2. **41 Presentasi Interaktif Terintegrasi**: 100% materi slide tayang terhubung ke Microsoft OneDrive embed player (`1drv.ms/p/c/...`) yang interaktif dan responsif di mobile maupun desktop.
+3. **Ekosistem Digital Terpadu**: Integrasi rujukan ke tes online Tafsir Bakat (`tafsirbakat.com` & `tb40.insanmustaqbal.or.id`) serta dokumentasi 22+ repositori software PKN di GitHub.
+4. **Desain Visual & Aksesibilitas Premium**: Header beranda panorama Uzungöl Mosque dari Pexels, navigasi kustom `OutlineNav` dengan inside-scrolling & state persistence, serta penataan hierarki Obsidian Canvas.
+5. **Infrastruktur Produksi Handal**: Deployment otomatis via GitOps Portainer stack, SSL HTTPS Cloudflare, dan waktu muat instan berbasis SSG Quartz v5.
+
 
 
 
