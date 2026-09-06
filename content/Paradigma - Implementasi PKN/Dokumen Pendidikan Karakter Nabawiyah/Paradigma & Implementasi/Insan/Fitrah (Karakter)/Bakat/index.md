@@ -352,7 +352,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: Bakat dalam Pendidikan Islam (2023)</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F15-bakat-dalam-pendidikan-islam.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQT1s58JukOXR79lBPGAj4sUARB9z8Nd0q21TW6oaV1ah2I?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -361,7 +361,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/15-bakat-dalam-pendidikan-islam.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (0.92 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F15-bakat-dalam-pendidikan-islam.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQT1s58JukOXR79lBPGAj4sUARB9z8Nd0q21TW6oaV1ah2I?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>
 </div>
@@ -369,7 +369,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: 3. Tafsir Bakat TB-40</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F13-tafsir-bakat-tb40.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQT2Jzs8sHQGQqX4_fBUtX4EAXAcBmp8pjL8SMRj8Y2E1v4?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -378,7 +378,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/13-tafsir-bakat-tb40.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (29.57 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F13-tafsir-bakat-tb40.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQT2Jzs8sHQGQqX4_fBUtX4EAXAcBmp8pjL8SMRj8Y2E1v4?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (29.57 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
 </div>
@@ -386,7 +386,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: Bedah Buku Tafsir Bakat (2024)</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-bedah-buku-tafsir-bakat-2024.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQYzw3jx4R8R59jwlaqXA0NAV8ncWxKJfLKS3_lHjzzUMU?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -395,7 +395,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/14-bedah-buku-tafsir-bakat-2024.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (13.59 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-bedah-buku-tafsir-bakat-2024.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQYzw3jx4R8R59jwlaqXA0NAV8ncWxKJfLKS3_lHjzzUMU?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>
 </div>
@@ -403,7 +403,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: 2. Pendidikan Bakat (Materi 2)</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F17-pendidikan-bakat-materi-2.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQQ8n5FBKKmQrcfHCGlGbH9Adn9ScMoWxlqQvLrKAvkqQc?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -412,7 +412,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/17-pendidikan-bakat-materi-2.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (57.24 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F17-pendidikan-bakat-materi-2.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQQ8n5FBKKmQrcfHCGlGbH9Adn9ScMoWxlqQvLrKAvkqQc?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (57.24 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
 </div>

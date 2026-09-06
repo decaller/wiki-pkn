@@ -175,7 +175,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: Pembekalan Musyrif</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F36-pembekalan-musyrif.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQRzkjPu0kQoR5gOZAu1lcSnAb3FWUb2-B_SrwG1ZSdJL1c?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -184,7 +184,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/36-pembekalan-musyrif.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (4.46 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F36-pembekalan-musyrif.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQRzkjPu0kQoR5gOZAu1lcSnAb3FWUb2-B_SrwG1ZSdJL1c?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>
 </div>
@@ -192,7 +192,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: Piramida Pendidikan Anak (3 Bahasa)</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F10-piramida-pendidikan-anak.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQTMF3sLpmXeSKRiFQkKU8zcAfyq6IqHYdIs2d17_8zkwkE?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -201,7 +201,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/10-piramida-pendidikan-anak.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (0.38 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F10-piramida-pendidikan-anak.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQTMF3sLpmXeSKRiFQkKU8zcAfyq6IqHYdIs2d17_8zkwkE?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>
 </div>
@@ -209,7 +209,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: Talent Camp (2025)</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F37-talent-camp-2025.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQSJE-eNzpaLSqYi8KUNdVo_AQfVXZ-zFoRPDmFIZ6jJgxo?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -218,7 +218,7 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/37-talent-camp-2025.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (27.4 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F37-talent-camp-2025.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQSJE-eNzpaLSqYi8KUNdVo_AQfVXZ-zFoRPDmFIZ6jJgxo?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (27.4 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
 </div>

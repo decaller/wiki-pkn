@@ -697,6 +697,25 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Sinkronisasi commit dan push ke branch `main`.
   - Deployment Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
 
+---
+
+### Milestone 48: Ekstraksi Otomatis 41 Token Embed OneDrive & Pemutakhiran Seluruh Slide Viewer `[SELESAI]`
+- **Otomasi Penelusuran Browser Subagent di OneDrive:**
+  - Menavigasi folder publik OneDrive akun pengguna: `https://onedrive.live.com/my?id=%2Fpersonal%2F3efe4d3cd3a3788a%2FDocuments%2FPublic%2FWiki%2DPKN%2FPresentations`.
+  - Mengekstrak kode embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/3efe4d3cd3a3788a/...`) untuk **41 berkas presentasi PPTX PKN lengkap (100%)** via event right-click & API generate dialog.
+  - Menyimpan pangkalan data seluruh token embed di `data/onedrive_embed_tokens.json`.
+- **Pemutakhiran Massal Seluruh Artikel Konten (`scripts/update_onedrive_embeds.py`):**
+  - Mengupdate **57 berkas markdown** di `content/`:
+    1. Mengganti atribut `iframe src` dari Office Viewer publik (yang sebelumnya gagal karena file PPTX di server lokal tidak di-push ke git) menjadi URL embed resmi OneDrive (`https://1drv.ms/p/c/.../TOKEN?em=2&wdAr=1.7777777777777777`).
+    2. Memperbarui tombol aksi *"🖥️ Buka Layar Penuh (PowerPoint Online)"* langsung ke tautan OneDrive individual per slide.
+    3. Mempertahankan tombol cadangan *"☁️ Folder OneDrive Resmi"* untuk akses folder penuh 40+ materi.
+  - Memperbarui halaman induk `content/Referensi/Bahan Tayang & Slide PPTX.md` agar seluruh tautan slide online mengarah ke player OneDrive yang terverifikasi aktif.
+- **Verifikasi Kualitas & Deployment:**
+  - `npx quartz build` sukses 100% memproses 123 file Markdown dan mengemisi 1.103 berkas statis ke `public/`.
+  - Sinkronisasi commit dan push ke branch `main`.
+  - Deployment otomatis via Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
+
+
 
 
 

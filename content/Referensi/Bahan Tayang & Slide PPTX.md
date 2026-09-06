@@ -33,10 +33,10 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
   *Akses Berkas:* [📥 Unduh PPTX (5.0 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/00-konsep-umum-pkn.pptx) • [🖥️ Buka Layar Penuh Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F00-konsep-umum-pkn.pptx)
 * **01. Paradigma Pendidikan Islam**  
   *Topik:* Pergeseran paradigma dari *transfer of knowledge* mekanistik menuju *tazkiyatun nafs* dan pembentukan mukallaf.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/01-paradigma-pendidikan-islam.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F01-paradigma-pendidikan-islam.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/01-paradigma-pendidikan-islam.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F01-paradigma-pendidikan-islam.pptx)
 * **05. Menyibak Pondasi Pendidikan Yang Tak Tersentuh**  
   *Topik:* Membongkar akar permasalahan pendidikan: pengabaian fitrah keimanan dan luka pengasuhan masa kecil.  
-  *Akses Berkas:* [📥 Unduh PPTX (8.4 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/05-menyibak-pondasi-pendidikan-yang-tak-tersentuh.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F05-menyibak-pondasi-pendidikan-yang-tak-tersentuh.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX (8.4 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/05-menyibak-pondasi-pendidikan-yang-tak-tersentuh.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F05-menyibak-pondasi-pendidikan-yang-tak-tersentuh.pptx)
 
 ---
 
@@ -44,13 +44,13 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 * **08. Fitrah Belajar & Penalaran Nabawiyah**  
   *Topik:* Menghidupkan rasa ingin tahu alami anak tanpa paksaan kurikulum yang mematikan nalar kritis.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/08-fitrah-belajar-dan-penalaran.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F08-fitrah-belajar-dan-penalaran.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/08-fitrah-belajar-dan-penalaran.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F08-fitrah-belajar-dan-penalaran.pptx)
 * **10. Fitrah Bakat & Matriks 40 Potensi (TB-40)**  
   *Topik:* Identifikasi 40 ragam bakat fitrah manusia dan pemetaan peran peradaban.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/10-fitrah-bakat-dan-ragam-potensi.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F10-fitrah-bakat-dan-ragam-potensi.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/10-fitrah-bakat-dan-ragam-potensi.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F10-fitrah-bakat-dan-ragam-potensi.pptx)
 * **39. RUH Ringkas: Hakikat Ruh, Jasad, dan Jiwa**  
   *Topik:* Anatomi jasad (buruk) vs ruh (baik), persenyawaan membentuk jiwa (*nafs*), dan dinamika 3 tingkatan nafsu (*muthmainnah*, *lawwamah*, *ammarah bissuu'*).  
-  *Akses Berkas:* [📥 Unduh PPTX (1.85 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/39-ruh-ringkas.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F39-ruh-ringkas.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX (1.85 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/39-ruh-ringkas.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F39-ruh-ringkas.pptx)
 
 ---
 
@@ -58,10 +58,10 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 * **14. Etape Usia Perkembangan (0–7, 7–10, 10–Baligh, Pemuda)**  
   *Topik:* Karakteristik biologis dan ruhiyah setiap fase: Thufulah, Tamyiz, Murahaqah, dan Syabab.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/14-etape-usia-perkembangan.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-etape-usia-perkembangan.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/14-etape-usia-perkembangan.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-etape-usia-perkembangan.pptx)
 * **18. Tiga Bahasa Mendidik: Hati, Lisan, dan Tangan**  
   *Topik:* Hirarki komunikasi pengasuhan: menyentuh qalb sebelum menggerakkan akal dan fisik.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/18-tiga-bahasa-mendidik.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F18-tiga-bahasa-mendidik.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/18-tiga-bahasa-mendidik.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F18-tiga-bahasa-mendidik.pptx)
 
 ---
 
@@ -69,13 +69,13 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 * **24. 4 Kaidah & 4 Elemen Implementasi PKN**  
   *Topik:* Taisir, Qudwah, Rahmah, Tadarruj; Ghayah, Manhaj, Uslub, Taqyim.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/24-kaidah-dan-elemen-implementasi.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F24-kaidah-dan-elemen-implementasi.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/24-kaidah-dan-elemen-implementasi.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F24-kaidah-dan-elemen-implementasi.pptx)
 * **32. Menumbuhkan Kesadaran Beramal (Edisi 2025)**  
   *Topik:* Menjadikan amal saleh sebagai kebutuhan jiwa anak, bukan beban kewajiban yang ditakuti.  
-  *Akses Berkas:* [📥 Unduh PPTX (36.4 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/32-menumbuhkan-kesadaran-2025.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F32-menumbuhkan-kesadaran-2025.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX (36.4 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/32-menumbuhkan-kesadaran-2025.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F32-menumbuhkan-kesadaran-2025.pptx)
 * **40. Recovery Fitrah: Pemulihan Jiwa dan Tangki Hati**  
   *Topik:* Pemulihan karakter berbasis fitrah, pengisian tangki cinta batin, validasi pengakuan ego, dan resolusi hati terluka.  
-  *Akses Berkas:* [📥 Unduh PPTX (9.99 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/40-recovery-fitrah.pptx) • [🖥️ Buka di Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F40-recovery-fitrah.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX (9.99 MB)](https://wikipkn.insanmustaqbal.or.id/presentations/40-recovery-fitrah.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F40-recovery-fitrah.pptx)
 
 ---
 

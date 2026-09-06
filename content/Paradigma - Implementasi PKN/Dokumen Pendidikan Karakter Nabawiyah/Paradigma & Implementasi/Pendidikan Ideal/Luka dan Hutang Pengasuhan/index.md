@@ -271,7 +271,7 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
   <h4 style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">📊 Pratinjau Materi Presentasi: 2. Menangani Anak yang Bermasalah</h4>
   <div class="presentation-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: var(--light);">
     <iframe 
-      src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F05-menangani-anak-bermasalah.pptx" 
+      src="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQa5fTgMs8LRYBZsvaahDYNAaunHtvFxjklR8pchg4eqRs?em=2&amp;wdAr=1.7777777777777777" 
       style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" 
       frameborder="0" 
       allowfullscreen="true"
@@ -280,7 +280,7 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
   </div>
   <div class="presentation-actions" style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.6rem; margin-bottom: 0.5rem; font-size: 0.85rem;">
     <a href="https://wikipkn.insanmustaqbal.or.id/presentations/05-menangani-anak-bermasalah.pptx" download style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">📥 Unduh Slide PPTX (8.52 MB)</a>
-    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F05-menangani-anak-bermasalah.pptx" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (Office Online)</a>
+    <a href="https://1drv.ms/p/c/3efe4d3cd3a3788a/IQQa5fTgMs8LRYBZsvaahDYNAaunHtvFxjklR8pchg4eqRs?em=2" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">🖥️ Buka Layar Penuh (PowerPoint Online)</a>
     <a href="https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 0.8rem; background: var(--light); border: 1px solid var(--lightgray); border-radius: 6px; text-decoration: none; color: var(--dark); font-weight: 500;">☁️ Folder OneDrive Resmi</a>
   </div>
 </div>
