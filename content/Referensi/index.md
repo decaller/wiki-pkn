@@ -38,6 +38,7 @@ Berikut adalah kluster referensi yang dapat Anda telaah secara terstruktur:
 | **🏫 Arsip Artikel Sekolah Karakter (SKIS)** | Khazanah 172 artikel pemikiran, risalah parenting nabawiyah, kritik sistem pendidikan, dan refleksi lapangan Sekolah Karakter Imam Syafi'i Semarang. | [Buka Artikel SKIS](https://sekolahkarakter.com/category/artikel/) |
 | **💻 Ekosistem Software & Rekayasa PKN** | Peta pengembangan aktif software pendukung manhaj PKN: OpenBayan Knowledge Graph, TB40 Asesmen, Rapor Karakter, Mading Digital TV, dan Quran Sekejap. | [[Pengembangan Software dan Ekosistem Digital PKN\|Buka Katalog Software]] |
 | **🤝 Panduan Kontribusi Komunitas** | Pedoman langkah demi langkah berkontribusi menyunting wiki: kloning repo GitHub, penulisan di Obsidian, standar verifikasi, dan Pull Request. | [[Panduan Kontribusi\|Pelajari Cara Kontribusi]] |
+| **ℹ️ Tentang Aplikasi Wiki PKN** | Dokumentasi teknis platform: sumber data, metodologi rekonstruksi AI, stack teknologi, plugin navigasi kustom `OutlineNav`, skrip otomasi, dan infrastruktur deployment. | [[Tentang Aplikasi Wiki PKN\|Buka Dokumentasi Teknis]] |
 
 ---
 

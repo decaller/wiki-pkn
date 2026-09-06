@@ -606,6 +606,11 @@
             "title": "Referensi Tambahan Buku Cetak",
             "icon": "book",
             "children": []
+          },
+          {
+            "title": "Tentang Aplikasi Wiki PKN",
+            "icon": "info",
+            "children": []
           }
         ]
       },

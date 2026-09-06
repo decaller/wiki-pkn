@@ -1,10 +1,11 @@
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
 [![Quartz v5](https://img.shields.io/badge/Platform-Quartz%20v5-blue)](https://quartz.jzhao.xyz/)
-[![Total Halaman](https://img.shields.io/badge/Halaman-72%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
+[![Total Halaman](https://img.shields.io/badge/Halaman-123%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
 [![Kepatuhan Standar](https://img.shields.io/badge/Standar%20Emas-100%25%20Lulus%20(%E2%89%A55k%20chars)-brightgreen)](ARTICLE_AUDIT_REPORT.md)
-[![Total Karakter](https://img.shields.io/badge/Total%20Karakter-953%2C300%20Karakter-orange)](ARTICLE_AUDIT_REPORT.md)
-[![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](DALIL_MAPPING.md)
+[![Total Karakter](https://img.shields.io/badge/Total%20Karakter->1%2C000%2C000-orange)](ARTICLE_AUDIT_REPORT.md)
+[![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](content/Referensi/Korpus%20Dalil%20%26%20Atsar%20Klasik.md)
+[![Live](https://img.shields.io/badge/Live-wikipkn.insanmustaqbal.or.id-green)](https://wikipkn.insanmustaqbal.or.id)
 
 Basis pengetahuan digital komprehensif **Pendidikan Karakter Nabawiyah (PKN)**
 > [!tip] 🌐 Aplikasi Web Pendukung: Peta Bakat & Sifat Manusia
@@ -60,17 +61,13 @@ graph TD
 
 ## 2. Fitur Unggulan Sistem Basis Pengetahuan
 
-1. **100% Berstandar Emas (≥ 5.000 Karakter per Berkas):** Setiap halaman ensiklopedia ditulis secara mendalam, lengkap dengan landasan Al-Qur'an, Hadits shahih, syarah ulama, diagnosis tafrith-ifrath, rubrik evaluasi, dan lembar refleksi orang tua/guru.
-2. **Katalog Dalil Terpadu:**
-   - **[QURAN_DALIL_CATALOG.md](QURAN_DALIL_CATALOG.md):** Memuat lebih dari 110 ayat Al-Qur'an lengkap teks Arab berharakat, terjemahan Indonesia, dan rujukan Tafsir Ibnu Katsir.
-   - **[DALIL_MAPPING.md](DALIL_MAPPING.md):** Memetakan hadits-hadits shahih hasil penelusuran korpus **OpenBayan** (`data/shamela_corpus.db`).
-3. **Integrasi Dokumen Resmi Penggagas Manhaj:** Menyerap seluruh naskah otoritatif karya Ustadz Abdul Kholiq dan Bayu Issetyadi:
-   - *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam (A4)*
-   - *Menumbuhkan Kesadaran Beramal (E-book)*
-   - *Kaidah Implementasi PKN dalam Berbagai Lembaga*
-4. **Navigasi Kustom `OutlineNav`:** Komponen navigasi sidebar khusus yang membaca struktur hierarki `nav_structure.json`, dilengkapi fitur *inside scrolling*, *active link auto-expand*, dan *session scroll state persistence*.
-5. **Dukungan Diagram Interaktif Mermaid & Callout Quartz:** Visualisasi psikospiritual dan rubrik aksi yang memikat serta responsif.
-6. **Aset Visual & Infografis Resmi:** Dilengkapi horizontal hero banner berdimensi presisi tinggi 350px ($1050 \times 350$ px) di seluruh 72 artikel dan 29 diagram slide presentasi rujukan resmi PKN karya Ustadz Abdul Kholiq.
+1. **123 Artikel Ensiklopedia Berstandar Emas (≥ 5.000 Karakter):** Setiap halaman ditulis secara mendalam dengan landasan Al-Qur'an, Hadits shahih, syarah ulama, diagnosis tafrith-ifrath, rubrik evaluasi, dan lembar refleksi.
+2. **Link Pencarian OpenBayan Terintegrasi (183 Link):** Setiap callout dalil memiliki tombol 🔍 yang menghubungkan langsung ke platform OpenBayan (seluruh dataset **Maktabah Syamilah**) untuk penelusuran teks Arab mendalam.
+3. **41 Presentasi Interaktif Embedded:** Materi slide resmi PKN ditampilkan langsung via iframe Microsoft Office Web Apps (OneDrive) di 57 artikel — dapat dinavigasi, dibuka layar penuh, dan diunduh.
+4. **96 Diagram Visual Obsidian Canvas:** Seluruh diagram telah dikonversi ke format JSON Canvas 1.0 resmi (0 Mermaid tersisa), mendukung tampilan interaktif dan integrasi Obsidian penuh.
+5. **Navigasi Kustom `OutlineNav`:** Komponen sidebar khusus yang membaca hierarki `nav_structure.json` (49 simpul), dengan fitur *inside scrolling*, *active link auto-expand*, *scroll state persistence* (sessionStorage), dan *collapse/expand state* (localStorage).
+6. **Palet Warna Nabawiyah:** Tema Coklat-Hijau *Earth & Emerald* (Parchment `#fbf8f3`, Walnut Brown `#3d312a`, Emerald `#2d6a4f` pada light; Charcoal Espresso `#1a1714`, Ivory Linen `#ded5cb`, Luminous Mint `#52b788` pada dark).
+7. **Aset Visual Premium:** 100% artikel memiliki banner horizontal 1050×350px WebP yang dikurasi sesuai compliance syariat Islam (via Pexels API + audit AI vision Gemini 2.5 Flash).
 
 ---
 
@@ -78,13 +75,15 @@ graph TD
 
 | Dokumen | Deskripsi |
 |---|---|
-| 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh 65 artikel (100% kepatuhan standar emas). |
+| 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh artikel (100% kepatuhan standar emas). |
 | 📑 **[PRESENTATION_AUDIT_REPORT.md](PRESENTATION_AUDIT_REPORT.md)** | Laporan audit inventaris 145 berkas PDF/PPTX presentasi pelatihan dan tautan cloud Dropbox. |
 | 📖 **[QURAN_DALIL_CATALOG.md](QURAN_DALIL_CATALOG.md)** | Katalog master dalil Al-Qur'an, teks Arab berharakat, dan takhrij Tafsir Ibnu Katsir. |
 | 📜 **[DALIL_MAPPING.md](DALIL_MAPPING.md)** | Katalog master hadits shahih OpenBayan dan relevansinya bagi kurikulum PKN. |
-| 🏗️ **[HANDOFF.md](HANDOFF.md)** | Dokumentasi arsitektur teknis sistem, data model TB40, riwayat milestone, dan panduan pemeliharaan. |
+| 🏗️ **[HANDOFF.md](HANDOFF.md)** | Dokumentasi arsitektur teknis sistem, data model TB40, riwayat 49+ milestone, dan panduan pemeliharaan. |
 | 🔍 **[CONTENT_ANALYSIS.md](CONTENT_ANALYSIS.md)** | Analisis konten holistik, pemetaan hierarki TB40, dan metodologi pengayaan materi. |
 | 🤝 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** | Piagam adab dan etika kontributor riset berbasis nilai-nilai Islam nabawiyah. |
+
+> 📖 **Dokumentasi Teknis Lengkap Platform:** Baca halaman **[Tentang Aplikasi Wiki PKN](https://wikipkn.insanmustaqbal.or.id/Referensi/Tentang-Aplikasi-Wiki-PKN)** di dalam wiki untuk penjelasan menyeluruh tentang sumber data, metodologi rekonstruksi AI, stack teknologi, plugin navigasi kustom, skrip otomasi, dan infrastruktur deployment.
 
 ---
 
