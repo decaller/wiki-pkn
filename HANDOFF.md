@@ -715,6 +715,24 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Sinkronisasi commit dan push ke branch `main`.
   - Deployment otomatis via Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
 
+---
+
+## 2. Ringkasan Status Sistem Operasional (Status Terkini)
+
+| Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
+| :--- | :--- | :--- |
+| **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 123 berkas Markdown terproses, 1.103 berkas web statis terbit |
+| **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
+| **Pangkalan Data Embed** | 🟢 **data/onedrive_embed_tokens.json** | 100% token embed per berkas terpetakan rapi |
+| **Skrip Sinkronisasi Embed** | 🟢 **scripts/update_onedrive_embeds.py** | Otomasi pemutakhiran iframe dan tombol aksi lintas 57 artikel materi |
+| **Cover Header Beranda** | 🟢 **WebP HD (1920x800)** | Panorama Masjid Uzungöl & Danau Trabzon dari fotografer Rüveyda Akkaya (Pexels) |
+| **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |
+| **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
+| **Standarisasi Template** | 🟢 **9 Lapisan Baku** | Urutan mutlak: Frontmatter → Banner → Note AI → Judul → Dalil → Konten → Trio Refleksi → Sitasi → **Media di paling akhir** |
+| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
+
+
 
 
 
