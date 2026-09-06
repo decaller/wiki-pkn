@@ -10,8 +10,8 @@ tags:
 ---
 
 
-![[assets/banners/banner_home_gerbang.webp]]
-*Gambar: Gerbang Peradaban dan Pendidikan Karakter Nabawiyah*
+![[assets/banners/banner_uzungol_mosque.webp]]
+*Gambar: Panorama Masjid Uzungöl dan Danau Alami di Trabzon (Foto: Rüveyda Akkaya / Pexels) — Simbol Keharmonisan Fitrah Alamiah dan Spiritualitas Nabawiyah*
 
 
 # Wiki Pendidikan Karakter Nabawiyah (PKN)

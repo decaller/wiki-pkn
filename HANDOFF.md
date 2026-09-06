@@ -683,6 +683,21 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Bebas dari diagram Mermaid (0 blok Mermaid aktif).
   - `npx quartz build` sukses 100% (123 berkas Markdown ter-parse dalam 10s, 1.102 berkas statis terbit ke `public/` dalam 31s).
 
+---
+
+### Milestone 47: Pembaruan Cover Image Beranda Utama via Pexels API `[SELESAI]`
+- **Pengambilan Aset Fotografi Resmi Pexels:**
+  - Mengintegrasikan server/API Pexels untuk mengunduh foto resmi karya fotografer **Rüveyda Akkaya** (ID Foto: `38888926`, URL: `https://www.pexels.com/photo/scenic-view-of-uzungol-mosque-and-lake-in-turkey-38888926/`).
+  - Mengoptimalkan foto panorama resolusi tinggi (3840x2560) menjadi format WebP berdimensi banner 1920x800 di `content/assets/banners/banner_uzungol_mosque.webp` (350 KB, kompresi lossy method 6 quality 88).
+- **Pembaruan Beranda Utama (`content/index.md`):**
+  - Mengganti referensi banner sampul beranda menjadi `![[assets/banners/banner_uzungol_mosque.webp]]`.
+  - Menyertakan takarir (*caption*) atribusi fotografer: *"Panorama Masjid Uzungöl dan Danau Alami di Trabzon (Foto: Rüveyda Akkaya / Pexels) — Simbol Keharmonisan Fitrah Alamiah dan Spiritualitas Nabawiyah"*.
+- **Verifikasi & Deployment:**
+  - Kompilasi `npx quartz build` sukses memproses 123 berkas markdown dan mengemisi 1.103 berkas statis ke `public/`.
+  - Sinkronisasi commit dan push ke branch `main`.
+  - Deployment Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
+
+
 
 
 
