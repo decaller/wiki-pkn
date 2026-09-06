@@ -125,6 +125,7 @@ Proyek ini bertujuan mempublikasikan basis pengetahuan terstruktur **Pendidikan 
 39. **Integrasi Delapan Buku Rujukan Utama Manhaj PKN & SOTAB HEBAT**: Mengintegrasikan 8 buku karya perumus manhaj Ustadz Abdul Kholiq dan Tim SOTAB HEBAT ke halaman [Referensi Tambahan Buku Cetak.md](content/Referensi/Referensi%20Tambahan%20Buku%20Cetak.md), beranda utama [index.md](content/index.md), hub [Referensi/index.md](content/Referensi/index.md), dan pangkalan sitasi akademik `bibliography.bib` lengkap dengan tautan profil resmi dan sinopsis kurikuler.
 40. **Konversi Paripurna 100% Diagram Mermaid ke Obsidian Canvas (0 Sisa Mermaid)**: Mengonversi diagram tersisa di `Disiplin Positif PKN.md` menjadi `content/canvas/Disiplin Positif PKN - Penahapan 3 Bentuk Disiplin Pendidikan.canvas` dan membersihkan blok mermaid redundan di `Persepsi Positif.md`, menghasilkan 0 sisa blok mermaid di seluruh repositori (96 berkas .canvas aktif).
 41. **Restrukturisasi Anatomi Dokumen: Relokasi Trio Callout ke Bagian Akhir Konten Sebelum PPT**: Memindahkan trio blok callout (`[!info] Refleksi Lapangan`, `[!warning] Peringatan Risiko`, `[!tip] Tips Praktis`) dari posisi awal sebelum H1 ke bagian paling akhir konten tepat sebelum materi presentasi/slide PPTX di seluruh 70 dokumen aktif (100% kepatuhan Zero Deletion & pembaruan Panduan Kontribusi).
+42. **Crawling & Pengarsipan Otentik Khazanah Artikel Sekolah Karakter (SKIS Semarang)**: Mengembangkan dan mengeksekusi crawler otomatis `scripts/fetch_skis_articles.py` untuk mengunduh 172 naskah lengkap dari situs resmi `sekolahkarakter.com` (162 artikel blog dan 10 halaman statis profil) ke dalam direktori `old_backup/skis/` lengkap dengan metadata YAML frontmatter, indeks master [`README.md`](old_backup/skis/README.md), dan basis data terstruktur [`articles.json`](old_backup/skis/articles.json).
 
 ---
 
@@ -568,6 +569,22 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 - **Verifikasi Komprehensif:**
   - Pemindaian menyeluruh memastikan **0 callout** yang tertinggal di atas H1 dan **100% berkas presentasi** menempatkan penampil Office Web Apps di akhir halaman (0 teks setelah `<!-- END_OFFICE_PPTX_EMBED -->`).
   - Kompilasi `npx quartz build` sukses 100%.
+
+---
+
+### Milestone 42: Crawling & Pengarsipan Otentik Khazanah Artikel Sekolah Karakter (SKIS Semarang) `[SELESAI]`
+- **Otomasi Crawling Web (`scripts/fetch_skis_articles.py`):**
+  - Mengembangkan skrip crawling otomatis menggunakan Python dan BeautifulSoup yang mengunduh seluruh artikel dan halaman resmi dari situs **Sekolah Karakter Imam Syafi'i (SKIS Semarang)** (`https://sekolahkarakter.com/`).
+  - Melakukan traversal terhadap XML Sitemap (`post-sitemap.xml` dan `page-sitemap.xml`), mengekstrak konten murni dari tag `.entry-content`, serta membersihkan elemen widget, formulir, share buttons, dan kode iklan.
+  - Mengonversi elemen HTML ke format Markdown yang bersih, rapi, dan terstandarisasi.
+- **Inventaris Khazanah Naskah Terarsip (`old_backup/skis/`):**
+  - **162 Artikel Blog & Esai Kurikuler (`old_backup/skis/artikel/`):** Memuat risalah mendalam karya Ustadz Abdul Kholiq dan asatidz SKIS, termasuk serial Sekolah Orang Tua Imam Syafi'i (SOTIS 1–5), risalah fitrah (*Disiplin Mesin, Hewan, dan Manusia*, *Bagai Melatih Hewan Sirkus*, *Karakter Bukan Ditanamkan tapi Ditumbuhkan*), studi kasus bakat (*Anak-Anak yang Tersalahkan*, *Anak Sortiran*, *Nakal atau Potensi*, *Penjurusan Bakat*), kritik sekolah (*Pabrik Mesin Bernama Sekolah*, *Jalan Sunyi Pendidikan*, *Roda Hamster*, *Ranking Telah Menzholimi Anak*), etape usia & aqil baligh (*Pendidikan Post Aqil Baligh 15 Tahun*, *Katakan Pemuda Bukan Remaja*), dan pemulihan luka pengasuhan (*Recovery Karakter Berbasis Fitrah*, *Bahasa Cinta*).
+  - **10 Halaman Statis Profil Lembaga (`old_backup/skis/pages/`):** Profil sekolah, filosofi kurikulum, pendaftaran santri, dan video kajian.
+  - **Basis Data Terstruktur (`old_backup/skis/articles.json`):** Menyimpan metadata lengkap 172 berkas (judul, tanggal publikasi, tanggal pembaruan, penulis, kategori, tags, slug, URL asli, dan panjang karakter).
+  - **Indeks Katalog Master (`old_backup/skis/README.md`):** Tabel kronologis lengkap dengan tautan berkas lokal Markdown dan tautan sumber asli web.
+- **Integrasi ke Hub Pusat Rujukan Wiki PKN (`content/Referensi/index.md`):**
+  - Menambahkan baris direktori arsip resmi SKIS Semarang pada tabel kluster referensi.
+
 
 
 
