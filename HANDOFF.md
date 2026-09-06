@@ -614,6 +614,26 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 - **Verifikasi Kualitas & Build:**
   - `npx quartz build` sukses 100% tanpa error (122 berkas Markdown ter-parse, 1.085 berkas statis terbit ke `public/`).
 
+---
+
+### Milestone 44: Integrasi Platform Tes Online Tafsir Bakat & Asesmen TB40 `[SELESAI]`
+- **Integrasi Platform Digital Asesmen Bakat (TB40):**
+  - Mengintegrasikan situs resmi tes online **Tafsir Bakat** (`https://tafsirbakat.com/`) sebagai instrumen pengujian mandiri 40 pilar bakat nabawiyah resmi.
+  - Mengintegrasikan platform alternatif **Aplikasi TB40 Insan Mustaqbal** (`https://tb40.insanmustaqbal.or.id/`) dengan label jelas *(tahap pengembangan lanjutan)*.
+- **Penyebaran Tautan Menyeluruh Lintas Dokumentasi:**
+  1. `quartz.config.yaml`: Menambahkan tautan resmi *"Tes Online Tafsir Bakat"* dan *"TB40 Insan Mustaqbal (Alternatif - Dev)"* pada konfigurasi `options.links` komponen Footer Quartz.
+  2. `content/Referensi/index.md`: Menambahkan baris *"🎯 Tes Online Tafsir Bakat (TB40)"* pada tabel direktori master kluster referensi.
+  3. `content/Referensi/Referensi Tambahan Buku Cetak.md`: Memperkaya sub-bab profil *Buku Tafsir Bakat* dan daftar kontak resmi dengan link langsung ke instrumen tes online dan platform alternatif.
+  4. `Kuisioner Asesmen 40 Bakat Nabawiyah.md`: Memperbarui callout instrumen digital di bagian atas untuk memandu santri dan pendidik mengisi tes online secara praktis.
+  5. `Panduan Asesmen dan Observasi TB40.md`: Menambahkan rujukan platform tes online di samping aplikasi visual peta bakat `pub.insantaqwa.org/bakat`.
+  6. `Insan/Fitrah (Karakter)/Bakat/index.md`: Memperbarui callout atas dan daftar tautan navigasi instrumen terapan (Bab 10).
+  7. `content/index.md` (Beranda): Menambahkan keterangan tes online pada profil rujukan Buku Tafsir Bakat serta menyertakan tautan platform asesmen pada direktori master referensi.
+- **Verifikasi Kualitas & Produksi:**
+  - `npx quartz build` sukses 100% (122 Markdown ter-parse, 1.085 berkas statis terbit ke `public/`).
+  - Sinkronisasi commit dan push ke branch `main` GitHub.
+  - Deployment Portainer `StackGitRedeploy` (Stack ID 25, Endpoint ID 3) live dengan status `HTTP/2 200 OK`.
+
+
 
 
 

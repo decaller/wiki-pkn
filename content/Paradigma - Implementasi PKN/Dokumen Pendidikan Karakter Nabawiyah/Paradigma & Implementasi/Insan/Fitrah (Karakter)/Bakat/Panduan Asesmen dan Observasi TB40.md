@@ -30,9 +30,11 @@ tags:
 
 ---
 
-> [!tip] 🌐 Alat Visualisasi Eksternal
-> Untuk mempermudah pemetaan visual sifat dan hubungan antar pilar bakat, gunakan aplikasi web interaktif:  
-> 👉 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)**
+> [!tip] 🌐 Platform Tes Online & Alat Visualisasi Eksternal
+> Untuk mempermudah pemetaan profil dan pelaksanaan evaluasi bakat santri/anak secara digital:  
+> * 🎯 **[Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/)** — Ikuti asesmen mandiri online 40 pilar bakat dengan laporan hasil instan.
+> * 🛠️ **[Aplikasi Asesmen TB40 Insan Mustaqbal (tb40.insanmustaqbal.or.id)](https://tb40.insanmustaqbal.or.id/)** — Platform asesmen alternatif berbasis manhaj PKN *(Catatan: Masih dalam tahap pengembangan lanjutan)*.
+> * 🗺️ **[Peta Visual Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)** — Visualisasi interaktif sifat dan hubungan antarpilar bakat insan.
 
 ## 1. Filosofi Asesmen Bakat Nabawiyah vs Asesmen Sekuler
 

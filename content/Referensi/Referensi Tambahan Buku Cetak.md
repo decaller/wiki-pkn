@@ -63,6 +63,8 @@ Untuk mendapatkan pemahaman yang utuh, mendalam, dan bersanad mengenai implement
 ### 2. [Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/)
 * **Penulis:** Ustadz Abdul Kholiq  
 * **Penerbit / Portal Resmi:** [karakternabawiyah.com/buku-tafsir-bakat-1](https://karakternabawiyah.com/buku-tafsir-bakat-1/)  
+* **Instrumen Tes Online Resmi:** [tafsirbakat.com](https://tafsirbakat.com/) (Asesmen Mandiri & Pemetaan 40 Bakat)  
+* **Platform Alternatif (Pengembangan):** [tb40.insanmustaqbal.or.id](https://tb40.insanmustaqbal.or.id/) (Aplikasi TB40 Insan Mustaqbal)  
 * **Intisari & Ruang Lingkup:**  
   Buku panduan ensiklopedis yang mengurai taksonomi **Tafsir Bakat 40 (TB-40)** secara tuntas. Mengkorelasikan 2 energi sosial (*As-Sirr* / Introvert & *Al-'Alaniyah* / Extrovert) dan 3 potensi jiwa (Karsa, Cipta, Rasa) menjadi 6 rumpun bakat utama (*Bekerja Keras, Berpikir, Berperasaan, Memerintah, Bekerja Sama, Melayani*) serta 40 pilar karakter nabawiyah. Dilengkapi pemetaan profil sahabat Nabi ﷺ sebagai prototipe kepribadian, rumus **Rukun 3A** (*Alami, Acuhkan kelemahan minor, Asah kekuatan dominan*), serta rubrik pencegahan ekstrem *tafrith* (lalai) vs *ifrath* (berlebih).
 * **Topik Kunci Terkait di Wiki:** [[Bakat]], [[Panduan Asesmen dan Observasi TB40]], [[Pangkalan Data TB-40 (Bases)\|TB40 Bases]], 6 Rumpun Bakat, dan 40 Catatan Pilar Karakter.
@@ -146,6 +148,7 @@ Selain 8 buku rujukan utama di atas, Manhaj PKN berakar pada kitab-kitab induk u
 
 Untuk memesan edisi cetak fisik resmi dari buku-buku di atas, Anda dapat mengakses tautan profil masing-masing buku atau menghubungi kanal layanan resmi:
 * **Pendidikan Karakter Nabawiyah (PKN):** [karakternabawiyah.com](https://karakternabawiyah.com/)
+* **Platform Tes Online Tafsir Bakat:** [tafsirbakat.com](https://tafsirbakat.com/) • [tb40.insanmustaqbal.or.id](https://tb40.insanmustaqbal.or.id/) *(Alternatif - Pengembangan)*
 * **Sekolah Orang Tua Ayah Bunda (SOTAB HEBAT):** [sotabh.com](https://sotabh.com)
 * **Pusat Informasi & Lembaga Pengembang:** [insanmustaqbal.or.id](https://insanmustaqbal.or.id) • [insantaqwa.org](https://insantaqwa.org) • [himmatulummah.or.id](https://himmatulummah.or.id)
 

@@ -32,9 +32,11 @@ tags:
 
 ---
 
-> [!tip] 🌐 Eksplorasi Visual: Peta Bakat & Sifat Manusia (Insan Taqwa)
-> Anda dapat menjelajahi peta kluster sifat, potensi fitrah, dan visualisasi 40 pilar bakat manusia secara interaktif melalui aplikasi web resmi:  
-> 👉 **[Aplikasi Web Peta Bakat & Sifat Manusia — pub.insantaqwa.org/bakat](https://pub.insantaqwa.org/bakat/)**
+> [!tip] 🌐 Platform Tes Online & Eksplorasi Visual Bakat
+> Untuk mengeksplorasi dan menguji potensi fitrah bakat secara digital, Anda dapat mengakses platform resmi berikut:  
+> * 🎯 **[Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/)** — Tes mandiri online 40 pilar bakat nabawiyah berbasis algoritma Manhaj PKN.
+> * 🛠️ **[Aplikasi Asesmen TB40 Insan Mustaqbal (tb40.insanmustaqbal.or.id)](https://tb40.insanmustaqbal.or.id/)** — Platform alternatif asesmen bakat *(masih dalam tahap pengembangan lanjutan)*.
+> * 🗺️ **[Aplikasi Web Peta Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)** — Visualisasi interaktif spektrum sifat dan peta 40 pilar bakat insan.
 
 ## 1. Hakikat Bakat (*Al-Mauhibah & Fitrah*)
 
@@ -254,8 +256,9 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 
 ## 10. Navigasi Instrumen & Panduan Terkait
 
-* 🌐 **[Aplikasi Web Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)** — Visualisasi interaktif spektrum sifat dan 40 pilar bakat.
-
+* 🎯 **[Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/)** — Ikuti asesmen online mandiri 40 pilar bakat dengan rekapitulasi hasil instan.
+* 🛠️ **[Aplikasi Asesmen TB40 Insan Mustaqbal (tb40.insanmustaqbal.or.id)](https://tb40.insanmustaqbal.or.id/)** — Platform alternatif asesmen TB40 *(tahap pengembangan)*.
+* 🗺️ **[Aplikasi Web Peta Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)** — Visualisasi interaktif spektrum sifat dan 40 pilar bakat.
 * [[Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]] — Instrumen baku self-assessment 40 butir Likert 5 tingkat, teks Arab, deskriptor perilaku, dan rekapitulasi kluster.
 * [[Panduan Asesmen dan Observasi TB40]] — Pedoman komprehensif instrumen 40 pilar, Likert 0–100 vs Ipsative 360°, dan pemetaan karir peradaban.
 * [[Panduan RPP dan Observasi Lapangan]] — Template RPP Karakter, instrumen kuisioner pertumbuhan, dan checklist harian 40 pilar.

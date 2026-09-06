@@ -25,9 +25,11 @@ description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berba
 
 ---
 
-> [!tip] 🌐 Eksplorasi Visual Interaktif
-> Selain mengisi kuisioner mandiri di bawah ini, Anda juga dapat menelusuri definisi sifat dan keterkaitan 40 pilar bakat secara visual pada aplikasi web:  
-> 👉 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/)**
+> [!tip] 🌐 Platform Tes Online & Eksplorasi Interaktif
+> Untuk pengalaman pengisian yang lebih praktis, otomatis, dan terstruktur, Anda dapat memanfaatkan platform digital resmi berikut:  
+> * 🎯 **[Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/)** — Ikuti asesmen mandiri online 40 pilar bakat dengan rekapitulasi hasil otomatis.
+> * 🛠️ **[Aplikasi Asesmen TB40 Insan Mustaqbal (tb40.insanmustaqbal.or.id)](https://tb40.insanmustaqbal.or.id/)** — Platform asesmen alternatif berbasis manhaj PKN *(Catatan: Masih dalam tahap pengembangan lanjutan)*.
+> * 🗺️ **[Peta Visual Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)** — Eksplorasi interaktif keterkaitan 40 pilar bakat dan spektrum sifat insan.
 
 ## 1. Petunjuk Teknis Pelaksanaan Asesmen
 

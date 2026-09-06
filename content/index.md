@@ -166,7 +166,7 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil, dan literatur resmi peradaban:
 * 📚 **[[Referensi Tambahan Buku Cetak|Delapan Buku Rujukan Utama Manhaj PKN & SOTAB]]:** Karya tulis dan modul resmi perumus manhaj, **Ustadz Abdul Kholiq**:
   - [📖 Buku Pendidikan Karakter Nabawiyah](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/) — *Cetak biru epistemologi insan, ruh-jasad, dan roadmap fitrah.*
-  - [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) — *Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan archetype sahabat.*
+  - [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) — *Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan archetype sahabat.* ([Tes Online](https://tafsirbakat.com/) • [Alternatif TB40](https://tb40.insanmustaqbal.or.id/))
   - [🌱 Buku Recovery Berbasis Fitrah](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/) — *Terapi batin, pemulihan luka pengasuhan, dan hirarki bahasa hati.*
   - [🏫 Buku Kurikulum Sekolah Karakter Islam](https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/) — *Integrasi kurikulum berbasis peristiwa, RPP 3 pilar, dan proyek adab.*
   - [🕌 Buku Menumbuhkan Kesadaran Beramal](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/) — *Membangun kesadaran nurani, shalat barometer jiwa, menolak kepatuhan semu.*
@@ -177,7 +177,7 @@ Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil
 * 📜 **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]:** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
 * 🎥 **[[Referensi Kajian Video]]:** Indeks komprehensif berisi 122 judul rekaman kajian dan 1.159 bab transkrip pembahasan video Ustadz Abdul Kholiq untuk pendalaman materi audio-visual.
 * 📊 **[[Bahan Tayang & Slide PPTX]]:** Katalog 39 modul presentasi resmi berformat PowerPoint (.pptx) dengan penampil interaktif Microsoft Office Web Viewer.
-* 🌐 **[Peta Bakat & Sifat Manusia (Insan Taqwa)](https://pub.insantaqwa.org/bakat/):** Platform web interaktif untuk mengeksplorasi visualisasi spektrum 40 pilar bakat, sifat manusia, dan kluster peradaban secara komprehensif.
+* 🎯 **Platform Asesmen & Peta Bakat TB40:** [Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/) • [Platform Alternatif TB40 Insan Mustaqbal (Tahap Dev)](https://tb40.insanmustaqbal.or.id/) • [Peta Visual Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.
