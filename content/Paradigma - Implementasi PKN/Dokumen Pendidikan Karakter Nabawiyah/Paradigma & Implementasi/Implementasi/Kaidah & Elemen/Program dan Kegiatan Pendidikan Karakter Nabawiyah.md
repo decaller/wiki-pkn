@@ -300,3 +300,28 @@ Berikut adalah ikhtisar komprehensif seluruh program resmi yang diselenggarakan 
   - [[Bahasa Pengasuhan]]
   - [[Akil Baligh]]
   - [[Asesmen Bakat]]
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Panduan Implementasi PKN Batch 3**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-pkn-batch-3/](https://karakternabawiyah.com/panduan-implementasi-pkn-batch-3/)  
+>   *Dokumentasi kegiatan Panduan Implementasi Standar PKN Batch 3.*  
+>
+> - 🌐 **[PKN] Panduan Implementasi PKN Batch 4**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-pkn-batch-4/](https://karakternabawiyah.com/panduan-implementasi-pkn-batch-4/)  
+>   *Dokumentasi standarisasi mutu lembaga Batch 4 di berbagai daerah.*  
+>
+> - 🌐 **[PKN] Event Panduan Implementasi Standar Pendidikan Karakter Nabawiyah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/event-panduan-implementasi-standar-pendidikan-karakter-nabawiyah/](https://karakternabawiyah.com/event-panduan-implementasi-standar-pendidikan-karakter-nabawiyah/)  
+>   *Laporan agenda nasional standarisasi sekolah Islam.*  
+>
+> - 🌐 **[PKN] Testimoni Akademi Guru**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/testimoni-akademi-guru/](https://karakternabawiyah.com/testimoni-akademi-guru/)  
+>   *Kumpulan catatan dan evaluasi pelaksanaan Akademi Guru (AKG) 17 batch.*  
+>
+> - 🌐 **[PKN] Profil Ustadz Abdul Kholiq**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/](https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/)  
+>   *Profil perjalanan dakwah Ustadz Abdul Kholiq membina program-program PKN.*  

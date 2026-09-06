@@ -9,7 +9,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Memerintah / Mempengaruhi (التَّأْثِيْر - At-Ta'tsir)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -33,10 +32,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)](/assets/slides/slide-matriks-polarisasi-bakat.webp)
 *Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)*
-
 
 Dalam sistematika Pendidikan Karakter Nabawiyah, **Bakat Memerintah / Mempengaruhi** lahir dari persilangan antara **Kutub Ekstrovert** (dorongan energi keluar menuju interaksi publik) dan **Dimensi Karsa / Jasad** (*Al-Hawa* yang disublimasikan menjadi ghirah dakwah pada jiwa ammarah).
 
@@ -65,8 +62,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Jubn (الجُبْن)** — Pengecut, lari dari tanggung jawab. *Kuratif:* Latihan olahraga ketangkasan dan bela diri syar'i.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat ugal-ugalan tanpa perhitungan. *Kuratif:* Wajib tunduk pada pilar *Hikmah* dan *Anaah*.
 
-
-
 ---
 
 ### Pilar #19: Ghairah (الغَيْرَة - Cemburu Membela Kehormatan Syariat)
@@ -80,8 +75,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Diyaatsah (الدِّيَاثَة)** — Permisif, tidak peduli anggota keluarga bermaksiat. *Kuratif:* Tegakkan qowwamah ayah di rumah.
   * *Ifrath (Berlebih):* **Tasyaddud / Tajassus (التَّجَسُّس)** — Curiga berlebihan dan memata-matai privasi orang lain. *Kuratif:* Terapkan kaidah larangan tajassus (QS. Al-Hujurat: 12).
-
-
 
 ---
 
@@ -97,8 +90,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Dzull / Qunuth (القُنُوْط)** — Patah arang, merasa diri pecundang. *Kuratif:* Berikan target kemenangan-kemenangan kecil (*small wins*).
   * *Ifrath (Berlebih):* **Hasad / Ghill (الحَسَد)** — Dengki, ingin menjatuhkan kawan agar dirinya juara sendiri. *Kuratif:* Didik untuk mendoakan keberkahan kawan (*Ghibthah*).
 
-
-
 ---
 
 ### Pilar #21: Nashiihah (النَّصِيْحَة - Tulus Membimbing)
@@ -112,8 +103,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Mudahanah (المُدَاهَنَة)** — Menjilat, mendiamkan kemungkaran demi cari aman. *Kuratif:* Tanamkan amar ma'ruf nahi munkar.
   * *Ifrath (Berlebih):* **Tanfiir / Ta'yir (التَّنْفِير)** — Menasihati di depan umum dengan kasar hingga mempermalukan. *Kuratif:* Nasihati empat mata dengan *Bahasa Hati*.
-
-
 
 ---
 
@@ -129,8 +118,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **'Ujmah (العُجْمَة)** — Gagap mengungkapkan isi pikiran, kosa kata miskin. *Kuratif:* Latihan membaca nyaring dan bercerita (*storytelling*).
   * *Ifrath (Berlebih):* **Jidaal ‘Aqiim (الجِدَال)** — Pandai bersilat lidah, suka mendebat kusir demi gengsi. *Kuratif:* Peringatkan dengan hadits ancaman bagi ahli jidal.
 
-
-
 ---
 
 ### Pilar #23: Nushrah (النُّصْرَة - Membela Kaum Tertindas)
@@ -145,8 +132,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Khidzlaan (الخِذْلَان)** — Apatis, membiarkan saudara dizalimi di depan mata. *Kuratif:* Tumbuhkan solidaritas ukhuwah Islamiyah.
   * *Ifrath (Berlebih):* **'Ashabiyah (العَصَبِيَّة)** — Membela kelompoknya secara membabi buta meski berada di pihak yang salah. *Kuratif:* Ikat loyalitas hanya kepada kebenaran syariat (*Al-Haqq*).
 
-
-
 ---
 
 ### Pilar #24: Juud (الجُوْد - Kedermawanan Pemimpin)
@@ -160,9 +145,6 @@ Bakat Memerintah membawahi **7 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Bukhl (البُخْل)** — Kikir, pelit mengeluarkan modal untuk perjuangan. *Kuratif:* Latihan sedekah harian secara sembunyi-sembunyi.
   * *Ifrath (Berlebih):* **Riya' / Sum'ah (الرِّيَاء)** — Dermawan demi pujian gelar pahlawan atau mencari pengaruh politik kotor. *Kuratif:* Murnikan niat ikhlas lillahi ta'ala.
-
----
-
 
 ---
 
@@ -253,10 +235,6 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[Syabab]] — Kematangan Mukallaf Menuju Peran Panglima Peradaban.
 * [[Panduan Asesmen dan Observasi TB40]] — Instrumen Lengkap 40 Pilar Karakter.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Rumpun Memerintah
@@ -285,7 +263,6 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Memerintah di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Memerintah karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -320,6 +297,19 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat mempengaruhi dan memimpin (At-Ta'tsir).*  
+>
+> - 🏫 **[SKIS] Setiap Anak Punya Bakat Unggul**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/](https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/)  
+>   *Mengasah potensi kepemimpinan anak sejak dini.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

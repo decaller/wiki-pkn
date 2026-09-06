@@ -11,10 +11,8 @@ tags:
 description: "Delapan Standar Mutu PKN 11/2024: pedoman audit kurikulum, pendewasaan santri, dan manajemen lembaga Islam."
 ---
 
-
 ![[assets/banners/banner_8_standar_pkn.webp]]
 *Gambar: Pilar-pilar 8 Standar Mutu Implementasi PKN*
-
 
 # 🏛️ 8 Standar Implementasi Pendidikan Karakter Nabawiyah
 
@@ -34,10 +32,8 @@ Penyelenggaraan pendidikan karakter nabawiyah di tingkat institusi menuntut tata
 
 ## 1. Klausul 5: Standar Konteks Lembaga dan Pemangku Kepentingan
 
-
 ![Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan](/assets/slides/slide-implementasi-persekolahan.webp)
 *Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan*
-
 
 Standar ini mewajibkan setiap lembaga pendidikan mengenali karakteristik unik lingkungannya sebelum merancang program kerja. Lembaga tidak boleh sekadar menyalin (*copy-paste*) kurikulum dari tempat lain tanpa membedah konteks sosiokultural dan spiritualnya.
 
@@ -280,9 +276,6 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam 8 Standar Implementasi PKN
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -309,7 +302,6 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan 8 Standar Implementasi PKN
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 8 Standar Implementasi PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -348,6 +340,23 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Panduan Implementasi PKN Batch 3**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-pkn-batch-3/](https://karakternabawiyah.com/panduan-implementasi-pkn-batch-3/)  
+>   *Dokumen resmi Panduan Implementasi Standar PKN Batch 3.*  
+>
+> - 🌐 **[PKN] Panduan Implementasi PKN Batch 4**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-pkn-batch-4/](https://karakternabawiyah.com/panduan-implementasi-pkn-batch-4/)  
+>   *Standarisasi mutu kelembagaan pendidikan karakter nabawiyah Batch 4.*  
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Manual resmi 8 Standar Mutu Pendidikan Karakter Nabawiyah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

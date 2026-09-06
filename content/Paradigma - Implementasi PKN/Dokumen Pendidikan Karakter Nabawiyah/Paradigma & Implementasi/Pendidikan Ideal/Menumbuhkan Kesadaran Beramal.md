@@ -10,7 +10,6 @@ tags:
 description: "Monograf komprehensif mengenai hakikat, filosofi, metafora ekologi qolbu, tahapan kemunculan kesadaran beramal, dan ikhtiar aplikatif pendidikan karakter nabawiyah berlandaskan Al-Qur'an dan As-Sunnah."
 ---
 
-
 # Menumbuhkan Kesadaran Beramal
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -260,9 +259,6 @@ Pendidik PKN mengiringi setiap detik interaksi muridnya dengan doa di sepertiga 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Kesadaran Beramal
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -324,7 +320,6 @@ Pendidik PKN mengiringi setiap detik interaksi muridnya dengan doa di sepertiga 
 
 ---
 
-
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Kesadaran Beramal
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Kesadaran Beramal, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -358,6 +353,23 @@ Pendidik PKN mengiringi setiap detik interaksi muridnya dengan doa di sepertiga 
 > - **Materi:** *RECOVERY KESADARAN & PENANGANAN BULLYING*
 >   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Buku Menumbuhkan Kesadaran Beramal**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/)  
+>   *Karya monumental Ustadz Abdul Kholiq tentang proses tumbuhnya kesadaran amal.*  
+>
+> - 🏫 **[SKIS] Menumbuhkan keikhlasan pada Anak bukan dengan paksaan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/menumbuhkan-keikhlasan-pada-anak-bukan-dengan-paksaan-dan-lemah/](https://sekolahkarakter.com/menumbuhkan-keikhlasan-pada-anak-bukan-dengan-paksaan-dan-lemah/)  
+>   *Kaidah menumbuhkan niat beramal tanpa represi lahiriah.*  
+>
+> - 🌐 **[PKN] Akses Pikiran Bawah Sadar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/akses-pikiran-bawah-sadar/](https://karakternabawiyah.com/akses-pikiran-bawah-sadar/)  
+>   *Menanamkan nilai-nilai kebaikan ke dalam memori bawah sadar anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

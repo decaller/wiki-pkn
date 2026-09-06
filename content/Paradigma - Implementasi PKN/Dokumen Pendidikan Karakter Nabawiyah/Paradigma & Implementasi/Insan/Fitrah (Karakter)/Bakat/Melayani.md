@@ -9,7 +9,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Melayani (الخِدْمَة - Al-Khidmah)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -33,10 +32,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40](/assets/slides/slide-peta-struktur-tb40.webp)
 *Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40*
-
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bakat Melayani** adalah hasil persilangan antara **Kutub Ekstrovert** (fokus aksi tercurah kepada kebutuhan orang lain) dan **Dimensi Rasa / Hati** (*Al-Qalb* pada jiwa muthmainnah yang dipenuhi kasih sayang ilahiah).
 
@@ -65,8 +62,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
   * *Tafrith (Lalai):* **Qaswah (القَسْوَة)** — Hati keras membatu, tega melihat penderitaan orang lain. *Kuratif:* Mengusap kepala anak yatim dan memberi makan orang miskin.
   * *Ifrath (Berlebih):* **Khawwar (الخَوَر)** — Lembek hingga tidak tega menegakkan sanksi syariat yang adil. *Kuratif:* Imbangi dengan pilar *'Adaalah* dan *Ghairah*.
 
-
-
 ---
 
 ### Pilar #34: Itsaar (الاِيْثَار - Altruisme Syar'i)
@@ -80,8 +75,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Syuhh / Bukhl (الشُّحّ)** — Sangat kikir dan takut miskin. *Kuratif:* Latihan sedekah barang yang paling dicintai.
   * *Ifrath (Berlebih):* **Dhai'atul 'Iyal (ضَيْعَةُ العِيَالِ)** — Berinfaq habis-habisan ke luar hingga menelantarkan nafkah wajib anak dan istri. *Kuratif:* Dahulukan urutan nafkah keluarga sesuai sabda Nabi ﷺ: *"Mulailah dari orang yang menjadi tanggunganmu."*
-
-
 
 ---
 
@@ -97,8 +90,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
   * *Tafrith (Lalai):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Mulut ember, membocorkan rahasia penting demi sensasi. *Kuratif:* Peringatkan tentang dosa khianat amanah.
   * *Ifrath (Berlebih):* **Kithmanul Haqq (كِتْمَانُ الحَقِّ)** — Menyembunyikan persaksian kebenaran yang wajib diungkap di pengadilan. *Kuratif:* Tegakkan pilar *Shidq*.
 
-
-
 ---
 
 ### Pilar #36: Satr (السَّتْر - Menutup Aib Saudara)
@@ -112,8 +103,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Fadhihah / Tasy-hir (الفَضِيْحَة)** — Gemar memviralkan aib dan membongkar kesalahan orang lain. *Kuratif:* Renungi hadits ancaman bahwa Allah akan membongkar aibnya di rumahnya sendiri.
   * *Ifrath (Berlebih):* **Iqrārul Munkar (إِقْرَارُ المُنْكَر)** — Melindungi pelaku kriminal berbahaya yang merugikan publik atas nama menutup aib. *Kuratif:* Laporkan kepada pihak berwenang sesuai kaidah hukum syar'i.
-
-
 
 ---
 
@@ -129,8 +118,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
   * *Tafrith (Lalai):* **Khiyanah (الخِيَانَة)** — Mengabaikan tugas, korupsi dana titipan. *Kuratif:* Awasi dengan audit ketat dan tanamkan hisab akhirat.
   * *Ifrath (Berlebih):* **Hamlul Ma La Yuthaq (حَمْلُ مَا لَا يُطَاقُ)** — Mengambil semua beban amanah hingga fisik dan mental hancur (*burnout*). *Kuratif:* Pelajari seni delegasi tugas dengan pilar *Ta'aawun*.
 
-
-
 ---
 
 ### Pilar #38: Anaah (الاَنَاة - Ketenangan & Ketelitian)
@@ -145,8 +132,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
   * *Tafrith (Lalai):* **'Ajalah (العَجَلَة)** — Grusa-grusu, terburu-buru, ceroboh. *Kuratif:* Hadits: *"Ketergesa-gesaan itu berasal dari setan."*
   * *Ifrath (Berlebih):* **Tawaani / Batha' (التَّوَانِي)** — Lamban berlebihan hingga kehilangan momentum emas. *Kuratif:* Pacu dengan pilar *'Aziimah*.
 
-
-
 ---
 
 ### Pilar #39: Hilm (الحِلْم - Pemaaf Santun Lapang Dada)
@@ -160,8 +145,6 @@ Bakat Melayani membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Hadad / Ghadhab (الغَضَب)** — Cepat naik darah, meledak-ledak, pendendam. *Kuratif:* Ajarkan teknik meredam amarah (duduk, berbaring, wudhu).
   * *Ifrath (Berlebih):* **Dzull (الذُّلّ)** — Membiarkan kemungkaran merajalela karena takut dianggap tidak santun. *Kuratif:* Imbangi dengan ketegasan *Syajaa'ah*.
-
-
 
 ---
 
@@ -272,9 +255,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Rumpun Melayani
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -301,7 +281,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Melayani di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Melayani karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -336,6 +315,19 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat pengabdian dan ketulusan khidmah (Al-Khidmah).*  
+>
+> - 💡 **[SOTAB] MELENGKAPI, BUKAN MENGALAHKAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/melengkapi-bukan-mengalahkan/](https://sotabh.com/melengkapi-bukan-mengalahkan/)  
+>   *Menemukan kemuliaan hidup dalam memberi manfaat bagi sesama.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

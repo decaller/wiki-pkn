@@ -12,7 +12,6 @@ tags:
   - tadarruj
 ---
 
-
 # Disiplin Positif PKN: Trilogi 3 Bahasa dan Penahapan Kedisiplinan Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -331,7 +330,6 @@ Bagi orang tua yang merasa telah melompati tahapan di atas, pintu pemulihan (*re
 * [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Murahaqah|Fase Perkembangan: Murahaqah (10 Tahun – Baligh)]]
 * [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka & Hutang Pengasuhan]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Mengapa Pemaksaan Fisik Dini Melahirkan Pembangkangan?
@@ -351,6 +349,22 @@ Bagi orang tua yang merasa telah melompati tahapan di atas, pintu pemulihan (*re
 > * **Aksi Sederhana:** Bila melihat ananda melakukan kekeliruan atau kelalaian hari ini, tarik nafas sejenak dan tundalah amarah. Tanyakan pada diri sendiri: *"Apakah ananda melanggar karena belum paham ilmunya, ataukah karena malas?"* Peluk ananda terlebih dahulu, penuhi tangki cintanya, lalu berikan nasihat (*Bahasa Lisan*) dengan nada tenang dan rasional.  
 > * **Tujuan:** Menjaga wibawa orang tua dan menumbuhkan motivasi ibadah dari kesadaran hati terdalam (*internal drive*), bukan keterpaksaan luar.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] DISIPLIN MESIN, HEWAN, DAN MANUSIA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/](https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/)  
+>   *Pembedaan mendasar antara disiplin fitrah nabawiyah dengan kepatuhan mekanis paksaan.*  
+>
+> - 💡 **[SOTAB] Hukuman Yang Membunuh Karakter**  
+>   🔗 Sumber Asli: [https://sotabh.com/hukuman-yang-membunuh-karakter/](https://sotabh.com/hukuman-yang-membunuh-karakter/)  
+>   *Kritik terhadap hukuman fisik dan emosional yang melumpuhkan jiwa anak.*  
+>
+> - 💡 **[SOTAB] KEKERASAN ANAK CERMIN KELALAIAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/kekerasan-anak-cermin-kelalaian/](https://sotabh.com/kekerasan-anak-cermin-kelalaian/)  
+>   *Refleksi mendalam: kekerasan lahiriah anak adalah cermin kelalaian pengasuhan orang tua.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

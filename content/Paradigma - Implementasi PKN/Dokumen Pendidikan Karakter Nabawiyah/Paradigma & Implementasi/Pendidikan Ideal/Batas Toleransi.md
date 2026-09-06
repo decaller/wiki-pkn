@@ -2,7 +2,6 @@
 title: "Batas Toleransi"
 ---
 
-
 # Batas Toleransi: Penegakan Hima dan Zonasi Batasan Perilaku
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -25,15 +24,12 @@ Pendidikan modern sering kali terjebak dalam dua ekstrem yang merusak: **Otorita
 > 📚 **Syarah Al-Hafizh Ibnu Rajab Al-Hanbali dalam Jami'ul 'Ulum wal Hikam (Juz 1 Hal. 198):**  
 > *"Nabi ﷺ memberikan perumpamaan agung tentang proteksi moral: barang siapa yang mendekati batas pagar larangan, niscaya syahwatnya akan menyeretnya masuk ke dalamnya. Dalam pengasuhan anak, orang tua wajib menegakkan pagar pembatas ini sejak dini. Membiarkan anak bermain-main di zona syubhat tanpa batas aturan yang jelas sama saja dengan menjerumuskannya secara sengaja ke dalam kemaksiatan."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%84%D9%8E%D8%A7%D9%84%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%D8%8C%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D8%B1%D9%8E%D8%A7%D9%85%D9%8E%20%D8%A8%D9%8E%D9%8A%D9%90%D9%91%D9%86%D9%8C%D8%8C%20%D9%88%D9%8E%D8%A8%D9%8E%D9%8A%D9%92%D9%86%D9%8E%D9%87%D9%8F%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%85%D9%8F%D9%88%D8%B1%D9%8C&lang=id)---
 
 ## 1. Tiga Zonasi Perilaku dalam PKN: Hijau, Kuning, dan Merah
 
-
 ![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
 *Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
-
 
 Pendidikan Karakter Nabawiyah memetakan perilaku anak ke dalam tiga zona yang sangat jelas bagi orang tua maupun anak:
 
@@ -92,9 +88,6 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Batas Toleransi
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -132,7 +125,6 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
 
 ---
 
-
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Batas Toleransi
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Batas Toleransi, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -162,6 +154,23 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] DISIPLIN MESIN, HEWAN, DAN MANUSIA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/](https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/)  
+>   *Membedakan penegakan disiplin fitrah manusiawi dengan kepatuhan robotik.*  
+>
+> - 💡 **[SOTAB] Hukuman Yang Membunuh Karakter**  
+>   🔗 Sumber Asli: [https://sotabh.com/hukuman-yang-membunuh-karakter/](https://sotabh.com/hukuman-yang-membunuh-karakter/)  
+>   *Batas ketegasan syar'i yang tidak melukai harga diri anak.*  
+>
+> - 💡 **[SOTAB] KETIKA ANAK PERGI MENJAUH**  
+>   🔗 Sumber Asli: [https://sotabh.com/ketika-anak-pergi-menjauh/](https://sotabh.com/ketika-anak-pergi-menjauh/)  
+>   *Mendeteksi kerenggangan emosi anak saat batasan pengasuhan dilanggar.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

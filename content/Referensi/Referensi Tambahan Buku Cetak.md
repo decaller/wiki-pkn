@@ -178,3 +178,28 @@ Untuk memesan edisi cetak fisik resmi dari buku-buku di atas, Anda dapat mengaks
 Bagi peneliti, akademisi, dan praktisi pendidikan yang ingin mengusulkan kajian buku fisik pendukung lainnya yang selaras dengan manhaj nabawiyah, silakan mengajukan melalui:
 * **Halaman Kontribusi:** [[Panduan Kontribusi\|Pelajari Prosedur Kontribusi Wiki]]
 * **GitHub Discussions:** [Forum Diskusi decaller/wiki-pkn](https://github.com/decaller/wiki-pkn/discussions)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Buku Pendidikan Karakter Nabawiyah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/)  
+>   *Buku babon induk Pendidikan Karakter Nabawiyah.*  
+>
+> - 🌐 **[PKN] Buku Menumbuhkan Kesadaran Beramal**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/)  
+>   *Buku Menumbuhkan Kesadaran Beramal karya Ustadz Abdul Kholiq.*  
+>
+> - 🌐 **[PKN] Buku Tafsir Bakat**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-tafsir-bakat-1/](https://karakternabawiyah.com/buku-tafsir-bakat-1/)  
+>   *Buku Kupas Tuntas Tafsir Bakat TB-40.*  
+>
+> - 🌐 **[PKN] Buku Recovery Berbasis Fitrah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/)  
+>   *Buku Recovery Karakter Berbasis Fitrah.*  
+>
+> - 🌐 **[PKN] Buku Kurikulum Sekolah Karakter Islam**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/](https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/)  
+>   *Buku Kurikulum Sekolah Karakter Islam.*  

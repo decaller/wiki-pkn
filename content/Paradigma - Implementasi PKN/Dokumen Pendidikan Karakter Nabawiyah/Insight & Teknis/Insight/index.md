@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_insight.webp]]
 *Gambar: Refleksi dan Wawasan Strategis Penerapan Pendidikan Karakter*
-
 
 # Insight: Wawasan & Refleksi Kritis Pendidikan Karakter Nabawiyah
 
@@ -93,8 +91,6 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 2. Luangkan minimal 30 menit setiap hari untuk hadir 100% jiwa dan raga mendampingi anak tanpa memegang gawai.
 3. Awali setiap proses mendidik dengan doa tulus dan perbaikan diri orang tua di hadapan Allah SWT.
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Insight PKN
@@ -124,8 +120,6 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 
 ---
 
----
-
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Transformasi Wawasan (Insight) Menjadi Amal Nyata
@@ -149,7 +143,6 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 
 ![[canvas/Insight - Visualisasi Jalur Transformasi Wawasan (Insight) ke Implementasi.canvas]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Insight PKN
@@ -169,3 +162,11 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Khazanah artikel pemikiran mendalam Belajar Hati dan Manhaj PKN.*  

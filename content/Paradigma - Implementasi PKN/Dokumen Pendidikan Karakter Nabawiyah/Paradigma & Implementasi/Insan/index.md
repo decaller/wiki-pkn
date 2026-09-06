@@ -8,10 +8,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_insan.webp]]
 *Gambar: Pilar Hakikat Insan: Memahami Struktur Jasad, Ruh, dan Nafs*
-
 
 # Paradigma Insan: Peta Navigasi & Arsitektur Manusia dalam PKN
 
@@ -39,10 +37,8 @@ Pendidikan sejati dalam tradisi Islam bukanlah proses fabrikasi massal atau peny
 
 ## 2. Landasan Dalil Al-Qur'an & Takhrij Tafsir
 
-
 ![Sistem Berpikir Jiwa: Kesadaran Atas Sadar vs Dorongan Bawah Sadar](/assets/slides/slide-sistem-berpikir-jiwa.webp)
 *Sistem Berpikir Jiwa: Kesadaran Atas Sadar vs Dorongan Bawah Sadar*
-
 
 Kemuliaan penciptaan insan dan risiko kejatuhan derajatnya dipaparkan secara gamblang dalam nas-nas Al-Qur'an dan As-Sunnah:
 
@@ -184,9 +180,6 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Konsep Insan
 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -213,7 +206,6 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Konsep Insan
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
@@ -244,6 +236,23 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Fondasi filosofis hakikat manusia seutuhnya dalam manhaj nabawi.*  
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Menumbuhkan fitrah insani dengan pendekatan organik.*  
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Cetak biru rekonstruksi manusia berkarakter khairu ummah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

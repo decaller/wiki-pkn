@@ -11,10 +11,8 @@ tags:
 description: "Kajian komprehensif Panduan RPP dan Observasi Lapangan dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_panduan_rpp_observasi.webp]]
 *Gambar: Panduan Observasi Lapangan dan Perancangan Pembelajaran Fitrah*
-
 
 # 📝 Panduan RPP dan Observasi Lapangan Karakter Nabawiyah
 
@@ -40,10 +38,8 @@ Untuk menjembatani paradigma filosofis dengan realitas ruang kelas dan asrama ma
 
 ## 1. Cetak Biru Rencana Pembelajaran Karakter (RPP) Berbasis Fitrah
 
-
 ![Alur Pembelajaran Berbasis Kegiatan Nyata (Project-Based Learning)](/assets/slides/slide-alur-kegiatan-projek.webp)
 *Alur Pembelajaran Berbasis Kegiatan Nyata (Project-Based Learning)*
-
 
 Format RPP Karakter PKN dirancang terintegrasi (*integrated thematic learning*) yang menyatukan muatan syariat dengan penumbuhan sifat-sifat mulia 40 pilar bakat nabawiyah ([[Panduan Asesmen dan Observasi TB40]]).
 
@@ -297,9 +293,6 @@ Menggabungkan preferensi kepribadian (*Introvert vs Ekstrovert*) dengan tiga dim
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Panduan RPP dan Observasi Lapangan
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -326,7 +319,6 @@ Menggabungkan preferensi kepribadian (*Introvert vs Ekstrovert*) dengan tiga dim
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Panduan RPP dan Observasi Lapangan
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Panduan RPP dan Observasi Lapangan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -365,6 +357,19 @@ Menggabungkan preferensi kepribadian (*Introvert vs Ekstrovert*) dengan tiga dim
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Format resmi Rencana Pelaksanaan Pembelajaran (RPP) terpadu karakter fitrah.*  
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Pedoman pengisian lembar observasi harian santri di lapangan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -8,7 +8,6 @@ tags:
   - qaulan_sadida
 ---
 
-
 # Bahasa Lisan: Seni Dialog Dialogis & Pencerahan Nalar Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat Bahasa Lisan dalam Arsitektur PKN
 
-
 ![Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah](/assets/slides/slide-bahasa-lisan-7-10.webp)
 *Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah*
-
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Lisan (*Lughatul Lisan*)** adalah instrumen pengajaran utama pada **Fase Tamyiz (Usia 7–10 Tahun)**. Pada fase ini, anak mulai mengalami kematangan kognitif (*mumayyiz*): ia mulai mampu membedakan baik dan buruk, memahami hubungan sebab-akibat, serta memiliki rasa ingin tahu logis yang sangat besar.
 
@@ -151,9 +148,6 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Bahasa Lisan
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -180,7 +174,6 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Lisan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Lisan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -211,6 +204,23 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Lebih dari Sekedar Ungkapan Kata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/lebih-dari-sekedar-ungkapan-kata/](https://karakternabawiyah.com/lebih-dari-sekedar-ungkapan-kata/)  
+>   *Kekuatan kata-kata hikmah (*qaulan sadida*) yang membekas di jiwa anak.*  
+>
+> - 🏫 **[SKIS] BAHASA CINTA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/bahasa-cinta/](https://sekolahkarakter.com/bahasa-cinta/)  
+>   *Mengemas nasihat lisan dalam balutan kehangatan kasih sayang.*  
+>
+> - 🏫 **[SKIS] Mengendalikan Kemarahan pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/mengendalikan-kemarahan-pada-anak/](https://sekolahkarakter.com/mengendalikan-kemarahan-pada-anak/)  
+>   *Menjaga lisan dari kata-kata celaan dan laknat saat menegur anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

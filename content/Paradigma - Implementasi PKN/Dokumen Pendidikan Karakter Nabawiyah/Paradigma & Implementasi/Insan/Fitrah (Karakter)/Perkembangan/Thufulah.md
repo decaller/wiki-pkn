@@ -9,7 +9,6 @@ tags:
   - mahabbah
 ---
 
-
 # Fase Thufulah (0 – 7 Tahun): Etape Raja, Bermain, & Limpahan Kasih Sayang
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -33,10 +32,8 @@ tags:
 
 ## 1. Hakikat Fase Thufulah dalam Arsitektur PKN
 
-
 ![Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati](/assets/slides/slide-bahasa-hati-0-7.webp)
 *Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati*
-
 
 Fase Thufulah adalah masa pertumbuhan fisik dan sensori-motorik di mana fitrah keimanan anak berada pada kondisi paling murni. Dalam peribahasa hikmah kearifan Islam para salaf disebutkan:
 > *"Ajaklah anakmu bermain pada 7 tahun pertama (Thufulah), didiklah ia adab dan aturan pada 7 tahun kedua (Tamyiz), bersahabatlah dengannya pada 7 tahun ketiga (Murahaqah), dan setelah itu lepaskanlah ia memikul urusannya sendiri (Syabab)."*
@@ -126,9 +123,6 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Fase Thufulah (0–7 Tahun)
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -155,7 +149,6 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Thufulah (0–7 Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Thufulah (0–7 Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -186,6 +179,23 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Sekilas Pandang usia 0-7 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/](https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/)  
+>   *Prinsip pengasuhan emas usia dini: pemenuhan kasih sayang dan kebebasan bermain.*  
+>
+> - 💡 **[SOTAB] ANAK-ANAK TANPA DOSA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-anak-tanpa-dosa/](https://sotabh.com/anak-anak-tanpa-dosa/)  
+>   *Memahami kepolosan anak pra-tamyiz yang bebas dari beban hukum taklif.*  
+>
+> - 💡 **[SOTAB] Anak Terlahir Untuk Dididik**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-terlahir-untuk-dididik/](https://sotabh.com/anak-terlahir-untuk-dididik/)  
+>   *Amanah fitrah sejak lahir yang membutuhkan lingkungan subur.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

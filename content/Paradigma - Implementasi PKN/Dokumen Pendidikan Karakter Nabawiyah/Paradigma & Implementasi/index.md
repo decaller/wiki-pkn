@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_paradigma_implementasi.webp]]
 *Gambar: Sintesis Paradigma Filosofis dan Eksekusi Lapangan PKN*
-
 
 # Paradigma & Implementasi: Gerbang Arsitektur Utama PKN
 
@@ -35,7 +33,6 @@ Halaman ini merupakan simpul pintu gerbang (*master landing node*) yang memetaka
 > [!tip] 🗺️ Cetak Biru Lengkap: PKN Blueprint
 > Untuk meninjau peta visual dan arsitektur sistem menyeluruh mulai dari Jiwa Pendidik, Peran Pendidik, Metode, Materi, hingga 4 Langkah Implementasi, buka:  
 > 👉 **[[PKN Blueprint Arsitektur Sistem|PKN Blueprint: Arsitektur Sistem Pendidikan Karakter Nabawiyah]]**
-
 
 ## 1. Struktur Peta Arsitektur Tiga Tingkat
 
@@ -101,9 +98,6 @@ Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Paradigma & Implementasi PKN
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -130,7 +124,6 @@ Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Paradigma & Implementasi PKN
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Paradigma & Implementasi PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -188,6 +181,19 @@ Untuk memahami detail teknis dari masing-masing komponen di atas, telaah dokumen
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Reframing satu 'kelakuan menjengkelkan' anak hari ini menjadi potensi fitrah yang sedang mencari wadah penyalurannya.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Peta besar integrasi paradigma dan strategi implementasi Manhaj PKN.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Filosofi kurikulum dan pengalaman lapangan SKIS Semarang.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

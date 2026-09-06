@@ -9,7 +9,6 @@ tags:
   - kepemimpinan
 ---
 
-
 # Fase Syabab (15+ Tahun / Pasca-Baligh): Etape Sahabat, Mukallaf Mandiri, & Pencetak Peradaban
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -33,10 +32,8 @@ tags:
 
 ## 1. Hakikat Fase Syabab dalam Arsitektur PKN
 
-
 ![Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya](/assets/slides/slide-fase-perkembangan-tujuan.webp)
 *Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya*
-
 
 Begitu seorang anak mengalami tanda baligh (mimpi basah bagi laki-laki, haidh bagi perempuan, atau genap usia 15 tahun), status hukumnya dalam syariat Islam berubah secara radikal:
 * **Beralih dari 'Ashab (Keluarga) ke Mukallaf Mandiri:** Setiap detik catatan amalnya dipertanggungjawabkan sendiri di hadapan Allah SWT.
@@ -173,10 +170,6 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
 * [[Panduan RPP dan Observasi Lapangan]] — Instrumen Perencanaan Proyek dan Observasi Pertumbuhan Karakter.
 * [[Tujuan Hidup Manusia]] — Menjadi Khalifah fil Ardh yang Bertauhid.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Fase Syabab (15+ Tahun)
@@ -205,7 +198,6 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Syabab (15+ Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Syabab (15+ Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -236,6 +228,27 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Pendidikan Karakter Usia Aqil Baligh**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/](https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/)  
+>   *Kesiapan memikul beban taklif syar'i dan kemandirian hidup pemuda pasca-baligh.*  
+>
+> - 🏫 **[SKIS] Teknik Pendidikan Post Aqil Baligh Usia> 15 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/teknik-pendidikan-post-aqil-baligh-usia-15-tahun/](https://sekolahkarakter.com/teknik-pendidikan-post-aqil-baligh-usia-15-tahun/)  
+>   *Metode pendampingan pemuda usia 15 tahun ke atas menuju kedewasaan sosial.*  
+>
+> - 🏫 **[SKIS] Konsep He Post Aqil Baligh Usia >15 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/konsep-he-post-aqil-baligh-usia-15-tahun/](https://sekolahkarakter.com/konsep-he-post-aqil-baligh-usia-15-tahun/)  
+>   *Rancang bangun pendidikan mandiri dan penjurusan karir pasca-aqil baligh.*  
+>
+> - 🏫 **[SKIS] Katakan Pemuda (bukan Remaja)**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/katakan-pemuda-bukan-remaja/](https://sekolahkarakter.com/katakan-pemuda-bukan-remaja/)  
+>   *Menolak glorifikasi status labil remaja demi mencetak pemuda berjiwa kesatria.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

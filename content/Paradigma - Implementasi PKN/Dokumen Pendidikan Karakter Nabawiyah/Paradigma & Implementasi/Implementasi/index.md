@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_implementasi.webp]]
 *Gambar: Kerangka Kerja Implementasi Kurikulum Karakter Nabawiyah*
-
 
 # Paradigma Implementasi Pendidikan Karakter Nabawiyah
 
@@ -92,9 +90,6 @@ Untuk memulai implementasi PKN tanpa rasa kewalahan (*overwhelmed*), lakukan lan
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Implementasi Kurikulum PKN
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -163,7 +158,6 @@ Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Implementasi Kurikulum PKN
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Implementasi Kurikulum PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -201,6 +195,23 @@ Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Implementasi Terbaik**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/implementasi-terbaik/](https://karakternabawiyah.com/implementasi-terbaik/)  
+>   *Kompilasi panduan praktis implementasi Manhaj PKN di sekolah dan keluarga.*  
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Standar kelembagaan PKN yang teruji di lapangan.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Pengalaman implementasi kurikulum karakter di SKIS Semarang.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

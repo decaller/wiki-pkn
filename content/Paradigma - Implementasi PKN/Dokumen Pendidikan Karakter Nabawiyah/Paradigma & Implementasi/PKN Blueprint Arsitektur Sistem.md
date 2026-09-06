@@ -13,10 +13,8 @@ tags:
 description: "Master blueprint dan peta arsitektur sistem utuh Pendidikan Karakter Nabawiyah (PKN), mengintegrasikan dimensi Jiwa Pendidik, Peran Pendidik, Metode, Materi Kurikulum, hingga 4 Langkah Implementasi Lapangan."
 ---
 
-
 ![[assets/banners/banner_blueprint_arsitektur.webp]]
 *Gambar: Cetak Biru Arsitektur Sistem Pendidikan Karakter Nabawiyah*
-
 
 # PKN Blueprint: Arsitektur Sistem Pendidikan Karakter Nabawiyah
 
@@ -328,10 +326,6 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
 | Ungu | Khusus | Peran Profesi, Tangki Cinta, Jiwa Pendidik | Implementasi |
 | Biru | Sosial | Imunitas Sosial | Interaksi Kemasyarakatan |
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Cetak Biru Arsitektur PKN
@@ -376,7 +370,6 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
 * [[Implementasi/Internal & Eksternal/Tazkiyatun Nafs|Tazkiyatun Nafs Pendidik]]
 * [[Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery dan Penanganan Hutang Pengasuhan]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Cetak Biru Arsitektur PKN
@@ -396,3 +389,15 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Diagram arsitektur utuh sistem pemikiran Pendidikan Karakter Nabawiyah.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Cetak biru kurikulum karakter nabawiyah terpadu.*  

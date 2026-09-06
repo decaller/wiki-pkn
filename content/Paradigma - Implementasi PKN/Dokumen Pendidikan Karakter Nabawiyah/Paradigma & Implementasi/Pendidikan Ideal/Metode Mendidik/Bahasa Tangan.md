@@ -9,10 +9,8 @@ tags:
 description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, larangan memukul wajah, dan sanksi edukatif tanpa mempermalukan."
 ---
 
-
 ![[assets/banners/banner_bahasa_tangan.webp]]
 *Gambar: Bahasa Tangan: Teladan Amal dan Keterampilan Nyata*
-
 
 # Bahasa Tangan: Batasan Syar'i Ketegasan & Ta'dib Nabawiyah
 
@@ -35,10 +33,8 @@ description: "Penerapan Bahasa Tangan: batas tegas kedisiplinan syariat, laranga
 
 ## 1. Hakikat Bahasa Tangan dalam Arsitektur PKN
 
-
 ![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
 *Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
-
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Tangan (*Lughatul Yad / At-Ta'dib*)** adalah instrumen penegakan aturan (*enforcement*), ketegasan disiplin, dan penetapan konsekuensi nyata.
 
@@ -127,9 +123,6 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Bahasa Tangan
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -156,7 +149,6 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Tangan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Tangan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -187,6 +179,19 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] DISIPLIN MESIN, HEWAN, DAN MANUSIA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/](https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/)  
+>   *Penerapan ketegasan ta'dib nabawi yang memuliakan martabat manusia.*  
+>
+> - 💡 **[SOTAB] Hukuman Yang Membunuh Karakter**  
+>   🔗 Sumber Asli: [https://sotabh.com/hukuman-yang-membunuh-karakter/](https://sotabh.com/hukuman-yang-membunuh-karakter/)  
+>   *Membedakan hukuman edukatif (*dharbun ghairu mubarrih*) dengan kekerasan fisik.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

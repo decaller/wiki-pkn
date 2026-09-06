@@ -7,10 +7,8 @@ tags:
   - ikhtiar-ikhlas
 ---
 
-
 ![[assets/banners/banner_euforia_pengasuhan.webp]]
 *Gambar: Meredam Euforia Pengasuhan Menuju Kedamaian Hati yang Seimbang*
-
 
 # Fase Euforia: Mengelola Ledakan Emosi dan Jebakan Faddisme Pengasuhan
 
@@ -36,7 +34,6 @@ Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah n
 > 📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani dalam Fathul Bari (Juz 11 Hal. 298):**  
 > *"Hadits ini merupakan kaidah agung dalam melatih jiwa (riyadhatun nafs): amalan yang sedikit namun konsisten akan melahirkan keberkahan yang berlipat ganda, menjaga kesinambungan ketaatan, dan menghindarkan jiwa dari rasa jenuh (al-malal). Sebaliknya, membebani diri atau anak dengan target berlebihan di luar kesiapan fitrahnya hanya akan memicu keletihan mental, yang pada akhirnya membuat seseorang berhenti total dari beramal."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D8%AD%D9%8E%D8%A8%D9%8F%D9%91%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D8%A7%D9%84%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%AA%D9%8E%D8%B9%D9%8E%D8%A7%D9%84%D9%8E%D9%89%20%D8%A3%D9%8E%D8%AF%D9%92%D9%88%D9%8E%D9%85%D9%8F%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%92%20%D9%82%D9%8E%D9%84%D9%8E%D9%91&lang=id)---
 
 ## 1. Anatomi Dua Bentuk Euforia dalam Ranah Tarbiyah
@@ -57,10 +54,8 @@ Berikut adalah analisis komparatif dua sisi mata uang sindrom euforia yang wajib
 
 ## 2. Hukum Alam Tadarruj: Mengapa Perubahan Wajib Bertahap
 
-
 ![Paradigma Anak Berkehebatan Khusus (ABK): Energi Bakat Ekstrem yang Membutuhkan Kanal Ma'ruf](/assets/slides/slide-anak-kehebatan-khusus.webp)
 *Paradigma Anak Berkehebatan Khusus (ABK): Energi Bakat Ekstrem yang Membutuhkan Kanal Ma'ruf*
-
 
 Al-Qur'an diturunkan secara berangsur-angsur (*tanjim*) selama 23 tahun. Pengharaman khamr tidak terjadi dalam semalam, melainkan melewati empat tahapan edukasi kesadaran. Sayyidah Aisyah radhiyallahu 'anha menjelaskan:
 > *"Sesungguhnya ayat Al-Qur'an yang pertama kali turun adalah surat mufashshal yang menyebutkan tentang surga dan neraka. Hingga tatkala manusia telah mantap memeluk Islam, barulah turun ayat-ayat tentang halal dan haram. Seandainya yang pertama kali turun adalah ayat 'Janganlah kalian meminum khamr!', niscaya mereka akan menjawab: 'Kami tidak akan meninggalkan khamr selamanya!' Dan seandainya yang pertama kali turun adalah ayat 'Janganlah kalian berzina!', niscaya mereka akan menjawab: 'Kami tidak akan meninggalkan zina selamanya!'"* (HR. Bukhari No. 4993).
@@ -89,9 +84,6 @@ Jika generasi terbaik sahabat saja dididik oleh wahyu secara bertahap, bagaimana
 > [!reflection] Refleksi Pendidik: Menakar Keikhlasan Istiqamah
 > - Apakah semangat mendidik anak yang menggebu-gebu hari ini akan tetap bertahan tatkala tahun depan anak kita belum menunjukkan prestasi apa pun?
 > - Apakah kita mendidik anak demi kepuasan nafsu kita melihat "hasil instan", ataukah kita bersabar merawat proses pertumbuhan fitrahnya dengan penuh keteladanan?
-
----
-
 
 ---
 
@@ -163,7 +155,6 @@ Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazal
 
 ---
 
-
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Euforia Pengasuhan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Euforia Pengasuhan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -197,6 +188,23 @@ Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazal
 > - **Materi:** *RECOVERY KESADARAN & PENANGANAN BULLYING*
 >   - 📖 **Rujukan Slide:** Slide Hal. 1–24 (Langkah Pemulihan Kesadaran Fitrah & Penanganan Korban/Pelaku Bullying)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.8 MB)](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=1) • [📊 Unduh PPTX Asli (5.2 MB)](https://www.dropbox.com/scl/fi/2q97p16m307o245u88963/RECOVERY-KESADARAN.pptx?rlkey=p6108u45903o7s26104n982p3&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/f0g93j8z45963o7s5114n/RECOVERY-KESADARAN.pdf?rlkey=q61109u516p7t2n2577q310s5&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] GAGAL TAPI BERHASIL**  
+>   🔗 Sumber Asli: [https://sotabh.com/gagal-tapi-berhasil/](https://sotabh.com/gagal-tapi-berhasil/)  
+>   *Sikap tawadhu menghadapi euforia semu keberhasilan pendidikan.*  
+>
+> - 💡 **[SOTAB] MAJU KENA MUNDUR KENA**  
+>   🔗 Sumber Asli: [https://sotabh.com/maju-kena-mundur-kena/](https://sotabh.com/maju-kena-mundur-kena/)  
+>   *Ketenangan batin di tengah ujian dan dinamika tarbiyah anak.*  
+>
+> - 🏫 **[SKIS] Sepasang Sayap Khouf dan Roja’ dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/](https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/)  
+>   *Menjaga keseimbangan antara optimisme dan kewaspadaan diri.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

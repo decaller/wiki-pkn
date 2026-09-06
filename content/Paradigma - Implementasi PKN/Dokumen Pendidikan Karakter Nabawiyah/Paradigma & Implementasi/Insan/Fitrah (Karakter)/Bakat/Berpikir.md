@@ -8,7 +8,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Berpikir (التَّفْكِيْر - At-Tafkir)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40](/assets/slides/slide-peta-struktur-tb40.webp)
 *Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40*
-
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah, **Bakat Berpikir** adalah hasil persilangan antara **Kutub Introvert** (sumber energi dari perenungan batin mandiri) dan **Dimensi Cipta / Akal** (*Al-'Aql* pada jiwa lawwamah).
 
@@ -150,9 +147,6 @@ Bakat Berpikir membawahi **5 Pilar Karakter Mulia (TB40)** yang terbagi ke dalam
 
 ---
 
-
----
-
 ## 💼 Matriks Panduan Karir Peradaban & Jurusan Studi
 
 Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang)**, berikut adalah panduan praktis penjurusan studi dan orientasi profesi peradaban untuk setiap pilar:
@@ -241,10 +235,6 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[Tamyiz]] — Etape Emas Pembentukan Nalar Kritis dan Literasi Anak.
 * [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Rumpun Berpikir
@@ -273,7 +263,6 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Berpikir di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Berpikir karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -308,6 +297,19 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat cerdas dan analitis (At-Tafkir).*  
+>
+> - 🏫 **[SKIS] Kiat menggali misteri bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kiat-menggali-misteri-bakat/](https://sekolahkarakter.com/kiat-menggali-misteri-bakat/)  
+>   *Mengasah ketajaman firasat, hikmah, dan inovasi anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

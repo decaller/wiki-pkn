@@ -12,7 +12,6 @@ tags:
   - sholih-muslih
 ---
 
-
 # Persepsi Positif: Cetak Biru Siklus Amal Berkelanjutan Menuju Pribadi Sholih & Muslih
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -253,7 +252,6 @@ Ketika pendidik malas membangun Bahasa Hati dan memilih jalan pintas berupa repr
 * [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Tangan|Metode Mendidik: Bahasa Tangan]]
 * [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka Pengasuhan]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Mengapa Banyak Amal Anak Berhenti di Tengah Jalan?
@@ -273,3 +271,19 @@ Ketika pendidik malas membangun Bahasa Hati dan memilih jalan pintas berupa repr
 > * **Aksi Sederhana:** Sebelum meminta anak melakukan kewajiban hari ini (seperti shalat atau merapikan tempat tidur), hadirkan kehangatan terlebih dahulu: berikan senyuman tulus, temani duduk bersama tanpa menggurui, dan ceritakan satu kebaikan Allah yang membuat hatinya takjub dan merasa disayangi.  
 > * **Tujuan:** Merontokkan persepsi negatif di dalam jiwa ananda sehingga perintah kebaikan disambut dengan kelapangan dada dan inisiatif mandiri.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Persepsi**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/persepsi-artikel/](https://karakternabawiyah.com/persepsi-artikel/)  
+>   *Naskah rujukan resmi PKN mengenai pembentukan persepsi positif dan siklus amal berulang.*  
+>
+> - 🌐 **[PKN] Akses Pikiran Bawah Sadar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/akses-pikiran-bawah-sadar/](https://karakternabawiyah.com/akses-pikiran-bawah-sadar/)  
+>   *Mekanisme persepsi bawah sadar dalam membentuk motivasi ibadah jangka panjang.*  
+>
+> - 💡 **[SOTAB] BUKAN JALAN KELUAR, TAPI CARI JALAN KE DALAM**  
+>   🔗 Sumber Asli: [https://sotabh.com/bukan-jalan-keluar-tapi-cari-jalan-kedalam/](https://sotabh.com/bukan-jalan-keluar-tapi-cari-jalan-kedalam/)  
+>   *Melihat ke dalam lubuk hati untuk memperbaiki prasangka dan persepsi diri.*  

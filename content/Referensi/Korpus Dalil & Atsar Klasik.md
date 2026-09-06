@@ -76,3 +76,12 @@ Setiap kali artikel di wiki ini mengutip dalil:
 - **Takhrij Jelas:** Disertakan nama kitab, bab (*kitab/bab*), dan nomor hadits.
 - **Teks Arab Rasm Utsmani:** Menjaga keaslian lafaz wahyu agar tidak terdistorsi oleh terjemahan bebas.
 - **Syarah Mu'tabar:** Penjelasan makna hadits merujuk pada *Fathul Bari* (Ibnu Hajar) atau *Syarah Shahih Muslim* (An-Nawawi).
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Katalog dalil turats Islam klasik rujukan manhaj PKN.*  

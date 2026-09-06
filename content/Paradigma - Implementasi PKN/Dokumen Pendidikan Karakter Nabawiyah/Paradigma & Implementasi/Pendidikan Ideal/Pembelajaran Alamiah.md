@@ -2,7 +2,6 @@
 title: "Pembelajaran Alamiah"
 ---
 
-
 # Pembelajaran Alamiah: Menyelaraskan Pendidikan dengan Sunnatullah Kehidupan
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -29,10 +28,8 @@ title: "Pembelajaran Alamiah"
 
 ## 1. Hakikat Pembelajaran Alamiah
 
-
 ![Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani](/assets/slides/slide-kertas-kosong-vs-fitrah.webp)
 *Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani*
-
 
 **Pembelajaran Alamiah (*Natural Learning*)** adalah paradigma pendidikan yang membebaskan anak dari jeratan pemesinan kurikulum artifisial, lalu mengembalikan mereka kepada ekosistem belajar yang otentik dan selaras dengan sunnatullah fitrah manusia.
 
@@ -172,9 +169,6 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Pembelajaran Alamiah
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -201,7 +195,6 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Pembelajaran Alamiah
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Pembelajaran Alamiah, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -252,6 +245,27 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Bawa sehelai daun atau sebiji batu ke meja makan, amati guratan seratnya bersama anak menggunakan kaca pembesar dan tadabburi keteraturannya.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Ga Perlu Membuat Pembelajaran**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/ga-perlu-membuat-pembelajaran/](https://karakternabawiyah.com/ga-perlu-membuat-pembelajaran/)  
+>   *Menjadikan seluruh denyut keseharian hidup sebagai laboratorium belajar alami.*  
+>
+> - 🌐 **[PKN] Pembelajaran Kemandirian**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/pembelajaran-kemandirian/](https://karakternabawiyah.com/pembelajaran-kemandirian/)  
+>   *Membiasakan anak mengurus diri sendiri dan bertanggung jawab atas amalnya.*  
+>
+> - 🌐 **[PKN] Pembelajaran Agribisnis**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/pembelajaran-agribisnis/](https://karakternabawiyah.com/pembelajaran-agribisnis/)  
+>   *Menghidupkan jiwa kewirausahaan dan keakraban dengan alam sejak belia.*  
+>
+> - 🌐 **[PKN] Pembelajaran Kepedulian Lingkungan**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/pembelajaran-kepedulian-lingkungan/](https://karakternabawiyah.com/pembelajaran-kepedulian-lingkungan/)  
+>   *Mendidik santri beradab menjaga kebersihan dan ekosistem bumi.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

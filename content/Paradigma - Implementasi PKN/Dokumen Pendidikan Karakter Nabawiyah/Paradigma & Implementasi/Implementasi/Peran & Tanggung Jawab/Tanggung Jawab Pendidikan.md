@@ -7,7 +7,6 @@ tags:
   - fardhu_ain
 ---
 
-
 # Tanggung Jawab Asali Pendidikan: Mandat Mutlak di Pundak Orang Tua
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -128,9 +127,6 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Tanggung Jawab Pendidikan
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -157,7 +153,6 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Tanggung Jawab Pendidikan
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Tanggung Jawab Pendidikan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -196,6 +191,19 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Tanggung Jawab Pendidikan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/tanggung-jawab-pendidikan/](https://sekolahkarakter.com/tanggung-jawab-pendidikan/)  
+>   *Naskah rujukan SKIS mengenai mandat mutlak pendidikan anak di pundak orang tua.*  
+>
+> - 🏫 **[SKIS] Syarat Utama Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/syarat-utama-mendidik-anak/](https://sekolahkarakter.com/syarat-utama-mendidik-anak/)  
+>   *Syarat pokok keberhasilan tarbiyah: kesalehan pribadi orang tua dan keteladanan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_paradigma_root.webp]]
 *Gambar: Peradaban Ilmu dan Fondasi Pendidikan Karakter Generasi Gemilang*
-
 
 # Paradigma & Implementasi Pendidikan Karakter Nabawiyah (PKN)
 
@@ -97,8 +95,6 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 * **Ruang Refleksi:**
   * [[Renungan Pengasuhan Nabawiyah]] — Kumpulan tadabbur dan evaluasi diri orang tua.
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Direktori Paradigma & Implementasi
@@ -128,7 +124,6 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Direktori Paradigma & Implementasi
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Direktori Paradigma & Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -146,3 +141,15 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Gerbang utama Paradigma dan Implementasi PKN.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Prinsip-prinsip dasar pendidikan karakter Islam.*  

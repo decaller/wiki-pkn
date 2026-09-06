@@ -83,3 +83,12 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 Untuk mengunduh seluruh koleksi berkas PPTX secara sekaligus atau membuka arsip versi sebelumnya, silakan akses folder resmi OneDrive berikut:
 👉 **[Buka Folder OneDrive Resmi Wiki PKN](https://1drv.ms/f/c/3efe4d3cd3a3788a/IgDcc7tk4xrzRLl5cAMnNZRfAZnQHlpC2x6T2PpXeL_jTzg)**
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Materi tayang presentasi resmi standardisasi lembaga PKN.*  

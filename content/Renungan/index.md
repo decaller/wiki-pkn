@@ -8,10 +8,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_renungan_index.webp]]
 *Gambar: Tafakkur Malam: Merenungi Tanda-Tanda Kebesaran Ilahi*
-
 
 # Renungan Pengasuhan Nabawiyah: Ruang Tadabbur Jiwa Pendidik
 
@@ -39,7 +37,6 @@ Dalam Al-Qur'an, Allah menegaskan pentingnya menatap kembali apa yang telah kita
 >  
 > 📚 **Tafsir Ibnu Katsir (Juz 8 Hal. 78):**  
 > *"Hisablah diri kalian sebelum kalian dihisab pada hari kiamat. Perhatikanlah amal kebajikan dan tanggung jawab yang telah kalian tunaikan, apakah sudah sesuai dengan keridhaan Allah, ataukah sekadar memenuhi hawa nafsu duniawi semata."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8F%D9%91%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D8%A2%D9%85%D9%8E%D9%86%D9%8F%D9%88%D8%A7%20%D8%A7%D8%AA%D9%8E%D9%91%D9%82%D9%8F%D9%88%D8%A7%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8E%20%D9%88%D9%8E%D9%84%D9%92%D8%AA%D9%8E%D9%86%D8%B8%D9%8F%D8%B1%D9%92%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8C%20%D9%85%D9%8E%D9%91%D8%A7&lang=id)Bagi seorang ayah dan ibu, ayat ini menjadi peringatan agung: kelak di yaumul akhir, setiap tarikan nafas, bentakan, pelukan, dan hak anak yang kita tunaikan atau kita telantarkan akan dimintai pertanggungjawaban langsung oleh Sang Pemilik Jiwa.
 
@@ -98,8 +95,6 @@ Akhirilah setiap renungan dengan merendahkan hati di hadapan Allah, memohon agar
 > *"Ya Rabb kami, anugerahkanlah kepada kami pasangan kami dan keturunan kami sebagai penyejuk mata (kami), dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."*  
 > — **QS. Al-Furqan: 74**
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Tafakkur & Renungan
@@ -129,8 +124,6 @@ Akhirilah setiap renungan dengan merendahkan hati di hadapan Allah, memohon agar
 
 ---
 
----
-
 ## Muhasabah Perjalanan Mendidik di Tiap Etape Usia
 
 Setiap etape usia anak adalah amanah tak berulang yang menuntut perenungan mendalam:
@@ -139,7 +132,6 @@ Setiap etape usia anak adalah amanah tak berulang yang menuntut perenungan menda
 2. **Renungan Etape Tamyiz:** Apakah kita mendidik shalat dengan cinta keteladanan, atau sekadar ancaman marah yang membuat mereka menjauhi masjid?
 3. **Renungan Etape Murahaqah:** Apakah kita menjadi teman bicara yang aman saat badai pubertas datang, atau hakim yang selalu memvonis salah?
 4. **Renungan Etape Syabab:** Sudahkah kita melepaskan mereka menjadi rajawali peradaban yang mandiri di hadapan Allah?
-
 
 ---
 
@@ -160,3 +152,15 @@ Setiap etape usia anak adalah amanah tak berulang yang menuntut perenungan menda
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] CINTA DAN KETELADANAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/cinta-dan-keteladanan/](https://sotabh.com/cinta-dan-keteladanan/)  
+>   *Kumpulan risalah renungan pengasuhan hati bagi orang tua dan pendidik.*  
+>
+> - 🏫 **[SKIS] Surga Dunia dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/](https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/)  
+>   *Menemukan kedamaian dan keindahan dalam merawat amanah Ilahi.*  

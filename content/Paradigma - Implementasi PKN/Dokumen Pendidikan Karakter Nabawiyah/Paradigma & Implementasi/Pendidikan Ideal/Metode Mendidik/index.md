@@ -9,10 +9,8 @@ tags:
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_hub_metode_mendidik.webp]]
 *Gambar: Ragam Metode Mendidik Nabawiyah: Keteladanan, Lisan, dan Hikmah*
-
 
 # Metode Mendidik Nabawiyah: Tiga Bahasa Pengasuhan
 
@@ -46,10 +44,8 @@ Inti dari metodologi ini bersandar pada kaidah agung **At-Tadarruj (Pentahapan A
 
 ## 2. Arsitektur Piramida Tiga Bahasa Pengasuhan
 
-
 ![Metode Mendidik Tiga Karakteristik Jiwa Anak](/assets/slides/slide-metode-mendidik-jiwa.webp)
 *Metode Mendidik Tiga Karakteristik Jiwa Anak*
-
 
 PKN merumuskan instrumen komunikasi pendidikan ke dalam **Tiga Bahasa Nabawiyah** yang diterapkan secara hierarkis:
 
@@ -135,9 +131,6 @@ Bila orang tua menyadari telah terjadi salah asuh (menggunakan bahasa tangan seb
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Metode Mendidik Nabawiyah
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -164,7 +157,6 @@ Bila orang tua menyadari telah terjadi salah asuh (menggunakan bahasa tangan seb
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Metode Mendidik Nabawiyah
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Metode Mendidik Nabawiyah, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -195,6 +187,23 @@ Bila orang tua menyadari telah terjadi salah asuh (menggunakan bahasa tangan seb
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Bahasa Hati**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/bahasa-hati/](https://karakternabawiyah.com/bahasa-hati/)  
+>   *Hierarki Tiga Bahasa Pengasuhan Nabawiyah: Hati, Lisan, dan Tangan.*  
+>
+> - 🏫 **[SKIS] BAHASA CINTA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/bahasa-cinta/](https://sekolahkarakter.com/bahasa-cinta/)  
+>   *Pondasi awal komunikasi kasih sayang.*  
+>
+> - 🏫 **[SKIS] DISIPLIN MESIN, HEWAN, DAN MANUSIA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/](https://sekolahkarakter.com/disiplin-mesin-hewan-dan-manusia/)  
+>   *Penegakan aturan syariat secara beradab.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

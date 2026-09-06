@@ -2,7 +2,6 @@
 title: "Tangki Cinta"
 ---
 
-
 # Tangki Cinta: Prasyarat Emosional Penanaman Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -25,15 +24,12 @@ Rasulullah ﷺ adalah figur pendidik agung yang senantiasa memastikan tangki cin
 > 📚 **Syarah Al-Imam An-Nawawi dalam Syarah Shahih Muslim (Juz 15 Hal. 75):**  
 > *"Hadits ini merupakan anjuran agung untuk mencium anak-anak, mengusap kepala mereka, dan memperlakukan mereka dengan kelemahlembutan serta kasih sayang yang mendalam. Sikap kaku dan kasar kepada anak bukanlah tanda ketegasan kepemimpinan, melainkan tanda kekerasan hati yang dijauhkan dari curahan rahmat Allah. Kasih sayang yang ditampakkan secara fisik merupakan hak dasar fitrah anak yang wajib dipenuhi oleh para orang tua."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%8E%D9%86%D9%8E%D9%91%20%D8%A3%D9%8E%D8%A8%D9%8E%D8%A7%20%D9%87%D9%8F%D8%B1%D9%8E%D9%8A%D9%92%D8%B1%D9%8E%D8%A9%D9%8E%20%D8%B1%D9%8E%D8%B6%D9%90%D9%8A%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%86%D9%92%D9%87%D9%8F%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%82%D9%8E%D8%A8%D9%8E%D9%91%D9%84%D9%8E%20%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90&lang=id)---
 
 ## 1. Patologi Tangki Cinta Kosong: Pintu Masuk Kehancuran Karakter
 
-
 ![Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati](/assets/slides/slide-bahasa-hati-0-7.webp)
 *Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati*
-
 
 Anak yang dibesarkan dalam keluarga dengan tangki cinta kering kerontang—meskipun berlimpah fasilitas materi—akan mengalami fenomena **Kelaparan Emosional (*Emotional Hunger*)** dan krisis ketiadaan ayah (*Father Hunger*). Kondisi ini melahirkan kerentanan psikososial yang sangat fatal:
 
@@ -80,9 +76,6 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 > [!reflection] Refleksi Pendidik: Memeriksa Isi Tangki Ananda
 > - Jika hari ini anak kita ditanya: *"Seberapa besar kamu merasa dicintai dan diterima oleh Ayah dan Bunda apa adanya?",* angka berapakah yang akan ia sebutkan (skala 1–10)?
 > - Apakah kita menuntut kepatuhan anak sebelum kita sendiri menuntaskan hak tangki cintanya secara penuh?
-
----
-
 
 ---
 
@@ -143,7 +136,6 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 
 ---
 
-
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Tangki Cinta
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Tangki Cinta, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -173,6 +165,31 @@ Orang tua wajib mengobservasi dan mengenali dialek cinta utama masing-masing ana
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] TAKARAN CINTA**  
+>   🔗 Sumber Asli: [https://sotabh.com/takaran-cinta/](https://sotabh.com/takaran-cinta/)  
+>   *Menakar dosis kasih sayang agar tidak berlebih (manja) dan tidak kurang (haus cinta).*  
+>
+> - 💡 **[SOTAB] RAMUAN CINTA**  
+>   🔗 Sumber Asli: [https://sotabh.com/ramuan-cinta/](https://sotabh.com/ramuan-cinta/)  
+>   *Unsur-unsur pembangun kehangatan hubungan batin orang tua dan anak.*  
+>
+> - 💡 **[SOTAB] SALAH KAPRAH MERAMU CINTA**  
+>   🔗 Sumber Asli: [https://sotabh.com/salah-kaprah-meramu-cinta/](https://sotabh.com/salah-kaprah-meramu-cinta/)  
+>   *Meluruskan kesalahpahaman antara memfasilitasi materi dan mencurahkan cinta.*  
+>
+> - 🏫 **[SKIS] BAHASA CINTA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/bahasa-cinta/](https://sekolahkarakter.com/bahasa-cinta/)  
+>   *Risalah komunikasi cinta nabawiyah di lingkungan keluarga.*  
+>
+> - 💡 **[SOTAB] CINTA YANG TAK MELUKAI**  
+>   🔗 Sumber Asli: [https://sotabh.com/cinta-yang-tak-melukai/](https://sotabh.com/cinta-yang-tak-melukai/)  
+>   *Menjaga kemurnian kasih sayang tanpa menyelipkan luka batin.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -10,7 +10,6 @@ tags:
   - pengasuhan-nabawiyah
 ---
 
-
 # Hak Ananda yang Tak Tertuntaskan: Hak Main Anak 9 Tahun
 
 Kita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya selengkap mungkin. Tapi apakah kita pernah merenungi kebalikannya? Hak main anak 9 tahun?
@@ -142,8 +141,6 @@ Pada akhirnya mari kita tuntaskan hak ananda untuk belajar mengenai alam : berik
 
 Jangan salahkan ananda jika mereka enggan dalam melaksanakan kewajibannya, hanya disiplin saat ada yang mengawasi, kembali ke ‘setelan’ di tempat masing-masing; apabila haknya tidak dipenuhi. Mereka tidak kekurangan pemahaman akan pahala dan dosa, tapi pondasi beramal mereka, kesadaran akan Sang Pencipta, rapuh bahkan terluka. Sehingga mereka bukan beramal dari hati, melainkan dari mata. Jika tanda-tanda itu ada, mereka akan patuh, jika tanda itu hilang, mereka akan mengikuti hatinya yang masih mengekor kepada hawa nafsu. Bukan nasihat yang mereka butuhkan, karena ; sekali lagi ; mereka sudah paham dan mengerti, hanya dorongan berupa kesadaran untuk beramal yang memang belum ada.
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Hak dan Kewajiban Insani
@@ -170,8 +167,6 @@ Jangan salahkan ananda jika mereka enggan dalam melaksanakan kewajibannya, hanya
    Mengajak anak berdiskusi santai mengenai hakikat penciptaan manusia, kasih sayang Allah yang melimpah, dan indahnya ampunan bagi hamba yang bertaubat.
 4. **Fase 4: Pembiasaan Amal & Keteladanan Nyata (Pekan 3 dst)**  
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
-
----
 
 ---
 
@@ -210,7 +205,6 @@ Keadilan syariat tampak pada proporsi perimbangan antara hak dan kewajiban anak 
 
 ![[canvas/Hak dan Kewajiban - Visualisasi Neraca Keadilan Hak dan Kewajiban Anak.canvas]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Hak dan Kewajiban Insani
@@ -230,6 +224,18 @@ Keadilan syariat tampak pada proporsi perimbangan antara hak dan kewajiban anak 
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] CINTA DAN KETELADANAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/cinta-dan-keteladanan/](https://sotabh.com/cinta-dan-keteladanan/)  
+>   *Keseimbangan adil antara hak anak mendapatkan cinta dan penunaian kewajiban amalnya.*  
+>
+> - 🏫 **[SKIS] Anak Bukanlah Kertas Kosong**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/](https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/)  
+>   *Memenuhi hak bermain dan hak fitrah anak sebelum menuntut kewajiban syar'i.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

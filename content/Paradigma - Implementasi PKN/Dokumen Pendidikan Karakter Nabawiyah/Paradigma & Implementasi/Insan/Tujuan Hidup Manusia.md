@@ -2,7 +2,6 @@
 title: "Tujuan Hidup Manusia"
 ---
 
-
 # Tujuan Hidup Manusia
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -48,7 +47,6 @@ Referensi: <https://tafsirweb.com/9952-surat-az-zariyat-ayat-56.html>
 
 Sejatinya tujuan penciptaan manusia adalah untuk beribadah kepada Allah Subhanahu wa Ta'ala.
 
-
 ### Menjadi Khalifah di Muka Bumi
 
 > **وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي جَاعِلٌ فِي الاَرْضِ خَلِيفَةً**
@@ -69,9 +67,7 @@ Referensi: <https://tafsirweb.com/2289-surat-al-anam-ayat-165.html>
 
 Tujuan penciptaan manusia sebagai khalifah tersebut berkaitan dengan kinerja manusia di muka bumi, untuk memakmurkannya dan dilarang untuk berbuat kerusakan di dalamnya. 
 
-
 # Tujuan Hidup Manusia
-
 
 <div style="position: relative; width: 100%; max-width: 640px; margin: 1.5rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.12);">
   <iframe
@@ -86,8 +82,6 @@ Tujuan penciptaan manusia sebagai khalifah tersebut berkaitan dengan kinerja man
 </div>
 
 *🎬 Animasi interaktif — gunakan tombol ▶ / ⏩ / ⏮ di bagian bawah untuk menavigasi langkah-langkah diagram. [Buka layar penuh ↗](https://pub.insantaqwa.org/tujuan_hidup.html)*
-
-
 
 ## Menjadikan Individu Sholih
 
@@ -129,7 +123,6 @@ Keberadaan kedua nash tersebut menuntun kita agar berperilaku akhlak mulia, seba
 
 ###  
 
-
 > [!success]
 > #### Implementasi
 > 
@@ -153,7 +146,6 @@ Keberadaan kedua nash tersebut menuntun kita agar berperilaku akhlak mulia, seba
 > 
 >     \
 > 
-
 
 > [!warning]
 > #### Risiko Trauma
@@ -199,7 +191,6 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 
 ###   
 
-
 > [!success]
 > #### Implementasi
 > 
@@ -217,11 +208,9 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 >   * Dicari dan ditumbuhkan bakatnya untuk mempersiapkan perannya setelah balig kelak
 > 
 
-
 \
 
 ---
-
 
 > [!tip]
 > Pembahasan Terkait
@@ -232,11 +221,8 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 
 ---
 
-
-
 ![Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya](/assets/slides/slide-fase-perkembangan-tujuan.webp)
 *Akan Dijadikan Apa Anak Kita? Pendidikan Sesuai Maksud Penciptaannya*
-
 
 ---
 
@@ -266,7 +252,6 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tujuan Hidup Manusia
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
@@ -323,6 +308,23 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 ## Visualisasi Arsitektur Visi Kehidupan: 'Ibadah & Khilafah
 
 ![[canvas/Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa.canvas]]
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Termaktub Dalam Salah Satu Lembar KitabNya**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/termaktub-dalam-salah-satu-lembar-kitabnya/](https://karakternabawiyah.com/termaktub-dalam-salah-satu-lembar-kitabnya/)  
+>   *Menegaskan orientasi mutlak manusia diciptakan untuk beribadah dan memakmurkan bumi.*  
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Kemerdekaan hakiki insan dalam penghambaan total kepada Allah.*  
+>
+> - 🏫 **[SKIS] Surga Dunia dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/](https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/)  
+>   *Meraih ketenangan batin dalam mendidik anak menuju ridha Allah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

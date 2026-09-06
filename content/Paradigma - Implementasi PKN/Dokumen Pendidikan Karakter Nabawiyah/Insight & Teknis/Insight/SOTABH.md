@@ -7,10 +7,8 @@ tags:
   - rukun-3a
 ---
 
-
 ![[assets/banners/banner_sotabh.webp]]
 *Gambar: SOTABH: Menemukan dan Mengembangkan Bakat Nabawiyah Berbasis Fitrah*
-
 
 # SOTABH: State of the Art Belajar Hati
 
@@ -112,8 +110,6 @@ Pembaca dapat menelusuri artikel pendalaman dari arsip resmi SOTAB HEBAT di dire
 * *Membasuh Luka Pengasuhan Diri* (`2025-11-19-membasuh-luka-pengasuhan-diri.md`)
 * *Bahasa Hati Bukan Pembiaran* (`2025-12-26-bahasa-hati-bukan-pembiaran.md`)
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam SOTABH (School of Talent and Bakat)
@@ -140,8 +136,6 @@ Pembaca dapat menelusuri artikel pendalaman dari arsip resmi SOTAB HEBAT di dire
    Memangkas birokrasi yang membebani dan memfokuskan energi pada penguatan interaksi *Bahasa Hati* dan *Bahasa Lisan*.
 4. **Fase 4: Pembiasaan Budaya Mutu & Pendampingan Konsisten (Bulan 2 dst)**  
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
-
----
 
 ---
 
@@ -173,7 +167,6 @@ Observasi bakat SOTABH (*Sifat, Observasi, Temu Bakat HEBAT*) mengikuti tahapan 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Amati dan catat satu aktivitas anak hari ini yang memenuhi ketiga kriteria Rukun 3A secara alami.
 
-
 ---
 
 > [!info] Refleksi Lapangan: Realitas Penerapan SOTABH (School of Talent and Bakat)
@@ -193,6 +186,26 @@ Observasi bakat SOTABH (*Sifat, Observasi, Temu Bakat HEBAT*) mengikuti tahapan 
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Paradigma revolusioner Belajar Hati: anak adalah benih hidup yang tumbuh mekar.*  
+>
+> - 💡 **[SOTAB] SATU ANAK SATU KURIKULUM**  
+>   🔗 Sumber Asli: [https://sotabh.com/satu-anak-satu-kurikulum/](https://sotabh.com/satu-anak-satu-kurikulum/)  
+>   *Kaidah keadilan tarbiyah: menghargai keunikan rancang bangun fitrah setiap anak.*  
+>
+> - 💡 **[SOTAB] KAMI AJARKAN HURUF, TAPI LUPA MENUMBUHKAN HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kami-ajarkan-huruf-tapi-lupa-menumbuhkan-hati/](https://sotabh.com/kami-ajarkan-huruf-tapi-lupa-menumbuhkan-hati/)  
+>   *Kritik pedas pengajaran huruf dan teks yang melupakan penanaman adab kalbu.*  
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Metodologi observasi 3A SOTAB HEBAT dalam memvalidasi panggilan bakat anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

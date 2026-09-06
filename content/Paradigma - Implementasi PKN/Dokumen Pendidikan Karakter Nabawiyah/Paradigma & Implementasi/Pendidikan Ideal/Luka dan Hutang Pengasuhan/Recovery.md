@@ -2,7 +2,6 @@
 title: "Recovery"
 ---
 
-
 # Recovery: Metodologi Pemulihan Fitrah & Luka Hati
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -37,10 +36,8 @@ Pemulihan ini berpijak pada kaidah dasar bahwa fitrah manusia pada dasarnya cond
 
 ## 2. Metode EMISOL: Tiga Pilar Pemulihan
 
-
 ![Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu](/assets/slides/slide-akhlak-tercela-hutang.webp)
 *Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu*
-
 
 Kerangka utama recovery dijalankan melalui tiga tahapan terstruktur yang disebut **EMISOL**:
 
@@ -158,10 +155,6 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
 * [[8 Standar Implementasi PKN]] — Kerangka sistem penjaminan mutu kelembagaan dan audit berkala.
 * [[Panduan RPP dan Observasi Lapangan]] — Instrumen kuisioner penilaian pertumbuhan karakter dan formula indeks.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Recovery Jiwa
@@ -190,7 +183,6 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Recovery Jiwa
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Recovery Jiwa, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -260,6 +252,27 @@ Waktu intervensi pemulihan luka pengasuhan menentukan kecepatan restorasi fitrah
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Tulis surat pendek berisi permohonan maaf dan ungkapan kasih sayang, selipkan di bawah bantal anak Anda malam ini.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] RECOVERY KARAKTER BERBASIS FITRAH**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/recovery-karakter-berbasis-fitrah/](https://sekolahkarakter.com/recovery-karakter-berbasis-fitrah/)  
+>   *Manual komprehensif restorasi karakter anak berbasis kemurnian fitrah.*  
+>
+> - 💡 **[SOTAB] MENGHAPUS NODA HATI (Bagian 9: Pemulihan luka hati)**  
+>   🔗 Sumber Asli: [https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/](https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/)  
+>   *Panduan klinis pengasuhan dalam memulihkan luka batin.*  
+>
+> - 💡 **[SOTAB] MENGHAPUS NODA HATI (Bagian 5: Menabur obat luka hati)**  
+>   🔗 Sumber Asli: [https://sotabh.com/menghapus-noda-hati-bagian-5-menabur-obat-luka/](https://sotabh.com/menghapus-noda-hati-bagian-5-menabur-obat-luka/)  
+>   *Menabur obat penerimaan dan ketulusan untuk menyembuhkan luka hati.*  
+>
+> - 🌐 **[PKN] Buku Recovery Berbasis Fitrah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/)  
+>   *Buku panduan resmi Recovery Berbasis Fitrah karya Ustadz Abdul Kholiq.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

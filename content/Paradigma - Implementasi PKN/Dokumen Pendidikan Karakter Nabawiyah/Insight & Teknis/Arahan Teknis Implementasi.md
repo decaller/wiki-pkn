@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_arahan_teknis.webp]]
 *Gambar: Peta Jalan dan Panduan Teknis Pelaksanaan di Lapangan*
-
 
 # Arahan Teknis Implementasi: Pedoman Operasional Pengasuhan Nabawiyah
 
@@ -83,8 +81,6 @@ Gunakan instrumen sederhana berikut untuk mencatat potensi bawaan lahir anak:
 * Pelajari panduan penegakan disiplin dalam [[Bahasa Tangan]] dan [[Batas Toleransi]].
 * Pelajari kurikulum pelatihan orang tua dalam [[SOTABH]].
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Arahan Teknis Implementasi
@@ -114,7 +110,6 @@ Gunakan instrumen sederhana berikut untuk mencatat potensi bawaan lahir anak:
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Arahan Teknis Implementasi
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Arahan Teknis Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -132,6 +127,18 @@ Gunakan instrumen sederhana berikut untuk mencatat potensi bawaan lahir anak:
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Konsep Ideal ke Praktik Nyata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/](https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/)  
+>   *Petunjuk teknis operasional penataan jadwal harian dan adab santri.*  
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Checklist teknis kesiapan lembaga mengadopsi manhaj PKN.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -9,10 +9,8 @@ tags:
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_hub_pendidikan_ideal.webp]]
 *Gambar: Cita-Cita Pendidikan Ideal Berdasarkan Manhaj Kenabian*
-
 
 # Pendidikan Ideal Nabawiyah: Menautkan Akil dan Baligh Menuju Generasi Peradaban
 
@@ -35,10 +33,8 @@ description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakte
 
 ## 1. Hakikat Pendidikan Ideal: Rekonstruksi Paradigma Akil-Baligh
 
-
 ![Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal](/assets/slides/slide-piramida-pendidikan.webp)
 *Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal*
-
 
 Pendidikan Ideal dalam Pendidikan Karakter Nabawiyah (PKN) berakar pada satu misi sentral: **Mengantarkan anak mencapai kedewasaan mental, spiritual, dan sosial (*Akil*) tepat bersamaan dengan datangnya kedewasaan biologis (*Baligh*)**.
 
@@ -56,10 +52,8 @@ Pendidikan Ideal Nabawiyah menolak pengkastaan generasi "buih" (*ghutsa'*). Anak
 
 ## 2. Teladan Rasulullah ﷺ Membangun Generasi Terbaik
 
-
 ![Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)](/assets/slides/slide-prioritas-iman-quran.webp)
 *Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)*
-
 
 Rasulullah ﷺ diutus kepada bangsa Arab jahiliyah yang terpecah-belah, buta huruf, dan menyembah berhala. Dalam kurun waktu hanya 23 tahun, melalui metode pendidikan berbasis fitrah dan masjid, beliau berhasil mentransformasikan lebih dari 120.000 manusia menjadi generasi paling agung sepanjang sejarah manusia:
 
@@ -144,9 +138,6 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Pendidikan Ideal
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -173,7 +164,6 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Pendidikan Ideal
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Pendidikan Ideal, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -204,6 +194,23 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Konsep Ideal ke Praktik Nyata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/](https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/)  
+>   *Paradigma kurikulum Pendidikan Ideal Nabawiyah menuju kematangan akil baligh.*  
+>
+> - 🏫 **[SKIS] Kuatkan Akar Pendidikan Pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/](https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/)  
+>   *Pentingnya mengokohkan pondasi adab dan akidah anak.*  
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Menumbuhkan potensi anak secara alamiah sesuai sunnatullah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

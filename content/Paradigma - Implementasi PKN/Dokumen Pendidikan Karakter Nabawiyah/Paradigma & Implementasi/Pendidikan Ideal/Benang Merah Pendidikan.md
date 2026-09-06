@@ -8,7 +8,6 @@ tags:
   - restorasi_pendidikan
 ---
 
-
 # Benang Merah Pendidikan: Kritik Sistem Pabrik Modern & Restorasi Fitrah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Kritik Paradigma Pendidikan Modern Model Pabrik (Prussian Schooling)
 
-
 ![Filosofi Pendidikan Karakter: Mendidik Anak Seperti Bertani Merawat Benih Fitrah](/assets/slides/slide-mendidik-seperti-bertani.webp)
 *Filosofi Pendidikan Karakter: Mendidik Anak Seperti Bertani Merawat Benih Fitrah*
-
 
 Sistem persekolahan massal yang mendominasi dunia hari ini lahir dari revolusi industri abad ke-19 (Model Prusia) yang didesain bukan untuk memuliakan fitrah manusia, melainkan untuk **mencetak pekerja pabrik dan birokrat yang patuh, seragam, dan mudah diatur**:
 * **Standarisasi Kaku:** Jam masuk berbunyi lonceng bagaikan pabrik, murid dibagi berdasarkan usia (tahun produksi), dan dinilai dari kepatuhan duduk diam berjam-jam mendengarkan instruksi satu arah.
@@ -167,10 +164,6 @@ ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
 * [[Pembelajaran Alamiah]] — Model Pembelajaran Alami Non-Formal.
 * [[Peran Ayah dan Bunda]] — Sinergi Kepemimpinan Pengasuhan Rumah Tangga.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Benang Merah Pendidikan
@@ -199,7 +192,6 @@ ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Benang Merah Pendidikan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Benang Merah Pendidikan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -230,6 +222,27 @@ ightarrow$ Amal) diterapkan berkesinambungan lintas etape:
 > - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] BENALU PENDIDIKAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/benalu-pendidikan/](https://sotabh.com/benalu-pendidikan/)  
+>   *Kritik tajam penyakit kurikulum modern yang menjerat dan melemahkan fitrah anak.*  
+>
+> - 🏫 **[SKIS] Kuatkan Akar Pendidikan Pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/](https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/)  
+>   *Menancapkan akar akidah dan adab sebelum menuntut buah prestasi akademis.*  
+>
+> - 🏫 **[SKIS] Anak Bukanlah Kertas Kosong**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/](https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/)  
+>   *Penegasan fitrah asali anak dalam pendidikan Islam.*  
+>
+> - 🏫 **[SKIS] Surga Dunia dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/](https://sekolahkarakter.com/surga-dunia-dalam-mendidik-anak/)  
+>   *Menemukan kebahagiaan proses tarbiyah di rumah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

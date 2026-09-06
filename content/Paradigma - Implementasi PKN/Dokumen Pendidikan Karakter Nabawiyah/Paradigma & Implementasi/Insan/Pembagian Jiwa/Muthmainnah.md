@@ -2,7 +2,6 @@
 title: "Nafsul Muthmainnah"
 ---
 
-
 # Nafsul Muthmainnah: Puncak Kedamaian Jiwa dan Kematangan Iman
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -24,7 +23,6 @@ Pendidikan Karakter Nabawiyah menegaskan bahwa kepribadian anak yang tangguh, be
 >  
 > 📚 **Takhrij & Analisis Ibnul Qayyim dalam Madarijus Salikin (Juz 1 Hal. 302):**  
 > *"Nafs tidak akan mencapai thuma'ninah yang hakiki melainkan dengan tiga perkara: (1) Thuma'ninah dalam tauhid dan keikhlasan, sehingga ia tidak menyekutukan Allah dengan apa pun; (2) Thuma'ninah dalam asma' wa shifat-Nya, sehingga hatinya tenang bersandar pada takdir dan ketetapan-Nya; serta (3) Thuma'ninah dalam hukum dan syariat-Nya, sehingga dadanya lapang menerima segala perintah dan larangan tanpa ada rasa keberatan sedikit pun. Jiwa inilah yang selamat dari siksa dan berhak dipanggil pulang dengan kemuliaan."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%8A%D9%8E%D8%A7%20%D8%A3%D9%8E%D9%8A%D9%8E%D9%91%D8%AA%D9%8F%D9%87%D9%8E%D8%A7%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8F%D8%B7%D9%92%D9%85%D9%8E%D8%A6%D9%90%D9%86%D9%8E%D9%91%D8%A9%D9%8F%20%DB%9D%20%D8%A7%D8%B1%D9%92%D8%AC%D9%90%D8%B9%D9%90%D9%8A%20%D8%A5%D9%90%D9%84%D9%8E%D9%89%D9%B0%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%90%20%D8%B1%D9%8E%D8%A7%D8%B6%D9%90%D9%8A%D9%8E%D8%A9%D9%8B&lang=id)---
 
@@ -88,9 +86,6 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Jiwa Muthmainnah
 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -148,11 +143,8 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 
 ---
 
-
-
 ![Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak](/assets/slides/slide-sholat-barometer.webp)
 *Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak*
-
 
 ---
 
@@ -185,6 +177,19 @@ Nasihat ini tidak diberikan dalam suasana kelas formal yang kaku, melainkan di a
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Mencapai derajat ketenteraman jiwa muthmainnah melalui tazkiyah.*  
+>
+> - 🏫 **[SKIS] Cara Mendidik hati anak agar tumbuh keikhlasan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/](https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/)  
+>   *Menanamkan benih keikhlasan murni di lubuk kalbu anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

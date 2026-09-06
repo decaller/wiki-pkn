@@ -119,7 +119,18 @@ Setiap artikel materi wajib mengikuti urutan baku penempatan elemen demi penyera
    - `> [!warning] Peringatan Risiko: Jebakan Formalitas & Tafrith-Ifrath ...`
    - `> [!tip] Rekomendasi Solusi & Aksi Praktis ...`
 7. **Sitasi Rujukan Resmi:** `> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN` (narasumber, dokumen standar, dan korpus dalil).
-8. **Media Presentasi & Slide Interaktif (Office Web Apps):** Disematkan sebagai **elemen mutlak paling akhir di halaman** (`<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`). Pemutar iframe tidak boleh disisipkan di tengah atau atas agar pembacaan teks nyaman tanpa layout shift.
+8. **Media Presentasi & Slide Interaktif (Office Web Apps):** Disematkan sebagai **elemen mutlak paling akhir di halaman** (`
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Pedoman integritas penulisan dan kontribusi kurikulum karakter.*  
+
+<!-- START_OFFICE_PPTX_EMBED -->` s/d `<!-- END_OFFICE_PPTX_EMBED -->`). Pemutar iframe tidak boleh disisipkan di tengah atau atas agar pembacaan teks nyaman tanpa layout shift.
 
 > 📚 **Template Baku Siap Pakai:**  
 > Untuk format kode salin-tempel lengkap, buka direktori template resmi: [[Template/index|Standar Template Wiki PKN]], [[Template Tema]], dan [[Template Elemen Karakteristik]].

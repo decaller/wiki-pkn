@@ -2,7 +2,6 @@
 title: "Fitrah Keimanan"
 ---
 
-
 # Fitrah Keimanan: Belajar Iman Sebelum Belajar Al-Qur'an
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -25,7 +24,6 @@ Oleh karena itu, iman bukanlah benda asing yang harus diimpor atau dipaksakan da
 > 📚 **Syarah Al-Hafizh Ibnu Rajab Al-Hanbali dalam Fathul Bari (Juz 1 Hal. 22):**  
 > *"Jundub bin Abdillah radhiyallahu 'anhu menjelaskan manhaj tarbiyah para sahabat di bawah bimbingan Rasulullah ﷺ: mereka menanamkan ma'rifatullah (mengenal Allah), rasa cinta kepada-Nya, takut akan siksa-Nya, dan harapan akan rahmat-Nya ke dalam kalbu anak-anak. Tatkala wadah kalbu tersebut telah dipenuhi oleh cahaya keimanan, barulah ayat-ayat Al-Qur'an yang memuat perintah, larangan, janji, dan ancaman dituangkan ke dalamnya, sehingga Al-Qur'an itu langsung menyatu dan mengokohkan bangunan iman mereka."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%86%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%B9%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A8%D9%90%D9%8A%D9%90%D9%91%20%D8%B5%D9%8E%D9%84%D9%8E%D9%91%D9%89%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%87%D9%90%20%D9%88%D9%8E%D8%B3%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D9%88%D9%8E%D9%86%D9%8E%D8%AD%D9%92%D9%86%D9%8F%20%D9%81%D9%90%D8%AA%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8C&lang=id)---
 
 ## 1. Patologi Pendidikan Agama Kontemporer: Membalik Kaidah Emas
@@ -43,10 +41,8 @@ Jika anak diajarkan Al-Qur'an sebelum iman tertanam:
 
 ## 2. Tahapan Penanaman Fitrah Keimanan Berbasis Usia
 
-
 ![Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)](/assets/slides/slide-prioritas-iman-quran.webp)
 *Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)*
-
 
 Pendidikan Karakter Nabawiyah menyelaraskan kurikulum keimanan dengan etape perkembangan psikologis anak:
 
@@ -76,9 +72,6 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 > [!reflection] Refleksi Pendidik: Memeriksa Akar Keimanan Keluarga
 > - Apakah ananda mencintai ibadah shalat karena merasa rindu berjumpa dengan Allah, ataukah mereka shalat semata-mata karena takut pada ancaman dan kemarahan kita?
 > - Sudahkah kita mengajarkan mereka mengenal betapa agung dan penyayangnya Allah sebelum kita menuntut mereka menghafal rincian aturan agama?
-
----
-
 
 ---
 
@@ -117,7 +110,6 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 * [[Thufulah]] — Fase keemasan penyemaian cinta Allah dan Rasul-Nya (0–7 tahun).
 * [[Tamyiz]] — Etape penegakan shalat dan logika tauhid (7–10 tahun).
 
-
 ---
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Fitrah Keimanan
@@ -137,3 +129,19 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] JANGAN MEMBEBANI IMAN ANAK**  
+>   🔗 Sumber Asli: [https://sotabh.com/jangan-membebani-iman-anak/](https://sotabh.com/jangan-membebani-iman-anak/)  
+>   *Menjaga kemurnian fitrah tauhid anak tanpa doktrinasi kaku melampaui usianya.*  
+>
+> - 🏫 **[SKIS] Cara Mendidik hati anak agar tumbuh keikhlasan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/](https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/)  
+>   *Menumbuhkan kecintaan beribadah atas dorongan ikhlas karena Allah.*  
+>
+> - 💡 **[SOTAB] CINTA DAN KETELADANAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/cinta-dan-keteladanan/](https://sotabh.com/cinta-dan-keteladanan/)  
+>   *Keteladanan nyata orang tua sebagai pintu gerbang keimanan anak.*  

@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_perkembangan.webp]]
 *Gambar: Tahapan Perkembangan Fitrah Menuju Usia Baligh dan Taklif*
-
 
 # Karakter Perkembangan: Peta Jalan Menuju Aqil-Baligh
 
@@ -35,10 +33,8 @@ tags:
 
 ## 1. Landasan Syariat & Sunnatullah Perkembangan
 
-
 ![Masa Emas Pertumbuhan Fitrah Anak (0-7 th, 7-10 th, 10-14 th, 15+ th)](/assets/slides/slide-golden-age-pertumbuhan.webp)
 *Masa Emas Pertumbuhan Fitrah Anak (0-7 th, 7-10 th, 10-14 th, 15+ th)*
-
 
 Pendidikan Karakter Nabawiyah (PKN) memandang bahwa setiap anak melewati tahapan perkembangan fitrah yang tidak boleh dilompati (*sunnatullah tadarruj*). Landasan dasarnya berpijak pada dua hadits agung:
 
@@ -104,9 +100,6 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Tahapan Perkembangan Fitrah
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -133,7 +126,6 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Tahapan Perkembangan Fitrah di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Tahapan Perkembangan Fitrah karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -164,6 +156,27 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Perkembangan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-perkembangan/](https://sekolahkarakter.com/karakter-perkembangan/)  
+>   *Peta komprehensif penahapan etape usia fitrah manusia menurut Manhaj Nabawi.*  
+>
+> - 🏫 **[SKIS] Sekilas Pandang usia 0-7 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/](https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/)  
+>   *Etape awal pengisian cinta kasih.*  
+>
+> - 🏫 **[SKIS] Pendidikan Karakter Usia 7-10 Tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/](https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/)  
+>   *Etape pembiasaan disiplin sukarela.*  
+>
+> - 🏫 **[SKIS] Pendidikan Karakter Usia Aqil Baligh**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/](https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/)  
+>   *Etape penyempurnaan akil baligh.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

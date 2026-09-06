@@ -7,10 +7,8 @@ tags:
   - tanya-jawab
 ---
 
-
 ![[assets/banners/banner_faq_ringkas.webp]]
 *Gambar: Pelita Jawaban atas Pertanyaan Fundamental PKN*
-
 
 # FAQ Ringkas: Tanya Jawab Pendidikan Karakter Nabawiyah
 
@@ -131,8 +129,6 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
 * Orang tua berperan menyaring pengaruh negatif sekolah, mengimbangi kelelahan akademik anak dengan kehangatan rumah, dan membangun **[[Imunitas Sosial]]** agar anak kokoh di tengah pergaulan majemuk.
 * Bagi pengelola sekolah, prinsip-prinsip PKN dapat diintegrasikan sebagai ruh budaya madrasah melalui panduan **[[Peran Guru dan Lembaga Pendidikan]]**.
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam FAQ Pertanyaan Kunci PKN
@@ -162,8 +158,6 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
 
 ---
 
----
-
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Ceklist Diagnostik Masalah Parenting Harian
@@ -187,7 +181,6 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
 
 ![[canvas/FAQ Ringkas - Visualisasi Pohon Keputusan Problem Pengasuhan Cepat.canvas]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Realitas Penerapan FAQ Pertanyaan Kunci PKN
@@ -207,6 +200,18 @@ Tidak. PKN adalah **paradigma cara pandang manusia**, bukan semata format teknis
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Tanya Jawab TEKNIK PENDIDIKAN POST AQIL BALIGH USIA> 15 TAHUN**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/tanya-jawab-teknik-pendidikan-post-aqil-baligh-usia-15-tahun/](https://sekolahkarakter.com/tanya-jawab-teknik-pendidikan-post-aqil-baligh-usia-15-tahun/)  
+>   *Tanya jawab seputar pendampingan pemuda pasca-aqil baligh 15 tahun ke atas.*  
+>
+> - 🏫 **[SKIS] Tanya jawab Konsep Pendidikan Post Aqil Baligh Usia > 15 TAHUN**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/tanya-jawab-konsep-pendidikan-post-aqil-baligh-usia-15-tahun/](https://sekolahkarakter.com/tanya-jawab-konsep-pendidikan-post-aqil-baligh-usia-15-tahun/)  
+>   *Tanya jawab konsep pendidikan mandiri dan penjurusan bakat.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

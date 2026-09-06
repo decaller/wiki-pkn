@@ -9,7 +9,6 @@ tags:
 description: "Kajian komprehensif Master Katalog Dalil Al-Quran dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_katalog_quran.webp]]
 *Gambar: Katalog Dalil Al-Qur'anul Karim*
 
@@ -1847,3 +1846,12 @@ Dokumen ini merupakan hasil **pencarian dan pemetaan ulang secara menyeluruh (ex
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D8%B2%D9%8E%D9%91%D9%84%D9%92%D9%86%D9%8E%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%A7%D9%84%D9%92%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%8E%20%D8%AA%D9%90%D8%A8%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8B%D8%A7%20%D9%84%D9%90%D9%91%D9%83%D9%8F%D9%84%D9%90%D9%91%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8D%20%D9%88%D9%8E%D9%87%D9%8F%D8%AF%D9%8B%D9%89%20%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8B&lang=id)
 
 ---
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Rujukan ayat-ayat Al-Qur'an dalam korpus dalil manhaj PKN.*  

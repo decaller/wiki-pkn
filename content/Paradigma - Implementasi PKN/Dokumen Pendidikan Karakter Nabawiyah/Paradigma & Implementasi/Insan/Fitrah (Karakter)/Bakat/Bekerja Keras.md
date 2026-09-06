@@ -8,7 +8,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Bekerja Keras (الحَمَاسَة - Al-Hamasah)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)](/assets/slides/slide-matriks-polarisasi-bakat.webp)
 *Matriks Silsilah 6 Rumpun Bakat: Introvert (Sirr) vs Extrovert ('Alaniyah)*
-
 
 Dalam taksonomi Pendidikan Karakter Nabawiyah (PKN), **Bekerja Keras** merupakan persilangan antara **Kutub Introvert** (dorongan energi yang bersumber dari konsentrasi internal mandiri) dan **Dimensi Karsa / Jasad** (*Al-Hawa* yang telah ditundukkan oleh syariat pada jiwa ammarah). 
 
@@ -106,8 +103,6 @@ Bakat Bekerja Keras membawahi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke 
   * *Tafrith (Lalai):* **Dzull (الذُّلّ)** — Jiwa lemah, minder, mudah diintimidasi kebatilan. *Kuratif:* Penguatan tauhid rububiyah dan pilar *Syajaa'ah*.
   * *Ifrath (Berlebih):* **Kibr (الكِبْر)** — Angkuh, menolak kebenaran dan merendahkan manusia. *Kuratif:* Diimbangi dengan pilar *Tawaadhu'* dan *Hayaa'*.
 
-
-
 ---
 
 ### Pilar #04: Waqaar (الوَقَار - Wibawa Ketenangan)
@@ -121,8 +116,6 @@ Bakat Bekerja Keras membawahi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke 
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Thaysy (الطَّيْش)** — Sikap serampangan, banyak bercanda tidak pada tempatnya, hilang wibawa. *Kuratif:* Latihan adab diam (*Shamt*) dan tafakkur.
   * *Ifrath (Berlebih):* **'Ujb (العُجْب)** — Merasa diri paling suci dan menjaga jarak dingin dari orang lain. *Kuratif:* Pelatihan kehangatan (*Basyaasyah*) dan kerendahhatian (*Tawaadhu'*).
-
-
 
 ---
 
@@ -138,8 +131,6 @@ Bakat Bekerja Keras membawahi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke 
   * *Tafrith (Lalai):* **Kasal (الكَسَل)** — Menunda pekerjaan, ragu melangkah, berat memulai. *Kuratif:* Pemecahan tugas besar menjadi modul kecil dan pendampingan *Bahasa Tangan* terstruktur.
   * *Ifrath (Berlebih):* **Tahawwur (التَّهَوُّر)** — Nekat bertindak tanpa perhitungan syariat dan strategi. *Kuratif:* Wajib musyawarah dan penanaman pilar *Anaah* (kehati-hatian).
 
-
-
 ---
 
 ### Pilar #06: Nasyaath (النَّشَاط - Ketekunan Eksekusi)
@@ -153,9 +144,6 @@ Bakat Bekerja Keras membawahi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke 
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Khumuul (الخُمُوْل)** — Lesu, pasif, lamban dalam bergerak. *Kuratif:* Olahraga sunnah (memanah, berenang, bela diri) untuk memicu adrenalin gerak.
   * *Ifrath (Berlebih):* **Irhāq (الإِرْهَاق)** — *Workaholic*, memforsir tubuh hingga melanggar hak istirahat, hak keluarga, dan hak ibadah. *Kuratif:* Menegakkan hadits Salman Al-Farisi: *"Sesungguhnya tubuhmu memiliki hak atasmu."*
-
----
-
 
 ---
 
@@ -252,9 +240,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Rumpun Bekerja Keras
 
 | Dimensi Daya Juang | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -281,7 +266,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Saat liburan sekolah, Daffa dimagangkan di bengkel motor milik kerabat selama 2 pekan. Merasakan sendiri beratnya mencari uang halal Rp 50.000 sehari. Sikap Daffa berubah drastis menjadi santun, hemat, dan ringan tangan membantu keluarga.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Gejala Sindrom Anak Rapuh (*Strawberry Generation*)
 > **Kondisi Faktual:** Anak zaman sekarang mudah menyerah saat menghadapi kesulitan tugas sekolah, menangis ketika dikritik sedikit oleh guru, dan enggan melakukan pekerjaan fisik yang menguras keringat.  
@@ -316,6 +300,19 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat ketangguhan fisik dan etos kerja (Al-Hamasah).*  
+>
+> - 🏫 **[SKIS] Setiap Anak Punya Bakat Unggul**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/](https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/)  
+>   *Menyalurkan energi tinggi anak aktif menuju produktivitas amal shalih.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -7,10 +7,8 @@ tags:
   - tawakkal
 ---
 
-
 ![[assets/banners/banner_tawakkal_doa.webp]]
 *Gambar: Kepasrahan Tawakkal dan Senjata Doa*
-
 
 # Tawakkal dan Doa: Jangkar Spiritual Pengasuhan Nabawiyah
 
@@ -35,7 +33,6 @@ Pendidikan yang hampa dari tawakkal dan doa akan melahirkan kesombongan intelekt
 >  
 > 📚 **Syarah Al-Hafizh Ibnul Qayyim dalam Zadul Ma'ad (Juz 4 Hal. 170):**  
 > *"Doa orang tua bagi anaknya memiliki kedudukan istimewa di sisi Allah karena ia bersumber dari lubuk hati yang paling ikhlas, terbebas dari kepalsuan, dan dipenuhi oleh rasa belas kasih yang mendalam. Para Nabi senantiasa memohon keturunan yang shalih sebelum anak itu lahir, tatkala ia diasuh, hingga saat mereka telah dewasa. Doa adalah senjata utama tarbiyah yang mampu menembus tirai takdir dan melunakkan hati yang membatu."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%A7%D9%84%D9%8E%D9%91%D8%B0%D9%90%D9%8A%D9%86%D9%8E%20%D9%8A%D9%8E%D9%82%D9%8F%D9%88%D9%84%D9%8F%D9%88%D9%86%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%8E%D9%91%D9%86%D9%8E%D8%A7%20%D9%87%D9%8E%D8%A8%D9%92%20%D9%84%D9%8E%D9%86%D9%8E%D8%A7%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D8%B2%D9%92%D9%88%D9%8E%D8%A7%D8%AC%D9%90%D9%86%D9%8E%D8%A7%20%D9%88%D9%8E%D8%B0%D9%8F%D8%B1%D9%90%D9%91%D9%8A%D9%8E%D9%91%D8%A7%D8%AA%D9%90%D9%86%D9%8E%D8%A7&lang=id)---
 
@@ -84,9 +81,6 @@ Jangan biarkan doa orang tua hanya diucapkan secara sporadis tatkala panik mengh
 > [!reflection] Refleksi Pendidik: Menakar Kedalaman Doa Kita
 > - Berapa menit waktu khusus yang kita luangkan setiap hari semata-mata untuk mendoakan hidayah dan keselamatan akhirat anak-anak kita?
 > - Apakah kita lebih banyak mengeluhkan tabiat anak kepada sesama manusia di media sosial daripada mengadukannya kepada Allah dalam linangan air mata sujud malam?
-
----
-
 
 ---
 
@@ -156,7 +150,6 @@ Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-N
 * [[Peran Ayah dan Bunda]] — Kemitraan spiritual dalam memimpin peradaban keluarga.
 * [[Internal & Eksternal]] — Menyeimbangkan ikhtiar batin dengan benteng sosial.
 
-
 ---
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tawakkal dan Doa
@@ -176,3 +169,15 @@ Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-N
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Sepasang Sayap Khouf dan Roja’ dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/](https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/)  
+>   *Menyerahkan hasil akhir pengasuhan sepenuhnya kepada kekuasaan Allah.*  
+>
+> - 💡 **[SOTAB] CINTA DAN KETELADANAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/cinta-dan-keteladanan/](https://sotabh.com/cinta-dan-keteladanan/)  
+>   *Kekuatan doa dan ketulusan batin orang tua melintasi ruang dan waktu.*  

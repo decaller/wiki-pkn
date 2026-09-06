@@ -9,10 +9,8 @@ tags:
 description: "Empat Kaidah Emas PKN: satu anak satu kurikulum, tadarruj bertahap, teladan sebelum arahan, dan asah bakat dominan."
 ---
 
-
 ![[assets/banners/banner_4_kaidah_implementasi.webp]]
 *Gambar: Kaidah-Kaidah Keseimbangan dalam Penerapan PKN*
-
 
 # 4 Kaidah Emas Implementasi Pendidikan Karakter Nabawiyah
 
@@ -129,9 +127,6 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam 4 Kaidah Implementasi
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -158,7 +153,6 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan 4 Kaidah Implementasi
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 4 Kaidah Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -197,6 +191,19 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Konsep Ideal ke Praktik Nyata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/](https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/)  
+>   *Empat kaidah operasional pengasuhan: Tadarruj, Taisir, Wasathiyah, dan Qudwah.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Penerapan kaidah-kaidah karakter nabawiyah dalam tata kelola harian.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

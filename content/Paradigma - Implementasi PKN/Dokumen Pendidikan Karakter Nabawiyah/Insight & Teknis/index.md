@@ -9,10 +9,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_insight_teknis.webp]]
 *Gambar: Panduan Teknis, Standarisasi Mutu, dan Wawasan Lapangan*
-
 
 # Insight & Teknis Pendidikan Karakter Nabawiyah
 
@@ -92,8 +90,6 @@ Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang T
 | **11** | **Pemulihan Fitrah & Hutang Pengasuhan** | QS. Az-Zumar: 53 & HR. Tirmidzi No. 2499. Metodologi recovery luka batin masa lalu. | Orang tua melakukan sesi taubat, memohon maaf kepada anak, dan merajut kembali kelekatan batin. |
 | **12** | **Tazkiyah Pendidik & Kekuatan Doa** | QS. Al-Furqan: 74 & HR. Tirmidzi No. 2517 (*I'qilha wa Tawakkal*). Tawakkal paripurna. | Membiasakan qiyamul lail dan doa khusus untuk anak-anak sebagai penutup ikhtiar harian. |
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Insight & Teknis
@@ -123,8 +119,6 @@ Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang T
 
 ---
 
----
-
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Audit Kemandirian Teknis Pengasuhan
@@ -141,7 +135,6 @@ Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang T
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Buka satu catatan observasi anak, perbarui catatan perkembangannya berdasarkan pengamatan sepekan terakhir.
-
 
 ---
 
@@ -162,3 +155,11 @@ Bagi komunitas atau sekolah yang hendak menyelenggarakan program Sekolah Orang T
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Konsep Ideal ke Praktik Nyata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/](https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/)  
+>   *Indeks panduan teknis dan wawasan lapangan implementasi PKN.*  

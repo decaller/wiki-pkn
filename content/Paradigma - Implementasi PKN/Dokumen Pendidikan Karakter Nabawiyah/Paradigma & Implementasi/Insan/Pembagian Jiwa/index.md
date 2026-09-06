@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_pembagian_jiwa.webp]]
 *Gambar: Karakteristik Jiwa: Dinamika Ammarah, Lawwamah, dan Muthmainnah*
-
 
 # Pembagian Jiwa dalam Pendidikan Karakter Nabawiyah
 
@@ -31,15 +29,12 @@ Ketiga istilah ini bukanlah tiga jiwa yang terpisah di dalam satu tubuh, melaink
 > 📚 **Takhrij & Analisis Ibnul Qayyim dalam Kitab ar-Ruh (Hal. 226):**  
 > *"Nafs pada hakikatnya adalah satu dzat, namun memiliki tiga sifat yang berbeda sesuai dengan kecenderungan dominannya. Tatkala ia tunduk pada dorongan hawa nafsu dan syahwat, ia dinamakan Ammarah bis-Su'. Tatkala ia sadar, mencela kelalaian dirinya, dan berusaha menimbang kebaikan, ia dinamakan Lawwamah. Dan tatkala ia telah tenang bersama Allah, mencintai syariat-Nya, dan ridha atas takdir-Nya, ia dinamakan Muthmainnah. Pendidikan adalah sarana tazkiyah untuk mengangkat nafs dari lembah Ammarah menuju puncak Muthmainnah."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%8D%20%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%81%D9%8E%D8%A3%D9%8E%D9%84%D9%92%D9%87%D9%8E%D9%85%D9%8E%D9%87%D9%8E%D8%A7%20%D9%81%D9%8F%D8%AC%D9%8F%D9%88%D8%B1%D9%8E%D9%87%D9%8E%D8%A7%20%D9%88%D9%8E%D8%AA%D9%8E%D9%82%D9%92%D9%88%D9%8E%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%82%D9%8E%D8%AF%D9%92&lang=id)---
 
 ## 1. Anatomi Tiga Keadaan Jiwa dalam PKN
 
-
 ![Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)](/assets/slides/slide-tiga-kondisi-jiwa.webp)
 *Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)*
-
 
 Berikut adalah matriks komparatif tiga dimensi jiwa, hubungannya dengan anatomi manusia, instrumen pendidikan, dan target perkembangannya:
 
@@ -93,9 +88,6 @@ Sebagai panduan harian di rumah dan madrasah, berikut tabel observasi untuk meng
 > [!reflection] Refleksi Pendidik: Menjaga Keseimbangan Jiwa Ananda
 > - Apakah selama ini kita hanya sibuk menjejali akal anak (Lawwamah) dengan nilai akademis, namun membiarkan tangki batinnya (Muthmainnah) kering kerontang tanpa kasih sayang?
 > - Sudahkah kita memberi ruang gerak yang cukup bagi fisik anak (Ammarah) untuk menyalurkan energinya ke dalam karya bermanfaat?
-
----
-
 
 ---
 
@@ -155,7 +147,6 @@ Sebagai panduan harian di rumah dan madrasah, berikut tabel observasi untuk meng
 
 ---
 
-
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Pembagian Jiwa
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -185,6 +176,19 @@ Sebagai panduan harian di rumah dan madrasah, berikut tabel observasi untuk meng
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Sepasang Sayap Khouf dan Roja’ dalam Mendidik Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/](https://sekolahkarakter.com/sepasang-sayap-khouf-dan-roja-dalam-mendidik-anak/)  
+>   *Menjaga keseimbangan jiwa anak antara harap dan takut kepada Allah.*  
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Penataan kebebasan dan ketenangan batin pada tingkatan jiwa.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -7,10 +7,8 @@ tags:
   - adab-pendidik
 ---
 
-
 ![[assets/banners/banner_tazkiyatun_nafs.webp]]
 *Gambar: Penyucian Jiwa (Tazkiyatun Nafs) Menuju Kesucian Fitrah*
-
 
 # Tazkiyatun Nafs: Menyucikan Bejana Pendidik Sebelum Menumbuhkan Fitrah Anak
 
@@ -35,7 +33,6 @@ Para ulama salaf sepakat bahwa mendidik anak bermula dari menyucikan diri pendid
 >  
 > 📚 **Syarah Al-Imam Abu Hamid Al-Ghazali dalam Ihya 'Ulumiddin (Kitab Riyadhatun Nafs):**  
 > *"Pendidik anak ibarat pembawa bayangan; jika tongkatnya bengkok, bagaimana mungkin bayangannya akan lurus? Demikian pula seorang ayah atau guru yang tidak mampu mengendalikan syahwat dan amarahnya sendiri, bagaimana mungkin ia dapat menundukkan keliaran nafsu ammarah anak asuhnya? Tazkiyatun nafs adalah syarat mutlak bagi siapa saja yang mengemban amanah tarbiyah, agar ucapannya menjadi obat bagi hati dan perilakunya menjadi qudwah yang diridhai."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8E%D9%81%D9%92%D9%84%D9%8E%D8%AD%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%B2%D9%8E%D9%83%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%88%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D8%A7%D8%A8%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%AF%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7&lang=id)---
 
@@ -92,9 +89,6 @@ Gunakan rubrik berikut untuk mendeteksi kesehatan jiwa kita sebelum berinteraksi
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Tazkiyatun Nafs
 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -145,7 +139,6 @@ Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Ma
 * [[Bahasa Hati]] — Resonansi komunikasi batin hasil dari tazkiyatun nafs.
 * [[Internal & Eksternal]] — Harmonisasi pilar batiniah dan benteng lahiriah.
 
-
 ---
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tazkiyatun Nafs
@@ -165,3 +158,19 @@ Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Ma
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] MENGHAPUS NODA HATI (Bagian 9: Pemulihan luka hati)**  
+>   🔗 Sumber Asli: [https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/](https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/)  
+>   *Pembersihan kotoran batin orang tua sebagai syarat mengalirkan berkah pendidikan.*  
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Meraih kemerdekaan jiwa melalui penyucian kalbu dari penyakit hati.*  
+>
+> - 🏫 **[SKIS] Cara Mendidik hati anak agar tumbuh keikhlasan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/](https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/)  
+>   *Menanamkan benih tazkiyah sejak usia dini.*  

@@ -8,7 +8,6 @@ tags:
   - fitrah_belajar
 ---
 
-
 # Fase Tamyiz (7 – 10 Tahun): Etape Pembantu, Adab, & Pencerahan Nalar
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat Fase Tamyiz dalam Arsitektur PKN
 
-
 ![Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah](/assets/slides/slide-bahasa-lisan-7-10.webp)
 *Metode Pendidikan Usia 7–10 Tahun: Dialog Nalar & Bahasa Lisan Hikmah*
-
 
 Secara etimologi, **Tamyiz (التَّمْيِيْز)** bermakna kemampuan memilah dan membedakan. Pada usia 7–10 tahun, anak bertransformasi dari masa egosentris balita (*Thufulah*) menuju masa **kemandirian nalar awal**:
 * **Kemampuan Kognitif Operasional Konkret:** Anak mulai memahami hubungan sebab-akibat, membedakan mana hak miliknya dan mana hak orang lain, serta memahami konsep pahala dan adab.
@@ -115,9 +112,6 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Fase Tamyiz (7–10 Tahun)
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -144,7 +138,6 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Tamyiz (7–10 Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Tamyiz (7–10 Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -175,6 +168,19 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Pendidikan Karakter Usia 7-10 Tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/](https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/)  
+>   *Fase tamyiz: pembiasaan shalat 5.000 kali dengan keteladanan tanpa kekerasan.*  
+>
+> - 🏫 **[SKIS] Cara Mendidik hati anak agar tumbuh keikhlasan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/](https://sekolahkarakter.com/cara-mendidik-hati-anak-agar-tumbuh-keikhlasan/)  
+>   *Membimbing nalar anak membedakan benar dan salah secara sukarela.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

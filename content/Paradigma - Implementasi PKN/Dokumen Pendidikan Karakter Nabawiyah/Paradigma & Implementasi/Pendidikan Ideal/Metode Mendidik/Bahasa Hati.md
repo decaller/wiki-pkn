@@ -8,7 +8,6 @@ tags:
   - tangki_cinta
 ---
 
-
 # Bahasa Hati: Seni Tarbiyah Bil-Qalb & Kelembutan Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat Bahasa Hati dalam Arsitektur PKN
 
-
 ![Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati](/assets/slides/slide-bahasa-hati-0-7.webp)
 *Metode Pendidikan Usia 0–7 Tahun: Pengisian Penuh Bahasa Hati*
-
 
 Dalam disiplin Pendidikan Karakter Nabawiyah, **Bahasa Hati (*Lughatul Qalb*)** adalah modalitas pengasuhan berbasis getaran rasa (*Al-Qalb* pada jiwa muthmainnah), keteladanan visual tanpa kata-kata (*lisanul hal*), sentuhan fisik penuh kasih, dan doa tulus di keheningan malam.
 
@@ -170,9 +167,6 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Bahasa Hati
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -199,7 +193,6 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Bahasa Hati
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Bahasa Hati, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -230,6 +223,27 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Bahasa Hati**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/bahasa-hati/](https://karakternabawiyah.com/bahasa-hati/)  
+>   *Naskah rujukan resmi PKN mengenai hakikat Bahasa Hati dan getaran rasa cinta.*  
+>
+> - 💡 **[SOTAB] BAHASA HATI BUKAN PEMBIARAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/bahasa-hati-bukan-pembiaran/](https://sotabh.com/bahasa-hati-bukan-pembiaran/)  
+>   *Meluruskan anggapan keliru: Bahasa Hati bukan membiarkan kesalahan anak.*  
+>
+> - 🏫 **[SKIS] BAHASA CINTA**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/bahasa-cinta/](https://sekolahkarakter.com/bahasa-cinta/)  
+>   *Menghidupkan suasana kasih sayang dan penerimaan tanpa syarat di rumah.*  
+>
+> - 💡 **[SOTAB] INTERNET CINTA**  
+>   🔗 Sumber Asli: [https://sotabh.com/internet-cinta/](https://sotabh.com/internet-cinta/)  
+>   *Menjaga koneksi batin orang tua dan anak agar tidak terputus oleh distraksi gawai.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

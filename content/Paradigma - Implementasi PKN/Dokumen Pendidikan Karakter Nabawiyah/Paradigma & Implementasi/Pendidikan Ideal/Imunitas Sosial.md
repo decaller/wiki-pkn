@@ -2,7 +2,6 @@
 title: "Imunitas Sosial"
 ---
 
-
 # Imunitas Sosial: Menumbuhkan Daya Tahan Fitrah Menghadapi Polusi Zaman
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -29,15 +28,12 @@ Rasulullah ﷺ secara tegas memuji seorang mukmin yang berinteraksi dengan masya
 > 📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani dalam Fathul Bari (Juz 4 Hal. 324):**  
 > *"Hadits ini menggariskan dua pilar utama dalam pergaulan sosial: anjuran kuat untuk selektif memilih sahabat karib (al-khalil), serta peringatan keras dari bergaul rapat dengan para pelaku maksiat dan ahli bid'ah. Teman duduk memiliki pengaruh tak kasat mata (al-adwa) yang meresap ke dalam tabiat jiwa manusia. Oleh karena itu, membentengi anak dengan kemampuan menyaring pergaulan adalah fardhu kifayah bagi para wali agar agama anak mereka selamat."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%8F%20%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D8%A7%D9%84%D9%90%D8%AD%D9%90%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%AC%D9%8E%D9%84%D9%90%D9%8A%D8%B3%D9%90%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%88%D9%92%D8%A1%D9%90%20%D9%83%D9%8E%D9%85%D9%8E%D8%AB%D9%8E%D9%84%D9%90%20%D8%B5%D9%8E%D8%A7%D8%AD%D9%90%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%85%D9%90%D8%B3%D9%92%D9%83%D9%90&lang=id)---
 
 ## 1. Dekonstruksi Isolasi Buta vs Imunitas Nabawiyah
 
-
 ![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
 *Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
-
 
 Banyak orang tua yang berniat baik tergelincir ke dalam sindrom "Sterilisasi Ekstrem". Tabel berikut menguraikan komparasi antara kedua paradigma ini:
 
@@ -95,9 +91,6 @@ Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib
 > [!reflection] Refleksi Pendidik: Memeriksa Daya Tahan Ananda
 > - Jika esok hari anak kita harus pergi merantau jauh dari pengawasan mata kita, apakah kita yakin imunitas imannya sanggup menahan gempuran fitnah pergaulan bebas di luar sana?
 > - Apakah selama ini kita hanya mendidiknya menjadi anak rumahan yang rapuh, ataukah kita telah menempanya menjadi singa peradaban yang tangguh memegang kebenaran?
-
----
-
 
 ---
 
@@ -169,7 +162,6 @@ Membangun imunitas dari polusi lingkungan jahiliyah modern membutuhkan tahapan t
 
 ---
 
-
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Imunitas Sosial
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Imunitas Sosial, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
 > **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
@@ -199,6 +191,19 @@ Membangun imunitas dari polusi lingkungan jahiliyah modern membutuhkan tahapan t
 > - **Materi:** *3. Pembelajaran Alamiyah*
 >   - 📖 **Rujukan Slide:** Slide Hal. 5–25 (Matriks Pembelajaran Alamiah: Ruang Interaksi, Dialog, & Penanaman Kebiasaan Mandiri)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=1) • [📊 Unduh PPTX Asli (6.2 MB)](https://www.dropbox.com/scl/fi/89312o45678n190p34571/3.-Pembelajaran-Alamiyah.pptx?rlkey=q4567890123n4567890123456&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/581k390o7p264n879q312/3.-Pembelajaran-Alamiyah.pdf?rlkey=p78903o45781n263109u45892&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Berani Tampil Beda**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/berani-tampil-beda/](https://sekolahkarakter.com/berani-tampil-beda/)  
+>   *Membangun integritas dan ketangguhan moral anak di tengah arus pergaulan bebas.*  
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Kekokohan prinsip batin yang tidak mudah terombang-ambing tren peradaban.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

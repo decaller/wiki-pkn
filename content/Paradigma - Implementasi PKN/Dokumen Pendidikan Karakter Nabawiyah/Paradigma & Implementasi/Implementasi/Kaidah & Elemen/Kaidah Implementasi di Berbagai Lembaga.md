@@ -9,7 +9,6 @@ tags:
   - manajemen_sekolah
 ---
 
-
 # Kaidah Implementasi PKN dalam Berbagai Lembaga
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -38,7 +37,6 @@ Para perumus manhaj PKN (Ustadz Abdul Kholiq dan Bayu Issetyadi) dalam dokumen r
 > — **HR. Bukhari (No. 7288) & Muslim (No. 1337)**  
 >  
 > 📚 **Relevansi PKN:** Kaidah-kaidah ini menjadi rem spiritual sekaligus panduan taktis bagi kepala sekolah dan mudir pesantren: jangan sampai ambisi menerapkan sistem ideal nabawiyah justru memicu perpecahan yayasan, penolakan massal guru, atau kebangkrutan operasional lembaga.
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AF%D9%8E%D8%B1%D9%92%D8%A1%D9%8F%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%81%D9%8E%D8%A7%D8%B3%D9%90%D8%AF%D9%90%20%D9%85%D9%8F%D9%82%D9%8E%D8%AF%D9%8E%D9%91%D9%85%D9%8C%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%AC%D9%8E%D9%84%D9%92%D8%A8%D9%90%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D8%B5%D9%8E%D8%A7%D9%84%D9%90%D8%AD%D9%90&lang=id)---
 
@@ -114,9 +112,6 @@ Berdasarkan klausul audit resmi, terdapat 6 standar penjaminan mutu kelembagaan 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Kaidah Implementasi Berbagai Lembaga
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -189,7 +184,6 @@ Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Kaidah Implementasi Berbagai Lembaga
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Kaidah Implementasi Berbagai Lembaga sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -227,6 +221,19 @@ Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Implementasi Terbaik**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/implementasi-terbaik/](https://karakternabawiyah.com/implementasi-terbaik/)  
+>   *Best practices penerapan manhaj PKN pada sekolah formal, pesantren, dan madrasah.*  
+>
+> - 🌐 **[PKN] Buku Panduan Implementasi Standar**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/panduan-implementasi-standar/](https://karakternabawiyah.com/panduan-implementasi-standar/)  
+>   *Pedoman adaptasi standar lembaga sesuai kondisi lokal.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

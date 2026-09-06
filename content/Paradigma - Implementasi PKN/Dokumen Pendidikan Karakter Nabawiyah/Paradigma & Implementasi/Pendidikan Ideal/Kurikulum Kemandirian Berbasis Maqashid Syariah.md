@@ -17,7 +17,6 @@ description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup an
 ![[assets/banners/banner_hub_pendidikan_ideal.webp]]
 *Gambar: Rekonstruksi Kurikulum Berbasis Fitrah dan Maqashid Syari'ah*
 
-
 ---
 
 # Kurikulum Kemandirian Berbasis Maqashid Syari'ah: Rekonstruksi Prioritas Edukasi Nabawiyah
@@ -315,7 +314,6 @@ Kesadaran akhirat (*Al-Wa'yu bil Akhirah*) inilah yang mengubah:
 * [[Master Katalog Dalil Al-Quran]] — Katalog Komprehensif Dalil Al-Qur'an dan Tafsir OpenBayan.
 * [[Master Katalog Dalil Hadits dan Sunnah]] — Katalog 60 Kitab Turats Hadits dan Syarah Klasik.
 
-
 ---
 
 > [!info] Refleksi Lapangan: Krisis Prioritas Kurikulum Pendidikan Modern
@@ -335,3 +333,19 @@ Kesadaran akhirat (*Al-Wa'yu bil Akhirah*) inilah yang mengubah:
 > * **Aksi Sederhana:** Audit satu materi pelajaran atau target mingguan anak: apakah materi tersebut benar-benar dibutuhkan untuk kelangsungan hidup dan kemandiriannya di masyarakat, ataukah sekadar formalitas hafalan ujian?
 > * **Tujuan:** Mengembalikan orientasi belajar pada kemanfaatan hakiki (*ilmun nafi'*) yang menopang keselamatan dunia dan akhirat.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Pembelajaran Kemandirian**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/pembelajaran-kemandirian/](https://karakternabawiyah.com/pembelajaran-kemandirian/)  
+>   *Prinsip kemandirian finansial dan sosial pasca-akil baligh.*  
+>
+> - 🏫 **[SKIS] Konsep He Post Aqil Baligh Usia >15 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/konsep-he-post-aqil-baligh-usia-15-tahun/](https://sekolahkarakter.com/konsep-he-post-aqil-baligh-usia-15-tahun/)  
+>   *Rancang bangun kurikulum mandiri bagi santri pasca-15 tahun.*  
+>
+> - 💡 **[SOTAB] LIBURAN BERMAKNA**  
+>   🔗 Sumber Asli: [https://sotabh.com/liburan-bermakna/](https://sotabh.com/liburan-bermakna/)  
+>   *Mengisi masa liburan dengan karya kemandirian dan proyek nyata.*  

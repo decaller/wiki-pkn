@@ -464,10 +464,15 @@ Wiki PKN bukan berdiri sendiri, melainkan bagian dari **ekosistem digital PKN** 
 
 ---
 
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan metodologi dan kurikulum PKN dalam wiki ini bersumber langsung dari materi tayang pelatihan resmi:
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
 >
-> - **Materi:** *1. Konsep Dasar Pendidikan Karakter Nabawiyah*
->   - 📖 **Rujukan Slide:** Slide Hal. 1–20 (Latar Belakang, Visi, dan Grand Design PKN)
-> - **Materi:** *4. Metode Pendidikan Karakter Nabawiyah*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–35 (Tiga Bahasa Pengasuhan, Tadarruj, dan Keteladanan)
+> - 🌐 **[PKN] Profil Ustadz Abdul Kholiq**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/](https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/)  
+>   *Profil narasumber utama dan perumus Manhaj PKN Ustadz Abdul Kholiq.*  
+>
+> - 🏫 **[SKIS] Sekilas Pandang**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang/](https://sekolahkarakter.com/sekilas-pandang/)  
+>   *Latar belakang historis kurikulum fitrah di SKIS Semarang.*  

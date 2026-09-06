@@ -2,7 +2,6 @@
 title: "Nafsul Lawwamah"
 ---
 
-
 # Nafsul Lawwamah: Nalar Kritis, Nurani, dan Penyesalan Konstruktif
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -24,7 +23,6 @@ Allah Azza wa Jalla memuliakan entitas jiwa ini secara luar biasa dengan menjadi
 >  
 > 📚 **Takhrij & Analisis Ibnul Qayyim dalam Ighatsatul Lahafan (Juz 1 Hal. 76):**  
 > *"Nafsul Lawwamah adalah jiwa orang beriman. Al-Hasan Al-Bashri berkata: 'Sesungguhnya engkau tidak akan menjumpai seorang mukmin melainkan ia selalu mencela dirinya sendiri: Apa yang kuinginkan dengan ucapanku tadi? Apa maksud dari makananku tadi? Mengapa aku tergelincir berbuat demikian?' Adapun orang fasik, ia berjalan terus dalam kemaksiatannya tanpa pernah mencela dirinya sendiri. Lawwamah adalah benteng pertahanan terakhir yang menjaga fitrah manusia dari kehancuran."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%90%20%D8%A7%D9%84%D9%92%D9%82%D9%90%D9%8A%D9%8E%D8%A7%D9%85%D9%8E%D8%A9%D9%90%20%DB%9D%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%A3%D9%8F%D9%82%D9%92%D8%B3%D9%90%D9%85%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%90%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%88%D9%8E%D9%91%D8%A7%D9%85%D9%8E%D8%A9%D9%90&lang=id)---
 
@@ -98,9 +96,6 @@ Ketika seorang pemuda meminta fatwa halal untuk berzina, Nabi ﷺ tidak menghard
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Jiwa Lawwamah
 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -138,7 +133,6 @@ Ketika seorang pemuda meminta fatwa halal untuk berzina, Nabi ﷺ tidak menghard
 
 ---
 
-
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Jiwa Lawwamah
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -168,6 +162,19 @@ Ketika seorang pemuda meminta fatwa halal untuk berzina, Nabi ﷺ tidak menghard
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] BUKAN JALAN KELUAR, TAPI CARI JALAN KE DALAM**  
+>   🔗 Sumber Asli: [https://sotabh.com/bukan-jalan-keluar-tapi-cari-jalan-kedalam/](https://sotabh.com/bukan-jalan-keluar-tapi-cari-jalan-kedalam/)  
+>   *Muhasabah batin dan penyesalan positif jiwa lawwamah.*  
+>
+> - 🏫 **[SKIS] Meminta Maaf Kepada Anak Bukan Aib**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/meminta-maaf-kepada-anak-bukan-aib/](https://sekolahkarakter.com/meminta-maaf-kepada-anak-bukan-aib/)  
+>   *Menumbuhkan kesadaran diri dan keberanian mengakui kekhilafan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

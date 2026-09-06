@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_internal_eksternal.webp]]
 *Gambar: Sinergi Faktor Internal Jiwa dan Ekosistem Lingkungan Eksternal*
-
 
 # Faktor Internal & Eksternal dalam Pendidikan Karakter Nabawiyah
 
@@ -81,8 +79,6 @@ Dalam menghadapi tantangan eksternal zaman modern, terdapat dua pendekatan yang 
 > [!tip] Kaidah Praktis Membangun Imunitas Rumah Tangga
 > Mendidik anak di era digital bukan dengan cara memutus kabel internet selamanya, melainkan dengan membesarkan cinta anak kepada Allah dan Rasul-Nya, menanamkan rasa malu syariat (*haya'*), serta mengisi tangki jiwanya dengan kehangatan dialog keluarga sehingga ia tidak membutuhkan pengakuan semu dari media sosial.
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Faktor Internal dan Eksternal
@@ -109,8 +105,6 @@ Dalam menghadapi tantangan eksternal zaman modern, terdapat dua pendekatan yang 
    Mengajak anak berdiskusi santai mengenai hakikat penciptaan manusia, kasih sayang Allah yang melimpah, dan indahnya ampunan bagi hamba yang bertaubat.
 4. **Fase 4: Pembiasaan Amal & Keteladanan Nyata (Pekan 3 dst)**  
    Membangun ritme ibadah keluarga yang menyenangkan (tilawah bersama, sedekah subuh, membantu dhuafa) sebagai wujud nyata kesucian jiwa.
-
----
 
 ---
 
@@ -142,7 +136,6 @@ Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fa
 3. **Etape Murahaqah (10–15 Th):** Faktor internal 50%, eksternal 50%. Penguatan daya imun internal agar anak mampu menolak pengaruh negatif lingkungan pergaulan sebaya.
 4. **Etape Syabab (15+ Th):** Internal mandiri sebagai agen perbaikan (*Muslih*). Anak terjun ke medan sosial eksternal untuk memberi pengaruh kebaikan, bukan lagi sekadar mempertahankan diri.
 
-
 ---
 
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Faktor Internal dan Eksternal
@@ -162,3 +155,15 @@ Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fa
 > * **Aksi Sederhana:** Duduklah bersama anak di waktu fajar atau senja, tataplah pergantian warna langit bersama-sama, dan ajak bertafakkur: *"Siapakah yang menggerakkan matahari dan melukis awan seindah ini setiap hari tanpa lelah?"*
 > * **Tujuan:** Menghidupkan kesadaran tauhid rububiyah dan menyejukkan kalbu anak dengan keagungan Allah SWT.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] KEMERDEKAAN SEJATI DIMULAI DARI HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/](https://sotabh.com/kemerdekaan-sejati-dimulai-dari-hati/)  
+>   *Penataan faktor internal jiwa pendidik dan proteksi faktor eksternal lingkungan.*  
+>
+> - 🏫 **[SKIS] Kuatkan Akar Pendidikan Pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/](https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/)  
+>   *Membangun benteng pertahanan moral anak dari pengaruh negatif luar.*  

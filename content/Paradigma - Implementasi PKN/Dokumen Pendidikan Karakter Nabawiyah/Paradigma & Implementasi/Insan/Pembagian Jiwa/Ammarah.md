@@ -2,7 +2,6 @@
 title: "Nafsul Ammarah"
 ---
 
-
 # Nafsul Ammarah: Hakikat, Dinamika, dan Penaklukannya
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -24,7 +23,6 @@ Dalam pendidikan sekuler atau mistisisme ekstrem, ammarah sering kali dipandang 
 >  
 > 📚 **Takhrij & Analisis Syaikhul Islam Ibnu Taimiyah dalam Majmu' Al-Fatawa (Juz 10 Hal. 568):**  
 > *"Nafs pada asalnya diciptakan dalam keadaan jahil dan zhalim, yang menyuruh manusia pada kesenangan syahwatnya tanpa mempedulikan akibat buruk di akhirat. Namun jika Allah merahmati seorang hamba dengan menganugerahkannya ilmu yang bermanfaat dan petunjuk iman, jiwa tersebut akan tunduk pada syariat, sehingga dorongan syahwatnya berbalik menjadi penolong ketaatan kepada Allah."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%85%D9%8E%D8%A7%20%D8%A3%D9%8F%D8%A8%D9%8E%D8%B1%D9%90%D9%91%D8%A6%D9%8F%20%D9%86%D9%8E%D9%81%D9%92%D8%B3%D9%90%D9%8A%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D9%81%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%D8%B1%D9%8E%D8%A9%D9%8C%20%D8%A8%D9%90%D8%A7%D9%84%D8%B3%D9%8F%D9%91%D9%88%D8%A1%D9%90%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D8%A7&lang=id)---
 
@@ -89,9 +87,6 @@ Rasulullah ﷺ tidak memotong energi biologis pemuda itu, melainkan mengalirkann
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Jiwa Ammarah
 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -148,7 +143,6 @@ Sifat primitif nafsu ammarah (*maraji': Ihya Ulumiddin karya Al-Ghazali & Majall
 
 ---
 
-
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Jiwa Ammarah
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -178,6 +172,19 @@ Sifat primitif nafsu ammarah (*maraji': Ihya Ulumiddin karya Al-Ghazali & Majall
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Mengendalikan Kemarahan pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/mengendalikan-kemarahan-pada-anak/](https://sekolahkarakter.com/mengendalikan-kemarahan-pada-anak/)  
+>   *Menundukkan letupan emosi nafsu ammarah melalui keteladanan orang tua.*  
+>
+> - 💡 **[SOTAB] Hukuman Yang Membunuh Karakter**  
+>   🔗 Sumber Asli: [https://sotabh.com/hukuman-yang-membunuh-karakter/](https://sotabh.com/hukuman-yang-membunuh-karakter/)  
+>   *Dampak destruktif hukuman emosional terhadap jiwa yang masih labil.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

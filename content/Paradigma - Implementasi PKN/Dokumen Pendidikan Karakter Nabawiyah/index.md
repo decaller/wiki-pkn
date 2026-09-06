@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_dokumen_pkn.webp]]
 *Gambar: Korpus Dokumen Kurikulum Pendidikan Karakter Nabawiyah*
-
 
 # Dokumen Master Pendidikan Karakter Nabawiyah
 
@@ -77,8 +75,6 @@ Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan pr
 * Ingin melihat dalil shahih pendukung setiap materi? Telusuri [[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]] dan [[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]].
 * Ingin mengkaji rekaman audio-visual penjelas? Buka [[Referensi Kajian Video]].
 
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Korpus Dokumen PKN
@@ -108,8 +104,6 @@ Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan pr
 
 ---
 
----
-
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Navigasi Pembelajaran Korpus PKN
@@ -127,7 +121,6 @@ Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan pr
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Tandai satu dokumen tema yang paling menantang bagi Anda, jadwalkan waktu 20 menit besok pagi untuk membacanya tuntas.
-
 
 ---
 
@@ -148,6 +141,18 @@ Bagian ini memuat kompilasi catatan lapangan, studi kasus empiris, dan arahan pr
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Dokumen induk Pendidikan Karakter Nabawiyah.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Pedoman karakter dan tata kelola lembaga.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

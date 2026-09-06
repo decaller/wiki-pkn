@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_bank_studi_kasus.webp]]
 *Gambar: Dokumentasi dan Analisis Komparatif Studi Kasus Pendidikan*
-
 
 # Bank Studi Kasus Kurikulum Berbasis Peristiwa: Panduan Restorasi Adab & Karakter Anak
 
@@ -32,10 +30,8 @@ tags:
 
 ## 1. Landasan Filosofis: Mengatasi Kesenjangan Aqil-Baligh melalui Peristiwa
 
-
 ![Teknik Mengurai Kegiatan Lapangan ke Dalam 40 Pilar Karakter Nabawiyah](/assets/slides/slide-mengurai-kegiatan-karakter.webp)
 *Teknik Mengurai Kegiatan Lapangan ke Dalam 40 Pilar Karakter Nabawiyah*
-
 
 Dalam lanskap pendidikan kontemporer, kita menghadapi krisis arsitektural yang fundamental: fenomena di mana **"Baligh datang lebih cepat, namun Aqil datang lebih lambat"**. Generasi digital hari ini mengalami akselerasi kematangan biologis akibat paparan gizi dan informasi visual, namun sering kali mengalami keterlambatan dalam kematangan akal, kemandirian mental, dan tanggung jawab spiritual (*mukallaf*). Ketimpangan ini bukan sekadar tren sosial, melainkan sebuah kegagalan sistemik yang memerlukan **Restorasi Karakter (*Character Recovery*)** sebagai prioritas strategis.
 
@@ -182,9 +178,6 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Bank Studi Kasus Kurikulum Peristiwa
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -211,7 +204,6 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Bank Studi Kasus Kurikulum Peristiwa
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Bank Studi Kasus Kurikulum Peristiwa sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -266,6 +258,31 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Tuliskan satu kasus perilaku anak yang paling memusingkan Anda hari ini, bedah menggunakan kacamata 'energi bakat yang salah wadah'.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Anak Anak Yang Tersalahkan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anak-anak-yang-tersalahkan/](https://sekolahkarakter.com/anak-anak-yang-tersalahkan/)  
+>   *Membela anak-anak yang terstigma nakal padahal memendam energi bakat besar.*  
+>
+> - 🏫 **[SKIS] Anak Sortiran**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anak-sortiran/](https://sekolahkarakter.com/anak-sortiran/)  
+>   *Mengurai fenomena anak yang tersingkirkan oleh sistem sekolah konvensional.*  
+>
+> - 🏫 **[SKIS] Tidak mau sekolah**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/tidak-mau-sekolah/](https://sekolahkarakter.com/tidak-mau-sekolah/)  
+>   *Solusi komprehensif mengurai akar mogok sekolah karena trauma pengasuhan.*  
+>
+> - 💡 **[SOTAB] KENAKALAN ANAK YANG PALING BERBAHAYA**  
+>   🔗 Sumber Asli: [https://sotabh.com/kenakalan-anak-yang-paling-berbahaya/](https://sotabh.com/kenakalan-anak-yang-paling-berbahaya/)  
+>   *Membedah aneka bentuk penyimpangan perilaku dan cara pemulihannya.*  
+>
+> - 🏫 **[SKIS] Menghadapi Sibling Rivalry Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/menghadapi-sibling-rivalry-anak/](https://sekolahkarakter.com/menghadapi-sibling-rivalry-anak/)  
+>   *Panduan menangani persaingan dan pertengkaran antar saudara kandung.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

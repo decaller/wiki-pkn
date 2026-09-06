@@ -9,10 +9,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_uzungol_mosque.webp]]
 *Gambar: Panorama Masjid Uzungöl dan Danau Alami di Trabzon (Foto: Rüveyda Akkaya / Pexels) — Simbol Keharmonisan Fitrah Alamiah dan Spiritualitas Nabawiyah*
-
 
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
@@ -109,10 +107,8 @@ Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN
 
 ## 1. Peta Konsep Arsitektur Pendidikan Karakter Nabawiyah
 
-
 ![Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal](/assets/slides/slide-piramida-pendidikan.webp)
 *Piramida Fondasi Pendidikan Karakter: Fondasi Aqidah & Karakter Sebelum Bangunan Ilmu dan Amal*
-
 
 Pendidikan Karakter Nabawiyah memandang manusia sebagai kesatuan utuh (*insan kamil*) yang bertumbuh secara organik melalui integrasi tiga pilar agung:
 
@@ -187,11 +183,8 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
 
 ---
 
-
-
 ![Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak](/assets/slides/slide-sholat-barometer.webp)
 *Kondisi Jiwa dalam Sholat: Sholat Sebagai Barometer Kematangan Batin Anak*
-
 
 ---
 
@@ -219,11 +212,6 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
    Memangkas birokrasi yang membebani dan memfokuskan energi pada penguatan interaksi *Bahasa Hati* dan *Bahasa Lisan*.
 4. **Fase 4: Pembiasaan Budaya Mutu & Pendampingan Konsisten (Bulan 2 dst)**  
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
-
----
-
-
-
 
 ---
 
@@ -256,6 +244,27 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
 > - **Materi:** *5. Menyibak Pondasi Pendidikan Yang Tak Tersentuh*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–30 (Orientasi Fitrah Insan & Rekonstruksi Adab Generasi)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (6.5 MB)](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=1) • [📊 Unduh PPTX Asli (8.4 MB)](https://www.dropbox.com/scl/fi/8zck4e9l24cgxs96zl36p/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pptx?rlkey=502weiuge1y4fuqjrgxi71ceg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/cnzll0n089p06bv5gj1za/5.-Menyibak-Pondasi-Pendidikan-Yang-Tak-Tersentuh.pdf?rlkey=1infkzxac20yfvzvzxlnl04n0&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] pendidikan karakter nabawiyah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/](https://karakternabawiyah.com/)  
+>   *Portal utama pergerakan Manhaj Pendidikan Karakter Nabawiyah (karakternabawiyah.com).*  
+>
+> - 🏫 **[SKIS] Pendidikan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan/](https://sekolahkarakter.com/pendidikan/)  
+>   *Khazanah pemikiran pendidikan berbasis fitrah Sekolah Karakter Imam Syafi'i Semarang.*  
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Filosofi kurikulum dan pilar karakter Sekolah Karakter.*  
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Paradigma Belajar Hati SOTAB HEBAT: menumbuhkan benih fitrah kehidupan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

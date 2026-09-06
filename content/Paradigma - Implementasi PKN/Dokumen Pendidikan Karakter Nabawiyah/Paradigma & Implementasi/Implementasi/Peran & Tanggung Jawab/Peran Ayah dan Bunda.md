@@ -2,7 +2,6 @@
 title: "Peran Ayah dan Bunda"
 ---
 
-
 # Sinergi Peran Ayah dan Bunda dalam Pendidikan Karakter Nabawiyah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -29,10 +28,8 @@ title: "Peran Ayah dan Bunda"
 
 ## 1. Hakikat Sinergi Dua Kutub Pengasuhan
 
-
 ![Penerapan Analogi Bertani dalam Siklus Etape Usia Anak](/assets/slides/slide-analogi-bertani-fase.webp)
 *Penerapan Analogi Bertani dalam Siklus Etape Usia Anak*
-
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), keluarga diposisikan sebagai **laboratorium peradaban terkecil**. Allah menciptakan laki-laki dan perempuan dengan fitrah jasmani dan rohani yang berbeda bukan untuk saling mendominasi, melainkan untuk membentuk **sinergi komplementer** yang sempurna:
 
@@ -93,9 +90,6 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Peran Ayah dan Bunda
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
@@ -122,7 +116,6 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Peran Ayah dan Bunda
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Peran Ayah dan Bunda, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -181,6 +174,31 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Ayah mengajak anak keluar rumah berdua saja untuk minum teh atau jalan santai selama 20 menit tanpa interupsi pekerjaan.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Ayah….Bangunlah dari tidurmu**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/ayah-bangunlah-dari-tidurmu/](https://sekolahkarakter.com/ayah-bangunlah-dari-tidurmu/)  
+>   *Seruan menggugah bagi para ayah untuk mengambil alih kepemimpinan pengasuhan di rumah.*  
+>
+> - 🏫 **[SKIS] Orang Tua “MOGOL” (Setengah Matang)**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/orang-tua-mogol-setengah-matang/](https://sekolahkarakter.com/orang-tua-mogol-setengah-matang/)  
+>   *Kritik fenomena orang tua setengah matang yang belum tuntas mendewasakan diri.*  
+>
+> - 🏫 **[SKIS] Orang Tua Pemberani**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/orang-tua-pemberani/](https://sekolahkarakter.com/orang-tua-pemberani/)  
+>   *Keberanian orang tua mengambil jalan sunyi mendidik anak di luar arus mayoritas.*  
+>
+> - 🏫 **[SKIS] Anakku Ingin Aku Didik Sendiri di Rumah**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anakku-aku-didik-sendiri-di-rumah/](https://sekolahkarakter.com/anakku-aku-didik-sendiri-di-rumah/)  
+>   *Inspirasi pendidikan berbasis rumah (*home education*) berlandaskan sunnah.*  
+>
+> - 💡 **[SOTAB] JANGAN PERNAH MERASA BERJASA DALAM MENDIDIK ANAK**  
+>   🔗 Sumber Asli: [https://sotabh.com/jangan-pernah-merasa-berjasa-dalam-mendidik/](https://sotabh.com/jangan-pernah-merasa-berjasa-dalam-mendidik/)  
+>   *Menjaga keikhlasan orang tua tanpa menuntut balas budi dari anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

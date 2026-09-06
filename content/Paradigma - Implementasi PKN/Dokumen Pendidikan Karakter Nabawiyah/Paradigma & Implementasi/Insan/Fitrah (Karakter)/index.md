@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_fitrah.webp]]
 *Gambar: Fitrah Insan: Menjaga dan Membina Potensi Suci Bawaan Ilahi*
-
 
 # Konsepsi Fitrah dalam Pendidikan Karakter Nabawiyah
 
@@ -34,7 +32,6 @@ Pendidikan Karakter Nabawiyah menolak secara tegas teori sekuler Barat seperti d
 >  
 > 📚 **Syarah Al-Hafizh Ibnu Abdil Barr dalam At-Tamhid (Juz 18 Hal. 57):**  
 > *"Fitrah yang dimaksud dalam hadits ini adalah keselamatan penciptaan, pengakuan primordial terhadap rububiyah Allah, dan kesiapan batin untuk menerima kebenaran. Anak terlahir dalam keadaan mencintai kebaikan dan membenci keburukan. Penyimpangan aqidah dan moral yang terjadi kelak pada diri anak bukanlah cacat bawaan lahir, melainkan distorsi eksternal yang diakibatkan oleh kelalaian orang tua dalam mengasuh dan menjaga lingkungan pergaulannya."*
-
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A3%D9%8E%D9%82%D9%90%D9%85%D9%92%20%D9%88%D9%8E%D8%AC%D9%92%D9%87%D9%8E%D9%83%D9%8E%20%D9%84%D9%90%D9%84%D8%AF%D9%90%D9%91%D9%8A%D9%86%D9%90%20%D8%AD%D9%8E%D9%86%D9%90%D9%8A%D9%81%D9%8B%D8%A7%20%DB%9A%20%D9%81%D9%90%D8%B7%D9%92%D8%B1%D9%8E%D8%AA%D9%8E%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90%20%D8%A7%D9%84%D9%8E%D9%91%D8%AA%D9%90%D9%8A%20%D9%81%D9%8E%D8%B7%D9%8E%D8%B1%D9%8E%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%A7%D8%B3%D9%8E&lang=id)---
 
@@ -70,10 +67,8 @@ Pendidikan Karakter Nabawiyah memetakan fitrah anak ke dalam empat rumpun dimens
 
 ## 2. Dekonstruksi Tabula Rasa vs Paradigma Fitrah
 
-
 ![Taksonomi 40 Pilar Karakter Nabawiyah (Akhlaq Mulia Rasulullah ﷺ)](/assets/slides/slide-40-pilar-karakter.webp)
 *Taksonomi 40 Pilar Karakter Nabawiyah (Akhlaq Mulia Rasulullah ﷺ)*
-
 
 Pola asuh modern yang mengadopsi filsafat sekuler sering kali merusak fitrah tanpa disadari. Perhatikan perbandingan mendasar berikut:
 
@@ -107,9 +102,6 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 > [!reflection] Refleksi Pendidik: Menghormati Benih Suci
 > - Apakah selama ini kita memperlakukan anak bagaikan bejana kosong yang bebas kita jejali dengan impian masa lalu kita yang gagal tercapai?
 > - Sudahkah kita mengenali dan mensyukuri cetak biru fitrah unik yang telah Allah tanamkan pada diri masing-masing anak kita?
-
----
-
 
 ---
 
@@ -170,7 +162,6 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 
 ---
 
-
 > [!info] Refleksi Lapangan: Polusi Lingkungan Pengasuhan terhadap Fitrah Anak
 > **Kondisi Faktual:** Banyak anak lahir dari keluarga muslim yang baik, namun saat menginjak remaja justru kehilangan rasa malu (*haya'*), mengabaikan shalat, dan memuja budaya hedonistik.  
 > **Akar Masalah PKN:** Sebagaimana sabda Nabi ﷺ bahwa setiap anak lahir di atas fitrah suci, namun kedua orang tuanyalah yang membelokkannya. Rumah tangga modern kerap menjadi produsen polusi fitrah melalui tontonan vulgar, pertengkaran suami-istri tanpa adab, dan ketiadaan keteladanan ibadah.  
@@ -204,6 +195,23 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Filosofi kurikulum berbasis fitrah dan penguatan pilar karakter nabawiyah.*  
+>
+> - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
+>   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
+>   *Paradigma benih hidup yang tumbuh dari dalam, bukan bata yang dicetak kaku dari luar.*  
+>
+> - 🏫 **[SKIS] Anak Bukanlah Kertas Kosong**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/](https://sekolahkarakter.com/anak-bukanlah-kertas-kosong/)  
+>   *Menolak teori tabula rasa: setiap anak lahir membawa cetak biru fitrah Ilahi.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

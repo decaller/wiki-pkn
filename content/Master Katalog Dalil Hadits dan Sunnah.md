@@ -9,7 +9,6 @@ tags:
 description: "Kajian komprehensif Master Katalog Dalil Hadits dan Sunnah dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_katalog_hadits.webp]]
 *Gambar: Katalog Sunnah dan Hadits Nabawiyah*
 
@@ -745,3 +744,12 @@ Dokumen ini memetakan seluruh dalil primer (*Qur'an, Hadits Shahih, Tafsir Ibnu 
 > 💡 **Relevansi PKN:** Validasi peran kinestetik motorik: stamina kerja keras fisik dan keterampilan tubuh (*gross/fine motor skills*) adalah pilar kemuliaan peradaban yang dipuji langsung oleh Rasulullah ﷺ.
 
 ---
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Rujukan hadits-hadits shahih dan sunnah nabawiyah dalam manhaj PKN.*  

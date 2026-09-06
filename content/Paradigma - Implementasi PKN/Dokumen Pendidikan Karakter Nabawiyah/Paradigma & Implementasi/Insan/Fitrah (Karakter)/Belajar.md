@@ -2,7 +2,6 @@
 title: "Fitrah Belajar"
 ---
 
-
 # Fitrah Belajar: Dari Kebebasan Eksplorasi Menuju Nalar Hikmah
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -29,15 +28,12 @@ Pendidikan modern bergaya industrial sering kali mereduksi fitrah belajar yang m
 > 📚 **Analisis Sosiologis & Pedagogis Ibnu Khaldun dalam Muqaddimah (Bab VI Fashl 39):**  
 > *"Ketahuilah bahwa penggunaan kekerasan dan pemaksaan yang berlebihan terhadap para pembelajar akan mematikan fitrah belajar mereka. Jika seorang anak dididik dengan kekerasan, penindasan, dan intimidasi, jiwanya akan menjadi sempit, hilang kegembiraannya dalam menuntut ilmu, malas, serta mendorongnya untuk berbohong dan bersikap munafik demi menghindari hukuman. Mengajarkan ilmu kepada anak harus dimulai dari hal-hal yang konkrit menuju yang abstrak, secara bertahap (tadarruj), dan melalui dialog yang memicu daya nalar mereka."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D8%B9%D9%8E%D9%84%D9%8E%D9%91%D9%85%D9%8E%20%D8%A2%D8%AF%D9%8E%D9%85%D9%8E%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B3%D9%92%D9%85%D9%8E%D8%A7%D8%A1%D9%8E%20%D9%83%D9%8F%D9%84%D9%8E%D9%91%D9%87%D9%8E%D8%A7%20%D8%AB%D9%8F%D9%85%D9%8E%D9%91%20%D8%B9%D9%8E%D8%B1%D9%8E%D8%B6%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%20%D8%A7%D9%84%D9%92%D9%85%D9%8E%D9%84%D9%8E%D8%A7%D8%A6%D9%90%D9%83%D9%8E%D8%A9%D9%90&lang=id)---
 
 ## 1. Tiga Pilar Pembelajaran Alamiah Nabawiyah
 
-
 ![Tiga Modalitas Gaya Belajar Qur'ani: As-Sam'u, Al-Bashar, Al-Fu'ad](/assets/slides/slide-gaya-belajar-qurani.webp)
 *Tiga Modalitas Gaya Belajar Qur'ani: As-Sam'u, Al-Bashar, Al-Fu'ad*
-
 
 Pendidikan Karakter Nabawiyah merumuskan bahwa proses belajar anak harus selaras dengan hukum alam penciptaan (*sunnatullah kauni*):
 
@@ -125,9 +121,6 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Karakter Belajar
 
 | Dimensi Pendekatan | Gejala Perilaku yang Teramati | Dampak Psikospiritual pada Anak |
@@ -165,7 +158,6 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 
 ---
 
-
 > [!info] Refleksi Lapangan: Mogok Belajar Akibat Desensitisasi Fitrah Intelektual
 > **Kondisi Faktual:** Anak usia 8 tahun (kelas 2 SD) mulai menunjukkan keengganan membuka buku, menangis histeris saat disuruh mengerjakan PR, dan mengeluh kepalanya pusing setiap kali jam belajar tiba.  
 > **Akar Masalah PKN:** Penjejangan kognitif massal gaya Prusia yang memaksa anak duduk diam 6 jam sehari sambil menghafal rumus abstrak, mematikan rasa ingin tahu alami (*curiosity*) dan menguras tangki cinta tanpa memberi ruang gerak fisik kinestetik.  
@@ -199,6 +191,23 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Belajar**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-belajar/](https://sekolahkarakter.com/karakter-belajar/)  
+>   *Menumbuhkan gairah fitrah belajar alami anak tanpa paksaan kurikulum kaku.*  
+>
+> - 🏫 **[SKIS] Gaya Belajar**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/gaya-belajar/](https://sekolahkarakter.com/gaya-belajar/)  
+>   *Memahami 3 modalitas belajar fitrah Qur'ani: Al-Fuad, Al-Bashar, dan As-Sam'u.*  
+>
+> - 🏫 **[SKIS] Cara Mengatasi Anak Yang Susah Belajar**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/cara-mengatasi-anak-yang-susah-belajar/](https://sekolahkarakter.com/cara-mengatasi-anak-yang-susah-belajar/)  
+>   *Solusi praktis merestorasi semangat belajar melalui pendekatan emosi.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

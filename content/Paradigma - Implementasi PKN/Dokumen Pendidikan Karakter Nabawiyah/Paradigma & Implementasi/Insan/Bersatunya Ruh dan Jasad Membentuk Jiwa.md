@@ -7,10 +7,8 @@ tags:
   - jiwa
 ---
 
-
 ![[assets/banners/banner_ruh_jasad_jiwa.webp]]
 *Gambar: Penyatuan Ruh dan Jasad Membentuk Hakikat Jiwa Insan*
-
 
 # Bersatunya Ruh dan Jasad Membentuk Jiwa
 
@@ -36,15 +34,12 @@ Pendidikan Karakter Nabawiyah (PKN) meletakkan pemahaman ini sebagai pondasi uta
 > 📚 **Syarah Al-Hafizh Ibnul Qayyim dalam Kitab ar-Ruh (Fashl 19):**  
 > *"Ruh adalah jauhar lathif (substansi halus) yang bersifat samawi lagi nurani, hidup lagi bergerak, meresap ke dalam sendi-sendi jasad bagaikan meresapnya air mawar ke dalam kelopak mawar atau minyak ke dalam buah zaitun. Selama anggota tubuh masih menerima aliran lathifah ruhaniyah ini, jasad tetap hidup, merasakan kelezatan dan rasa sakit. Bila jasad rusak atau terputus hubungannya, ruh berpisah dan kembali ke alam barzakh. Ketika ruh bersatu dengan jasad materi, lahirlah sifat-sifat nafsaniah yang menuntut pembersihan dan penggemblengan."*
 
-
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D8%B3%D9%8E%D9%88%D9%8E%D9%91%D9%8A%D9%92%D8%AA%D9%8F%D9%87%D9%8F%20%D9%88%D9%8E%D9%86%D9%8E%D9%81%D9%8E%D8%AE%D9%92%D8%AA%D9%8F%20%D9%81%D9%90%D9%8A%D9%87%D9%90%20%D9%85%D9%90%D9%86%20%D8%B1%D9%8F%D9%91%D9%88%D8%AD%D9%90%D9%8A%20%D9%81%D9%8E%D9%82%D9%8E%D8%B9%D9%8F%D9%88%D8%A7%20%D9%84%D9%8E%D9%87%D9%8F%20%D8%B3%D9%8E%D8%A7%D8%AC%D9%90%D8%AF%D9%90%D9%8A%D9%86%D9%8E&lang=id)---
 
 ## 1. Analisis Dua Kutub Eksistensial Manusia
 
-
 ![Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)](/assets/slides/slide-tiga-kondisi-jiwa.webp)
 *Tabel Tiga Tingkatan Nafsu Jiwa (Muthmainnah, Lawwamah, Ammarah)*
-
 
 Persatuan antara ruh dan jasad menciptakan polaritas dinamis di dalam diri setiap anak. Memahami polaritas ini menghindarkan orang tua dari kekeliruan mendiagnosis masalah perilaku:
 
@@ -94,9 +89,6 @@ Dalam Islam, jasad dan ruh adalah kesatuan organik yang saling mempengaruhi. Ima
 > [!reflection] Lembar Muhasabah Diri Orang Tua
 > - Ketika anak kita menolak perintah shalat atau malas belajar, apakah kita memandangnya dengan amarah jasad kita, atau kita merenungi bahwa mungkin ruh ananda sedang dahaga karena jarang disapa dengan doa tulus di sepertiga malam terakhir?
 > - Sudahkah kita menyeimbangkan antara asupan gizi fisik tubuh anak dengan asupan gizi iman bagi ruhnya?
-
----
-
 
 ---
 
@@ -157,7 +149,6 @@ Dalam Islam, jasad dan ruh adalah kesatuan organik yang saling mempengaruhi. Ima
 
 ---
 
-
 > [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Bersatunya Ruh dan Jasad Membentuk Jiwa
 > **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
 > **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
@@ -187,6 +178,19 @@ Dalam Islam, jasad dan ruh adalah kesatuan organik yang saling mempengaruhi. Ima
 > - **Materi:** *1. Jiwa dan Metode Mendidiknya*
 >   - 📖 **Rujukan Slide:** Slide Hal. 35–82 (Diagnosis Tingkatan Jiwa Sehat vs Jiwa Terluka)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (22.7 MB)](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jc3yplk9c37449g8mncw0/1.-Jiwa-dan-Metode-Mendidiknya.pptx?rlkey=ero2pmf0x64q28g0atyedidqg&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Kuatkan Akar Pendidikan Pada Anak**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/](https://sekolahkarakter.com/kuatkan-akar-pendidikan-pada-anak/)  
+>   *Mengokohkan akar ruhani dan kesiapan fisik anak sebelum membebaninya.*  
+>
+> - 💡 **[SOTAB] KAMI AJARKAN HURUF, TAPI LUPA MENUMBUHKAN HATI**  
+>   🔗 Sumber Asli: [https://sotabh.com/kami-ajarkan-huruf-tapi-lupa-menumbuhkan-hati/](https://sotabh.com/kami-ajarkan-huruf-tapi-lupa-menumbuhkan-hati/)  
+>   *Kritik pendidikan mekanis yang mengabaikan dimensi ruh dan hati.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -7,10 +7,8 @@ tags:
   - arsip-ceramah
 ---
 
-
 ![[assets/banners/banner_referensi_kajian_video.webp]]
 *Gambar: Arsip Audio Visual Rekaman Kajian dan Dauroh Ilmiah*
-
 
 # Indeks Referensi Kajian Video Pendidikan Karakter Nabawiyah
 
@@ -311,9 +309,6 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
   - *Ringkasan:* Prosesi syahadat Vincentius Fernandus yang masuk Islam dengan kesadaran sendiri, dipimpin Ustadz Abdul Kholiq, disaksikan jamaah Masjid Al-Ukhuwah BSD.
   - *Video Sumber:* Ceramah Parenting (gcKtWcUSfNo)
 
-
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Referensi Kajian Video PKN
@@ -343,8 +338,6 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
 
 ---
 
----
-
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Rencana Pembelajaran Mandiri Wali Santri (Video Learning Log)
@@ -367,7 +360,6 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
 
 ![[canvas/Referensi Kajian Video - Visualisasi Jalur Belajar Video Kajian PKN.canvas]]
 
-
 ---
 
 > [!info] Refleksi Lapangan: Realitas Penerapan Referensi Kajian Video PKN
@@ -387,3 +379,15 @@ Menegakkan keadilan dan mendamaikan anak-anak di rumah.
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Profil Ustadz Abdul Kholiq**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/](https://karakternabawiyah.com/profil-ustadz-abdul-kholiq/)  
+>   *Profil Ustadz Abdul Kholiq dan rekaman ceramah kajian tematik PKN.*  
+>
+> - 🌐 **[PKN] Webinar Meniti Paradigma PKN**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/meniti-paradigma-pkn/](https://karakternabawiyah.com/meniti-paradigma-pkn/)  
+>   *Dokumentasi perjalanan kajian perumusan manhaj PKN.*  

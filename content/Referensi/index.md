@@ -13,7 +13,6 @@ tags:
 ![[assets/banners/banner_referensi_kajian_video.webp]]
 *Gambar: Pusat Pustaka, Arsip Kajian, dan Sumber Rujukan Ilmiah PKN*
 
-
 ---
 
 # Pusat Dokumen & Rujukan Pendidikan Karakter Nabawiyah
@@ -50,7 +49,6 @@ Setiap materi yang dipublikasikan dalam Wiki PKN berpegang teguh pada prinsip ke
 2. **Pemahaman Salafush Shalih:** Istilah-istilah kunci seperti *Fitrah*, *Ammarah*, *Lawwamah*, *Muthmainnah*, *Taisir*, dan *Qudwah* dirujuk langsung pada pemahaman para sahabat dan ulama *ahlus sunnah*.
 3. **Kontekstualisasi Praktis:** Teori tidak dibiarkan mengawang, melainkan dihubungkan dengan instrumen observasi lapangan (seperti pemetaan 40 Bakat fitrah / TB-40).
 
-
 ---
 
 > [!info] Refleksi Lapangan: Pentingnya Kesahihan Rujukan Manhaj
@@ -61,3 +59,15 @@ Setiap materi yang dipublikasikan dalam Wiki PKN berpegang teguh pada prinsip ke
 > 2. Menyediakan akses terbuka terhadap rekaman kajian, bahan tayang asli, dan literatur pendukung.  
 > 3. Membuka ruang partisipasi bagi asatidz, peneliti, dan praktisi untuk berkontribusi melengkapi khazanah ini.
 
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] pendidikan karakter nabawiyah**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/](https://karakternabawiyah.com/)  
+>   *Portal induk resmi Pendidikan Karakter Nabawiyah.*  
+>
+> - 🏫 **[SKIS] Sekilas Pandang**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang/](https://sekolahkarakter.com/sekilas-pandang/)  
+>   *Arsip resmi Sekolah Karakter Imam Syafi'i Semarang.*  

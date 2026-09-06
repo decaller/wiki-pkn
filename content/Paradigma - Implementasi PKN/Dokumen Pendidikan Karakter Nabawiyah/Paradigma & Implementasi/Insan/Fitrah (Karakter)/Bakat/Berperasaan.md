@@ -8,7 +8,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Berperasaan (الشُعُوْر - Asy-Syu'ur)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40](/assets/slides/slide-peta-struktur-tb40.webp)
 *Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40*
-
 
 Dalam kerangka Pendidikan Karakter Nabawiyah, **Bakat Berperasaan** merupakan persilangan antara **Kutub Introvert** (orientasi internal ke dalam diri) dan **Dimensi Rasa / Hati** (*Al-Qalb* pada jiwa muthmainnah).
 
@@ -64,8 +61,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Kadzib / Nifaq (الكَذِب)** — Dusta, menutupi kesalahan dengan rekayasa. *Kuratif:* Bangun rasa aman di rumah; jangan pernah hukum anak yang telah berani jujur mengakui kesalahan.
   * *Ifrath (Berlebih):* **Ifsyaa'us Sirr (إِفْشَاءُ السِّرّ)** — Berbicara terlalu polos hingga membuka aib keluarga atau rahasia penting. *Kuratif:* Dikuatkan dengan pilar *Kitmaanus Sirr* dan *Satr*.
 
-
-
 ---
 
 ### Pilar #13: 'Iffah (العِفَّة - Menjaga Kesucian Jiwa)
@@ -79,8 +74,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Fahsy (الفَحْش)** — Terjerumus pada pergaulan bebas, pornografi, atau serakah harta haram. *Kuratif:* Bentengi pandangan mata, fasilitasi pernikahan dini saat usia syabab bila telah mampu.
   * *Ifrath (Berlebih):* **Was-was / Rohbaniyah (الرَّهْبَانِيَّة)** — Mengharamkan hal-hal mubah dan menjauhi interaksi halal kemasyarakatan. *Kuratif:* Tanamkan sunnah Nabi ﷺ dalam berkeluarga dan bermuamalah.
-
-
 
 ---
 
@@ -96,8 +89,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Ghiibah / Namimah (الغِيْبَة)** — Gemar bergosip, mencela, dan menebar fitnah. *Kuratif:* Puasa bicara sia-sia, perbanyak dzikir lisan.
   * *Ifrath (Berlebih):* **Jubn (الجُبْن)** — Takut berbicara kebenaran saat kemungkaran merajalela. *Kuratif:* Dikuatkan dengan pilar *Syajaa'ah* dan *Nashiihah*.
 
-
-
 ---
 
 ### Pilar #15: Hayaa' (الحَيَاء - Malu Syar'i)
@@ -111,8 +102,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Waqaahah (الوَقَاحَة)** — Muka tebal, tidak punya malu berbuat dosa di ruang publik. *Kuratif:* Tanamkan muraqabatullah sejak usia tamyiz.
   * *Ifrath (Berlebih):* **Duuniyyah (الدُوْنِيَّة)** — Minder patologis, takut tampil, tidak berani menyuarakan hak. *Kuratif:* Penguatan konsep diri beriman melalui pilar *'Izzah*.
-
-
 
 ---
 
@@ -128,8 +117,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
   * *Tafrith (Lalai):* **Thama' / Hasad (الطَّمَع)** — Serakah, tidak pernah puas, iri melihat rezeki tetangga. *Kuratif:* Melatih anak berinfaq dan melihat orang yang berada di bawahnya dalam urusan duniawi.
   * *Ifrath (Berlebih):* **Tawaakul / Kasal (التَّوَاكُل)** — Pasrah buta tanpa ikhtiar, enggan bekerja mencari nafkah halal. *Kuratif:* Integrasikan dengan pilar *Himmah* dan *'Aziimah*.
 
-
-
 ---
 
 ### Pilar #17: Tawaadhu' (التَّوَاضُع - Kerendahan Hati)
@@ -143,9 +130,6 @@ Bakat Berperasaan menaungi **6 Pilar Karakter Mulia (TB40)** yang terbagi ke dal
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Kibr (الكِبْر)** — Sombong, memandang remeh orang lain, menolak nasihat. *Kuratif:* Ajak anak berkhidmat melayani orang-orang lemah dan berziarah kubur.
   * *Ifrath (Berlebih):* **Mahaanah (المَهَانَة)** — Menghinakan diri di hadapan orang kaya atau pelaku maksiat. *Kuratif:* Kokohkan dengan pilar *'Izzah* Islamiyah.
-
----
-
 
 ---
 
@@ -240,10 +224,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[Tazkiyatun Nafs]] — Metodologi Pembersihan Jiwa dalam Islam.
 * [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Rumpun Berperasaan
@@ -272,7 +252,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Berperasaan di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Berperasaan karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -307,6 +286,19 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat kepekaan rasa nurani batin (Asy-Syu'ur).*  
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Mengelola kepekaan empati menjadi kekuatan karya kebaikan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

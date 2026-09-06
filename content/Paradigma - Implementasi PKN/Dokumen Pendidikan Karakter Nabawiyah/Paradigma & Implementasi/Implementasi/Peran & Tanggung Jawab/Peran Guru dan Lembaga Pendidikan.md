@@ -8,7 +8,6 @@ tags:
   - kuttab
 ---
 
-
 # Peran Guru & Lembaga Pendidikan: Pewaris Risalah & Mitra Fitrah Keluarga
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat Posisi Guru & Sekolah dalam Perspektif PKN
 
-
 ![Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan](/assets/slides/slide-implementasi-persekolahan.webp)
 *Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan*
-
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah, **Lembaga Pendidikan (Sekolah/Kuttab/Pesantren) berposisi sebagai MITRA KOMPLEMENTER bagi orang tua, BUKAN pengganti fungsi keluarga**:
 * **Menolak Korporatisasi Pendidikan:** Sekolah bukan pabrik pencetak nilai ujian dan guru bukan buruh pengajar yang sekadar mentransfer kurikulum demi gaji. Guru adalah *Mu'addib* (pembina adab) dan *Muslih* (perawat jiwa generasi).
@@ -89,8 +86,6 @@ Dalam kitab *Akhlaqul Ulama* (Hal. 45):
    * Melaporkan portofolio kekuatan karakter anak kepada orang tua secara berkala, bukan sekadar membagikan lembaran angka rapor kognitif.
 3. **Sebagai Qudwah Hayyah (Cermin Hidup Keteladanan):**
    * Menjadi teladan integritas, kejujuran lisan (*Shidq*), kelemahlembutan (*Rifq*), dan ketepatan waktu shalat berjamaah.
-
----
 
 ---
 
@@ -185,10 +180,6 @@ Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al
 * [[Kaidah Implementasi di Berbagai Lembaga]] — 5 Kaidah Penyesuaian Adopsi Berdasarkan Tingkatan Lembaga.
 * [[Recovery]] — Protokol Pemulihan Jiwa dan Kaidah "Tidak Menambah Luka".
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Peran Guru dan Lembaga Pendidikan
@@ -217,7 +208,6 @@ Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Peran Guru dan Lembaga Pendidikan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Peran Guru dan Lembaga Pendidikan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -256,6 +246,31 @@ Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] GURU MANUSIA**  
+>   🔗 Sumber Asli: [https://sotabh.com/guru-manusia/](https://sotabh.com/guru-manusia/)  
+>   *Membangkitkan kembali martabat guru sebagai penumbuh jiwa manusiawi, bukan robot kurikulum.*  
+>
+> - 💡 **[SOTAB] GURU ROBOT BUKAN PENDIDIK**  
+>   🔗 Sumber Asli: [https://sotabh.com/guru-robot-bukan-pendidik/](https://sotabh.com/guru-robot-bukan-pendidik/)  
+>   *Kritik mekanisasi peran guru yang hanya bertindak sebagai penyampai materi ujian.*  
+>
+> - 💡 **[SOTAB] GURUBOT**  
+>   🔗 Sumber Asli: [https://sotabh.com/gurubot/](https://sotabh.com/gurubot/)  
+>   *Bahaya desensitisasi empati pendidik di era otomasi dan digital.*  
+>
+> - 💡 **[SOTAB] ANDAI SEKOLAH DIBUBARKAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/andai-sekolah-dibubarkan/](https://sotabh.com/andai-sekolah-dibubarkan/)  
+>   *Refleksi mendalam fungsi hakiki sekolah sebagai mitra pendukung keluarga.*  
+>
+> - 🌐 **[PKN] Testimoni Akademi Guru**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/testimoni-akademi-guru/](https://karakternabawiyah.com/testimoni-akademi-guru/)  
+>   *Kisah transformasi paradigma para guru peserta Akademi Guru PKN se-Indonesia.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

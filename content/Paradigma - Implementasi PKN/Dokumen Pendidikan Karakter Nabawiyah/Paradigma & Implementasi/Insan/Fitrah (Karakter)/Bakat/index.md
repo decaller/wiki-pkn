@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_bakat.webp]]
 *Gambar: Bakat dan Keunikan Potensi Nabawiyah Setiap Anak*
-
 
 # Karakter Bakat: Menemukan Panggilan Misi Kekhalifahan
 
@@ -56,10 +54,8 @@ Bakat bukanlah sekadar keterampilan duniawi untuk mencari penghasilan material, 
 
 ## 2. Syarat & Rukun 3A Bakat Nabawiyah
 
-
 ![Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)](/assets/slides/slide-rukun-3a-bakat.webp)
 *Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)*
-
 
 Sebuah aktivitas dapat divalidasi sebagai **Bakat Sejati** jika memenuhi satu syarat mutlak dan tiga rukun fundamental:
 
@@ -90,10 +86,8 @@ Aktivitas yang hanya digemari sesaat lalu ditinggalkan ketika bosan bukanlah bak
 
 ## 3. Paradigma Reframing: "Bakat Tersembunyi di Balik Kenakalan Anak"
 
-
 ![Kaidah Reframing: Ada Potensi Bakat Tersembunyi di Balik Kenakalan Anak](/assets/slides/slide-reframing-kenakalan-1.webp)
 *Kaidah Reframing: Ada Potensi Bakat Tersembunyi di Balik Kenakalan Anak*
-
 
 Salah satu revolusi cara pandang dalam *Seminar 2: Tafsir Bakat TB-40* adalah kaidah **Reframing Perilaku**. Di mata orang tua konvensional, anak yang berbeda sering dicap "nakal" atau "bermasalah". Namun, kacamata PKN memandang perilaku tersebut sebagai **sinyal energi bakat yang tersumbat dan mencari jalan keluar**:
 
@@ -118,7 +112,6 @@ Seluruh 40 sifat mulia dalam TB-40 bermuara pada tiga induk bakat nabawiyah:
 ---
 
 ## 5. Tahapan Observasi Berdasarkan Usia Anak
-
 
 1. **Usia 0–7 Tahun (Fase Thufulah): Observasi "SUKA"**  
    - Fokus: Memberikan ragam pengalaman sensorik dan motorik seluas-luasnya di alam terbuka.
@@ -157,8 +150,6 @@ Persilangan antara Kutub Energi Sosial (Introvert vs Extrovert) dan Dimensi Jiwa
 4. **[[Memerintah]] / Mempengaruhi (التَّأْثِيْر):** Extrovert + Karsa — Keberanian memimpin, menggerakkan massa, ketegasan membela.
 5. **[[Bekerja Sama]] (التَّعَامُل):** Extrovert + Cipta — Menjalin diplomasi, mencairkan suasana, mempererat ukhuwah.
 6. **[[Melayani]] (الخِدْمَة):** Extrovert + Rasa — Kedermawanan sosial, mendahulukan orang lain, kesabaran melayani.
-
----
 
 ---
 
@@ -266,15 +257,10 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 * [[8 Standar Implementasi PKN]] — Klausul 8 Perencanaan Kurikulum Bakat dan Klausul 10 Pendewasaan.
 * [[Kaidah Implementasi di Berbagai Lembaga]] — Standardisasi kurikulum fitrah di sekolah formal, pesantren, dan komunitas homeschooling.
 
-
-
 ---
-
-
 
 ![Makna Hakiki Al-Mauhibah (Bakat): Karunia Allah yang Melekat Kuat](/assets/slides/slide-makna-al-mauhibah.webp)
 *Makna Hakiki Al-Mauhibah (Bakat): Karunia Allah yang Melekat Kuat*
-
 
 ---
 
@@ -304,7 +290,6 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
    Ihsan ditugasi merancang sistem penyiraman otomatis untuk taman pesantren. Nilai adab dan akademiknya melonjak karena ia merasa dihargai fitrahnya.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Salah Vonis Kenakalan Anak Akibat Buta Bakat
 > **Kondisi Faktual:** Anak yang banyak bicara di kelas sering divonis guru sebagai biang keributan; anak yang gemar membongkar mainan dicap perusak; anak yang tidak bisa diam dilabeli hiperaktif (ADHD).  
@@ -339,6 +324,27 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Konsep Al-Mauhibah: anugerah potensi unik yang telah diinstal Allah pada setiap anak.*  
+>
+> - 🏫 **[SKIS] Setiap Anak Punya Bakat Unggul**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/](https://sekolahkarakter.com/setiap-anak-punya-bakat-unggul/)  
+>   *Kaidah optimisme fitrah: tidak ada anak bodoh, setiap insan punya keunggulan amal.*  
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Metodologi observasi alamiah mengenali bakat anak melalui Rukun 3A.*  
+>
+> - 🌐 **[PKN] Buku Tafsir Bakat**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-tafsir-bakat-1/](https://karakternabawiyah.com/buku-tafsir-bakat-1/)  
+>   *Buku resmi Kupas Tuntas Tafsir Bakat TB-40 karya Ustadz Abdul Kholiq.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

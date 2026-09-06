@@ -2,7 +2,6 @@
 title: "Luka dan Hutang Pengasuhan"
 ---
 
-
 # Luka dan Hutang Pengasuhan (*Parenting Debt*)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -41,10 +40,8 @@ Sebagaimana hutang finansial yang terus berbunga jika tidak dibayar, hutang peng
 
 ## 2. Mekanisme Terjadinya Hutang per Fase Usia
 
-
 ![Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu](/assets/slides/slide-akhlak-tercela-hutang.webp)
 *Akar Akhlak Tercela dari Luka dan Hutang Pengasuhan Masa Lalu*
-
 
 Hutang pengasuhan terjadi ketika orang tua menerapkan metode yang melompati sunnatullah tahapan perkembangan anak:
 
@@ -140,7 +137,6 @@ Orang tua yang di masa kecilnya:
 > **Bolehkah Orang Tua Meminta Maaf kepada Anak?**  
 > Sangat dianjurkan dan bukan aib! Meminta maaf secara tulus (*"Maafkan Ayah/Bunda ya nak, waktu itu Ayah terpancing emosi..."*) adalah obat paling mujarab yang menembus pikiran bawah sadar anak, mencairkan dendam batin, dan mengajarkan keteladanan sifat *Tawaadhu'* (rendah hati).
 
-
 ---
 
 ## 8. Cara Membayar Hutang Pengasuhan Jarak Jauh (Anak di Pesantren / LDR)
@@ -171,10 +167,6 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
 * [[Recovery]] — Protokol pemulihan terstruktur (EMISOL) dan 9 tahap menghapus noda hati.
 * [[8 Standar Implementasi PKN]] — Standar manajemen penjaminan mutu lembaga dan matriks recovery.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Luka dan Hutang Pengasuhan
@@ -203,7 +195,6 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
    Merumuskan kesepakatan bersama yang adil dan realistis. Melatih tanggung jawab nyata dengan pendampingan penuh kasih sayang dan ketegasan tanpa kezaliman.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Luka dan Hutang Pengasuhan
 > **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Luka dan Hutang Pengasuhan, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
@@ -258,6 +249,19 @@ Banyak orang tua baru menyadari adanya hutang pengasuhan ketika anak sudah terla
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Lunasi satu janji kecil kepada anak yang pernah tertunda pekan ini tanpa mencari alasan lagi.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] RECOVERY KARAKTER BERBASIS FITRAH**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/recovery-karakter-berbasis-fitrah/](https://sekolahkarakter.com/recovery-karakter-berbasis-fitrah/)  
+>   *Pintu gerbang direktori pemulihan luka pengasuhan berbasis fitrah.*  
+>
+> - 💡 **[SOTAB] MENGHAPUS NODA HATI (Bagian 9: Pemulihan luka hati)**  
+>   🔗 Sumber Asli: [https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/](https://sotabh.com/menghapus-noda-hati-bagian-9-pemulihan-luka-hati/)  
+>   *Siklus restorasi kalbu anak dan orang tua.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

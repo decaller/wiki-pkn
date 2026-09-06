@@ -9,7 +9,6 @@ tags:
   - taklif
 ---
 
-
 # Fase Murahaqah (10 – 15 Tahun): Etape Menteri, Tanggung Jawab, & Ambang Taklif
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -33,10 +32,8 @@ tags:
 
 ## 1. Hakikat Fase Murahaqah vs Mitos "Adolescence" Modern
 
-
 ![Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi](/assets/slides/slide-bahasa-tangan-10-baligh.webp)
 *Metode Pendidikan Usia 10–Baligh: Ketegasan Bahasa Tangan & Batas Toleransi*
-
 
 Dalam peradaban Barat sekuler, usia 10–18 tahun dikonstruksikan sebagai masa "Adolescence / Remaja"—masa yang dimaklumi untuk labil, memberontak, mencari jati diri liar, dan bebas dari tanggung jawab kedewasaan.
 
@@ -135,9 +132,6 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Fase Murahaqah (10–15 Tahun)
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -164,7 +158,6 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Murahaqah (10–15 Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Murahaqah (10–15 Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -195,6 +188,27 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
 >   - 📖 **Rujukan Slide:** Slide Hal. 8–34 (Tantangan Psikologis Anak Zaman Now & Panduan Pubertas Menuju Kematangan Aqil-Baligh)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.8 MB)](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/t1tqs4s6zrg936rliclwq/ASYIKNYA-MENJADI-DIRI-SENDIRI-Kelas-6.pptx?rlkey=xxaunru78kc3zdbwggs6lhl6g&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Pendidikan Usia 10-14 Tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-usia-10-14-tahun/](https://sekolahkarakter.com/pendidikan-usia-10-14-tahun/)  
+>   *Fase transisi murahaqah: penegakan disiplin amanah dan pemisahan tempat tidur.*  
+>
+> - 🏫 **[SKIS] Pendidikan Karakter Usia 10-14 tahun**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-10-14-tahun/](https://sekolahkarakter.com/pendidikan-karakter-usia-10-14-tahun/)  
+>   *Strategi pendampingan menjelang pubertas dan kedewasaan akil baligh.*  
+>
+> - 🏫 **[SKIS] PENDIDIKAN ANAK USIA 10 TAHUN s/d BALIGH**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-anak-usia-10-tahun-s-d-baligh/](https://sekolahkarakter.com/pendidikan-anak-usia-10-tahun-s-d-baligh/)  
+>   *Pedoman praktis mendampingi perubahan hormonal dan emosi anak pra-baligh.*  
+>
+> - 🏫 **[SKIS] Ada apa dengan remaja?**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/ada-apa-dengan-remaja/](https://sekolahkarakter.com/ada-apa-dengan-remaja/)  
+>   *Mendekonstruksi mitos kenakalan remaja melalui kacamata syariat.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

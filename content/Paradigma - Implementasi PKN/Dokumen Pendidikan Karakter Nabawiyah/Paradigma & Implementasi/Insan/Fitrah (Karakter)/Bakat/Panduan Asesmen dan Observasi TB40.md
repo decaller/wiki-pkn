@@ -9,7 +9,6 @@ tags:
   - observasi
 ---
 
-
 # Panduan Asesmen dan Observasi TB-40: Metodologi Penemuan Syakilah Insan
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -54,10 +53,8 @@ Tiga Prinsip Fundamental Asesmen TB-40:
 
 ## 2. Dua Modalitas Pengukuran Asesmen TB-40
 
-
 ![Syarat Bakat Sejati: Konsistensi Tanpa Lelah (Dawam)](/assets/slides/slide-syarat-dawam-bakat.webp)
 *Syarat Bakat Sejati: Konsistensi Tanpa Lelah (Dawam)*
-
 
 Instrumen TB-40 dirancang secara fleksibel melalui dua format pengukuran ilmiah:
 
@@ -167,9 +164,6 @@ Hasil asesmen TB-40 kemudian disinergikan dengan 3 komponen evaluasi lainnya dal
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Panduan Asesmen dan Observasi TB40
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -212,7 +206,6 @@ Hasil asesmen TB-40 kemudian disinergikan dengan 3 komponen evaluasi lainnya dal
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Panduan Asesmen dan Observasi TB40
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Panduan Asesmen dan Observasi TB40 sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -246,6 +239,23 @@ Hasil asesmen TB-40 kemudian disinergikan dengan 3 komponen evaluasi lainnya dal
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Observasi keseharian anak untuk memetakan kekuatan sifat dan minat peran.*  
+>
+> - 🏫 **[SKIS] Kiat menggali misteri bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/kiat-menggali-misteri-bakat/](https://sekolahkarakter.com/kiat-menggali-misteri-bakat/)  
+>   *Langkah taktis orang tua menemukan panggilan hidup (*calling*) anak.*  
+>
+> - 🌐 **[PKN] Buku Tafsir Bakat**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-tafsir-bakat-1/](https://karakternabawiyah.com/buku-tafsir-bakat-1/)  
+>   *Instrumen terstandarisasi pengujian bakat nabawiyah.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

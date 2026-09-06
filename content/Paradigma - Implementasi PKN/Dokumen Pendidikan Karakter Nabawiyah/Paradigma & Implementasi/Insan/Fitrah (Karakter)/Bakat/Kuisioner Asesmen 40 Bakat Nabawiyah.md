@@ -9,10 +9,8 @@ tags:
 description: "Instrumen resmi kuisioner self-assessment 40 bakat nabawiyah berbasis skala Likert 5 tingkat, dilengkapi teks Arab, transliterasi, deskriptor perilaku, dan rubrik rekapitulasi kluster."
 ---
 
-
 ![[assets/banners/banner_asesmen_bakat.webp]]
 *Gambar: Kompas Penjelajahan 40 Potensi Bakat Nabawiyah*
-
 
 # Kuisioner Asesmen 40 Bakat Nabawiyah
 
@@ -200,9 +198,6 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Asesmen 40 Bakat Nabawiyah
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -253,7 +248,6 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Asesmen 40 Bakat Nabawiyah
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Asesmen 40 Bakat Nabawiyah sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -283,7 +277,6 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 > - **Materi:** *Materi Seminar 2: Kupas Tuntas Tafsir Bakat TB-40*
 >   - 📖 **Rujukan Slide:** Slide Hal. 30–120 (Formula Asesmen, Analisis Tafrith vs Ifrath, Rukun 3A, dan Pemetaan Karir Peradaban)
 
-
 ![Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)](/assets/slides/slide-rukun-3a-bakat.webp)
 *Formula Rukun 3A Pengembangan Bakat (Alami, Acuhkan Kelemahan Minor, Asah Kekuatan Dominan)*
 
@@ -292,6 +285,19 @@ Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunj
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Buku Tafsir Bakat**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/buku-tafsir-bakat-1/](https://karakternabawiyah.com/buku-tafsir-bakat-1/)  
+>   *Katalog butir pertanyaan kuisioner asesmen 40 pilar bakat.*  
+>
+> - 💡 **[SOTAB] MENGENAL BAKAT CARA ALAMI**  
+>   🔗 Sumber Asli: [https://sotabh.com/mengenal-bakat-cara-alami/](https://sotabh.com/mengenal-bakat-cara-alami/)  
+>   *Validasi hasil tes tertulis dengan observasi perilaku nyata di lapangan.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

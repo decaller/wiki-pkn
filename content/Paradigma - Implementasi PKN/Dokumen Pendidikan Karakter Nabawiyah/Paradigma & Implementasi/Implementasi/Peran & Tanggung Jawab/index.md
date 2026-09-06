@@ -6,10 +6,8 @@ tags:
   - fitrah-nabawiyah
 ---
 
-
 ![[assets/banners/banner_hub_peran_tanggung_jawab.webp]]
 *Gambar: Gerbang Tanggung Jawab dan Naungan Perlindungan Pengasuhan Nabawiyah*
-
 
 # Peran & Tanggung Jawab dalam Pendidikan Karakter Nabawiyah
 
@@ -72,9 +70,6 @@ Seringkali terjadi benturan ekspektasi antara pihak sekolah dan orang tua. Berik
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Peran dan Tanggung Jawab Pengasuhan
 
 | Dimensi Operasional | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Ekosistem |
@@ -102,7 +97,6 @@ Seringkali terjadi benturan ekspektasi antara pihak sekolah dan orang tua. Berik
 
 ---
 
-
 > [!info] Refleksi Lapangan: Realitas Penerapan Peran dan Tanggung Jawab Pengasuhan
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Peran dan Tanggung Jawab Pengasuhan sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
 > **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
@@ -119,26 +113,6 @@ Seringkali terjadi benturan ekspektasi antara pihak sekolah dan orang tua. Berik
 > [!tip] Tips Praktis Hari Ini
 > * **Aksi Sederhana:** Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini: apakah ia mempermudah mekarnya fitrah anak ataukah justru membebani jiwa tanpa dalil yang jelas?
 > * **Tujuan:** Memastikan seluruh instrumen berjalan di atas kaidah *at-taisir* (kemudahan) dan *ar-rifq* (kelembutan).
-
-
-> [!quote] Dokumen & Slide Presentasi Rujukan Resmi PKN
-> Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
->
-> - **Materi:** *Standar Implementasi PKN 11-2024 (Rev 04)*
->   - 📖 **Rujukan Slide:** Dokumen Manual Hal. 10–48 (8 Standar Mutu PKN, Standar Pendewasaan Aqil-Baligh & Tata Kelola Lembaga)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (2.5 MB)](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jp2699r9yutavs9ob49nl/7._Evaluasi__Pendidikan_Karakter_Nabawiyah-1.pdf?rlkey=wu4k8ik616fnmn4rku4agtktb&dl=0)
->
-> - **Materi:** *3. PEMBELAJARAN BERBASIS PROJEK*
->   - 📖 **Rujukan Slide:** Slide Hal. 5–32 (Desain Pembelajaran Berbasis Proyek Karakter & Format RPP Terpadu)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (3.8 MB)](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=1) • [📊 Unduh PPTX Asli (27.7 MB)](https://www.dropbox.com/scl/fi/s5odch61rsyu9gxos96a9/3.-PEMBELAJARAN-BERBASIS-PROJEK.pptx?rlkey=cfru4prp5q37ag3bf4z8jhzcb&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/rib25hfpjgwg9jq4ecnsq/3.-PEMBELAJARAN-BERBASIS-PROJEK.pdf?rlkey=fx25vuj8iz97j9vsl64458di1&dl=0)
->
-> - **Materi:** *6. Implementasi Kurikulum PKN Pada Persekolahan*
->   - 📖 **Rujukan Slide:** Slide Hal. 8–28 (Tahapan Adopsi Kurikulum Karakter pada Sekolah, Pesantren, dan Madrasah)
->   - 🔗 **Akses Berkas:** [📥 Unduh PDF (1.9 MB)](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=1) • [📊 Unduh PPTX Asli (501 KB)](https://www.dropbox.com/scl/fi/d5g15b0din35v06sanzcx/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pptx?rlkey=n7o2e20svwk8p61i7fp9cvcys&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/l31yame2e48ghsq4su02a/6.-Implementasi-Kurikulum-PKN-Pada-Persekolahan.pdf?rlkey=3qcjge7qn0sqebohiybyomkph&dl=0)
->
-> - **Materi:** *10 MASALAH PENDIDIKAN*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
->   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
 
 ---
 
@@ -169,3 +143,20 @@ Sinergi tripartit (Ayah, Bunda, Guru) bergerak dinamis mengikuti kurva kematanga
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Kirimkan pesan singkat ucapan terima kasih dari orang tua kepada guru kelas atas kesabarannya membimbing anak hari ini.
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Tanggung Jawab Pendidikan**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/tanggung-jawab-pendidikan/](https://sekolahkarakter.com/tanggung-jawab-pendidikan/)  
+>   *Arsitektur sinergi tripartit: Orang Tua, Guru, dan Lembaga Pendidikan.*  
+>
+> - 🏫 **[SKIS] Ayah….Bangunlah dari tidurmu**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/ayah-bangunlah-dari-tidurmu/](https://sekolahkarakter.com/ayah-bangunlah-dari-tidurmu/)  
+>   *Pentingnya peran kepemimpinan ayah dalam keluarga.*  
+>
+> - 💡 **[SOTAB] GURU MANUSIA**  
+>   🔗 Sumber Asli: [https://sotabh.com/guru-manusia/](https://sotabh.com/guru-manusia/)  
+>   *Memuliakan martabat pendidik sebagai teladan adab.*  

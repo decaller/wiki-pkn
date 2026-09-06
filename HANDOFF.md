@@ -745,6 +745,22 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 
 ---
 
+### Milestone 51: Injeksi Tautan Artikel Sumber Asli SKIS, SOTAB, dan Portal Resmi PKN `[SELESAI]`
+- **Otomasi Pemetaan & Injeksi Sumber Asli (`scripts/inject_original_source_links.py`):**
+  - Mengembangkan skrip otomatis yang menghubungkan artikel wiki dengan 3 khazanah sumber naskah asli narasumber:
+    1. **Sekolah Karakter Imam Syafi'i (SKIS Semarang)** (`sekolahkarakter.com` - 172 artikel/halaman terarsip)
+    2. **Portal Resmi Manhaj Pendidikan Karakter Nabawiyah** (`karakternabawiyah.com` - 68 artikel & dokumen event terarsip)
+    3. **SOTAB HEBAT** (`sotabh.com` - 117 artikel kurikuler terarsip)
+  - Memetakan secara tematis dan tekstual seluruh naskah wiki, menghasilkan **209 tautan rujukan langsung** ke artikel asli pada **79 berkas artikel wiki**.
+- **Standarisasi Callout Rujukan:**
+  - Disematkan blok resmi `> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait` tepat sebelum materi presentasi/slide PPTX di bagian akhir naskah.
+  - Lengkap dengan badge sumber (`🏫 [SKIS]`, `🌐 [PKN]`, `💡 [SOTAB]`), judul artikel asli, URL klik langsung ke web asal, serta ringkasan konteks relevansinya.
+- **Verifikasi Kualitas & Build Lokal:**
+  - `npx quartz build` sukses memproses 124 berkas Markdown dan mengemisi 1.098 berkas statis ke `public/` dengan 0 broken links dan 0 error.
+  - Verifikasi HTTP pada server lokal (`localhost:8888`) membuktikan seluruh tautan eksternal ter-render valid dan responsif.
+
+---
+
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
 
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |

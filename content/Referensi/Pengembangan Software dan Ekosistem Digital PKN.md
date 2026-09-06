@@ -307,3 +307,12 @@ Bagi para insinyur perangkat lunak (*software engineers*), pengembang web, data 
   - [[Panduan Asesmen dan Observasi TB40]]
   - [[Kuisioner Asesmen 40 Bakat Nabawiyah]]
   - [[Program dan Kegiatan Pendidikan Karakter Nabawiyah]]
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🌐 **[PKN] Tools**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/tools-pkn/](https://karakternabawiyah.com/tools-pkn/)  
+>   *Katalog tools dan aplikasi rekayasa perangkat lunak pendukung manhaj PKN.*  

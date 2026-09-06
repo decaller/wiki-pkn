@@ -8,10 +8,8 @@ tags:
 description: "Kajian komprehensif 4 Elemen Implementasi dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 ---
 
-
 ![[assets/banners/banner_4_elemen_implementasi.webp]]
 *Gambar: Empat Elemen Pondasi Implementasi Pendidikan Karakter*
-
 
 # 4 Elemen Implementasi Pendidikan Karakter Nabawiyah
 
@@ -34,10 +32,8 @@ description: "Kajian komprehensif 4 Elemen Implementasi dalam kerangka manhaj Pe
 
 ## 1. Arsitektur Empat Elemen Ekosistem PKN
 
-
 ![Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan](/assets/slides/slide-implementasi-persekolahan.webp)
 *Rancang Bangun Implementasi Kurikulum PKN pada Lembaga Persekolahan*
-
 
 Agar Pendidikan Karakter Nabawiyah dapat beroperasi secara utuh di rumah dan sekolah, terdapat **4 Elemen Inti** yang harus hadir secara serentak dan saling menopang:
 
@@ -68,9 +64,6 @@ Agar Pendidikan Karakter Nabawiyah dapat beroperasi secara utuh di rumah dan sek
 * **Hakikat:** Mengidentifikasi dan memfasilitasi 40 sifat karakter mulia (TB40) anak hingga bermuara pada karya amal shalih yang solutif bagi umat.
 * **Teladan Rasulullah ﷺ Membina Potensi Khusus:** Beliau mengarahkan Hassan bin Tsabit bersyair membela Islam, mengutus Mush'ab bin Umair berdiplomasi, dan mengangkat Usamah bin Zaid memimpin ekspedisi militer.
 * **Aplikasi Keluarga:** Menggunakan instrumen observasi Rukun 3A (Suka, Bisa, Bermanfaat) untuk menemukan penjurusan profesi anak menjelang usia baligh.
-
----
-
 
 ---
 
@@ -142,10 +135,6 @@ Evaluasi rapor ditopang oleh lembar observasi harian dengan rubrik perilaku konk
 * [[Bahasa Hati]] — Tiga Modalitas Bahasa Hati (Pelayanan, Perlindungan, Kebersamaan).
 * [[Tanggung Jawab Pendidikan]] — Peran Asali Orang Tua dalam Pengasuhan.
 
-
----
-
-
 ---
 
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam 4 Elemen Implementasi
@@ -174,7 +163,6 @@ Evaluasi rapor ditopang oleh lembar observasi harian dengan rubrik perilaku konk
    Menegakkan standar dengan teladan nyata, pendampingan beradab, dan apresiasi tulus atas setiap kemajuan karakter santri.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Realitas Penerapan 4 Elemen Implementasi
 > **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 4 Elemen Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
@@ -213,6 +201,23 @@ Evaluasi rapor ditopang oleh lembar observasi harian dengan rubrik perilaku konk
 > - **Materi:** *10 MASALAH PENDIDIKAN*
 >   - 📖 **Rujukan Slide:** Slide Hal. 15–75 (Diagnosis Akar Krisis Pendidikan Modern & Desain Solutif PKN)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (97.5 MB)](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/jqnc3ldzd7ssjs8q45us9/10-MASALAH-PENDIDIKAN.pptx?rlkey=cpxg69hwsgntk514h37wb2gcr&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakteristik**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakteristik/](https://sekolahkarakter.com/karakteristik/)  
+>   *Empat elemen ekosistem sekolah karakter: Iman, Adab, Belajar, dan Bakat.*  
+>
+> - 🏫 **[SKIS] Sekilas Pandang**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang/](https://sekolahkarakter.com/sekilas-pandang/)  
+>   *Gambaran integrasi 4 elemen kurikulum di Sekolah Karakter Imam Syafi'i.*  
+>
+> - 🌐 **[PKN] Konsep Ideal ke Praktik Nyata**  
+>   🔗 Sumber Asli: [https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/](https://karakternabawiyah.com/konsep-ideal-ke-praktik-nyata/)  
+>   *Penyelarasan elemen kurikulum dengan kebutuhan fitrah anak.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 

@@ -8,7 +8,6 @@ tags:
   - shahabat
 ---
 
-
 # Bakat Bekerja Sama (التَّعَامُل - At-Ta'amul)
 
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
@@ -32,10 +31,8 @@ tags:
 
 ## 1. Hakikat & Kedudukan Konseptual dalam Arsitektur PKN
 
-
 ![Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40](/assets/slides/slide-peta-struktur-tb40.webp)
 *Peta Utuh Struktur & Silsilah Tafsir Bakat TB-40*
-
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah, **Bakat Bekerja Sama** berakar pada persilangan antara **Kutub Ekstrovert** (terbuka menjalin relasi sosial) dan **Dimensi Cipta / Akal** (*Al-'Aql* pada jiwa lawwamah yang mendambakan harmoni dan keadilan).
 
@@ -64,8 +61,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
   * *Tafrith (Lalai):* **'Inaad / Ananiyah (الأَنَانِيَّة)** — Individualis, egois, tidak mau berbagi peran. *Kuratif:* Libatkan dalam proyek kelompok yang mensyaratkan ketergantungan antar anggota.
   * *Ifrath (Berlebih):* **Ittikaaliyah (الاتِّكَالِيَّة)** — Ketergantungan kronis, tidak bisa bekerja mandiri. *Kuratif:* Berikan tugas personal yang menuntut pertanggungjawaban individual.
 
-
-
 ---
 
 ### Pilar #26: Ulfah (الاُلْفَة - Mengharmoniskan Hati)
@@ -79,8 +74,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Namiimah / Furqah (الفُرْقَة)** — Gemar memecah belah dan mengelompokkan kawan (*clique*). *Kuratif:* Ingatkan dengan dosa besar adu domba.
   * *Ifrath (Berlebih):* **Talfiiq / Muhaadanah (المُهَادَنَة)** — Menoleransi kemungkaran demi menjaga keharmonisan semu. *Kuratif:* Tegakkan batas amar ma'ruf nahi munkar.
-
-
 
 ---
 
@@ -96,8 +89,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
   * *Tafrith (Lalai):* **Zhulm / Haif (الظُّلْم)** — Curang, pilih kasih terhadap kawan dekat. *Kuratif:* Latihan menjadi wasit adil dalam permainan anak.
   * *Ifrath (Berlebih):* **Jumuud (الجُمُوْد)** — Kaku secara hukum tanpa mempertimbangkan aspek rahmah dan maslahat. *Kuratif:* Gabungkan dengan pilar *Rifq* dan *Rahmah*.
 
-
-
 ---
 
 ### Pilar #28: Wafaa' (الوَفَاء - Setia Menepati Janji)
@@ -111,8 +102,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Ghadr / Khiyanah (الغَدْر)** — Ingkar janji, khianat kesepakatan. *Kuratif:* Ajarkan bahwa tanda munafik adalah bila berjanji ia ingkar.
   * *Ifrath (Berlebih):* **Wafaa' fil Ma'shiyah (الوَفَاءُ بِالمَعْصِيَة)** — Setia pada ikrar yang melanggar syariat. *Kuratif:* Tegakkan kaidah: *"Tidak ada ketaatan dalam maksiat kepada Khalik."*
-
-
 
 ---
 
@@ -128,8 +117,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
   * *Tafrith (Lalai):* **'Ubus / Quhuth (العُبُوْس)** — Wajah selalu cemberut, kaku, menakutkan orang lain. *Kuratif:* Latihan tersenyum dan menyapa ramah.
   * *Ifrath (Berlebih):* **Katsratul Dhahik (كَثْرَةُ الضَّحِكِ)** — Terlalu banyak tertawa terbahak-bahak hingga mematikan kepekaan hati (*qaswatul qalb*). *Kuratif:* Puasa tawa dan dzikrul maut.
 
-
-
 ---
 
 ### Pilar #30: Basyaasyah (البَشَاشَة - Wajah Ceria Ramah)
@@ -143,8 +130,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Jafaa' (الجَفَاء)** — Sikap dingin, membuang muka saat berpapasan. *Kuratif:* Budayakan salam, senyum, dan sapa di rumah.
   * *Ifrath (Berlebih):* **Riya' / Tasannu' (التَّصَنُّع)** — Senyum palsu diplomatik untuk menutupi kebusukan niat. *Kuratif:* Luruskan keikhlasan batin lillahi ta'ala.
-
-
 
 ---
 
@@ -160,8 +145,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
   * *Tafrith (Lalai):* **Unf / Ghilzhah (العُنْف)** — Kasar, suka membanting barang, membentak. *Kuratif:* Terapi wudhu saat marah dan larangan berbicara saat emosi tinggi.
   * *Ifrath (Berlebih):* **Dhina' / Huun (الهُوْن)** — Terlalu lembek hingga tidak berani menegur kemungkaran fatal. *Kuratif:* Padukan dengan pilar *Ghairah*.
 
-
-
 ---
 
 ### Pilar #32: Mahabbah (المَحَبَّة - Mempererat Cinta Iman)
@@ -175,9 +158,6 @@ Bakat Bekerja Sama membawahi **8 Pilar Karakter Mulia (TB40)** yang terbagi ke d
 * **Diagnosis Deviasi:**
   * *Tafrith (Lalai):* **Bughdh / Jafwah (البُغْض)** — Hati penuh dendam dan permusuhan. *Kuratif:* Mendoakan kebaikan bagi saudaranya di belakangnya.
   * *Ifrath (Berlebih):* **'Isyq Muharram (العِشْق)** — Keterikatan emosional buta yang menggeser cinta mutlak kepada Allah. *Kuratif:* Kokohkan tauhid mahabbah hanya kepada Allah.
-
----
-
 
 ---
 
@@ -272,9 +252,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 
 ---
 
-
----
-
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Nilai Rumpun Bekerja Sama
 
 | Dimensi Sikap | Gejala Lapangan yang Teramati | Dampak Psikospiritual pada Anak |
@@ -301,7 +278,6 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
    Menyepakati aturan bersama dan mengawal pelaksanaannya secara konsisten dengan penuh kasih sayang dan ketegasan beradab.
 
 ---
-
 
 > [!info] Refleksi Lapangan: Tantangan Penerapan Rumpun Bekerja Sama di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Rumpun Bekerja Sama karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
@@ -336,6 +312,19 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 > - **Materi:** *1. 40 PILAR KARAKTER diurai dalam KURIKULUM*
 >   - 📖 **Rujukan Slide:** Slide Hal. 12–48 (Operasionalisasi Bakat ke dalam RPP & Pembelajaran Berbasis Proyek Siswa)
 >   - 🔗 **Akses Berkas:** [📥 Unduh PDF (7.9 MB)](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=1) • [📊 Unduh PPTX Asli (8.8 MB)](https://www.dropbox.com/scl/fi/r8imh9ciuosapo7sghuno/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pptx?rlkey=yky4b5dptr6v9fzszc4qvxwyd&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/64vqc29u401ei6qhemuru/1.-40-PILAR-KARAKTER-diurai-dalam-KURIKULUM.pdf?rlkey=absjy37qzld7hq6ross1pryzm&dl=0)
+
+---
+
+> [!quote] Naskah Sumber Asli & Khazanah Artikel Terkait
+> Materi dalam artikel ini memiliki keterkaitan sanad keilmuan dan disintesis dari naskah/tulisan asli narasumber pada situs resmi berikut:
+>
+> - 🏫 **[SKIS] Karakter Bakat**  
+>   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-bakat/](https://sekolahkarakter.com/karakter-bakat/)  
+>   *Rumpun bakat jejaring dan keharmonisan sosial (At-Ta'amul).*  
+>
+> - 💡 **[SOTAB] MELENGKAPI, BUKAN MENGALAHKAN**  
+>   🔗 Sumber Asli: [https://sotabh.com/melengkapi-bukan-mengalahkan/](https://sotabh.com/melengkapi-bukan-mengalahkan/)  
+>   *Sinergi peradaban: menyatukan keunikan sifat untuk saling melengkapi.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
