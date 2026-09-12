@@ -761,12 +761,39 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 
 ---
 
+### Milestone 52: Korpus Alur Materi Visual `content_flow/` (106 Berkas Flowchart Mermaid PKN) `[SELESAI]`
+- **Duplikasi & Pemisahan Korpus Alur:**
+  - Membuat direktori baru `content_flow/` di root workspace yang menduplikasi hierarki direktori `content/Paradigma - Implementasi PKN/` secara presisi, mengecualikan folder `Template/`.
+  - Berkas alur ditempatkan di root proyek agar terpisah dari publikasi web publik Quartz dan berfungsi optimal untuk studi visual internal / Obsidian.
+- **Standarisasi Format Berkas Alur:**
+  - Setiap berkas di `content_flow/` memiliki anatomi baku:
+    1. *Frontmatter YAML:* Menyimpan `title`, nomor urut pilar (`no`), serta rumpun bakat (`rumpun`).
+    2. *H1 Judul Alur:* Judul materi bersih tanpa nomor markdown mentah.
+    3. *Callout Tautan/Backlink:* Tautan transklusi/backlink langsung ke naskah materi lengkap di `content/Paradigma - Implementasi PKN/...`.
+    4. *Blok Mermaid `flowchart TD`:* Diagram komprehensif 3–4 fase bertahap (*subgraph*) yang membedah *Konsep Dasar/Hakikat* ➔ *Dinamika/Diagnosis Wasathiyah vs Tafrith-Ifrath* ➔ *Metode/Terapi/Pengasuhan* ➔ *Aktualisasi Nyata/Output Kematangan*.
+- **Pembangunan Engine Generator & Validator (`scripts/generate_content_flow.py` & `scripts/validate_mermaid_syntax.py`):**
+  - Mengembangkan engine analitik semantik Python yang membedah berkas sumber berdasarkan arketipe:
+    - *TB-40 Bakat (40 berkas):* Ekstraksi definisi fitrah, diagnosis tafrith-ifrath, solusi penyeimbang, profesi ideal, dan jurusan studi.
+    - *Pangkalan Data TB-40 Index (1 berkas):* Visualisasi relasi 6 rumpun induk bakat, rukun 3A, asesmen alami, dan peta potensi santri.
+    - *Etape Perkembangan (5 berkas):* Alur fase Thufulah, Tamyiz, Murahaqah, Syabab, rentang usia, bahasa pengasuhan, dan indikator kesiapan.
+    - *Trilogi Jiwa (4 berkas):* Dinamika Ammarah, Lawwamah, Muthmainnah, serta tazkiyatun nafs.
+    - *Metode Mendidik (4 berkas):* Sinergi Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan.
+    - *Modul Tematik Lainnya (52 berkas):* Pengelompokan hierarki H2/H3 dan poin kunci ke dalam 4 kuadran fase Mermaid.
+  - Memvalidasi seluruh **106 berkas** menggunakan skrip validator: 100% berkas lolos validasi sintaks Mermaid tanpa error.
+- **Penyusunan Audit Teknis & Roadmap Terpadu:**
+  - `TODO.md`: Roadmap komprehensif pengembangan konten, UX mobile, editorial, SEO, dan otomasi AI.
+  - `SEO_IMPLEMENTATION.md`: Dokumen audit kesiapan SEO teknis Quartz vs *best practices* (JSON-LD, canonical, robots meta, image SEO).
+  - `PAGE_ANALYTICS.md`: Panduan implementasi penyedia analitik bawaan Quartz dan penanganan SPA client-side routing.
+
+---
+
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
 
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
-| :--- | :--- | :--- |
+| :--- | :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 123 berkas Markdown terproses, 1.103 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 124 berkas Markdown terproses, 1.103 berkas web statis terbit |
+| **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
 | **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
 | **Pangkalan Data Embed** | 🟢 **data/onedrive_embed_tokens.json** | 100% token embed per berkas terpetakan rapi |
 | **Skrip Sinkronisasi Embed** | 🟢 **scripts/update_onedrive_embeds.py** | Otomasi pemutakhiran iframe dan tombol aksi lintas 57 artikel materi |
