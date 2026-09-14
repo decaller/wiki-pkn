@@ -8,9 +8,10 @@ Quartz provides out-of-the-box configuration support for multiple third-party an
 
 Quartz natively handles initialization scripts for several standard platforms through configuration parameters:
 
-* **Google Analytics:** Enabled via `{ provider: 'google', tagId: 'G-XXXXXXXXXX' }`.
-* **Privacy-Focused Analytics:** Native support for lightweight alternatives including **Cabin**, **Tinylytics**, and **Matomo**.
+* **Umami Analytics (Rekomendasi Utama):** Enabled via `{ provider: 'umami', websiteId: 'YOUR_WEBSITE_ID', host: 'https://analytics.umami.is' }` (atau domain instance self-hosted di [Coolify](https://umami.is/?utm_source=coolify.io)). Bersifat open-source, bebas cookie, dan patuh GDPR tanpa perlu consent banner yang mengganggu.
+* **Privacy-Focused Analytics Lainnya:** Native support for lightweight alternatives including **Cabin**, **Tinylytics**, **Plausible**, and **Matomo**.
 * **Session Replay & Product Analytics:** Direct integration blocks for **PostHog** and **Microsoft Clarity**.
+* **Google Analytics:** Enabled via `{ provider: 'google', tagId: 'G-XXXXXXXXXX' }`.
 * **Infrastructure Analytics:** Native hook for **Vercel Web Analytics** when hosted on the platform.
 
 ---
