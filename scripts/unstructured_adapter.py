@@ -295,6 +295,128 @@ class UnstructuredAdapter:
 
         return documents
 
+    def build_hierarchical_narrative_graph(
+        self,
+        elements: List[Dict[str, Any]],
+        source_path: Optional[str] = None
+    ) -> Dict[str, Any]:
+        """
+        Build a Two-Layer Graph:
+        1. Structural Hierarchy (Tree-of-Content / TOC)
+        2. Horizontal Narrative Flow (Bidirectional chunk sequence: prev <-> next)
+        Compatible with SurrealDB RELATE syntax.
+        """
+        source_name = Path(source_path).name if source_path else "document"
+        doc_root_id = re.sub(r'[^a-zA-Z0-9_]', '_', Path(source_name).stem).lower()
+
+        toc_nodes = [{
+            "id": f"toc_{doc_root_id}_root",
+            "title": source_name,
+            "level": 0,
+            "parent_id": None,
+            "path": source_name
+        }]
+
+        toc_stack = [toc_nodes[0]]
+        chunk_nodes = []
+        relate_edges = []
+
+        chunk_idx = 0
+        for el in elements:
+            el_type = el.get("type", "")
+            text = (el.get("text") or "").strip()
+            if not text:
+                continue
+
+            el_id = el.get("element_id") or f"el_{chunk_idx}"
+
+            # 1. Structural TOC Node (Title/Header/Subheader)
+            if el_type in ("Title", "Header", "Subheader"):
+                level = 1 if el_type == "Title" else (2 if el_type == "Header" else 3)
+                clean_title = re.sub(r'\s+', ' ', text)[:100]
+                slug = re.sub(r'[^a-zA-Z0-9_]', '_', clean_title.lower())[:30]
+                node_id = f"toc_{doc_root_id}_{slug}_{len(toc_nodes)}"
+
+                # Adjust TOC stack based on level
+                while len(toc_stack) > level:
+                    toc_stack.pop()
+                parent_toc = toc_stack[-1]
+
+                toc_item = {
+                    "id": node_id,
+                    "title": clean_title,
+                    "level": level,
+                    "parent_id": parent_toc["id"],
+                    "path": f"{parent_toc['path']} > {clean_title}"
+                }
+                toc_nodes.append(toc_item)
+                toc_stack.append(toc_item)
+                relate_edges.append({
+                    "from": f"toc:{node_id}",
+                    "rel": "part_of",
+                    "to": f"toc:{parent_toc['id']}"
+                })
+            else:
+                # 2. Sequential Narrative Chunk
+                active_toc = toc_stack[-1]
+                chunk_idx += 1
+                chunk_id = f"c_{doc_root_id}_{chunk_idx}"
+
+                chunk_item = {
+                    "id": chunk_id,
+                    "element_id": el_id,
+                    "category": el_type,
+                    "text": text,
+                    "seq_index": chunk_idx,
+                    "part_of_toc_id": active_toc["id"],
+                    "toc_path": active_toc["path"],
+                    "prev_chunk_id": f"c_{doc_root_id}_{chunk_idx - 1}" if chunk_idx > 1 else None,
+                    "next_chunk_id": None
+                }
+
+                if chunk_nodes:
+                    chunk_nodes[-1]["next_chunk_id"] = chunk_id
+                    relate_edges.append({
+                        "from": f"chunk:{chunk_nodes[-1]['id']}",
+                        "rel": "next",
+                        "to": f"chunk:{chunk_id}"
+                    })
+                    relate_edges.append({
+                        "from": f"chunk:{chunk_id}",
+                        "rel": "previous",
+                        "to": f"chunk:{chunk_nodes[-1]['id']}"
+                    })
+
+                chunk_nodes.append(chunk_item)
+                relate_edges.append({
+                    "from": f"chunk:{chunk_id}",
+                    "rel": "part_of",
+                    "to": f"toc:{active_toc['id']}"
+                })
+
+        # Generate SurrealQL preview statements
+        surrealql_lines = []
+        for toc in toc_nodes:
+            escaped_title = toc['title'].replace('"', '\\"')
+            surrealql_lines.append(f'CREATE toc:{toc["id"]} SET title = "{escaped_title}", level = {toc["level"]}, path = "{toc["path"]}";')
+        for chunk in chunk_nodes[:30]:
+            clean_text = chunk['text'].replace('"', '\\"').replace('\n', ' ')[:300]
+            surrealql_lines.append(f'CREATE chunk:{chunk["id"]} SET text = "{clean_text}", seq_index = {chunk["seq_index"]}, toc_id = "{chunk["part_of_toc_id"]}";')
+        for edge in relate_edges[:30]:
+            surrealql_lines.append(f"RELATE {edge['from']}->{edge['rel']}->{edge['to']};")
+
+        return {
+            "source": str(source_path) if source_path else source_name,
+            "toc_count": len(toc_nodes),
+            "chunk_count": len(chunk_nodes),
+            "edges_count": len(relate_edges),
+            "toc_nodes": toc_nodes,
+            "chunk_nodes": chunk_nodes,
+            "relate_edges": relate_edges,
+            "surrealql_preview": surrealql_lines
+        }
+
+
     def process_file_with_cache(
         self,
         file_path: Union[str, Path],
@@ -333,6 +455,7 @@ class UnstructuredAdapter:
         tables = self.extract_tables(elements)
         markdown_content = self.elements_to_markdown(elements)
         langchain_docs = self.elements_to_langchain_documents(elements, source_path=str(path))
+        hierarchical_graph = self.build_hierarchical_narrative_graph(elements, source_path=str(path))
 
         payload = {
             "file_name": path.name,
@@ -340,9 +463,11 @@ class UnstructuredAdapter:
             "file_hash": file_hash,
             "elements_count": len(elements),
             "tables_count": len(tables),
+            "toc_nodes_count": hierarchical_graph.get("toc_count", 0),
             "elements": elements,
             "tables": tables,
-            "langchain_documents": langchain_docs
+            "langchain_documents": langchain_docs,
+            "hierarchical_graph": hierarchical_graph
         }
 
         with open(cache_file, "w", encoding="utf-8") as f:

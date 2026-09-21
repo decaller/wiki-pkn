@@ -45,7 +45,7 @@ flowchart TD
     end
 
     subgraph S3["3. Fase Kompilasi Syarah & Kaidah Tarbiyah"]
-        N3_1["SalafSyarahRetrieverNode<br/>Ekstraksi kutipan penjelasan ulama salaf"]
+        N3_1["SalafSyarahRetrieverNode<br/>Ekstraksi syarah ulama salaf via Qaf AI Engine"]
         N3_2["PedagogicalFawaidSynthesizer<br/>Perumusan fawaid tarbawiyyah bagi pendidik"]
         N3_3["BacklinkCrossReferenceNode<br/>Pemetaan ke artikel materi yang memakai dalil ini"]
         N2_2 --> N3_1 & N3_2 & N3_3
@@ -108,7 +108,7 @@ class DalilPageState(TypedDict):
 ### Rincian Fungsi Node Kunci:
 1. **`QdrantOpenBayanMatcherNode`**: Menghubungi instance `local_qdrant` pada port 6333 untuk mencocokkan potongan lafaz dengan database teks Arab terbesar, mencegah kesalahan penyalinan (*tashhif* atau *tahrif*).
 2. **`SanadClassifierNode`**: Memfilter hanya hadits-hadits yang berstatus **Shahih** atau **Hasan** untuk dijadikan dalil fondasi aqidah dan metodologi PKN. Hadits dha'if tidak boleh dijadikan rujukan mandiri tanpa catatan ketat.
-3. **`SalafSyarahRetrieverNode`**: Mengumpulkan pandangan ulama yang spesifik membahas interaksi Nabi dengan anak-anak, hukum mendidik, serta tazkiyatun nufus.
+3. **`SalafSyarahRetrieverNode` (Integrasi Qaf AI SDK)**: Mengintegrasikan SDK Python `qaf_wrapper` (`QafClient`) untuk menelusuri 320+ rujukan kitab klasik (Syarah Shahih Muslim An-Nawawi, Fathul Bari Ibnu Hajar, Tuhfatul Maudud Ibnul Qayyim, dll.) guna menyarikan penjelasan ulama mu'tabar yang spesifik membahas interaksi Nabi dengan anak-anak dan hukum tarbiyatul aulad.
 
 ---
 

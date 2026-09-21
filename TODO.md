@@ -72,6 +72,21 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
   - *Deskripsi:* Membuat kamus istilah khas PKN dan mengganti/menyederhanakan diksi rumit agar mudah dipahami oleh guru dan orang tua awam.
   - *Perkiraan Token AI:* ~600k - 1M token (ekstraksi entitas istilah Arab/pedagogis khas PKN dan perumusan definisi kontekstual).
   - *Kebutuhan HITL:* Tinggi (verifikasi ketepatan definisi syar'i dan pedagogis oleh ustadz/ahli).
+- [ ] **Standarisasi Progressive Disclosure & Framework Diátaxis pada Generator Konten**
+  - *Deskripsi:* Menerapkan pedoman [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) pada seluruh naskah dan generator AI. Menata artikel ke dalam 4 lapisan bertingkat (Layer 1: Hook/TL;DR 10 detik, Layer 2: Core Flow Mermaid & Dalil Primer 2 menit, Layer 3: Syarah Salaf & Protokol Aksi KBM 10 menit, Layer 4: Raw Takhrij, Transkrip Video, & Graf Triples dalam `<details>`), serta memisahkan intensi konten berdasarkan 4 kuadran Diátaxis (Tutorials, How-To, Reference, Explanation) untuk mencegah artikel menjadi *flat text dump*.
+  - *Status Kemajuan:*
+    - [x] Panduan arsitektur informasi & template naskah di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
+    - [ ] Penerapan template prompt pada *Drafter & Clarity Agent* di LangGraph
+    - [ ] Retrofit halaman-halaman yang sudah ada dengan summary box & collapsible raw data
+  - *Perkiraan Token AI:* ~400k - 800k token (penyusunan prompt generator, retrofit naskah yang ada, dan evaluasi keterbacaan).
+  - *Kebutuhan HITL:* Sedang (inspeksi konsistensi format dan keterbacaan artikel oleh tim redaksi).
+- [ ] **Validasi Kepatuhan Gaya Penulisan Ustadz Abdul Kholiq (Style Compliance Audit)**
+  - *Deskripsi:* Mengimplementasikan validator otomatis pada pipeline LangGraph berbasis panduan [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) dan skrip [`scripts/audit_content_gaps.py`](scripts/audit_content_gaps.py) untuk memastikan setiap naskah mematuhi 6 pilar pedagogis khas beliau: metafora fitrah ("Koneksi Sebelum Koreksi"), dalil interaksi fisik nabawiyah, diagnosis Tafrith vs Ifrath, pembagian 4 etape usia (*Thufulah–Syabab*), protokol *manhaj tadarruj*, serta blok instrumen terapan (rubrik 3-level non-angka, 3 pertanyaan reflektif muhasabah malam, dan 1 aksi cepat *Quick Win*).
+  - *Status Kemajuan:*
+    - [x] Panduan gaya & parameter audit 10 poin di [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) `[SELESAI]`
+    - [ ] Integrasi node evaluasi gaya ke *Pedagogical Critic Agent* di LangGraph
+  - *Perkiraan Token AI:* ~200k - 400k token (evaluasi kepatuhan gaya naskah dan feedback perbaikan draf).
+  - *Kebutuhan HITL:* Sedang (kalibrasi sensitivitas deteksi gaya bersama tim asatidzah/kurator).
 
 ---
 
@@ -271,23 +286,74 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Membangun sistem pipeline pemrosesan dokumen otomatis menggunakan LangChain dan LangGraph (serta visualisasi state graph via LangGraph Flow/Studio) untuk orkestrasi ekstraksi multi-modal (PDF, PPTX, XLSX, transkrip kajian), rekonstruksi materi tematik, verifikasi dalil syar'i via OpenBayan, standardisasi 9 lapisan format, hingga peninjauan *human-in-the-loop*.
   - *Status Kemajuan:*
     - [x] Spesifikasi master arsitektur & 10 desain pipeline tematik di [`pipeline_designs/`](pipeline_designs/README.md) `[SELESAI]`
+    - [x] Desain siklus multi-agent debate (Drafter, Sharia Auditor, Pedagogy Critic, Clarity Editor, Supervisor) `[SELESAI]`
     - [ ] Implementasi runner State Graph LangGraph & integrasi node Langflow
   - *Perkiraan Token AI:* ~300k - 600k token (pembuatan arsitektur state graph, perancangan prompt per node, dan integrasi API tools).
   - *Kebutuhan HITL:* Tinggi (validasi titik approval intervensi manusia sebelum naskah masuk ke repositori).
+- [ ] **Implementasi Dewan Musyawarah Redaksi AI (Multi-Agent Editorial Council & Critique Loop)**
+  - *Deskripsi:* Membangun siklus perdebatan dan evaluasi kritis multi-agent berbasis persona pada LangGraph untuk menguji dan memperbaiki naskah secara iteratif sebelum sampai ke meja kurator manusia:
+    1. **Drafter:** Merakit draf lengkap berstandar 9 lapisan.
+    2. **Sharia Auditor (Faqih):** Audit keabsahan dalil, harakat teks Arab, derajat hadits via Qdrant `shamela_11m`, serta pencegahan takwil serampangan.
+    3. **Pedagogical Critic (Guru Praktisi):** Menguji kepraktisan implementasi KBM di kelas/rumah, menuntut contoh konkret, dan validasi formula *'ilaj*.
+    4. **Clarity Redactor:** Mengoptimalkan skor keterbacaan, memangkas kalimat berbelit, dan memastikan kepatuhan glosarium PKN.
+    5. **Consensus Supervisor:** Mengagregasi feedback, membatasi putaran debat (maksimal 2–3 putaran), dan memicu gerbang persetujuan manusia jika konsensus $\ge 85\%$.
+  - *Perkiraan Token AI:* ~200k - 400k token (orkestrasi prompt persona, evaluasi multi-turn reflection, dan pengujian batas konvergensi).
+  - *Kebutuhan HITL:* Sedang (kalibrasi prompt persona agen bersama asatidzah dan penentuan ambang batas konsensus).
+- [ ] **Prototype Runner Pipeline LangGraph Pertama (Pipeline 05 TB-40 & Pipeline 07 Dalil)**
+  - *Deskripsi:* Membangun skrip eksekutor Python pertama (`scripts/pipeline_runner_tb40.py` & `scripts/pipeline_runner_dalil.py`) yang menginstansiasi StateGraph LangGraph, memanggil adapter Unstructured (port 8005), terhubung ke API Asesmen TB-40 (port 4040), dan vector database Qdrant `shamela_11m` (port 6333) untuk membuktikan kelayakan end-to-end tanpa menunggu buku cetak fisik.
+  - *Perkiraan Token AI:* ~120k - 250k token (coding state graph runner, penanganan error/retry, dan formatting markdown Quartz v5).
+  - *Kebutuhan HITL:* Rendah (verifikasi eksekusi skrip dan validasi sintaks file markdown yang dihasilkan).
 - [ ] **Migrasi Pemrosesan Dokumen ke Unstructured API ([unstructured-api](https://github.com/Unstructured-IO/unstructured-api))**
   - *Deskripsi:* Memigrasikan layer ekstraksi dan parsing dokumen multi-modal (PDF, PPTX, XLSX, DOCX, dan scan buku) dari script parser lokal ke Unstructured API (self-hosted Docker / Cloud API) untuk partisi dokumen terstruktur, ekstraksi tabel presisi tinggi, chunking semantik berbasis elemen (Title, Table, NarrativeText), serta integrasi langsung sebagai Document Loader di pipeline LangChain/LangGraph.
   - *Status Kemajuan:*
     - [x] Rencana implementasi teknis & alokasi port host `8005` (lihat [implementation_plan.md](file:///home/abuhafi/.gemini/antigravity-ide/brain/c5f632a1-642b-45fa-87cc-28e8af74a811/implementation_plan.md)) `[SELESAI]`
     - [x] Berkas deployment [`docker-compose.unstructured.yml`](docker-compose.unstructured.yml) (kompatibel DIUN & healthcheck) `[SELESAI]`
     - [x] Client adapter Python [`scripts/unstructured_adapter.py`](scripts/unstructured_adapter.py) (partisi elemen, tabel ke markdown, LangChain chunking, MD5 caching) `[SELESAI]`
+    - [x] Generator Hierarchical Narrative Graph (TOC + prev/next chunk edges) di [`scripts/unstructured_adapter.py`](scripts/unstructured_adapter.py) `[SELESAI]`
     - [x] Skrip uji & validasi [`scripts/benchmark_extraction.py`](scripts/benchmark_extraction.py) (unit test table converter & schema transformer) `[SELESAI]`
     - [ ] Peluncuran container & batch ingestion dokumen PDF/PPTX `searchable_pdfs/` ke vector store
   - *Perkiraan Token AI:* ~150k - 300k token (pembuatan adapter API client Python, konfigurasi deployment container, transformasi skema chunking, dan pengujian perbandingan akurasi ekstraksi).
   - *Kebutuhan HITL:* Sedang (evaluasi presisi hasil partisi teks, struktur tabel, dan teks Arab berharakat pada sampel dokumen PDF modul PKN).
+- [ ] **Arsitektur GraphRAG Heterogen & Bobot Sumber (Unstructured ➔ Schema Extractor ➔ SurrealDB & Qdrant)**
+  - *Deskripsi:* Membangun engine GraphRAG terspesialisasi untuk menangani korpus heterogen PKN (Buku rujukan, Slide PPTX, Transkrip audio 122 video di `pkn.db`, Modul PDF, dan data terstruktur JSON):
+    1. **Front-Door Ingestion:** Memanfaatkan container `unstructured-api` (port 8005) untuk preservasi tata letak slide presentasi (.pptx), tabel perbandingan, dan hierarki heading buku.
+    2. **Hierarki Bobot Otoritas (*Source Weighting*):** Menetapkan bobot ilmiah berjenjang: Kitab Induk/Buku Manhaj (`authority_score = 0.9`), Slide Presentasi (`0.7`), Transkrip Audio Tanya-Jawab (`0.4`), dan JSON terstruktur.
+    3. **Pre-cleaning Transkrip & Schema-Constrained Triples:** Pembersihan *conversational filler words* pada 1.159 bab transkrip rekaman video sebelum ekstraksi; membatasi ekstraksi entitas graf menggunakan Pydantic / LlamaIndex `SchemaLLMPathExtractor` yang dikunci ketat pada taksonomi baku PKN (40 Pilar TB-40, 4 Fase Usia Thufulah–Syabab, 3 Dimensi Jiwa, 3 Bahasa Mendidik, Hubungan Dalil).
+    4. **Penyimpanan Graph & Hybrid Retrieval (RRF):** Menyimpan simpul dan relasi `RELATE` pada container `open-notebook-surrealdb-1` (port 8000), dipadukan dengan pencarian semantik teks hadits/dalil pada container `local_qdrant` (port 6333, koleksi `shamela_11m`). Memadukan pencarian teks Arab presisi (BM25/Full-text) dan pencarian vektor semantik via Reciprocal Rank Fusion (RRF).
+    5. **Hierarchical Tree-of-Content & Sequential Narrative Flow:** Mengintegrasikan model graf dokumen dua lapis: simpul vertikal Daftar Isi (`part_of`) untuk top-down routing bab, dipadu dengan relasi baca horizontal (`next` dan `previous`) antar-chunk untuk memecahkan masalah kata ganti (*coreference*) dan mencegah pemotongan fatwa syar'i secara serampangan.
+    6. **Small-to-Big & Contextual Situational Prefix:** Mengindeks *child chunk* (~150 token) untuk presisi pencarian, namun menyuplai *parent section* (~1.200 token) ke LLM; menyematkan awalan situasional 50-token `[Konteks: Dokumen, Bab, Etape Usia]` untuk mengeliminasi kesalahan konteks hukum antar-fase usia anak.
+  - *Perkiraan Token AI:* ~400k - 850k token (perumusan ontologi Pydantic, pembuatan extractor triples, integrasi client SurrealDB/Qdrant, dan evaluasi akurasi jawaban).
+  - *Kebutuhan HITL:* Tinggi (validasi keabsahan skema relasi karakter dan review hasil jawaban RAG oleh tim asatidzah/kurator).
+- [ ] **Kompilasi Wiki Otomatis Pola 3-Pass Map-Reduce (Map-Reduce Wiki Compiler)**
+  - *Deskripsi:* Membangun arsitektur 3 lintasan (*three-pass compilation*) untuk mengompilasi korpus multi-modal (8 buku cetak, slide daurah, dan 122 video `pkn.db`) menjadi halaman Quartz v5 berstandar Diátaxis tanpa distorsi fakta:
+    1. **Pass 1 (Map / Ingestion):** Parsing via Unstructured, ekstraksi proposisi fakta atomik, dan perakitan pohon Daftar Isi (TOC Tree).
+    2. **Pass 2 (Shuffle / Topic Clustering):** Mengelompokkan seluruh proposisi dan kutipan yang merujuk pada topik/entitas tertentu, diurutkan berdasarkan skor otoritas ilmiah (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`).
+    3. **Pass 3 (Reduce / Wiki Synthesis):** Sintesis naskah 9 lapisan Progressive Disclosure. Friksi/kontradiksi konten diselesaikan dengan mengutamakan sumber berbobot tertinggi dan mencatat perbedaannya pada seksi *Catatan Khilafiyah Lapangan*.
+  - *Perkiraan Token AI:* ~250k - 500k token (orkestrasi prompt Map-Reduce, clustering entitas, dan resolusi kontradiksi).
+  - *Kebutuhan HITL:* Sedang (inspeksi konsistensi hasil clustering dan validasi aturan resolusi kontradiksi).
 - [ ] **Asisten Tanya Jawab PKN (Chatbot RAG Khusus)**
-  - *Deskripsi:* Fitur AI pintar pencari solusi yang menjawab pertanyaan seputar PKN berbasis dokumen dan dalil di wiki ini (*grounded QA*).
+  - *Deskripsi:* Fitur AI pintar pencari solusi yang menjawab pertanyaan seputar PKN berbasis dokumen, graf konsep, dan dalil di wiki ini (*grounded QA* memanfaatkan layer GraphRAG di atas).
   - *Perkiraan Token AI:* ~250k - 500k token (setup chunking, embedding korpus, perumusan system prompt, dan evaluasi retrieval).
   - *Kebutuhan HITL:* Tinggi (evaluasi mitigasi halusinasi terhadap dalil dan panduan adab).
+- [ ] **Mekanisme Compounding Queries (Konversi Tanya-Jawab RAG Menjadi Halaman Wiki Permanen)**
+  - *Deskripsi:* Menghubungkan chatbot RAG asisten PKN ke siklus akumulasi pengetahuan (*Compounding Knowledge Loop*): saat asisten menghasilkan sintesis jawaban bernilai tinggi atas problematika pengasuhan/KBM yang kompleks, jawaban tersebut tidak hilang di riwayat chat, melainkan otomatis dikompilasi menjadi draf artikel baru di direktori `content/Insight & Teknis/` atau FAQ terindeks via branch staging Git (`ingest/qna-...`), sehingga ilmu terus bertambah (*compounding*) dan siap diretrieve instan pada pencarian berikutnya.
+  - *Perkiraan Token AI:* ~200k - 350k token (orkestrasi QnA synthesizer, pemetaan wikilinks, dan pembuatan draf Diátaxis).
+  - *Kebutuhan HITL:* Sedang - Tinggi (review kurator/asatidzah sebelum draf jawaban RAG di-merge ke branch `main`).
+- [ ] **Arsitektur Tiga Tingkat "LLM-as-Librarian" & Pembaruan Diferensial (The Karpathy Wiki Pattern)**
+  - *Deskripsi:* Menerapkan pemisahan mutlak tiga lapisan sistem:
+    1. **Tier 1 (Raw Ingestion / Immutable):** Berkas PDF, PPTX, transkrip rekaman video `pkn.db`, dan JSON (Read-Only bagi LLM).
+    2. **Tier 2 (Living Wiki Layer / Mutable Markdown):** Naskah wiki di `content/` yang dikelola LLM melalui pembaruan diferensial (*patching over rewriting* — menghitung delta informasi baru, memperbarui metadata sumber di frontmatter, dan mencatat log di changelog).
+    3. **Tier 3 (Schema & Agent Rules):** Panduan Diátaxis, style guide Ustadz Abdul Kholiq, dan aturan penulisan.
+    4. **Traceability Back-Pointers:** Setiap proposisi penting memuat catatan kaki/jangkar tak kasat mata ke berkas sumber mentah di Tier 1 (misal: `[^source-1]: Kajian_2026-03.mp4 @ 14:20`).
+  - *Perkiraan Token AI:* ~200k - 400k token (pembuatan diff patcher, pelacakan sitasi presisi, dan skrip update parsial).
+  - *Kebutuhan HITL:* Sedang (audit konsistensi perubahan diferensial pada artikel eksisting).
+- [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
+  - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
+    1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
+    2. **Contradiction Auditing:** Memindai halaman-halaman yang bertopik sama untuk mendeteksi pernyataan yang bertolak belakang (*mutually exclusive*) dan mengusulkan resolusi berbasis skor otoritas.
+    3. **Synthesis Candidate Detection:** Mendeteksi konsep yang saling merujuk silang lebih dari $N$ kali untuk diusulkan pembuatan halaman komparasi/sintesis payung baru.
+  - *Perkiraan Token AI:* ~150k - 300k token (script linter markdown, parsing regex wikilinks, dan prompt deteksi kontradiksi).
+  - *Kebutuhan HITL:* Rendah (peninjauan laporan temuan linter berkala).
 - [ ] **Otomasi Transkripsi Kajian Suara (Speech-to-Text Pipeline)**
   - *Deskripsi:* Pipeline AI (Whisper) untuk transkripsi otomatis rekaman audio kajian/halaqah menjadi draf tulisan terstruktur.
   - *Perkiraan Token AI:* ~100k - 200k token (coding pipeline Whisper + prompt pembersihan ucapan/filler words bahasa Indonesia & istilah Arab).

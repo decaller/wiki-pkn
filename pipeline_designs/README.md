@@ -9,8 +9,10 @@ Sistem ini mengorkestrasi konversi bahan ajar multi-modal mentah (PDF hasil scan
 ## 1. Landasan Filosofis & Arsitektur Ekosistem
 
 Pipeline pemrosesan dokumen Wiki-PKN didesain dengan memadukan ketelitian ilmiah, keabsahan dalil syar'i, dan otomatisasi modern:
-1. **Otentisitas & Validasi Syar'i (Manhaj Nabawiyah):** Setiap kutipan ayat Al-Qur'an dan Hadits diverifikasi secara semantik dan tekstual ke korpus digital terpercaya (Maktabah Syamilah / OpenBayan).
-2. **Standardisasi Anatomi 9 Lapisan:** Dokumen wiki menjaga konsistensi format mulai dari frontmatter, callout metodologi, konsep fondasional, relevansi syarah salaf, diagnosis *tafrith-ifrath*, hingga solusi kuratif praktis (*manhaj tadarruj*).
+1. **Otentisitas & Validasi Syar'i Ganda (OpenBayan & Qaf AI):** 
+   - **OpenBayan (`local_qdrant` :6333):** Memverifikasi keaslian teks Al-Qur'an dan Hadits bersanad melalui pencarian vektor ke 11 juta matan Maktabah Syamilah (`shamela_11m`).
+   - **Qaf AI (`qaf_wrapper`):** Menyuplai syarah ulama salaf, atsar sahabat, dan kajian maqashid syariah dari 320+ rujukan kitab klasik (*Ihya Ulumiddin, Tuhfatul Maudud, Al-Muwafaqat, Fathul Bari*).
+2. **Standardisasi Progressive Disclosure & Framework Diátaxis:** Menerapkan pedoman [DIATAXIS_PROGRESSIVE_DISCLOSURE.md](DIATAXIS_PROGRESSIVE_DISCLOSURE.md) untuk menyusun naskah 4 lapisan progresif (TL;DR Hook 10 detik, Arsitektur Inti 2 menit, Detail Eksekutif 10 menit, dan Data Mentah/Takhrij/Transkrip dalam `<details>` collapsible) agar materi padat informasi namun tetap nikmat dibaca.
 3. **Ekosistem Multi-Kontainer Terpadu:** Pipeline memanfaatkan kontainer yang telah aktif di lingkungan server (lihat [CONTAINERS_ECOSYSTEM.md](../CONTAINERS_ECOSYSTEM.md)):
    - **`unstructured-api` (Port 8005):** Ekstraksi elemen dokumen mentah (Title, Table, NarrativeText).
    - **`local_qdrant` (Port 6333):** Vector DB korpus Hadits `shamela_11m` untuk takhrij dan pencarian syarah.
@@ -54,9 +56,10 @@ flowchart TD
         P10["10. Halaman Profil Lembaga<br/>(Best Practices Sekolah)"]
     end
 
-    subgraph VERIFICATION["4. Validasi Eksternal & HITL"]
-        QDRANT["OpenBayan / Qdrant<br/>Takhrij Dalil Syamilah"]
-        TB40_API["Engine Asesmen TB40<br/>Validasi Sifat & 'Ilaj"]
+    subgraph VERIFICATION["4. Validasi Syar'i Eksternal & HITL"]
+        QDRANT["OpenBayan / Qdrant (Port 6333)<br/>Takhrij Matan Hadits shamela_11m"]
+        QAF_AI["Qaf AI Engine (qaf_wrapper)<br/>Riset Syarah Turats 320+ Maraji'"]
+        TB40_API["Engine Asesmen TB40 (Port 4040)<br/>Validasi Sifat & 'Ilaj"]
         HITL_GATE["Gerbang Tinjauan Manusia<br/>(HITL Checkpoint)"]
     end
 
@@ -72,6 +75,7 @@ flowchart TD
     ROUTER --> P1 & P2 & P3 & P4 & P5 & P6 & P7 & P8 & P9 & P10
 
     P3 & P7 & P8 --> QDRANT
+    P3 & P4 & P7 & P8 --> QAF_AI
     P5 --> TB40_API
 
     P1 & P2 & P3 & P4 & P5 & P6 & P7 & P8 & P9 & P10 --> HITL_GATE
@@ -105,22 +109,24 @@ Semua pipeline dibangun di atas skema state Python terstandarisasi (`DocumentPro
 from typing import TypedDict, List, Dict, Any, Optional
 
 class DocumentProcessingState(TypedDict):
-    # Data Masukan Mentah
+    # Data Masukan Mentah & Pembobotan Otoritas Sumber
     source_file_path: str
-    source_file_type: str            # 'pdf', 'pptx', 'audio', 'chat', 'json'
+    source_file_type: str              # 'pdf', 'pptx', 'audio', 'chat', 'json'
+    source_authority_score: float      # 0.9 (Buku Manhaj), 0.7 (Slide), 0.4 (Transkrip Audio), 0.8 (Data TB40)
     raw_text: str
-    raw_elements: List[Dict[str, Any]] # Hasil Unstructured API
+    raw_elements: List[Dict[str, Any]] # Hasil partisi Unstructured API (Port 8005)
     
     # Metadata & Klasifikasi
-    page_type: str                   # 'index', 'nav', 'theme', 'case_study', dll.
+    page_type: str                     # 'index', 'nav', 'theme', 'case_study', dll.
     title: str
     target_slug: str
     tags: List[str]
     
-    # Hasil Ekstraksi & Pengayaan
+    # Hasil Ekstraksi & Relasi Graf (SurrealDB & Qdrant)
     extracted_concepts: List[str]
+    graph_triples: List[Dict[str, str]] # [{'sub': '...', 'pred': 'RELATE', 'obj': '...'}] untuk SurrealDB
     dalil_candidates: List[Dict[str, Any]]
-    verified_dalil: List[Dict[str, Any]] # Hasil takhrij OpenBayan
+    verified_dalil: List[Dict[str, Any]] # Hasil takhrij Qdrant shamela_11m
     syarah_quotes: List[Dict[str, Any]]
     tafrith_ifrath_analysis: Dict[str, Any]
     action_protocols: List[Dict[str, Any]]
@@ -130,17 +136,145 @@ class DocumentProcessingState(TypedDict):
     mermaid_diagrams: List[str]
     canvas_references: List[str]
     
-    # Gerbang Kontrol Mutu (HITL)
-    hitl_status: str                 # 'pending', 'approved', 'rejected', 'needs_revision'
+    # Siklus Musyawarah Multi-Agent (Debate & Critique Loop)
+    iteration_round: int               # Batas putaran perdebatan (default: 1, maks: 3)
+    multi_agent_critiques: List[Dict[str, Any]] # Riwayat ulasan dari Sharia, Pedagogy, & Clarity Agent
+    consensus_score: float             # Nilai kelayakan publikasi (0.0 - 1.0)
+    
+    # Gerbang Kontrol Mutu Akhir (HITL)
+    hitl_status: str                   # 'pending', 'approved', 'rejected', 'needs_revision'
     reviewer_notes: Optional[str]
-    review_level: str                # 'Rendah', 'Sedang', 'Tinggi', 'Sangat Tinggi'
+    review_level: str                  # 'Rendah', 'Sedang', 'Tinggi', 'Sangat Tinggi'
 ```
 
 ---
 
-## 5. Direktori Dokumen Desain Pipeline
+## 5. Arsitektur Multi-Agent Debate & Refinement Loop ("Dewan Musyawarah Redaksi AI")
 
+Untuk menjamin mutu naskah setara telaah dewan pakar, pipeline mengadopsi pola **Multi-Agent Collaborative Critique & Debate** sebelum naskah diserahkan ke manusia (*HITL Gate*). Empat persona agen berkolaborasi dalam siklus refleksi terkelola:
+
+```mermaid
+flowchart TD
+    subgraph DRAFTING["1. Penyusunan Draf Awal"]
+        Drafter["📝 Drafter Agent (Perumus Manhaj)<br/>Menyusun draf 9 lapisan anatomi dari korpus mentah"]
+    end
+
+    subgraph DEBATE_COUNCIL["2. Dewan Musyawarah Redaksi (Multi-Agent Panel)"]
+        direction TB
+        ShariaAuditor["⚖️ Sharia Auditor Agent (Faqih)<br/>• Audit matan Arab & harakat via Qdrant<br/>• Takhrij kesahihan sanad & syarah salaf<br/>• Mencegah takwil serampangan"]
+        PedagogyCritic["🌱 Pedagogical Critic Agent (Guru Praktisi)<br/>• Uji kelayakan KBM di kelas & rumah<br/>• Tuntutan contoh aplikatif & formula 'ilaj<br/>• Deteksi diksi yang terlalu teoretis"]
+        ClarityRedactor["✍️ Clarity & Language Editor (Redaktur)<br/>• Pemangkasan kalimat berbelit & pasif<br/>• Konsistensi glosarium istilah PKN<br/>• Penataan ritme & keindahan bahasa"]
+    end
+
+    subgraph SUPERVISOR["3. Konsensus & Arbitrasi"]
+        ConsensusNode{"⚖️ Consensus Supervisor Node<br/>Hitung skor kelayakan & agregasi kritik"}
+        RefinePrompt["Perumusan Umpan Balik Perbaikan<br/>(Actionable Revision Notes)"]
+    end
+
+    subgraph FINAL_GATES["4. Validasi Akhir"]
+        HITLGate{"👤 Gerbang HITL Manusia<br/>(Asatidzah & Tim Kurator)"}
+        QuartzPublish["🚀 Terbitkan ke Quartz v5"]
+    end
+
+    Drafter --> ShariaAuditor & PedagogyCritic & ClarityRedactor
+    ShariaAuditor & PedagogyCritic & ClarityRedactor --> ConsensusNode
+
+    ConsensusNode -->|Skor < 0.85 & Round <= 3| RefinePrompt
+    RefinePrompt -->|Revisi Draf Terarah| Drafter
+
+    ConsensusNode -->|Skor >= 0.85 atau Round > 3| HITLGate
+    HITLGate -->|Disetujui| QuartzPublish
+    HITLGate -->|Revisi Manual| Drafter
+```
+
+### Rincian Peran & Tugas Dewan Agen:
+1. **Drafter Agent (Perumus Manhaj):**
+   - Mengambil intisari dari Unstructured elements dan menyusun struktur lengkap 9 lapisan.
+2. **Sharia Auditor Agent (Penelaah Syar'i / Faqih Persona):**
+   - Menghubungkan dalil ke **OpenBayan (Qdrant `shamela_11m`)** untuk verifikasi teks Arab berharakat & takhrij nomor hadits.
+   - Memanggil **Qaf AI (`qaf_wrapper`)** untuk cross-check kutipan syarah ulama salaf (Ibnul Qayyim, Al-Ghazali, Ibnu Hajar, Asy-Syathibi) guna mencegah takwil serampangan.
+3. **Pedagogical Critic Agent (Praktisi Lapangan & Auditor Gaya Ustadz Abdul Kholiq):**
+   - Menguji kepatuhan naskah terhadap 6 pilar pedagogis Ustadz Abdul Kholiq (lihat [USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)): metafora fitrah (*Koneksi Sebelum Koreksi*, dll.), pembagian 4 etape usia (*Thufulah–Syabab*), diagnosis *Tafrith vs Ifrath*, rubrik observasi 3-level non-angka, 3 pertanyaan muhasabah malam, dan 1 aksi cepat (*Quick Win*). Menolak draf yang hanya berisi teori tanpa instrumen terapan.
+4. **Clarity & Language Editor (Redaktur Bahasa):**
+   - Mengaudit skor keterbacaan (*readability score*), menyelaraskan ejaan kata serapan Arab (misal: *Shalat, Ifrath, Tafrith, Syaja'ah*), dan menyusun struktur paragraf yang enak dibaca.
+5. **Consensus Supervisor Node (Arbitrator):**
+   - Membatasi debat maksimal 2–3 putaran untuk mencegah pemborosan token (*token burn limit*). Menguji ambang batas kepatuhan gaya $\ge 85\%$ sebelum naskah diajukan ke kurator manusia.
+
+---
+
+## 6. Arsitektur Graf Dokumen Dua Lapis (Tree-of-Content & Sequential Narrative Graph)
+
+Untuk mengeliminasi risiko *flat vector search* yang kerap memotong konteks syar'i secara arbitrer (misalnya fatwa tahapan usia terlepas dari bab aslinya), sistem pemrosesan dokumen PKN mengadopsi arsitektur **Graf Dokumen Dua Lapis**:
+
+```mermaid
+flowchart TD
+    subgraph L1["<b>Layer 1: Structural Tree (Daftar Isi / TOC)</b>"]
+        Doc["Buku / Modul PKN"]
+        Ch["Bab 3: Etape Usia & Disiplin Nabawiyah"]
+        Sec1["Seksi 3.2: Fase Tamyiz (7-10 Th)"]
+        Sec2["Seksi 3.3: Fase Murahaqah (10-14 Th)"]
+        Doc --> Ch
+        Ch --> Sec1 & Sec2
+    end
+
+    subgraph L2["<b>Layer 2: Sequential Narrative Flow (Urutan Baca Horisontal)</b>"]
+        C1["Chunk A:<br/>'Stimulasi Bahasa Hati & Dialog'"]
+        C2["Chunk B:<br/>'Namun pendekatan ini memerlukan...'"]
+        C3["Chunk C:<br/>'Batas sanksi tegas & pisah ranjang'"]
+        
+        C1 <-- next / prev --> C2
+        C2 <-- next / prev --> C3
+    end
+
+    Sec1 -.->|part_of| C1
+    Sec1 -.->|part_of| C2
+    Sec2 -.->|part_of| C3
+```
+
+### Mekanisme Perayapan Berstatus (*Stateful Hierarchical Crawl*):
+1. **Top-Down TOC Routing:** Kueri pengguna dicocokkan terlebih dahulu ke simpul **Daftar Isi (TOC)** untuk mengisolasi bab yang relevan (misal: membedakan aturan *Fase Tamyiz* vs *Fase Murahaqah*).
+2. **Scoped Vector Search:** Pencarian vektor hanya dilakukan pada *chunks* di bawah naungan simpul TOC tersebut, mengeliminasi false-positive dari bab yang tidak relevan.
+3. **Horizontal Narrative Expansion:** Jika potongan teks terpilih mengandung kata rujukan (*"pendekatan ini"*, *"tahapan tersebut"*), agen otomatis merayap $\pm 1$ hop horisontal (`<-previous-` dan `-next->`) untuk menarik konteks pembuka dan penutup.
+4. **Implementasi SurrealDB:** Struktur ini diekstrak otomatis oleh [`scripts/unstructured_adapter.py`](../scripts/unstructured_adapter.py) melalui method `build_hierarchical_narrative_graph` dan disimpan dengan relasi `part_of`, `next`, dan `previous` pada container `open-notebook-surrealdb-1` (Port 8000).
+
+---
+
+## 7. Pola Enterprise RAG & Kompilasi Wiki 3-Pass (Map-Reduce)
+
+Untuk menjamin presisi ilmiah dan mencegah halusinasi saat mereduksi puluhan dokumen multi-modal, pipeline menerapkan 5 pola standar industri modern:
+
+### A. Small-to-Big Retrieval (Parent-Document Indexing)
+* **Child Chunk (~150 token):** Di-generate per butir dalil atau per indikator adab, lalu diindeks ke Vector DB untuk akurasi pencarian tinggi.
+* **Parent Section (~1.200-1.500 token):** Sub-bab tematik lengkap yang disimpan dengan pointer `parent_id`.
+* **Eksekusi:** Mesin mencocokkan *child vector*, namun menyuplai *parent section* utuh ke prompt LLM agar konteks tidak terpotong.
+
+### B. Contextual Document Embeddings (Situational Prefix)
+Setiap potongan teks diberikan awalan situasional 50–100 token sebelum proses embedding (mengurangi *retrieval failure* hingga 35-50%):
+```text
+[Konteks: Modul Standar PKN | Bab: Etape Usia Nabawiyah | Fase: Murahaqah (10-14 Th) | Topik: Disiplin Shalat]
+"Terapkan sanksi tegas dan pisahkan tempat tidurnya setelah 3 tahun pembiasaan bahasa hati..."
+```
+
+### C. Dense Proposition Extraction (Dekomposisi Proposisi Atomik)
+Narasi panjang dipecah menjadi klaim fakta atomik mandiri bebas basa-basi. Proposisi ini memetakan langsung ke simpul graf SurrealDB dan butir matriks indikator TB-40.
+
+### D. Hybrid Search dengan Reciprocal Rank Fusion (RRF)
+Menggabungkan keunggulan pencarian teks Arab presisi (BM25/Full-text) dan pencarian semantik (Vector HNSW) di SurrealDB:
+$$\text{RRF Score}(d) = \sum_{m \in \{\text{vector, bm25}\}} \frac{1}{60 + r_m(d)}$$
+Sangat tangguh menangani nomor ayat (*QS. Qaf: 9*), nomor hadits (*Bukhari 5997*), dan transliterasi istilah Arab (*Shidq*, *Iffah*).
+
+### E. Arsitektur Kompilasi Wiki 3-Pass (The Map-Reduce Pattern)
+1. **Pass 1: Extraction & Ingestion (Per File):** Parsing dokumen via Unstructured, ekstraksi proposisi & TOC Tree.
+2. **Pass 2: Topic / Entity Clustering (Grouping):** Mengumpulkan seluruh proposisi yang terkait `[[Nama_Entitas]]`, dikelompokkan berdasarkan bobot otoritas (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`).
+3. **Pass 3: Wiki Synthesis (The Reduce Step):** Menulis naskah final berstandar Diátaxis & Progressive Disclosure. Jika terjadi pertentangan materi antar-sumber, sistem memprioritaskan skor otoritas tertinggi dan mencatat perbedaan pandangan di seksi *Catatan Khilafiyah Lapangan*.
+
+---
+
+## 8. Direktori Dokumen Desain Pipeline
+ 
 Silakan merujuk ke masing-masing dokumen spesifikasi detail berikut:
+- 📐 **[Standar Progressive Disclosure & Framework Diátaxis](DIATAXIS_PROGRESSIVE_DISCLOSURE.md)** *(Pedoman Format & Anatomi Naskah)*
+- 🖋️ **[Panduan Gaya Penulisan Ustadz Abdul Kholiq](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)** *(Pedoman Voice, Tone, & 6 Pilar Pedagogis)*
 - 📖 [01. Pipeline Halaman Utama (Portal Indeks)](01_pipeline_halaman_utama.md)
 - 🗺️ [02. Pipeline Halaman Navigasi (Peta Alur & MOC)](02_pipeline_halaman_navigasi.md)
 - 💎 [03. Pipeline Halaman Fokus Bahasan Satu Tema](03_pipeline_halaman_fokus_satu_tema.md)

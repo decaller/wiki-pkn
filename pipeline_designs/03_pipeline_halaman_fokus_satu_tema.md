@@ -114,8 +114,9 @@ class ThemePageState(TypedDict):
 ### Rincian Fungsi Node Kunci:
 1. **`UnstructuredLoaderNode`**: Memanggil endpoint `POST http://localhost:8005/general/v0/general` dengan parameter `strategy="hi_res"` untuk mengekstrak teks, hierarki judul, dan tabel dari dokumen modul PKN.
 2. **`OpenBayanQdrantNode`**: Melakukan pencarian kemiripan semantik (*dense retrieval*) terhadap matan dalil ke Qdrant port 6333 koleksi `shamela_11m`, mengunci nomor hadits resmi dan teks Arab berharakat otentik.
-3. **`PolarityDiagnosticNode`**: Mengekstrak fenomena penyimpangan perilaku pengasuhan menjadi dua jurang ekstrim (misal: pada tema *Disiplin*, Tafrith = pembiaran anarkis tanpa aturan; Ifrath = kekerasan fisik dan hukuman tanpa dialog emosional).
-4. **`CanvasLinkResolver`**: Mengaitkan artikel dengan berkas visualisasi konsep `.canvas` (misal: `content/canvas/Trilogi_Jiwa.canvas`) sesuai panduan kestabilan Quartz.
+3. **`SalafSyarahEnricherNode` (Integrasi Qaf AI & Turats):** Memanggil client `qaf_wrapper` (`QafClient`) untuk menelusuri 320+ maraji' kitab klasik (seperti *Ihya Ulumiddin*, *Madarijus Salikin*, *Al-Mustashfa*, *Tuhfatul Maudud*, dan *Fathul Bari*) guna menyematkan kutipan kontekstual ulama salaf yang memperkuat dalil.
+4. **`PolarityDiagnosticNode`**: Mengekstrak fenomena penyimpangan perilaku pengasuhan menjadi dua jurang ekstrim (misal: pada tema *Disiplin*, Tafrith = pembiaran anarkis tanpa aturan; Ifrath = kekerasan fisik dan hukuman tanpa dialog emosional).
+5. **`CanvasLinkResolver`**: Mengaitkan artikel dengan berkas visualisasi konsep `.canvas` (misal: `content/canvas/Trilogi_Jiwa.canvas`) sesuai panduan kestabilan Quartz.
 
 ---
 
