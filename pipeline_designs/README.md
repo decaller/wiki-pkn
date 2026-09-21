@@ -265,8 +265,48 @@ Sangat tangguh menangani nomor ayat (*QS. Qaf: 9*), nomor hadits (*Bukhari 5997*
 
 ### E. Arsitektur Kompilasi Wiki 3-Pass (The Map-Reduce Pattern)
 1. **Pass 1: Extraction & Ingestion (Per File):** Parsing dokumen via Unstructured, ekstraksi proposisi & TOC Tree.
-2. **Pass 2: Topic / Entity Clustering (Grouping):** Mengumpulkan seluruh proposisi yang terkait `[[Nama_Entitas]]`, dikelompokkan berdasarkan bobot otoritas (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`).
+2. **Pass 2: Topic / Entity Clustering (Grouping):** Mengumpulkan seluruh proposisi yang terkait `[[Nama_Entitas]]`, dikelompokkan berdasarkan bobot otoritas (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`). Menerapkan algoritma *Louvain Community Detection* (pola `nashsu/llm_wiki`) untuk mendeteksi klaster materi yang saling bertalian.
 3. **Pass 3: Wiki Synthesis (The Reduce Step):** Menulis naskah final berstandar Diátaxis & Progressive Disclosure. Jika terjadi pertentangan materi antar-sumber, sistem memprioritaskan skor otoritas tertinggi dan mencatat perbedaan pandangan di seksi *Catatan Khilafiyah Lapangan*.
+
+### F. Dual-Level GraphRAG (Pola LightRAG) & AutoMergingRetriever
+Mengadopsi keunggulan arsitektur open-source mutakhir:
+1. **Dual-Level Retrieval (Pola LightRAG):**
+   - *High-Level Retrieval:* Menjawab kueri komprehensif, tema makro, ringkasan bab, dan filosofi manhaj tarbiyah.
+   - *Low-Level Retrieval:* Menjawab detail teknis, takhrij dalil ayat/hadits tertentu, batasan usia, dan indikator perilaku TB-40.
+   - Mendukung pembaruan graf secara inkremental tanpa komputasi ulang seluruh graf.
+2. **AutoMergingRetriever (Pola LlamaIndex):**
+   - Mengindeks *leaf chunks* kecil (~150 token). Jika lebih dari $N$ child chunk dari sub-bab yang sama memenuhi ambang pencarian (*search threshold*), engine otomatis mengonsolidasikan dan menyuplai *parent section* (bab utuh) ke LLM untuk menjaga keutuhan konteks hukum/dalil.
+3. **Traceability Back-Pointers (Pola Karpathy & nashsu/llm_wiki):**
+   - Setiap berkas halaman di `content/` menyertakan blok frontmatter pelacak sumber mentah:
+   ```yaml
+   sources:
+     - file: "searchable_pdfs/Buku_Manhaj_PKN_Vol1.pdf"
+       pages: [42, 43, 44]
+       authority: 0.9
+     - file: "pkn.db/videos/104"
+       timestamp: "00:14:20 - 00:18:45"
+       authority: 0.4
+   ```
+
+### G. Standard Recommended Toolchain Setup
+```text
+[Buku Cetak, Slide PPTX, Transkrip Audio pkn.db, Arsip Catatan]
+                     │
+                     ▼
+1. INGESTION        : Unstructured-IO (Port 8005) Layout & Element Partitioning
+                     │
+                     ▼
+2. ORCHESTRATE      : LightRAG & LlamaIndex HierarchicalNodeParser (TOC + Dual-Level Retrieval)
+                     │
+                     ▼
+3. STORAGE          : SurrealDB (Graph & Hybrid RRF) + Qdrant (Port 6333 shamela_11m)
+                     │
+                     ▼
+4. COMPILER         : Karpathy/nashsu LLM-Wiki Prompt Script (Differential Patching & [[WikiLinks]])
+                     │
+                     ▼
+5. PRESENTATION     : Quartz v5 (Fast SPA, Native Graph View, Backlinks, Diátaxis Markdown)
+```
 
 ---
 

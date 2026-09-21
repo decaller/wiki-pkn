@@ -321,13 +321,16 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     3. **Pre-cleaning Transkrip & Schema-Constrained Triples:** Pembersihan *conversational filler words* pada 1.159 bab transkrip rekaman video sebelum ekstraksi; membatasi ekstraksi entitas graf menggunakan Pydantic / LlamaIndex `SchemaLLMPathExtractor` yang dikunci ketat pada taksonomi baku PKN (40 Pilar TB-40, 4 Fase Usia Thufulah–Syabab, 3 Dimensi Jiwa, 3 Bahasa Mendidik, Hubungan Dalil).
     4. **Penyimpanan Graph & Hybrid Retrieval (RRF):** Menyimpan simpul dan relasi `RELATE` pada container `open-notebook-surrealdb-1` (port 8000), dipadukan dengan pencarian semantik teks hadits/dalil pada container `local_qdrant` (port 6333, koleksi `shamela_11m`). Memadukan pencarian teks Arab presisi (BM25/Full-text) dan pencarian vektor semantik via Reciprocal Rank Fusion (RRF).
     5. **Hierarchical Tree-of-Content & Sequential Narrative Flow:** Mengintegrasikan model graf dokumen dua lapis: simpul vertikal Daftar Isi (`part_of`) untuk top-down routing bab, dipadu dengan relasi baca horizontal (`next` dan `previous`) antar-chunk untuk memecahkan masalah kata ganti (*coreference*) dan mencegah pemotongan fatwa syar'i secara serampangan.
-    6. **Small-to-Big & Contextual Situational Prefix:** Mengindeks *child chunk* (~150 token) untuk presisi pencarian, namun menyuplai *parent section* (~1.200 token) ke LLM; menyematkan awalan situasional 50-token `[Konteks: Dokumen, Bab, Etape Usia]` untuk mengeliminasi kesalahan konteks hukum antar-fase usia anak.
-  - *Perkiraan Token AI:* ~400k - 850k token (perumusan ontologi Pydantic, pembuatan extractor triples, integrasi client SurrealDB/Qdrant, dan evaluasi akurasi jawaban).
+    6. **Dual-Level GraphRAG (Pola LightRAG) & AutoMergingRetriever (LlamaIndex):**
+       - Menerapkan arsitektur dua tingkat: *High-Level Retrieval* untuk ringkasan bab dan manhaj makro, serta *Low-Level Retrieval* untuk dalil spesifik dan indikator karakter mikro.
+       - Menerapkan `AutoMergingRetriever`: saat beberapa *leaf chunks* (~150 token) dari sub-bab yang sama terpicu, sistem otomatis menggabungkannya menjadi *parent section* (~1.200 token) untuk LLM.
+    7. **Small-to-Big & Contextual Situational Prefix:** Mengindeks *child chunk* (~150 token) untuk presisi pencarian, namun menyuplai *parent section* (~1.200 token) ke LLM; menyematkan awalan situasional 50-token `[Konteks: Dokumen, Bab, Etape Usia]` untuk mengeliminasi kesalahan konteks hukum antar-fase usia anak.
+  - *Perkiraan Token AI:* ~450k - 900k token (perumusan ontologi Pydantic, dual-level retrieval runner, integrasi client SurrealDB/Qdrant, dan evaluasi akurasi jawaban).
   - *Kebutuhan HITL:* Tinggi (validasi keabsahan skema relasi karakter dan review hasil jawaban RAG oleh tim asatidzah/kurator).
 - [ ] **Kompilasi Wiki Otomatis Pola 3-Pass Map-Reduce (Map-Reduce Wiki Compiler)**
   - *Deskripsi:* Membangun arsitektur 3 lintasan (*three-pass compilation*) untuk mengompilasi korpus multi-modal (8 buku cetak, slide daurah, dan 122 video `pkn.db`) menjadi halaman Quartz v5 berstandar Diátaxis tanpa distorsi fakta:
     1. **Pass 1 (Map / Ingestion):** Parsing via Unstructured, ekstraksi proposisi fakta atomik, dan perakitan pohon Daftar Isi (TOC Tree).
-    2. **Pass 2 (Shuffle / Topic Clustering):** Mengelompokkan seluruh proposisi dan kutipan yang merujuk pada topik/entitas tertentu, diurutkan berdasarkan skor otoritas ilmiah (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`).
+    2. **Pass 2 (Shuffle / Topic Clustering):** Mengelompokkan seluruh proposisi dan kutipan yang merujuk pada topik/entitas tertentu menggunakan algoritma *Louvain Community Detection* (pola `nashsu/llm_wiki`), diurutkan berdasarkan skor otoritas ilmiah (`Buku Manhaj 0.9 > Slide 0.7 > Transkrip Audio 0.4`).
     3. **Pass 3 (Reduce / Wiki Synthesis):** Sintesis naskah 9 lapisan Progressive Disclosure. Friksi/kontradiksi konten diselesaikan dengan mengutamakan sumber berbobot tertinggi dan mencatat perbedaannya pada seksi *Catatan Khilafiyah Lapangan*.
   - *Perkiraan Token AI:* ~250k - 500k token (orkestrasi prompt Map-Reduce, clustering entitas, dan resolusi kontradiksi).
   - *Kebutuhan HITL:* Sedang (inspeksi konsistensi hasil clustering dan validasi aturan resolusi kontradiksi).
@@ -344,7 +347,7 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     1. **Tier 1 (Raw Ingestion / Immutable):** Berkas PDF, PPTX, transkrip rekaman video `pkn.db`, dan JSON (Read-Only bagi LLM).
     2. **Tier 2 (Living Wiki Layer / Mutable Markdown):** Naskah wiki di `content/` yang dikelola LLM melalui pembaruan diferensial (*patching over rewriting* — menghitung delta informasi baru, memperbarui metadata sumber di frontmatter, dan mencatat log di changelog).
     3. **Tier 3 (Schema & Agent Rules):** Panduan Diátaxis, style guide Ustadz Abdul Kholiq, dan aturan penulisan.
-    4. **Traceability Back-Pointers:** Setiap proposisi penting memuat catatan kaki/jangkar tak kasat mata ke berkas sumber mentah di Tier 1 (misal: `[^source-1]: Kajian_2026-03.mp4 @ 14:20`).
+    4. **Traceability Back-Pointers (Standar `nashsu/llm_wiki` & `awesome-llm-wiki`):** Setiap proposisi penting memuat blok metadata frontmatter `sources: [{file, pages, timestamp, authority}]` serta catatan kaki tak kasat mata ke berkas sumber mentah di Tier 1 (misal: `[^source-1]: Kajian_2026-03.mp4 @ 14:20`).
   - *Perkiraan Token AI:* ~200k - 400k token (pembuatan diff patcher, pelacakan sitasi presisi, dan skrip update parsial).
   - *Kebutuhan HITL:* Sedang (audit konsistensi perubahan diferensial pada artikel eksisting).
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
@@ -352,7 +355,8 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
     2. **Contradiction Auditing:** Memindai halaman-halaman yang bertopik sama untuk mendeteksi pernyataan yang bertolak belakang (*mutually exclusive*) dan mengusulkan resolusi berbasis skor otoritas.
     3. **Synthesis Candidate Detection:** Mendeteksi konsep yang saling merujuk silang lebih dari $N$ kali untuk diusulkan pembuatan halaman komparasi/sintesis payung baru.
-  - *Perkiraan Token AI:* ~150k - 300k token (script linter markdown, parsing regex wikilinks, dan prompt deteksi kontradiksi).
+    4. **Community Topology Inspection:** Visualisasi klaster topik via Louvain algorithm untuk mendeteksi pulau-pulau materi yang terisolasi dari pohon navigasi utama.
+  - *Perkiraan Token AI:* ~160k - 320k token (script linter markdown, parsing regex wikilinks, dan prompt deteksi kontradiksi).
   - *Kebutuhan HITL:* Rendah (peninjauan laporan temuan linter berkala).
 - [ ] **Otomasi Transkripsi Kajian Suara (Speech-to-Text Pipeline)**
   - *Deskripsi:* Pipeline AI (Whisper) untuk transkripsi otomatis rekaman audio kajian/halaqah menjadi draf tulisan terstruktur.
