@@ -370,6 +370,17 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     4. **Traceability Back-Pointers (Standar `nashsu/llm_wiki` & `awesome-llm-wiki`):** Setiap proposisi penting memuat blok metadata frontmatter `sources: [{file, pages, timestamp, authority}]` serta catatan kaki tak kasat mata ke berkas sumber mentah di Tier 1 (misal: `[^source-1]: Kajian_2026-03.mp4 @ 14:20`).
   - *Perkiraan Token AI:* ~200k - 400k token (pembuatan diff patcher, pelacakan sitasi presisi, dan skrip update parsial).
   - *Kebutuhan HITL:* Sedang (audit konsistensi perubahan diferensial pada artikel eksisting).
+- [x] **Kerangka Presedensi Berjenjang & Peluruhan Waktu (*Tiered Precedence & Decay Framework*)** `[SELESAI]`
+  - *Deskripsi:* Membangun mekanisme mitigasi benturan materi antar-dokumen berdasarkan daur hidup, edisi revisi, dan media:
+    1. **Master Sources Registry (`data/sources_registry.csv`):** Menginventarisasi seluruh sumber PKN dengan penugasan Tier (1: Active Truth, 2: Foundational/Legacy, 3: Ephemeral Audio) dan laju peluruhan $\lambda$.
+    2. **Perhitungan Time-Decay Dinamis (`scripts/source_precedence.py`):** Menghitung bobot efektif $W_{\text{eff}} = W_{\text{tier}} \times e^{-\lambda \cdot \Delta t}$ saat retrieval, dengan proteksi nilai $\lambda = 0.0$ untuk Nash Syar'i abadi (Al-Qur'an & Hadits).
+    3. **Relasi Graf *SUPERSEDES* & Penyajian Naskah Quartz:** Menelusuri rantai silsilah revisi (misal: Buku 2024 *supersedes* Diktat 2016). Konsep lama tetap dipertahankan pada blok collapsible `<details><summary>Catatan Sejarah & Evolusi Manhaj</summary></details>` alih-alih dihapus.
+  - *Status Kemajuan:*
+    - [x] Registry terpusat [`data/sources_registry.csv`](data/sources_registry.csv) `[SELESAI]`
+    - [x] Modul kalkulator presedensi [`scripts/source_precedence.py`](scripts/source_precedence.py) `[SELESAI]`
+    - [x] Template naskah evolusi di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
+  - *Perkiraan Token AI:* ~50k - 100k token.
+  - *Kebutuhan HITL:* Rendah - Sedang.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).

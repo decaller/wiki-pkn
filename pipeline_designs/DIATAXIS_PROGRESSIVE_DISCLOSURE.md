@@ -131,6 +131,14 @@ flowchart LR
 </details>
 
 <details>
+<summary><b>🕰️ Catatan Sejarah & Evolusi Manhaj (Historical Evolution & Legacy Notes)</b></summary>
+
+> **Catatan Pendekatan Terdahulu vs Standar Aktif (Pola Active Truth vs Legacy):**
+> * **Standar Aktif (Edisi Mutakhir 2024):** Menekankan pemisahan tempat tidur dan penerapan Bahasa Tangan secara ketat pada usia 10 tahun penuh setelah 3 tahun pembiasaan Bahasa Hati & Lisan.
+> * **Evolusi Konsep (Diktat 2016 / Kajian Lama):** Pada diktat edisi awal (2016), batasan usia 7–10 tahun belum dirinci secara operasional ke dalam matriks transisi tamyiz. Pembaca disarankan merujuk pada ketentuan buku manhaj terbaru edisi 2024 sebagai acuan baku yang mengesampingkan (*supersedes*) rumusan lama.
+</details>
+
+<details>
 <summary><b>🎙️ Buka Catatan Transkrip Kajian Asli & Timestamp YouTube</b></summary>
 
 * **Narasumber:** Ustadz Abdul Khaliq
