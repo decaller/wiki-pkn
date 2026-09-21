@@ -150,4 +150,87 @@ footer {
   }
 }
 
+// ============================================================================
+// Mobile Responsive Content & Box Wrapping Fixes (TODO Item 1)
+// ============================================================================
+.callout {
+  max-width: 100%;
+  box-sizing: border-box;
+  word-break: break-word;
+  overflow-wrap: break-word;
+
+  & > .callout-title {
+    max-width: 100%;
+    word-break: break-word;
+    overflow-wrap: break-word;
+
+    & > .callout-title-inner {
+      flex: 1 1 auto;
+      min-width: 0;
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
+  }
+
+  & > .callout-content {
+    max-width: 100%;
+    min-width: 0;
+    word-break: break-word;
+    overflow-wrap: break-word;
+
+    p, li, blockquote {
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
+
+    .table-container {
+      max-width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}
+
+// General text, pre, table container mobile safety
+article {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+
+  .table-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 1rem 0;
+
+    & > table {
+      margin: 0;
+      width: 100%;
+    }
+  }
+
+  pre {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media all and ($mobile) {
+  .callout {
+    padding: 0 0.75rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  article .table-container > table {
+    font-size: 0.85rem;
+    th, td {
+      padding: 0.35rem 0.5rem;
+    }
+  }
+}
+
+
 

@@ -19,11 +19,11 @@ Dokumen ini melacak daftar rencana pengembangan konten, pembenahan teknis/UI, ed
 ## 1. UI / UX & Tampilan Frontend
 Fokus pada perbaikan responsivitas perangkat bergerak dan visualisasi informasi.
 
-- [ ] **Perbaikan layout kotak di mobile yang teksnya terpotong**
-  - *Deskripsi:* Fix overflow/wrapping teks pada komponen box/callout/card saat dibuka di viewport mobile (layar sempit).
+- [x] **Perbaikan layout kotak di mobile yang teksnya terpotong** `[SELESAI]`
+  - *Deskripsi:* Fix overflow/wrapping teks pada komponen box/callout/card/tabel saat dibuka di viewport mobile (layar sempit) via SCSS rules di `quartz/styles/custom.scss`.
   - *Prioritas:* Tinggi (Bug UX)
-  - *Perkiraan Token AI:* ~20k - 50k token (inspeksi CSS Quartz, penyesuaian media query, dan pengujian rendering).
-  - *Kebutuhan HITL:* Rendah (inspeksi visual tampilan pada viewport smartphone).
+  - *Perkiraan Token AI:* ~20k - 50k token.
+  - *Kebutuhan HITL:* Rendah.
 - [x] **Pembuatan alur materi visual (folder `content_flow/`)** `[SELESAI]`
   - *Deskripsi:* Menyediakan replika korpus direktori materi PKN di folder `content_flow/` (106 berkas) berisi diagram alur materi terstruktur (Mermaid `flowchart TD`) tanpa konten teks panjang.
   - *Perkiraan Token AI:* ~1.2M token (106 berkas × ~11k token/berkas untuk ekstraksi & sintesis node Mermaid).
@@ -122,10 +122,20 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Deskripsi:* Membuat halaman mandiri untuk setiap dalil (Al-Qur'an dan Hadits) yang memuat teks dalil beserta terjemahan, referensi dalil terkait, serta syarah/komentar para ulama.
   - *Perkiraan Token AI:* ~2.5M - 4M token (inventarisasi ~150-300 dalil, query teks Arab berharakat, takhrij OpenBayan/Shamela, integrasi syarah ulama mu'tabar, dan dalil terkait).
   - *Kebutuhan HITL:* Sangat Tinggi (tahqiq kesahihan sanad/derajat hadits, akurasi teks Arab berharakat, serta kesesuaian kutipan syarah ulama oleh asatidzah).
-- [ ] **Pembuatan Halaman Khusus untuk Setiap Video Kajian Ustadz Abdul Khaliq**
-  - *Deskripsi:* Membuat halaman mandiri untuk setiap video kajian dan ceramah Ustadz Abdul Khaliq (122 rekaman ceramah berdasarkan basis data `pkn.db` / `PKN-videoDB`), memuat embed pemutar video YouTube, daftar bab pembahasan terindeks dengan timestamp interaktif ke detik spesifik, ringkasan poin inti per segmen, transkrip tematik, serta penautan silang (*cross-link*) ke halaman konsep materi Dokumen PKN terkait.
-  - *Perkiraan Token AI:* ~1.5M - 2.5M token (ekstraksi metadata 122 video, segmentasi 1.159 bab dari `pkn.db`, perumusan ringkasan per bab, pemformatan markdown Quartz, dan cross-linking konsep materi).
-  - *Kebutuhan HITL:* Sedang (validasi keakuratan judul video, keselarasan penautan materi ke modul PKN, dan kelayakan ringkasan transkrip oleh tim kurator).
+- [x] **Pembuatan Halaman Khusus untuk Setiap Video Kajian Ustadz Abdul Khaliq** `[SELESAI]`
+  - *Deskripsi:* Membuat halaman mandiri untuk setiap video kajian dan ceramah Ustadz Abdul Khaliq (122 rekaman ceramah berdasarkan basis data `pkn.db` / `PKN-videoDB`), memuat embed pemutar video YouTube, daftar bab pembahasan terindeks dengan timestamp interaktif ke detik spesifik (1.159 bab), ringkasan poin inti per segmen, transkrip tematik collapsible, serta penautan silang (*cross-link*) ke konsep materi PKN di folder `content/Kajian Video/`.
+  - *Status Kemajuan:*
+    - [x] Skrip generator [`scripts/generate_video_pages.py`](scripts/generate_video_pages.py) `[SELESAI]`
+    - [x] Terbit 122 berkas halaman video + hub portal [`content/Kajian Video.md`](content/Kajian Video.md) `[SELESAI]`
+  - *Perkiraan Token AI:* ~1.5M - 2.5M token.
+  - *Kebutuhan HITL:* Sedang.
+- [x] **Ingestion Seluruh Artikel Resmi SOTAB HEBAT (Karya Ustadz Abdul Kholik)** `[SELESAI]`
+  - *Deskripsi:* Mengunduh dan mengompilasi seluruh 121 artikel resmi Sekolah Orangtua Ayah Bunda Hebat Indonesia (SOTAB) dari WordPress REST API ke format Markdown Quartz v5 di folder `content/Materi SOTAB/` lengkap dengan Progressive Disclosure, metadata sumber, dan portal pengindeksan [`content/Materi SOTAB.md`](content/Materi SOTAB.md).
+  - *Status Kemajuan:*
+    - [x] Skrip pengunduh & konverter [`scripts/ingest_sotab_articles.py`](scripts/ingest_sotab_articles.py) `[SELESAI]`
+    - [x] Terbit 121 berkas materi SOTAB berstandar Quartz `[SELESAI]`
+  - *Perkiraan Token AI:* ~800k - 1.2M token.
+  - *Kebutuhan HITL:* Rendah - Sedang.
 
 ---
 
@@ -300,10 +310,19 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     5. **Consensus Supervisor:** Mengagregasi feedback, membatasi putaran debat (maksimal 2–3 putaran), dan memicu gerbang persetujuan manusia jika konsensus $\ge 85\%$.
   - *Perkiraan Token AI:* ~200k - 400k token (orkestrasi prompt persona, evaluasi multi-turn reflection, dan pengujian batas konvergensi).
   - *Kebutuhan HITL:* Sedang (kalibrasi prompt persona agen bersama asatidzah dan penentuan ambang batas konsensus).
-- [ ] **Prototype Runner Pipeline LangGraph Pertama (Pipeline 05 TB-40 & Pipeline 07 Dalil)**
-  - *Deskripsi:* Membangun skrip eksekutor Python pertama (`scripts/pipeline_runner_tb40.py` & `scripts/pipeline_runner_dalil.py`) yang menginstansiasi StateGraph LangGraph, memanggil adapter Unstructured (port 8005), terhubung ke API Asesmen TB-40 (port 4040), dan vector database Qdrant `shamela_11m` (port 6333) untuk membuktikan kelayakan end-to-end tanpa menunggu buku cetak fisik.
-  - *Perkiraan Token AI:* ~120k - 250k token (coding state graph runner, penanganan error/retry, dan formatting markdown Quartz v5).
-  - *Kebutuhan HITL:* Rendah (verifikasi eksekusi skrip dan validasi sintaks file markdown yang dihasilkan).
+- [x] **Prototype Runner Pipeline Dalil Mandiri (Pipeline 07 Dalil)** `[SELESAI]`
+  - *Deskripsi:* Membangun skrip eksekutor Python pertama ([`scripts/pipeline_runner_dalil.py`](scripts/pipeline_runner_dalil.py)) yang mengimplementasikan 4 Lapisan Progressive Disclosure, takhrij matan teks Arab, terjemahan, syarah ulama mu'tabar, serta matriks operasional KBM di `content/Dalil/`.
+  - *Status Kemajuan:*
+    - [x] Skrip eksekutor [`scripts/pipeline_runner_dalil.py`](scripts/pipeline_runner_dalil.py) `[SELESAI]`
+    - [x] Terbit 4 halaman dalil induk percontohan di `content/Dalil/` `[SELESAI]`
+  - *Perkiraan Token AI:* ~50k - 100k token.
+  - *Kebutuhan HITL:* Rendah - Sedang.
+- [x] **Wiki Linter Agent & Style Auditor (Continuous Maintenance Script)** `[SELESAI]`
+  - *Deskripsi:* Membangun alat audit linter offline ([`scripts/wiki_linter.py`](scripts/wiki_linter.py)) untuk memindai broken `[[WikiLinks]]`, mendeteksi halaman orphan (inbound links = 0), dan mengevaluasi kepatuhan naskah terhadap 10 checklist gaya penulisan Ustadz Abdul Kholiq.
+  - *Status Kemajuan:*
+    - [x] Skrip linter [`scripts/wiki_linter.py`](scripts/wiki_linter.py) `[SELESAI]`
+  - *Perkiraan Token AI:* ~40k - 80k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Migrasi Pemrosesan Dokumen ke Unstructured API ([unstructured-api](https://github.com/Unstructured-IO/unstructured-api))**
   - *Deskripsi:* Memigrasikan layer ekstraksi dan parsing dokumen multi-modal (PDF, PPTX, XLSX, DOCX, dan scan buku) dari script parser lokal ke Unstructured API (self-hosted Docker / Cloud API) untuk partisi dokumen terstruktur, ekstraksi tabel presisi tinggi, chunking semantik berbasis elemen (Title, Table, NarrativeText), serta integrasi langsung sebagai Document Loader di pipeline LangChain/LangGraph.
   - *Status Kemajuan:*
