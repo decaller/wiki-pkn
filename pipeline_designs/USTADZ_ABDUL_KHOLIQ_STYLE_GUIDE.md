@@ -98,3 +98,58 @@ Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor`) menguji naska
 | 10 | **Diagram Alur Mermaid** | 5% | Minimal 1 flowchart/diagram relasi konsep. |
 
 > 🎯 **Ambang Batas Kelulusan:** Skor Kepatuhan Gaya minimal **$\ge 85\%$** untuk dapat diajukan ke Gerbang Kurator Manusia (*HITL Gate*).
+
+---
+
+## 5. Mekanisme Penulisan Kepadatan Tinggi & Pembatasan Negatif (High-Density Engineering Prompts)
+
+Agar naskah teknis/tarbiyah tetap tajam, kaya data, dan tidak terjebak dalam basa-basi khas AI (*LLM tells*), generator LLM wajib menerapkan 6 aturan mekanik penulisan berikut:
+
+### A. Pembatasan Negatif Mutlak (*Ban the "LLM Tells"*)
+1. **Dilarang Menulis Pengumuman Meta (*No Meta-Announcements*):**
+   - ❌ *Dilarang:* "Dalam bab ini kita akan membahas...", "Mari kita selami lebih dalam...", "Berikut adalah ikhtisar ringkas mengenai...".
+   - ✔️ *Wajib:* Langsung masuk ke subjek inti pada kalimat pertama.
+2. **Eliminasi Kata Sifat Klise & Berlebihan (*Ban Fluffy Adjectives*):**
+   - ❌ *Dilarang:* Kata-kata seperti *krusial, luar biasa, revolusioner, sangat penting, pilar fundamental yang tak tergantikan, menjembatani secara mulus*.
+   - ✔️ *Wajib:* Paparkan fakta dan konsekuensi amaliah secara langsung dan lugas.
+3. **Dilarang Menulis Judul Kesimpulan Berlabel (*No Labeled Closings*):**
+   - ❌ *Dilarang:* Bagian dengan judul "Kesimpulan", "Rangkuman", "Inti Sari".
+   - ✔️ *Wajib:* Artikel wiki selesai setelah sub-bab *Instrumen Observasi Terapan* (Pilar 6) selesai disajikan.
+4. **Gunakan Kalimat Aktif & Aksi Konkret (*Active Voice*):**
+   - ❌ *Hindari:* "Pemberian hukuman fisik dilakukan oleh orang tua apabila terjadi pengabaian shalat setelah anak berusia 10 tahun."
+   - ✔️ *Gunakan:* "Orang tua menerapkan sanksi tegas terukur jika anak tetap meninggalkan shalat setelah menginjak usia 10 tahun."
+
+### B. Pola Buffer Penalaran: "Ekstraksi Dulu, Baru Sintesis" (*Scratchpad-Then-Synthesize*)
+Sebelum menulis naskah final, prompt LLM wajib mengekstrak seluruh fakta atomik di dalam tag `<scratchpad_extraction>` agar tidak ada batasan usia atau peringatan syar'i yang tereliminasi:
+```xml
+<phase_1_fact_extraction>
+- Pindai teks sumber/transkrip dan catat:
+  * Dalil hadits/ayat spesifik dan nomor rujukannya
+  * Batasan rentang usia anak (0-7, 7-10, 10-14, 15+)
+  * Patologi parenting (gejala Tafrith vs gejala Ifrath)
+  * Rukun 3A atau pilar TB-40 yang terkait
+</phase_1_fact_extraction>
+
+<phase_2_wiki_draft>
+- Susun naskah wiki Quartz lengkap 9 lapisan.
+- Pastikan seluruh poin yang tercatat pada phase_1 termuat utuh dalam tabel atau narasi.
+</phase_2_wiki_draft>
+```
+
+### C. Format Kepadatan Tinggi Menggantikan Paragraf Panjang (*High-Density Formats*)
+1. **Matriks Kasus (*Condition $\to$ Root Cause $\to$ Exact Remediation*):**
+   - Setiap kali mengurai dinamika santri/anak, gunakan tabel keputusan:
+   | Kondisi / Gejala Perilaku | Akar Masalah Batin | Protokol Terapi Nabawiyah (*'Ilaj*) |
+   |:---|:---|:---|
+2. **Aturan "Specification Box":**
+   - Jika sebuah paragraf memuat $\ge 3$ parameter (misal: rentang usia, durasi KBM, batasan kuota gadget, tahapan bertahap), **dilarang menuliskannya dalam bentuk prosa panjang**. Wajib disajikan dalam bentuk tabel kunci-nilai (*key-value table*) atau *callout card*.
+
+### D. Multi-Pass "Editor" Chaining (Two-Agent Pipeline)
+Proses penulisan dipisahkan menjadi 2 agen sekuensial:
+1. **Agent 1 (The Technical Drafter):** Berfokus pada kelengkapan 100% fakta, dalil, dan studi kasus. Menghasilkan draf komprehensif tanpa peduli gaya prosa.
+2. **Agent 2 (The Ruthless Copy-Editor):** Berfokus memotong 20–25% kata-kata mubazir, membuang kata klise AI, mengubah kalimat pasif menjadi aktif, dan memadatkan paragraf ke dalam tabel tanpa menghilangkan satu pun parameter teknis atau dalil.
+
+### E. Kalibrasi Parameter Inferensi Model
+- **Temperature ($T = 0.0 - 0.2$):** Sangat rendah untuk menjamin presisi kutipan dalil, nomor perawi hadits, dan batasan usia hukum tanpa halusinasi kreatif.
+- **Top-P ($0.9$):** Menjaga determinisme istilah syar'i (*Ihsan, Ta'dib, Iffah, Syaja'ah*) agar tidak tergantikan sinonim modern yang melenceng.
+

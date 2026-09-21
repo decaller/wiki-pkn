@@ -94,6 +94,15 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
     - [ ] Integrasi node evaluasi gaya ke *Pedagogical Critic Agent* di LangGraph
   - *Perkiraan Token AI:* ~200k - 400k token (evaluasi kepatuhan gaya naskah dan feedback perbaikan draf).
   - *Kebutuhan HITL:* Sedang (kalibrasi sensitivitas deteksi gaya bersama tim asatidzah/kurator).
+- [ ] **Penerapan Mekanisme Penulisan Kepadatan Tinggi & Pembatasan Negatif (*High-Density Prompt Engineering*)**
+  - *Deskripsi:* Mencegah naskah wiki terdilusi menjadi rangkuman dangkal atau kehilangan *edge cases* syar'i/teknis akibat basa-basi AI (*LLM tells*), melalui 5 aturan mekanik penulisan:
+    1. **Negative Style Constraints:** Larangan mutlak pengumuman meta (*"Dalam bab ini kita akan..."*), eliminasi kata klise/sycophantic (*krusial, vital, seamless, pilar penting yang tak tergantikan*), larangan judul kesimpulan berlabel (*"Kesimpulan/Rangkuman"*), dan penegakan kalimat aktif.
+    2. **Pola Scratchpad-Then-Synthesize (`<phase_1_fact_extraction>` $\to$ `<phase_2_wiki_draft>`):** Memaksa model mengekstrak seluruh parameter dalil, batasan usia, dan patologi parenting secara atomik sebelum mulai merangkai naskah artikel, lalu memverifikasi kembali bahwa tidak ada detail yang hilang saat sintesis.
+    3. **Enforce High-Density Formats:** Mengganti narasi panjang bersyarat dengan *Condition $\to$ Root Cause $\to$ Exact Remediation Matrix*; menegakkan *Specification Box Rule* (paragraf dengan $\ge 3$ parameter wajib dirender sebagai tabel kunci-nilai atau callout card).
+    4. **Multi-Pass "Editor" Chaining (Two-Agent Pipeline):** Memisahkan tugas *Agent 1 (Technical Drafter)* yang menjamin 100% kelengkapan fakta/dalil dari *Agent 2 (Ruthless Copy-Editor)* yang memotong 25% kata mubazir dan menegakkan kepadatan informasi maksimal.
+    5. **Kalibrasi Parameter Inferensi Model:** Menyetel $T \in [0.0, 0.2]$ dan $\text{Top-P} = 0.9$ untuk presisi terminologi syar'i dan mitigasi halusinasi.
+  - *Perkiraan Token AI:* ~120k - 250k token (penyusunan prompt template system, testing perbandingan few-shot negatif-positif, dan validasi output).
+  - *Kebutuhan HITL:* Rendah - Sedang (evaluasi kepadatan informasi dan eliminasi kalimat bertele-tele pada draf uji coba).
 
 ---
 
