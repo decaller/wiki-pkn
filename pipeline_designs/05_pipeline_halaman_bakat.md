@@ -22,10 +22,15 @@ Halaman bakat dalam Wiki-PKN mendefinisikan potensi fitrah anak bukan sekadar ba
 
 ---
 
-## 2. Sumber Bahan Baku (Multi-Modal Ingestion)
+## 2. Sumber Bahan Baku & Status Presedensi (Precedence & Lineage)
 
-1. **Spesifikasi OpenAPI & Engine TB40:** Endpoint dan skema JSON dari repositori API Observasi Karakter (`http://localhost:4040` / PocketBase `http://localhost:8090`).
-2. **Katalog Master Taksonomi TB40:** Dokumen analisis di [CONTENT_ANALYSIS.md](../CONTENT_ANALYSIS.md).
+1. **Active Standard (Standar Aktif Saat Ini):**
+   - **Tafsir Bakat 40 (TB-40):** Konsep pemetaan bakat resmi karya Ustadz Abdul Kholiq yang berbasis maqashid syariah, 40 pilar fadhilah sahabat, dan terapi penyeimbang *'ilaj*.
+   - **Spesifikasi OpenAPI & Engine TB40:** Endpoint dan skema JSON dari repositori API Observasi Karakter (`http://localhost:4040` / PocketBase `http://localhost:8090`).
+2. **Status Dokumen Buku Utama PKN (Catatan Presedensi Penting):**
+   - **Buku Utama PKN (Bab 1–7, 9–10):** Tetap menjadi **Buku Babon / Acuan Utama** untuk Dasar Pendidikan Islam, Konsep Fitrah, 4 Etape Usia Nabawiyah, Metode Pembelajaran, dan Tashlih/Recovery.
+   - **Bab 8 Buku Utama (Pemetaan Bakat Gaya Lama / ST-30 & Talents Mapping):** Berstatus **`SUPERSEDED`** (Sudah tidak lagi digunakan).
+   - Seluruh instrumen di Bab 8 lama (Multiple Intelligence 8 tipe Gardner, 34 sifat Talents Mapping, ST-30 Ramadhani/Rama Royani) **telah digantikan secara total oleh Tafsir Bakat (TB-40)**. Jika materi Bab 8 lama dikutip, wajib diletakkan pada blok collapsible *Catatan Sejarah & Evolusi Manhaj*.
 3. **Sirah Sahabat Nabi:** Referensi profil sahabat (misal: Khalid bin Walid untuk bakat memimpin/bertempur, Utsman bin Affan untuk kedermawanan/pelayanan, Abu Hurairah untuk kekuatan daya ingat/ilmu).
 
 ---

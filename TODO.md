@@ -114,9 +114,9 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Deskripsi:* Perumusan prinsip pembelajaran alamiah berbasis fitrah belajar dan sunnatullah tumbuh kembang anak.
   - *Perkiraan Token AI:* ~120k - 250k token (perumusan prinsip fitrah, analogi sunnatullah, dan komparasi metode KBM).
   - *Kebutuhan HITL:* Tinggi (penyelarasan konsep filosofis bersama perumus materi PKN).
-- [ ] **Tabel TB40**
-  - *Deskripsi:* Pembuatan dan penyusunan tabel indikator/materi TB40 sebagai matriks rujukan evaluasi dan capaian.
-  - *Perkiraan Token AI:* ~100k - 200k token (digitalisasi, parsing matriks indikator, dan perancangan tabel responsif).
+- [ ] **Tabel & Taksonomi Tafsir Bakat TB-40 (Pengganti Bab 8 Buku Utama)**
+  - *Deskripsi:* Menyusun tabel indikator, matriks karakter, dan rukun 3A Tafsir Bakat (TB-40) berbasis API Observasi Karakter (`http://localhost:4040`) sebagai **pengganti resmi Bab 8 Buku Utama PKN lama** (yang sebelumnya menggunakan ST-30 & 34 bakat Talents Mapping yang kini berstatus *superseded*).
+  - *Perkiraan Token AI:* ~100k - 200k token (digitalisasi, parsing matriks indikator TB-40, dan perancangan tabel responsif).
   - *Kebutuhan HITL:* Sedang (pengecekan cross-reference indikator TB40 terhadap materi rujukan asli).
 - [ ] **Pembuatan Halaman Khusus untuk Setiap Dalil**
   - *Deskripsi:* Membuat halaman mandiri untuk setiap dalil (Al-Qur'an dan Hadits) yang memuat teks dalil beserta terjemahan, referensi dalil terkait, serta syarah/komentar para ulama.
