@@ -58,6 +58,13 @@ Fokus pada visibilitas mesin pencari, pelacakan audiens, otomatisasi monitoring 
   - *Deskripsi:* Menyediakan halaman khusus yang mencatat pembaruan versi, konten baru yang ditambahkan, dan log perbaikan fitur wiki.
   - *Perkiraan Token AI:* ~40k - 80k token (parsing riwayat git commit & pengelompokan changelog ramah pembaca).
   - *Kebutuhan HITL:* Rendah (kurasi poin rilis utama yang relevan bagi pengguna awam).
+- [ ] **Eksplorasi & Uji Coba Alternatif Engine Presentasi (Starlight / Astro & Material for MkDocs)**
+  - *Deskripsi:* Melakukan benchmarking dan uji coba sandbox rendering terhadap subset folder `content/` pada engine alternatif:
+    1. **Starlight (Astro):** Uji performa kecepatan build, Pagefind instant search, dan tata kelola sidebar otomatis untuk rilis web production.
+    2. **Material for MkDocs:** Uji coba dukungan native terhadap `<details>` collapsible kompleks, multi-tabs, dan styling callout admonition untuk dokumentasi teknis KBM.
+    3. **Obsidian Vault Mirroring:** Menjaga agar markdown yang dihasilkan compiler tetap 100% kompatibel saat dibuka langsung sebagai vault Obsidian lokal (mendukung Dataview & Graph View bawaan tanpa build step).
+  - *Perkiraan Token AI:* ~20k - 40k token (setup konfigurasi demo Starlight/MkDocs minimal pada sandbox branch untuk komparasi UX/kecepatan).
+  - *Kebutuhan HITL:* Rendah (evaluasi visual perbandingan UX pembaca antara Quartz v5, Starlight, dan MkDocs).
 
 ---
 
@@ -366,6 +373,13 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Pengecekan otomatis (CI/hook) untuk validasi format nomor surah:ayat dan periwayat hadits saat artikel baru ditambahkan.
   - *Perkiraan Token AI:* ~80k - 150k token (penulisan regex validator, integrasi database surah/hadits, dan setup GitHub Action).
   - *Kebutuhan HITL:* Rendah (pengecekan false positives pada penulisan nama surah dan nomor ayat).
+- [ ] **Uji Coba Sandbox Alat "Self-Building Wiki" Open-Source (`nashsu/llm_wiki`, `Graphify`, & `synthadoc`)**
+  - *Deskripsi:* Menyiapkan lingkungan eksperimen (*pilot testing*) pada subset data uji (misal: 5 PDF materi + 5 transkrip rekaman video `pkn.db`) untuk mengevaluasi efisiensi aplikasi siap pakai versus pipeline kustom kita:
+    1. **Uji Coba `nashsu/llm_wiki`:** Menjalankan instance desktop lokal terhadap korpus uji, mengamati ketepatan pembuatan relasi silang otomatis (*cross-links*), klaster komunitas Louvain, dan visualisasi graf Sigma.js.
+    2. **Uji Coba `Graphify` & `synthadoc`:** Menilai kualitas konversi multi-format menjadi Open Knowledge Format (OKF) markdown dan ekstraksi subgraf agenik.
+    3. **Evaluasi Gap & Benchmarking:** Membandingkan output alat siap pakai vs arsitektur pipeline kustom kita (apakah mampu menjaga standar 4 lapisan Progressive Disclosure, Diátaxis, dan validasi syar'i OpenBayan/Qaf AI).
+  - *Perkiraan Token AI:* ~50k - 100k token (eksekusi uji coba inferensi LLM pada batch dokumen kecil dan analisis perbandingan output).
+  - *Kebutuhan HITL:* Rendah - Sedang (evaluasi kualitatif terhadap kerapian struktur markdown dan konsistensi kutipan).
 
 ### H. Program Pembiasaan Santri & Kemitraan Wali Murid
 - [ ] **Format Jurnal Mutaba'ah Yaumiyah (Buku Amalan Harian Terintegrasi)**
