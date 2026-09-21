@@ -58,13 +58,6 @@ Fokus pada visibilitas mesin pencari, pelacakan audiens, otomatisasi monitoring 
   - *Deskripsi:* Menyediakan halaman khusus yang mencatat pembaruan versi, konten baru yang ditambahkan, dan log perbaikan fitur wiki.
   - *Perkiraan Token AI:* ~40k - 80k token (parsing riwayat git commit & pengelompokan changelog ramah pembaca).
   - *Kebutuhan HITL:* Rendah (kurasi poin rilis utama yang relevan bagi pengguna awam).
-- [ ] **Eksplorasi & Uji Coba Alternatif Engine Presentasi (Starlight / Astro & Material for MkDocs)**
-  - *Deskripsi:* Melakukan benchmarking dan uji coba sandbox rendering terhadap subset folder `content/` pada engine alternatif:
-    1. **Starlight (Astro):** Uji performa kecepatan build, Pagefind instant search, dan tata kelola sidebar otomatis untuk rilis web production.
-    2. **Material for MkDocs:** Uji coba dukungan native terhadap `<details>` collapsible kompleks, multi-tabs, dan styling callout admonition untuk dokumentasi teknis KBM.
-    3. **Obsidian Vault Mirroring:** Menjaga agar markdown yang dihasilkan compiler tetap 100% kompatibel saat dibuka langsung sebagai vault Obsidian lokal (mendukung Dataview & Graph View bawaan tanpa build step).
-  - *Perkiraan Token AI:* ~20k - 40k token (setup konfigurasi demo Starlight/MkDocs minimal pada sandbox branch untuk komparasi UX/kecepatan).
-  - *Kebutuhan HITL:* Rendah (evaluasi visual perbandingan UX pembaca antara Quartz v5, Starlight, dan MkDocs).
 
 ---
 
@@ -246,10 +239,6 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Urutan baca terkurasi bagi guru atau orang tua baru agar tidak kebingungan menjelajahi khazanah wiki.
   - *Perkiraan Token AI:* ~100k - 200k token (analisis keterkaitan materi wiki dan penyusunan silabus baca terstruktur).
   - *Kebutuhan HITL:* Sedang (review alur pemahaman oleh pengguna pemula/guru baru).
-- [ ] **Integrasi Obsidian Canvas (`.canvas`) ke Tampilan Web Interaktif**
-  - *Deskripsi:* Memvisualisasikan file `.canvas` di browser secara interaktif untuk mempermudah pemahaman keterkaitan antar konsep PKN.
-  - *Perkiraan Token AI:* ~50k - 100k token (coding parser JSON `.canvas` ke komponen canvas interaktif).
-  - *Kebutuhan HITL:* Rendah (pengecekan visual rendering dan interaksi zoom/pan di browser).
 - [ ] **Optimasi Tipografi Teks Arab & Terjemahan**
   - *Deskripsi:* Penerapan font naskh khusus web (Amiri / Scheherazade New) dan layout dwibahasa yang nyaman dibaca di layar mobile.
   - *Perkiraan Token AI:* ~20k - 40k token (tuning CSS webfont, penyesuaian font-size, line-height, dan layout terjemahan).
@@ -288,10 +277,6 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Pemutar audio ringkas pada halaman materi agar pembaca bisa mendengarkan rekaman kajian Ustadz Bayu / narasumber sembari membaca transkrip.
   - *Perkiraan Token AI:* ~25k - 50k token (komponen audio player Quartz, linking file audio, dan sinkronisasi bab).
   - *Kebutuhan HITL:* Rendah (pengujian pemutaran audio di perangkat desktop dan mobile).
-- [ ] **Viewer Presentasi Interaktif di Web (Slide Deck Viewer)**
-  - *Deskripsi:* Konversi materi presentasi di folder `presentations/` menjadi slide web interaktif (Reveal.js) siap tampil untuk media ajar kelas.
-  - *Perkiraan Token AI:* ~150k - 300k token (konversi struktur slide PPTX ke markdown Reveal.js interaktif).
-  - *Kebutuhan HITL:* Sedang (pengecekan visual estetika slide dan keterbacaan materi ajar).
 - [ ] **PDF Deep-Linking (Tautan Langsung ke Halaman Dokumen/Kitab)**
   - *Deskripsi:* Integrasi pipeline OCR `searchable_pdfs` agar kutipan langsung membuka halaman buku atau kitab rujukan asli.
   - *Perkiraan Token AI:* ~200k - 400k token (pemetaan sitasi teks ke koordinat/nomor halaman berkas PDF).
@@ -409,11 +394,4 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Desain ringkasan 1 lembar visual (1080x1080 / PDF 1 halaman) materi pokok untuk memudahkan guru menyebarkannya ke WAG wali murid.
   - *Perkiraan Token AI:* ~400k - 800k token (ekstraksi intisari artikel, copywriting ringkas, dan penyusunan prompt instruksi desain visual).
   - *Kebutuhan HITL:* Sedang (review kejelasan pesan visual oleh tim media/komunikasi).
-- [ ] **Peta Pohon Sanad & Silsilah Manhaj PKN**
-  - *Deskripsi:* Diagram visual silsilah rujukan ilmiah dari Salafus Shalih, kitab-kitab induk tarbiyah, hingga praktisi kontemporer.
-  - *Perkiraan Token AI:* ~150k - 300k token (kompilasi data riwayat rujukan keilmuan dan kodefikasi diagram grafis Mermaid/Graphviz).
-  - *Kebutuhan HITL:* Sangat Tinggi (tahqiq kesahihan silsilah keilmuan oleh para masyaikh/asatidzah).
-- [ ] **Fitur "Dengarkan Artikel" (Text-to-Speech) & Mode Fokus**
-  - *Deskripsi:* Tombol narasi audio artikel untuk dibaca saat santai serta mode tampilan minim distraksi (fokus membaca dalil).
-  - *Perkiraan Token AI:* ~40k - 80k token (integrasi Web Speech API / TTS provider dan penataan styling CSS mode fokus).
-  - *Kebutuhan HITL:* Rendah (pengecekan pelafalan kata bahasa Arab dan Indonesia).
+
