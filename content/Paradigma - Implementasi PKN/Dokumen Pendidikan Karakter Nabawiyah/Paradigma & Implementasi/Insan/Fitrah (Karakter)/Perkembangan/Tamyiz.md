@@ -139,6 +139,38 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
 ---
 
+## 4. Tiga Gaya Belajar Qur'ani pada Etape Tamyiz (QS. An-Nahl: 78)
+
+Berdasarkan naskah *Materi Temu Lembaga PKN: Mendidik Sesuai Fase Perkembangan Anak (Slide 122–126)*, fitrah belajar anak pada etape Tamyiz menyerap stimulasi ilmu melalui tiga pintu fitrah yang disebutkan dalam firman Allah:
+
+> « وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ »  
+> *"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatu pun, dan Dia memberi kamu pendengaran (as-sam'), penglihatan (al-abshar), dan hati nurani (al-af'idah), agar kamu bersyukur."* (QS. An-Nahl: 78).
+
+| Pintu Fitrah Belajar | Gaya Belajar Dominan | Karakteristik Perilaku Belajar Santri | Strategi Pembelajaran & Tahfizh Nabawiyah |
+|---|---|---|---|
+| **As-Sam'**<br>*(السَّمْعَ)* | **Auditori**<br>*(Belajar dengan Mendengar)* | • Cenderung berbicara sendiri saat berpikir atau bekerja.<br>• Sangat peka terhadap kebisingan; sulit konsentrasi bila ada distraksi suara.<br>• Lebih mudah mengingat apa yang didengar daripada yang dilihat.<br>• Suka membaca nyaring atau berbisik saat menghafal. | • Menggunakan rekaman audio murottal syaikh mutqin.<br>• Memperbanyak metode *talaqqi* langsung dan sima'an lisan.<br>• Menghafal Al-Qur'an lebih cepat melalui pendengaran daripada menatap mushaf. |
+| **Al-Bashar**<br>*(البَصَرَ)* | **Visual**<br>*(Belajar dengan Melihat)* | • Senantiasa menatap bibir dan ekspresi guru saat menerangkan.<br>• Tidak mudah terganggu oleh keributan suara di sekitarnya.<br>• Pembaca cepat, tekun, dan mementingkan kerapian busana.<br>• Menggunakan gerakan tubuh untuk menggantikan kata-kata. | • Menggunakan mushaf Al-Qur'an pojok standar dengan tata letak konsisten.<br>• Memanfaatkan bagan diagram, kode warna tajwid, dan peta konsep visual.<br>• Lebih menyukai peragaan praktis daripada sekadar penjelasan lisan. |
+| **Al-Af'idah**<br>*(الفُؤَادَ)* | **Kinestetik / Merasa**<br>*(Belajar dengan Praktik Fisik)* | • Gemar menyentuh objek nyata dan banyak bergerak.<br>• Mengetuk-ngetuk pena, menggoyangkan kaki saat menyimak pelajaran.<br>• Menggunakan jari telunjuk saat membaca naskah.<br>• ⚠️ *Sering divonis "agak tertinggal" di sekolah konvensional karena tidak betah duduk diam di kelas formal.* | • Melibatkan anak dalam proyek langsung (*hands-on learning*).<br>• Menghafal sambil berjalan santai di alam terbuka atau memegang tasbih biji.<br>• Pembelajaran berbasis magang lapangan dan pembuatan alat peraga mandiri. |
+
+---
+
+## 5. Matriks 8 Penyimpangan Fatal Pembelajaran Usia 7–10 Tahun (Fase Tamyiz)
+
+Slide kurikulum resmi *Mendidik Sesuai Fase Perkembangan Anak (Slide 128–129)* merumuskan **8 Penyimpangan Pendidikan Fatal** yang sering dilakukan di rumah maupun madrasah pada anak usia tamyiz:
+
+| No | Bentuk Penyimpangan Pembelajaran | Mengapa Menyimpang dari Manhaj PKN? | Solusi Nabawiyah yang Benar |
+|:---:|:---|:---|:---|
+| **1** | **Tidak Memerintahkan Shalat Sejak Usia 7 Tahun** | Mengabaikan sabda Nabi ﷺ; menghilangkan masa latihan emas 5.000 waktu shalat sebelum akil baligh. | Perintahkan shalat dengan penuh kasih sayang, kelembutan, dan ajakan teladan sejak genap usia 7 tahun hijriyah. |
+| **2** | **Memberikan Pukulan/Hukuman Fisik di Usia 7–10 Tahun** | Melanggar batas syariat; pukulan edukatif (*dharbun ghairu mubarrih*) baru diizinkan saat anak berusia 10 tahun jika membangkang. | Tiga tahun pertama (7–10 tahun) murni penegakan adab lisan tanpa pukulan atau intimidasi fisik. |
+| **3** | **Beban Akademik Berlebihan & Full-Day School** | Memenjarakan energi santri di ruang kelas sempit; menyempitkan wawasan sosial dan **menghambat penemuan bakat di usia 10 tahun**. | Batasi durasi kelas formal; perbanyak proyek sosial, magang keterampilan, dan interaksi nyata di masyarakat. |
+| **4** | **Pendidikan Kaku yang Membuat Anak Benci Belajar** | Anak kehilangan fitrah bernalar (*ghairah ta'allum*) dan hanya belajar ketika ada tugas, saat ujian, atau karena takut disuruh. | Bangkitkan rasa ingin tahu alami anak melalui dialog hikmah (*Bahasa Lisan*) dan eksperimen alam. |
+| **5** | **Mengirim ke Boarding School / Pesantren Sebelum Baligh** | Melepas tanggung jawab orang tua terlalu dini; memicu trauma keterpisahan dan kerentanan penyimpangan orientasi seksual/kejiwaan. | Anak wajib tinggal bersama orang tua kandung hingga minimal baligh dan memiliki imunitas adab yang kokoh. |
+| **6** | **Fokus Memperbaiki Kekurangan daripada Melejitkan Bakat** | Menghabiskan waktu meratapi kelemahan alamiah anak sehingga potensi keunggulan fitrahnya ikut terkubur. | Pusatkan bimbingan pada rumpun bakat terkuat; kekurangan teknis akan terimbangi oleh kekuatan pilar utamanya. |
+| **7** | **Memacu Pembelajaran dengan Ranking & Kompetisi Personal** | Menumbuhkan bibit permusuhan, riya', dan dengki antar-saudara atau teman sekelas. | Ganti dengan standar ketuntasan personal dan proyek kerja sama (*Ta'aawun*) yang saling melengkapi. |
+| **8** | **Pemisahan Kedekatan Gender (Ayah-Anak Lelaki, Ibu-Anak Perempuan)** | Karakter gender tidak tumbuh utuh; anak lelaki kehilangan figur maskulinitas qowwam dan anak perempuan kehilangan kelembutan keibuan. | Ayah wajib menggandeng anak lelaki ke masjid dan pasar; Ibu mendampingi anak perempuan dalam seni adab rumah tangga. |
+
+---
+
 > [!info] Refleksi Lapangan: Tantangan Penerapan Fase Tamyiz (7–10 Tahun) di Era Modern
 > **Kondisi Faktual:** Dalam dinamika keseharian, banyak pendidik dan orang tua menghadapi kesulitan dalam mengimplementasikan nilai Fase Tamyiz (7–10 Tahun) karena benturan budaya serba instan dan tekanan lingkungan pergaulan bebas.  
 > **Akar Masalah PKN:** Ketidakselarasan antara teladan batin pendidik (*tazkiyatun nafs*) dengan metode komunikasi yang digunakan, sering kali memicu resistensi dan penolakan fitrah pada anak.  

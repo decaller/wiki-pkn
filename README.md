@@ -82,8 +82,11 @@ graph TD
 | 🏗️ **[HANDOFF.md](HANDOFF.md)** | Dokumentasi arsitektur teknis sistem, data model TB40, riwayat 49+ milestone, dan panduan pemeliharaan. |
 | 🔍 **[CONTENT_ANALYSIS.md](CONTENT_ANALYSIS.md)** | Analisis konten holistik, pemetaan hierarki TB40, dan metodologi pengayaan materi. |
 | 🤝 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** | Piagam adab dan etika kontributor riset berbasis nilai-nilai Islam nabawiyah. |
+| 🐳 **[CONTAINERS_ECOSYSTEM.md](CONTAINERS_ECOSYSTEM.md)** | Pemetaan repositori & kontainer Docker aktif ekosistem PKN (TB-40, OpenBayan, Qdrant, Rapor, Portainer). |
 
 > 📖 **Dokumentasi Teknis Lengkap Platform:** Baca halaman **[Tentang Aplikasi Wiki PKN](https://wikipkn.insanmustaqbal.or.id/Referensi/Tentang-Aplikasi-Wiki-PKN)** di dalam wiki untuk penjelasan menyeluruh tentang sumber data, metodologi rekonstruksi AI, stack teknologi, plugin navigasi kustom, skrip otomasi, dan infrastruktur deployment.
+>
+> 🐳 **Ekosistem Docker Lokal & Deployment:** Baca **[CONTAINERS_ECOSYSTEM.md](CONTAINERS_ECOSYSTEM.md)** untuk panduan integrasi kontainer lokal (TB40, Qdrant Maktabah Syamilah, Postgres, Portainer) dan antisipasi konflik port `4040`.
 
 ---
 

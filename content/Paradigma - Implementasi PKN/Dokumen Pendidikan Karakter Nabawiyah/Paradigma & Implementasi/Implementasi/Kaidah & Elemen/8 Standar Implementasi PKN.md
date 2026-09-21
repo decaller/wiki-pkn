@@ -94,8 +94,8 @@ Standar ini mengunci arah seluruh program pendidikan agar tidak melenceng dari t
 
 ### 7.1 Landasan Filosofis Tujuan Pendidikan (Lampiran C)
 Lembaga merujuk langsung pada firman Allah *Subhanahu wa Ta'ala*:
-$$\text{وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ}$$
-*"Dan tidaklah Aku menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."* (QS. Adz-Dzariyat: 56).
+> « وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ »  
+> *"Dan tidaklah Aku menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."* (QS. Adz-Dzariyat: 56).
 
 Sebagaimana diterangkan oleh Al-Hafizh Ibnu Katsir *rahimahullah*, tujuan peribadatan ini mengejawantah ke dalam dua dimensi mutlak:
 1. **Ikhlas Lillah:** Seluruh amal ditujukan semata-mata mengharapkan ridha Allah.

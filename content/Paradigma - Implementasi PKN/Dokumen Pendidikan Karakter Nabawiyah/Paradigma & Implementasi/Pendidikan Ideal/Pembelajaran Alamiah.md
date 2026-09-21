@@ -228,7 +228,129 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ---
 
-## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+## 3. 21 Metode Pembelajaran Alamiah Rasulullah ﷺ Terhadap Anak
+
+Berdasarkan silabus pelatihan narasumber *Materi Temu Lembaga PKN 6: Pembelajaran Alamiah (Tarbiyah Thabi'iyyah)*, Rasulullah ﷺ dalam mendidik generasi tidak mengandalkan kelas kaku serba formal, melainkan melibatkan anak secara langsung dengan aktivitas dan peristiwa nyata sepanjang rentang kehidupannya:
+
+| No | Fase & Metode Pembelajaran Nabawiyah | Bentuk Peristiwa & Tindakan Nyata Sunnah | Nilai Karakter Utama |
+| :---: | :--- | :--- | :--- |
+| **1** | **Mendoakan Sejak di Sulbi Ayah** | Permohonan keturunan yang shalih dan penyejuk mata sebelum proses konsepsi terjadi (*QS. Al-Furqan: 74*). | Tauhid & Visi Luhur (*Himmah*) |
+| **2** | **Mendoakan di Rahim Ibu** | Doa saat berupa *nuthfah*, *'alaqah*, dan *mudghah* agar dijauhkan dari gangguan setan. | Penjagaan (*'Iffah*) |
+| **3** | **Kabar Gembira Janin Gugur** | Penghiburan dan janji syafaat bagi orang tua yang tabah kehilangan janinnya. | Ridha & Sabar (*Shabr*) |
+| **4** | **Penyambutan Kelahiran** | Menyuarakan kalimat tauhid ke telinga bayi yang baru menghirup udara dunia. | Fitrah Keimanan |
+| **5** | **Tahnik & Doa Berkah** | Mengunyah kurma lembut dan mengoleskannya ke langit-langit mulut bayi disertai doa *barakah*. | Keberkahan & Adab |
+| **6** | **Penetapan Hak Waris Bayi** | Pengakuan hak sipil dan kepemilikan harta sejak tangisan pertama kelahiran. | Keadilan (*'Adaalah*) |
+| **7** | **Zakat Fitrah bagi Bayi** | Menyucikan jiwa anak dengan penyertaan zakat fitrah sejak dini oleh orang tua. | Kedermawanan (*Juud*) |
+| **8** | **Menyayangi Tanpa Stigma** | Kasih sayang tulus kepada setiap anak tanpa membeda-bedakan latar belakang nasab. | Kasih Sayang (*Rahmah*) |
+| **9** | **Perayaan Aqiqah** | Menyembelih kambing dan mencukur rambut sebagai wujud syukur dan deklarasi sosial. | Syukur & Berbagi |
+| **10** | **Penyusuan Purna 2 Tahun** | Ikatan batin (*bonding*) fisik dan ruhani terdalam antara ibu dan bayi (*QS. Al-Baqarah: 233*). | Kehangatan Jiwa (*Mahabbah*) |
+| **11** | **Pemberian Nama yang Baik** | Menetapkan identitas tauhid (*Tasmiyah*) yang memotivasi cita-cita hidup anak. | Martabat Diri (*'Izzah*) |
+| **12** | **Bercengkerama & Bercanda** | Mengajak anak tertawa dengan humor yang jujur tanpa dusta, membangun kedekatan hati. | Keceriaan (*Muzaah*) |
+| **13** | **Pemberian Kunyah Ayah** | Memanggil orang tua dengan sebutan *"Abu [Nama Anak]"* untuk memuliakan eksistensi anak. | Kehormatan Keluarga |
+| **14** | **Khitan Anak** | Menegakkan fitrah kebersihan fisik dan kesucian syiar Islam sejak belia. | Kebersihan & Fitrah |
+| **15** | **Memaklumi Anak Mengompol** | Tidak membentak atau melempar anak ketika ia mengompol di pangkuan, melainkan membersihkannya dengan tenang. | Kelembutan (*Rifq*) |
+| **16** | **Menghibur Saat Anak Wafat** | Meneteskan air mata rahmah tanpa meratap (*niyahah*), mendidik keikhlasan menghadapi takdir. | Ketundukan Batin |
+| **17** | **Meringankan Shalat Jamaah** | Mempercepat tempo bacaan shalat ketika mendengar tangisan anak agar ibunya tidak cemas. | Kepekaan Sosial (*Firaasah*) |
+| **18** | **Menggembirakan Hati Anak Saat Shalat** | Memanjangkan sujud karena cucu (Hasan/Husain) naik ke punggung Nabi ﷺ tanpa menepisnya. | Toleransi Kasih (*Hilm*) |
+| **19** | **Menyambut Anak dari Mimbar** | Menghentikan khutbah Jumat sejenak dan turun dari mimbar untuk mendekap cucu yang tersandung. | Memuliakan Anak |
+| **20** | **Tersenyum & Menciumi Anak** | Mengungkapkan ekspresi kasih fisik secara nyata; menegur sahabat yang tidak pernah mencium anaknya. | Kehangatan Fitrah |
+| **21** | **Menjaga Kerapian Penampilan** | Memperhatikan potongan rambut, kebersihan pakaian, dan adab kepantasan lahiriah anak. | Kerapian (*Ihsaan*) |
+
+---
+
+## 4. Tipologi Pembelajaran Alamiah: Proyek Terencana (*Kegiatan*) vs Respons Momen (*Peristiwa*)
+
+Dalam implementasi sekolah dan pesantren nabawiyah, kurikulum alamiah (*Tarbiyah Thabi'iyyah*) bertumpu pada dua pilar aksi yang saling menguatkan:
+
+```mermaid
+graph TD
+    NBL["🌿 PEMBELAJARAN ALAMIAH (Nature-Based Learning)"]
+    
+    subgraph PROJEK["🏗️ 1. KEGIATAN TERENCANA (Project-Based)"]
+        P1["Sholat Berjamaah & Dzikir"]
+        P2["Makan & Bersih Lingkungan Bersama"]
+        P3["Rihlah / Outing (Tour de Talents)"]
+        P4["Pekerjaan Rumah Tangga (Menyapu, Mencuci)"]
+        P5["Market Day / Pasaran Santri"]
+        P6["Inspirasi Profesi (Maestro Lapangan)"]
+    end
+    
+    subgraph MOMEN["⚡ 2. PERISTIWA SPONTAN (Teachable Moments)"]
+        M1["Perkelahian & Perundungan (Bullying)"]
+        M2["Tertidur / Kelelahan di Kelas"]
+        M3["Merampas Hak Teman / Rebutan Mainan"]
+        M4["Mogok Belajar / Frustrasi Akademik"]
+        M5["Ta'ziyah Kematian & Menengok Teman Sakit"]
+        M6["Merusak Barang & Melayani Tamu Datang"]
+    end
+    
+    NBL --> PROJEK
+    NBL --> MOMEN
+    PROJEK -->|Mengasah Keterampilan & Sinergi| OUT["💎 Akil Baligh & Kematangan Karakter"]
+    MOMEN -->|Menancapkan Adab & Bahasa Hati| OUT
+```
+
+### A. Komparasi Karakteristik Pembelajaran
+
+| Dimensi Pembeda | Kegiatan Terencana (*Project*) | Peristiwa Spontan (*Teachable Moment*) |
+|---|---|---|
+| **Sifat Waktu** | Terjadwal, terstruktur dalam kalender mingguan/bulanan lembaga. | Insidental, muncul tiba-tiba tanpa prediksi manusia. |
+| **Fokus Sasaran** | Melatih inisiatif kerja keras, daya nalar, dan kerja sama tim. | Menanamkan adab batin, introspeksi jiwa, empati, dan taubat nasuha. |
+| **Peran Pendidik** | Fasilitator sumber daya, pendamping keselamatan (*safety supervisor*). | Teladan adab (*Uswah*), penyampai **Bahasa Hati**, dan penegak batas toleransi. |
+| **Instrumen Evaluasi** | Portofolio karya, jurnal proyek, dan ketercapaian target fungsional. | Catatan mutaba'ah adab, dialog refleksi mendalam, dan resolusi damai. |
+
+---
+
+## 5. Instrumen Evaluasi: Lembar Observasi Pemetaan 40 Pilar Karakter (Manhaj Temu Lembaga PKN)
+
+Berdasarkan lembar instrumen kerja resmi narasumber (*Dokumen Observasi Pemetaan Karakter Temu Lembaga PKN*), evaluasi santri tidak menggunakan rapor angka atau peringkat kelas, melainkan menghitung **frekuensi keterlibatan perilaku alami** ($\checkmark$) dalam satu semester:
+
+| No | Pilar Karakter Nabawiyah | Teks Arab & Istilah Syar'i | Polaritas Sikap | Kluster Rumpun | Tingkatan Ego | Indikator Observasi Lapangan |
+|:---:|:---|:---|:---:|:---:|:---:|:---|
+| **1** | **Himmah** | الِهمَّة | Introvert (*As-Sirr*) | Bekerja Keras | Ego Tinggi | Menunjukkan cita-cita tinggi, pantang puas dengan hasil biasa. |
+| **2** | **Ihsaan** | الإحْسَان | Introvert (*As-Sirr*) | Bekerja Keras | Ego Tinggi | Mengerjakan tugas dengan standar kerapian dan mutu tertinggi (*perfeksionis*). |
+| **3** | **'Izzah** | العِزَّة | Introvert (*As-Sirr*) | Bekerja Keras | Ego Tinggi | Menjaga harga diri mukmin, tidak mengemis bantuan bila mampu sendiri. |
+| **4** | **Waqaar** | الوَقَار | Introvert (*As-Sirr*) | Bekerja Keras | Ego Sedang | Bersikap tenang, berwibawa, dan tidak bertingkah konyol mencari perhatian. |
+| **5** | **'Aziimah** | العَزِيمَة | Introvert (*As-Sirr*) | Bekerja Keras | Ego Sedang | Memiliki tekad membaja dan daya tahan menghadapi hambatan tugas. |
+| **6** | **Nasyaath** | النَّشَاط | Extrovert (*Al-'Alaniyyah*) | Bekerja Keras | Ego Sedang | Gesit, lincah bergerak, dan selalu bersemangat menyambut tugas lapangan. |
+| **7** | **Syajaa'ah** | الشَّجَاعَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Tinggi | Berani tampil ke depan membela kebenaran dan teman yang dizalimi. |
+| **8** | **Ghairah** | الغَيْرَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Tinggi | Cemburu membela syariat Allah, terusik bila melihat kemaksiatan. |
+| **9** | **Munaafasah** | المُنَافَسَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Tinggi | Tertantang dalam kompetisi kebaikan (*Fastabiqul Khairat*). |
+| **10** | **Nashiihah** | النَّصِيحَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Sedang | Spontan mengingatkan kawan yang keliru dengan kata-kata tulus. |
+| **11** | **Fashaahah** | الفَصَاحَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Sedang | Fasih bertutur kata, artikulatif, dan percaya diri berbicara di hadapan umum. |
+| **12** | **Nushrah** | النُّصْرَة | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Sedang | Cepat pasang badan menolong kawan yang terjatuh atau tertindas. |
+| **13** | **Juud** | الجُود | Extrovert (*Al-'Alaniyyah*) | Mempengaruhi | Ego Rendah | Ringan tangan membagikan bekal makanan dan harta miliknya kepada orang lain. |
+| **14** | **Firaasah** | الفِرَاسَة | Introvert (*As-Sirr*) | Berpikir | Ego Tinggi | Peka membaca situasi yang tersirat sebelum suatu peristiwa meledak. |
+| **15** | **Nubl** | النُّبْل | Introvert (*As-Sirr*) | Berpikir | Ego Tinggi | Cerdik menemukan jalan keluar alternatif dalam kebuntuan masalah. |
+| **16** | **Husnuzhan** | حُسْنُ الظَّنِّ | Introvert (*As-Sirr*) | Berpikir | Ego Rendah | Selalu mendahulukan prasangka baik dan mencari udzur bagi saudaranya. |
+| **17** | **Dzakaa'** | الذَّكَاء | Introvert (*As-Sirr*) | Berpikir | Ego Sedang | Cepat menyerap pemahaman baru dan tangkas menghubungkan sebab-akibat. |
+| **18** | **Hikmah** | الحِكْمَة | Introvert (*As-Sirr*) | Berpikir | Ego Sedang | Menempatkan perkataan dan perbuatan tepat pada porsi dan situasinya. |
+| **19** | **Ta'aawun** | التَّعَاوُن | Extrovert (*Al-'Alaniyyah*) | Kerja Sama | Ego Sedang | Mudah berbaur dan bahu-membahu dalam proyek kerja kelompok. |
+| **20** | **Ulfah** | الأُلْفَة | Extrovert (*Al-'Alaniyyah*) | Kerja Sama | Ego Sedang | Menjadi perekat ukhuwah yang menyatukan kelompok terpecah. |
+| **21** | **'Adaalah** | العَدَالَة | Introvert (*As-Sirr*) | Kerja Sama | Ego Sedang | Objektif menilai masalah, tidak memihak kawan dekat bila ia salah. |
+| **22** | **Wafaa'** | الوَفَاء | Introvert (*As-Sirr*) | Kerja Sama | Ego Sedang | Setia menepati janji dan amanah yang telah disepakati bersama. |
+| **23** | **Muzaah** | المِزَاح | Extrovert (*Al-'Alaniyyah*) | Kerja Sama | Ego Rendah | Hangat, suka bercanda sehat yang menghidupkan suasana belajar. |
+| **24** | **Basyaasyah**| البَشَاشَة | Extrovert (*Al-'Alaniyyah*) | Kerja Sama | Ego Rendah | Wajahnya selalu berseri-seri, murah senyum, dan menyegarkan pandangan. |
+| **25** | **Rifq** | الرِّفْق | Extrovert (*Al-'Alaniyyah*) | Berperasaan | Ego Rendah | Lemah lembut dalam perlakuan, tidak kasar menyentuh benda atau makhluk. |
+| **26** | **Rahmah** | الرَّحْمَة | Extrovert (*Al-'Alaniyyah*) | Berperasaan | Ego Rendah | Penuh belas kasih terhadap binatang, tumbuhan, dan orang lemah. |
+| **27** | **Shidq** | الصِّدْق | Introvert (*As-Sirr*) | Berperasaan | Ego Sedang | Selalu berkata jujur walau dalam situasi sulit yang merugikan dirinya. |
+| **28** | **'Iffah** | العِفَّة | Introvert (*As-Sirr*) | Berperasaan | Ego Tinggi | Menahan diri dari pandangan terlarang dan hal-hal yang tidak halal. |
+| **29** | **Shamt** | الصَّمْت | Introvert (*As-Sirr*) | Berperasaan | Ego Rendah | Gemar diam merenung, tidak gemar bergunjing atau bicara sia-sia (*laghwu*). |
+| **30** | **Hayaa'** | الحَيَاء | Introvert (*As-Sirr*) | Berperasaan | Ego Rendah | Memiliki rasa malu yang kuat ketika melanggar adab atau syariat. |
+| **31** | **Qanaa'ah** | القَنَاعَة | Introvert (*As-Sirr*) | Berperasaan | Ego Rendah | Qana'ah, merasa cukup dan mensyukuri apa yang ada tanpa iri hati. |
+| **32** | **Shabr** | الصَّبْر | Introvert (*As-Sirr*) | Berperasaan | Ego Sedang | Sabar menahan emosi saat disakiti dan tekun menjalani proses lama. |
+| **33** | **Mahabbah** | المَحَبَّة | Extrovert (*Al-'Alaniyyah*) | Melayani | Ego Rendah | Menyayangi saudara karena Allah, mencintai kebaikan bagi sesama. |
+| **34** | **Itsaar** | الإِيثَار | Extrovert (*Al-'Alaniyyah*) | Melayani | Ego Rendah | Mendahulukan kepentingan dan kenyamanan kawan di atas diri sendiri. |
+| **35** | **Kitmanus Sirr**| كِتْمَانُ السِّرِّ| Introvert (*As-Sirr*) | Melayani | Ego Rendah | Amanah menjaga rahasia kawan dan aib keluarga dengan rapat. |
+| **36** | **Satr** | السَّتْر | Introvert (*As-Sirr*) | Melayani | Ego Rendah | Menutupi kekurangan saudaranya, tidak suka menyebarkan kabar buruk. |
+| **37** | **Amaanah** | الأَمَانَة | Introvert (*As-Sirr*) | Melayani | Ego Sedang | Bertanggung jawab penuh terhadap barang pinjaman atau tugas yang diemban. |
+| **38** | **Anaah** | الأَنَاة | Introvert (*As-Sirr*) | Melayani | Ego Rendah | Tenang, tidak tergesa-gesa mengambil kesimpulan sebelum bukti jelas. |
+| **39** | **Hilm** | الحِلْم | Extrovert (*Al-'Alaniyyah*) | Melayani | Ego Rendah | Berlapang dada memaafkan kesalahan orang lain tanpa mendendam. |
+| **40** | **Tawaadhu'** | التَّوَاضُع | Extrovert (*Al-'Alaniyyah*) | Melayani | Ego Rendah | Rendah hati, tidak sombong atas kepandaian atau prestasinya. |
+
+---
+
+## 6. Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Pemenuhan Siklus Belajar Alami Anak
 | No | Tahapan Belajar Alami | Terbelenggu Ruang Kaku | Cukup Terfasilitasi | Bebas Bereksplorasi |

@@ -32,8 +32,8 @@ Fokus pada perbaikan responsivitas perangkat bergerak dan visualisasi informasi.
   - *Deskripsi:* Menyediakan visualisasi mind map / grafik relasi konsep pada setiap halaman materi untuk mempermudah navigasi mental pembaca.
   - *Perkiraan Token AI:* ~1.5M - 2M token (106 halaman × ~15k - 20k token per halaman untuk ekstraksi hierarki konsep).
   - *Kebutuhan HITL:* Sedang (validasi akurasi relasi konsep antarcabang materi oleh guru/praktisi).
-- [ ] **Pembuatan visualisasi flow pengolahan (arsitektur pipeline dokumen)**
-  - *Deskripsi:* Membuat visualisasi diagram alur proses/workflow pengolahan dokumen (memetakan state graph LangGraph & LangGraph Flow mulai dari input materi multi-modal, kurasi, verifikasi dalil, hingga publikasi).
+- [x] **Pembuatan visualisasi flow pengolahan (arsitektur pipeline dokumen)** `[SELESAI]`
+  - *Deskripsi:* Membuat visualisasi diagram alur proses/workflow pengolahan dokumen (memetakan state graph LangGraph & LangGraph Flow mulai dari input materi multi-modal, kurasi, verifikasi dalil, hingga publikasi Quartz). Tersedia lengkap di direktori [`pipeline_designs/`](pipeline_designs/README.md) (1 master README + 10 dokumen spesifikasi pipeline tematik).
   - *Perkiraan Token AI:* ~30k - 60k token (perancangan arsitektur node dan representasi diagram Mermaid/flowchart).
   - *Kebutuhan HITL:* Sedang (penyelarasan urutan langkah kurasi bersama kurator & developer).
 
@@ -98,6 +98,10 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Deskripsi:* Membuat halaman mandiri untuk setiap dalil (Al-Qur'an dan Hadits) yang memuat teks dalil beserta terjemahan, referensi dalil terkait, serta syarah/komentar para ulama.
   - *Perkiraan Token AI:* ~2.5M - 4M token (inventarisasi ~150-300 dalil, query teks Arab berharakat, takhrij OpenBayan/Shamela, integrasi syarah ulama mu'tabar, dan dalil terkait).
   - *Kebutuhan HITL:* Sangat Tinggi (tahqiq kesahihan sanad/derajat hadits, akurasi teks Arab berharakat, serta kesesuaian kutipan syarah ulama oleh asatidzah).
+- [ ] **Pembuatan Halaman Khusus untuk Setiap Video Kajian Ustadz Abdul Khaliq**
+  - *Deskripsi:* Membuat halaman mandiri untuk setiap video kajian dan ceramah Ustadz Abdul Khaliq (122 rekaman ceramah berdasarkan basis data `pkn.db` / `PKN-videoDB`), memuat embed pemutar video YouTube, daftar bab pembahasan terindeks dengan timestamp interaktif ke detik spesifik, ringkasan poin inti per segmen, transkrip tematik, serta penautan silang (*cross-link*) ke halaman konsep materi Dokumen PKN terkait.
+  - *Perkiraan Token AI:* ~1.5M - 2.5M token (ekstraksi metadata 122 video, segmentasi 1.159 bab dari `pkn.db`, perumusan ringkasan per bab, pemformatan markdown Quartz, dan cross-linking konsep materi).
+  - *Kebutuhan HITL:* Sedang (validasi keakuratan judul video, keselarasan penautan materi ke modul PKN, dan kelayakan ringkasan transkrip oleh tim kurator).
 
 ---
 
@@ -265,10 +269,19 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
 ### G. AI & Otomasi Pipeline Konten
 - [ ] **Pipeline Pemrosesan Dokumen Terorkestrasi (LangChain, LangGraph & LangGraph Flow)**
   - *Deskripsi:* Membangun sistem pipeline pemrosesan dokumen otomatis menggunakan LangChain dan LangGraph (serta visualisasi state graph via LangGraph Flow/Studio) untuk orkestrasi ekstraksi multi-modal (PDF, PPTX, XLSX, transkrip kajian), rekonstruksi materi tematik, verifikasi dalil syar'i via OpenBayan, standardisasi 9 lapisan format, hingga peninjauan *human-in-the-loop*.
+  - *Status Kemajuan:*
+    - [x] Spesifikasi master arsitektur & 10 desain pipeline tematik di [`pipeline_designs/`](pipeline_designs/README.md) `[SELESAI]`
+    - [ ] Implementasi runner State Graph LangGraph & integrasi node Langflow
   - *Perkiraan Token AI:* ~300k - 600k token (pembuatan arsitektur state graph, perancangan prompt per node, dan integrasi API tools).
   - *Kebutuhan HITL:* Tinggi (validasi titik approval intervensi manusia sebelum naskah masuk ke repositori).
 - [ ] **Migrasi Pemrosesan Dokumen ke Unstructured API ([unstructured-api](https://github.com/Unstructured-IO/unstructured-api))**
   - *Deskripsi:* Memigrasikan layer ekstraksi dan parsing dokumen multi-modal (PDF, PPTX, XLSX, DOCX, dan scan buku) dari script parser lokal ke Unstructured API (self-hosted Docker / Cloud API) untuk partisi dokumen terstruktur, ekstraksi tabel presisi tinggi, chunking semantik berbasis elemen (Title, Table, NarrativeText), serta integrasi langsung sebagai Document Loader di pipeline LangChain/LangGraph.
+  - *Status Kemajuan:*
+    - [x] Rencana implementasi teknis & alokasi port host `8005` (lihat [implementation_plan.md](file:///home/abuhafi/.gemini/antigravity-ide/brain/c5f632a1-642b-45fa-87cc-28e8af74a811/implementation_plan.md)) `[SELESAI]`
+    - [x] Berkas deployment [`docker-compose.unstructured.yml`](docker-compose.unstructured.yml) (kompatibel DIUN & healthcheck) `[SELESAI]`
+    - [x] Client adapter Python [`scripts/unstructured_adapter.py`](scripts/unstructured_adapter.py) (partisi elemen, tabel ke markdown, LangChain chunking, MD5 caching) `[SELESAI]`
+    - [x] Skrip uji & validasi [`scripts/benchmark_extraction.py`](scripts/benchmark_extraction.py) (unit test table converter & schema transformer) `[SELESAI]`
+    - [ ] Peluncuran container & batch ingestion dokumen PDF/PPTX `searchable_pdfs/` ke vector store
   - *Perkiraan Token AI:* ~150k - 300k token (pembuatan adapter API client Python, konfigurasi deployment container, transformasi skema chunking, dan pengujian perbandingan akurasi ekstraksi).
   - *Kebutuhan HITL:* Sedang (evaluasi presisi hasil partisi teks, struktur tabel, dan teks Arab berharakat pada sampel dokumen PDF modul PKN).
 - [ ] **Asisten Tanya Jawab PKN (Chatbot RAG Khusus)**

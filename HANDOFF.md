@@ -256,6 +256,7 @@ wiki-pkn/
 ├── nav_structure.json                      # Sumber kebenaran struktur navigasi (49 simpul)
 ├── quartz.config.yaml                      # Konfigurasi aktif Quartz v5
 ├── CONTENT_ANALYSIS.md                     # Analisis celah konten, master TB40 & audit 61 berkas
+├── CONTAINERS_ECOSYSTEM.md                 # Pemetaan kontainer Docker aktif & repositori ekosistem PKN
 └── HANDOFF.md                              # Dokumen serah terima ini
 ```
 
@@ -339,6 +340,10 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
      ```
    - **Webhook Auto-Update:**
      Dapat diaktifkan melalui menu Stack Portainer atau pemanggilan tool `StacksWebhookInvoke` untuk sinkronisasi otomatis setiap kali ada push baru ke branch `main`.
+
+5. **Pemetaan Kontainer Lokal & Antisipasi Konflik Port:**
+   - Dokumentasi lengkap kontainer Docker aktif di mesin lokal dan keterkaitannya dengan ekosistem PKN (TB-40, OpenBayan/Qdrant, Rapor Karakter, Portainer) dirangkum dalam **[CONTAINERS_ECOSYSTEM.md](CONTAINERS_ECOSYSTEM.md)**.
+   - *Catatan Operasional Penting:* Kontainer `api-tb40` aktif menduduki port host `4040` di mesin lokal. Pengembang yang menjalankan `wiki-pkn` secara lokal via Docker harus menyetel `HOST_PORT=4045` (atau port kosong lainnya) di `.env` lokal agar tidak bentrok dengan `api-tb40`.
 
 ---
 

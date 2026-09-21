@@ -88,6 +88,33 @@ Pembalikan ini membuat radar moral anak rusak: ia menganggap menumpahkan air leb
 
 ---
 
+## 5. Protokol Penegakan Nol Toleransi Terhadap Perundungan (*School Bullying*)
+
+Berdasarkan naskah kurikulum *Materi Khusus: Sekolah Bebas Bullying (KIPMI & Manhaj PKN)*, perundungan adalah pelanggaran zona merah paling berbahaya di lingkungan pendidikan yang menuntut intervensi seketika tanpa kompromi:
+
+### A. Empat Unsur Definitif Perundungan (*Bullying*)
+Sebuah insiden dikategorikan sebagai *bullying* apabila memenuhi 4 parameter yuridis dan psikologis (KemenPPPA RI & Riauskina dkk.):
+1. **Sengaja (*Intentionality*):** Dilakukan dengan kesadaran niat untuk mendominasi atau mempermalukan.
+2. **Ketimpangan Kuasa (*Power Imbalance*):** Pelaku merasa lebih kuat (secara fisik, usia, jumlah kelompok, atau status sosial) dibanding korban yang lebih lemah/rentan.
+3. **Menimbulkan Luka (*Harmful Intent*):** Bertujuan menyakiti fisik, merusak barang, atau melukai harga diri batin.
+4. **Terjadi Berulang (*Repetitive Nature*):** Dilakukan secara terus-menerus atau menciptakan ancaman teror psikologis yang berkepanjangan.
+
+### B. Empat Tipologi Perundungan di Lingkungan Pendidikan
+
+| Bentuk Bullying | Manifestasi Tindakan Teramati di Sekolah | Derajat Pelanggaran | Respons Intervensi Segera |
+|---|---|:---:|---|
+| **Bullying Fisik** | Memukul, menendang, mendorong, menjegal, merampas bekal, atau merusak alat tulis. | **Zona Merah Mutlak** | Tahan fisik pelaku secara tegas (*Bahasa Tangan*), amankan korban, dan libatkan orang tua seketika. |
+| **Bullying Verbal** | Mengejek kekurangan fisik (*body shaming*), memanggil dengan gelar buruk (*tanabuz bil-alqab*), mencela nasab/orang tua, membentak kasar. | **Zona Merah** | Hentikan ucapan seketika, tegaskan larangan syariat (*QS. Al-Hujurat: 11*), dan tuntut permintaan maaf tulus. |
+| **Bullying Sosial / Relasional** | Mengucilkan dari lingkaran bermain, menghasut kawan agar memboikot korban, menyebarkan desas-desus dusta (*ghibah/namimah*). | **Zona Merah Halus** | Bedah dinamika kelompok melalui dialog hati ke hati, bangun kembali empati ukhuwah (*Ulfah & Rahmah*). |
+| **Cyberbullying** | Menyebarkan aib di grup WhatsApp santri, membuat meme ejekan, atau meneror via pesan pribadi. | **Zona Merah** | Sita gawai sementara, audit jejak digital bersama wali santri, dan tegakkan tanggung jawab adab digital. |
+
+### C. Protokol Tripartit Penanganan Kasus
+1. **Bagi Korban:** Berikan perlindungan mutlak, pulihkan tangki cintanya, hadirkan rasa aman, dan latih keberanian asertif tanpa dendam.
+2. **Bagi Pelaku:** Hentikan perilakunya seketika, cari akar masalah di rumah (apakah ia korban kekerasan ayah/bunda?), lalu bimbing ia memulihkan kesalahannya dengan amal khidmah nyata.
+3. **Bagi Saksi (*Bystanders*):** Didik santri agar tidak menjadi penonton pasif; tanamkan pilar karakter **Syajaa'ah** (berani membela yang lemah) dan **Nushrah** (menolong saudara yang dizalimi).
+
+---
+
 ## Diagnosis Penyimpangan: Tafrith vs Ifrath dalam Batas Toleransi
 
 | Dimensi Pendekatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |

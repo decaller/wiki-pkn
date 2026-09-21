@@ -1,0 +1,25 @@
+services:
+  unstructured-api:
+    image: downloads.unstructured.io/unstructured-io/unstructured-api:latest
+    container_name: unstructured-api
+    restart: unless-stopped
+    ports:
+      - "${UNSTRUCTURED_HOST_PORT:-8005}:8000"
+    environment:
+      - PORT=8000
+      - LOG_LEVEL=${UNSTRUCTURED_LOG_LEVEL:-INFO}
+    volumes:
+      - unstructured_cache:/root/.cache
+    healthcheck:
+      test: ["CMD-SHELL", "python3 -c \"import urllib.request; urllib.request.urlopen('http://localhost:8000/healthcheck')\" || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    labels:
+      - "diun.enable=true"
+      - "diun.watch_repo=true"
+
+volumes:
+  unstructured_cache:
+    name: unstructured_api_cache

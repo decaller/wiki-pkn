@@ -22,3 +22,5 @@ pexels-mcp-server/
 .venv/
 presentations/
 screenshots/
+data/extracted_elements/
+.cache/
