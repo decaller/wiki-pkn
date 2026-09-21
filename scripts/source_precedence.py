@@ -40,10 +40,28 @@ class SourcePrecedenceManager:
                     "notes": row.get("notes", "")
                 }
 
+    def is_primary_author(self, author_name):
+        """Check if the author is Ustadz Abdul Kholiq / Kholik or Allah / Rasulullah / Salaf."""
+        if not author_name:
+            return False
+        clean = author_name.lower()
+        return any(k in clean for k in [
+            "abdul kholiq", "abdul kholik", "ustadz abdul kholiq", "ustadz abdul kholik"
+        ])
+
+    def is_timeless_source(self, source_type, author_name):
+        """Check if source is exempt from time decay (Quran, Sunnah, Kitab Ulama Salaf)."""
+        if source_type in ["dalil_syari", "kitab_turats"]:
+            return True
+        clean_author = (author_name or "").lower()
+        return any(k in clean_author for k in [
+            "allah", "rasulullah", "salaf", "nawawi", "ibn qayyim", "ibnu qayyim", "al-ghazali", "ibnu hajar"
+        ])
+
     def compute_effective_weight(self, source_id, reference_year=None):
         if source_id not in self.sources:
             # Default weight for unregistered source
-            return 0.35, "unregistered"
+            return 0.30, "unregistered"
         
         src = self.sources[source_id]
         if reference_year is None:
@@ -54,19 +72,32 @@ class SourcePrecedenceManager:
         decay_lambda = src["decay_rate_lambda"]
         status = src["status"]
         superseded_by = src["superseded_by"]
+        source_type = src["source_type"]
+        author = src["author"]
 
         # Delta time in years (bounded to >= 0)
         delta_t = max(0, reference_year - pub_year)
 
-        # For divine / timeless sources (decay_lambda == 0)
-        if decay_lambda == 0.0 or src["source_type"] == "dalil_syari":
+        # 1. ATURAN PENULIS: Penulis selain Ustadz Abdul Kholiq bobotnya lebih rendah (0.6x multiplier)
+        # kecuali sumber syar'i / kitab ulama salaf (tetap 1.0x)
+        if self.is_timeless_source(source_type, author):
+            author_multiplier = 1.0
+        elif self.is_primary_author(author):
+            author_multiplier = 1.0  # Konseptor utama manhaj PKN
+        else:
+            author_multiplier = 0.65 # Penulis lain diturunkan bobotnya secara signifikan
+
+        # 2. ATURAN WAKTU (TIME DECAY):
+        # Tulisan lebih tua bobotnya lebih rendah via exponential decay e^(-lambda * delta_t),
+        # KECUALI dalil Quran, Sunnah, dan Kitab Ulama yang kebal peluruhan waktu (lambda = 0.0)
+        if self.is_timeless_source(source_type, author) or decay_lambda == 0.0:
             time_decay = 1.0
         else:
             time_decay = math.exp(-decay_lambda * delta_t)
 
-        effective_weight = base_w * time_decay
+        effective_weight = base_w * author_multiplier * time_decay
 
-        # Penalty if superseded
+        # 3. PENALTI REVISI: Jika berstatus superseded (sudah disempurnakan edisi baru)
         if status == "superseded" or superseded_by:
             effective_weight *= 0.5
 

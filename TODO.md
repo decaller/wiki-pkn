@@ -371,10 +371,12 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Perkiraan Token AI:* ~200k - 400k token (pembuatan diff patcher, pelacakan sitasi presisi, dan skrip update parsial).
   - *Kebutuhan HITL:* Sedang (audit konsistensi perubahan diferensial pada artikel eksisting).
 - [x] **Kerangka Presedensi Berjenjang & Peluruhan Waktu (*Tiered Precedence & Decay Framework*)** `[SELESAI]`
-  - *Deskripsi:* Membangun mekanisme mitigasi benturan materi antar-dokumen berdasarkan daur hidup, edisi revisi, dan media:
+  - *Deskripsi:* Membangun mekanisme mitigasi benturan materi antar-dokumen berdasarkan daur hidup, edisi revisi, penulis, dan media:
     1. **Master Sources Registry (`data/sources_registry.csv`):** Menginventarisasi seluruh sumber PKN dengan penugasan Tier (1: Active Truth, 2: Foundational/Legacy, 3: Ephemeral Audio) dan laju peluruhan $\lambda$.
-    2. **Perhitungan Time-Decay Dinamis (`scripts/source_precedence.py`):** Menghitung bobot efektif $W_{\text{eff}} = W_{\text{tier}} \times e^{-\lambda \cdot \Delta t}$ saat retrieval, dengan proteksi nilai $\lambda = 0.0$ untuk Nash Syar'i abadi (Al-Qur'an & Hadits).
-    3. **Relasi Graf *SUPERSEDES* & Penyajian Naskah Quartz:** Menelusuri rantai silsilah revisi (misal: Buku 2024 *supersedes* Diktat 2016). Konsep lama tetap dipertahankan pada blok collapsible `<details><summary>Catatan Sejarah & Evolusi Manhaj</summary></details>` alih-alih dihapus.
+    2. **Kewenangan Penulis (Author Authority):** Menetapkan pengali otoritas penuh ($1.0\times$) untuk Ustadz Abdul Kholiq sebagai perumus utama, dan menyetel bobot lebih rendah ($0.65\times$) untuk penulis lain/eksternal.
+    3. **Pengecualian Time-Decay Abadi ($\lambda = 0.0$):** Seluruh dalil Al-Qur'an, Hadits Sunnah Nabawiyah, dan Kitab Turats Ulama Salaf (An-Nawawi, Ibnul Qayyim, Al-Ghazali) dikecualikan mutlak dari peluruhan waktu ($e^0 = 1.0$), sementara tulisan kontemporer yang lebih tua otomatis terdepresiasi seiring berjalannya tahun.
+    4. **Perhitungan Time-Decay Dinamis (`scripts/source_precedence.py`):** Menghitung bobot efektif $W_{\text{eff}} = W_{\text{tier}} \times W_{\text{author}} \times e^{-\lambda \cdot \Delta t}$ saat retrieval.
+    5. **Relasi Graf *SUPERSEDES* & Penyajian Naskah Quartz:** Menelusuri rantai silsilah revisi (misal: Buku 2024 *supersedes* Diktat 2016). Konsep lama tetap dipertahankan pada blok collapsible `<details><summary>Catatan Sejarah & Evolusi Manhaj</summary></details>` alih-alih dihapus.
   - *Status Kemajuan:*
     - [x] Registry terpusat [`data/sources_registry.csv`](data/sources_registry.csv) `[SELESAI]`
     - [x] Modul kalkulator presedensi [`scripts/source_precedence.py`](scripts/source_precedence.py) `[SELESAI]`

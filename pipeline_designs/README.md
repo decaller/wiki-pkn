@@ -311,14 +311,23 @@ Mengadopsi keunggulan arsitektur open-source mutakhir:
 ### H. Kerangka Presedensi Berjenjang & Peluruhan Waktu (Tiered Precedence & Decay Framework)
 Untuk menyelesaikan benturan materi antar-dokumen dengan masa rilis dan daur hidup berbeda (misal: edisi buku baru vs diktat lama vs rekaman video lisan):
 1. **Pendaftaran Terpusat (*Master Sources Registry*):** Seluruh sumber dipetakan pada berkas [`data/sources_registry.csv`](../data/sources_registry.csv) dengan penetapan Tier ($1.0$ Active Truth, $0.5$ Legacy/Foundational, $0.3$ Ephemeral Audio).
-2. **Formula Peluruhan Waktu (*Exponential Time-Decay*):**
-   $$\text{Final Authority} = W_{\text{tier}} \times e^{-\lambda \cdot (t_{\text{current}} - t_{\text{published}})}$$
-   - *Nash Syar'i (Al-Qur'an & Hadits):* $\lambda = 0.0$ (abadi, tidak mengalami peluruhan).
-   - *Buku Manhaj Inti:* $\lambda = 0.02 - 0.05$ (stabil jangka panjang).
-   - *Kajian Lisan / SOTAB QnA:* $\lambda = 0.15 - 0.25$ (kontekstual lapangan).
-3. **Relasi Graf *SUPERSEDES* di SurrealDB:**
+2. **Kewenangan Otoritas Penulis (*Author Authority Multiplier*):**
+   - **Konseptor Utama Manhaj (Ustadz Abdul Kholiq, S.Pd):** Mendapatkan pengali otoritas penuh ($1.0\times$) sebagai perumus rujukan resmi PKN.
+   - **Penulis Eksternal / Tim Mitra:** Dikenakan penalti pengali otoritas ($0.65\times$) agar materi sekunder/opini umum tidak mendistorsi kaidah pokok manhaj.
+3. **Formula Peluruhan Waktu (*Exponential Time-Decay*) & Pengecualian Syar'i:**
+   $$\text{Final Authority} = W_{\text{tier}} \times W_{\text{author}} \times e^{-\lambda \cdot (t_{\text{current}} - t_{\text{published}})}$$
+   - **Pengecualian Kebal Peluruhan ($\lambda = 0.00$):**
+     * *Al-Qur'an Al-Karim:* Kalamullah abadi.
+     * *As-Sunnah Nabawiyah (Kutubut Tis'ah):* Sabda Rasulullah ﷺ shahih.
+     * *Kitab Turats Ulama Salaf:* Syarah Imam An-Nawawi, Ibnul Qayyim, Al-Ghazali, Ibnu Hajar.
+   - **Sumber Kontemporer yang Mengalami Peluruhan (Tulisan lebih tua bobotnya menurun):**
+     * *Buku Manhaj Inti:* $\lambda = 0.02 - 0.05$ (edisi baru mengesampingkan edisi lama).
+     * *Kajian Lisan / SOTAB QnA:* $\lambda = 0.10 - 0.15$ (kontekstual lapangan).
+     * *Literatur Umum:* $\lambda = 0.18 - 0.25$ (cepat usang).
+4. **Relasi Graf *SUPERSEDES* di SurrealDB:**
    - Ketika edisi baru (misal `BOOK-MANHAJ-2024`) menggantikan edisi lama (`BOOK-MANHAJ-2016`), graf menyematkan edge `[:SUPERSEDES]`.
    - Node lama tidak dihapus, melainkan ditandai `status: superseded` dan disajikan pada blok collapsible Quartz: `<details><summary>Catatan Sejarah & Evolusi Manhaj</summary></details>` agar jejak historis pemikiran tetap terpelihara.
+
 
 
 ---
