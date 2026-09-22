@@ -785,42 +785,66 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
     - *Metode Mendidik (4 berkas):* Sinergi Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan.
     - *Modul Tematik Lainnya (52 berkas):* Pengelompokan hierarki H2/H3 dan poin kunci ke dalam 4 kuadran fase Mermaid.
   - Memvalidasi seluruh **106 berkas** menggunakan skrip validator: 100% berkas lolos validasi sintaks Mermaid tanpa error.
-- **Penyusunan Audit Teknis & Roadmap Terpadu:**
-  - `TODO.md`: Roadmap komprehensif pengembangan konten, UX mobile, editorial, SEO, dan otomasi AI.
-  - `SEO_IMPLEMENTATION.md`: Dokumen audit kesiapan SEO teknis Quartz vs *best practices* (JSON-LD, canonical, robots meta, image SEO).
-  - `PAGE_ANALYTICS.md`: Panduan implementasi penyedia analitik bawaan Quartz dan penanganan SPA client-side routing.
+---
+
+### Milestone 53: Adopsi Standar Industri Arsitektur 4 Zona MediaWiki & Kaidah Reader Experience `[SELESAI]`
+- **Struktur 4 Zona Fungsional MediaWiki (Quartz v5 Compliant):**
+  - **Zona 1 (Header & Kontrol Halaman):** Frontmatter baku, breadcrumbs navigasi folder, judul H1/URL slug, toolbar (Search, Reader Mode, Dark/Light Mode, Graph View), tab aksi dokumen (baca, diskusi Giscus, riwayat Git).
+  - **Zona 2 (Area Konten Utama & Infobox):**
+    - Paragraf Pembuka (*Lead Section*) dengan Callout TL;DR `> [!SUMMARY]` (definisi inti 1 kalimat + 3 capaian utama + batas usia kritis + tingkat otoritas).
+    - Infobox vertikal kanan (`<div class="wiki-infobox">...</div>`) untuk parameter kunci cepat (*quick facts*).
+    - Daftar Isi (*Table of Contents*) otomatis di panel kanan Quartz.
+    - Batang Tubuh Tulisan (H2, H3) mengalir padu, didahului pengantar global naratif dan sematan **Obsidian Canvas (`![[canvas/...canvas]]`)** sebagai jangkar visual makro.
+    - Analisis patologi jurang ekstrim Tafrith vs Ifrath, jalan Wasathiyah, dan Blok Instrumen Terapan (Rubrik 3-level non-angka, 3 pertanyaan muhasabah malam, 1 aksi Quick Win).
+  - **Zona 3 (Lampiran, Verifikasi & Takhrij Sumber):**
+    - Sub-bab *Lihat Pula* (internal bidirectional wikilinks).
+    - Sub-bab *Referensi dan Catatan Kaki* dengan superskrip `[^1]` dan takhrij resmi OpenBayan/Shamela.
+    - Blok collapsible `<details>` untuk takhrij panjang, catatan sejarah evolusi manhaj (*Active Truth vs Superseded*), transkrip kajian audio, dan SurrealQL triples.
+    - Sub-bab *Bacaan Lanjutan dan Pranala Luar* (buku cetak fisik dan portal resmi).
+  - **Zona 4 (Metadata & Taksonomi Bawah):**
+    - Kotak navigasi horizontal (`<div class="wiki-navbox">...</div>`) merangkum kluster tema.
+    - Taksonomi kategori dokumen `[[Kategori:...]]` dan tautan mu'jam istilah Arab.
+- **Dukungan SCSS & Audit Linter:**
+  - Styling responsif `.wiki-infobox` dan `.wiki-navbox` pada [`quartz/styles/custom.scss`](quartz/styles/custom.scss).
+  - Integrasi parameter verifikasi 4 zona pada [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) dan [`scripts/wiki_linter.py`](scripts/wiki_linter.py).
+  - Pemutakhiran panduan master di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) dan [`pipeline_designs/03_pipeline_halaman_fokus_satu_tema.md`](pipeline_designs/03_pipeline_halaman_fokus_satu_tema.md).
+
+---
+
+### Milestone 54: Standarisasi 8 Templat Halaman Khusus Non-Penjelasan (MediaWiki Namespaces) `[SELESAI]`
+- **Pembeda Halaman Khusus Berbasis Fungsi Operasional:**
+  - Menyusun pedoman teknis lengkap pada [`pipeline_designs/SPECIAL_PAGE_TEMPLATES.md`](pipeline_designs/SPECIAL_PAGE_TEMPLATES.md) yang memisahkan konten ensiklopedis dari tata kelola sistem:
+    1. **Halaman Disambiguasi:** Memilah istilah multitafsir berikon `🔀` (`.wiki-noticebox-disambig`).
+    2. **Halaman Pengalihan (Redirect):** Stub penerus variasi ejaan/akronim `↪️` (`.wiki-noticebox-redirect`).
+    3. **Halaman Daftar Terstruktur:** Matriks data padat tabel (TB-40 40 karakter, katalog dalil, direktori mitra) dengan infobox metrik agregat.
+    4. **Portal Tematik:** Hub kurasi modular multi-kolom (`.wiki-portal-banner` dan `.wiki-portal-grid`) untuk pintu masuk rumpun keilmuan besar.
+    5. **Halaman Proyek & Kebijakan (`Wiki-PKN:`):** Konsensus editorial, hak cipta, dan pedoman kurasi berikon `⚖️` (`.wiki-noticebox-policy`).
+    6. **Templat Pemeliharaan (Noticebox):** Box evaluasi status artikel di atas naskah (`⚠️` butuh takhrij, `🕰️` konsep superseded, `🌱` artikel rintisan/stub).
+    7. **Halaman Berkas / Media (`Berkas:`):** Metadata aset gambar, kanvas, audio, lisensi CC BY-SA 4.0, dan daftar halaman yang menyematkan berkas.
+    8. **Halaman Pengguna / Kontributor (`Pengguna:`):** Kredensial asatidzah/guru kurator + ruang *sandbox* (bak pasir) draf pribadi.
+- **Komponen CSS:**
+  - Penambahan styling CSS responsif untuk `.wiki-noticebox` dan `.wiki-portal-*` pada [`quartz/styles/custom.scss`](quartz/styles/custom.scss).
+- **Verifikasi Build & Sinkronisasi:**
+  - `npx quartz build` sukses memproses 375 berkas markdown dengan 0 error, dan seluruh perubahan tersinkronisasi bersih ke branch `main`.
 
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
 
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
-| :--- | :---: | :--- |
+| :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 124 berkas Markdown terproses, 1.103 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 375 berkas Markdown terproses, 1.918 berkas web statis terbit |
+| **Arsitektur Halaman Wiki** | 🟢 **4 Zona MediaWiki** | Header & Kontrol, Lead & Infobox & TOC, Batang Tubuh Naratif + Canvas, Lampiran & Navbox |
+| **Templat Khusus Non-Penjelasan**| 🟢 **8 Templat MediaWiki** | Disambiguasi, Redirect, Daftar Terstruktur, Portal Tematik, Kebijakan, Noticebox, Media, Profil |
+| **Peta Navigasi Obsidian (MOC)** | 🟢 **353 MD & 96 Canvas** | Terpetakan otomatis via `scripts/generate_obsidian_navigation.py` |
 | **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
 | **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
-| **Pangkalan Data Embed** | 🟢 **data/onedrive_embed_tokens.json** | 100% token embed per berkas terpetakan rapi |
-| **Skrip Sinkronisasi Embed** | 🟢 **scripts/update_onedrive_embeds.py** | Otomasi pemutakhiran iframe dan tombol aksi lintas 57 artikel materi |
-| **Cover Header Beranda** | 🟢 **WebP HD (1920x800)** | Panorama Masjid Uzungöl & Danau Trabzon dari fotografer Rüveyda Akkaya (Pexels) |
 | **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |
 | **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
-| **Standarisasi Template** | 🟢 **9 Lapisan Baku** | Urutan mutlak: Frontmatter → Banner → Note AI → Judul → Dalil → Konten → Trio Refleksi → Sitasi → **Media di paling akhir** |
-| **Versi Rilis Git** | 🟢 **v1.0.0 (`v1`)** | Tag rilis stabil resmi pertama Wiki PKN mencakup seluruh 48 Milestone |
-| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 (`0.0.0.0:4040 -> 8080/tcp`) |
+| **Standarisasi Template** | 🟢 **4 Zona & Progressive Disclosure** | TL;DR Callout → Infobox → Global Lead → Obsidian Canvas → Syarah Naratif → Takhrij → Navbox |
+| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
 
----
-
-## 3. Catatan Rilis Resmi: Versi 1.0.0 (`v1`)
-
-Rilis **v1.0.0** menandai rampungnya fondasi utama arsitektur dan konten basis pengetahuan **Wiki PKN (Pendidikan Karakter Nabawiyah)** secara komprehensif, mencakup:
-1. **123 Artikel Pengetahuan Lengkap**: Seluruh artikel memenuhi standar emas (100% kepatuhan tata letak 9 lapisan baku, teks Arab berharakat, terjemahan, takhrij, dan refleksi).
-2. **41 Presentasi Interaktif Terintegrasi**: 100% materi slide tayang terhubung ke Microsoft OneDrive embed player (`1drv.ms/p/c/...`) yang interaktif dan responsif di mobile maupun desktop.
-3. **Ekosistem Digital Terpadu**: Integrasi rujukan ke tes online Tafsir Bakat (`tafsirbakat.com` & `tb40.insanmustaqbal.or.id`) serta dokumentasi 22+ repositori software PKN di GitHub.
-4. **Desain Visual & Aksesibilitas Premium**: Header beranda panorama Uzungöl Mosque dari Pexels, navigasi kustom `OutlineNav` dengan inside-scrolling & state persistence, serta penataan hierarki Obsidian Canvas.
-5. **Infrastruktur Produksi Handal**: 
-   - Konfigurasi port binding `docker-compose.yml` disetel paten dengan fallback `"${HOST_PORT:-4040}:${PORT:-8080}"` agar reverse proxy host (**Zoraxy**) selalu tersambung stabil ke port `4040`.
-   - Deployment otomatis via GitOps Portainer stack, SSL HTTPS Cloudflare, dan waktu muat instan berbasis SSG Quartz v5.
 
 
 
