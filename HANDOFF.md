@@ -874,6 +874,20 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - `npx quartz build` sukses memproses 382 berkas Markdown dan menerbitkan **2.148 file web statis** ke `public/` dengan exit code 0.
   - Commit `b87488f` berhasil dipublikasikan ke `origin/main`.
 
+### Milestone 58: Transformasi Komprehensif Seluruh Konten Repositori ke 4-Zone MediaWiki `[SELESAI]`
+- **Restrukturisasi Seluruh Klaster Dokumen Repositori (382 Berkas Markdown):**
+  - **Klaster Core Manhaj (`content/Paradigma - Implementasi PKN/` - 71 Berkas):**
+    * Seluruh artikel fondasi (Bab 1–7: Konsep Insan, Fitrah, 4 Etape Usia Nabawiyah, Metode Mendidik, Kaidah & 8 Standar Implementasi) ditingkatkan ke 4-Zone MediaWiki (Action Bar, Infobox, Lead TL;DR `> [!SUMMARY]`, Canvas Embed, Rubrik 3-level, 3 Pertanyaan Muhasabah, dan Navbox).
+  - **Klaster Studi Kasus & Praktisi Lapangan (`content/Materi SOTAB/` - 121 Berkas):**
+    * Seluruh artikel buletin parenting SOTAB HEBAT dimutakhirkan dengan Action Bar, Infobox praktisi, TL;DR intisari masalah, naskah refleksi, Protokol Solusi Kuratif EMISOL (Empati, Imajinasi, Solusi), dan Quick Win aksi hari ini.
+  - **Klaster Dokumentasi Audio-Visual (`content/Kajian Video/` - 122 Berkas):**
+    * Seluruh artikel video diperbarui dengan Action Bar (terhubung ke YouTube & GitHub), Infobox rekaman kajian multimedia, Lead TL;DR fokus pembahasan, embed pemutar video responsif, dan navbox horizontal.
+- **Resolusi Broken Link & Alias Sistem:**
+  - Menyelaraskan alias kunci pada berkas indeks dan konsep pokok (`Indeks Utama`, `Koneksi Sebelum Koreksi`, `4 Etape Usia Nabawiyah`, `Luka dan Hutang Pengasuhan`, `Paradigma & Implementasi`).
+- **Verifikasi Build & Zero-Error:**
+  - `npx quartz build` sukses memproses 382 berkas Markdown dan menerbitkan **2.157 berkas web statis** ke `public/` dengan exit code 0.
+  - Perubahan 315 berkas (35.415 baris penambahan) telah di-commit (`9a51bb3`) dan di-push bersih ke `origin/main`.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -881,18 +895,17 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
 | :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 382 berkas Markdown terproses, 2.148 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 382 berkas Markdown terproses, 2.157 berkas web statis terbit |
 | **Rujukan Buku Utama** | 🟢 **2 Buku Kanonikal** | 1. Buku Utama PKN (Bab 1-7, 9-10) • 2. Buku Tafsir Bakat Master (Bab 1-12) |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 382/382 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Canvas, Navbox, Takhrij |
 | **Pilar Bakat TB-40** | 🟢 **40/40 Selesai Penuh** | Mengintegrasikan 100% naskah Bab 12 Buku Tafsir Bakat ke 4-Zone MediaWiki |
 | **Klaster Arsitektur PKN** | 🟢 **7 Halaman Master** | `content/Arsitektur PKN/` 1-to-1 dengan master canvas arsitektur |
-| **Arsitektur Halaman Wiki** | 🟢 **4 Zona MediaWiki** | Header & Kontrol (Action Bar), Lead & Infobox & TOC, Batang Tubuh Naratif + Canvas, Lampiran & Navbox |
 | **Templat Khusus Non-Penjelasan**| 🟢 **8 Templat MediaWiki** | Disambiguasi, Redirect, Daftar Terstruktur, Portal Tematik, Kebijakan, Noticebox, Media, Profil |
 | **Peta Navigasi Obsidian (MOC)** | 🟢 **382 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
 | **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
 | **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
 | **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |
 | **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
-| **Standarisasi Template** | 🟢 **4 Zona & Progressive Disclosure** | TL;DR Callout → Infobox → Global Lead → Obsidian Canvas → Syarah Naratif → Takhrij → Navbox |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
 
 

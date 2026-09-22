@@ -457,6 +457,16 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Verifikasi build Quartz v5 (2.148 files emitted) & sinkronisasi Git `[SELESAI]`
   - *Perkiraan Token AI:* ~80k - 150k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Transformasi Komprehensif Seluruh Konten Repositori ke 4-Zone MediaWiki (382 Berkas)** `[SELESAI]`
+  - *Deskripsi:* Menyelesaikan seluruh batch transformasi repositori (71 artikel Core Manhaj Paradigma, 121 artikel buletin parenting Materi SOTAB, dan 122 artikel Kajian Video) ke arsitektur MediaWiki 4-Zone, menambahkan Action Bar, Infobox terstruktur, Lead TL;DR, Canvas Embed, Protokol EMISOL, dan Navbox.
+  - *Status Kemajuan:*
+    - [x] 71 Berkas Core Manhaj di [`content/Paradigma - Implementasi PKN/`](content/Paradigma%20-%20Implementasi%20PKN/) `[SELESAI]`
+    - [x] 121 Berkas Studi Kasus di [`content/Materi SOTAB/`](content/Materi%20SOTAB/) `[SELESAI]`
+    - [x] 122 Berkas Media di [`content/Kajian Video/`](content/Kajian%20Video/) `[SELESAI]`
+    - [x] Penyelarasan alias kunci & perbaikan index.md `[SELESAI]`
+    - [x] Verifikasi build Quartz v5 (2.157 files emitted, exit code 0) & sinkronisasi Git `[SELESAI]`
+  - *Perkiraan Token AI:* ~120k - 200k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
