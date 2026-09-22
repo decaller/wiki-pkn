@@ -440,6 +440,15 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Basis data ekstraksi di [`data/buku_tafsir_bakat_extracted.json`](data/buku_tafsir_bakat_extracted.json) `[SELESAI]`
   - *Perkiraan Token AI:* ~40k - 80k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Kodifikasi Penuh Folder 'Arsitektur PKN' & Integrasi 6 Sektor Makro PKN** `[SELESAI]`
+  - *Deskripsi:* Menyusun 7 artikel ensiklopedis di `content/Arsitektur PKN/` yang berpasangan 1-to-1 dengan kanvas arsitektur (`00` s.d `06`), menerapkan standar 4-Zone MediaWiki (Action Bar, Infobox, Lead TL;DR, Canvas Embed, Syarah, Navbox, Takhrij), dan lolos audit linter (skor 90/100) serta verifikasi `npx quartz build` exit code 0.
+  - *Status Kemajuan:*
+    - [x] 7 file Markdown di [`content/Arsitektur PKN/`](content/Arsitektur%20PKN/) `[SELESAI]`
+    - [x] Styling Action Bar `.wiki-action-bar` di [`quartz/styles/custom.scss`](quartz/styles/custom.scss) `[SELESAI]`
+    - [x] Pemutakhiran [`content/Peta Navigasi Wiki PKN.md`](content/Peta%20Navigasi%20Wiki%20PKN.md) `[SELESAI]`
+    - [x] Kompilasi bersih Quartz v5 & sinkronisasi Git `[SELESAI]`
+  - *Perkiraan Token AI:* ~60k - 100k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
