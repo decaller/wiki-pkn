@@ -91,18 +91,18 @@ Para ulama salaf sepakat bahwa mendidik anak bermula dari menyucikan diri pendid
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%82%D9%8E%D8%AF%D9%92%20%D8%A3%D9%8E%D9%81%D9%92%D9%84%D9%8E%D8%AD%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%B2%D9%8E%D9%83%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7%20%DB%9D%20%D9%88%D9%8E%D9%82%D9%8E%D8%AF%D9%92%20%D8%AE%D9%8E%D8%A7%D8%A8%D9%8E%20%D9%85%D9%8E%D9%86%20%D8%AF%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D9%87%D9%8E%D8%A7&lang=id)---
 
-## 1. Dua Etape Tazkiyatun Nafs: Takhalli dan Tahalli
+## 1. Dua Fase Tazkiyatun Nafs: Takhalli dan Tahalli
 
 Proses penyucian jiwa pendidik berlangsung melalui dua tahapan dialektis yang berkesinambungan:
 
-![[canvas/Tazkiyatun Nafs - Dua Etape Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]]
+![[canvas/Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]]
 
-### A. Etape Takhalli (Detoksifikasi Racun Hati)
+### A. Fase Takhalli (Detoksifikasi Racun Hati)
 - **Mengikis Riya' Pengasuhan:** Sering kali orang tua mendidik anak bukan karena Allah, melainkan demi memuaskan gengsi sosial: agar dipuji sebagai "keluarga teladan" atau "orang tua sukses". Riya' ini meracuni ketulusan hubungan dengan anak.
 - **Membuang Ego dan Amarah (*Ghadhab*):** Membentak anak saat melakukan kesalahan biasanya bukan karena membela syariat Allah, melainkan karena ego orang tua yang merasa tidak dihargai. Takhalli menuntut orang tua belajar menahan amarah (*kazhmul ghaizh*).
 - **Menjauhkan Harta Syubhat:** Setiap suapan makanan haram yang masuk ke perut keluarga akan menggelapkan hati anak dan menutup pintu hidayah.
 
-### B. Etape Tahalli (Penghiasan dengan Akhlak Mulia)
+### B. Fase Tahalli (Penghiasan dengan Akhlak Mulia)
 - **Ikhlas Semata-mata Mencari Ridha Allah:** Membebaskan diri dari pamrih ucapan terima kasih anak. Orang tua mendidik karena taat pada perintah Allah, bukan demi investasi balasan budi materi di masa tua.
 - **Kelemahlembutan (*Ar-Rifq*):** Sebagaimana sabda Nabi ﷺ: *“Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah dicabut dari sesuatu melainkan ia akan memperburuknya”* (HR. Muslim No. 2594).
 - **Istiqamah Menghidupkan Ibadah Khusus:** Menghidupkan shalat tahajjud, memperbanyak tilawah Al-Qur'an, dan istighfar harian untuk menjaga stabilitas cahaya batin.
@@ -149,7 +149,7 @@ Gunakan rubrik berikut untuk mendeteksi kesehatan jiwa kita sebelum berinteraksi
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -171,7 +171,7 @@ Gunakan rubrik berikut untuk mendeteksi kesehatan jiwa kita sebelum berinteraksi
 
 ---
 
-## Penerapan Tazkiyatun Nafs Berdasarkan Etape Usia Nabawiyah
+## Penerapan Tazkiyatun Nafs Berdasarkan Fase Usia Nabawiyah
 
 Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Madarijus Salikin Ibnul Qayyim*) bergerak selaras dengan tahapan fitrah:
 
@@ -266,7 +266,7 @@ Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Ma
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

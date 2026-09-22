@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Penerapan Kaidah Lembaga Berdasarkan Etape Usia<br/>Nabawiyah<br/>- Jenjang PAUD/TK (Fase Thufulah 0–7 Tahun):<br/>- Bebas dari target calistung kaku dan beban ujian akademik;<br/>sekolah adalah taman bermain alami yang merawat fitrah<br/>keimanan dan kebahagiaan belajar."]
+        N4_1["Penerapan Kaidah Lembaga Berdasarkan Fase Usia<br/>Nabawiyah<br/>- Jenjang PAUD/TK (Fase Thufulah 0–7 Tahun):<br/>- Bebas dari target calistung kaku dan beban ujian akademik;<br/>sekolah adalah taman bermain alami yang merawat fitrah<br/>keimanan dan kebahagiaan belajar."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Audit Keselarasan Kebijakan<br/>Lembaga dengan Fitrah Nabawiyah<br/>- 2. Tiga Pertanyaan Reflektif Lembaga"]
         N4_1 --> N4_2
     end

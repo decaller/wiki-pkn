@@ -125,7 +125,7 @@ Pendidikan Karakter Nabawiyah merumuskan **4 Kaidah Emas Operasional** yang waji
 
 ---
 
-## Penerapan 4 Kaidah Emas Berdasarkan Etape Usia Nabawiyah
+## Penerapan 4 Kaidah Emas Berdasarkan Fase Usia Nabawiyah
 
 Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*), penerapan 4 kaidah emas PKN harus mengikuti kematangan fitrah anak secara bertahap (*tadarruj*):
 
@@ -150,7 +150,7 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
 | No | Kaidah Emas PKN | Belum Terlihat | Mulai Terlihat | Membudaya |
 | :-: | :--- | :-: | :-: | :-: |
 | 1 | Kaidah 1: Menghargai keunikan tiap anak ('satu anak satu kurikulum') | [ ] | [ ] | [ ] |
-| 2 | Kaidah 2: Menerapkan penahapan alami tanpa melompati etape (*tadarruj*) | [ ] | [ ] | [ ] |
+| 2 | Kaidah 2: Menerapkan penahapan alami tanpa melompati fase (*tadarruj*) | [ ] | [ ] | [ ] |
 | 3 | Kaidah 3: Mengedepankan keteladanan visual sebelum instruksi lisan | [ ] | [ ] | [ ] |
 | 4 | Kaidah 4: Mengasah bakat dominan dan mengabaikan kelemahan minor | [ ] | [ ] | [ ] |
 
@@ -314,7 +314,7 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

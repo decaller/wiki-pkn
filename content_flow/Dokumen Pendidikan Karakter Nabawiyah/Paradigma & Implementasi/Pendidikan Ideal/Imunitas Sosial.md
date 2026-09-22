@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Pembentukan Imunitas Sosial Berdasarkan Etape<br/>Usia Nabawiyah<br/>- Etape Thufulah (0–7 Th — Proteksi Steril): Mengisolasi anak<br/>dari paparan gawai bebas, konten kekerasan, dan bahasa<br/>kotor; lingkungan rumah menjadi benteng steril.<br/>- Etape Tamyiz (7–10 Th — Vaksinasi Nalar): Mengenalkan<br/>realitas sosial secara terbimbing, melatih anak membedakan<br/>mana adab terpuji dan mana perilaku tercela di<br/>lingkungannya."]
+        N4_1["Pembentukan Imunitas Sosial Berdasarkan Fase<br/>Usia Nabawiyah<br/>- Fase Thufulah (0–7 Th — Proteksi Steril): Mengisolasi anak<br/>dari paparan gawai bebas, konten kekerasan, dan bahasa<br/>kotor; lingkungan rumah menjadi benteng steril.<br/>- Fase Tamyiz (7–10 Th — Vaksinasi Nalar): Mengenalkan<br/>realitas sosial secara terbimbing, melatih anak membedakan<br/>mana adab terpuji dan mana perilaku tercela di<br/>lingkungannya."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Ketahanan Benteng Imunitas Sosial<br/>Anak<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

@@ -54,11 +54,11 @@ Berikut adalah daftar 41 berkas tayang utama presentasi **Ustadz Abdul Kholiq** 
 
 ---
 
-## ⏳ Kelompok 3: Etape Perkembangan Usia & Metodologi Mendidik
+## ⏳ Kelompok 3: Fase Perkembangan Usia & Metodologi Mendidik
 
-* **14. Etape Usia Perkembangan (0–7, 7–10, 10–Baligh, Pemuda)**  
+* **14. Fase Usia Perkembangan (0–7, 7–10, 10–Baligh, Pemuda)**  
   *Topik:* Karakteristik biologis dan ruhiyah setiap fase: Thufulah, Tamyiz, Murahaqah, dan Syabab.  
-  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/14-etape-usia-perkembangan.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-etape-usia-perkembangan.pptx)
+  *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/14-fase-usia-perkembangan.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F14-fase-usia-perkembangan.pptx)
 * **18. Tiga Bahasa Mendidik: Hati, Lisan, dan Tangan**  
   *Topik:* Hirarki komunikasi pengasuhan: menyentuh qalb sebelum menggerakkan akal dan fisik.  
   *Akses Berkas:* [📥 Unduh PPTX](https://wikipkn.insanmustaqbal.or.id/presentations/18-tiga-bahasa-mendidik.pptx) • [🖥️ Buka di PowerPoint Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwikipkn.insanmustaqbal.or.id%2Fpresentations%2F18-tiga-bahasa-mendidik.pptx)

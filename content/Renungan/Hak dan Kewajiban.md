@@ -54,7 +54,7 @@ Mungkin sebagian dari kita melihat hadis ini sekilas dan menyimpulkan bahwa arti
 > *"Perintahkanlah anak-anak kalian untuk mendirikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan edukatif tanpa menciderai) karena meninggalkannya ketika berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*  
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud (Sunan Abi Dawud No. 495), Ahmad No. 6689, & Riyadush Shalihin (Tahqiq Al-Fahl No. 301 Hal. 116)  
-> 💡 **Relevansi PKN:** Manhaj Nabawi menetapkan fase 0–7 tahun bebas dari perintah wajib. Ibadah shalat baru diperintahkan pada etape tamyiz (7 tahun) dan baru ada konsekuensi pembiasaan tegas pada usia 10 tahun (3 tahun masa pembiasaan tanpa hukuman).
+> 💡 **Relevansi PKN:** Manhaj Nabawi menetapkan fase 0–7 tahun bebas dari perintah wajib. Ibadah shalat baru diperintahkan pada fase tamyiz (7 tahun) dan baru ada konsekuensi pembiasaan tegas pada usia 10 tahun (3 tahun masa pembiasaan tanpa hukuman).
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E%D8%8C&lang=id)
 
 Maka pada usia dibawah 7 tahun, tidak ada perintah untuk sholat. Jika sholat sebagai tiang agama saja kita tidak diperintahkan untuk mengajarkannya kepada anak, apalagi perintah lainnya kan? Bukankah demikian? Jadi bagaimana Rasul mendidik sholat untuk anak kecil?
@@ -98,7 +98,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 > *"Sungguh aku telah melayani Rasulullah ﷺ selama sepuluh tahun, dan beliau tidak pernah sekalipun berkata kepadaku 'Ah' (ungkapan jengkel), tidak pernah mencela apa yang aku perbuat: 'Mengapa engkau melakukannya?', dan tidak pernah menyalahkan apa yang aku tinggalkan: 'Mengapa engkau tidak melakukannya?'."*  
 > 
 > 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (Shahih al-Bukhari - Kitab al-Adab, No. 6038), Muslim No. 2309, & Riyadush Shalihin (No. 621 Hal. 205)  
-> 💡 **Relevansi PKN:** Hak anak pada etape tamyiz adalah mendapatkan ruang bertumbuh dan belajar dari kesalahan tanpa dihantui caci maki. Kesabaran pendidik menahan kata-kata celaan menjadi kunci kokohnya kepercayaan diri dan ketulusan anak.
+> 💡 **Relevansi PKN:** Hak anak pada fase tamyiz adalah mendapatkan ruang bertumbuh dan belajar dari kesalahan tanpa dihantui caci maki. Kesabaran pendidik menahan kata-kata celaan menjadi kunci kokohnya kepercayaan diri dan ketulusan anak.
 
 > [!quote] Dalil & Rujukan Nabawiyah: Koreksi Adab dengan Nada Penuh Kelembutan
 > **Naskah:**  
@@ -148,7 +148,7 @@ Jangan salahkan ananda jika mereka enggan dalam melaksanakan kewajibannya, hanya
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -170,7 +170,7 @@ Jangan salahkan ananda jika mereka enggan dalam melaksanakan kewajibannya, hanya
 
 ---
 
-## Penyelarasan Hak dan Kewajiban Berdasarkan Etape Usia
+## Penyelarasan Hak dan Kewajiban Berdasarkan Fase Usia
 
 Keadilan syariat tampak pada proporsi perimbangan antara hak dan kewajiban anak (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah*):
 

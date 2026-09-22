@@ -15,7 +15,7 @@ sources:
 > [!abstract] Hook & Ringkasan Dalil (Layer 1)
 > **Nas / Rujukan:** HR. Abu Dawud No. 495 & Ahmad No. 6689 (Hasan Shahih)
 > **Fokus Karakter:** Manhaj Tadarruj (Bertahap) & Disiplin Nabawiyah
-> **Etape Usia Target:** 7–10 Tahun (Tamyiz) transisi menuju 10–14 Tahun (Murahaqah)
+> **Fase Usia Target:** 7–10 Tahun (Tamyiz) transisi menuju 10–14 Tahun (Murahaqah)
 
 ---
 
@@ -59,4 +59,4 @@ Larangan keras melakukan hukuman fisik atau bentakan sebelum anak genap berusia 
 
 ## Penautan Navigasi & Konsep
 - Kembali ke: [[Indeks Utama]] | [[Kajian Video]] | [[Materi SOTAB]]
-- Konsep Terkait: [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]
+- Konsep Terkait: [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]

@@ -92,7 +92,7 @@ sources:
 
 ## Penautan Materi & Konsep Terkait
 - Kembali ke direktori: [[Kajian Video]] | [[Indeks Utama]]
-- Topik Manhaj Terkait: [[Pendidikan Karakter Nabawiyah]] | [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]]
+- Topik Manhaj Terkait: [[Pendidikan Karakter Nabawiyah]] | [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]]
 
 ---
 

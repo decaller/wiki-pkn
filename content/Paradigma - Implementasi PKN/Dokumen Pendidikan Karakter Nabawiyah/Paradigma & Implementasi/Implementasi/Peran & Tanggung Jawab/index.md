@@ -171,7 +171,7 @@ Seringkali terjadi benturan ekspektasi antara pihak sekolah dan orang tua. Berik
 
 ---
 
-## Peta Sinergi Peran & Tanggung Jawab Lintas Etape Usia
+## Peta Sinergi Peran & Tanggung Jawab Lintas Fase Usia
 
 Sinergi tripartit (Ayah, Bunda, Guru) bergerak dinamis mengikuti kurva kematangan fitrah anak:
 
@@ -252,7 +252,7 @@ Sinergi tripartit (Ayah, Bunda, Guru) bergerak dinamis mengikuti kurva kematanga
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

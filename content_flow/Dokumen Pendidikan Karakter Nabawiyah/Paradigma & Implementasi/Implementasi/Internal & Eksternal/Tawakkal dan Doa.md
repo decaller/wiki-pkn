@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Orientasi Doa dan Tawakkal Sesuai Etape<br/>Perkembangan Anak<br/>- Doa Etape Thufulah: Memohon perlindungan fitrah dari<br/>gangguan setan (U'idzukuma bi kalimaatillaahit taammah) dan<br/>kesehatan jasad.<br/>- Doa Etape Tamyiz: Memohon agar anak dicintai keimanan dan<br/>dihiasi keindahan shalat (Rabbij'alni muqiimash shalaati wa<br/>min dzurriyyati)."]
+        N4_1["Orientasi Doa dan Tawakkal Sesuai Fase<br/>Perkembangan Anak<br/>- Doa Fase Thufulah: Memohon perlindungan fitrah dari<br/>gangguan setan (U'idzukuma bi kalimaatillaahit taammah) dan<br/>kesehatan jasad.<br/>- Doa Fase Tamyiz: Memohon agar anak dicintai keimanan dan<br/>dihiasi keindahan shalat (Rabbij'alni muqiimash shalaati wa<br/>min dzurriyyati)."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Keseimbangan Ikhtiar dan Tawakkal<br/>Pengasuhan<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

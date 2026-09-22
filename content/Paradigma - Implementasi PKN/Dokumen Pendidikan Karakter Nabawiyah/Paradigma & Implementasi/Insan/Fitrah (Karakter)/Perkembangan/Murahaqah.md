@@ -150,7 +150,7 @@ Dalam *Zadul Ma'ad* dan *Madarijus Salikin*:
 
 Berdasarkan **Panduan Implementasi Standar PKN (A4) Klausul 11**, prosedur pendewasaan (*aqil baligh*) diformulasikan untuk menuntaskan transformasi seorang anak menjadi seorang **Mukallaf**—yakni hamba yang memikul beban hukum syariat secara mandiri di hadapan Allah Ta'ala.
 
-Pada etape ini, lembaga pendidikan dan orang tua wajib menerapkan diferensiasi kurikulum yang mempersiapkan peran hakiki kedewasaan:
+Pada fase ini, lembaga pendidikan dan orang tua wajib menerapkan diferensiasi kurikulum yang mempersiapkan peran hakiki kedewasaan:
 
 ### A. Program Khusus Kesiapan Kepengurusan Rumah Tangga (Santri Putri)
 Kurikulum keputrian pada fase murahaqah diarahkan secara terstruktur untuk membekali calon ibu rumah tangga dan pendidik generasi masa depan:
@@ -168,9 +168,9 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 
 ---
 
-## Visualisasi Tangga Kesiapan Baligh Etape Murahaqah (10–15 Tahun)
+## Visualisasi Tangga Kesiapan Baligh Fase Murahaqah (10–15 Tahun)
 
-![[canvas/Murahaqah - Visualisasi Tangga Kesiapan Baligh Etape Murahaqah (10–15 Tahun).canvas]]
+![[canvas/Murahaqah - Visualisasi Tangga Kesiapan Baligh Fase Murahaqah (10–15 Tahun).canvas]]
 
 ---
 
@@ -235,7 +235,7 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
 > - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Fase Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
 >
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
@@ -380,7 +380,7 @@ Bagi santri putra, orientasi pendewasaan difokuskan pada penegakan jiwa *Qowwamu
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

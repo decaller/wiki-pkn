@@ -141,7 +141,7 @@ Dalam menghadapi tantangan eksternal zaman modern, terdapat dua pendekatan yang 
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -182,14 +182,14 @@ Dalam menghadapi tantangan eksternal zaman modern, terdapat dua pendekatan yang 
 
 ---
 
-## Penyelarasan Faktor Internal dan Eksternal Berdasarkan Etape Usia
+## Penyelarasan Faktor Internal dan Eksternal Berdasarkan Fase Usia
 
 Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fase:
 
-1. **Etape Thufulah (0–7 Th):** Faktor internal keluarga 90%, eksternal 10%. Rumah harus menjadi lingkungan steril penuh kehangatan tauhid dan cinta.
-2. **Etape Tamyiz (7–10 Th):** Faktor internal 70%, eksternal 30%. Mulai mengenalkan anak pada lingkungan masjid dan sekolah dengan filter selektif dari orang tua.
-3. **Etape Murahaqah (10–15 Th):** Faktor internal 50%, eksternal 50%. Penguatan daya imun internal agar anak mampu menolak pengaruh negatif lingkungan pergaulan sebaya.
-4. **Etape Syabab (15+ Th):** Internal mandiri sebagai agen perbaikan (*Muslih*). Anak terjun ke medan sosial eksternal untuk memberi pengaruh kebaikan, bukan lagi sekadar mempertahankan diri.
+1. **Fase Thufulah (0–7 Th):** Faktor internal keluarga 90%, eksternal 10%. Rumah harus menjadi lingkungan steril penuh kehangatan tauhid dan cinta.
+2. **Fase Tamyiz (7–10 Th):** Faktor internal 70%, eksternal 30%. Mulai mengenalkan anak pada lingkungan masjid dan sekolah dengan filter selektif dari orang tua.
+3. **Fase Murahaqah (10–15 Th):** Faktor internal 50%, eksternal 50%. Penguatan daya imun internal agar anak mampu menolak pengaruh negatif lingkungan pergaulan sebaya.
+4. **Fase Syabab (15+ Th):** Internal mandiri sebagai agen perbaikan (*Muslih*). Anak terjun ke medan sosial eksternal untuk memberi pengaruh kebaikan, bukan lagi sekadar mempertahankan diri.
 
 ---
 
@@ -259,7 +259,7 @@ Dinamika benteng ruhiyah internal dan lingkungan eksternal berevolusi di tiap fa
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

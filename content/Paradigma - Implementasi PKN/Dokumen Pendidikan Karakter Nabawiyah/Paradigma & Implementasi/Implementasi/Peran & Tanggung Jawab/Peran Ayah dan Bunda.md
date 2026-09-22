@@ -81,8 +81,8 @@ title: "Peran Ayah dan Bunda"
 
 ## 1. Hakikat Sinergi Dua Kutub Pengasuhan
 
-![Penerapan Analogi Bertani dalam Siklus Etape Usia Anak](/assets/slides/slide-analogi-bertani-fase.webp)
-*Penerapan Analogi Bertani dalam Siklus Etape Usia Anak*
+![Penerapan Analogi Bertani dalam Siklus Fase Usia Anak](/assets/slides/slide-analogi-bertani-fase.webp)
+*Penerapan Analogi Bertani dalam Siklus Fase Usia Anak*
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), keluarga diposisikan sebagai **laboratorium peradaban terkecil**. Allah menciptakan laki-laki dan perempuan dengan fitrah jasmani dan rohani yang berbeda bukan untuk saling mendominasi, melainkan untuk membentuk **sinergi komplementer** yang sempurna:
 
@@ -351,7 +351,7 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

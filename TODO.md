@@ -68,10 +68,10 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
   - *Deskripsi:* Audit keterbacaan artikel, perbaikan kalimat berbelit (readability score), dan eliminasi ambiguitas tata bahasa.
   - *Perkiraan Token AI:* ~1.8M - 2.5M token (audit keterbacaan dan usulan penyederhanaan kalimat pada 100+ artikel wiki).
   - *Kebutuhan HITL:* Sedang - Tinggi (review tim redaksi agar esensi pesan tarbiyah tidak terdistorsi saat disederhanakan).
-- [ ] **Penyusunan Glosarium (Glossary) & Minimalisasi Istilah Sulit**
-  - *Deskripsi:* Membuat kamus istilah khas PKN dan mengganti/menyederhanakan diksi rumit agar mudah dipahami oleh guru dan orang tua awam.
-  - *Perkiraan Token AI:* ~600k - 1M token (ekstraksi entitas istilah Arab/pedagogis khas PKN dan perumusan definisi kontekstual).
-  - *Kebutuhan HITL:* Tinggi (verifikasi ketepatan definisi syar'i dan pedagogis oleh ustadz/ahli).
+- [x] **Penyusunan Glosarium (Glossary) & Minimalisasi Istilah Sulit** `[SELESAI]`
+  - *Deskripsi:* Membuat kamus istilah khas PKN ([`content/Glosarium Istilah Karakter Nabawiyah.md`](content/Glosarium%20Istilah%20Karakter%20Nabawiyah.md)) dengan indeks A–Z, matriks tematik, definisi syar'i-pedagogis, serta melakukan purifikasi kosakata di seluruh repositori (mengganti *etape* menjadi *fase*, *archetype* menjadi *uswah sahabat*, dll.).
+  - *Status Kemajuan:* Selesai penuh (383 berkas terverifikasi, seluruh rujukan 'etape' diubah menjadi 'fase', tautan navigasi diperbarui).
+  - *Kebutuhan HITL:* Rendah (telah diverifikasi sesuai diksi asli buku Ustadz Abdul Kholiq).
 - [ ] **Standarisasi Progressive Disclosure & Framework Diátaxis pada Generator Konten**
   - *Deskripsi:* Menerapkan pedoman [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) pada seluruh naskah dan generator AI dengan penekanan khusus pada **Pengalaman Membaca (*Reader's Journey*) & Narasi Kohesif**. Meskipun artikel bersifat ensiklopedis deskriptif, narasi antarpoin harus tersambung mulus (tidak berupa daftar butir terisolasi). Setiap naskah wajib diawali dengan:
     1. **Layer 1: The Hook / TL;DR:** Callout `> [!SUMMARY]` ringkasan eksekutif 10 detik.

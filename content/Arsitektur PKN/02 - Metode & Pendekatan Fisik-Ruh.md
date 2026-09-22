@@ -170,7 +170,7 @@ Metode PKN dipandu oleh 4 grafik kurva dinamika yang wajib dikuasai oleh setiap 
 ### Kurva 1: Toleransi vs Batasan Syariat (*Al-Hima*)
 Menggambarkan hubungan berbanding terbalik antara tingkat pemaafan dan ketegasan hukum seiring pertambahan usia:
 
-| Etape Usia | Tingkat Toleransi Kesalahan | Batas Syariat | Pendekatan Pendidik |
+| Fase Usia | Tingkat Toleransi Kesalahan | Batas Syariat | Pendekatan Pendidik |
 |:---|:---|:---|:---|
 | **0–7 Tahun (Thufulah)** | **100% Penuh (Bebas)** | Nol Hisab | Dekapan Kasih Sayang Murni, Bahasa Hati |
 | **7–10 Tahun (Tamyiz)** | **50% Menengah** | Latihan Shalat Lembut | Dialog Nalar, Pembiasaan Adab (*Maw'izhah*) |
@@ -195,7 +195,7 @@ Menggambarkan lintasan pemulihan jiwa anak yang pernah mengalami salah asuh sebe
 ### Kurva 3: Bobot Tiga Bahasa Pengasuhan
 Menjelaskan proporsi penerapan Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan:
 
-| Etape Usia | Bahasa Hati | Bahasa Lisan | Bahasa Tangan | Fokus Interaksi Utama |
+| Fase Usia | Bahasa Hati | Bahasa Lisan | Bahasa Tangan | Fokus Interaksi Utama |
 |:---|:---:|:---:|:---:|:---|
 | **0–7 Tahun (Thufulah)** | **100%** | Minimal (Teladan) | 0% (Diharamkan) | Cinta, Sentuhan Fisik, Tatapan Hangat, Senyuman |
 | **7–10 Tahun (Tamyiz)** | 40% | **50% (Puncak)** | 10% (Arahan Ringan)| Diskusi Logika Sebab-Akibat, Kisah Hikmah |
@@ -221,11 +221,11 @@ Menjelaskan proporsi penerapan Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan:
 
 ## 8. Protokol Operasional & Manhaj Tadarruj
 
-1. **Etape Thufulah (0–7 Th):**
+1. **Fase Thufulah (0–7 Th):**
    Pendidik dilarang memberikan sanksi fisik atau bentakan verbal. Tugas utama: memenuhi tangki cinta anak hingga tumpah ruah, membacakan kisah nabi dengan intonasi hangat, dan memberikan keteladanan ibadah nyata di depan mata anak.
-2. **Etape Tamyiz (7–10 Th):**
+2. **Fase Tamyiz (7–10 Th):**
    Memerintahkan shalat dengan penuh kesabaran selama 3 tahun penuh (sekitar 5.000 kali shalat berjamaah bersama). Menggunakan Bahasa Lisan untuk menjelaskan mengapa kita harus beradab, berwudhu, dan berbakti kepada orang tua.
-3. **Etape Murahaqah (10–14 Th):**
+3. **Fase Murahaqah (10–14 Th):**
    Memisahkan tempat tidur putra dan putri. Menegakkan konsekuensi tegas jika sengaja meninggalkan kewajiban shalat fardhu. Melatih kemandirian ekonomi dan tanggung jawab proyek nyata.
 
 ---

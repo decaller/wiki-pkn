@@ -17,7 +17,7 @@
       "y": -750,
       "width": 1780,
       "height": 130,
-      "text": "# ⚖️ SEKTOR 4: PERAN PENDIDIK & KEDISIPLINAN\n**Piramida Spasial 4 Etape Usia, Tiga Bahasa Pengasuhan, Zonasi Al-Hima & Kurva Kedisiplinan Wasathiyah**\n*Rujukan: [[Batas Toleransi]] • [[Disiplin Positif PKN]] • [[Peran Ayah dan Bunda]] • [[Recovery]]*",
+      "text": "# ⚖️ SEKTOR 4: PERAN PENDIDIK & KEDISIPLINAN\n**Piramida Spasial 4 Fase Usia, Tiga Bahasa Pengasuhan, Zonasi Al-Hima & Kurva Kedisiplinan Wasathiyah**\n*Rujukan: [[Batas Toleransi]] • [[Disiplin Positif PKN]] • [[Peran Ayah dan Bunda]] • [[Recovery]]*",
       "color": "2"
     },
     {
@@ -107,7 +107,7 @@
       "y": -60,
       "width": 600,
       "height": 330,
-      "text": "### 📉 Kurva Disiplin & Tekanan vs Usia\n| Etape Usia | Tingkat Toleransi | Tingkat Ketegasan Syariat | Bahasa Dominan |\n|---|---|---|---|\n| **0–7 Th (Thufulah)** | 100% (Maksimal) | 0% (Bebas Hisab) | **Bahasa Hati** |\n| **7–10 Th (Tamyiz)** | 50% (Sedang) | 50% (Bimbingan Nalar) | **Bahasa Lisan** |\n| **10–15 Th (Murahaqah)** | 10% (Minimal) | 90% (Penegakan Ta'dib) | **Bahasa Tangan** |\n| **15+ Th (Syabab/Baligh)**| 0% (Nol Toleransi) | 100% (Mukallaf Penuh) | **Kemitraan** |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <!-- Grid Lines -->\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"330\" y1=\"20\" x2=\"330\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <!-- Axes -->\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Shaded Area of Tolerance -->\n  <polygon points=\"60,25 60,110 330,110 330,105 240,85 150,55\" fill=\"#a6e3a1\" fill-opacity=\"0.25\"/>\n  <!-- Tolerance Boundary Curve -->\n  <path d=\"M 60 25 Q 150 55 240 85 T 330 105\" fill=\"none\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <!-- Strictness Curve -->\n  <path d=\"M 60 105 Q 150 85 240 55 T 330 25\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"3\"/>\n  <!-- Data Points -->\n  <circle cx=\"60\" cy=\"25\" r=\"4\" fill=\"#a6e3a1\"/>\n  <circle cx=\"150\" cy=\"55\" r=\"4\" fill=\"#f9e2af\"/>\n  <circle cx=\"240\" cy=\"85\" r=\"4\" fill=\"#fab387\"/>\n  <circle cx=\"330\" cy=\"105\" r=\"4\" fill=\"#f38ba8\"/>\n  <!-- Labels -->\n  <text x=\"50\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">0 Th</text>\n  <text x=\"140\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">7 Th</text>\n  <text x=\"225\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">10 Th</text>\n  <text x=\"315\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">Baligh</text>\n  <text x=\"70\" y=\"40\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Toleransi Longgar</text>\n  <text x=\"200\" y=\"35\" fill=\"#f38ba8\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Pagar Syariat (Hima)</text>\n</svg>\n\n*Atsar Emas Ibnul Qayyim (Madaarijus Saalikin 2/295):*  \n*« وكل خلق محمود مكتنف بخلقين ذميمين وهو وسط بينهما »*  \n*\"Setiap akhlak mulia berada di tengah antara dua akhlak tercela (Wasathiyah antara Tafrith/Lalai vs Ifrath/Keras).\"* ([[Batas Toleransi]])",
+      "text": "### 📉 Kurva Disiplin & Tekanan vs Usia\n| Fase Usia | Tingkat Toleransi | Tingkat Ketegasan Syariat | Bahasa Dominan |\n|---|---|---|---|\n| **0–7 Th (Thufulah)** | 100% (Maksimal) | 0% (Bebas Hisab) | **Bahasa Hati** |\n| **7–10 Th (Tamyiz)** | 50% (Sedang) | 50% (Bimbingan Nalar) | **Bahasa Lisan** |\n| **10–15 Th (Murahaqah)** | 10% (Minimal) | 90% (Penegakan Ta'dib) | **Bahasa Tangan** |\n| **15+ Th (Syabab/Baligh)**| 0% (Nol Toleransi) | 100% (Mukallaf Penuh) | **Kemitraan** |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <!-- Grid Lines -->\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"330\" y1=\"20\" x2=\"330\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <!-- Axes -->\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Shaded Area of Tolerance -->\n  <polygon points=\"60,25 60,110 330,110 330,105 240,85 150,55\" fill=\"#a6e3a1\" fill-opacity=\"0.25\"/>\n  <!-- Tolerance Boundary Curve -->\n  <path d=\"M 60 25 Q 150 55 240 85 T 330 105\" fill=\"none\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <!-- Strictness Curve -->\n  <path d=\"M 60 105 Q 150 85 240 55 T 330 25\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"3\"/>\n  <!-- Data Points -->\n  <circle cx=\"60\" cy=\"25\" r=\"4\" fill=\"#a6e3a1\"/>\n  <circle cx=\"150\" cy=\"55\" r=\"4\" fill=\"#f9e2af\"/>\n  <circle cx=\"240\" cy=\"85\" r=\"4\" fill=\"#fab387\"/>\n  <circle cx=\"330\" cy=\"105\" r=\"4\" fill=\"#f38ba8\"/>\n  <!-- Labels -->\n  <text x=\"50\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">0 Th</text>\n  <text x=\"140\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">7 Th</text>\n  <text x=\"225\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">10 Th</text>\n  <text x=\"315\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">Baligh</text>\n  <text x=\"70\" y=\"40\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Toleransi Longgar</text>\n  <text x=\"200\" y=\"35\" fill=\"#f38ba8\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Pagar Syariat (Hima)</text>\n</svg>\n\n*Atsar Emas Ibnul Qayyim (Madaarijus Saalikin 2/295):*  \n*« وكل خلق محمود مكتنف بخلقين ذميمين وهو وسط بينهما »*  \n*\"Setiap akhlak mulia berada di tengah antara dua akhlak tercela (Wasathiyah antara Tafrith/Lalai vs Ifrath/Keras).\"* ([[Batas Toleransi]])",
       "color": "2"
     },
     {
@@ -150,7 +150,7 @@
       "toEnd": "arrow",
       "fromSide": "top",
       "toSide": "bottom",
-      "label": "Naik Etape Nalar",
+      "label": "Naik Fase Nalar",
       "color": "5"
     },
     {
@@ -161,7 +161,7 @@
       "toEnd": "arrow",
       "fromSide": "top",
       "toSide": "bottom",
-      "label": "Naik Etape Ketegasan",
+      "label": "Naik Fase Ketegasan",
       "color": "3"
     },
     {

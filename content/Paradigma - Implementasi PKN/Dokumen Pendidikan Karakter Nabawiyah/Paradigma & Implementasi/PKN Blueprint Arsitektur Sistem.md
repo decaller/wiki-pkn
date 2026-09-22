@@ -237,7 +237,7 @@ Dari dua penggalan sabda kenabian ini, tersingkap rahasia metode pendidikan PKN 
 
 ### 3.2 Tiga Rukun Bakat Nabawiyah Terintegrasi Fase Usia
 
-Dalam rekaman kajian PKN (*Recording 14*), bakat sejati diukur melalui tiga rukun yang tumbuh bertahap mengikuti etape usia:
+Dalam rekaman kajian PKN (*Recording 14*), bakat sejati diukur melalui tiga rukun yang tumbuh bertahap mengikuti fase usia:
 
 ```
 USIA 0–7 TH (Thufulah)   ──────►  RUKUN 1: SUKA (Al-Hirsh)
@@ -510,7 +510,7 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

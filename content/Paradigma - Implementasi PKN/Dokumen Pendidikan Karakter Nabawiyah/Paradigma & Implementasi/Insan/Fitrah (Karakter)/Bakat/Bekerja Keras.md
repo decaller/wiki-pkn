@@ -261,7 +261,7 @@ Untuk memastikan apakah seorang anak memiliki benih unggul bakat **Bekerja Keras
 
 ---
 
-## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Bekerja Keras & Pola Asuh Nabawi
+## 🏛️ Keteladanan Ashabus Rasul: Uswah Sahabat Rumpun Bekerja Keras & Pola Asuh Nabawi
 
 Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan korpus sirah OpenBayan, rumpun Bekerja Keras tercermin dengan sangat perkasa pada para sahabat berikut:
 
@@ -431,7 +431,7 @@ Berdasarkan kajian kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

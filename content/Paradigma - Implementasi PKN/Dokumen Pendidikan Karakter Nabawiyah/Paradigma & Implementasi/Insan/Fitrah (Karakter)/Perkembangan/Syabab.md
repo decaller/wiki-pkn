@@ -78,7 +78,7 @@ tags:
 > *"Tujuh golongan yang akan dinaungi oleh Allah di bawah naungan 'Arsy-Nya pada hari kiamat di mana tiada naungan selain naungan-Nya: ... dan seorang Pemuda (Syabbun) yang tumbuh besar dalam beribadah kepada Rabbnya..."*
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Al-Bukhari No. 660 & Muslim No. 1031; Kitab Al-Adzan & Kitab Az-Zakah; Syarah Shahih Muslim Imam An-Nawawi (Juz 7 Hal. 120).  
-> 💡 **Relevansi PKN:** Fase Syabab adalah etape kemandirian mukallaf penuh. Hubungan orang tua dan anak bertransformasi menjadi "Sahabat Seperjuangan". Pemuda muslim tidak lagi menjadi beban tanggungan keluarga, melainkan menjadi penopang dakwah, penggerak ekonomi halal, dan benteng peradaban umat.
+> 💡 **Relevansi PKN:** Fase Syabab adalah fase kemandirian mukallaf penuh. Hubungan orang tua dan anak bertransformasi menjadi "Sahabat Seperjuangan". Pemuda muslim tidak lagi menjadi beban tanggungan keluarga, melainkan menjadi penopang dakwah, penggerak ekonomi halal, dan benteng peradaban umat.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%8E%D8%A9%D9%8C%20%D9%8A%D9%8F%D8%B8%D9%90%D9%84%D9%8F%D9%91%D9%87%D9%8F%D9%85%D9%8F%20%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%8F%20%D9%81%D9%90%D9%8A%20%D8%B8%D9%90%D9%84%D9%90%D9%91%D9%87%D9%90%20%D9%8A%D9%8E%D9%88%D9%92%D9%85%D9%8E%20%D9%84%D9%8E%D8%A7%20%D8%B8%D9%90%D9%84%D9%8E%D9%91%20%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7%20%D8%B8%D9%90%D9%84%D9%8F%D9%91%D9%87%D9%8F%3A%20...&lang=id)
 
 ---
@@ -146,7 +146,7 @@ Keluarga dan sekolah Islam harus mendesain kurikulum Syabab berbasis **Tiga Kesi
 
 ## 5. Tautan Konseptual Terkait
 * [[Perkembangan]] — Rangkaian Lengkap Pentahapan Usia Nabawiyah.
-* [[Murahaqah]] — Etape Transisi Menjelang Baligh.
+* [[Murahaqah]] — Fase Transisi Menjelang Baligh.
 * [[Bakat]] — Aktualisasi 40 Karakter Menjadi Karya Peradaban.
 * [[Tujuan Hidup Manusia]] — Menjadi Khalifah fil Ardh yang Bertauhid.
 ---
@@ -217,7 +217,7 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
 ## 7. Tautan Konseptual Terkait
 
 * [[Perkembangan]] — Rangkaian Lengkap Pentahapan Usia Nabawiyah.
-* [[Murahaqah]] — Etape Transisi Menjelang Baligh.
+* [[Murahaqah]] — Fase Transisi Menjelang Baligh.
 * [[8 Standar Implementasi PKN]] — Standar Manajemen Penjaminan Mutu Lembaga dan Klausul 10 Pendewasaan.
 * [[Panduan Asesmen dan Observasi TB40]] — Pemetaan Bakat untuk Penjurusan Studi dan Pilihan Karir Santri.
 * [[Panduan RPP dan Observasi Lapangan]] — Instrumen Perencanaan Proyek dan Observasi Pertumbuhan Karakter.
@@ -275,7 +275,7 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
 > - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Fase Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
 >
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
@@ -420,7 +420,7 @@ Dalam kajian *Pendidikan Lestari*, Prof. Dr. Iman Harymawan mengkritik sistem pe
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

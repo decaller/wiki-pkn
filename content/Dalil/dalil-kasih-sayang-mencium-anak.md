@@ -15,7 +15,7 @@ sources:
 > [!abstract] Hook & Ringkasan Dalil (Layer 1)
 > **Nas / Rujukan:** HR. Bukhari No. 5997 & Muslim No. 2318
 > **Fokus Karakter:** Pengisian Tangki Cinta & Bahasa Tubuh Nabawiyah
-> **Etape Usia Target:** Seluruh Etape, terutama 0–7 Tahun (Thufulah)
+> **Fase Usia Target:** Seluruh Fase, terutama 0–7 Tahun (Thufulah)
 
 ---
 
@@ -59,4 +59,4 @@ Guru dan orang tua wajib memulai hari dengan senyuman, tatapan penuh kasih, dan 
 
 ## Penautan Navigasi & Konsep
 - Kembali ke: [[Indeks Utama]] | [[Kajian Video]] | [[Materi SOTAB]]
-- Konsep Terkait: [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]
+- Konsep Terkait: [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]

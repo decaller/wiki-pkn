@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Penerapan SOTAB HEBAT Berdasarkan Etape Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Th): Eksplorasi bebas tanpa asesmen<br/>formal; orang tua mencatat kecenderungan gerak dan respon<br/>sensorik alami anak.<br/>- Fase Tamyiz (7–10 Th): Pengamatan Rukun 3A (Suka, Bisa,<br/>Bermanfaat) dalam aktivitas harian dan penugasan proyek mini<br/>kelompok."]
+        N4_1["Penerapan SOTAB HEBAT Berdasarkan Fase Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Th): Eksplorasi bebas tanpa asesmen<br/>formal; orang tua mencatat kecenderungan gerak dan respon<br/>sensorik alami anak.<br/>- Fase Tamyiz (7–10 Th): Pengamatan Rukun 3A (Suka, Bisa,<br/>Bermanfaat) dalam aktivitas harian dan penugasan proyek mini<br/>kelompok."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Observasi Rukun 3A SOTAB HEBAT<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

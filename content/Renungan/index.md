@@ -102,7 +102,7 @@ Akhirilah setiap renungan dengan merendahkan hati di hadapan Allah, memohon agar
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -124,14 +124,14 @@ Akhirilah setiap renungan dengan merendahkan hati di hadapan Allah, memohon agar
 
 ---
 
-## Muhasabah Perjalanan Mendidik di Tiap Etape Usia
+## Muhasabah Perjalanan Mendidik di Tiap Fase Usia
 
-Setiap etape usia anak adalah amanah tak berulang yang menuntut perenungan mendalam:
+Setiap fase usia anak adalah amanah tak berulang yang menuntut perenungan mendalam:
 
-1. **Renungan Etape Thufulah:** Apakah kita telah memberikan tatapan mata penuh kehangatan, ataukah kita telah mencuri masa kecil mereka dengan layar gawai dingin?
-2. **Renungan Etape Tamyiz:** Apakah kita mendidik shalat dengan cinta keteladanan, atau sekadar ancaman marah yang membuat mereka menjauhi masjid?
-3. **Renungan Etape Murahaqah:** Apakah kita menjadi teman bicara yang aman saat badai pubertas datang, atau hakim yang selalu memvonis salah?
-4. **Renungan Etape Syabab:** Sudahkah kita melepaskan mereka menjadi rajawali peradaban yang mandiri di hadapan Allah?
+1. **Renungan Fase Thufulah:** Apakah kita telah memberikan tatapan mata penuh kehangatan, ataukah kita telah mencuri masa kecil mereka dengan layar gawai dingin?
+2. **Renungan Fase Tamyiz:** Apakah kita mendidik shalat dengan cinta keteladanan, atau sekadar ancaman marah yang membuat mereka menjauhi masjid?
+3. **Renungan Fase Murahaqah:** Apakah kita menjadi teman bicara yang aman saat badai pubertas datang, atau hakim yang selalu memvonis salah?
+4. **Renungan Fase Syabab:** Sudahkah kita melepaskan mereka menjadi rajawali peradaban yang mandiri di hadapan Allah?
 
 ---
 

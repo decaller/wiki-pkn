@@ -15,7 +15,7 @@ sources:
 > [!abstract] Hook & Ringkasan Dalil (Layer 1)
 > **Nas / Rujukan:** HR. Bukhari No. 1385 & Muslim No. 2658
 > **Fokus Karakter:** Pondasi Fitrah Karakter & Tanggung Jawab Orang Tua
-> **Etape Usia Target:** 0–7 Tahun (Thufulah) & Fase Pembentukan Awal
+> **Fase Usia Target:** 0–7 Tahun (Thufulah) & Fase Pembentukan Awal
 
 ---
 
@@ -59,4 +59,4 @@ Pendidik tidak boleh memperlakukan anak sebagai 'kertas kosong' atau 'batu bata 
 
 ## Penautan Navigasi & Konsep
 - Kembali ke: [[Indeks Utama]] | [[Kajian Video]] | [[Materi SOTAB]]
-- Konsep Terkait: [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]
+- Konsep Terkait: [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]

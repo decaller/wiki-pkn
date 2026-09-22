@@ -191,7 +191,7 @@ Pembaca dapat menelusuri artikel pendalaman dari arsip resmi SOTAB HEBAT di dire
 
 ---
 
-## Penerapan SOTAB HEBAT Berdasarkan Etape Usia Nabawiyah
+## Penerapan SOTAB HEBAT Berdasarkan Fase Usia Nabawiyah
 
 Observasi bakat SOTABH (*Sifat, Observasi, Temu Bakat HEBAT*) mengikuti tahapan kematangan fitrah:
 
@@ -323,7 +323,7 @@ Observasi bakat SOTABH (*Sifat, Observasi, Temu Bakat HEBAT*) mengikuti tahapan 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

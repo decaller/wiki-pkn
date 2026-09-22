@@ -109,7 +109,7 @@ Membongkar hakikat manusia ciptaan Allah yang terdiri dari pertemuan sakral anta
 * Misi Dwi-Mandat: **[[Tujuan Hidup Manusia]]** sebagai *'Abdullah* dan *Khalifah fil Ardh*.
 * Kosmologi diri: **[[Bersatunya Ruh dan Jasad Membentuk Jiwa]]**.
 * Taksonomi kesadaran moral: **[[Pembagian Jiwa]]** ([[Ammarah]], [[Lawwamah]], [[Muthmainnah]]).
-* Penyingkapan potensi bawaan: **[[Fitrah (Karakter)]]** yang menaungi fitrah [[Iman]], [[Belajar]], [[Bakat]] (40 pilar TB-40), dan 4 etape [[Perkembangan]] usia (Thufulah, Tamyiz, Murahaqah, Syabab).
+* Penyingkapan potensi bawaan: **[[Fitrah (Karakter)]]** yang menaungi fitrah [[Iman]], [[Belajar]], [[Bakat]] (40 pilar TB-40), dan 4 fase [[Perkembangan]] usia (Thufulah, Tamyiz, Murahaqah, Syabab).
 
 ### B. Pilar II: [[Pendidikan Ideal]] (Bagaimana Cara Mendidiknya?)
 Merumuskan metodologi pengasuhan yang meneladani kelembutan dan ketegasan Rasulullah ﷺ:
@@ -242,7 +242,7 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

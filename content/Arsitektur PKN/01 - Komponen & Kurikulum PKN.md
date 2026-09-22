@@ -114,7 +114,7 @@ Sementara itu, Imam Al-Ghazali dalam *Ihya Ulumiddin* menegaskan bahwa ilmu terb
 Bangunan keilmuan PKN tidak bersandar pada opini populer yang rapuh, melainkan disaring melalui 5 sumber otoritas yang kokoh:
 
 1. **Al-Qur'anul Karim:**
-   Petunjuk mutlak (*Hudan linnas*) yang memuat konsepsi hakikat insan, tauhid, etape fitrah, dan nilai-nilai peradaban abadi (rujukan: [[Master Katalog Dalil Al-Quran]]).
+   Petunjuk mutlak (*Hudan linnas*) yang memuat konsepsi hakikat insan, tauhid, fase fitrah, dan nilai-nilai peradaban abadi (rujukan: [[Master Katalog Dalil Al-Quran]]).
 2. **As-Sunnah Ash-Shahihah:**
    Model keteladanan hidup (*living model*) Rasulullah ﷺ dalam membimbing anak, membetulkan kesalahan, dan menegakkan adab (rujukan: [[Master Katalog Dalil Hadits dan Sunnah]]).
 3. **As-Sirah An-Nabawiyyah:**

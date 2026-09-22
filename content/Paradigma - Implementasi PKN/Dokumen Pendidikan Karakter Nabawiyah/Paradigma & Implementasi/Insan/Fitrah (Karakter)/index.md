@@ -113,9 +113,9 @@ Pendidikan Karakter Nabawiyah memetakan fitrah anak ke dalam empat rumpun dimens
 
 ### D. [[Perkembangan|Fitrah Perkembangan dan Seksualitas (Fitratun Numuw)]]
 - Pertumbuhan anak tunduk pada sunnatullah fase usia yang bertahap:
-  - **Usia 0–7 tahun ([[Thufulah]]):** Etape penanaman cinta kasih tanpa syarat, masa bermain, dipimpin dengan [[Bahasa Hati]].
-  - **Usia 7–10 tahun ([[Tamyiz]]):** Etape pemilahan baik-buruk, pengasahan nalar, dipimpin dengan [[Bahasa Lisan]].
-  - **Usia 10–Baligh ([[Murahaqah]]):** Etape penegasan tanggung jawab, disiplin syariat, dipimpin dengan [[Bahasa Tangan]].
+  - **Usia 0–7 tahun ([[Thufulah]]):** Fase penanaman cinta kasih tanpa syarat, masa bermain, dipimpin dengan [[Bahasa Hati]].
+  - **Usia 7–10 tahun ([[Tamyiz]]):** Fase pemilahan baik-buruk, pengasahan nalar, dipimpin dengan [[Bahasa Lisan]].
+  - **Usia 10–Baligh ([[Murahaqah]]):** Fase penegasan tanggung jawab, disiplin syariat, dipimpin dengan [[Bahasa Tangan]].
   - **Pasca Baligh ([[Syabab]]):** Fase kematangan penuh sebagai pribadi mukallaf yang mandiri secara moral dan finansial.
 
 ---
@@ -349,7 +349,7 @@ Bentuk-bentuk distorsi fitrah yang kerap terjadi di era kontemporer:
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

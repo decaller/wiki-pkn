@@ -163,7 +163,7 @@ Follow Us !
 
 ## Hubungan & Penautan Konsep
 - Kembali ke: [[Indeks Utama]] | [[Materi SOTAB]]
-- Terkait: [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[Tazkiyatun Nafs]]
+- Terkait: [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[Tazkiyatun Nafs]]
 
 
 ---

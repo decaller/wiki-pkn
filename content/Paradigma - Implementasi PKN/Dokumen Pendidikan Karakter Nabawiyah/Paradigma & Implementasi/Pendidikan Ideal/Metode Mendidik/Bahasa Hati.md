@@ -217,7 +217,7 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 ## 6. Tautan Konseptual Terkait
 * [[Metode Mendidik]] — Arsitektur Induk Tiga Bahasa Pengasuhan.
 * [[Bahasa Lisan]] — Tahap Lanjutan Pengajaran Nalar Usia 7–10 Tahun.
-* [[Thufulah]] — Etape Emas Masa Bermain dan Kasih Sayang.
+* [[Thufulah]] — Fase Emas Masa Bermain dan Kasih Sayang.
 * [[Tangki Cinta]] — Mekanisme Psikospiritual Ketahanan Jiwa Anak.
 
 ---
@@ -364,7 +364,7 @@ Hentikan perdebatan lisan. Ambil anak, dekap erat dalam pelukan hangat selama mi
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

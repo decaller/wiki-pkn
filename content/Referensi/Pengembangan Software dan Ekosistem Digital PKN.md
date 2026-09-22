@@ -282,7 +282,7 @@ Bagi para insinyur perangkat lunak (*software engineers*), pengembang web, data 
 > [!warning] Peringatan Risiko: Jebakan Teknokrasi dan Digital Obsession
 > * **Bentuk Kesalahan:** Menganggap sekolah sudah "berkarakter nabawiyah" hanya karena telah menginstal aplikasi TB40 atau mading digital canggih, sementara adab harian guru dan santri masih diabaikan.
 > * **Dampak Terhadap Jiwa:** Timbulnya kesombongan modernitas (*digital pride*), santri kecanduan menatap layar (*screen-time berlebih*), dan hilangnya kepekaan sosial terhadap sesama.
-> * **Pencegahan Nabawiyah:** Batasi interaksi santri dengan gawai sesuai etape usia (*belum diizinkan gawai pribadi sebelum usia aqil baligh 15 tahun*); prioritaskan interaksi alam terbuka dan khidmah fisik.
+> * **Pencegahan Nabawiyah:** Batasi interaksi santri dengan gawai sesuai fase usia (*belum diizinkan gawai pribadi sebelum usia aqil baligh 15 tahun*); prioritaskan interaksi alam terbuka dan khidmah fisik.
 
 > [!tip] Tips Praktis bagi Pengelola Sekolah & Pengembang Hari Ini
 > * **Aksi Sederhana:** Jika Anda seorang pimpinan lembaga, mulailah memanfaatkan **[tafsirbakat.com](https://tafsirbakat.com/)** atau **[tb40.insanmustaqbal.or.id](https://tb40.insanmustaqbal.or.id/)** untuk asesmen berkala santri usia tamyiz akhir.  

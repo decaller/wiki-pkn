@@ -1,6 +1,6 @@
 ---
 title: "Jejak Pendidik & Target Capaian Pendidikan Karakter Nabawiyah"
-description: "Etape capaian santri jangka pendek, menengah, dan panjang menuju pribadi Sholih dan Muslih, formula Rukun 3A Bakat, serta peta transisi gender peran Ayah dan Bunda."
+description: "Fase capaian santri jangka pendek, menengah, dan panjang menuju pribadi Sholih dan Muslih, formula Rukun 3A Bakat, serta peta transisi gender peran Ayah dan Bunda."
 tags:
   - pkn/arsitektur
   - pkn/target-santri
@@ -41,7 +41,7 @@ aliases:
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">🏆 ➔ 👨‍👩‍👧 ➔ 🌍</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Sholih Personal • Muslih Peradaban</div>
     </div>
-    <div class="wiki-infobox-caption">Etape Capaian Santri & Transisi Gender</div>
+    <div class="wiki-infobox-caption">Fase Capaian Santri & Transisi Gender</div>
   </div>
   <table class="wiki-infobox-table">
     <tr>
@@ -57,7 +57,7 @@ aliases:
       <td><b>Rukun 3A:</b> Suka $\to$ Bisa $\to$ Berguna</td>
     </tr>
     <tr>
-      <th>3 Etape Target</th>
+      <th>3 Fase Target</th>
       <td>Pendek (0–7) $\to$ Menengah (7–10) $\to$ Panjang (10+)</td>
     </tr>
     <tr>
@@ -77,16 +77,16 @@ aliases:
 
 Banyak lembaga pendidikan dan keluarga mengalami kegagalan arah karena tidak memiliki target capaian yang berakar pada sunnah. Mereka menyamakan keberhasilan tarbiyah dengan perolehan nilai ijazah tinggi, piala olimpiade, atau jumlah hafalan juz yang banyak, namun mendapati anak-anak mereka rapuh secara mental, bergantung secara finansial hingga usia dewasa, dan tidak memiliki ketahanan moral menghadapi fitnah pergaulan.
 
-Pendidikan Karakter Nabawiyah merumuskan etape target yang sejati. Target jangka pendek PKN bukanlah anak bisa membaca-tulis di usia 5 tahun, melainkan anak merasakan keamanan batin dicintai oleh orang tuanya dan senang meniru shalat (*Suka*). Di usia sekolah dasar, anak dilatih memiliki kemandirian belajar dan menguasai keahlian bakat (*Bisa*). Dan di usia akil-baligh, anak bertransformasi menjadi pribadi muslih yang mandiri, kebal terhadap syubhat pemikiran zaman, serta bermanfaat nyata bagi ummah (*Berguna*).
+Pendidikan Karakter Nabawiyah merumuskan fase target yang sejati. Target jangka pendek PKN bukanlah anak bisa membaca-tulis di usia 5 tahun, melainkan anak merasakan keamanan batin dicintai oleh orang tuanya dan senang meniru shalat (*Suka*). Di usia sekolah dasar, anak dilatih memiliki kemandirian belajar dan menguasai keahlian bakat (*Bisa*). Dan di usia akil-baligh, anak bertransformasi menjadi pribadi muslih yang mandiri, kebal terhadap syubhat pemikiran zaman, serta bermanfaat nyata bagi ummah (*Berguna*).
 
 ---
 
 ## 1. Arsitektur Visual Jejak Pendidik & Target (Obsidian Canvas)
 
-Etape capaian jangka pendek, menengah, panjang, alur transformasi santri, serta matriks transisi peran gender dipetakan pada kanvas berikut:
+Fase capaian jangka pendek, menengah, panjang, alur transformasi santri, serta matriks transisi peran gender dipetakan pada kanvas berikut:
 
 ![[canvas/Arsitektur PKN/05 - Jejak Pendidik & Target.canvas]]
-*Bagan 1.0: Sektor 5 — Jejak Pendidik, Etape Capaian Santri Sholih & Muslih, dan Transisi Gender.*
+*Bagan 1.0: Sektor 5 — Jejak Pendidik, Fase Capaian Santri Sholih & Muslih, dan Transisi Gender.*
 
 ---
 
@@ -116,9 +116,9 @@ Imam Ibnul Qayyim Al-Jauziyyah rahimahullah dalam *Miftah Daris Sa'adah* menjela
 
 ---
 
-## 3. Tiga Etape Capaian Santri Nabawi
+## 3. Tiga Fase Capaian Santri Nabawi
 
-Manhaj PKN membagi target keberhasilan pendidikan ke dalam 3 etape waktu yang saling mengunci:
+Manhaj PKN membagi target keberhasilan pendidikan ke dalam 3 fase waktu yang saling mengunci:
 
 ### 1. Target Jangka Pendek (Usia 0–7 Tahun / Thufulah): Kelekatan Hati & Karakter Iman
 * **Fokus Utama:** Pengisian tangki cinta hingga meluap penuh dan penumbuhan kecintaan asali kepada Allah dan Rasul-Nya.
@@ -173,7 +173,7 @@ Manhaj PKN menolak penjurusan akademis prematur yang membelenggu anak di usia di
 
 Pendidikan anak membutuhkan orkestrasi harmonis antara energi maskulin ayah dan energi feminin bunda. Peran dominan keduanya bergeser seiring transisi usia anak:
 
-| Etape Usia | Kedekatan Putra | Kedekatan Putri | Peran Pendidik Utama | Karakter Pembinaan |
+| Fase Usia | Kedekatan Putra | Kedekatan Putri | Peran Pendidik Utama | Karakter Pembinaan |
 |:---|:---|:---|:---|:---|
 | **Thufulah (0–7 Tahun)** | Dekat ke Bunda & Ayah | Dekat ke Bunda & Ayah | **Penyayang**<br/>(*Mahabbah & Kelekatan*) | Pengisian tangki cinta penuh, pelukan hangat, pemaafan kesalahan eksplorasi 100%. |
 | **Tamyiz (7–10 Tahun)** | Merapat ke **AYAH** | Merapat ke **BUNDA** | **Pengajar**<br/>(*Nalar & Model Peran*) | *Putra:* Meneladani kejantanan, keberanian, dan tanggung jawab ayah.<br/>*Putri:* Meneladani kelembutan, ketelitian, dan adab keibuan bunda. |
@@ -234,7 +234,7 @@ Pendidikan anak membutuhkan orkestrasi harmonis antara energi maskulin ayah dan 
 
 ### B. Tiga Pertanyaan Reflektif Pendidik (Muhasabah Target Capaian)
 1. *Apakah target yang saya tetapkan untuk anak saya selama ini lebih banyak mencerminkan ambisi duniawi saya, ataukah panggilan fitrah keselamatannya di akhirat?*
-2. *Sudahkah peran saya sebagai ayah/bunda bertransisi secara tepat sesuai etape usianya, ataukah saya masih memperlakukan anak remaja saya layaknya balita?*
+2. *Sudahkah peran saya sebagai ayah/bunda bertransisi secara tepat sesuai fase usianya, ataukah saya masih memperlakukan anak remaja saya layaknya balita?*
 3. *Adakah ruang bagi anak saya untuk berkontribusi menolong sesama hari ini, agar jiwanya terbiasa menjadi pribadi muslih?*
 
 ### C. Quick Win Aksi Hari Ini

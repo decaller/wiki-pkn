@@ -9,8 +9,8 @@ title: 'Alur Materi: Thufulah'
 
 ```mermaid
 flowchart TD
-    subgraph S1["1. Hakikat & Karakteristik Etape"]
-        A1["Fase Thufulah<br/>Rentang Usia: 0 – 7 Tahun (Etape Raja)"] --> A2["Kondisi Jiwa:<br/>Dominasi Ammarah & Fitrah Murni"]
+    subgraph S1["1. Hakikat & Karakteristik Fase"]
+        A1["Fase Thufulah<br/>Rentang Usia: 0 – 7 Tahun (Fase Raja)"] --> A2["Kondisi Jiwa:<br/>Dominasi Ammarah & Fitrah Murni"]
         A2 --> A3["Bahasa Pengasuhan Utama:<br/>Bahasa Hati (Mahabbah & Kasih Sayang)"]
     end
 

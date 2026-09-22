@@ -33,7 +33,7 @@ flowchart TD
 
     subgraph S4["4. Evaluasi & Output"]
         N4_1["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]
-        N4_2["Protokol Pemulihan (Recovery) Berdasarkan Etape<br/>Usia<br/>- Recovery pada Etape Thufulah (0–7 Th):<br/>- Sangat cepat pulih (hitungan pekan) cukup dengan kehadiran<br/>fisik orang tua yang hangat, tatapan mata penuh kasih, dan<br/>pelukan harian 8 kali."]
+        N4_2["Protokol Pemulihan (Recovery) Berdasarkan Fase<br/>Usia<br/>- Recovery pada Fase Thufulah (0–7 Th):<br/>- Sangat cepat pulih (hitungan pekan) cukup dengan kehadiran<br/>fisik orang tua yang hangat, tatapan mata penuh kasih, dan<br/>pelukan harian 8 kali."]
         N4_1 --> N4_2
         N4_3["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Pemantauan Kemajuan Proses<br/>Pemulihan (Recovery)<br/>- 2. Tiga Pertanyaan Reflektif Orang Tua"]
         N4_2 --> N4_3

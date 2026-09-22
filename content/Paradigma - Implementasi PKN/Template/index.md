@@ -161,7 +161,7 @@ aliases:
 - Rubrik Observasi Rukun 3A (*Suka/Al-Hirsh, Bisa/Al-Maqdari, Bermanfaat/Al-Mufid*).
 - Formulasi dialog hati dan tindakan penegasan adab.
 
-## 6. Penerapan Berdasarkan 4 Etape Usia Perkembangan
+## 6. Penerapan Berdasarkan 4 Fase Usia Perkembangan
 - **Fase Thufulah (0–7 Tahun):** Limpahan kasih sayang, bermain aktif, teladan visual, tanpa tuntutan beban nalar formal.
 - **Fase Tamyiz (7–10 Tahun):** Pembiasaan adab shalat, tanggung jawab konkret harian, dialog nalar terpandu.
 - **Fase Murahaqah (10–15 Tahun):** Penegakan disiplin tegas berbatas syariat, penugasan proyek, pemagangan bakat.
@@ -303,7 +303,7 @@ Sebelum mengajukan pull request atau mempublikasikan artikel di Wiki PKN, lakuka
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

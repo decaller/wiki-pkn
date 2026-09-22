@@ -31,7 +31,7 @@ flowchart TD
         N4_1["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Penyelarasan Faktor Internal<br/>(Ruhiyah) dan Eksternal (Lingkungan)<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
-        N4_3["Penyelarasan Faktor Internal dan Eksternal<br/>Berdasarkan Etape Usia<br/>- Etape Thufulah (0–7 Th): Faktor internal keluarga 90%,<br/>eksternal 10%. Rumah harus menjadi lingkungan steril penuh<br/>kehangatan tauhid dan cinta.<br/>- Etape Tamyiz (7–10 Th): Faktor internal 70%, eksternal 30%.<br/>Mulai mengenalkan anak pada lingkungan masjid dan sekolah<br/>dengan filter selektif dari orang tua."]
+        N4_3["Penyelarasan Faktor Internal dan Eksternal<br/>Berdasarkan Fase Usia<br/>- Fase Thufulah (0–7 Th): Faktor internal keluarga 90%,<br/>eksternal 10%. Rumah harus menjadi lingkungan steril penuh<br/>kehangatan tauhid dan cinta.<br/>- Fase Tamyiz (7–10 Th): Faktor internal 70%, eksternal 30%.<br/>Mulai mengenalkan anak pada lingkungan masjid dan sekolah<br/>dengan filter selektif dari orang tua."]
         N4_2 --> N4_3
     end
 

@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Peta Sinergi Peran & Tanggung Jawab Lintas Etape<br/>Usia<br/>- Fase Thufulah (0–7 Tahun): Bunda 70% (kehangatan hadhanah),<br/>Ayah 30% (proteksi & pilar visi), Guru sebagai fasilitator<br/>bermain.<br/>- Fase Tamyiz (7–10 Tahun): Keseimbangan Ayah-Bunda 50%-50%<br/>dalam pembiasaan adab shalat; Guru sebagai mitra pembentukan<br/>etika belajar."]
+        N4_1["Peta Sinergi Peran & Tanggung Jawab Lintas Fase<br/>Usia<br/>- Fase Thufulah (0–7 Tahun): Bunda 70% (kehangatan hadhanah),<br/>Ayah 30% (proteksi & pilar visi), Guru sebagai fasilitator<br/>bermain.<br/>- Fase Tamyiz (7–10 Tahun): Keseimbangan Ayah-Bunda 50%-50%<br/>dalam pembiasaan adab shalat; Guru sebagai mitra pembentukan<br/>etika belajar."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Keselarasan Tripartit (Ayah,<br/>Bunda, Guru)<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

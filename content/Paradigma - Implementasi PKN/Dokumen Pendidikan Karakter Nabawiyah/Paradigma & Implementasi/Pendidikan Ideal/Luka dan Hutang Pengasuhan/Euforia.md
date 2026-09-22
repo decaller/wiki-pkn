@@ -169,14 +169,14 @@ Jika generasi terbaik sahabat saja dididik oleh wahyu secara bertahap, bagaimana
 
 ---
 
-## Mencegah Racun Euforia Semu Berdasarkan Etape Usia
+## Mencegah Racun Euforia Semu Berdasarkan Fase Usia
 
 Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazali*) merusak keikhlasan di tiap jenjang usia:
 
-1. **Etape Thufulah (0–7 Th):** Hindari mengikutsertakan balita dalam kontes lomba kecantikan atau kelucuan komersial yang merusak kemurnian fitrahnya.
-2. **Etape Tamyiz (7–10 Th):** Puji proses kerja keras dan kejujurannya (*Al-Itqan*), bukan hasil angka rapor atau piala yang memicu riya' dan kesombongan.
-3. **Etape Murahaqah (10–15 Th):** Bimbing anak agar tidak haus validasi (*like & followers*) di media sosial; tanamkan kebanggaan pada amal sembunyi-sembunyi.
-4. **Etape Syabab (15+ Th):** Tautkan karya prestasi dengan niat lillahi ta'ala dan kemaslahatan akhirat, membebaskan jiwa dari jebakan pujian manusia.
+1. **Fase Thufulah (0–7 Th):** Hindari mengikutsertakan balita dalam kontes lomba kecantikan atau kelucuan komersial yang merusak kemurnian fitrahnya.
+2. **Fase Tamyiz (7–10 Th):** Puji proses kerja keras dan kejujurannya (*Al-Itqan*), bukan hasil angka rapor atau piala yang memicu riya' dan kesombongan.
+3. **Fase Murahaqah (10–15 Th):** Bimbing anak agar tidak haus validasi (*like & followers*) di media sosial; tanamkan kebanggaan pada amal sembunyi-sembunyi.
+4. **Fase Syabab (15+ Th):** Tautkan karya prestasi dengan niat lillahi ta'ala dan kemaslahatan akhirat, membebaskan jiwa dari jebakan pujian manusia.
 
 ---
 
@@ -325,7 +325,7 @@ Euforia piala dan pujian palsu (*maraji': Dzammul Jahi wal Riya' karya Al-Ghazal
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

@@ -261,7 +261,7 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Memerintah & Pola Asuh Nabawi
+## 🏛️ Keteladanan Ashabus Rasul: Uswah Sahabat Rumpun Memerintah & Pola Asuh Nabawi
 
 Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan rujukan silang *Siyar A'lam An-Nubala* di OpenBayan, rumpun Memerintah menemukan manifestasi puncaknya pada figur-figur shahabat berikut:
 
@@ -284,7 +284,7 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 ## 6. Tautan Konseptual Terkait
 * [[Bakat]] — Peta Lengkap Arsitektur Bakat PKN dan Matriks 40 Sahabat Teladan.
 * [[Bahasa Tangan]] — Batasan Tegas Penegakan Disiplin Syar'i dalam Memimpin.
-* [[Murahaqah]] — Etape Penggemblengan Tanggung Jawab Taklif.
+* [[Murahaqah]] — Fase Penggemblengan Tanggung Jawab Taklif.
 * [[Syabab]] — Kematangan Mukallaf Menuju Peran Panglima Peradaban.
 * [[Panduan Asesmen dan Observasi TB40]] — Instrumen Lengkap 40 Pilar Karakter.
 
@@ -428,7 +428,7 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

@@ -39,12 +39,12 @@ Untuk mendapatkan pemahaman yang utuh, mendalam, dan bersanad mengenai implement
 | No | Judul Buku & Tautan Profil Resmi | Penulis / Penerbit | Domain & Fokus Manhaj | Relevansi Artikel Wiki |
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | [📖 Buku Pendidikan Karakter Nabawiyah](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/) | Ustadz Abdul Kholiq / PKN | Pondasi Epistemologi, Hakikat Insan, Trilogi Jiwa & Roadmap Fitrah | [[PKN Blueprint Arsitektur Sistem]], [[Insan]], [[Fitrah (Karakter)]] |
-| **2** | [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) | Ustadz Abdul Kholiq / PKN | Taksonomi 40 Pilar Bakat Nabawiyah (TB40), Rukun 3A & Archetype Sahabat | [[Bakat]], [[Panduan Asesmen dan Observasi TB40]], [[Bekerja Keras]] |
+| **2** | [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) | Ustadz Abdul Kholiq / PKN | Taksonomi 40 Pilar Bakat Nabawiyah (TB40), Rukun 3A & Uswah Sahabat Sahabat | [[Bakat]], [[Panduan Asesmen dan Observasi TB40]], [[Bekerja Keras]] |
 | **3** | [🌱 Buku Recovery Berbasis Fitrah](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/) | Ustadz Abdul Kholiq / PKN | Terapi Batin, Pemulihan Luka & Hutang Pengasuhan, Metodologi Tadarruj | [[Recovery]], [[Luka dan Hutang Pengasuhan]], [[Bahasa Hati]] |
 | **4** | [🏫 Buku Kurikulum Sekolah Karakter Islam](https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/) | Ustadz Abdul Kholiq / PKN | Integrasi Kurikulum Berbasis Peristiwa, Desain RPP, Proyek Adab Sekolah | [[Kurikulum Kemandirian Berbasis Maqashid Syariah]], [[Panduan RPP dan Observasi Lapangan]] |
 | **5** | [🕌 Buku Menumbuhkan Kesadaran Beramal](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/) | Ustadz Abdul Kholiq / PKN | Fondasi Ibadah Mandiri, Shalat Barometer Jiwa, Menolak Kepatuhan Semu | [[index\|Beranda Wiki PKN]], [[Tamyiz]], [[Disiplin Positif PKN]] |
 | **6** | [📏 Buku Panduan Implementasi Standar](https://karakternabawiyah.com/panduan-implementasi-standar/) | Ustadz Abdul Kholiq / PKN | Standar Operasional Kelembagaan (Standar 11/2024), Klausul 5–13 | [[8 Standar Implementasi PKN]], [[Kaidah Implementasi di Berbagai Lembaga]] |
-| **7** | [🧸 Buku Panduan Kurikulum PAUD/TK Karakter Islam (Rev)](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/) | Tim SOTAB HEBAT | Kurikulum Etape Usia Dini (0–7 Th), Tangki Cinta, Anti-Akademik Dini | [[Thufulah]], [[Tangki Cinta]], [[Peran Ayah dan Bunda]] |
+| **7** | [🧸 Buku Panduan Kurikulum PAUD/TK Karakter Islam (Rev)](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/) | Tim SOTAB HEBAT | Kurikulum Fase Usia Dini (0–7 Th), Tangki Cinta, Anti-Akademik Dini | [[Thufulah]], [[Tangki Cinta]], [[Peran Ayah dan Bunda]] |
 | **8** | [⏳ Buku Bukanlah Sekejap (Edisi Revisi)](https://sotabh.com/portfolio/designing-a-mobile-store-application-2/) | Tim SOTAB HEBAT | Prinsip Kesabaran Tarbiyah, Manajemen Ekspektasi & Konsistensi Adab Harian | [[Perkembangan]], [[Pembelajaran Alamiah]], [[Benang Merah Pendidikan]] |
 
 ---
@@ -111,7 +111,7 @@ Untuk mendapatkan pemahaman yang utuh, mendalam, dan bersanad mengenai implement
 * **Penyusun:** Tim SOTAB HEBAT (Sekolah Orang Tua Ayah Bunda Hebat)  
 * **Penerbit / Portal Resmi:** [sotabh.com/portfolio/...kurikulum-paud-tk](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/)  
 * **Intisari & Ruang Lingkup:**  
-  Buku pedoman kurikulum khusus bagi pendidik anak usia dini (0–7 tahun / etape *Thufulah*). Menolak keras tren pemaksaan akademik calistung dini yang merusak saraf dan mematikan nalar alamiah. Mengedepankan prinsip pemenuhan tangki cinta batin, stimulasi sensori motorik melalui eksplorasi alam, penanaman adab kebersihan dan shalat lewat atmosfer kasih sayang, serta peran sentral ibu sebagai madrasah pertama.
+  Buku pedoman kurikulum khusus bagi pendidik anak usia dini (0–7 tahun / fase *Thufulah*). Menolak keras tren pemaksaan akademik calistung dini yang merusak saraf dan mematikan nalar alamiah. Mengedepankan prinsip pemenuhan tangki cinta batin, stimulasi sensori motorik melalui eksplorasi alam, penanaman adab kebersihan dan shalat lewat atmosfer kasih sayang, serta peran sentral ibu sebagai madrasah pertama.
 * **Topik Kunci Terkait di Wiki:** [[Thufulah]], [[Tangki Cinta]], [[Peran Ayah dan Bunda]], [[SOTABH]].
 
 ---
@@ -140,7 +140,7 @@ Selain 8 buku rujukan utama di atas, Manhaj PKN berakar pada kitab-kitab induk u
 5. **Al-Muwafaqat fi Ushulisy Syari'ah** — *Al-Imam Asy-Syathibi*  
    *Fokus:* Falsafah Maqashid Syari'ah (menjaga agama, jiwa, akal, keturunan, dan harta) sebagai tolok ukur kurikulum kemandirian dan tujuan akhir pendidikan peradaban (*al-ghayah*).
 6. **Ashabur Rasul Shallallahu 'Alaihi wa Sallam** — *Syaikh Mahmud Al-Mishri*  
-   *Fokus:* Biografi lengkap para sahabat Nabi ﷺ sebagai *archetype* keteladanan 40 pilar karakter nabawiyah dan model pola asuh Rasulullah ﷺ.
+   *Fokus:* Biografi lengkap para sahabat Nabi ﷺ sebagai *uswah sahabat* keteladanan 40 pilar karakter nabawiyah dan model pola asuh Rasulullah ﷺ.
 
 ---
 

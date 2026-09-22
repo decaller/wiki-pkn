@@ -22,7 +22,7 @@ flowchart TD
     end
 
     subgraph S3["3. Metodologi & Penerapan"]
-        N3_1["Arsitektur Pendidikan Ideal Berdasarkan 4 Etape<br/>Usia<br/>- Etape Thufulah (0–7 Th): Rumah cinta dan kelekatan; bermain<br/>adalah sarana belajar terbaik.<br/>- Etape Tamyiz (7–10 Th): Sekolah dasar kehidupan; pembiasaan<br/>shalat, adab bertutur, dan penemuan bakat."]
+        N3_1["Arsitektur Pendidikan Ideal Berdasarkan 4 Fase<br/>Usia<br/>- Fase Thufulah (0–7 Th): Rumah cinta dan kelekatan; bermain<br/>adalah sarana belajar terbaik.<br/>- Fase Tamyiz (7–10 Th): Sekolah dasar kehidupan; pembiasaan<br/>shalat, adab bertutur, dan penemuan bakat."]
         N3_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Standar Emas Lingkungan Pendidikan<br/>Ideal<br/>- 2. Tiga Pertanyaan Reflektif"]
         N3_1 --> N3_2
     end

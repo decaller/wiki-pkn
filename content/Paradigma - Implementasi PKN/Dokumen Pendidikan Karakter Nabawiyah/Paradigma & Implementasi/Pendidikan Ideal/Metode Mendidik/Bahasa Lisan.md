@@ -197,7 +197,7 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 * [[Metode Mendidik]] — Arsitektur Induk Tiga Bahasa Nabawiyah.
 * [[Bahasa Hati]] — Pondasi Cinta yang Menjiwai Setiap Kata.
 * [[Bahasa Tangan]] — Batasan Ketegasan Fisik Menjelang Baligh.
-* [[Tamyiz]] — Etape Perkembangan Nalar Kritis Usia 7–10 Tahun.
+* [[Tamyiz]] — Fase Perkembangan Nalar Kritis Usia 7–10 Tahun.
 
 ---
 
@@ -339,7 +339,7 @@ Banyak orang tua merusak fitrah anak bukan dengan pukulan tangan, melainkan deng
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun<br/>Memerintah & Pola Asuh Nabawi<br/>- 1. Khalid bin Walid radhiyallahu 'anhu:<br/>Karunia Komando Tempur (Saifullah Al-Maslul)<br/>- 2. Umar bin Al-Khatthab radhiyallahu 'anhu:<br/>Ketegasan Penegak Keadilan (Al-Faruq)"]
+        N4_1["🏛️ Keteladanan Ashabus Rasul: Uswah Sahabat Rumpun<br/>Memerintah & Pola Asuh Nabawi<br/>- 1. Khalid bin Walid radhiyallahu 'anhu:<br/>Karunia Komando Tempur (Saifullah Al-Maslul)<br/>- 2. Umar bin Al-Khatthab radhiyallahu 'anhu:<br/>Ketegasan Penegak Keadilan (Al-Faruq)"]
         N4_2["Diagnosis Penyimpangan: Tafrith vs Ifrath dalam<br/>Nilai Rumpun Memerintah"]
         N4_1 --> N4_2
         N4_3["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]

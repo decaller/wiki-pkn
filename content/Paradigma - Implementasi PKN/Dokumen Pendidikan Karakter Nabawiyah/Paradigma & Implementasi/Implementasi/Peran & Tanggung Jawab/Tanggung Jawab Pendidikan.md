@@ -136,14 +136,14 @@ PKN menegaskan pembagian peran kepemimpinan keluarga yang harmonis:
 
 ---
 
-## Pembagian Tanggung Jawab Pendidikan Lintas Etape Usia
+## Pembagian Tanggung Jawab Pendidikan Lintas Fase Usia
 
 Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah & Tuhfatul Maudud*), tanggung jawab nafkah, pengasuhan (*hadhanah*), dan pengajaran (*ta'dib*) bergeser secara harmonis:
 
-1. **Etape Thufulah (0–7 Tahun):** Hak mutlak kelekatan ibu dalam hadhanah; ayah menjamin nafkah halal dan stabilitas ketenangan rumah tangga.
-2. **Etape Tamyiz (7–10 Tahun):** Ayah mulai memimpin edukasi ibadah shalat dan memantau interaksi sosial; ibu mendampingi kebiasaan adab harian.
-3. **Etape Murahaqah (10–15 Tahun):** Ayah mengawal penegakan batasan hukum (*hudud*) dan melatih ketangguhan mental anak; ibu menjadi tempat mencurahkan gejolak emosi.
-4. **Etape Syabab (15+ Tahun):** Orang tua beralih peran sebagai dewan penasihat (*syura*); anak dilatih menanggung konsekuensi hukum dan finansial pribadinya.
+1. **Fase Thufulah (0–7 Tahun):** Hak mutlak kelekatan ibu dalam hadhanah; ayah menjamin nafkah halal dan stabilitas ketenangan rumah tangga.
+2. **Fase Tamyiz (7–10 Tahun):** Ayah mulai memimpin edukasi ibadah shalat dan memantau interaksi sosial; ibu mendampingi kebiasaan adab harian.
+3. **Fase Murahaqah (10–15 Tahun):** Ayah mengawal penegakan batasan hukum (*hudud*) dan melatih ketangguhan mental anak; ibu menjadi tempat mencurahkan gejolak emosi.
+4. **Fase Syabab (15+ Tahun):** Orang tua beralih peran sebagai dewan penasihat (*syura*); anak dilatih menanggung konsekuensi hukum dan finansial pribadinya.
 
 ---
 
@@ -322,7 +322,7 @@ Berdasarkan konsensus fuqaha (*maraji': Al-Mawsu'ah al-Fiqhiyyah al-Kuwaitiyyah 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

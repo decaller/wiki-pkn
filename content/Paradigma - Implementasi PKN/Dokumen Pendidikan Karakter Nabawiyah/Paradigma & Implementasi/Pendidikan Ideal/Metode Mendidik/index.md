@@ -81,7 +81,7 @@ description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakte
 Metode mendidik dalam Pendidikan Karakter Nabawiyah (PKN) bukanlah sekumpulan teknik mekanistis atau rekayasa perilaku (*behavioral conditioning*) seperti dalam psikologi sekuler Barat. Metode Nabawiyah adalah **penyelarasan interaksi pendidik dengan hukum fitrah insani yang telah ditetapkan Allah SWT**. 
 
 Inti dari metodologi ini bersandar pada kaidah agung **At-Tadarruj (Pentahapan Alami)**:
-1. **Tidak Melompatkan Tahapan:** Setiap anak melewati etape pembentukan jiwa yang berurutan. Jiwa tidak dapat menerima beban fisik sebelum akalnya paham, dan akal tidak akan menerima pemahaman sebelum hatinya terpaut cinta.
+1. **Tidak Melompatkan Tahapan:** Setiap anak melewati fase pembentukan jiwa yang berurutan. Jiwa tidak dapat menerima beban fisik sebelum akalnya paham, dan akal tidak akan menerima pemahaman sebelum hatinya terpaut cinta.
 2. **Kesesuaian Instrumen Bahasa:** Menyampaikan nasihat lisan kepada anak usia 2 tahun yang menangis adalah inefisiensi, sebagaimana memukul anak usia 6 tahun karena belum shalat adalah kezaliman yang diharamkan syariat.
 3. **Pendidik sebagai Mu'alliman Muyassiran (Pendidik yang Memudahkan):** Rasulullah ﷺ menegaskan misi pengutusannya: *"Sesungguhnya Allah tidak mengutusku sebagai orang yang kaku dan mempersulit, melainkan sebagai pendidik yang memudahkan."* (HR. Muslim No. 1478).
 
@@ -350,7 +350,7 @@ Bila orang tua menyadari telah terjadi salah asuh (menggunakan bahasa tangan seb
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

@@ -273,17 +273,17 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
 
 ---
 
-## Protokol Pemulihan (Recovery) Berdasarkan Etape Usia
+## Protokol Pemulihan (Recovery) Berdasarkan Fase Usia
 
 Waktu intervensi pemulihan luka pengasuhan menentukan kecepatan restorasi fitrah (*maraji': Fatawa al-Shabaka al-Islamiyya*):
 
-1. **Recovery pada Etape Thufulah (0–7 Th):**
+1. **Recovery pada Fase Thufulah (0–7 Th):**
    * Sangat cepat pulih (hitungan pekan) cukup dengan kehadiran fisik orang tua yang hangat, tatapan mata penuh kasih, dan pelukan harian 8 kali.
-2. **Recovery pada Etape Tamyiz (7–10 Th):**
+2. **Recovery pada Fase Tamyiz (7–10 Th):**
    * Memerlukan rekonstruksi dialog, permohonan maaf tulus dari ayah/bunda atas kekasaran masa lalu, dan pemberian ruang validasi emosi.
-3. **Recovery pada Etape Murahaqah (10–15 Th):**
+3. **Recovery pada Fase Murahaqah (10–15 Th):**
    * Membutuhkan figur ketiga (mentor/guru bijak) jika komunikasi orang tua-anak mengalami kebuntuan (*blocking*), disertai pembersihan residu trauma perundungan.
-4. **Recovery pada Etape Syabab (15+ Th):**
+4. **Recovery pada Fase Syabab (15+ Th):**
    * Bersifat muhasabah mandiri (*self-recovery*), pemahaman qada dan qadar, serta memutus mata rantai pengasuhan toksik (*toxic parenting*) melalui tazkiyatun nafs intensif.
 
 ---
@@ -425,7 +425,7 @@ Waktu intervensi pemulihan luka pengasuhan menentukan kecepatan restorasi fitrah
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

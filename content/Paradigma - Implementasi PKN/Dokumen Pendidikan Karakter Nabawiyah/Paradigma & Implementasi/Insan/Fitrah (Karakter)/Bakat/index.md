@@ -215,11 +215,11 @@ Generasi Sahabat Nabi ﷺ (*Ashabur Rasul*) adalah mahkota pembuktian sejarah pa
 
 ---
 
-### Matriks Akbar 40 Pilar Bakat TB-40 vs. Figur Sahabat Nabi ﷺ (*Archetype Matrix*)
+### Matriks Akbar 40 Pilar Bakat TB-40 vs. Figur Sahabat Nabi ﷺ (*Matriks Teladan Sahabat*)
 
 Berikut adalah pemetaan komprehensif 40 pilar karakter TB-40 terhadap figur-figur teladan sahabat, disintesis dari karya ensiklopedis **Syaikh Mahmud Al-Mishri (*Ashabur Rasul SAW*, Maktabah Dar At-Taqwa)** dan rujukan silang korpus turats Islam di **OpenBayan** (*Siyar A'lam An-Nubala*, *Ath-Tabaqat Al-Kubra*, *Al-Ishabah*, *Rijal Hawla Ar-Rasul*, *Shuwar min Hayatish Shahabah*):
 
-| No | Pilar Karakter | Rumpun | Figur Sahabat Teladan (*Archetype*) | Landasan Dalil & Riwayat Nabawi | Referensi Literatur |
+| No | Pilar Karakter | Rumpun | Figur Sahabat Teladan (*Uswah Sahabat*) | Landasan Dalil & Riwayat Nabawi | Referensi Literatur |
 |:---:|:---|:---|:---|:---|:---|
 | 1 | **Himmah** (Cita-cita Tinggi) | Bekerja Keras | **Rabi'ah bin Ka'ab Al-Aslami** | Meminta menyertai Nabi ﷺ di surga saat ditanya hajatnya. | *Siyar* 3/14; *Ashabur Rasul* |
 | 2 | **Ihsaan** (Perfeksionis) | Bekerja Keras | **Zaid bin Tsabit** | Meneliti setiap ayat dengan dua saksi tertulis saat kodifikasi. | *Fathul Bari* 9/12; OpenBayan |
@@ -522,7 +522,7 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

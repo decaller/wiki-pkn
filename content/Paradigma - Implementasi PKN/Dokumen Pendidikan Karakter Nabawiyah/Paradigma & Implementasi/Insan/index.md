@@ -142,7 +142,7 @@ Di bawah klaster **Insan**, kurikulum PKN membagi proses pemahaman manusia ke da
 | **Pilar 1: Ontologi & Misi** | **[[Tujuan Hidup Manusia]]** | • Dwi-Mandat: 'Abdullah & Khalifah fil Ardh<br/>• Batas Akil-Baligh Mukallaf<br/>• Pertanggungjawaban Akhirat | *"Untuk apa anak saya diciptakan dan dididik oleh Allah di muka bumi?"* | QS. Adz-Dzariyat: 56, QS. Al-Baqarah: 30 |
 | **Pilar 2: Kosmologi Diri** | **[[Bersatunya Ruh dan Jasad Membentuk Jiwa]]** | • Dinamika perjumpaan sari pati tanah & tiupan ruh<br/>• Anatomi An-Nafs sebagai medan amal<br/>• Penjagaan fitrah dari kontaminasi | *"Mengapa anak memiliki dorongan berbuat keliru sekaligus rindu pada kesucian?"* | QS. Shad: 71–72, QS. Al-A'raf: 172 |
 | **Pilar 3: Psiko-Spiritual** | **[[Pembagian Jiwa]]** | • Trilogi Jiwa: [[Ammarah]], [[Lawwamah]], [[Muthmainnah]]<br/>• Eskalasi kesadaran moral anak<br/>• Metode tazkiyatun nafs pengasuhan | *"Bagaimana mendiagnosa tingkat kesadaran jiwa anak dan menaikkan derajatnya?"* | QS. Yusuf: 53, Al-Qiyamah: 2, Al-Fajr: 27–28 |
-| **Pilar 4: Potensi & Karakter** | **[[Fitrah (Karakter)]]** | • Pintu Gerbang 4 Fitrah: [[Iman]], [[Belajar]], [[Bakat]], [[Perkembangan]]<br/>• 40 Pilar Bakat Nabawiyah (TB-40)<br/>• 4 Etape Pengasuhan Nabawi | *"Bagaimana mengenali sidik jari bakat bawaan anak tanpa memaksakan kehendak orang tua?"* | HR. Ahmad 3:184, At-Tirmidzi 3802, QS. Al-Isra': 84 |
+| **Pilar 4: Potensi & Karakter** | **[[Fitrah (Karakter)]]** | • Pintu Gerbang 4 Fitrah: [[Iman]], [[Belajar]], [[Bakat]], [[Perkembangan]]<br/>• 40 Pilar Bakat Nabawiyah (TB-40)<br/>• 4 Fase Pengasuhan Nabawi | *"Bagaimana mengenali sidik jari bakat bawaan anak tanpa memaksakan kehendak orang tua?"* | HR. Ahmad 3:184, At-Tirmidzi 3802, QS. Al-Isra': 84 |
 
 ---
 
@@ -165,7 +165,7 @@ Gerbang induk menuju eksplorasi karakter holistik anak, yang menaungi empat caba
 * **[[Iman]]:** Fondasi spiritual tertinggi anak, dibina melalui pengisian [[Tangki Cinta]] ilahiyah dan keteladanan orang tua.
 * **Fitrah [[Belajar]]:** Hasrat alami anak untuk meneliti, bertanya, dan mencari hikmah; dijaga dengan adab sebelum ilmu.
 * **[[Bakat]]:** Spektrum 40 pilar bakat nabawiyah yang dikelompokkan ke dalam 6 klaster: [[Bekerja Keras]], [[Memerintah]], [[Berpikir]], [[Bekerja Sama]], [[Berperasaan]], dan [[Melayani]].
-* **[[Perkembangan]]:** Empat etape perjalanan usia anak: [[Thufulah]] (0–7 tahun), [[Tamyiz]] (7–10 tahun), [[Murahaqah]] (10–baligh), dan [[Syabab]] (pasca-baligh).
+* **[[Perkembangan]]:** Empat fase perjalanan usia anak: [[Thufulah]] (0–7 tahun), [[Tamyiz]] (7–10 tahun), [[Murahaqah]] (10–baligh), dan [[Syabab]] (pasca-baligh).
 
 ---
 
@@ -180,7 +180,7 @@ Untuk menerapkan Paradigma Insan secara sistematis di rumah maupun di sekolah, b
 2. **Langkah 2 (Pemahaman Struktur Diri):** Berhenti melabeli anak "nakal" atau "bodoh"; pahami bahwa perilakunya adalah hasil interaksi jasad, nafs, dan ruh.
 3. **Langkah 3 (Diagnosa Jiwa):** Ketika anak tantrum atau melanggar aturan, sadari bahwa jiwa ammarahnya sedang dominan. Dekati dengan bimbingan lembut agar jiwanya naik ke derajat lawwamah (sadar diri).
 4. **Langkah 4 (Intervensi Fitrah):** Pastikan tangki cinta anak penuh sebelum mendisiplinkan; petakan keunikan 40 pilar bakat ananda menggunakan rubrik observasi 3A (Aktivitas, Aspek Rasa, Akselerasi).
-5. **Langkah 5 (Eksekusi Etape Usia):** Sesuaikan bahasa mendidik: gunakan [[Bahasa Hati]] pada usia dini, [[Bahasa Lisan]] pada usia tamyiz, dan [[Bahasa Tangan]] (ta'dib tegas terukur) pada usia murahaqah.
+5. **Langkah 5 (Eksekusi Fase Usia):** Sesuaikan bahasa mendidik: gunakan [[Bahasa Hati]] pada usia dini, [[Bahasa Lisan]] pada usia tamyiz, dan [[Bahasa Tangan]] (ta'dib tegas terukur) pada usia murahaqah.
 
 ---
 
@@ -237,7 +237,7 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -370,7 +370,7 @@ Untuk melihat keterkaitan Paradigma Insan dengan pilar kurikulum lainnya di Wiki
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

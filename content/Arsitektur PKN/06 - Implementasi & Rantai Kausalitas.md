@@ -211,11 +211,11 @@ Untuk menjamin mutu penyelenggaraan sekolah dan pesantren jejaring PKN, dirumusk
 
 ## 9. Protokol Operasional & Manhaj Tadarruj Transformasi Lembaga
 
-1. **Etape 1: Penyiapan Jiwa Pendidik (Tazkiyah Asatidz):**
+1. **Fase 1: Penyiapan Jiwa Pendidik (Tazkiyah Asatidz):**
    Tiga bulan pertama difokuskan pada pemulihan luka pengasuhan masa lalu guru (*parenting debt recovery*), pembiasaan qiyamul lail berjamaah, dan penyamaan visi Bahasa Hati.
-2. **Etape 2: Penataan Kultur & Ruang Ramah Fitrah:**
+2. **Fase 2: Penataan Kultur & Ruang Ramah Fitrah:**
    Membongkar sekat kelas yang kaku, membangun sentra kriya dan kebun laboratorium alam, serta menghentikan seluruh sistem hukuman fisik yang merendahkan martabat.
-3. **Etape 3: Konsolidasi Kemitraan Tripartit Sekolah-Keluarga:**
+3. **Fase 3: Konsolidasi Kemitraan Tripartit Sekolah-Keluarga:**
    Menyelenggarakan akademi orang tua, menyatukan ritme pengasuhan di rumah dan di sekolah, serta meluncurkan asesmen portofolio 40 Bakat Nabawiyah santri.
 
 ---

@@ -77,7 +77,7 @@ tags:
 > *"Perintahkanlah anak-anak kalian untuk mengerjakan shalat ketika mereka telah berusia tujuh tahun!"*
 >
 > 📚 **Sumber Rujukan OpenBayan:** HR. Abu Dawud No. 495 & Ahmad; Dishahihkan oleh Imam An-Nawawi dalam *Al-Majmu'* (Juz 3 Hal. 11) dan Al-Albani; Syarah Sunan Abi Dawud Ibnu Ruslan (Juz 3 Hal. 351).  
-> 💡 **Relevansi PKN:** Usia 7 tahun adalah garis demarkasi fitrah (*Milestone Tamyiz*). Pada fase ini anak mulai diajak memahami aturan syariat melalui *Bahasa Lisan*, dilatih adab berkhidmah laksana "Pembantu" di rumah, dan dibiasakan shalat tanpa ancaman pukulan selama 3 tahun penuh (sekitar 5.000 waktu shalat).
+> 💡 **Relevansi PKN:** Usia 7 tahun adalah garis demarkasi fitrah (*Gerbang Titik Tolak Tamyiz*). Pada fase ini anak mulai diajak memahami aturan syariat melalui *Bahasa Lisan*, dilatih adab berkhidmah laksana "Pembantu" di rumah, dan dibiasakan shalat tanpa ancaman pukulan selama 3 tahun penuh (sekitar 5.000 waktu shalat).
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%8F%D8%B1%D9%8F%D9%88%D8%A7%20%D8%A3%D9%8E%D9%88%D9%92%D9%84%D9%8E%D8%A7%D8%AF%D9%8E%D9%83%D9%8F%D9%85%D9%92%20%D8%A8%D9%90%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%90%20%D9%88%D9%8E%D9%87%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%A8%D9%92%D9%86%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B3%D9%8E%D8%A8%D9%92%D8%B9%D9%90%20%D8%B3%D9%90%D9%86%D9%90%D9%8A%D9%86%D9%8E&lang=id)
 
 ---
@@ -134,7 +134,7 @@ Dalam fatwanya mengenai perintah shalat di usia 7 tahun:
 
 ---
 
-## 4. Kurikulum Pendidikan Etape Tamyiz (7–10 Tahun)
+## 4. Kurikulum Pendidikan Fase Tamyiz (7–10 Tahun)
 
 PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
@@ -151,16 +151,16 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
 ---
 
-## Visualisasi Gerbang Nalar & Pembiasaan Adab Etape Tamyiz (7–10 Tahun)
+## Visualisasi Gerbang Nalar & Pembiasaan Adab Fase Tamyiz (7–10 Tahun)
 
-![[canvas/Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Etape Tamyiz (7–10 Tahun).canvas]]
+![[canvas/Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Fase Tamyiz (7–10 Tahun).canvas]]
 
 ---
 
 ## 5. Tautan Konseptual Terkait
-* [[Perkembangan]] — Matriks 4 Etape Usia Nabawiyah.
+* [[Perkembangan]] — Matriks 4 Fase Usia Nabawiyah.
 * [[Bahasa Lisan]] — Metode Komunikasi Dialogis Usia Tamyiz.
-* [[Murahaqah]] — Etape Berikutnya: Usia 10–15 Tahun Menuju Baligh.
+* [[Murahaqah]] — Fase Berikutnya: Usia 10–15 Tahun Menuju Baligh.
 * [[Belajar]] — Konsep Fitrah Belajar Alami Anak.
 
 ---
@@ -192,9 +192,9 @@ PKN membagi fokus kurikulum Tamyiz ke dalam **4 Pilar Pembinaan**:
 
 ---
 
-## 4. Tiga Gaya Belajar Qur'ani pada Etape Tamyiz (QS. An-Nahl: 78)
+## 4. Tiga Gaya Belajar Qur'ani pada Fase Tamyiz (QS. An-Nahl: 78)
 
-Berdasarkan naskah *Materi Temu Lembaga PKN: Mendidik Sesuai Fase Perkembangan Anak (Slide 122–126)*, fitrah belajar anak pada etape Tamyiz menyerap stimulasi ilmu melalui tiga pintu fitrah yang disebutkan dalam firman Allah:
+Berdasarkan naskah *Materi Temu Lembaga PKN: Mendidik Sesuai Fase Perkembangan Anak (Slide 122–126)*, fitrah belajar anak pada fase Tamyiz menyerap stimulasi ilmu melalui tiga pintu fitrah yang disebutkan dalam firman Allah:
 
 > « وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ »  
 > *"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatu pun, dan Dia memberi kamu pendengaran (as-sam'), penglihatan (al-abshar), dan hati nurani (al-af'idah), agar kamu bersyukur."* (QS. An-Nahl: 78).
@@ -247,7 +247,7 @@ Slide kurikulum resmi *Mendidik Sesuai Fase Perkembangan Anak (Slide 128–129)*
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
 > - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Fase Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
 >
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
@@ -350,7 +350,7 @@ Slide kurikulum resmi *Mendidik Sesuai Fase Perkembangan Anak (Slide 128–129)*
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

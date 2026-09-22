@@ -193,9 +193,9 @@ Untuk panduan mendalam mengenai 5 strategi ushul fiqih dalam mengelola konflik a
 
 ---
 
-## Penerapan Peran Guru Berdasarkan Etape Usia Nabawiyah
+## Penerapan Peran Guru Berdasarkan Fase Usia Nabawiyah
 
-Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al-Mu'allimin karya Sahnun*) mengemban peran spesifik pada tiap etape santri:
+Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al-Mu'allimin karya Sahnun*) mengemban peran spesifik pada tiap fase santri:
 
 1. **Guru Fase Thufulah (0–7 Tahun):** Berperan sebagai figur pengganti ibu (*ummun muthabbiqah*), menyiram cinta, memeluk, dan menuntun doa dengan riang gembira.
 2. **Guru Fase Tamyiz (7–10 Tahun):** Berperan sebagai teladan adab (*uswatun hasanah*), mengurai alasan logis di balik perintah syariat, dan melatih kemandirian tanpa mencela kekurangan anak.
@@ -406,7 +406,7 @@ Guru sebagai murabbi ruhani (*maraji': Al-Adab al-Mufrad Al-Bukhari & Risalah al
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

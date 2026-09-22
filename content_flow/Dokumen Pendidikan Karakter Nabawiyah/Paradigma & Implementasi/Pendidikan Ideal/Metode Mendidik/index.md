@@ -10,7 +10,7 @@ title: 'Alur Materi: Metode Mendidik'
 ```mermaid
 flowchart TD
     subgraph S1["1. Fondasi & Hakikat"]
-        N1_1["1. Hakikat Metodologi Pendidikan Karakter<br/>Nabawiyah<br/>- Tidak Melompatkan Tahapan: Setiap anak melewati etape<br/>pembentukan jiwa yang berurutan. Jiwa tidak dapat menerima<br/>beban fisik sebelum akalnya paham, dan akal tidak akan<br/>menerima pemahaman sebelum hatinya terpaut cinta.<br/>- Kesesuaian Instrumen Bahasa: Menyampaikan nasihat lisan<br/>kepada anak usia 2 tahun yang menangis adalah inefisiensi,<br/>sebagaimana memukul anak usia 6 tahun karena belum shalat<br/>adalah kezaliman yang diharamkan syariat."]
+        N1_1["1. Hakikat Metodologi Pendidikan Karakter<br/>Nabawiyah<br/>- Tidak Melompatkan Tahapan: Setiap anak melewati fase<br/>pembentukan jiwa yang berurutan. Jiwa tidak dapat menerima<br/>beban fisik sebelum akalnya paham, dan akal tidak akan<br/>menerima pemahaman sebelum hatinya terpaut cinta.<br/>- Kesesuaian Instrumen Bahasa: Menyampaikan nasihat lisan<br/>kepada anak usia 2 tahun yang menangis adalah inefisiensi,<br/>sebagaimana memukul anak usia 6 tahun karena belum shalat<br/>adalah kezaliman yang diharamkan syariat."]
         N1_2["2. Arsitektur Piramida Tiga Bahasa Pengasuhan<br/>- Matriks Komparasi Tiga Bahasa Pendidikan:"]
         N1_1 --> N1_2
     end

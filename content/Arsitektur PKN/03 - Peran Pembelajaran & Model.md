@@ -53,7 +53,7 @@ aliases:
       <td><b>Tier 1: Active Truth</b> (Model Pedagogis Baku)</td>
     </tr>
     <tr>
-      <th>3 Etape Belajar</th>
+      <th>3 Fase Belajar</th>
       <td>Taqlid (0–7) $\to$ Tajribah (7–10) $\to$ Tafkir (10+)</td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@ Imam Ibnul Qayyim Al-Jauziyyah dalam *Tuhfatul Maudud* menambahkan bahwa anak ke
 
 ## 3. Tiga Metodologi Cara Belajar Fitrah
 
-Manhaj PKN membagi perkembangan cara belajar santri ke dalam 3 etape metodologis:
+Manhaj PKN membagi perkembangan cara belajar santri ke dalam 3 fase metodologis:
 
 ```
 [1. TAQLID (التقليد) — Meniru] ➔ Usia 0–7 Th (Thufulah)

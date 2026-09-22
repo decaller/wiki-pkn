@@ -9,8 +9,8 @@ title: 'Alur Materi: Tamyiz'
 
 ```mermaid
 flowchart TD
-    subgraph S1["1. Hakikat & Karakteristik Etape"]
-        A1["Fase Tamyiz<br/>Rentang Usia: 7 – 10 Tahun (Etape Prajurit / Murid)"] --> A2["Kondisi Jiwa:<br/>Pematangan Lawwamah & Disiplin Diri"]
+    subgraph S1["1. Hakikat & Karakteristik Fase"]
+        A1["Fase Tamyiz<br/>Rentang Usia: 7 – 10 Tahun (Fase Prajurit / Murid)"] --> A2["Kondisi Jiwa:<br/>Pematangan Lawwamah & Disiplin Diri"]
         A2 --> A3["Bahasa Pengasuhan Utama:<br/>Bahasa Lisan (Instruksi Logis & Dialogis)"]
     end
 

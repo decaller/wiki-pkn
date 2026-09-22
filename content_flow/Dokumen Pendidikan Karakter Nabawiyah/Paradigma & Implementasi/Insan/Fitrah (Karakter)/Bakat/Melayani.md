@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun<br/>Melayani & Pola Asuh Nabawi<br/>- 1. Anas bin Malik radhiyallahu 'anhu:<br/>Khadimur Rasul 10 Tahun Penuh Kelembutan<br/>- 2. Abu Hurairah radhiyallahu 'anhu: Khidmah<br/>Menjaga Khazanah Hadits Umat"]
+        N4_1["🏛️ Keteladanan Ashabus Rasul: Uswah Sahabat Rumpun<br/>Melayani & Pola Asuh Nabawi<br/>- 1. Anas bin Malik radhiyallahu 'anhu:<br/>Khadimur Rasul 10 Tahun Penuh Kelembutan<br/>- 2. Abu Hurairah radhiyallahu 'anhu: Khidmah<br/>Menjaga Khazanah Hadits Umat"]
         N4_2["Diagnosis Penyimpangan: Tafrith vs Ifrath dalam<br/>Nilai Rumpun Melayani"]
         N4_1 --> N4_2
         N4_3["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]

@@ -1,5 +1,7 @@
 ---
 aliases:
+  - "Perkembangan"
+  - "4 Fase Usia Nabawiyah"
   - "4 Etape Usia Nabawiyah"
 title: "Perkembangan"
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
@@ -194,7 +196,7 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
 > - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Fase Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
 >
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
@@ -208,19 +210,19 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
 >
 > - 🏫 **[SKIS] Karakter Perkembangan**  
 >   🔗 Sumber Asli: [https://sekolahkarakter.com/karakter-perkembangan/](https://sekolahkarakter.com/karakter-perkembangan/)  
->   *Peta komprehensif penahapan etape usia fitrah manusia menurut Manhaj Nabawi.*  
+>   *Peta komprehensif penahapan fase usia fitrah manusia menurut Manhaj Nabawi.*  
 >
 > - 🏫 **[SKIS] Sekilas Pandang usia 0-7 tahun**  
 >   🔗 Sumber Asli: [https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/](https://sekolahkarakter.com/sekilas-pandang-usia-0-7-tahun/)  
->   *Etape awal pengisian cinta kasih.*  
+>   *Fase awal pengisian cinta kasih.*  
 >
 > - 🏫 **[SKIS] Pendidikan Karakter Usia 7-10 Tahun**  
 >   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/](https://sekolahkarakter.com/pendidikan-karakter-usia-7-10-tahun/)  
->   *Etape pembiasaan disiplin sukarela.*  
+>   *Fase pembiasaan disiplin sukarela.*  
 >
 > - 🏫 **[SKIS] Pendidikan Karakter Usia Aqil Baligh**  
 >   🔗 Sumber Asli: [https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/](https://sekolahkarakter.com/pendidikan-karakter-usia-aqil-baligh/)  
->   *Etape penyempurnaan akil baligh.*  
+>   *Fase penyempurnaan akil baligh.*  
 
 <!-- START_OFFICE_PPTX_EMBED -->
 
@@ -305,7 +307,7 @@ Oleh karena itu, fase **Murahaqah (10–14 tahun)** harus menjadi masa penggembl
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

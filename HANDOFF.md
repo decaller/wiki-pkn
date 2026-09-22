@@ -888,6 +888,18 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - `npx quartz build` sukses memproses 382 berkas Markdown dan menerbitkan **2.157 berkas web statis** ke `public/` dengan exit code 0.
   - Perubahan 315 berkas (35.415 baris penambahan) telah di-commit (`9a51bb3`) dan di-push bersih ke `origin/main`.
 
+### Milestone 59: Glosarium Resmi & Purifikasi Kosakata Autentik Sumber (Etape $\to$ Fase) `[SELESAI]`
+- **Penerbitan Glosarium Master PKN (`content/Glosarium Istilah Karakter Nabawiyah.md`):**
+  - Menerbitkan kamus leksikal berstandar MediaWiki 4-Zone yang memuat indeks alfabetis lengkap (A–Z), definisi syar'i-pedagogis, aplikasi praktis pengasuhan, matriks 6 klaster tematik, dan tautan silang wikilinks.
+- **Purifikasi Kosakata Autentik Sumber:**
+  - Melakukan refaktorisasi 630+ kemunculan kosakata asing/tidak bersumber di seluruh repositori:
+    * Mengganti istilah asing non-sumber *etape* secara konsisten menjadi **fase** / **tahapan** (termasuk merename 4 berkas kanvas: Fase Thufulah, Fase Tamyiz, Fase Murahaqah, dan Dua Fase Tazkiyatun Nafs).
+    * Mengganti istilah psikologis asing *archetype* menjadi **uswah sahabat** / **figur teladan**.
+    * Memperbarui alias kanonikal `4 Fase Usia Nabawiyah` (dengan mempertahankan alias lama untuk kompatibilitas).
+- **Integrasi Navigasi & Verifikasi Build:**
+  - Menghubungkan Glosarium pada `content/index.md` (bagian Master Rujukan) dan `content/Peta Navigasi Wiki PKN.md`.
+  - `npx quartz build` sukses memproses 383 berkas Markdown dan menerbitkan **2.172 berkas web statis** ke `public/` dengan exit code 0.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -895,13 +907,14 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
 | :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 382 berkas Markdown terproses, 2.157 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 383 berkas Markdown terproses, 2.172 berkas web statis terbit |
 | **Rujukan Buku Utama** | 🟢 **2 Buku Kanonikal** | 1. Buku Utama PKN (Bab 1-7, 9-10) • 2. Buku Tafsir Bakat Master (Bab 1-12) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 382/382 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Canvas, Navbox, Takhrij |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 383/383 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Canvas, Navbox, Takhrij |
+| **Kamus / Glosarium** | 🟢 **Tersedia Lengkap** | `content/Glosarium Istilah Karakter Nabawiyah.md` (Indeks A–Z & Matriks 6 Klaster) |
+| **Purifikasi Kosakata** | 🟢 **100% Bersih** | Kosakata asing *etape* $\to$ **fase**, *archetype* $\to$ **uswah sahabat** |
 | **Pilar Bakat TB-40** | 🟢 **40/40 Selesai Penuh** | Mengintegrasikan 100% naskah Bab 12 Buku Tafsir Bakat ke 4-Zone MediaWiki |
 | **Klaster Arsitektur PKN** | 🟢 **7 Halaman Master** | `content/Arsitektur PKN/` 1-to-1 dengan master canvas arsitektur |
-| **Templat Khusus Non-Penjelasan**| 🟢 **8 Templat MediaWiki** | Disambiguasi, Redirect, Daftar Terstruktur, Portal Tematik, Kebijakan, Noticebox, Media, Profil |
-| **Peta Navigasi Obsidian (MOC)** | 🟢 **382 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
+| **Peta Navigasi Obsidian (MOC)** | 🟢 **383 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
 | **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
 | **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
 | **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |

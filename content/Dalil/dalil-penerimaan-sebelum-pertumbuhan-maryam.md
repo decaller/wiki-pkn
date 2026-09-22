@@ -15,7 +15,7 @@ sources:
 > [!abstract] Hook & Ringkasan Dalil (Layer 1)
 > **Nas / Rujukan:** QS. Ali 'Imran: 37
 > **Fokus Karakter:** Penerimaan Fitrah Mendahului Tuntutan Pertumbuhan
-> **Etape Usia Target:** Sejak Dalam Kandungan hingga Dewasa
+> **Fase Usia Target:** Sejak Dalam Kandungan hingga Dewasa
 
 ---
 
@@ -59,4 +59,4 @@ Orang tua dan guru dilarang menuntut hasil instan sebelum selesai menerima keuni
 
 ## Penautan Navigasi & Konsep
 - Kembali ke: [[Indeks Utama]] | [[Kajian Video]] | [[Materi SOTAB]]
-- Konsep Terkait: [[4 Etape Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]
+- Konsep Terkait: [[4 Fase Usia Nabawiyah]] | [[Koneksi Sebelum Koreksi]] | [[40 Pilar Karakter TB40]]

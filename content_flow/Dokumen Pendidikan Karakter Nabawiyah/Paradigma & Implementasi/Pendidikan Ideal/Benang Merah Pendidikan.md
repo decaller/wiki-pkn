@@ -30,7 +30,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Penerapan Benang Merah Pendidikan Berdasarkan<br/>Etape Usia<br/>- Thufulah (0–7 Th): Benang Tauhid dianyam lewat pengenalan<br/>asma Allah yang Maha Pengasih di alam raya.<br/>- Tamyiz (7–10 Th): Benang Adab ditegakkan melalui<br/>penghormatan kepada orang tua, guru, dan adab thalabul ilmi."]
+        N4_1["Penerapan Benang Merah Pendidikan Berdasarkan<br/>Fase Usia<br/>- Thufulah (0–7 Th): Benang Tauhid dianyam lewat pengenalan<br/>asma Allah yang Maha Pengasih di alam raya.<br/>- Tamyiz (7–10 Th): Benang Adab ditegakkan melalui<br/>penghormatan kepada orang tua, guru, dan adab thalabul ilmi."]
         N4_2["Diagnosis Penyimpangan: Tafrith vs Ifrath dalam<br/>Benang Merah Pendidikan"]
         N4_1 --> N4_2
         N4_3["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]

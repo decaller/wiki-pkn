@@ -9,8 +9,8 @@ title: 'Alur Materi: Syabab'
 
 ```mermaid
 flowchart TD
-    subgraph S1["1. Hakikat & Karakteristik Etape"]
-        A1["Fase Syabab<br/>Rentang Usia: 14+ Tahun (Etape Pemuda / Mandiri)"] --> A2["Kondisi Jiwa:<br/>Kematangan Muthmainnah & Mukallaf Paripurna"]
+    subgraph S1["1. Hakikat & Karakteristik Fase"]
+        A1["Fase Syabab<br/>Rentang Usia: 14+ Tahun (Fase Pemuda / Mandiri)"] --> A2["Kondisi Jiwa:<br/>Kematangan Muthmainnah & Mukallaf Paripurna"]
         A2 --> A3["Bahasa Pengasuhan Utama:<br/>Kemitraan & Musyawarah Strategis"]
     end
 

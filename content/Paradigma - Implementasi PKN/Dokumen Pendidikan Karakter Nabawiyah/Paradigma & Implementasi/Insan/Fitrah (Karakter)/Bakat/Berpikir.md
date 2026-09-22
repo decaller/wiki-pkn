@@ -258,7 +258,7 @@ Berdasarkan rumusan instrumen asesmen **Tafsir Bakat TB-40 (Manhaj SKIS Semarang
 
 ---
 
-## 🏛️ Keteladanan Ashabus Rasul: Archetype Rumpun Berpikir & Pola Asuh Nabawi
+## 🏛️ Keteladanan Ashabus Rasul: Uswah Sahabat Rumpun Berpikir & Pola Asuh Nabawi
 
 Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 2) dan rujukan silang *Siyar A'lam An-Nubala* di OpenBayan, rumpun Berpikir diwakili secara agung oleh para tokoh berikut:
 
@@ -285,7 +285,7 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[Bakat]] — Induk Taksonomi 40 Karakter Nabawiyah dan Matriks Sahabat.
 * [[Insan]] — Hakikat Akal, Hati, dan Hawa Nafsu dalam Pandangan Islam.
 * [[Bahasa Lisan]] — Seni Komunikasi Nasihat & Diskusi Intelektual.
-* [[Tamyiz]] — Etape Emas Pembentukan Nalar Kritis dan Literasi Anak.
+* [[Tamyiz]] — Fase Emas Pembentukan Nalar Kritis dan Literasi Anak.
 * [[Panduan Asesmen dan Observasi TB40]] — Instrumen Diagnostik 40 Karakter.
 
 ---
@@ -428,7 +428,7 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Alur Implementasi Kurikulum PKN Berdasarkan 4<br/>Etape Usia<br/>- Etape Thufulah (Taman Fitrah 0–7 Th): Penanaman cinta<br/>kepada Allah dan Rasul-Nya melalui keindahan ciptaan-Nya;<br/>bebas dari tekanan hafalan tanpa makna.<br/>- Etape Tamyiz (Sekolah Adab 7–10 Th): Penguatan rukun iman,<br/>tata cara ibadah bersuci dan shalat, serta penjelajahan<br/>sifat-sifat bakat dominan."]
+        N4_1["Alur Implementasi Kurikulum PKN Berdasarkan 4<br/>Fase Usia<br/>- Fase Thufulah (Taman Fitrah 0–7 Th): Penanaman cinta<br/>kepada Allah dan Rasul-Nya melalui keindahan ciptaan-Nya;<br/>bebas dari tekanan hafalan tanpa makna.<br/>- Fase Tamyiz (Sekolah Adab 7–10 Th): Penguatan rukun iman,<br/>tata cara ibadah bersuci dan shalat, serta penjelajahan<br/>sifat-sifat bakat dominan."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Kesiapan Implementasi Ekosistem<br/>PKN<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

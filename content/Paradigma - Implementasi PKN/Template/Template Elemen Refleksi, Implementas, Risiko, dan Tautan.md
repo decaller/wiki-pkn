@@ -119,7 +119,7 @@ Gunakan blok ini untuk memberi peringatan tegas atas kesalahan fatal orang tua a
 
 ```markdown
 > [!warning] Peringatan Risiko: Bahaya [Nama Tindakan Fatal / Tafrith-Ifrath]
-> * **Bentuk Kesalahan:** Membanding-bandingkan pencapaian anak dengan saudara kandung atau teman sebayanya (*social comparison*), memaksakan target kognitif sebelum etape usia, atau menghukum tanpa ikatan kasih sayang.
+> * **Bentuk Kesalahan:** Membanding-bandingkan pencapaian anak dengan saudara kandung atau teman sebayanya (*social comparison*), memaksakan target kognitif sebelum fase usia, atau menghukum tanpa ikatan kasih sayang.
 > * **Dampak Terhadap Jiwa:** Menimbulkan luka pengasuhan menahun, mematikan rasa percaya diri fitrah bakat, dan menyemai benih hasad serta kedengkian antarsaudara (sebagaimana kisah saudara-saudara Nabi Yusuf AS).
 > * **Pencegahan Nabawiyah:** Yakini prinsip [[Bakat]]: setiap anak diciptakan unik di atas *syakilah*-nya masing-masing. Fokuslah mengasah keunikan potensi ananda, bukan memaksakannya menjadi fotokopi orang lain.
 ```
@@ -255,7 +255,7 @@ Berikut adalah contoh lengkap bagaimana ketiga komponen callout di atas disatuka
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

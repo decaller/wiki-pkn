@@ -1,6 +1,6 @@
 ---
 title: "Peran Pendidik & Kedisiplinan Pendidikan Karakter Nabawiyah"
-description: "Piramida spasial 4 etape usia, proporsi Tiga Bahasa pengasuhan, zonasi toleransi perilaku Al-Hima, serta kurva kedisiplinan wasathiyah antara pemaafan dan ketegasan syariat."
+description: "Piramida spasial 4 fase usia, proporsi Tiga Bahasa pengasuhan, zonasi toleransi perilaku Al-Hima, serta kurva kedisiplinan wasathiyah antara pemaafan dan ketegasan syariat."
 tags:
   - pkn/arsitektur
   - pkn/pendidik
@@ -10,7 +10,7 @@ tags:
 authority_score: 1.0
 aliases:
   - "Peran Pendidik & Kedisiplinan"
-  - "Piramida 4 Etape Usia"
+  - "Piramida 4 Fase Usia"
   - "Zonasi Toleransi Al-Hima"
 ---
 
@@ -30,7 +30,7 @@ aliases:
 
 > [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
 > **Definisi Inti:** Peran Pendidik & Kedisiplinan PKN adalah arsitektur penegakan karakter bertahap (*tadarruj*) yang memadukan kehangatan cinta tanpa batas di masa kanak-kanak dengan ketegasan pagar syariat (*Al-Hima*) menjelang masa akil-baligh, menggunakan proporsi Tiga Bahasa pengasuhan (Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan) yang tepat.
-> * **Piramida 4 Etape Usia:** Bertumpu pada kelekatan kasih sayang 100% pada fase [[Thufulah]] (0–7 tahun), pembiasaan shalat dan dialog nalar pada fase [[Tamyiz]] (7–10 tahun), penegakan ta'dib tegas pada fase [[Murahaqah]] (10–15 tahun), dan bermuara pada kemitraan mukallaf mandiri pada fase [[Syabab]] (15+ tahun).
+> * **Piramida 4 Fase Usia:** Bertumpu pada kelekatan kasih sayang 100% pada fase [[Thufulah]] (0–7 tahun), pembiasaan shalat dan dialog nalar pada fase [[Tamyiz]] (7–10 tahun), penegakan ta'dib tegas pada fase [[Murahaqah]] (10–15 tahun), dan bermuara pada kemitraan mukallaf mandiri pada fase [[Syabab]] (15+ tahun).
 > * **Tiga Zonasi Al-Hima:** Memisahkan secara tegas zona eksplorasi fitrah yang bebas dari intervensi (Zona Hijau), zona negosiasi dialog adab (Zona Kuning), dan pagar batas syariat mutlak nol toleransi (Zona Merah).
 > * **Piramida Kesadaran vs Pola Rapuh:** Disiplin sejati ditegakkan di atas fondasi kesadaran iman batin, bukan atas dasar kepatuhan semu karena takut hukuman fisik atau pengawasan CCTV sekolah.
 
@@ -39,7 +39,7 @@ aliases:
   <div class="wiki-infobox-image">
     <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #b45309, #d97706); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">👶 ➔ 👦 ➔ 🧑 ➔ 👨‍🎓</div>
-      <div style="font-weight: 700; font-size: 0.9rem;">Piramida 4 Etape & Al-Hima</div>
+      <div style="font-weight: 700; font-size: 0.9rem;">Piramida 4 Fase & Al-Hima</div>
     </div>
     <div class="wiki-infobox-caption">Penahapan Disiplin Wasathiyah Nabawiyah</div>
   </div>
@@ -53,7 +53,7 @@ aliases:
       <td><b>Tier 1: Active Truth</b> (Manhaj Disiplin Baku)</td>
     </tr>
     <tr>
-      <th>Piramida 4 Etape</th>
+      <th>Piramida 4 Fase</th>
       <td>Thufulah $\to$ Tamyiz $\to$ Murahaqah $\to$ Syabab</td>
     </tr>
     <tr>
@@ -83,10 +83,10 @@ Pendidikan Karakter Nabawiyah menawarkan jalan tengah (*wasathiyah*) yang agung:
 
 ## 1. Arsitektur Visual Peran Pendidik & Kedisiplinan (Obsidian Canvas)
 
-Piramida spasial 4 etape, zonasi Al-Hima, kurva kedisiplinan, dan perbandingan piramida kesadaran vs pola rapuh dipetakan dalam kanvas berikut:
+Piramida spasial 4 fase, zonasi Al-Hima, kurva kedisiplinan, dan perbandingan piramida kesadaran vs pola rapuh dipetakan dalam kanvas berikut:
 
 ![[canvas/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan.canvas]]
-*Bagan 1.0: Sektor 4 — Piramida 4 Etape Usia, Tiga Bahasa, Zonasi Al-Hima, dan Kedisiplinan Wasathiyah.*
+*Bagan 1.0: Sektor 4 — Piramida 4 Fase Usia, Tiga Bahasa, Zonasi Al-Hima, dan Kedisiplinan Wasathiyah.*
 
 ---
 
@@ -116,7 +116,7 @@ Kaidah emas penyeimbang antara kelembutan dan ketegasan dirumuskan oleh Imam Ibn
 
 ---
 
-## 3. Piramida Spasial Empat Etape Usia & Tiga Bahasa
+## 3. Piramida Spasial Empat Fase Usia & Tiga Bahasa
 
 Manhaj PKN membagi perjalanan pertumbuhan kedisiplinan ke dalam 4 tingkatan piramida yang harmonis:
 
@@ -260,7 +260,7 @@ Mengapa banyak anak pesantren yang rajin shalat saat di asrama, tetapi langsung 
     </div>
   </div>
   <div class="wiki-navbox-group">
-    <div class="wiki-navbox-label">Etape & Disiplin</div>
+    <div class="wiki-navbox-label">Fase & Disiplin</div>
     <div class="wiki-navbox-links">
       <a href="/content/Thufulah">Thufulah (0–7 Th)</a> <span class="wiki-navbox-sep">•</span>
       <a href="/content/Tamyiz">Tamyiz (7–10 Th)</a> <span class="wiki-navbox-sep">•</span>
@@ -301,6 +301,6 @@ Mengapa banyak anak pesantren yang rajin shalat saat di asrama, tetapi langsung 
 
 ---
 
-**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Kedisiplinan Positif Nabawi]] • [[Kategori:Etape Usia Perkembangan]]
+**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Kedisiplinan Positif Nabawi]] • [[Kategori:Fase Usia Perkembangan]]
 
 *Editorial Notes: Naskah Sektor 04 dirumuskan dari master canvas `content/canvas/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan.canvas` karya Ustadz Abdul Kholiq. Terakhir dimutakhirkan pada September 2026.*

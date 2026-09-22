@@ -103,7 +103,7 @@
     {
       "id": "group-sektor3",
       "type": "group",
-      "label": "SEKTOR 3: TANGGA FITRAH 4 ETAPE USIA NABAWIYAH",
+      "label": "SEKTOR 3: TANGGA FITRAH 4 FASE USIA NABAWIYAH",
       "x": -850,
       "y": 620,
       "width": 1700,
@@ -288,28 +288,28 @@
       "toSide": "left"
     },
     {
-      "id": "e-etape-ayah",
+      "id": "e-fase-ayah",
       "fromNode": "node-thufulah",
       "fromSide": "bottom",
       "toNode": "node-peran-ayah",
       "toSide": "top"
     },
     {
-      "id": "e-etape-bunda",
+      "id": "e-fase-bunda",
       "fromNode": "node-tamyiz",
       "fromSide": "bottom",
       "toNode": "node-peran-bunda",
       "toSide": "top"
     },
     {
-      "id": "e-etape-guru",
+      "id": "e-fase-guru",
       "fromNode": "node-murahaqah",
       "fromSide": "bottom",
       "toNode": "node-peran-guru",
       "toSide": "top"
     },
     {
-      "id": "e-etape-wasat",
+      "id": "e-fase-wasat",
       "fromNode": "node-syabab",
       "fromSide": "bottom",
       "toNode": "node-wasathiyah-disiplin",

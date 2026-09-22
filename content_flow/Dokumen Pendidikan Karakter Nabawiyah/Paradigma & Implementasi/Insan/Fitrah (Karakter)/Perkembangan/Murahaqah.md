@@ -9,8 +9,8 @@ title: 'Alur Materi: Murahaqah'
 
 ```mermaid
 flowchart TD
-    subgraph S1["1. Hakikat & Karakteristik Etape"]
-        A1["Fase Murahaqah<br/>Rentang Usia: 10 – 14 Tahun (Etape Sahabat / Menjelang Baligh)"] --> A2["Kondisi Jiwa:<br/>Evolusi Syahwat Menuju Tanggung Jawab Mukallaf"]
+    subgraph S1["1. Hakikat & Karakteristik Fase"]
+        A1["Fase Murahaqah<br/>Rentang Usia: 10 – 14 Tahun (Fase Sahabat / Menjelang Baligh)"] --> A2["Kondisi Jiwa:<br/>Evolusi Syahwat Menuju Tanggung Jawab Mukallaf"]
         A2 --> A3["Bahasa Pengasuhan Utama:<br/>Bahasa Tangan (Disiplin Tegas) & Sahabat Dialogis"]
     end
 

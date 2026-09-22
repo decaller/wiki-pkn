@@ -206,7 +206,7 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 * [[Fitrah (Karakter)]] — Fondasi cetak biru fitrah insan dalam PKN.
 * [[Iman]] — Menjaga agar ilmu senantiasa terikat dengan tauhid dan adab.
 * [[Bakat]] — Mengalirkan gairah belajar ke dalam 40 pilar kontribusi peradaban.
-* [[Tamyiz]] — Etape keemasan kematangan nalar logika anak (7–10 tahun).
+* [[Tamyiz]] — Fase keemasan kematangan nalar logika anak (7–10 tahun).
 * [[Pembelajaran Alamiah]] — Prinsip belajar berbasis fitrah alam dan kehidupan nyata.
 
 ---
@@ -379,7 +379,7 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

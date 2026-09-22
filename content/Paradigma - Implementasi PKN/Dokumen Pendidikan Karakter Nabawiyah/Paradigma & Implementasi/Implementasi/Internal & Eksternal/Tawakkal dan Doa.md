@@ -144,7 +144,7 @@ Jangan biarkan doa orang tua hanya diucapkan secara sporadis tatkala panik mengh
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -166,14 +166,14 @@ Jangan biarkan doa orang tua hanya diucapkan secara sporadis tatkala panik mengh
 
 ---
 
-## Orientasi Doa dan Tawakkal Sesuai Etape Perkembangan Anak
+## Orientasi Doa dan Tawakkal Sesuai Fase Perkembangan Anak
 
-Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-Nawawi*), dengan fokus munajat yang berganti sesuai etape:
+Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-Nawawi*), dengan fokus munajat yang berganti sesuai fase:
 
-1. **Doa Etape Thufulah:** Memohon perlindungan fitrah dari gangguan setan (*U'idzukuma bi kalimaatillaahit taammah*) dan kesehatan jasad.
-2. **Doa Etape Tamyiz:** Memohon agar anak dicintai keimanan dan dihiasi keindahan shalat (*Rabbij'alni muqiimash shalaati wa min dzurriyyati*).
-3. **Doa Etape Murahaqah:** Memohon kesucian diri, penjagaan dari fitnah syahwat, dan diteguhkan dalam ketaatan (*Allahumma inni as'alukal huda wat tuqa wal 'afafa wal ghina*).
-4. **Doa Etape Syabab:** Memohon keturunan yang menjadi penyejuk pandangan dan imam bagi orang-orang bertakwa (*Qurrata a'yunin waj'alna lil muttaqiina imaama*).
+1. **Doa Fase Thufulah:** Memohon perlindungan fitrah dari gangguan setan (*U'idzukuma bi kalimaatillaahit taammah*) dan kesehatan jasad.
+2. **Doa Fase Tamyiz:** Memohon agar anak dicintai keimanan dan dihiasi keindahan shalat (*Rabbij'alni muqiimash shalaati wa min dzurriyyati*).
+3. **Doa Fase Murahaqah:** Memohon kesucian diri, penjagaan dari fitnah syahwat, dan diteguhkan dalam ketaatan (*Allahumma inni as'alukal huda wat tuqa wal 'afafa wal ghina*).
+4. **Doa Fase Syabab:** Memohon keturunan yang menjadi penyejuk pandangan dan imam bagi orang-orang bertakwa (*Qurrata a'yunin waj'alna lil muttaqiina imaama*).
 
 ---
 
@@ -273,7 +273,7 @@ Doa orang tua adalah senjata utama tarbiyah (*maraji': Al-Adzkar karya Imam An-N
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

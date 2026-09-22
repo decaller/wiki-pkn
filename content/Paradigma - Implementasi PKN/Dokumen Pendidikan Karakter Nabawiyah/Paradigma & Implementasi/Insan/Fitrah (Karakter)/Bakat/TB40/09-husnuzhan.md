@@ -306,7 +306,7 @@ Mintalah pendapat kepadanya tentang suatu hal, jika anda menyangka ada suatu yan
 <summary><b>📜 Makna Fiqih dan Maqashid Syariah Pilar Husnuzhan</b></summary>
 
 * **Landasan Maqashid:** Penumbuhan pilar Husnuzhan berfungsi menjaga kelestarian agama (*hifzhud din*), akal (*hifzhul 'aql*), dan martabat kehormatan (*hifzhul 'irdh*), sehingga setiap keahlian teknis terikat dengan pertanggungjawaban di hadapan Mahkamah Ilahi di Yaumil Qiyamah.
-* **Prinsip Tadarruj:** Di etape *Thufulah* (0-7 tahun), fokus pada penumbuhan rasa suka dan cinta; di etape *Tamyiz* (7-10 tahun), latih kemampuan nalar dan keteraturan; di etape *Murahaqah* (10-14 tahun), tuntut kemandirian dan penyaluran kemanfaatan.
+* **Prinsip Tadarruj:** Di fase *Thufulah* (0-7 tahun), fokus pada penumbuhan rasa suka dan cinta; di fase *Tamyiz* (7-10 tahun), latih kemampuan nalar dan keteraturan; di fase *Murahaqah* (10-14 tahun), tuntut kemandirian dan penyaluran kemanfaatan.
 </details>
 
 ---

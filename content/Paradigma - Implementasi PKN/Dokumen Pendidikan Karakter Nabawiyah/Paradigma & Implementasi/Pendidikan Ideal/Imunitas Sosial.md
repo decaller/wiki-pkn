@@ -174,14 +174,14 @@ Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib
 
 ---
 
-## Pembentukan Imunitas Sosial Berdasarkan Etape Usia Nabawiyah
+## Pembentukan Imunitas Sosial Berdasarkan Fase Usia Nabawiyah
 
 Membangun imunitas dari polusi lingkungan jahiliyah modern membutuhkan tahapan terstruktur:
 
-1. **Etape Thufulah (0–7 Th — Proteksi Steril):** Mengisolasi anak dari paparan gawai bebas, konten kekerasan, dan bahasa kotor; lingkungan rumah menjadi benteng steril.
-2. **Etape Tamyiz (7–10 Th — Vaksinasi Nalar):** Mengenalkan realitas sosial secara terbimbing, melatih anak membedakan mana adab terpuji dan mana perilaku tercela di lingkungannya.
-3. **Etape Murahaqah (10–15 Th — Latihan Kekebalan di Medan Nyata):** Melatih ketahanan mental terhadap tekanan teman sebaya (*peer pressure*), membangun identitas diri yang bangga dengan syariat Islam.
-4. **Etape Syabab (15+ Th — Agen Imunitas Peradaban):** Anak bukan lagi sekadar kebal dari maksiat, melainkan menjadi pembawa obat bagi kerusakan masyarakat (*muslih*).
+1. **Fase Thufulah (0–7 Th — Proteksi Steril):** Mengisolasi anak dari paparan gawai bebas, konten kekerasan, dan bahasa kotor; lingkungan rumah menjadi benteng steril.
+2. **Fase Tamyiz (7–10 Th — Vaksinasi Nalar):** Mengenalkan realitas sosial secara terbimbing, melatih anak membedakan mana adab terpuji dan mana perilaku tercela di lingkungannya.
+3. **Fase Murahaqah (10–15 Th — Latihan Kekebalan di Medan Nyata):** Melatih ketahanan mental terhadap tekanan teman sebaya (*peer pressure*), membangun identitas diri yang bangga dengan syariat Islam.
+4. **Fase Syabab (15+ Th — Agen Imunitas Peradaban):** Anak bukan lagi sekadar kebal dari maksiat, melainkan menjadi pembawa obat bagi kerusakan masyarakat (*muslih*).
 
 ---
 
@@ -339,7 +339,7 @@ Membangun imunitas dari polusi lingkungan jahiliyah modern membutuhkan tahapan t
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

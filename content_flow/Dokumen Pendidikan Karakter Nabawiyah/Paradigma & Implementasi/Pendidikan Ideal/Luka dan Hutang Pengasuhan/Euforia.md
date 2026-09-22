@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["Mencegah Racun Euforia Semu Berdasarkan Etape<br/>Usia<br/>- Etape Thufulah (0–7 Th): Hindari mengikutsertakan balita<br/>dalam kontes lomba kecantikan atau kelucuan komersial yang<br/>merusak kemurnian fitrahnya.<br/>- Etape Tamyiz (7–10 Th): Puji proses kerja keras dan<br/>kejujurannya (Al-Itqan), bukan hasil angka rapor atau piala<br/>yang memicu riya' dan kesombongan."]
+        N4_1["Mencegah Racun Euforia Semu Berdasarkan Fase<br/>Usia<br/>- Fase Thufulah (0–7 Th): Hindari mengikutsertakan balita<br/>dalam kontes lomba kecantikan atau kelucuan komersial yang<br/>merusak kemurnian fitrahnya.<br/>- Fase Tamyiz (7–10 Th): Puji proses kerja keras dan<br/>kejujurannya (Al-Itqan), bukan hasil angka rapor atau piala<br/>yang memicu riya' dan kesombongan."]
         N4_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Deteksi Candu Euforia Prestasi<br/>Semu<br/>- 2. Tiga Pertanyaan Reflektif"]
         N4_1 --> N4_2
     end

@@ -333,11 +333,11 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
                                  BAKAT UTUH = Suka + Bisa + Bermanfaat Nyata!
 ```
 
-1. **Rukun 1: Suka (*Al-Hirsh*) — Etape Thufulah (0–7 Tahun)**  
+1. **Rukun 1: Suka (*Al-Hirsh*) — Fase Thufulah (0–7 Tahun)**  
    Anak menikmati dan menyukai aktivitas tersebut secara alami, dikerjakan dengan mata berbinar tanpa harus diiming-imingi imbalan materi atau diancam hukuman.
-2. **Rukun 2: Bisa (*Al-Itqan*) — Etape Tamyiz (7–10 Tahun)**  
+2. **Rukun 2: Bisa (*Al-Itqan*) — Fase Tamyiz (7–10 Tahun)**  
    Setelah diberi ruang mencoba (*trial and error*), anak menunjukkan kecakapan dan ketangkasan belajar yang lebih cepat dan mendalam dibanding rata-rata sebayanya. Pertemuan antara *Suka* dan *Bisa* membentuk poros cikal bakal bakat.
-3. **Rukun 3: Berguna bagi Masyarakat (*Al-Naf' lil Ummah*) — Etape Murahaqah & Syabab (10–15+ Tahun)**  
+3. **Rukun 3: Berguna bagi Masyarakat (*Al-Naf' lil Ummah*) — Fase Murahaqah & Syabab (10–15+ Tahun)**  
    Bakat sejati dalam Islam bukan untuk kesombongan pribadi (*ujub*) atau sekadar hobi nir-manfaat, melainkan mampu dikonversi menjadi solusi nyata bagi problematika umat (profesi, karya, dakwah, dan khidmah).
 
 ---
@@ -460,7 +460,7 @@ Kesadaran akhirat (*Al-Wa'yu bil Akhirah*) inilah yang mengubah:
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

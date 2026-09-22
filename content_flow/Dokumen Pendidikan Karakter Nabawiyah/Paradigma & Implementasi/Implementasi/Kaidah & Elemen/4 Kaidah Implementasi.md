@@ -15,7 +15,7 @@ flowchart TD
 
     subgraph S2["2. Dinamika & Prinsip"]
         N2_1["2. Rincian Kaidah, Dalil OpenBayan, & Contoh<br/>Interaksi Shahabat<br/>- Kaidah 1: Pentahapan Alami (At-Tadarruj fi<br/>At-Tarbiyah)<br/>- Kaidah 2: Koneksi Sebelum Koreksi (Al-Washlu<br/>qablal Qath')"]
-        N2_2["Penerapan 4 Kaidah Emas Berdasarkan Etape Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Tahun — Masa Kelekatan & Kelembutan<br/>Fitrah):<br/>- Fokus Kaidah: Dominansi Kaidah 1 (Satu Anak Satu Kurikulum)<br/>dan Kaidah 3 (Mendidik dengan Keteladanan & Bahasa Hati)."]
+        N2_2["Penerapan 4 Kaidah Emas Berdasarkan Fase Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Tahun — Masa Kelekatan & Kelembutan<br/>Fitrah):<br/>- Fokus Kaidah: Dominansi Kaidah 1 (Satu Anak Satu Kurikulum)<br/>dan Kaidah 3 (Mendidik dengan Keteladanan & Bahasa Hati)."]
         N2_1 --> N2_2
     end
 

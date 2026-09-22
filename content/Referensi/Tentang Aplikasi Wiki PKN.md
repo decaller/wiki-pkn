@@ -76,7 +76,7 @@ Seluruh konten ensiklopedia bersumber dari karya otoritatif **perumus manhaj PKN
 | :--- | :--- | :--- |
 | **OpenBayan** (seluruh dataset Maktabah Syamilah) | API + portal `openbayan.insanmustaqbal.or.id` | Ribuan kitab turats: Tafsir, Hadits Kutubus Sittah + syarah, Fiqih salaf |
 | **Qaf AI SDK** | Python wrapper `qaf_wrapper` | 320+ rujukan maraji' (Ibnul Qayyim, Al-Ghazali, Ibnu Hajar, An-Nawawi) |
-| **Kitab Ashabur Rasul SAW** (Syaikh Mahmud Al-Mishri, 543 hal) | PDF `old_backup/Campur/` | Sirah 40 sahabat — Archetype Matrix TB-40 |
+| **Kitab Ashabur Rasul SAW** (Syaikh Mahmud Al-Mishri, 543 hal) | PDF `old_backup/Campur/` | Sirah 40 sahabat — Matriks Teladan Sahabat TB-40 |
 | **Seminar 1: Kondisi Jiwa Anak** (119 hal) | PDF `old_backup/` | Psikospiritual jiwa, shalat barometer, bahasa hati vs akal |
 | **Seminar 2: Tafsir Bakat TB-40** (196 hal) | PDF `old_backup/` | Teologi bakat, syarat dawam, rukun 3A |
 | **Kajian Pendidikan Lestari** Prof. Dr. Iman Harymawan (77 hal) | PDF `old_backup/` | Peran guru nabawiyah, syabab, benang merah pendidikan |
@@ -418,7 +418,7 @@ Seluruh skrip Python tersimpan di direktori [`scripts/`](https://github.com/deca
 | `search_pexels.py` | Cari foto dari Pexels API (compliance syariat) |
 | `curate_missing_banners.py` | Kurasi banner untuk artikel tanpa gambar |
 | `enrich_batch{1-4}.py` | Pengayaan batch 4 klaster tematik |
-| `enrich_etape_usia.py` | Tambah panduan 4 etape usia di semua artikel |
+| `enrich_etape_usia.py` | Tambah panduan 4 fase usia di semua artikel |
 | `enrich_instrumen.py` | Tambah rubrik 3-level + refleksi muhasabah |
 | `fetch_sotabh_articles.py` | Crawl 117 artikel SOTAB HEBAT |
 | `fetch_skis_articles.py` | Crawl 172 halaman Sekolah Karakter |

@@ -10,7 +10,7 @@ title: 'Alur Materi: Tazkiyatun Nafs'
 ```mermaid
 flowchart TD
     subgraph S1["1. Fondasi & Hakikat"]
-        N1_1["1. Dua Etape Tazkiyatun Nafs: Takhalli dan<br/>Tahalli<br/>- A. Etape Takhalli (Detoksifikasi Racun Hati)<br/>- B. Etape Tahalli (Penghiasan dengan Akhlak<br/>Mulia)"]
+        N1_1["1. Dua Fase Tazkiyatun Nafs: Takhalli dan<br/>Tahalli<br/>- A. Fase Takhalli (Detoksifikasi Racun Hati)<br/>- B. Fase Tahalli (Penghiasan dengan Akhlak<br/>Mulia)"]
     end
 
     subgraph S2["2. Dinamika & Prinsip"]
@@ -27,7 +27,7 @@ flowchart TD
 
     subgraph S4["4. Evaluasi & Output"]
         N4_1["Studi Kasus Nyata & Solusi Kuratif Tadarruj<br/>- Skenario Permasalahan<br/>- Tahapan Solusi Kuratif Langkah-demi-Langkah<br/>(Manhaj Tadarruj)"]
-        N4_2["Penerapan Tazkiyatun Nafs Berdasarkan Etape Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Tahun — Kesucian Alami Fitrah):<br/>- Fokus tazkiyah berada 100% pada orang tua (menjaga makanan<br/>halal, keheningan rumah dari maksiat suara/gambar). Jiwa<br/>anak belum ternoda dosa; ia menyerap energi ketenangan orang<br/>tua secara langsung."]
+        N4_2["Penerapan Tazkiyatun Nafs Berdasarkan Fase Usia<br/>Nabawiyah<br/>- Fase Thufulah (0–7 Tahun — Kesucian Alami Fitrah):<br/>- Fokus tazkiyah berada 100% pada orang tua (menjaga makanan<br/>halal, keheningan rumah dari maksiat suara/gambar). Jiwa<br/>anak belum ternoda dosa; ia menyerap energi ketenangan orang<br/>tua secara langsung."]
         N4_1 --> N4_2
     end
 

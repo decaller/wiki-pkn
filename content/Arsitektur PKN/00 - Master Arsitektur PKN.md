@@ -28,7 +28,7 @@ aliases:
 <!-- ZONA 2: KONTEN UTAMA & INFOBOX -->
 
 > [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
-> **Definisi Inti:** Master Hub Arsitektur Pendidikan Karakter Nabawiyah (PKN) adalah cetak biru navigasi makro holistik yang mengintegrasikan seluruh dimensi pendidikan Islam—mulai dari fondasi epistemologi syariat, metodologi penempaan jasad-akal-hati-ruh, aktivasi cara belajar fitrah, pentahapan etape usia pendidik, hingga mata rantai kausalitas penumbuhan kesadaran beramal mandiri.
+> **Definisi Inti:** Master Hub Arsitektur Pendidikan Karakter Nabawiyah (PKN) adalah cetak biru navigasi makro holistik yang mengintegrasikan seluruh dimensi pendidikan Islam—mulai dari fondasi epistemologi syariat, metodologi penempaan jasad-akal-hati-ruh, aktivasi cara belajar fitrah, pentahapan fase usia pendidik, hingga mata rantai kausalitas penumbuhan kesadaran beramal mandiri.
 > * **Formula Inti Manhaj:** Perubahan amal lahiriah (*What*) bersumber dari penalaran ilmu yang lurus (*How*), yang bermula dari kekokohan iman dan keterikatan cinta batin (*Why*).
 > * **Mata Rantai Nilai (*Value Chain*):** `Jiwa Pendidik ➔ Peran Pendidik ➔ Metode Mendidik ➔ Materi Pendidikan ➔ Implementasi Kelembagaan`.
 > * **Tujuan Akhir:** Menghasilkan generasi pemuda mukallaf yang *Sholih* (selamat pribadi dalam ibadah & tauhid) dan *Muslih* (pelopor peradaban yang memberi manfaat luas bagi ummah).
@@ -132,12 +132,12 @@ Master Hub ini mengoordinasikan 6 sektor fungsional yang saling mengunci (*inter
 * **Navigasi Rinci:** [[03 - Peran Pembelajaran & Model]]
 
 ### Sektor 4: Peran Pendidik & Kedisiplinan
-* **Fokus:** Piramida Spasial 4 Etape Usia (*Thufulah*, *Tamyiz*, *Murahaqah*, *Syabab*), Tiga Bahasa Pengasuhan (Hati, Lisan, Tangan), Zonasi Toleransi Perilaku *Al-Hima* (Hijau, Kuning, Merah), dan Kurva Kedisiplinan Wasathiyah.
+* **Fokus:** Piramida Spasial 4 Fase Usia (*Thufulah*, *Tamyiz*, *Murahaqah*, *Syabab*), Tiga Bahasa Pengasuhan (Hati, Lisan, Tangan), Zonasi Toleransi Perilaku *Al-Hima* (Hijau, Kuning, Merah), dan Kurva Kedisiplinan Wasathiyah.
 * **Intisari:** Menerapkan kaidah emas disiplin nabawi: memberikan toleransi pemaafan 100% di usia dini (*Thufulah*), membimbing nalar di usia *Tamyiz*, menegakkan batas syariat di usia *Murahaqah*, hingga melahirkan mukallaf mandiri di usia *Syabab*.
 * **Navigasi Rinci:** [[04 - Peran Pendidik & Kedisiplinan]]
 
 ### Sektor 5: Jejak Pendidik & Target Capaian
-* **Fokus:** Etape Capaian Santri Menuju Pribadi Sholih & Muslih, Formula Rukun 3A Bakat (*Suka*, *Bisa*, *Berguna*), Transisi Peran Gender Ayah-Bunda (*Penyayang*, *Pengajar*, *Raja Tega*), dan Alur Transformasi Peradaban.
+* **Fokus:** Fase Capaian Santri Menuju Pribadi Sholih & Muslih, Formula Rukun 3A Bakat (*Suka*, *Bisa*, *Berguna*), Transisi Peran Gender Ayah-Bunda (*Penyayang*, *Pengajar*, *Raja Tega*), dan Alur Transformasi Peradaban.
 * **Intisari:** Memandu transisi peran kelekatan anak laki-laki dan perempuan kepada ayah dan bundanya secara bergantian sesuai kebutuhan psikologis fitrah mukallaf.
 * **Navigasi Rinci:** [[05 - Jejak Pendidik & Target]]
 
@@ -155,7 +155,7 @@ Master Hub ini mengoordinasikan 6 sektor fungsional yang saling mengunci (*inter
 | **01 (Komponen)** | **02 (Metode)** | Epistemologi Wahyu $\to$ Pemahaman Jiwa | Teori syariat diturunkan menjadi cara memperlakukan jasad, akal, dan qalb anak. |
 | **02 (Metode)** | **03 (Pembelajaran)** | Orientasi Proses $\to$ Aktivasi Belajar | Penempaan dimensi ruh diwujudkan melalui eksplorasi alam dan proyek minat bakat. |
 | **03 (Pembelajaran)**| **04 (Kedisiplinan)** | Eksplorasi Alam $\to$ Penegakan Batas (*Hima*) | Kebebasan fitrah dipagari oleh batas syariat mutlak sesuai tingkat kematangan nalar anak. |
-| **04 (Kedisiplinan)** | **05 (Target)** | Pentahapan Disiplin $\to$ Pencapaian Etape | Disiplin bertahap memastikan anak lulus etape *Thufulah*, *Tamyiz*, hingga mandiri di *Syabab*. |
+| **04 (Kedisiplinan)** | **05 (Target)** | Pentahapan Disiplin $\to$ Pencapaian Fase | Disiplin bertahap memastikan anak lulus fase *Thufulah*, *Tamyiz*, hingga mandiri di *Syabab*. |
 | **05 (Target)** | **06 (Implementasi)**| Visi Sholih & Muslih $\to$ Standarisasi Sekolah | Cita-cita melahirkan generasi pelopor diterjemahkan ke dalam 8 standar mutu operasional lembaga. |
 | **06 (Implementasi)**| **01 (Komponen)** | Umpan Balik Lapangan $\to$ Refleksi Manhaj | Praktik KBM di sekolah memperkaya khazanah implementasi kurikulum Maqashid Syari'ah. |
 
@@ -225,7 +225,7 @@ Setiap kelemahan dalam ekosistem pendidikan dapat dilacak pada ketidakseimbangan
     </div>
   </div>
   <div class="wiki-navbox-group">
-    <div class="wiki-navbox-label">Fondasi & Etape</div>
+    <div class="wiki-navbox-label">Fondasi & Fase</div>
     <div class="wiki-navbox-links">
       <a href="/content/Tangki Cinta">Tangki Cinta</a> <span class="wiki-navbox-sep">•</span>
       <a href="/content/Thufulah">Thufulah (0–7 Th)</a> <span class="wiki-navbox-sep">•</span>

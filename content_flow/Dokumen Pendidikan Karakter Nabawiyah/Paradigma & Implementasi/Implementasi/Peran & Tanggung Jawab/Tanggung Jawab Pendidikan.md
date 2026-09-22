@@ -22,7 +22,7 @@ flowchart TD
     end
 
     subgraph S3["3. Metodologi & Penerapan"]
-        N3_1["Pembagian Tanggung Jawab Pendidikan Lintas Etape<br/>Usia<br/>- Etape Thufulah (0–7 Tahun): Hak mutlak kelekatan ibu dalam<br/>hadhanah; ayah menjamin nafkah halal dan stabilitas<br/>ketenangan rumah tangga.<br/>- Etape Tamyiz (7–10 Tahun): Ayah mulai memimpin edukasi<br/>ibadah shalat dan memantau interaksi sosial; ibu mendampingi<br/>kebiasaan adab harian."]
+        N3_1["Pembagian Tanggung Jawab Pendidikan Lintas Fase<br/>Usia<br/>- Fase Thufulah (0–7 Tahun): Hak mutlak kelekatan ibu dalam<br/>hadhanah; ayah menjamin nafkah halal dan stabilitas<br/>ketenangan rumah tangga.<br/>- Fase Tamyiz (7–10 Tahun): Ayah mulai memimpin edukasi<br/>ibadah shalat dan memantau interaksi sosial; ibu mendampingi<br/>kebiasaan adab harian."]
         N3_2["Instrumen Observasi Terapan & Lembar Evaluasi<br/>Diri (Self-Assessment)<br/>- 1. Rubrik Audit Tanggung Jawab Pendidikan<br/>Keluarga<br/>- 2. Tiga Pertanyaan Reflektif Orang Tua"]
         N3_1 --> N3_2
     end

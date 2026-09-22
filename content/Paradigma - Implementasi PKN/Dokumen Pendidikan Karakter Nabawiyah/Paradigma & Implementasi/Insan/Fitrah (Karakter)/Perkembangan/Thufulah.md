@@ -162,16 +162,16 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 
 ---
 
-## Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun)
+## Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun)
 
-![[canvas/Thufulah - Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun).canvas]]
+![[canvas/Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun).canvas]]
 
 ---
 
 ## 6. Tautan Konseptual Terkait
 * [[Perkembangan]] — Peta Holistik 4 Tahapan Usia Nabawiyah.
 * [[Bahasa Hati]] — Seni Komunikasi Utama Usia 0–7 Tahun.
-* [[Tamyiz]] — Etape Berikutnya: Usia 7–10 Tahun.
+* [[Tamyiz]] — Fase Berikutnya: Usia 7–10 Tahun.
 * [[Tangki Cinta]] — Mekanisme Psikospiritual Ketahanan Diri Anak.
 
 ---
@@ -205,7 +205,7 @@ Saat anak menginjak usia 7 tahun, pastikan ia memiliki modalitas batiniah beriku
 
 ## 4. Karakteristik Belajar & Kepribadian Anak Usia Dini (Manhaj Temu Lembaga PKN)
 
-Berdasarkan naskah kurikulum *Materi Temu Lembaga PKN: Mendidik Sesuai Fase Perkembangan Anak (Etape Thufulah 0–7 Tahun)*, cara anak usia dini memproses dunia sangat berbeda dengan cara berpikir orang dewasa:
+Berdasarkan naskah kurikulum *Materi Temu Lembaga PKN: Mendidik Sesuai Fase Perkembangan Anak (Fase Thufulah 0–7 Tahun)*, cara anak usia dini memproses dunia sangat berbeda dengan cara berpikir orang dewasa:
 
 ### A. Tiga Kondisi Alami Anak 0–7 Tahun
 1. **Egosentris:** Memandang dunia dari sudut pandang dirinya sendiri. Belum mampu memahami konsep empati abstrak atau berbagi kepemilikan tanpa rasa aman.
@@ -276,7 +276,7 @@ Slide kurikulum resmi *Mendidik Sesuai Fase Perkembangan Anak (Slide 115)* merum
 > Pembahasan dalam artikel ini bersumber langsung dari materi tayang pelatihan dan dokumen kurikulum resmi PKN oleh **Ustadz Abdul Kholiq**:
 >
 > - **Materi:** *2. Mendidik Sesuai Fase Perkembangan Anak*
->   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Etape Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
+>   - 📖 **Rujukan Slide:** Slide Hal. 15–58 (Karakteristik 4 Fase Usia Nabawiyah: Thufulah 0-7, Tamyiz 7-10, Murahaqah 10-15, Syabab 15+)
 >   - 🔗 **Akses Berkas:** [📊 Unduh PPTX Asli (12.1 MB)](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=1) • [👁️ Buka di Dropbox](https://www.dropbox.com/scl/fi/3pr5u8ruro2a2n0b8nt33/2.-Mendidik-Sesuai-Fase-Perkembangan-Anak.pptx?rlkey=0twhm1fguyn6vyu77p9q2g7p1&dl=0)
 >
 > - **Materi:** *Mendidik Generasi Alfa & Transisi Pubertas (All About Puberty)*
@@ -383,7 +383,7 @@ Slide kurikulum resmi *Mendidik Sesuai Fase Perkembangan Anak (Slide 115)* merum
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

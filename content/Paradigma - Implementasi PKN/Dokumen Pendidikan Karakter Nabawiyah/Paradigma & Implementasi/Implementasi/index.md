@@ -172,14 +172,14 @@ Untuk memulai implementasi PKN tanpa rasa kewalahan (*overwhelmed*), lakukan lan
 
 ---
 
-## Alur Implementasi Kurikulum PKN Berdasarkan 4 Etape Usia
+## Alur Implementasi Kurikulum PKN Berdasarkan 4 Fase Usia
 
-Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti 4 etape penciptaan:
+Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti 4 fase penciptaan:
 
-1. **Etape Thufulah (Taman Fitrah 0–7 Th):** Penanaman cinta kepada Allah dan Rasul-Nya melalui keindahan ciptaan-Nya; bebas dari tekanan hafalan tanpa makna.
-2. **Etape Tamyiz (Sekolah Adab 7–10 Th):** Penguatan rukun iman, tata cara ibadah bersuci dan shalat, serta penjelajahan sifat-sifat bakat dominan.
-3. **Etape Murahaqah (Kawah Kepemimpinan 10–15 Th):** Pengasahan keterampilan spesifik, latihan kerja nyata, dan pembentengan syahwat serta muru'ah.
-4. **Etape Syabab (Akademi Mandiri 15+ Th):** Integrasi ilmu syar'i dan kepakaran duniawi untuk melahirkan karya monumental penopang kejayaan umat.
+1. **Fase Thufulah (Taman Fitrah 0–7 Th):** Penanaman cinta kepada Allah dan Rasul-Nya melalui keindahan ciptaan-Nya; bebas dari tekanan hafalan tanpa makna.
+2. **Fase Tamyiz (Sekolah Adab 7–10 Th):** Penguatan rukun iman, tata cara ibadah bersuci dan shalat, serta penjelajahan sifat-sifat bakat dominan.
+3. **Fase Murahaqah (Kawah Kepemimpinan 10–15 Th):** Pengasahan keterampilan spesifik, latihan kerja nyata, dan pembentengan syahwat serta muru'ah.
+4. **Fase Syabab (Akademi Mandiri 15+ Th):** Integrasi ilmu syar'i dan kepakaran duniawi untuk melahirkan karya monumental penopang kejayaan umat.
 
 ---
 
@@ -332,7 +332,7 @@ Implementasi kurikulum PKN di lapangan bergerak linear namun fleksibel mengikuti
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

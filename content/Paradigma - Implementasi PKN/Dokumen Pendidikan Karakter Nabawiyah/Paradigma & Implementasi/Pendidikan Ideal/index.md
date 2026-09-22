@@ -140,14 +140,14 @@ Untuk merealisasikan pendidikan ideal yang memerdekakan fitrah anak, PKN merumus
 
 ---
 
-## Arsitektur Pendidikan Ideal Berdasarkan 4 Etape Usia
+## Arsitektur Pendidikan Ideal Berdasarkan 4 Fase Usia
 
 Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, bukan ambisi kurikulum manusia:
 
-1. **Etape Thufulah (0–7 Th):** Rumah cinta dan kelekatan; bermain adalah sarana belajar terbaik.
-2. **Etape Tamyiz (7–10 Th):** Sekolah dasar kehidupan; pembiasaan shalat, adab bertutur, dan penemuan bakat.
-3. **Etape Murahaqah (10–15 Th):** Ma'had tarbiyah dan pemagangan; penempaan daya juang (*adversity quotient*) dan ketahanan syahwat.
-4. **Etape Syabab (15+ Th):** Universitas peradaban; kemandirian karya, penegakan sunnah, dan pembinaan keluarga sakinah.
+1. **Fase Thufulah (0–7 Th):** Rumah cinta dan kelekatan; bermain adalah sarana belajar terbaik.
+2. **Fase Tamyiz (7–10 Th):** Sekolah dasar kehidupan; pembiasaan shalat, adab bertutur, dan penemuan bakat.
+3. **Fase Murahaqah (10–15 Th):** Ma'had tarbiyah dan pemagangan; penempaan daya juang (*adversity quotient*) dan ketahanan syahwat.
+4. **Fase Syabab (15+ Th):** Universitas peradaban; kemandirian karya, penegakan sunnah, dan pembinaan keluarga sakinah.
 
 ---
 
@@ -321,7 +321,7 @@ Pendidikan ideal adalah pendidikan yang tunduk pada tahapan fitrah penciptaan, b
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

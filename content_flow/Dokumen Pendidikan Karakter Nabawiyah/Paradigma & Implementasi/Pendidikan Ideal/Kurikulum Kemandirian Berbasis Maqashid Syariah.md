@@ -24,7 +24,7 @@ flowchart TD
     end
 
     subgraph S4["4. Evaluasi & Output"]
-        N4_1["6. Integrasi 3 Rukun Bakat Nabawiyah Lintas Fase<br/>Usia<br/>- Rukun 1: Suka (Al-Hirsh) — Etape Thufulah (0–7 Tahun)<br/>- Rukun 2: Bisa (Al-Itqan) — Etape Tamyiz (7–10 Tahun)"]
+        N4_1["6. Integrasi 3 Rukun Bakat Nabawiyah Lintas Fase<br/>Usia<br/>- Rukun 1: Suka (Al-Hirsh) — Fase Thufulah (0–7 Tahun)<br/>- Rukun 2: Bisa (Al-Itqan) — Fase Tamyiz (7–10 Tahun)"]
         N4_2["7. Muara Akhir: Kesadaran Beretika dengan Target<br/>Akhirat<br/>- Ibadah ritual menjadi kenikmatan kalbu (Lazzatul Ibadah).<br/>- Kemandirian mencari nafkah menjadi ibadah 'amalul yad<br/>pemakmur bumi."]
         N4_1 --> N4_2
     end

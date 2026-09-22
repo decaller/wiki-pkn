@@ -99,9 +99,9 @@ Jika anak diajarkan Al-Qur'an sebelum iman tertanam:
 ![Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)](/assets/slides/slide-prioritas-iman-quran.webp)
 *Prioritas Pendidikan Nabawiyah: Menanamkan Iman Sebelum Al-Qur'an (Atsar Jundub bin Abdillah)*
 
-Pendidikan Karakter Nabawiyah menyelaraskan kurikulum keimanan dengan etape perkembangan psikologis anak:
+Pendidikan Karakter Nabawiyah menyelaraskan kurikulum keimanan dengan fase perkembangan psikologis anak:
 
-| Etape Usia | Fase PKN | Fokus Utama Keimanan | Instrumen Pedagogis |
+| Fase Usia | Fase PKN | Fokus Utama Keimanan | Instrumen Pedagogis |
 |---|---|---|---|
 | **0 – 7 Tahun** | [[Thufulah]] | **Mengenalkan Allah Maha Pengasih & Maha Indah:** Menghubungkan setiap nikmat hidup dengan kebaikan Allah. Memenuhi [[Tangki Cinta]] anak. Belum ada beban taklif hukum. | [[Bahasa Hati]]: Pelukan, dongeng kisah Nabi yang penuh teladan kasih sayang, tadabbur keindahan ciptaan Allah di alam bebas. |
 | **7 – 10 Tahun** | [[Tamyiz]] | **Membangun Kebiasaan Shalat dengan Dialog Hikmah:** Mengajarkan shalat pada usia 7 tahun secara bertahap dan menyenangkan, menjelaskan makna bacaan, menanamkan rasa syukur. | [[Bahasa Lisan]]: Dialog interaktif, kisah kepahlawanan sahabat, pembelajaran adab wudhu dan shalat berjamaah. |
@@ -135,7 +135,7 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 | Dimensi Penghayatan | Gejala Sikap yang Teramati | Dampak Psikospiritual pada Anak |
 | :--- | :--- | :--- |
 | **Tafrith (Materialisme Kering / Sekuler)** | Mengabaikan aspek ruhani, mendidik anak tanpa orientasi akhirat, dan memandang manusia hanya sebagai entitas biologis-ekonomi. | Jiwa anak gersang, mudah cemas, mengukur kemuliaan hanya dari materi, dan rentan krisis eksistensial. |
-| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba etape kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
+| **Ifrath (Spiritualisme Ekstrem / Ghuluw)** | Menafikan kebutuhan fisik jasmani, melarang anak bermain secara wajar, dan memaksakan kezuhudan sebelum tiba fase kematangan akal. | Anak tertekan, memendam kebencian pada simbol agama, atau mengalami disorientasi sosial di masyarakat. |
 | **Al-Wasathiyah (Keseimbangan Fitrah Nabawi)** | Memadukan pemenuhan hak jasad secara halal dengan nutrisi ruhani yang berbobot, menempatkan dunia sebagai ladang akhirat. | Terbentuk kepribadian mukmin paripurna: sehat jasmaninya, cerdas akalnya, suci jiwanya (*muthmainnah*), dan berkontribusi nyata bagi umat. |
 
 ---
@@ -163,7 +163,7 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 * [[Tangki Cinta]] — Wadah emosional kasih sayang prasyarat melebarnya keimanan.
 * [[Belajar]] — Mengembangkan fitrah akal dan nalar tadabbur Al-Qur'an.
 * [[Thufulah]] — Fase keemasan penyemaian cinta Allah dan Rasul-Nya (0–7 tahun).
-* [[Tamyiz]] — Etape penegakan shalat dan logika tauhid (7–10 tahun).
+* [[Tamyiz]] — Fase penegakan shalat dan logika tauhid (7–10 tahun).
 
 ---
 
@@ -256,7 +256,7 @@ Rasulullah ﷺ senantiasa menggunakan momentum keseharian yang rileks untuk mena
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

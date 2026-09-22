@@ -126,7 +126,7 @@ Berdasarkan dokumen master *Kaidah Implementasi PKN dalam Berbagai Lembaga*, ter
 
 ## 2. Empat Tingkatan Evolusi Kelembagaan Menuju PKN
 
-Dokumen *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* membagi etape adopsi ke dalam 4 tingkatan terukur:
+Dokumen *Panduan Implementasi Standar PKN pada Lembaga Pendidikan Islam* membagi fase adopsi ke dalam 4 tingkatan terukur:
 
 | Tingkatan Adopsi | Ruang Lingkup Perubahan | Fokus Aksi Manajemen | Sasaran Utama |
 |---|---|---|---|
@@ -192,9 +192,9 @@ Berdasarkan klausul audit resmi, terdapat 6 standar penjaminan mutu kelembagaan 
 
 ---
 
-## Penerapan Kaidah Lembaga Berdasarkan Etape Usia Nabawiyah
+## Penerapan Kaidah Lembaga Berdasarkan Fase Usia Nabawiyah
 
-Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga SMA/Aliyah) wajib mengadaptasi desain kurikulum berbasis etape usia nabawi (*maraji': Al-Fatawa al-Kubra Ibnu Taimiyah & Ihya Ulumiddin Al-Ghazali*):
+Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga SMA/Aliyah) wajib mengadaptasi desain kurikulum berbasis fase usia nabawi (*maraji': Al-Fatawa al-Kubra Ibnu Taimiyah & Ihya Ulumiddin Al-Ghazali*):
 
 1. **Jenjang PAUD/TK (Fase Thufulah 0–7 Tahun):**
    * Bebas dari target calistung kaku dan beban ujian akademik; sekolah adalah taman bermain alami yang merawat fitrah keimanan dan kebahagiaan belajar.
@@ -352,7 +352,7 @@ Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

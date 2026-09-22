@@ -16,7 +16,7 @@ tags:
 
 > [!SUMMARY] Ringkasan Eksekutif & Panduan Editor
 > **Tujuan Dokumen:** Berfungsi sebagai *Command Center* bagi editor di Obsidian untuk menavigasi, menyunting, dan menautkan halaman secara instan.
-> * **Total Halaman Markdown:** 353 artikel aktif
+> * **Total Halaman Markdown:** 383 artikel aktif
 > * **Total Bagan Obsidian Canvas:** 96 bagan visual interaktif
 > * **Format Navigasi:** Hierarki pohon terstruktur dilengkapi penanda badge kanvas `[🎨 Canvas]` dan tautan silang dua arah `[[...]]`.
 
@@ -42,6 +42,7 @@ Berikut adalah 6 Sektor Arsitektur Makro PKN yang berkorespondensi 1-to-1 dengan
 Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi insan, metodologi pendidikan nabawiyah, hingga tata kelola kelembagaan:
 
 - 📄 [[index|Home]]
+- 📄 [[Glosarium Istilah Karakter Nabawiyah|Glosarium Istilah Karakter Nabawiyah (Kamus Resmi PKN)]]
 - 📄 [[PKN Blueprint Arsitektur Sistem|PKN Blueprint: Arsitektur Sistem]] `[🎨 Canvas: PKN Blueprint Arsitektur Siste...]`
 - 📂 **Insan** *(Folder/Topik)*
   - 📄 [[Tujuan Hidup Manusia|Tujuan Hidup Manusia]] `[🎨 Canvas: Tujuan Hidup Manusia - Visuali...]`
@@ -131,7 +132,7 @@ Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi in
     - 📄 [[8 Standar Implementasi PKN|8 Standar Implementasi PKN]] `[🎨 Canvas: Standar Implementasi PKN - 🏛️ ...]`
     - 📄 [[Panduan RPP dan Observasi Lapangan|Panduan RPP dan Observasi Lapangan]] `[🎨 Canvas: Panduan RPP dan Observasi Lapa...]`
   - 📂 **Internal & Eksternal** *(Folder/Topik)*
-    - 📄 [[Tazkiyatun Nafs|Tazkiyatun Nafs]] `[🎨 Canvas: Tazkiyatun Nafs - Dua Etape Ta...]`
+    - 📄 [[Tazkiyatun Nafs|Tazkiyatun Nafs]] `[🎨 Canvas: Tazkiyatun Nafs - Dua Fase Ta...]`
     - 📄 [[Tawakkal dan Doa|Tawakkal dan Doa]] `[🎨 Canvas: Tawakkal dan Doa - Memahami Te...]`
   - 📂 **Peran & Tanggung Jawab** *(Folder/Topik)*
     - 📄 [[Tanggung Jawab Pendidikan|Tanggung Jawab Pendidikan]] `[🎨 Canvas: Tanggung Jawab Pendidikan - Vi...]`
@@ -219,7 +220,7 @@ Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum m
 | 46 | **Menumbuhkan Kesadaran Beramal - Menghadapi Tanah Keras - Komunikasi 3 Bahasa** | ![[canvas/Menumbuhkan Kesadaran Beramal - Menghadapi Tanah Keras - Komunikasi 3 Bahasa.canvas]] |
 | 47 | **Menumbuhkan Kesadaran Beramal - Metafora Pertanian - Mendidik Layaknya Bertani** | ![[canvas/Menumbuhkan Kesadaran Beramal - Metafora Pertanian - Mendidik Layaknya Bertani.canvas]] |
 | 48 | **Metode Mendidik - Arsitektur Piramida Tiga Bahasa Pengasuhan** | ![[canvas/Metode Mendidik - Arsitektur Piramida Tiga Bahasa Pengasuhan.canvas]] |
-| 49 | **Murahaqah - Visualisasi Tangga Kesiapan Baligh Etape Murahaqah (10–15 Tahun)** | ![[canvas/Murahaqah - Visualisasi Tangga Kesiapan Baligh Etape Murahaqah (10–15 Tahun).canvas]] |
+| 49 | **Murahaqah - Visualisasi Tangga Kesiapan Baligh Fase Murahaqah (10–15 Tahun)** | ![[canvas/Murahaqah - Visualisasi Tangga Kesiapan Baligh Fase Murahaqah (10–15 Tahun).canvas]] |
 | 50 | **Muthmainnah - Karakteristik Nafsul Muthmainnah dalam Diri Anak** | ![[canvas/Muthmainnah - Karakteristik Nafsul Muthmainnah dalam Diri Anak.canvas]] |
 | 51 | **PKN Blueprint Arsitektur Sistem - Arsitektur Tangki Cinta** | ![[canvas/PKN Blueprint Arsitektur Sistem - Arsitektur Tangki Cinta.canvas]] |
 | 52 | **PKN Blueprint Arsitektur Sistem - Implementasi — 4 Langkah Berurutan** | ![[canvas/PKN Blueprint Arsitektur Sistem - Implementasi — 4 Langkah Berurutan.canvas]] |
@@ -260,12 +261,12 @@ Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum m
 | 87 | **Syabab - Standar Pendewasaan Kelembagaan (Klausul 10 Standar PKN 11 - 2024)** | ![[canvas/Syabab - Standar Pendewasaan Kelembagaan (Klausul 10 Standar PKN 11 - 2024).canvas]] |
 | 88 | **Syabab - Tiga Pilar Kemandirian Pemuda Mukallaf PKN** | ![[canvas/Syabab - Tiga Pilar Kemandirian Pemuda Mukallaf PKN.canvas]] |
 | 89 | **Syabab - Tiga Pilar Kesiapan Mukallaf Mandiri** | ![[canvas/Syabab - Tiga Pilar Kesiapan Mukallaf Mandiri.canvas]] |
-| 90 | **Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Etape Tamyiz (7–10 Tahun)** | ![[canvas/Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Etape Tamyiz (7–10 Tahun).canvas]] |
+| 90 | **Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Fase Tamyiz (7–10 Tahun)** | ![[canvas/Tamyiz - Visualisasi Gerbang Nalar & Pembiasaan Adab Fase Tamyiz (7–10 Tahun).canvas]] |
 | 91 | **Tanggung Jawab Pendidikan - Visualisasi Sinergi Tripartit Tanggung Jawab Pendidi** | ![[canvas/Tanggung Jawab Pendidikan - Visualisasi Sinergi Tripartit Tanggung Jawab Pendidi.canvas]] |
 | 92 | **Tangki Cinta - Patologi Tangki Cinta Kosong - Pintu Masuk Kehancuran Karakter** | ![[canvas/Tangki Cinta - Patologi Tangki Cinta Kosong - Pintu Masuk Kehancuran Karakter.canvas]] |
 | 93 | **Tawakkal dan Doa - Memahami Teologi Hidayah - Irsyad vs Taufiq** | ![[canvas/Tawakkal dan Doa - Memahami Teologi Hidayah - Irsyad vs Taufiq.canvas]] |
-| 94 | **Tazkiyatun Nafs - Dua Etape Tazkiyatun Nafs - Takhalli dan Tahalli** | ![[canvas/Tazkiyatun Nafs - Dua Etape Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]] |
-| 95 | **Thufulah - Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun)** | ![[canvas/Thufulah - Visualisasi Dinamika Fitrah Etape Thufulah (0–7 Tahun).canvas]] |
+| 94 | **Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli** | ![[canvas/Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]] |
+| 95 | **Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun)** | ![[canvas/Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun).canvas]] |
 | 96 | **Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa** | ![[canvas/Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa.canvas]] |
 
 </details>

@@ -293,7 +293,7 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 | :--- | :--- | :--- |
 | **Identifikasi Gejala** | Perilaku tampak apa yang meresahkan (tantrum, membantah, malas)? | |
 | **Pemeriksaan Tangki Cinta** | Kapan terakhir kali anak merasa benar-benar dicintai tanpa syarat? | |
-| **Deteksi Etape Usia** | Apakah tuntutan kita sudah sesuai dengan kapasitas usianya? | |
+| **Deteksi Fase Usia** | Apakah tuntutan kita sudah sesuai dengan kapasitas usianya? | |
 | **Pemetaan Bakat Terdistorsi** | Apakah perilaku buruk tersebut sebenarnya luapan energi bakat yang tersumbat? | |
 
 ### 2. Tiga Pertanyaan Reflektif
@@ -410,7 +410,7 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

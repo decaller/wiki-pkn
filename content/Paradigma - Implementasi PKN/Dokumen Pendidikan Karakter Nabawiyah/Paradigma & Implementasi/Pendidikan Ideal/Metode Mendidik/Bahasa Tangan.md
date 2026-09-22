@@ -162,7 +162,7 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 
 ## 6. Tautan Konseptual Terkait
 * [[Metode Mendidik]] — Peta Lengkap Tiga Bahasa Pengasuhan.
-* [[Murahaqah]] — Etape Usia 10–15 Tahun dan Batas Taklif Baligh.
+* [[Murahaqah]] — Fase Usia 10–15 Tahun dan Batas Taklif Baligh.
 * [[Batas Toleransi]] — Kapan Toleransi Diberikan dan Kapan Ketegasan Ditegakkan.
 * [[Disiplin Positif PKN]] — Arsip Induk Pedoman Disiplin Nabawiyah.
 
@@ -321,7 +321,7 @@ Bahasa Tangan dalam dunia modern tidak harus selalu bermakna pukulan fisik. Para
 * [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 
 ---
 

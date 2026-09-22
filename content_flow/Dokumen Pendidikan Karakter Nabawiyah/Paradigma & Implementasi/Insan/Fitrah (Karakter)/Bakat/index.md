@@ -27,7 +27,7 @@ flowchart TD
         N3_1["6. Kaidah Emas Pembinaan Bakat<br/>- A. Fokus pada Kekuatan, Siasati Kelemahan<br/>- B. Bahaya Penjurusan Prematur"]
         N3_2["7. Enam Kategori Bakat Utama (Level 6)<br/>- Bekerja Keras (الحَمَاسَة): Introvert + Karsa — Daya tahan<br/>fisik, ambisi tinggi, tekad membaja.<br/>- Berpikir (التَّفْكِيْر): Introvert + Cipta — Ketajaman<br/>analisa nalar, perumusan hikmah, kreativitas solusi."]
         N3_1 --> N3_2
-        N3_3["8. Ashabus Rasul: Mahkota & Bukti Empiris Sejarah<br/>Fitrah Bakat<br/>- Matriks Akbar 40 Pilar Bakat TB-40 vs. Figur<br/>Sahabat Nabi ﷺ (Archetype Matrix)<br/>- Pedagogi Nabawi: Storytelling Sahabat<br/>Berbasis Profil Bakat Anak<br/>- Rasulullah ﷺ Mendidik di Atas Poros Keunikan Fadhilah:"]
+        N3_3["8. Ashabus Rasul: Mahkota & Bukti Empiris Sejarah<br/>Fitrah Bakat<br/>- Matriks Akbar 40 Pilar Bakat TB-40 vs. Figur<br/>Sahabat Nabi ﷺ (Matriks Teladan Sahabat)<br/>- Pedagogi Nabawi: Storytelling Sahabat<br/>Berbasis Profil Bakat Anak<br/>- Rasulullah ﷺ Mendidik di Atas Poros Keunikan Fadhilah:"]
         N3_2 --> N3_3
     end
 
