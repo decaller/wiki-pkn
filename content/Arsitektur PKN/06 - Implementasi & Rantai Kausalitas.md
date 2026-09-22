@@ -14,23 +14,25 @@ aliases:
   - "8 Standar Lembaga PKN"
 ---
 
-<!-- ========================================================================== -->
-<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
-<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER & ACTION BAR -->
 
 # ⚡ Implementasi & Rantai Kausalitas Pendidikan Karakter Nabawiyah
 
 <div class="wiki-action-bar">
   <span class="wiki-action-item active">📖 Baca</span>
-  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
-  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Arsitektur%20PKN/06%20-%20Implementasi%20&%20Rantai%20Kausalitas.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
-  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Arsitektur%20PKN/06%20-%20Implementasi%20&%20Rantai%20Kausalitas.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
-  <span class="wiki-action-meta">Otoritas: Tier 1 (Active Truth) • Sektor 06 Arsitektur PKN</span>
+  <a href="#diskusi" class="wiki-action-item">💬 Diskusi</a>
+  <a href="#sunting" class="wiki-action-item">✏️ Sunting</a>
+  <a href="#riwayat" class="wiki-action-item">📜 Riwayat</a>
+  <span class="wiki-action-meta">Tier 1: Active Truth</span>
 </div>
 
-<!-- ========================================================================== -->
-<!-- ZONA 2: AREA KONTEN UTAMA, INFOBOX, LEAD SECTION & BATANG TUBUH            -->
-<!-- ========================================================================== -->
+<!-- ZONA 2: KONTEN UTAMA & INFOBOX -->
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Definisi Inti:** Implementasi & Rantai Kausalitas PKN adalah kerangka operasional sistemik yang membedah mekanisme ilmiah dan ruhani di balik lahirnya kesadaran beramal mandiri santri melalui lima tingkatan sebab-akibat (pengorbanan pendidik $\to$ kepercayaan anak $\to$ cinta amal $\to$ ilmu fadhilah $\to$ amal ikhlas), dimotori oleh sistem hidrolik tangki cinta, dipandu 4 kaidah emas, dan distandarisasi ke dalam 8 standar kelembagaan.
+> * **Metafora Inti:** *"Mendidik Layaknya Bertani"*. Pendidik wajib menyirami akar iman di bawah tanah sebelum menuntut rimbunnya daun adab dan manisnya buah amal.
+> * **Empat Kaidah Emas Operasional:** `At-Tadarruj (Pentahapan Alami) • Al-Washlu qablal Qath' (Koneksi Sebelum Koreksi) • Al-Qudwah qablad Da'wah (Keteladanan Sebelum Tuntutan) • Ta'zizul Quwwah (Fokus Melejitkan Bakat)`.
+> * **Standar Penjaminan Mutu:** 8 Standar Lembaga PKN menjamin transformasi sekolah Islam dari pabrik penyeragaman menjadi ekosistem ramah fitrah yang bersinergi utuh bersama Ayah dan Bunda.
 
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 06: Implementasi Kausalitas</div>
@@ -72,12 +74,6 @@ aliases:
     </tr>
   </table>
 </div>
-
-> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
-> **Definisi Inti:** Implementasi & Rantai Kausalitas PKN adalah kerangka operasional sistemik yang membedah mekanisme ilmiah dan ruhani di balik lahirnya kesadaran beramal mandiri santri melalui lima tingkatan sebab-akibat (pengorbanan pendidik $\to$ kepercayaan anak $\to$ cinta amal $\to$ ilmu fadhilah $\to$ amal ikhlas), dimotori oleh sistem hidrolik tangki cinta, dipandu 4 kaidah emas, dan distandarisasi ke dalam 8 standar kelembagaan.
-> * **Metafora Inti:** *"Mendidik Layaknya Bertani"*. Pendidik wajib menyirami akar iman di bawah tanah sebelum menuntut rimbunnya daun adab dan manisnya buah amal.
-> * **Empat Kaidah Emas Operasional:** `At-Tadarruj (Pentahapan Alami) • Al-Washlu qablal Qath' (Koneksi Sebelum Koreksi) • Al-Qudwah qablad Da'wah (Keteladanan Sebelum Tuntutan) • Ta'zizul Quwwah (Fokus Melejitkan Bakat)`.
-> * **Standar Penjaminan Mutu:** 8 Standar Lembaga PKN menjamin transformasi sekolah Islam dari pabrik penyeragaman menjadi ekosistem ramah fitrah yang bersinergi utuh bersama Ayah dan Bunda.
 
 Banyak lembaga pendidikan mengeluhkan santri yang malas shalat, melanggar adab di asrama, atau kehilangan semangat belajar. Respon lazim yang diambil manajemen sekolah biasanya adalah memperketat sanksi, menambah kamera CCTV di setiap sudut lorong, menaikkan denda pelanggaran, atau memperbanyak ceramah instruksi. Namun fakta di lapangan membuktikan bahwa intervensi lahiriah semacam ini tidak pernah menyelesaikan akar masalah—bahkan hanya memicu resistensi bawah tanah yang lebih licik.
 
