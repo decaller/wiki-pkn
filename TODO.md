@@ -411,6 +411,23 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Styling CSS responsive di [`quartz/styles/custom.scss`](quartz/styles/custom.scss) `[SELESAI]`
   - *Perkiraan Token AI:* ~40k - 80k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Standarisasi Templat Halaman Khusus Non-Penjelasan (MediaWiki Technical Namespaces)** `[SELESAI]`
+  - *Deskripsi:* Merancang 8 templat khusus pembeda untuk halaman non-penjelasan sesuai arsitektur MediaWiki:
+    1. **Halaman Disambiguasi:** Format pemilah istilah multitafsir berikon `🔀` dengan navigasi pembeda cepat tanpa uraian panjang.
+    2. **Halaman Pengalihan (Redirect):** Stub rujukan dan pemetaan `aliases` frontmatter untuk variasi sinonim/ejaan lama.
+    3. **Halaman Daftar Terstruktur:** Matriks data padat tabel (TB-40 40 karakter, indeks hadits, direktori sekolah mitra) dengan statistik agregat.
+    4. **Portal Tematik:** Hub kurasi modular berbasis grid kartu untuk pintu masuk rumpun keilmuan besar (Insan, Metode, Praktik, Parenting).
+    5. **Halaman Proyek & Kebijakan (Namespace `Wiki-PKN:`):** Standar tata kelola, aturan redaksi, konsensus dewan, dan batasan HITL.
+    6. **Templat Pemeliharaan (Noticebox):** Box evaluasi modular di atas artikel (butuh takhrij `⚠️`, konsep terdahulu/superseded `🕰️`, artikel rintisan/stub `🌱`).
+    7. **Halaman Berkas / Media:** Dokumentasi metadata aset banner, diagram canvas, dan audio rekaman.
+    8. **Halaman Profil Pengguna / Kontributor:** Biodata asatidzah/guru praktisi + ruang *sandbox* (bak pasir) draf pribadi.
+    9. **Komponen CSS:** Dukungan styling `.wiki-noticebox` dan `.wiki-portal-*` di `quartz/styles/custom.scss`.
+  - *Status Kemajuan:*
+    - [x] Dokumen spesifikasi di [`pipeline_designs/SPECIAL_PAGE_TEMPLATES.md`](pipeline_designs/SPECIAL_PAGE_TEMPLATES.md) `[SELESAI]`
+    - [x] Komponen styling CSS di [`quartz/styles/custom.scss`](quartz/styles/custom.scss) `[SELESAI]`
+    - [x] Referensi indeks di [`pipeline_designs/README.md`](pipeline_designs/README.md) `[SELESAI]`
+  - *Perkiraan Token AI:* ~35k - 70k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).

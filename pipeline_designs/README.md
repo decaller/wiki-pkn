@@ -339,7 +339,8 @@ Untuk menyelesaikan benturan materi antar-dokumen dengan masa rilis dan daur hid
 ## 8. Direktori Dokumen Desain Pipeline
  
 Silakan merujuk ke masing-masing dokumen spesifikasi detail berikut:
-- 📐 **[Standar Progressive Disclosure & Framework Diátaxis](DIATAXIS_PROGRESSIVE_DISCLOSURE.md)** *(Pedoman Format & Anatomi Naskah)*
+- 📐 **[Standar Progressive Disclosure & Framework Diátaxis](DIATAXIS_PROGRESSIVE_DISCLOSURE.md)** *(Pedoman Format & Anatomi Naskah 4 Zona MediaWiki)*
+- 🏛️ **[Standar Templat Halaman Khusus MediaWiki](SPECIAL_PAGE_TEMPLATES.md)** *(Disambiguasi, Redirect, Daftar Terstruktur, Portal, Noticebox, Media, & Kebijakan)*
 - 🧭 **[Evaluasi Penempatan Konten & Navigasi User Journey](CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)** *(Aturan Placement, Pruning & Relokasi Konten)*
 - 🖋️ **[Panduan Gaya Penulisan Ustadz Abdul Kholiq](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)** *(Pedoman Voice, Tone, & 6 Pilar Pedagogis)*
 - 📖 [01. Pipeline Halaman Utama (Portal Indeks)](01_pipeline_halaman_utama.md)

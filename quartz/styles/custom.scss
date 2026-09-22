@@ -408,3 +408,133 @@ article {
     }
   }
 }
+
+// ============================================================================
+// MediaWiki-Style Special Pages & Maintenance Noticeboxes Styling
+// ============================================================================
+
+.wiki-noticebox {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  padding: 0.85rem 1.15rem;
+  margin: 1.25rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+  font-size: 0.88rem;
+  line-height: 1.5;
+
+  .wiki-noticebox-icon {
+    font-size: 1.35rem;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+  }
+
+  .wiki-noticebox-body {
+    flex: 1 1 auto;
+    color: var(--dark);
+
+    b {
+      color: var(--darkgray);
+    }
+  }
+
+  &.wiki-noticebox-disambig {
+    border-left: 4px solid var(--tertiary);
+    background-color: rgba(82, 121, 111, 0.06);
+  }
+
+  &.wiki-noticebox-redirect {
+    border-left: 4px solid var(--secondary);
+    background-color: rgba(45, 106, 79, 0.06);
+  }
+
+  &.wiki-noticebox-policy {
+    border-left: 4px solid #b5838d;
+    background-color: rgba(181, 131, 141, 0.08);
+  }
+
+  &.wiki-noticebox-warning {
+    border-left: 4px solid #e76f51;
+    background-color: rgba(231, 111, 81, 0.08);
+  }
+
+  &.wiki-noticebox-legacy {
+    border-left: 4px solid #e9c46a;
+    background-color: rgba(233, 196, 106, 0.12);
+  }
+
+  &.wiki-noticebox-stub {
+    border-left: 4px solid #52b788;
+    background-color: rgba(82, 183, 136, 0.08);
+  }
+}
+
+// Thematic Portal Grid Styling
+.wiki-portal-banner {
+  padding: 1.75rem 1.25rem;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--secondary), var(--tertiary));
+  color: #ffffff;
+  margin-bottom: 2rem;
+  text-align: center;
+
+  .wiki-portal-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 0.35rem;
+  }
+
+  h1 {
+    color: #ffffff !important;
+    margin: 0 0 0.4rem 0 !important;
+    font-size: 1.85rem;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.95rem;
+    opacity: 0.92;
+  }
+}
+
+.wiki-portal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+
+  .wiki-portal-card {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background-color: var(--light);
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+
+    .wiki-portal-card-header {
+      background-color: var(--highlight);
+      color: var(--secondary);
+      font-weight: 700;
+      padding: 0.65rem 0.95rem;
+      border-bottom: 1px solid var(--lightgray);
+      font-size: 0.95rem;
+    }
+
+    .wiki-portal-card-body {
+      padding: 0.85rem 0.95rem;
+      font-size: 0.88rem;
+      line-height: 1.6;
+
+      ul {
+        margin: 0.5rem 0 0 1.15rem;
+        padding: 0;
+      }
+    }
+  }
+}
