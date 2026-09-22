@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    {
+      "id": "s4-nav-back",
+      "type": "text",
+      "x": -1300,
+      "y": -750,
+      "width": 360,
+      "height": 90,
+      "text": "[[00 - Master Arsitektur PKN.canvas|⬅ Kembali ke Master Hub PKN]]",
+      "color": "5"
+    },
+    {
+      "id": "s4-header",
+      "type": "text",
+      "x": -880,
+      "y": -750,
+      "width": 1780,
+      "height": 130,
+      "text": "# ⚖️ SEKTOR 4: PERAN PENDIDIK & KEDISIPLINAN\n**Piramida Spasial 4 Etape Usia, Tiga Bahasa Pengasuhan, Zonasi Al-Hima & Kurva Kedisiplinan Wasathiyah**\n*Rujukan: [[Batas Toleransi]] • [[Disiplin Positif PKN]] • [[Peran Ayah dan Bunda]] • [[Recovery]]*",
+      "color": "2"
+    },
+    {
+      "id": "grp-s4-piramida",
+      "type": "group",
+      "x": -1300,
+      "y": -580,
+      "width": 1500,
+      "height": 880,
+      "label": "PIRAMIDA PENAHAPAN USIA & TIGA BAHASA PENGASUHAN",
+      "color": "2"
+    },
+    {
+      "id": "s4-pyr-syabab",
+      "type": "text",
+      "x": -770,
+      "y": -520,
+      "width": 440,
+      "height": 150,
+      "text": "### 👨‍🎓 TIER 4: SYABAB (15+ Th / Baligh) — PUNCAK PIRAMIDA\n**Status: Mukallaf Mandiri Penuh (Pena Terangkat)**\n• **Bahasa Kemitraan:** Sahabat musyawarah setara, ukhuwwah dan pendewasaan.\n• **Beban Syariat:** Memikul hisab personal di hadapan Allah SWT.\n• **Toleransi:** **Nol Toleransi Syariat**. Bertanggung jawab penuh atas amal.\n• Rujukan: [[Syabab]] • [[Tujuan Hidup Manusia]]",
+      "color": "4"
+    },
+    {
+      "id": "s4-pyr-murahaqah",
+      "type": "text",
+      "x": -900,
+      "y": -340,
+      "width": 700,
+      "height": 160,
+      "text": "### 🧑 TIER 3: MURAHAQAH (10–15 Th / Pra-Baligh) — KETEGASAN SYARIAT\n**Status: Penegakan Disiplin & Pemagangan Tanggung Jawab Nyata**\n• **Bahasa Tangan:** Ketegasan ta'dib syar'i tanpa kompromi (HR. Abu Dawud No. 495).\n• **Pemisahan:** Pisah tempat tidur, sanksi tegas jika meninggalkan shalat 5 waktu.\n• **Toleransi:** **Paling Sempit** (Masa transisi akhir menuju pintu gerbang hisab baligh).\n• Rujukan: [[Batas Toleransi]] • [[Disiplin Positif PKN]]",
+      "color": "1"
+    },
+    {
+      "id": "s4-pyr-tamyiz",
+      "type": "text",
+      "x": -1050,
+      "y": -150,
+      "width": 1000,
+      "height": 170,
+      "text": "### 👦 TIER 2: TAMYIZ (7–10 Th) — PEMBIASAAN ADAB & NALAR\n**Status: Gerbang Nalar Logis & Pembiasaan Shalat Lembut**\n• **Bahasa Lisan:** Dialog nalar sebab-akibat, nasihat lembut (*maw'izhah hasanah*), penjelasan hikmah.\n• **Perintah Shalat:** Dilatih 3 tahun penuh (5.000+ kali shalat) **TANPA PUKULAN**.\n• **Toleransi:** **Sedang / Longgar** (Fokus pada proses pembiasaan, bukan tuntutan hasil sempurna).\n• Rujukan: [[Belajar]] • [[Pembelajaran Alamiah]]",
+      "color": "3"
+    },
+    {
+      "id": "s4-pyr-thufulah",
+      "type": "text",
+      "x": -1240,
+      "y": 50,
+      "width": 1380,
+      "height": 180,
+      "text": "### 👶 TIER 1: THUFULAH (0–7 Th) — FONDASI MAHABBAH & KELEKATAN\n**Status: Masa Kelekatan Kasih Sayang Murni & Pengisian Penuh Tangki Batin**\n• **Bahasa Hati 100%:** Dekapan hangat, senyuman, kehangatan jiwa, keteladanan visual (*qudwah hasanah*).\n• **Bebas Hisab:** Hak bermain merdeka tuntas; **DILARANG** menghukum fisik & menuntut calistung paksa!\n• **Toleransi:** **Paling Longgar (100% Penuh Pemaafan & Permakluman Fitrah)**.\n• Rujukan: [[Bersatunya Ruh dan Jasad Membentuk Jiwa]] • [[Tangki Cinta]]",
+      "color": "5"
+    },
+    {
+      "id": "grp-s4-zonasi",
+      "type": "group",
+      "x": 260,
+      "y": -580,
+      "width": 680,
+      "height": 420,
+      "label": "TIGA ZONASI TOLERANSI PERILAKU (AL-HIMA)",
+      "color": "1"
+    },
+    {
+      "id": "s4-zonasi-hima",
+      "type": "text",
+      "x": 300,
+      "y": -520,
+      "width": 600,
+      "height": 330,
+      "text": "### 🚦 Tiga Zonasi Toleransi Perilaku (Al-Hima)\n• 🟢 **Zona Hijau (Eksplorasi Fitrah Bebas):**\n  - Perilaku: Bermain lumpur, memanjat pohon, tumpah air saat belajar, berantakan kreatif.\n  - Sikap Pendidik: *Dibiarkan leluasa, didampingi dengan senyuman.*\n• 🟡 **Zona Kuning (Negosiasi Nalar & Pelatihan):**\n  - Perilaku: Lupa waktu bermain, perselisihan kecil antar-saudara, belum rapi adab makan.\n  - Sikap Pendidik: *Bahasa Lisan, dialog nalar sebab-akibat, pengingat adab santun.*\n• 🔴 **Zona Merah (Pagar Al-Hima / Nol Toleransi Mutlak):**\n  - Perilaku: Syirik/merusak aqidah, pornografi/membuka aurat, kekerasan fisik, melawan orang tua/guru.\n  - Sikap Pendidik: *Bahasa Tangan, sanksi tegas seketika tanpa kompromi!*",
+      "color": "1"
+    },
+    {
+      "id": "grp-s4-kurva",
+      "type": "group",
+      "x": 260,
+      "y": -120,
+      "width": 680,
+      "height": 420,
+      "label": "KURVA DISIPLIN VS USIA & KUTIPAN IBNUL QAYYIM",
+      "color": "2"
+    },
+    {
+      "id": "s4-kurva-disiplin",
+      "type": "text",
+      "x": 300,
+      "y": -60,
+      "width": 600,
+      "height": 330,
+      "text": "### 📉 Kurva Disiplin & Tekanan vs Usia\n| Etape Usia | Tingkat Toleransi | Tingkat Ketegasan Syariat | Bahasa Dominan |\n|---|---|---|---|\n| **0–7 Th (Thufulah)** | 100% (Maksimal) | 0% (Bebas Hisab) | **Bahasa Hati** |\n| **7–10 Th (Tamyiz)** | 50% (Sedang) | 50% (Bimbingan Nalar) | **Bahasa Lisan** |\n| **10–15 Th (Murahaqah)** | 10% (Minimal) | 90% (Penegakan Ta'dib) | **Bahasa Tangan** |\n| **15+ Th (Syabab/Baligh)**| 0% (Nol Toleransi) | 100% (Mukallaf Penuh) | **Kemitraan** |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <!-- Grid Lines -->\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"330\" y1=\"20\" x2=\"330\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <!-- Axes -->\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Shaded Area of Tolerance -->\n  <polygon points=\"60,25 60,110 330,110 330,105 240,85 150,55\" fill=\"#a6e3a1\" fill-opacity=\"0.25\"/>\n  <!-- Tolerance Boundary Curve -->\n  <path d=\"M 60 25 Q 150 55 240 85 T 330 105\" fill=\"none\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <!-- Strictness Curve -->\n  <path d=\"M 60 105 Q 150 85 240 55 T 330 25\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"3\"/>\n  <!-- Data Points -->\n  <circle cx=\"60\" cy=\"25\" r=\"4\" fill=\"#a6e3a1\"/>\n  <circle cx=\"150\" cy=\"55\" r=\"4\" fill=\"#f9e2af\"/>\n  <circle cx=\"240\" cy=\"85\" r=\"4\" fill=\"#fab387\"/>\n  <circle cx=\"330\" cy=\"105\" r=\"4\" fill=\"#f38ba8\"/>\n  <!-- Labels -->\n  <text x=\"50\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">0 Th</text>\n  <text x=\"140\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">7 Th</text>\n  <text x=\"225\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">10 Th</text>\n  <text x=\"315\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">Baligh</text>\n  <text x=\"70\" y=\"40\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Toleransi Longgar</text>\n  <text x=\"200\" y=\"35\" fill=\"#f38ba8\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Pagar Syariat (Hima)</text>\n</svg>\n\n*Atsar Emas Ibnul Qayyim (Madaarijus Saalikin 2/295):*  \n*« وكل خلق محمود مكتنف بخلقين ذميمين وهو وسط بينهما »*  \n*\"Setiap akhlak mulia berada di tengah antara dua akhlak tercela (Wasathiyah antara Tafrith/Lalai vs Ifrath/Keras).\"* ([[Batas Toleransi]])",
+      "color": "2"
+    },
+    {
+      "id": "grp-s4-disiplin-pola",
+      "type": "group",
+      "x": -1300,
+      "y": 340,
+      "width": 2240,
+      "height": 400,
+      "label": "PIRAMIDA DISIPLIN: MULAI DARI KESADARAN VS LANGSUNG KE ILMU",
+      "color": "3"
+    },
+    {
+      "id": "s4-sadar-fondasi",
+      "type": "text",
+      "x": -1260,
+      "y": 400,
+      "width": 1060,
+      "height": 310,
+      "text": "### 🏛️ 1. Piramida Disiplin 'Mulai dari Kesadaran' (Metode Nabawi)\n• **Struktur Kokoh:** Trapesium stabil bertumpu pada fondasi Hijau (Iman & Kelekatan Hati), menopang Kuning (Ilmu & Pemahaman Nalar), dan memuncaki Merah (Amal & Disiplin Fisik).\n• **Ketahanan Tinggi:** Tahan banting terhadap kenaikan sumbu tingkat kesulitan hidup (*resilient against hardship*).\n• **Motivasi Hakiki:** Santri berdisiplin atas kesadaran muraqabatullah, bukan karena takut hukuman CCTV!\n• Rujukan: [[Benang Merah Pendidikan]] • [[Menumbuhkan Kesadaran Beramal]]",
+      "color": "4"
+    },
+    {
+      "id": "s4-ilmu-rapuh",
+      "type": "text",
+      "x": -140,
+      "y": 400,
+      "width": 1060,
+      "height": 310,
+      "text": "### ⚠️ 2. Pola 'Langsung ke Ilmu & Amal' Tanpa Iman (Pola Rapuh Runtuh)\n• **Struktur Terbalik:** Fondasi iman kosong, langsung dibebani hafalan ilmu kognitif dan paksaan amal fisik tanpa pemahaman hati.\n• **Garis Retak Fraktur:** Mengakibatkan patahan jiwa saat menghadapi tekanan ujian dan syahwat zaman (stres, munafik di belakang guru, meledak saat baligh).\n• **Solusi Pemulihan:** Kembali mengisi tangki cinta dan menumbuhkan kesadaran batin melalui pendekatan pemulihan fitrah ([[Recovery]]).",
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e4-t1-t2",
+      "fromNode": "s4-pyr-thufulah",
+      "toNode": "s4-pyr-tamyiz",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "label": "Naik Etape Nalar",
+      "color": "5"
+    },
+    {
+      "id": "e4-t2-t3",
+      "fromNode": "s4-pyr-tamyiz",
+      "toNode": "s4-pyr-murahaqah",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "label": "Naik Etape Ketegasan",
+      "color": "3"
+    },
+    {
+      "id": "e4-t3-t4",
+      "fromNode": "s4-pyr-murahaqah",
+      "toNode": "s4-pyr-syabab",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "label": "Puncak Mukallaf",
+      "color": "1"
+    },
+    {
+      "id": "e4-t3-z",
+      "fromNode": "s4-pyr-murahaqah",
+      "toNode": "s4-zonasi-hima",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "Pagar Hima",
+      "color": "1"
+    },
+    {
+      "id": "e4-z-k",
+      "fromNode": "s4-zonasi-hima",
+      "toNode": "s4-kurva-disiplin",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "Pola Tekanan",
+      "color": "2"
+    },
+    {
+      "id": "e4-t1-sf",
+      "fromNode": "s4-pyr-thufulah",
+      "toNode": "s4-sadar-fondasi",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "Fondasi Kesadaran",
+      "color": "4"
+    }
+  ]
+}

@@ -538,3 +538,47 @@ article {
     }
   }
 }
+
+// MediaWiki-Style Action Bar (Baca, Diskusi, Sunting, Riwayat)
+.wiki-action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.5rem 0 1.25rem 0;
+  padding: 0.35rem 0.6rem;
+  background-color: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  font-size: 0.82rem;
+
+  .wiki-action-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    color: var(--darkgray);
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: var(--light);
+      color: var(--secondary);
+    }
+
+    &.active {
+      background-color: var(--secondary);
+      color: #ffffff;
+      font-weight: 600;
+    }
+  }
+
+  .wiki-action-meta {
+    margin-left: auto;
+    font-size: 0.78rem;
+    color: var(--gray);
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "id": "s2-nav-back",
+      "type": "text",
+      "x": -1200,
+      "y": -750,
+      "width": 360,
+      "height": 90,
+      "text": "[[00 - Master Arsitektur PKN.canvas|⬅ Kembali ke Master Hub PKN]]",
+      "color": "5"
+    },
+    {
+      "id": "s2-header",
+      "type": "text",
+      "x": -780,
+      "y": -750,
+      "width": 1580,
+      "height": 130,
+      "text": "# 👤 SEKTOR 2: METODE & PENDEKATAN FISIK-RUH\n**Hakikat Insan (Tripartit), Fokus Proses Tarbiyah, 4 Luaran Paripurna & 4 Kurva Dinamika Jiwa**\n*Rujukan: [[Bersatunya Ruh dan Jasad Membentuk Jiwa]] • [[Ammarah]] • [[Lawwamah]] • [[Muthmainnah]] • [[4 Kaidah Implementasi]]*",
+      "color": "5"
+    },
+    {
+      "id": "grp-s2-hierarki",
+      "type": "group",
+      "x": -1200,
+      "y": -580,
+      "width": 560,
+      "height": 600,
+      "label": "HIERARKI 4 DIMENSI HAKIKAT INSAN",
+      "color": "5"
+    },
+    {
+      "id": "s2-hierarki-insan",
+      "type": "text",
+      "x": -1160,
+      "y": -520,
+      "width": 480,
+      "height": 500,
+      "text": "### 👤 Hierarki 4 Dimensi Hakikat Insan\n1. **Ruh (Dimensi Ilahiyyah):**\n   • Ditiupkan hari ke-120 dalam rahim (QS. Al-A'raf: 172).\n   • Asal dari tiupan Allah, selalu rindu pada tauhid & kesucian.\n2. **Qalb / Hati (Pusat Rasa & Keyakinan):**\n   • Wadah keimanan, ketenangan batin (*Nafsul Muthmainnah*).\n   • Pusat pemahaman hakiki: *\"Otak menangkap, hati yang memahami\"* ([[Muthmainnah]]).\n3. **Akal / Otak (Pusat Logika & Nalar):**\n   • Alat analisis sebab-akibat & pertimbangan (*Nafsul Lawwamah*).\n   • Menghitung resiko, menimbang kemaslahatan ([[Lawwamah]]).\n4. **Jasad (Dimensi Biologis & Otot):**\n   • Terbuat dari tanah liat (*shalshal*), insting biologis hayawaniyah (*Nafsul Ammarah*).\n   • Nafsu makan, energi gerak motorik, kebutuhan fisik raga ([[Ammarah]]).",
+      "color": "5"
+    },
+    {
+      "id": "grp-s2-kaidah",
+      "type": "group",
+      "x": -600,
+      "y": -580,
+      "width": 560,
+      "height": 600,
+      "label": "KAIDAH METODE: FOKUS PADA PROSES",
+      "color": "2"
+    },
+    {
+      "id": "s2-kaidah-proses",
+      "type": "text",
+      "x": -560,
+      "y": -520,
+      "width": 480,
+      "height": 500,
+      "text": "### 🔄 Kaidah Metode Berorientasi Proses\n• **Fokus Proses, Bukan Angka Rapor Semu:**\n  Menilai kesungguhan belajar, ketulusan niat, dan adab harian santri, bukan angka ranking pabrik.\n• **Prinsip Dinamis 'Naik-Turun Gas':**\n  - *Injak Gas (Disiplin Target):* Diberikan saat anak fit, tangki cinta penuh, butuh tantangan karya.\n  - *Injak Rem (Pendinginan):* Diberikan saat anak jenuh, lelah emosi; butuh dekapan kasih sayang & permakluman.\n• **Koneksi Sebelum Koreksi:**\n  Menjalin tautan batin sebelum menuntut ketaatan aturan.\n• **Qudwah Hasanah:**\n  Keteladanan hidup mendahului seruan kata-kata instruksi ([[4 Kaidah Implementasi]]).",
+      "color": "2"
+    },
+    {
+      "id": "grp-s2-luaran",
+      "type": "group",
+      "x": 0,
+      "y": -580,
+      "width": 560,
+      "height": 600,
+      "label": "4 PILAR LUARAN TARBIYAH (OUTPUT PARIPURNA)",
+      "color": "4"
+    },
+    {
+      "id": "s2-luaran-output",
+      "type": "text",
+      "x": 40,
+      "y": -520,
+      "width": 480,
+      "height": 500,
+      "text": "### 🎯 4 Pilar Luaran (Output Tarbiyah)\n1. **Akhlaq Karimah:**\n   Buah iman yang memancar dalam keindahan budi pekerti, integritas muru'ah, dan kesantunan luhur ([[Disiplin Positif PKN]]).\n2. **Adab Nabawi:**\n   Tata krama penghormatan kepada orang tua, guru, sesama santri, dan kelestarian alam semesta.\n3. **Ilmu Nafi':**\n   Pengetahuan fardhu 'ain dan sains fardhu kifayah yang bermanfaat memajukan peradaban ummah.\n4. **Amal Shalih:**\n   Aksi nyata yang diniatkan ikhlas lillahi ta'ala demi kemaslahatan dunia dan akhirat ([[Menumbuhkan Kesadaran Beramal]]).\n\n*Rantai Formulasi:* `Iman ➔ Hati Bersih ➔ Akal Terbimbing ➔ Jasad Beramal Shalih`",
+      "color": "4"
+    },
+    {
+      "id": "grp-s2-kurva",
+      "type": "group",
+      "x": -1200,
+      "y": 60,
+      "width": 1760,
+      "height": 900,
+      "label": "4 KURVA GRAFIK DINAMIKA PERKEMBANGAN & PENGASUHAN",
+      "color": "1"
+    },
+    {
+      "id": "s2-kurva-toleransi",
+      "type": "text",
+      "x": -1160,
+      "y": 120,
+      "width": 820,
+      "height": 380,
+      "text": "### 📈 1. Kurva Toleransi vs Batasan Syariat\n| Etape Usia | Toleransi Kesalahan | Batas Syariat | Pendekatan Pendidik |\n|---|---|---|---|\n| **0–7 Th** | **100% Penuh** | Nol Hisab | Dekapan Kasih Sayang Murni |\n| **7–10 Th** | **50% Menengah** | Latihan Shalat | Bimbingan Nalar & Dialog |\n| **10–15 Th**| **10% Sempit** | Ketegasan | Disiplin Sanksi Ta'dib Syar'i |\n| **Baligh**  | **0% (Nol Toleransi)**| Mukallaf | Tanggung Jawab Personal |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <!-- Grid Lines -->\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <line x1=\"330\" y1=\"20\" x2=\"330\" y2=\"110\" stroke=\"#45475a\" stroke-dasharray=\"3,3\"/>\n  <!-- Axes -->\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Shaded Area of Tolerance -->\n  <polygon points=\"60,25 60,110 330,110 330,105 240,85 150,55\" fill=\"#a6e3a1\" fill-opacity=\"0.25\"/>\n  <!-- Tolerance Boundary Curve -->\n  <path d=\"M 60 25 Q 150 55 240 85 T 330 105\" fill=\"none\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <!-- Strictness Curve -->\n  <path d=\"M 60 105 Q 150 85 240 55 T 330 25\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"3\"/>\n  <!-- Data Points -->\n  <circle cx=\"60\" cy=\"25\" r=\"4\" fill=\"#a6e3a1\"/>\n  <circle cx=\"150\" cy=\"55\" r=\"4\" fill=\"#f9e2af\"/>\n  <circle cx=\"240\" cy=\"85\" r=\"4\" fill=\"#fab387\"/>\n  <circle cx=\"330\" cy=\"105\" r=\"4\" fill=\"#f38ba8\"/>\n  <!-- Labels -->\n  <text x=\"50\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">0 Th</text>\n  <text x=\"140\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">7 Th</text>\n  <text x=\"225\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">10 Th</text>\n  <text x=\"315\" y=\"125\" fill=\"#a6adc8\" font-size=\"10\" font-family=\"sans-serif\">Baligh</text>\n  <text x=\"70\" y=\"40\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Toleransi Longgar</text>\n  <text x=\"200\" y=\"35\" fill=\"#f38ba8\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Pagar Syariat (Hima)</text>\n</svg>",
+      "color": "1"
+    },
+    {
+      "id": "s2-kurva-recovery",
+      "type": "text",
+      "x": -300,
+      "y": 120,
+      "width": 820,
+      "height": 380,
+      "text": "### 📉 2. Kurva Recovery & Euforia (Parenting Debt)\n| Fase Pemulihan | Kondisi Jiwa Anak | Sikap Pendidik | Target Pemulihan |\n|---|---|---|---|\n| **Luka Asuh** | Terluka, Memberontak | Hentikan Hukuman | Pengosongan Racun Emosi |\n| **Recovery** | Mulai Merasa Aman | Isi Tangki Cinta | Pembentukan Rasa Percaya (*Trust*) |\n| **Euforia** | Lonjakan Kebebasan | Pahami Lonjakan | Sabar Menghadapi 'Uji Batas' |\n| **Stabilisasi**| Fitrah Seimbang | Mulai Dialog Adab | Siap Menerima Aturan Syariat |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Baseline Fitrah -->\n  <line x1=\"40\" y1=\"65\" x2=\"360\" y2=\"65\" stroke=\"#89b4fa\" stroke-dasharray=\"4,4\"/>\n  <text x=\"45\" y=\"60\" fill=\"#89b4fa\" font-size=\"9\" font-family=\"sans-serif\">Baseline Fitrah</text>\n  <!-- Trauma / Debt Dip & Recovery Path -->\n  <path d=\"M 50 65 C 80 105 100 105 130 85 C 160 30 190 20 230 40 C 270 60 310 65 350 65\" fill=\"none\" stroke=\"#cba6f7\" stroke-width=\"3\"/>\n  <!-- Area Euforia -->\n  <polygon points=\"160,30 190,20 230,40 270,60 270,65 160,65\" fill=\"#cba6f7\" fill-opacity=\"0.2\"/>\n  <text x=\"85\" y=\"105\" fill=\"#f38ba8\" font-size=\"9\" font-family=\"sans-serif\">Luka Pengasuhan</text>\n  <text x=\"180\" y=\"25\" fill=\"#cba6f7\" font-size=\"9\" font-weight=\"bold\" font-family=\"sans-serif\">Zona Euforia</text>\n  <text x=\"290\" y=\"60\" fill=\"#a6e3a1\" font-size=\"9\" font-family=\"sans-serif\">Stabil Fitrah</text>\n</svg>",
+      "color": "6"
+    },
+    {
+      "id": "s2-kurva-bahasa",
+      "type": "text",
+      "x": -1160,
+      "y": 530,
+      "width": 820,
+      "height": 380,
+      "text": "### 🗣️ 3. Kurva Bobot Tiga Bahasa Pengasuhan\n| Fase Usia | Bahasa Hati | Bahasa Lisan | Bahasa Tangan | Fokus Interaksi |\n|---|---|---|---|---|\n| **0–7 Th** | **100%** | Minimal (Contoh) | 0% (Dilarang!) | Cinta, Sentuhan & Senyuman |\n| **7–10 Th**| 40% | **50% (Dominan)** | 10% (Arahan) | Penjelasan Nalar & Sebab-Akibat |\n| **10–Baligh**| 20% | 30% | **50% (Ketegasan)**| Penegakan Disiplin Syariat |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Bahasa Hati (Hijau) 100% -> 20% -->\n  <path d=\"M 60 20 Q 180 30 340 95\" fill=\"none\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <!-- Bahasa Lisan (Kuning) Peak at Tamyiz -->\n  <path d=\"M 60 105 Q 180 25 340 75\" fill=\"none\" stroke=\"#f9e2af\" stroke-width=\"3\"/>\n  <!-- Bahasa Tangan (Merah) Peak at Murahaqah -->\n  <path d=\"M 60 110 Q 180 100 340 30\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"3\"/>\n  <!-- Legends -->\n  <text x=\"65\" y=\"30\" fill=\"#a6e3a1\" font-size=\"9\" font-weight=\"bold\" font-family=\"sans-serif\">Bahasa Hati (100%➔20%)</text>\n  <text x=\"160\" y=\"45\" fill=\"#f9e2af\" font-size=\"9\" font-weight=\"bold\" font-family=\"sans-serif\">Bahasa Lisan (Puncak Tamyiz)</text>\n  <text x=\"220\" y=\"95\" fill=\"#f38ba8\" font-size=\"9\" font-weight=\"bold\" font-family=\"sans-serif\">Bahasa Tangan (10-Baligh)</text>\n</svg>",
+      "color": "3"
+    },
+    {
+      "id": "s2-kurva-kesalahan",
+      "type": "text",
+      "x": -300,
+      "y": 530,
+      "width": 820,
+      "height": 380,
+      "text": "### ⚖️ 4. Kurva Bobot Toleransi Kesalahan\n| Fase Usia | Area Boleh Salah | Area Harus Benar | Konsekuensi Pelanggaran |\n|---|---|---|---|\n| **0–7 Th** | **100% (Hijau)** | 0% | Pemaafan Penuh, Ditoleransi Total |\n| **7–10 Th**| **50% (Kuning)** | 50% | Dilatih Memperbaiki, Nasihat Lembut |\n| **10–Baligh**| **10% (Kritis)** | 90% (Merah) | Sanksi Edukatif Tegas (HR. Abu Dawud 495) |\n\n<svg viewBox=\"0 0 380 140\" width=\"100%\" height=\"130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"380\" height=\"140\" fill=\"#181825\" rx=\"8\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"15\" stroke=\"#cdd6f4\" stroke-width=\"2\"/>\n  <!-- Green Area: Boleh Salah -->\n  <polygon points=\"60,20 340,105 340,110 60,110\" fill=\"#a6e3a1\" fill-opacity=\"0.3\"/>\n  <!-- Red Area: Harus Benar -->\n  <polygon points=\"60,20 340,20 340,105\" fill=\"#f38ba8\" fill-opacity=\"0.3\"/>\n  <line x1=\"60\" y1=\"20\" x2=\"340\" y2=\"105\" stroke=\"#cdd6f4\" stroke-width=\"2\" stroke-dasharray=\"4,4\"/>\n  <text x=\"75\" y=\"80\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Boleh Salah (Eksplorasi)</text>\n  <text x=\"210\" y=\"45\" fill=\"#f38ba8\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Harus Benar (Syariat)</text>\n</svg>",
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e2-h-k",
+      "fromNode": "s2-hierarki-insan",
+      "toNode": "s2-kaidah-proses",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Ditempa melalui",
+      "color": "5"
+    },
+    {
+      "id": "e2-k-l",
+      "fromNode": "s2-kaidah-proses",
+      "toNode": "s2-luaran-output",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Menghasilkan Luaran",
+      "color": "2"
+    },
+    {
+      "id": "e2-k-ct",
+      "fromNode": "s2-kaidah-proses",
+      "toNode": "s2-kurva-toleransi",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Dinamika Toleransi",
+      "color": "1"
+    },
+    {
+      "id": "e2-ct-cr",
+      "fromNode": "s2-kurva-toleransi",
+      "toNode": "s2-kurva-recovery",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Jika Deviasi",
+      "color": "6"
+    },
+    {
+      "id": "e2-ct-cb",
+      "fromNode": "s2-kurva-toleransi",
+      "toNode": "s2-kurva-bahasa",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Pola Bahasa",
+      "color": "3"
+    },
+    {
+      "id": "e2-cb-ck",
+      "fromNode": "s2-kurva-bahasa",
+      "toNode": "s2-kurva-kesalahan",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Konsekuensi Sanksi",
+      "color": "2"
+    }
+  ]
+}

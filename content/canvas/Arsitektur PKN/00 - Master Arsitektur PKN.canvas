@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "hub-header",
+      "type": "text",
+      "x": -600,
+      "y": -650,
+      "width": 1200,
+      "height": 200,
+      "text": "# 🌟 MASTER HUB ARSITEKTUR PENDIDIKAN KARAKTER NABAWIYAH (PKN)\n**Peta Makro Navigasi Sistem Tarbiyah Berbasis Fitrah & Sunnah**\n*Ustadz Abdul Kholiq • SOTAB HEBAT • Himmatul Ummah*\n\n> **Amal** (What?) $\\leftarrow$ **Ilmu** (How?) $\\leftarrow$ **Iman** (Why?)  \n> `Jiwa Pendidik` $\\gg$ `Peran Pendidik` $\\gg$ `Metode Mendidik` $\\gg$ `Materi Pendidikan` $\\gg$ `Implementasi`\n\nTautan Epistemologi: [[PKN Blueprint Arsitektur Sistem]] • [[Tujuan Hidup Manusia]] • [[index]]",
+      "color": "1"
+    },
+    {
+      "id": "portal-s01",
+      "type": "text",
+      "x": -800,
+      "y": -400,
+      "width": 480,
+      "height": 280,
+      "text": "### 🏛️ SEKTOR 1: KOMPONEN & KURIKULUM\n**Fondasi Epistemologi, 5 Sumber & Kurikulum Maqashid**\n• **5 Sumber Otoritatif:** Al-Qur'an, Sunnah, Sirah, Salaf, Sains Objektif\n• **5 Pilar Tarbiyah:** Aqidah, Ibadah, Akhlaq, Muamalah, Dakwah\n• **Kurikulum:** 'Satu Anak Satu Kurikulum', Adab $\\rightarrow$ STEM Praktis\n• **Standar Mutu:** Syariat, 'Urf Masyarakat, Keunikan Personal\n\n👉 **Akses Kanvas:** [[01 - Komponen & Kurikulum PKN.canvas|Buka Kanvas Sektor 1 ↗]]",
+      "color": "4"
+    },
+    {
+      "id": "portal-s02",
+      "type": "text",
+      "x": -240,
+      "y": -400,
+      "width": 480,
+      "height": 280,
+      "text": "### 👤 SEKTOR 2: METODE & PENDEKATAN FISIK-RUH\n**Hakikat Insan, Fokus Proses & 4 Luaran Tarbiyah**\n• **Hierarki Insan:** Jasad $\\rightarrow$ Otak/Akal $\\rightarrow$ Qalb/Hati $\\rightarrow$ Ruh\n• **Kaidah Proses:** Tadarruj, Fleksibilitas 'Naik-Turun Gas'\n• **4 Pilar Luaran:** Akhlaq, Adab, Ilmu Nafi', Amal Shalih\n• **4 Kurva Dinamika:** Toleransi, Recovery, Bobot Bahasa, Bobot Kesalahan\n\n👉 **Akses Kanvas:** [[02 - Metode & Pendekatan Fisik-Ruh.canvas|Buka Kanvas Sektor 2 ↗]]",
+      "color": "5"
+    },
+    {
+      "id": "portal-s03",
+      "type": "text",
+      "x": 320,
+      "y": -400,
+      "width": 480,
+      "height": 280,
+      "text": "### 📖 SEKTOR 3: PERAN PEMBELAJARAN & MODEL\n**Gaya Belajar Qur'ani & Laboratorium Fitrah Alamiah**\n• **3 Cara Belajar Fitrah:** Taqlid $\\rightarrow$ Tajribah $\\rightarrow$ Tafkir\n• **3 Gaya Belajar QS. An-Nahl 78:** Kinestetik, Auditori, Visual\n• **Matriks Bakat TB-40:** Polarisasi Jiwa & Benteng Fitnah\n• **Laboratorium Alam:** Checklist Syariat vs Eksplorasi Terbuka\n\n👉 **Akses Kanvas:** [[03 - Peran Pembelajaran & Model.canvas|Buka Kanvas Sektor 3 ↗]]",
+      "color": "3"
+    },
+    {
+      "id": "portal-s04",
+      "type": "text",
+      "x": -800,
+      "y": -80,
+      "width": 480,
+      "height": 280,
+      "text": "### ⚖️ SEKTOR 4: PERAN PENDIDIK & KEDISIPLINAN\n**Piramida Tahapan Usia & Zonasi Toleransi Al-Hima**\n• **Piramida 4 Etape:** Thufulah, Tamyiz, Murahaqah, Syabab\n• **Tiga Bahasa:** Hati (0-7), Lisan (7-10), Tangan (10-Baligh)\n• **Zonasi Toleransi:** Hijau (Bebas), Kuning (Nalar), Merah (Hima)\n• **Kurva Disiplin:** Batas Toleransi Menyempit Menuju Baligh\n\n👉 **Akses Kanvas:** [[04 - Peran Pendidik & Kedisiplinan.canvas|Buka Kanvas Sektor 4 ↗]]",
+      "color": "2"
+    },
+    {
+      "id": "portal-s05",
+      "type": "text",
+      "x": -240,
+      "y": -80,
+      "width": 480,
+      "height": 280,
+      "text": "### 🎯 SEKTOR 5: JEJAK PENDIDIK & TARGET\n**Etape Capaian Santri: Sholih & Muslih Paripurna**\n• **Jangka Pendek (0-7):** Tangki Cinta Penuh & Karakter Iman (Suka)\n• **Jangka Menengah (7-10):** Belajar Mandiri & Rukun 3A Bakat (Bisa)\n• **Jangka Panjang (10+):** Pemuda Mukallaf Tangguh Pemakmur Bumi (Berguna)\n• **Transisi Gender:** Peran Ayah & Bunda (Penyayang, Pengajar, Raja Tega)\n\n👉 **Akses Kanvas:** [[05 - Jejak Pendidik & Target.canvas|Buka Kanvas Sektor 5 ↗]]",
+      "color": "6"
+    },
+    {
+      "id": "portal-s06",
+      "type": "text",
+      "x": 320,
+      "y": -80,
+      "width": 480,
+      "height": 280,
+      "text": "### ⚡ SEKTOR 6: IMPLEMENTASI & RANTAI KAUSALITAS\n**Grand Theory Kesadaran Beramal & 4 Kaidah Emas**\n• **Rantai Kausalitas 5 Tingkat:** Memori $\\rightarrow$ Nalar $\\rightarrow$ Emosi $\\rightarrow$ Niat $\\rightarrow$ Amal\n• **4 Kaidah Emas:** Tadarruj, Koneksi, Qudwah Hasanah, Fokus Bakat\n• **Ekosistem & Standar:** 4 Elemen Implementasi & 8 Standar Lembaga\n• **Hidrolik Tangki Cinta:** Bejana Kasih Sayang Pendidik & Limpahan Ilahi\n\n👉 **Akses Kanvas:** [[06 - Implementasi & Rantai Kausalitas.canvas|Buka Kanvas Sektor 6 ↗]]",
+      "color": "1"
+    },
+    {
+      "id": "hub-footer",
+      "type": "text",
+      "x": -700,
+      "y": 240,
+      "width": 1400,
+      "height": 180,
+      "text": "### 🔗 Mata Rantai Sistemik Tarbiyah Nabawiyah (Macro Value Chain)\n```\n[01 Sumber & Komponen] ➔ [02 Metode Fisik-Ruh] ➔ [03 Model Belajar Fitrah]\n                                                               ↓\n[06 Implementasi Kausalitas] 🠔 [05 Target Capaian] 🠔 [04 Pendidik & Disiplin]\n```\n*Setiap sub-kanvas di atas saling terhubung membentuk ekosistem utuh yang memanusiakan fitrah.*  \nIndeks Repositori: [[index]] • [[Benang Merah Pendidikan]] • [[4 Kaidah Implementasi]]",
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0-h-1",
+      "fromNode": "hub-header",
+      "toNode": "portal-s01",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "e0-1-2",
+      "fromNode": "portal-s01",
+      "toNode": "portal-s02",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "Metodologi",
+      "color": "4"
+    },
+    {
+      "id": "e0-2-3",
+      "fromNode": "portal-s02",
+      "toNode": "portal-s03",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "Aktivasi Belajar",
+      "color": "5"
+    },
+    {
+      "id": "e0-3-4",
+      "fromNode": "portal-s03",
+      "toNode": "portal-s04",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "Penegakan Karakter",
+      "color": "3"
+    },
+    {
+      "id": "e0-4-5",
+      "fromNode": "portal-s04",
+      "toNode": "portal-s05",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "Penahapan Target",
+      "color": "2"
+    },
+    {
+      "id": "e0-5-6",
+      "fromNode": "portal-s05",
+      "toNode": "portal-s06",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "Aplikasi Lapangan",
+      "color": "6"
+    },
+    {
+      "id": "e0-6-f",
+      "fromNode": "portal-s06",
+      "toNode": "hub-footer",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "Rantai Sistemik",
+      "color": "1"
+    }
+  ]
+}

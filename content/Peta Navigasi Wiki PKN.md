@@ -22,6 +22,21 @@ tags:
 
 ---
 
+
+## 🏛️ 0. Arsitektur Komprehensif Sistem PKN (Master Framework)
+
+Berikut adalah 6 Sektor Arsitektur Makro PKN yang berkorespondensi 1-to-1 dengan kanvas arsitektur:
+
+- 📄 [[00 - Master Arsitektur PKN|Master Hub Arsitektur PKN]] 
+- 📄 [[01 - Komponen & Kurikulum PKN|Sektor 01: Komponen & Kurikulum PKN]] 
+- 📄 [[02 - Metode & Pendekatan Fisik-Ruh|Sektor 02: Metode & Pendekatan Fisik-Ruh]] 
+- 📄 [[03 - Peran Pembelajaran & Model|Sektor 03: Peran Pembelajaran & Model]] 
+- 📄 [[04 - Peran Pendidik & Kedisiplinan|Sektor 04: Peran Pendidik & Kedisiplinan]] 
+- 📄 [[05 - Jejak Pendidik & Target|Sektor 05: Jejak Pendidik & Target]] 
+- 📄 [[06 - Implementasi & Rantai Kausalitas|Sektor 06: Implementasi & Rantai Kausalitas]] 
+
+---
+
 ## 🏛️ 1. Hierarki Manhaj Utama (Paradigma & Implementasi PKN)
 
 Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi insan, metodologi pendidikan nabawiyah, hingga tata kelola kelembagaan:

@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "s1-nav-back",
+      "type": "text",
+      "x": -1100,
+      "y": -700,
+      "width": 360,
+      "height": 90,
+      "text": "[[00 - Master Arsitektur PKN.canvas|⬅ Kembali ke Master Hub PKN]]",
+      "color": "5"
+    },
+    {
+      "id": "s1-header",
+      "type": "text",
+      "x": -680,
+      "y": -700,
+      "width": 1380,
+      "height": 130,
+      "text": "# 🏛️ SEKTOR 1: KOMPONEN & KURIKULUM PENDIDIKAN KARAKTER NABAWIYAH\n**Fondasi Epistemologi, 5 Sumber Otoritatif, 5 Komponen Pokok & Kurikulum Maqashid Adab $\\rightarrow$ STEM**\n*Rujukan: [[PKN Blueprint Arsitektur Sistem]] • [[Tujuan Hidup Manusia]] • [[4 Elemen Implementasi]]*",
+      "color": "4"
+    },
+    {
+      "id": "grp-s1-sumber",
+      "type": "group",
+      "x": -1100,
+      "y": -530,
+      "width": 520,
+      "height": 540,
+      "label": "5 SUMBER OTORITATIF PKN",
+      "color": "4"
+    },
+    {
+      "id": "s1-sumber",
+      "type": "text",
+      "x": -1070,
+      "y": -470,
+      "width": 460,
+      "height": 450,
+      "text": "### 📖 5 Sumber Otoritatif PKN\n1. **Al-Qur'anul Karim:** Petunjuk mutlak (*Hudan linnas*) & fondasi tauhid naqli utama ([[Master Katalog Dalil Al-Quran]]).\n2. **As-Sunnah Ash-Shahihah:** Model teladan nyata Rasulullah ﷺ dalam pembinaan fitrah insan ([[Master Katalog Dalil Hadits dan Sunnah]]).\n3. **As-Sirah An-Nabawiyyah:** Rekam jejak sosio-historis tarbiyah shahabat di Makkah & Madinah.\n4. **Kalam Ulama Salaf:** Syarah atsar sahabat, tabi'in & fuqaha (Imam Ibnul Qayyim, Al-Ghazali, Asy-Syathibi).\n5. **Ilmu Pengetahuan Objektif:** Ayat kauniyah & hukum alam (*sunnatullah*) yang teruji secara empiris.",
+      "color": "4"
+    },
+    {
+      "id": "grp-s1-komponen",
+      "type": "group",
+      "x": -540,
+      "y": -530,
+      "width": 520,
+      "height": 540,
+      "label": "5 PILAR KOMPONEN TARBIYAH",
+      "color": "2"
+    },
+    {
+      "id": "s1-komponen",
+      "type": "text",
+      "x": -510,
+      "y": -470,
+      "width": 460,
+      "height": 450,
+      "text": "### ⚖️ 5 Pilar Komponen Pokok Tarbiyah\n1. **Aqidah & Tauhid:** Penanaman muraqabatullah sejak alam ruh ([[Bersatunya Ruh dan Jasad Membentuk Jiwa]]).\n2. **Ibadah Mahdhah:** Penghambaan murni dan ketaatan syar'i ('Ibadurrahman - QS. Adz-Dzariyat: 56).\n3. **Akhlaq & Adab:** Buah keimanan dan keluhuran muru'ah insaniyah ([[Disiplin Positif PKN]]).\n4. **Muamalah Sosial:** Keadilan muamalah, amanah harta, kedermawanan & anti-riba ([[4 Elemen Implementasi]]).\n5. **Dakwah & Khilafah:** Kepeloporan menegakkan kemaslahatan peradaban (Muslih - QS. Al-Baqarah: 30).",
+      "color": "2"
+    },
+    {
+      "id": "grp-s1-poros",
+      "type": "group",
+      "x": 20,
+      "y": -530,
+      "width": 700,
+      "height": 540,
+      "label": "DUA POROS PENCIPTAAN MANUSIA",
+      "color": "6"
+    },
+    {
+      "id": "s1-poros",
+      "type": "text",
+      "x": 50,
+      "y": -470,
+      "width": 640,
+      "height": 450,
+      "text": "### 🎯 Dua Poros Penciptaan: Sholih & Muslih\n1. **SHOLIH ('Ibadurrahman - Keselamatan Pribadi):**\n   • **Iman (Why?):** Karakter Iman & ketundukan batin kepada Allah.\n   • **Ilmu (How?):** Karakter Belajar & nalar hikmah syariat.\n   • **Amal (What?):** Karakter Bakat & produktivitas kebajikan.\n2. **MUSLIH (Khalifah fil Ardh - Kemaslahatan Sosial):**\n   • **Imunitas Sosial ($1 \\ll \\text{Banyak}$):** Kebal terhadap syubhat pemikiran & syahwat lingkungan ([[Imunitas Sosial]]).\n   • **Peran & Profesi ($1 \\gg \\text{Banyak}$):** Kontribusi nyata memberi manfaat luas bagi ummah.\n• Dalil: *Kullun muyassarun lima khuliqa lahu* (HR. Bukhari No. 4949).",
+      "color": "6"
+    },
+    {
+      "id": "grp-s1-kurikulum",
+      "type": "group",
+      "x": -1100,
+      "y": 50,
+      "width": 1120,
+      "height": 600,
+      "label": "KURIKULUM MAQASHID: DARI ADAB MENUJU STEM PRAKTIS",
+      "color": "3"
+    },
+    {
+      "id": "s1-kuri-prinsip",
+      "type": "text",
+      "x": -1070,
+      "y": 110,
+      "width": 1060,
+      "height": 140,
+      "text": "### 🧩 Prinsip Desain: 'Satu Anak Satu Kurikulum'\n• Menolak penyeragaman kaku model pabrik sekolah massal Prussia.\n• Setiap santri memiliki cetak biru fitrah unik yang diasah secara personal.\n• Ranting kurikulum berakar pada 5 Maqashid Syari'ah (*Al-Kulliyyat Al-Khamsah*), berjenjang dari pembinaan adab menuju keahlian sains & STEM aplikatif.",
+      "color": "3"
+    },
+    {
+      "id": "s1-kuri-tabel",
+      "type": "text",
+      "x": -1070,
+      "y": 280,
+      "width": 1060,
+      "height": 330,
+      "text": "| Pilar Maqashid | Bidang Terapan PKN | Kurikulum Aplikatif | Dimensi Target Fitrah |\n|---|---|---|---|\n| **Hifzhud Din** | Akidah & Ibadah | Fardhu 'Ain & Shalat 5 Waktu | Tauhidullah murni ([[JANGAN MEMBEBANI IMAN ANAK]]) |\n| **Hifzhun Nafs** | Kesehatan & Jasmani | Gizi Thayyib, P3K, Bela Diri | Kebugaran raga biologis ([[Ammarah]]) |\n| **Hifzhul 'Aql** | Nalar & Sains | **STEM Praktis & Teknologi Kauniyah** | Logika kausalitas & hikmah ([[Lawwamah]]) |\n| **Hifzhun Nasl** | Akhlak & Pergaulan | **Adab Nabawi, Muru'ah, & Jaga Aurat** | Integritas pribadi & nasab ([[Muthmainnah]]) |\n| **Hifzhul Mal** | Ekonomi & Kriya | Fiqh Muamalah & Kewirausahaan | Kemandirian finansial halal ([[Syabab]]) |",
+      "color": "3"
+    },
+    {
+      "id": "grp-s1-standar",
+      "type": "group",
+      "x": 60,
+      "y": 50,
+      "width": 660,
+      "height": 600,
+      "label": "8 KOMPETENSI & 3 TINGKATAN STANDAR MUTU",
+      "color": "1"
+    },
+    {
+      "id": "s1-standar",
+      "type": "text",
+      "x": 90,
+      "y": 110,
+      "width": 600,
+      "height": 500,
+      "text": "### 📜 8 Kompetensi Santri Nabawi\n1. **Standar Syariat (Mutlak / Fardhu 'Ain):**\n   • 1. Aqidah Shahihah (Tauhid kokoh)\n   • 2. Ibadah Shahihah (Sesuai Sunnah)\n2. **Standar Masyarakat Sekitar ('Urf Sosial):**\n   • 3. Kemandirian Fisik & Sikap\n   • 4. Inisiatif Amal Mandiri\n   • 5. Ketekunan & Daya Juang (*Shabr*)\n3. **Standar Personal (Keunikan Bakat):**\n   • 6. Keunikan Potensi TB-40 ([[Kuisioner Asesmen 40 Bakat Nabawiyah]])\n   • 7. Rela Berkorban (*Itsar*)\n   • 8. Kebermanfaatan Luas (*Naf' lil Ummah*)\n\n*Skala Kifayah:* Garis batas cukup bagi semua santri vs pendalaman personal dilejitkan setinggi mungkin sesuai bakat bawaan.",
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1-s-k",
+      "fromNode": "s1-sumber",
+      "toNode": "s1-komponen",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Dalil Menopang Pilar",
+      "color": "4"
+    },
+    {
+      "id": "e1-k-p",
+      "fromNode": "s1-komponen",
+      "toNode": "s1-poros",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Membentuk Visi",
+      "color": "2"
+    },
+    {
+      "id": "e1-k-kp",
+      "fromNode": "s1-komponen",
+      "toNode": "s1-kuri-prinsip",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Diturunkan ke Kurikulum",
+      "color": "2"
+    },
+    {
+      "id": "e1-kp-kt",
+      "fromNode": "s1-kuri-prinsip",
+      "toNode": "s1-kuri-tabel",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Struktur Maqashid",
+      "color": "3"
+    },
+    {
+      "id": "e1-kt-st",
+      "fromNode": "s1-kuri-tabel",
+      "toNode": "s1-standar",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Standar Capaian",
+      "color": "1"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "s6-nav-back",
+      "type": "text",
+      "x": -1200,
+      "y": -750,
+      "width": 360,
+      "height": 90,
+      "text": "[[00 - Master Arsitektur PKN.canvas|⬅ Kembali ke Master Hub PKN]]",
+      "color": "5"
+    },
+    {
+      "id": "s6-header",
+      "type": "text",
+      "x": -780,
+      "y": -750,
+      "width": 1680,
+      "height": 130,
+      "text": "# ⚡ SEKTOR 6: IMPLEMENTASI & RANTAI KAUSALITAS\n**Grand Theory Kesadaran Beramal (5 Tingkat), Sistem Hidrolik Tangki Cinta, 4 Kaidah Emas & 8 Standar Lembaga**\n*Rujukan: [[Benang Merah Pendidikan]] • [[Menumbuhkan Kesadaran Beramal]] • [[4 Kaidah Implementasi]] • [[8 Standar Implementasi PKN]]*",
+      "color": "1"
+    },
+    {
+      "id": "grp-s6-rantai",
+      "type": "group",
+      "x": -1200,
+      "y": -580,
+      "width": 580,
+      "height": 620,
+      "label": "GRAND THEORY: RANTAI KAUSALITAS 5 TINGKAT KESADARAN",
+      "color": "5"
+    },
+    {
+      "id": "s6-rantai-kausalitas",
+      "type": "text",
+      "x": -1160,
+      "y": -520,
+      "width": 500,
+      "height": 530,
+      "text": "### ⛓️ Rantai Kausalitas 5 Tingkat Menumbuhkan Kesadaran\n*Mendidik Layaknya Bertani: Menyirami Akar Sebelum Menuntut Buah*\n• **Tingkat 5 (Bawah Sadar): PENGORBANAN & RAHMAH PENDIDIK (Memori)**  \n  Pendidik mencurahkan doa di sepertiga malam, pengorbanan waktu, dan keikhlasan tanpa pamrih.\n• **Tingkat 4 (Sadar): KEKAGUMAN & TRUST ANAK TERHADAP FIGUR (Nalar)**  \n  Anak kagum melihat integritas keteladanan pendidik (*qudwah hasanah*), melahirkan kepercayaan batin (*trust*) yang kokoh.\n• **Tingkat 3 (Atas Sadar): CINTA TERHADAP AKTIVITAS KEBAIKAN (Emosi/Rasa)**  \n  Anak mencintai shalat dan adab karena mencintai sosok yang mengajarkannya (*koneksi sebelum koreksi*).\n• **Tingkat 2: ILMU TENTANG FADHILAH AMAL (Niat)**  \n  Nasihat, ayat, dan dalil syariat diserap nalar dengan lapang dada tanpa resistensi batin.\n• **Tingkat 1 (Puncak): NIAT IKHLAS & AMAL SHALIH MANDIRI (Amal)**  \n  Lahir kesadaran beramal secara mandiri dengan rasa gembira dan integritas muraqabatullah!",
+      "color": "5"
+    },
+    {
+      "id": "grp-s6-hidrolik",
+      "type": "group",
+      "x": -580,
+      "y": -580,
+      "width": 640,
+      "height": 620,
+      "label": "SISTEM HIDROLIK TANGKI CINTA",
+      "color": "6"
+    },
+    {
+      "id": "s6-hidrolik-tangki",
+      "type": "text",
+      "x": -540,
+      "y": -520,
+      "width": 560,
+      "height": 530,
+      "text": "### 🚰 Sistem Hidrolik Bejana Kasih Sayang PKN\n• **Aliran Sumber Kasih Sayang:**\n  - **Input Utama:** Allah SWT (Maha Pengasih $\\infty$) melimpahkan rahmat & taufik.\n  - **Bejana Pendidik:** Tangki cinta Ayah, Bunda & Guru menampung limpahan rahmat Ilahi.\n  - **Bejana Anak:** Kasih sayang dialirkan ke tangki cinta anak hingga meluap penuh.\n• **Dinamika Baligh:**\n  - *Sebelum Baligh:* Anak bergantung pada aliran kasih sayang pendidik.\n  - *Pasca Baligh:* Pipa batin langsung terhubung ke Allah SWT (*muraqabatullah*).\n• **Self-Recovery Pendidik:** Pendidik wajib mengisi ulang tangkinya melalui doa, istirahat cukup, dan tadabbur agar terhindar dari *burnout*.\n\n<svg viewBox=\"0 0 440 180\" width=\"100%\" height=\"160\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect width=\"440\" height=\"180\" fill=\"#181825\" rx=\"8\"/>\n  <!-- Source from Allah SWT -->\n  <circle cx=\"70\" cy=\"40\" r=\"24\" fill=\"#f9e2af\" fill-opacity=\"0.3\" stroke=\"#f9e2af\" stroke-width=\"2\"/>\n  <text x=\"45\" y=\"44\" fill=\"#f9e2af\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Allah SWT</text>\n  <!-- Reservoir 1: Pendidik -->\n  <rect x=\"150\" y=\"30\" width=\"100\" height=\"110\" rx=\"6\" fill=\"#313244\" stroke=\"#89b4fa\" stroke-width=\"2\"/>\n  <rect x=\"154\" y=\"65\" width=\"92\" height=\"71\" fill=\"#89b4fa\" fill-opacity=\"0.4\"/>\n  <text x=\"160\" y=\"50\" fill=\"#89b4fa\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Tangki Pendidik</text>\n  <!-- Reservoir 2: Anak -->\n  <rect x=\"300\" y=\"50\" width=\"100\" height=\"90\" rx=\"6\" fill=\"#313244\" stroke=\"#a6e3a1\" stroke-width=\"2\"/>\n  <rect x=\"304\" y=\"75\" width=\"92\" height=\"61\" fill=\"#a6e3a1\" fill-opacity=\"0.5\"/>\n  <text x=\"315\" y=\"68\" fill=\"#a6e3a1\" font-size=\"10\" font-weight=\"bold\" font-family=\"sans-serif\">Tangki Anak</text>\n  <!-- Pipe 1: Allah to Pendidik -->\n  <path d=\"M 94 40 L 150 40\" stroke=\"#f9e2af\" stroke-width=\"3\" stroke-dasharray=\"3,3\"/>\n  <!-- Pipe 2: Pendidik to Anak -->\n  <path d=\"M 250 90 L 300 90\" stroke=\"#89b4fa\" stroke-width=\"4\"/>\n  <!-- Katup Valve -->\n  <polygon points=\"270,83 280,90 270,97\" fill=\"#fab387\"/>\n  <!-- Outlet to Amal Shalih -->\n  <path d=\"M 400 110 L 430 110\" stroke=\"#a6e3a1\" stroke-width=\"3\"/>\n  <text x=\"360\" y=\"165\" fill=\"#a6e3a1\" font-size=\"9\" font-family=\"sans-serif\">Amal Shalih Mandiri</text>\n  <text x=\"160\" y=\"165\" fill=\"#89b4fa\" font-size=\"9\" font-family=\"sans-serif\">Self Recovery (Doa &amp; Istirahat)</text>\n</svg>",
+      "color": "6"
+    },
+    {
+      "id": "grp-s6-kaidah",
+      "type": "group",
+      "x": 100,
+      "y": -580,
+      "width": 560,
+      "height": 620,
+      "label": "4 KAIDAH EMAS IMPLEMENTASI PKN",
+      "color": "2"
+    },
+    {
+      "id": "s6-kaidah-emas",
+      "type": "text",
+      "x": 140,
+      "y": -520,
+      "width": 480,
+      "height": 530,
+      "text": "### 🧭 4 Kaidah Emas Implementasi PKN\n1. **Pentahapan Alami (*At-Tadarruj*):**  \n   Menumbuhkan adab mengikuti ritme biologis anak; tidak menuntut buah sebelum pohon berakar kokoh ([[4 Kaidah Implementasi]]).\n2. **Koneksi Sebelum Koreksi (*Al-Washlu qablal Qath'*):**  \n   Memastikan tangki cinta terisi penuh sebelum menegur kesalahan anak.\n3. **Keteladanan Sebelum Tuntutan (*Al-Qudwah qablad Da'wah*):**  \n   Pendidik menjadi model hidup nilai yang diajarkan (Atsar Perjanjian Hudaibiyah).\n4. **Fokus Kekuatan Bakat (*Ta'zizul Quwwah*):**  \n   Melejitkan potensi fitrah bakat bawaan, bukan membuang energi meratapi kelemahan.",
+      "color": "2"
+    },
+    {
+      "id": "grp-s6-elemen",
+      "type": "group",
+      "x": -1200,
+      "y": 80,
+      "width": 580,
+      "height": 420,
+      "label": "4 ELEMEN EKOSISTEM IMPLEMENTASI",
+      "color": "4"
+    },
+    {
+      "id": "s6-elemen-ekosistem",
+      "type": "text",
+      "x": -1160,
+      "y": 140,
+      "width": 500,
+      "height": 330,
+      "text": "### 🏛️ 4 Elemen Ekosistem PKN\n1. **Elemen Iman (Ghayah/Tujuan Tertinggi):**  \n   Tauhidullah, muraqabatullah, keselamatan akhirat ([[4 Elemen Implementasi]]).\n2. **Elemen Adab (Tazkiyah/Penyucian Jiwa):**  \n   Pembersihan hati (*tazkiyatun nafs*), keluhuran budi pekerti ([[Tazkiyatun Nafs]]).\n3. **Elemen Belajar (Manhaj/Nalar Kritis):**  \n   Pembelajaran alamiah, tadabbur ayat kauniyah, berpikir kritis fiqh ([[Belajar]]).\n4. **Elemen Bakat (Khafiyah/Aktualisasi Amal):**  \n   Aktualisasi 40 Potensi Peradaban Nabawiyah ([[Kuisioner Asesmen 40 Bakat Nabawiyah]]).",
+      "color": "4"
+    },
+    {
+      "id": "grp-s6-standar",
+      "type": "group",
+      "x": -580,
+      "y": 80,
+      "width": 1240,
+      "height": 420,
+      "label": "8 STANDAR MUTU IMPLEMENTASI PKN DI LEMBAGA PENDIDIKAN",
+      "color": "3"
+    },
+    {
+      "id": "s6-standar-lembaga",
+      "type": "text",
+      "x": -540,
+      "y": 140,
+      "width": 1160,
+      "height": 330,
+      "text": "### 📜 8 Standar Implementasi PKN di Lembaga Pendidikan\n*Rujukan Naskah: [[8 Standar Implementasi PKN]]*\n1. **Standar Visi & Manhaj:** Berakar pada epistemologi nabawiyah dan *Al-Kulliyyat Al-Khamsah*.\n2. **Standar Kurikulum:** Kurikulum personal 'Satu Anak Satu Kurikulum' berbasis Maqashid Syari'ah.\n3. **Standar Proses KBM:** Pembelajaran alamiah berbasis proyek riil tanpa budaya pabrik hafalan kaku.\n4. **Standar Penilaian:** Asesmen autentik naratif berbasis observasi portofolio adab, menolak perangkingan angka semu.\n5. **Standar Pendidik:** Kompetensi Tiga Bahasa Pengasuhan (Hati, Lisan, Tangan) & keteladanan *qudwah hasanah*.\n6. **Standar Sarana Ramah Fitrah:** Sekolah mempesona, laboratorium alam terbuka, sentra kriya kemandirian.\n7. **Standar Pengelolaan:** Kelembagaan berbasis ukhuwwah, musyawarah kekeluargaan, dan keterbukaan fitrah.\n8. **Standar Kemitraan Tripartit:** Sinergi padu Ayah, Bunda, dan Sekolah sebagai satu ekosistem pendidikan utuh.",
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e6-r-h",
+      "fromNode": "s6-rantai-kausalitas",
+      "toNode": "s6-hidrolik-tangki",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Ditenagai Cinta",
+      "color": "5"
+    },
+    {
+      "id": "e6-h-k",
+      "fromNode": "s6-hidrolik-tangki",
+      "toNode": "s6-kaidah-emas",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Kaidah Operasional",
+      "color": "6"
+    },
+    {
+      "id": "e6-k-e",
+      "fromNode": "s6-kaidah-emas",
+      "toNode": "s6-elemen-ekosistem",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Membangun 4 Elemen",
+      "color": "2"
+    },
+    {
+      "id": "e6-e-s",
+      "fromNode": "s6-elemen-ekosistem",
+      "toNode": "s6-standar-lembaga",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Standarisasi Lembaga",
+      "color": "4"
+    }
+  ]
+}

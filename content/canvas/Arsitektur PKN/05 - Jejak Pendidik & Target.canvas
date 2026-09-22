@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "s5-nav-back",
+      "type": "text",
+      "x": -1100,
+      "y": -700,
+      "width": 360,
+      "height": 90,
+      "text": "[[00 - Master Arsitektur PKN.canvas|⬅ Kembali ke Master Hub PKN]]",
+      "color": "5"
+    },
+    {
+      "id": "s5-header",
+      "type": "text",
+      "x": -680,
+      "y": -700,
+      "width": 1480,
+      "height": 130,
+      "text": "# 🎯 SEKTOR 5: JEJAK PENDIDIK & TARGET\n**Etape Capaian Santri Menuju Pribadi Sholih & Muslih, Alur Penjurusan Bakat & Transisi Peran Gender Ayah-Bunda**\n*Rujukan: [[Tujuan Hidup Manusia]] • [[PKN Blueprint Arsitektur Sistem]] • [[Peran Ayah dan Bunda]] • [[Syabab]]*",
+      "color": "6"
+    },
+    {
+      "id": "grp-s5-pendek",
+      "type": "group",
+      "x": -1100,
+      "y": -530,
+      "width": 480,
+      "height": 540,
+      "label": "TARGET JANGKA PENDEK (0–7 THN)",
+      "color": "4"
+    },
+    {
+      "id": "s5-target-pendek",
+      "type": "text",
+      "x": -1060,
+      "y": -470,
+      "width": 400,
+      "height": 450,
+      "text": "### 🟢 TARGET JANGKA PENDEK (0–7 Thn)\n**Fokus Capaian: Kelekatan Hati & Karakter Iman Murni**\n• **Indikator Terukur:**\n  1. Tangki cinta anak terisi penuh (merasa aman & dicintai tanpa syarat).\n  2. Memiliki kekaguman mendalam kepada orang tua dan Rasulullah ﷺ.\n  3. Senang meniru gerakan ibadah sukarela (**Rukun 1: Suka / Al-Hirsh**).\n  4. Terbebas dari luka pengasuhan masa dini ([[Tangki Cinta]]).\n  5. Menjadi pribadi **Sholih** di lingkungan keluarga inti.",
+      "color": "4"
+    },
+    {
+      "id": "grp-s5-menengah",
+      "type": "group",
+      "x": -580,
+      "y": -530,
+      "width": 480,
+      "height": 540,
+      "label": "TARGET JANGKA MENENGAH (7–10 THN)",
+      "color": "3"
+    },
+    {
+      "id": "s5-target-menengah",
+      "type": "text",
+      "x": -540,
+      "y": -470,
+      "width": 400,
+      "height": 450,
+      "text": "### 🟡 TARGET JANGKA MENENGAH (7–10 Thn)\n**Fokus Capaian: Kemandirian Belajar & Rukun 3A Bakat**\n• **Indikator Terukur:**\n  1. Shalat 5 waktu tertib mandiri tanpa perlu diawasi ketat.\n  2. Gemar belajar mandiri (*lifelong learner*) dan nalar logis aktif.\n  3. Terpetakannya 6 Bakat Terkuat via asesmen TB-40 ([[Kuisioner Asesmen 40 Bakat Nabawiyah]]).\n  4. Bertemunya Suka + Bisa (**Rukun 2: Bisa / Al-Itqan**).\n  5. Karakter pribadi **Sholih** mengkristal kuat.",
+      "color": "3"
+    },
+    {
+      "id": "grp-s5-panjang",
+      "type": "group",
+      "x": -60,
+      "y": -530,
+      "width": 520,
+      "height": 540,
+      "label": "TARGET JANGKA PANJANG (10+ THN / BALIGH)",
+      "color": "6"
+    },
+    {
+      "id": "s5-target-panjang",
+      "type": "text",
+      "x": -20,
+      "y": -470,
+      "width": 440,
+      "height": 450,
+      "text": "### 🔴 TARGET JANGKA PANJANG (10+ Thn / Baligh)\n**Fokus Capaian: Pribadi Sholih & Muslih Paripurna**\n• **Indikator Terukur:**\n  1. Menjadi Mukallaf Mandiri: Aqil-baligh berimbang, memikul hisab personal ([[Syabab]]).\n  2. Bakat terkonversi menjadi karya nyata kemanfaatan ummah (**Rukun 3: Berguna / Al-Naf' lil Ummah**).\n  3. Memiliki Imunitas Sosial: Kebal terhadap syubhat dan syahwat zaman ([[Imunitas Sosial]]).\n  4. Menjadi pribadi **Muslih** pelopor peradaban (*Kullun muyassarun lima khuliqa lahu*).",
+      "color": "6"
+    },
+    {
+      "id": "grp-s5-gender",
+      "type": "group",
+      "x": 500,
+      "y": -530,
+      "width": 560,
+      "height": 540,
+      "label": "TRANSISI PERAN GENDER AYAH & BUNDA",
+      "color": "2"
+    },
+    {
+      "id": "s5-transisi-gender",
+      "type": "text",
+      "x": 540,
+      "y": -470,
+      "width": 480,
+      "height": 450,
+      "text": "### 👨‍👩‍👧 Transisi Peran Gender Pengasuhan\n| Etape Usia | Kedekatan Putra | Kedekatan Putri | Peran Pendidik |\n|---|---|---|---|\n| **Thufulah (0–7 Th)** | Ke Ibu & Ayah | Ke Ibu & Ayah | **Penyayang** (Cinta & Kelekatan) |\n| **Tamyiz (7–10 Th)** | Ke **Ayah** (Belajar Kejantanan) | Ke **Bunda** (Belajar Keibuan) | **Pengajar** (Nalar & Adab) |\n| **Murahaqah (10–Baligh)**| Ke **Bunda** (Mengenal Lawan Jenis) | Ke **Ayah** (Figur Pelindung) | **Raja Tega** (Disiplin Tegas) |\n\n• **Ayah:** Pembersih luka batin, arsitek visi, figur teladan ketegasan.\n• **Bunda:** Madrasah cinta, pelatih harian, pemelihara kehangatan fitrah ([[Peran Ayah dan Bunda]]).",
+      "color": "2"
+    },
+    {
+      "id": "grp-s5-alur",
+      "type": "group",
+      "x": -1100,
+      "y": 50,
+      "width": 2160,
+      "height": 360,
+      "label": "ALUR BESAR PERJALANAN TARGET SANTRI: MENUJU SHOLIH & MUSLIH",
+      "color": "4"
+    },
+    {
+      "id": "s5-alur-santri",
+      "type": "text",
+      "x": -1060,
+      "y": 110,
+      "width": 2080,
+      "height": 270,
+      "text": "### 🏆 Alur Transformasi Santri Nabawi Menuju Pribadi Sholih & Muslih\n```\n[Benih Fitrah Murni] \n        ↓ (Diberi Cinta, Kehangatan & Qudwah Usia 0-7)\n[Karakter Iman Kokoh (Pribadi SHOLIH Personal)]\n        ↓ (Diberi Nalar Logis & Eksplorasi Proyek Usia 7-10)\n[Karakter Belajar Mandiri & Rukun 3A Bakat: Suka ➔ Bisa]\n        ↓ (Ditempa Tanggung Jawab & Ketegasan Syariat Usia 10-Baligh)\n[Pemuda Mukallaf Mandiri, Beradab Luhur & Pelopor Peradaban (Pribadi MUSLIH Sosial)]\n```\n*Visi Akhir Tarbiyah Nabawiyah: Selamat di Dunia, Mulia di Hadapan Allah di Akhirat.*",
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e5-p-m",
+      "fromNode": "s5-target-pendek",
+      "toNode": "s5-target-menengah",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Fondasi Cinta",
+      "color": "4"
+    },
+    {
+      "id": "e5-m-pj",
+      "fromNode": "s5-target-menengah",
+      "toNode": "s5-target-panjang",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Pengasahan Bakat",
+      "color": "3"
+    },
+    {
+      "id": "e5-pj-g",
+      "fromNode": "s5-target-panjang",
+      "toNode": "s5-transisi-gender",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Sinergi Gender",
+      "color": "2"
+    },
+    {
+      "id": "e5-pj-al",
+      "fromNode": "s5-target-panjang",
+      "toNode": "s5-alur-santri",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "label": "Muara Peradaban",
+      "color": "6"
+    }
+  ]
+}
