@@ -822,10 +822,26 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
     6. **Templat Pemeliharaan (Noticebox):** Box evaluasi status artikel di atas naskah (`⚠️` butuh takhrij, `🕰️` konsep superseded, `🌱` artikel rintisan/stub).
     7. **Halaman Berkas / Media (`Berkas:`):** Metadata aset gambar, kanvas, audio, lisensi CC BY-SA 4.0, dan daftar halaman yang menyematkan berkas.
     8. **Halaman Pengguna / Kontributor (`Pengguna:`):** Kredensial asatidzah/guru kurator + ruang *sandbox* (bak pasir) draf pribadi.
-- **Komponen CSS:**
-  - Penambahan styling CSS responsif untuk `.wiki-noticebox` dan `.wiki-portal-*` pada [`quartz/styles/custom.scss`](quartz/styles/custom.scss).
-- **Verifikasi Build & Sinkronisasi:**
-  - `npx quartz build` sukses memproses 375 berkas markdown dengan 0 error, dan seluruh perubahan tersinkronisasi bersih ke branch `main`.
+---
+
+### Milestone 55: Pengarsipan & Pemosisian Kanonikal Buku Tafsir Bakat Master (Karya Terpenting Kedua) `[SELESAI]`
+- **Pengarsipan Utuh Naskah Master (118.464 Kata, 871.135 Karakter):**
+  - Mengarsipkan naskah master lengkap *Buku Tafsir Bakat (Edit 31)* karya Ustadz Abdul Kholiq dari `/home/abuhafi/Downloads/` ke direktori khusus `sources/buku_tafsir_bakat/`:
+    * `Judul, Ucapan dan Pengantar - (280124) - BUKU TAFSIR BAKAT - Edit 31.docx`
+    * `Bab (010224) - Buku Tafsir Bakat Edit 31.docx` (Bab 1: Makna Bakat)
+    * `BAB 2-3 - (310124) - BUKU TAFSIR BAKAT (Edit 31).docx` (Bab 2-3: Fitrah & Dinamika Bakat)
+    * `BAB 4-8- (310124) BUKU TAFSIR BAKAT (Edit 31).docx` (Bab 4-8: Jiwa Manusia, Alam Ruh, Karakter)
+    * `BAB 9 - 11 - (290124) BUKU TAFSIR BAKAT (Edit 31).docx` (Bab 9-11: Silsilah 6 Bagian & 18 Kelompok Bakat, Profesi Peradaban)
+    * `BAB 12 (1-20) (310124) BUKU TAFSIR BAKAT (Edit 30).docx` (Bab 12: Uraian 40 Bakat Pilar 1–20)
+    * `BAB 12 (21 - 40) - (310124) BUKU TAFSIR BAKAT (Edit 31).docx` (Bab 12: Uraian 40 Bakat Pilar 21–40)
+    * `Buku_Tafsir_Bakat_Full.html` (Versi web terpadu 8.7 MB)
+- **Pemosisian Presedensi Otoritas Tertinggi (Tier 1: Active Truth):**
+  - Mendaftarkan entri `BOOK-TAFSIR-BAKAT-MASTER` ke [`data/sources_registry.csv`](data/sources_registry.csv) dengan bobot dasar $1.00$ dan laju peluruhan minimal ($\lambda = 0.02$).
+  - Memposisikannya sebagai **buku terpenting kedua** tepat setelah Buku Utama PKN, yang secara mutlak **menggantikan (*fully supersedes*) Bab 8 Buku Utama PKN edisi lama** (ST-30 / Talents Mapping).
+  - Memperbarui spesifikasi [`pipeline_designs/05_pipeline_halaman_bakat.md`](pipeline_designs/05_pipeline_halaman_bakat.md).
+- **Pembangunan Ingestion Engine & Ekstraksi Data:**
+  - Menulis dan mengeksekusi skrip parser otomatis [`scripts/ingest_tafsir_bakat_book.py`](scripts/ingest_tafsir_bakat_book.py) yang mengekstrak 4.440 paragraf ke dalam format JSON terstruktur [`data/buku_tafsir_bakat_extracted.json`](data/buku_tafsir_bakat_extracted.json).
+  - Siap dikonsumsi secara programmatic oleh pipeline untuk memutakhirkan 40 halaman pilar di `content/Paradigma - Implementasi PKN/.../TB40/`.
 
 ---
 
@@ -835,6 +851,7 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
 | **Generator SSG** | 🟢 **Quartz v5.0.0** | 375 berkas Markdown terproses, 1.918 berkas web statis terbit |
+| **Rujukan Buku Utama** | 🟢 **2 Buku Kanonikal** | 1. Buku Utama PKN (Bab 1-7, 9-10) • 2. Buku Tafsir Bakat Master (Bab 1-12) |
 | **Arsitektur Halaman Wiki** | 🟢 **4 Zona MediaWiki** | Header & Kontrol, Lead & Infobox & TOC, Batang Tubuh Naratif + Canvas, Lampiran & Navbox |
 | **Templat Khusus Non-Penjelasan**| 🟢 **8 Templat MediaWiki** | Disambiguasi, Redirect, Daftar Terstruktur, Portal Tematik, Kebijakan, Noticebox, Media, Profil |
 | **Peta Navigasi Obsidian (MOC)** | 🟢 **353 MD & 96 Canvas** | Terpetakan otomatis via `scripts/generate_obsidian_navigation.py` |

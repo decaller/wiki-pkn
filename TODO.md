@@ -428,6 +428,18 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Referensi indeks di [`pipeline_designs/README.md`](pipeline_designs/README.md) `[SELESAI]`
   - *Perkiraan Token AI:* ~35k - 70k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Pengarsipan & Pemosisian Kanonikal Buku Tafsir Bakat Master (Karya Terpenting Kedua)** `[SELESAI]`
+  - *Deskripsi:* Mengarsipkan naskah master lengkap *Buku Tafsir Bakat (Edit 31)* karya Ustadz Abdul Kholiq dari `/home/abuhafi/Downloads/` ke `sources/buku_tafsir_bakat/` (118.464 kata, 871.135 karakter, 4.440 paragraf mencakup Bab 1–12 lengkap):
+    1. **Penetapan Otoritas Tier 1 (Active Truth):** Diposisikan tepat setelah Buku Utama PKN sebagai buku babon kedua rujukan taksonomi 40 karakter, silsilah akhlak, profesi peradaban, dan terapi ilaj nabawi.
+    2. **Penggantian Total (*Full Supersedes*):** Menegaskan status bahwa naskah ini menggantikan secara utuh Bab 8 Buku Utama PKN terdahulu (ST-30 / Talents Mapping) pada `data/sources_registry.csv` dan `pipeline_designs/05_pipeline_halaman_bakat.md`.
+    3. **Parser & Ingestion Engine (`scripts/ingest_tafsir_bakat_book.py`):** Mengekstrak seluruh bab dan 40 pilar ke format JSON terstruktur (`data/buku_tafsir_bakat_extracted.json`) siap diproses ke naskah wiki Quartz.
+  - *Status Kemajuan:*
+    - [x] Berkas arsip di [`sources/buku_tafsir_bakat/`](sources/buku_tafsir_bakat/) `[SELESAI]`
+    - [x] Pendaftaran presedensi di [`data/sources_registry.csv`](data/sources_registry.csv) `[SELESAI]`
+    - [x] Ingestion parser di [`scripts/ingest_tafsir_bakat_book.py`](scripts/ingest_tafsir_bakat_book.py) `[SELESAI]`
+    - [x] Basis data ekstraksi di [`data/buku_tafsir_bakat_extracted.json`](data/buku_tafsir_bakat_extracted.json) `[SELESAI]`
+  - *Perkiraan Token AI:* ~40k - 80k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
