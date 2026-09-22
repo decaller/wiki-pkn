@@ -104,9 +104,27 @@ Pendidikan Karakter Nabawiyah memandang manusia sebagai kesatuan utuh (*insan ka
 
 ---
 
-## 2. Tiga Jalur Belajar Berdasarkan Peran Pengguna
+## 2. Paradigma Pembelajaran Alamiah: Belajar dari Peristiwa & Proyek Nyata
 
-Untuk memudahkan penelusuran dokumen wiki yang berjumlah 61 halaman, silakan pilih jalur membaca yang paling relevan dengan amanah Anda:
+Pendidikan Karakter Nabawiyah menolak reduksi pendidikan menjadi sekadar transfer verbalisme hafalan di balik empat dinding kelas buatan. Mengacu pada firman Allah Ta'ala dalam **QS. An-Nahl: 78**, manusia terlahir dalam keadaan fitrah tanpa mengetahui apa pun, kemudian Allah menganugerahkan tiga instrumen fitrah belajar: **Pendengaran (*As-Sam'a*)**, **Penglihatan (*Al-Abshar*)**, dan **Hati Nurani/Akal (*Al-Af'idah*)** agar bersyukur melalui karya dan amal nyata.
+
+![[canvas/Pembelajaran Alamiah - Hakikat Pembelajaran Alamiah.canvas]]
+
+Pendidikan sejati terjadi di laboratorium alamiah kehidupan melalui dua wahana terpadu:
+* ⚡ **Peristiwa (*Teachable Moment* Spontan):** Segala peristiwa harian di rumah dan lingkungan (perselisihan antarsaudara, tumpahan minuman, kegagalan lomba, rasa sakit, atau perjumpaan sosial) ditangkap seketika sebagai **pintu masuk penanaman Tauhid dan Adab** melalui sentuhan [[Bahasa Hati]] dan dialog empatik [[Bahasa Lisan]].
+* 🛠️ **Kegiatan (*Real-World Project* Terencana):** Tantangan dunia nyata yang dirancang dan disepakati bersama anak (wirausaha mandiri, bercocok tanam, riset eksploratif, magang karya, atau penulisan buku) sebagai **wahana mengasah fitrah bakat** melalui formula **Rukun 3A Bakat**:
+  1. **Alami:** Memberikan ruang eksplorasi dan interaksi seluas-luasnya pada berbagai aktivitas bermakna.
+  2. **Acuhkan:** Tidak panik atau menghabiskan energi untuk memaksa memperbaiki kelemahan minor yang bukan fardhu 'ain.
+  3. **Asah:** Mempertajam dan melatih potensi kekuatan dominan hingga melahirkan karya kebermanfaatan peradaban (*Al-Khidmah* / [[Melayani]]).
+
+Untuk mengkaji panduan operasional kurikulum, siklus 4 tahap proyek alamiah, serta rancangan RPP berbasis peristiwa, pelajari ulasan lengkapnya di:  
+👉 **[[Pembelajaran Alamiah|Pelajari Selengkapnya: Manhaj & Implementasi Pembelajaran Alamiah ↗]]**
+
+---
+
+## 3. Tiga Jalur Belajar Berdasarkan Peran Pengguna
+
+Untuk memudahkan penelusuran dokumen wiki yang kini memuat lebih dari 380 halaman ensiklopedis, silakan pilih jalur membaca yang paling relevan dengan amanah Anda:
 
 ### 🧭 Jalur 1: Untuk Ayah (Nakhoda Visi & Ketegasan Syariat)
 Sebagai nakhoda keluarga yang memegang amanah *qawwamah* (QS. An-Nisa: 34), Ayah bertugas menetapkan arah peradaban rumah tangga dan menegakkan batas-batas syariat:
@@ -132,13 +150,13 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 
 ---
 
-## 3. Peta Navigasi Cepat Topik-Topik Kunci
+## 4. Peta Navigasi Cepat Topik-Topik Kunci
 
 | Kluster Pembahasan | Halaman Kunci yang Wajib Dibaca | Fokus Utama Kajian |
 | :--- | :--- | :--- |
 | **Pondasi Insan** | [[Insan]], [[Tujuan Hidup Manusia]], [[Bersatunya Ruh dan Jasad Membentuk Jiwa]] | Hakikat penciptaan manusia, pertemuan tanah dan tiupan ruh, serta taksonomi trilogi jiwa. |
 | **Trilogi Jiwa (Nafs)** | [[Pembagian Jiwa]], [[Ammarah]], [[Lawwamah]], [[Muthmainnah]] | Memahami pertarungan dorongan fisik (Ammarah), nalar kritis (Lawwamah), dan spiritualitas hati (Muthmainnah). |
-| **Fitrah & Belajar** | [[Fitrah (Karakter)]], [[Iman]], [[Tangki Cinta]], [[Belajar]] | Menjaga kesucian fitrah lahiriah, menumbuhkan cinta sebelum hukum, dan fitrah belajar alamiah anak. |
+| **Fitrah & Belajar** | [[Fitrah (Karakter)]], [[Iman]], [[Tangki Cinta]], [[Belajar]], [[Pembelajaran Alamiah]] | Menjaga kesucian fitrah lahiriah, menumbuhkan cinta sebelum hukum, dan fitrah belajar alamiah anak. |
 | **Fase Usia Perkembangan** | [[Perkembangan]], [[Thufulah]], [[Tamyiz]], [[Murahaqah]], [[Syabab]] | Panduan mendidik bertahap dari usia 0–7 tahun (bermain), 7–10 tahun (adab shalat), 10–15 tahun (disiplin & karya), hingga 15+ tahun (akil-baligh mandiri). |
 | **Metodologi Pengasuhan** | [[Metode Mendidik]], [[Bahasa Hati]], [[Bahasa Lisan]], [[Bahasa Tangan]] | Hirarki tiga bahasa tarbiyah: kehangatan batin, 6 kaidah komunikasi Al-Qur'an, dan ta'dib ketegasan terukur. |
 | **Penyembuhan & Proteksi** | [[Luka dan Hutang Pengasuhan]], [[Recovery]], [[Euforia]], [[Batas Toleransi]], [[Imunitas Sosial]] | Memulihkan fitrah anak yang terluka, mengatasi sindrom euforia sesaat, serta benteng proteksi pergaulan. |
@@ -147,7 +165,7 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 
 ---
 
-## 4. Master Rujukan Dalil, Buku Utama & Basis Data Ilmiah
+## 5. Master Rujukan Dalil, Buku Utama & Basis Data Ilmiah
 
 Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil, dan literatur resmi peradaban:
 * 📚 **[[Referensi Tambahan Buku Cetak|Delapan Buku Rujukan Utama Manhaj PKN & SOTAB]]:** Karya tulis dan modul resmi perumus manhaj, **Ustadz Abdul Kholiq**:
@@ -176,7 +194,7 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
 
 ---
 
-## 5. Tata Kelola & Solusi Problematika Implementasi
+## 6. Tata Kelola & Solusi Problematika Implementasi
 
 Dalam penerapannya di lembaga pendidikan maupun keluarga, penegakan manhaj memerlukan keseimbangan antara disiplin mutu (*itqan*) dan kelapangan kasih sayang (*ar-rifq*). Untuk panduan diagnosis kendala lapangan, pencegahan bias *tafrith* (lalai) vs *ifrath* (kaku), serta studi kasus kuratif:
 * ⚖️ **Kaidah & Evaluasi Kebijakan:** [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/index|Kajian Lengkap Paradigma Implementasi & Diagnosis Mutu Lembaga ↗]]
