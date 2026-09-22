@@ -9,12 +9,65 @@ tags:
   - shahabat
 ---
 
-# Bakat Memerintah / Mempengaruhi (التَّأْثِيْر - At-Ta'tsir)
+<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
+<!-- ========================================================================== -->
 
-> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
-> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
-> 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+# Memerintah
+
+<div class="wiki-action-bar">
+  <span class="wiki-action-item active">📖 Baca</span>
+  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
+  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Memerintah.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
+  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Memerintah.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
+  <span class="wiki-action-meta">Otoritas: Tier 1 (Active Truth) • [[Paradigma & Implementasi]]</span>
+</div>
+
+
+<!-- ========================================================================== -->
+<!-- ZONA 2: AREA KONTEN UTAMA, INFOBOX, LEAD SECTION & BATANG TUBUH            -->
+<!-- ========================================================================== -->
+
+<div class="wiki-infobox">
+  <div class="wiki-infobox-header">Memerintah</div>
+  <div class="wiki-infobox-image">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+      <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🏛️ PKN</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Bakat</div>
+    </div>
+    <div class="wiki-infobox-caption">Manhaj Pendidikan Karakter Nabawiyah</div>
+  </div>
+  <table class="wiki-infobox-table">
+    <tr>
+      <th>Topik Inti</th>
+      <td><b>Memerintah</b></td>
+    </tr>
+    <tr>
+      <th>Tingkat Otoritas</th>
+      <td><b>Tier 1: Active Truth</b> (Buku Utama PKN)</td>
+    </tr>
+    <tr>
+      <th>Kluster Manhaj</th>
+      <td>[[Paradigma & Implementasi]]</td>
+    </tr>
+    <tr>
+      <th>Bagan Konsep</th>
+      <td>[[canvas/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh.canvas]]</td>
+    </tr>
+    <tr>
+      <th>Kaidah Asas</th>
+      <td>Koneksi Sebelum Koreksi</td>
+    </tr>
+  </table>
+</div>
+
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Hakikat Konsep:** **Memerintah** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
+> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
+> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+
+
 
 ![Karakter Al-Qiyadah: Kepemimpinan Nabawiyah dan Pengaruh Peradaban](/assets/banners/banner-35.webp)
 
@@ -338,3 +391,52 @@ Berdasarkan telaah kitab *Ashabur Rasul SAW* karya Syaikh Mahmud Al-Mishri (Juz 
   </div>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
+
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 3: NAVBOX & JEJARING TOPIK TERKAIT                                    -->
+<!-- ========================================================================== -->
+
+<div class="wiki-navbox">
+  <div class="wiki-navbox-title">
+    <span>Hierarki Manhaj Pendidikan Karakter Nabawiyah</span>
+    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Fondasi Manhaj</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">Master Arsitektur</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+    </div>
+  </div>
+</div>
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 4: FOOTNOTES, CATATAN TAKHRIJ & EDITORIAL METADATA                     -->
+<!-- ========================================================================== -->
+
+## Lihat Pula
+* [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
+* [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
+* [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
+* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+
+---
+
+## Referensi dan Catatan Kaki
+
+[^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
+[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m`.
+
+---
+
+**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Bakat]]

@@ -6,15 +6,70 @@ tags:
   - fitrah-nabawiyah
 ---
 
+<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
+<!-- ========================================================================== -->
+
+# Insight Wawasan PKN
+
+<div class="wiki-action-bar">
+  <span class="wiki-action-item active">📖 Baca</span>
+  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
+  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Insight & Teknis/Insight/index.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
+  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Insight & Teknis/Insight/index.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
+  <span class="wiki-action-meta">Otoritas: Tier 1 (Active Truth) • [[Paradigma & Implementasi]]</span>
+</div>
+
+
+<!-- ========================================================================== -->
+<!-- ZONA 2: AREA KONTEN UTAMA, INFOBOX, LEAD SECTION & BATANG TUBUH            -->
+<!-- ========================================================================== -->
+
+<div class="wiki-infobox">
+  <div class="wiki-infobox-header">Insight Wawasan PKN</div>
+  <div class="wiki-infobox-image">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+      <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🏛️ PKN</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Insight</div>
+    </div>
+    <div class="wiki-infobox-caption">Manhaj Pendidikan Karakter Nabawiyah</div>
+  </div>
+  <table class="wiki-infobox-table">
+    <tr>
+      <th>Topik Inti</th>
+      <td><b>Insight Wawasan PKN</b></td>
+    </tr>
+    <tr>
+      <th>Tingkat Otoritas</th>
+      <td><b>Tier 1: Active Truth</b> (Buku Utama PKN)</td>
+    </tr>
+    <tr>
+      <th>Kluster Manhaj</th>
+      <td>[[Paradigma & Implementasi]]</td>
+    </tr>
+    <tr>
+      <th>Bagan Konsep</th>
+      <td>[[canvas/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas.canvas]]</td>
+    </tr>
+    <tr>
+      <th>Kaidah Asas</th>
+      <td>Koneksi Sebelum Koreksi</td>
+    </tr>
+  </table>
+</div>
+
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Hakikat Konsep:** **Insight Wawasan PKN** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
+> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
+> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+
+
 ![[assets/banners/banner_hub_insight.webp]]
 *Gambar: Refleksi dan Wawasan Strategis Penerapan Pendidikan Karakter*
 
 # Insight: Wawasan & Refleksi Kritis Pendidikan Karakter Nabawiyah
 
-> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
-> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
-> 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan catatan lapangan dari para asatidzah serta praktisi **Pendidikan Karakter Nabawiyah (PKN)**. Bagian ini bertujuan mendekonstruksi kekeliruan mindset pengasuhan modern dan mengembalikannya ke rel keautentikan fitrah nubuwah.
 
@@ -169,4 +224,53 @@ Peradaban Islam di masa keemasan tidak pernah memisahkan antara kecerdasan sains
 >
 > - 💡 **[SOTAB] ANAK ITU BENIH, BUKAN BATA**  
 >   🔗 Sumber Asli: [https://sotabh.com/anak-itu-benih-bukan-bata/](https://sotabh.com/anak-itu-benih-bukan-bata/)  
->   *Khazanah artikel pemikiran mendalam Belajar Hati dan Manhaj PKN.*  
+>   *Khazanah artikel pemikiran mendalam Belajar Hati dan Manhaj PKN.*
+
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 3: NAVBOX & JEJARING TOPIK TERKAIT                                    -->
+<!-- ========================================================================== -->
+
+<div class="wiki-navbox">
+  <div class="wiki-navbox-title">
+    <span>Hierarki Manhaj Pendidikan Karakter Nabawiyah</span>
+    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Fondasi Manhaj</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">Master Arsitektur</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+    </div>
+  </div>
+</div>
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 4: FOOTNOTES, CATATAN TAKHRIJ & EDITORIAL METADATA                     -->
+<!-- ========================================================================== -->
+
+## Lihat Pula
+* [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
+* [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
+* [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
+* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+
+---
+
+## Referensi dan Catatan Kaki
+
+[^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
+[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m`.
+
+---
+
+**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Insight]]

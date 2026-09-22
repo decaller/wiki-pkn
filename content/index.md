@@ -2,6 +2,8 @@
 title: Beranda Utama
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 aliases:
+  - "Home"
+  - "Indeks Utama"
   - Home
   - Beranda
 tags:

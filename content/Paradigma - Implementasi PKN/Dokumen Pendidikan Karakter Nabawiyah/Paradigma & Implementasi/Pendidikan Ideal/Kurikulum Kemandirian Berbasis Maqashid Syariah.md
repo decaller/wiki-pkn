@@ -14,6 +14,65 @@ tags:
 description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup anak berbasis lima pilar Maqashid Syari'ah (Al-Kulliyyat Al-Khamsah) dan prioritas kesiapan terjun ke masyarakat."
 ---
 
+<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
+<!-- ========================================================================== -->
+
+# Kurikulum Kemandirian Berbasis Maqashid Syari'ah
+
+<div class="wiki-action-bar">
+  <span class="wiki-action-item active">📖 Baca</span>
+  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
+  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Kurikulum Kemandirian Berbasis Maqashid Syariah.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
+  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Kurikulum Kemandirian Berbasis Maqashid Syariah.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
+  <span class="wiki-action-meta">Otoritas: Tier 1 (Active Truth) • [[Paradigma & Implementasi]]</span>
+</div>
+
+
+<!-- ========================================================================== -->
+<!-- ZONA 2: AREA KONTEN UTAMA, INFOBOX, LEAD SECTION & BATANG TUBUH            -->
+<!-- ========================================================================== -->
+
+<div class="wiki-infobox">
+  <div class="wiki-infobox-header">Kurikulum Kemandirian Berbasis Maqashid Syari'ah</div>
+  <div class="wiki-infobox-image">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+      <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🏛️ PKN</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Pendidikan Ideal</div>
+    </div>
+    <div class="wiki-infobox-caption">Manhaj Pendidikan Karakter Nabawiyah</div>
+  </div>
+  <table class="wiki-infobox-table">
+    <tr>
+      <th>Topik Inti</th>
+      <td><b>Kurikulum Kemandirian Berbasis Maqashid Syari'ah</b></td>
+    </tr>
+    <tr>
+      <th>Tingkat Otoritas</th>
+      <td><b>Tier 1: Active Truth</b> (Buku Utama PKN)</td>
+    </tr>
+    <tr>
+      <th>Kluster Manhaj</th>
+      <td>[[Paradigma & Implementasi]]</td>
+    </tr>
+    <tr>
+      <th>Bagan Konsep</th>
+      <td>[[canvas/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas.canvas]]</td>
+    </tr>
+    <tr>
+      <th>Kaidah Asas</th>
+      <td>Koneksi Sebelum Koreksi</td>
+    </tr>
+  </table>
+</div>
+
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Hakikat Konsep:** **Kurikulum Kemandirian Berbasis Maqashid Syari'ah** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
+> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
+> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+
+
 ![[assets/banners/banner_hub_pendidikan_ideal.webp]]
 *Gambar: Rekonstruksi Kurikulum Berbasis Fitrah dan Maqashid Syari'ah*
 
@@ -21,10 +80,6 @@ description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup an
 
 # Kurikulum Kemandirian Berbasis Maqashid Syari'ah: Rekonstruksi Prioritas Edukasi Nabawiyah
 
-> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
-> Dokumen ini merupakan hasil rangkuman, sintesis, dan rekonstruksi dari rekaman audio kajian resmi **Pendidikan Karakter Nabawiyah (PKN)** (*Unnamed note3: Recording 1–6 & 14*) yang diampu oleh **Ustadz Abdul Kholiq**.  
-> 
-> Seluruh dalil Al-Qur'an, Hadits shahih, kaidah ushul fiqih, dan nukilan turats klasik dalam naskah ini telah diverifikasi dan diperkaya melalui penelusuran korpus **OpenBayan** (basis data 60 kitab induk hadits dan syarah klasik `shamela_corpus.db`) serta asisten riset turats **Qaf AI** (*Al-Mustashfa* karya Al-Ghazali, *Al-Muwafaqat* karya Asy-Syathibi, *Jami'ul Masail wal Qawa'id*, dan *Nazariyatul Maqashid* karya Dr. Ahmad Ar-Raysuni), berpadu dengan intisari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 ---
 
@@ -348,4 +403,72 @@ Kesadaran akhirat (*Al-Wa'yu bil Akhirah*) inilah yang mengubah:
 >
 > - 💡 **[SOTAB] LIBURAN BERMAKNA**  
 >   🔗 Sumber Asli: [https://sotabh.com/liburan-bermakna/](https://sotabh.com/liburan-bermakna/)  
->   *Mengisi masa liburan dengan karya kemandirian dan proyek nyata.*  
+>   *Mengisi masa liburan dengan karya kemandirian dan proyek nyata.*
+
+
+---
+
+## Instrumen Observasi & Evaluasi Diri
+
+### A. Rubrik Observasi 3-Level (Non-Angka)
+| No | Indikator Perilaku Fitrah | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Menunjukkan kesadaran batin tanpa paksaan lahiriah | [ ] | [ ] | [ ] |
+| 2 | Menjaga adab dan keikhlasan dalam berinteraksi | [ ] | [ ] | [ ] |
+| 3 | Mampu memulihkan diri (*recovery*) saat terjadi gesekan | [ ] | [ ] | [ ] |
+
+### B. Tiga Pertanyaan Muhasabah Malam
+1. *Apakah intervensi saya hari ini membangun kesadaran fitrah anak, atau sekadar menuntut kepatuhan semu?*
+2. *Sudahkah tangki cinta anak terisi sebelum saya memberikan instruksi atau teguran?*
+3. *Adakah perkataan saya yang melukai harga diri anak dan membutuhkan taubat serta permohonan maaf?*
+
+### C. Aksi Cepat (*Quick Win*) Hari Ini
+* **Lakukan Sekarang:** Peluk anak dengan tulus, tatap matanya dengan Bahasa Hati, dan doakan keberkahan fitrahnya sebelum ia terlelap malam ini.
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 3: NAVBOX & JEJARING TOPIK TERKAIT                                    -->
+<!-- ========================================================================== -->
+
+<div class="wiki-navbox">
+  <div class="wiki-navbox-title">
+    <span>Hierarki Manhaj Pendidikan Karakter Nabawiyah</span>
+    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Fondasi Manhaj</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">Master Arsitektur</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+    </div>
+  </div>
+</div>
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 4: FOOTNOTES, CATATAN TAKHRIJ & EDITORIAL METADATA                     -->
+<!-- ========================================================================== -->
+
+## Lihat Pula
+* [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
+* [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
+* [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
+* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+
+---
+
+## Referensi dan Catatan Kaki
+
+[^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
+[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m`.
+
+---
+
+**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Pendidikan Ideal]]

@@ -6,28 +6,70 @@ tags:
   - fitrah-nabawiyah
 ---
 
+<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
+<!-- ========================================================================== -->
+
+# Bakat
+
+<div class="wiki-action-bar">
+  <span class="wiki-action-item active">📖 Baca</span>
+  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
+  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/index.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
+  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/index.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
+  <span class="wiki-action-meta">Otoritas: Tier 1 (Active Truth) • [[Paradigma & Implementasi]]</span>
+</div>
+
+
+<!-- ========================================================================== -->
+<!-- ZONA 2: AREA KONTEN UTAMA, INFOBOX, LEAD SECTION & BATANG TUBUH            -->
+<!-- ========================================================================== -->
+
+<div class="wiki-infobox">
+  <div class="wiki-infobox-header">Bakat</div>
+  <div class="wiki-infobox-image">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+      <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🏛️ PKN</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Bakat</div>
+    </div>
+    <div class="wiki-infobox-caption">Manhaj Pendidikan Karakter Nabawiyah</div>
+  </div>
+  <table class="wiki-infobox-table">
+    <tr>
+      <th>Topik Inti</th>
+      <td><b>Bakat</b></td>
+    </tr>
+    <tr>
+      <th>Tingkat Otoritas</th>
+      <td><b>Tier 1: Active Truth</b> (Buku Utama PKN)</td>
+    </tr>
+    <tr>
+      <th>Kluster Manhaj</th>
+      <td>[[Paradigma & Implementasi]]</td>
+    </tr>
+    <tr>
+      <th>Bagan Konsep</th>
+      <td>[[canvas/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh.canvas]]</td>
+    </tr>
+    <tr>
+      <th>Kaidah Asas</th>
+      <td>Koneksi Sebelum Koreksi</td>
+    </tr>
+  </table>
+</div>
+
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Hakikat Konsep:** **Bakat** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
+> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
+> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+
+
 ![[assets/banners/banner_hub_bakat.webp]]
 *Gambar: Bakat dan Keunikan Potensi Nabawiyah Setiap Anak*
 
 # Karakter Bakat: Menemukan Panggilan Misi Kekhalifahan
 
-> [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
-> Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
-> 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
-
-> [!quote] Dalil & Rujukan Nabawiyah
-> **Naskah:**  
-> « اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ؛ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَيُيَسَّرُ لِعَمَلِ أَهْلِ السَّعَادَةِ »
->
-> *"Beramallah kalian, karena masing-masing orang akan dimudahkan untuk menempuh jalan yang telah diciptakan baginya..."*
->
-> 📚 **Sumber Rujukan OpenBayan:** HR. Bukhari (No. 4949) & Riyadush Shalihin (Tahqiq Ar-Risalah II, Hal. 295)  
-> 💡 **Relevansi PKN:** Setiap anak dibekali keunikan bakat dan kemudahan amal (*isti'dad*) spesifik yang harus diobservasi secara personal ('satu anak satu kurikulum').
-> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%D9%88%D8%A7%20%D9%81%D9%8E%D9%83%D9%8F%D9%84%D9%8C%D9%91%20%D9%85%D9%8F%D9%8A%D9%8E%D8%B3%D9%8E%D9%91%D8%B1%D9%8C%20%D9%84%D9%90%D9%85%D9%8E%D8%A7%20%D8%AE%D9%8F%D9%84%D9%90%D9%82%D9%8E%20%D9%84%D9%8E%D9%87%D9%8F%D8%9B%20%D8%A3%D9%8E%D9%85%D9%8E%D9%91%D8%A7%20%D9%85%D9%8E%D9%86%D9%92%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%85%D9%90%D9%86%D9%92%20%D8%A3%D9%8E%D9%87%D9%92%D9%84%D9%90&lang=id)
-
-> *"Bakat bukanlah sekadar hobi atau keterampilan mencari uang, melainkan rancang bangun fitrah yang Allah sematkan secara unik pada diri setiap hamba untuk memikul tugas kekhalifahan di muka bumi. Sebagaimana sabda Rasulullah ﷺ: 'Bekerjalah kalian, karena masing-masing insan akan dimudahkan menuju takdir penciptaannya (Kullun muyassarun limaa khuliqa lah)'."*  
-> — **Ustadz Abdul Kholiq & SOTAB HEBAT**
 
 ---
 
@@ -424,3 +466,71 @@ Dalam ekosistem sekolah dan keluarga PKN, pembacaan Sirah Sahabat (*Qashashush S
   </div>  <p style="font-size: 0.85rem; color: var(--gray); margin-top: 0.25rem; font-style: italic;">💡 <strong>Catatan:</strong> Berkas tayang ini berukuran cukup besar (57.24 MB). Jika pratinjau Office Online lambat memuat, disarankan mengklik <strong>Unduh Slide PPTX</strong> untuk membuka di aplikasi PowerPoint lokal.</p>
 </div>
 <!-- END_OFFICE_PPTX_EMBED -->
+
+
+---
+
+## Instrumen Observasi & Evaluasi Diri
+
+### A. Rubrik Observasi 3-Level (Non-Angka)
+| No | Indikator Perilaku Fitrah | Belum Terlihat | Mulai Terlihat | Membudaya |
+| :-: | :--- | :-: | :-: | :-: |
+| 1 | Menunjukkan kesadaran batin tanpa paksaan lahiriah | [ ] | [ ] | [ ] |
+| 2 | Menjaga adab dan keikhlasan dalam berinteraksi | [ ] | [ ] | [ ] |
+| 3 | Mampu memulihkan diri (*recovery*) saat terjadi gesekan | [ ] | [ ] | [ ] |
+
+### B. Tiga Pertanyaan Muhasabah Malam
+1. *Apakah intervensi saya hari ini membangun kesadaran fitrah anak, atau sekadar menuntut kepatuhan semu?*
+2. *Sudahkah tangki cinta anak terisi sebelum saya memberikan instruksi atau teguran?*
+3. *Adakah perkataan saya yang melukai harga diri anak dan membutuhkan taubat serta permohonan maaf?*
+
+### C. Aksi Cepat (*Quick Win*) Hari Ini
+* **Lakukan Sekarang:** Peluk anak dengan tulus, tatap matanya dengan Bahasa Hati, dan doakan keberkahan fitrahnya sebelum ia terlelap malam ini.
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 3: NAVBOX & JEJARING TOPIK TERKAIT                                    -->
+<!-- ========================================================================== -->
+
+<div class="wiki-navbox">
+  <div class="wiki-navbox-title">
+    <span>Hierarki Manhaj Pendidikan Karakter Nabawiyah</span>
+    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Fondasi Manhaj</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">Master Arsitektur</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+    </div>
+  </div>
+</div>
+
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 4: FOOTNOTES, CATATAN TAKHRIJ & EDITORIAL METADATA                     -->
+<!-- ========================================================================== -->
+
+## Lihat Pula
+* [[00 - Master Arsitektur PKN]] — Peta makro arsitektur sistem tarbiyah nabawiyah.
+* [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
+* [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
+* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+
+---
+
+## Referensi dan Catatan Kaki
+
+[^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
+[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m`.
+
+---
+
+**Kategori Direktori:** [[Kategori:Manhaj Pendidikan Karakter Nabawiyah]] • [[Kategori:Bakat]]
