@@ -120,18 +120,18 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Deskripsi:* Mengumpulkan, menyeleksi, dan menyusun arsip materi yang pernah ditulis Ustadz Bayu di grup diskusi ke format markdown wiki yang terstruktur.
   - *Perkiraan Token AI:* ~1M - 1.8M token (ekstraksi arsip pesan, clustering tema, restrukturisasi paragraf, dan formatting markdown).
   - *Kebutuhan HITL:* Tinggi (verifikasi dan otorisasi konten langsung oleh Ustadz Bayu / murid senior).
-- [ ] **Penyusunan Materi Tazkiyatun Nafs**
-  - *Deskripsi:* Dokumentasi konsep, tahapan, dan implementasi Tazkiyatun Nafs dalam kerangka pendidikan karakter nabawiyah.
-  - *Perkiraan Token AI:* ~150k - 300k token (sintesis naskah komprehensif, penyusunan tahapan tazkiyah, dan pemetaan dalil).
-  - *Kebutuhan HITL:* Tinggi (verifikasi manhaj tazkiyah dan kesahihan dalil rujukan).
-- [ ] **Konsep Pembelajaran Alamiah**
-  - *Deskripsi:* Perumusan prinsip pembelajaran alamiah berbasis fitrah belajar dan sunnatullah tumbuh kembang anak.
-  - *Perkiraan Token AI:* ~120k - 250k token (perumusan prinsip fitrah, analogi sunnatullah, dan komparasi metode KBM).
-  - *Kebutuhan HITL:* Tinggi (penyelarasan konsep filosofis bersama perumus materi PKN).
-- [ ] **Tabel & Taksonomi Tafsir Bakat TB-40 (Pengganti Bab 8 Buku Utama)**
-  - *Deskripsi:* Menyusun tabel indikator, matriks karakter, dan rukun 3A Tafsir Bakat (TB-40) berbasis API Observasi Karakter (`http://localhost:4040`) sebagai **pengganti resmi Bab 8 Buku Utama PKN lama** (yang sebelumnya menggunakan ST-30 & 34 bakat Talents Mapping yang kini berstatus *superseded*).
-  - *Perkiraan Token AI:* ~100k - 200k token (digitalisasi, parsing matriks indikator TB-40, dan perancangan tabel responsif).
-  - *Kebutuhan HITL:* Sedang (pengecekan cross-reference indikator TB40 terhadap materi rujukan asli).
+- [x] **Penyusunan Materi Tazkiyatun Nafs** `[SELESAI]`
+  - *Deskripsi:* Dokumentasi konsep, tahapan, dan implementasi Tazkiyatun Nafs dalam kerangka pendidikan karakter nabawiyah ([`content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/Tazkiyatun Nafs.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Implementasi/Internal%20&%20Eksternal/Tazkiyatun%20Nafs.md)).
+  - *Status Kemajuan:* Selesai penuh (Format 4-Zone, Lead TL;DR, Rubrik 3-Level, Muhasabah, dan embed Obsidian Canvas dua fase *Takhalli* dan *Tahalli*).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Konsep Pembelajaran Alamiah** `[SELESAI]`
+  - *Deskripsi:* Perumusan prinsip pembelajaran alamiah berbasis fitrah belajar dan sunnatullah tumbuh kembang anak ([`content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Pembelajaran Alamiah.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Pendidikan%20Ideal/Pembelajaran%20Alamiah.md)).
+  - *Status Kemajuan:* Selesai penuh (538 baris naskah terperinci, integrasi QS. An-Nahl: 78, instrumen Peristiwa vs Proyek, Rukun 3A, dan embed kanvas). Telah disematkan di Beranda Utama ([`content/index.md`](content/index.md)).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Tabel & Taksonomi Tafsir Bakat TB-40 (Pengganti Bab 8 Buku Utama)** `[SELESAI]`
+  - *Deskripsi:* Menyusun tabel indikator, matriks karakter, dan rukun 3A Tafsir Bakat (TB-40) sebagai pengganti resmi Bab 8 Buku Utama PKN lama (menggantikan ST-30/Talents Mapping yang usang).
+  - *Status Kemajuan:* Selesai penuh (40 pilar bakat di [`content/Paradigma - Implementasi PKN/.../TB40/`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Insan/Fitrah%20(Karakter)/Bakat/TB40/) menyerap 100% naskah Bab 12 Buku Tafsir Bakat ke format 4-Zone, serta matriks uswah sahabat di [`Bakat/index.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Insan/Fitrah%20(Karakter)/Bakat/index.md)).
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Pembuatan Halaman Khusus untuk Setiap Dalil**
   - *Deskripsi:* Membuat halaman mandiri untuk setiap dalil (Al-Qur'an dan Hadits) yang memuat teks dalil beserta terjemahan, referensi dalil terkait, serta syarah/komentar para ulama.
   - *Perkiraan Token AI:* ~2.5M - 4M token (inventarisasi ~150-300 dalil, query teks Arab berharakat, takhrij OpenBayan/Shamela, integrasi syarah ulama mu'tabar, dan dalil terkait).
@@ -466,6 +466,11 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Penyelarasan alias kunci & perbaikan index.md `[SELESAI]`
     - [x] Verifikasi build Quartz v5 (2.157 files emitted, exit code 0) & sinkronisasi Git `[SELESAI]`
   - *Perkiraan Token AI:* ~120k - 200k token.
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Glosarium Resmi PKN & Purifikasi Kosakata Autentik Sumber (383 Berkas)** `[SELESAI]`
+  - *Deskripsi:* Menerbitkan master Glosarium Istilah Karakter Nabawiyah ([`content/Glosarium Istilah Karakter Nabawiyah.md`](content/Glosarium%20Istilah%20Karakter%20Nabawiyah.md)) dengan indeks A–Z, matriks tematik 6 klaster, definisi syar'i-pedagogis, serta melakukan purifikasi 630+ kemunculan kosakata asing/tidak bersumber di seluruh repositori (mengganti *etape* menjadi *fase*, *archetype* menjadi *uswah sahabat*, dan merename 4 kanvas fase usia).
+  - *Status Kemajuan:* Selesai penuh (383 berkas terverifikasi, Quartz build sukses dengan 2.172 file statis, Portainer live HTTP/2 200 OK).
+  - *Perkiraan Token AI:* ~60k - 100k token.
   - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
