@@ -48,9 +48,10 @@ flowchart TD
     end
 
     subgraph S3["3. Fase Perakitan Dokumen & Validasi"]
+        N3_0["ContentPlacementAuditorNode<br/>Audit kecocokan konten Beranda vs Relokasi ke Templates/Tips"]
         N3_1["IndexPageAssemblerNode<br/>Menyusun format Quartz Markdown + Callouts"]
         N3_2["LinkIntegrityValidatorNode<br/>Memverifikasi keaktifan seluruh tautan wikilink"]
-        N2_1 & N2_2 & N2_3 --> N3_1 --> N3_2
+        N2_1 & N2_2 & N2_3 --> N3_0 --> N3_1 --> N3_2
     end
 
     subgraph S4["4. Gerbang Tinjauan Manusia (HITL Gate)"]
@@ -100,7 +101,8 @@ class HomePageState(TypedDict):
    - *Langkah 2:* Menemukan Fitrah & Bakat (TB40).
    - *Langkah 3:* Menguasai Metode Tarbiyah (3 Bahasa Pendidik).
    - *Langkah 4:* Menata Ekosistem Praktik (Sinergi Ayah-Bunda-Sekolah).
-4. **`LinkIntegrityValidatorNode`**: Memastikan setiap tautan `[[...]]` memiliki berkas target fisik di `content/`.
+4. **`ContentPlacementAuditorNode`**: Memeriksa kesesuaian konten berdasarkan *User Journey* (lihat [`CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md`](CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)). Memastikan Beranda tetap bersih sebagai gerbang navigasi makro: merelokasi rubrik evaluasi ke `content/Templates/`, merelokasi tips harian ke `content/Tips/`, dan memotong basa-basi repetitif.
+5. **`LinkIntegrityValidatorNode`**: Memastikan setiap tautan `[[...]]` memiliki berkas target fisik di `content/`.
 
 ---
 

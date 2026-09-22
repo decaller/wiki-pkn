@@ -80,24 +80,25 @@ Setiap artikel wajib menyertakan blok penutup dengan format persis seperti ini:
 
 ---
 
-## 4. Parameter Pengecekan Kepatuhan Gaya (*Audit Checklist*)
+## 4. Parameter Pengecekan Kepatuhan Gaya, Arsitektur 4 Zona Wiki & Pengalaman Membaca (*Audit Checklist*)
 
-Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor`) menguji naskah terhadap 10 tolok ukur:
+Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor` dan `ContentPlacementAuditor`) menguji naskah terhadap 10 tolok ukur kepatuhan manhaj, arsitektur 4 zona standar MediaWiki, dan *reader's journey*:
 
 | No | Parameter Kepatuhan | Nilai Bobot | Indikator Validasi Otomatis |
 |:---:|:---|:---:|:---|
-| 1 | **Refleksi Batin / Filosofi Fitrah** | 10% | Memuat prinsip "Koneksi Sebelum Koreksi" / fitrah batin. |
-| 2 | **Metafora Khas PKN** | 10% | Menggunakan metafora fitrah (tangki cinta, fitrah belajar, dll.). |
-| 3 | **Dalil Nabawiyah Primer** | 15% | Teks Arab berharakat + terjemahan + relevansi pedagogis. |
-| 4 | **Syarah Ulama Salaf** | 10% | Rujukan kutipan An-Nawawi, Ibnu Qayyim, atau Al-Ghazali. |
-| 5 | **Diagnosis Tafrith vs Ifrath** | 15% | Analisis eksplisit jurang ekstrim defisit vs berlebihan. |
-| 6 | **Penyebutan 4 Etape Usia** | 10% | Membedakan fase *Thufulah / Tamyiz / Murahaqah / Syabab*. |
-| 7 | **Rubrik Evaluasi 3-Level** | 10% | Tabel dengan kolom *Belum Terlihat*, *Mulai Terlihat*, *Membudaya*. |
-| 8 | **3 Pertanyaan Muhasabah Malam** | 10% | 3 butir pertanyaan reflektif batin orang tua/guru. |
-| 9 | **1 Quick Win Aksi Hari Ini** | 5% | 1 aksi praktis berdurasi 1-5 menit. |
-| 10 | **Diagram Alur Mermaid** | 5% | Minimal 1 flowchart/diagram relasi konsep. |
+| 1 | **TL;DR & Paragraf Pembuka (Lead Section)** | 10% | Callout `> [!SUMMARY]` di awal artikel (1 kalimat definisi + 3 capaian) & 1-2 paragraf narasi pembuka. |
+| 2 | **Infobox Parameter Cepat & Frontmatter (Zona 1 & 2)** | 10% | Keberadaan Frontmatter lengkap dan `.wiki-infobox` di sudut kanan atas memuat parameter kunci cepat. |
+| 3 | **Bagan Visual Obsidian Canvas** | 10% | Embed visual konsep `![[canvas/...canvas]]` sebagai peta gagasan global (bukan Mermaid datar). |
+| 4 | **Dalil Nabawiyah Primer** | 15% | Teks Arab berharakat + terjemahan + relevansi pedagogis. |
+| 5 | **Syarah Ulama Salaf & Narasi Mengalir** | 10% | Rujukan kutipan An-Nawawi, Ibnu Qayyim, atau Al-Ghazali yang tersambung secara kohesif. |
+| 6 | **Diagnosis Tafrith vs Ifrath** | 10% | Analisis eksplisit jurang ekstrim defisit vs berlebihan dan jalan tengah (*wasathiyah*). |
+| 7 | **Penyebutan 4 Etape Usia** | 10% | Penjenjangan bertahap fase *Thufulah / Tamyiz / Murahaqah / Syabab*. |
+| 8 | **Instrumen Terapan (Rubrik 3-Level, Muhasabah & Quick Win)** | 15% | Rubrik Non-Angka (*Belum*, *Mulai*, *Membudaya*), 3 Pertanyaan Muhasabah, dan 1 Quick Win. |
+| 9 | **Lampiran & Catatan Kaki (Zona 3: Takhrij & Superskrip)** | 10% | Sub-bab "Lihat Pula", rujukan superskrip `[^1]`, takhrij Shamela, dan "Bacaan Lanjutan/Pranala Luar". |
+| 10 | **Navigasi Bawah & Taksonomi (Zona 4: Navbox & Kategori)** | 10% | Kotak navigasi horizontal `.wiki-navbox`, kategori tematik `[[Kategori:...]]`, dan tautan mu'jam. |
 
 > 🎯 **Ambang Batas Kelulusan:** Skor Kepatuhan Gaya minimal **$\ge 85\%$** untuk dapat diajukan ke Gerbang Kurator Manusia (*HITL Gate*).
+> ⚠️ **Catatan Alur Membaca:** Dilarang menyajikan artikel dalam bentuk deretan *bullet points* terisolasi. Seluruh poin harus dirangkai dengan jembatan narasi transisi logis agar pembaca memahami kausalitas konsep secara utuh dalam kerangka 4 zona wiki.
 
 ---
 

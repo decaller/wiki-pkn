@@ -164,6 +164,7 @@ flowchart TD
         ShariaAuditor["⚖️ Sharia Auditor Agent (Faqih)<br/>• Audit matan Arab & harakat via Qdrant<br/>• Takhrij kesahihan sanad & syarah salaf<br/>• Mencegah takwil serampangan"]
         PedagogyCritic["🌱 Pedagogical Critic Agent (Guru Praktisi)<br/>• Uji kelayakan KBM di kelas & rumah<br/>• Tuntutan contoh aplikatif & formula 'ilaj<br/>• Deteksi diksi yang terlalu teoretis"]
         ClarityRedactor["✍️ Clarity & Language Editor (Redaktur)<br/>• Pemangkasan kalimat berbelit & pasif<br/>• Konsistensi glosarium istilah PKN<br/>• Penataan ritme & keindahan bahasa"]
+        JourneyAuditor["🧭 User Journey & Navigation Auditor (UX Architect)<br/>• Evaluasi kecocokan penempatan konten (Placement)<br/>• Pindahkan rubrik/tips yang salah kamar (Relocate)<br/>• Cegah cognitive overload di Beranda & MOC"]
     end
 
     subgraph SUPERVISOR["3. Konsensus & Arbitrasi"]
@@ -176,8 +177,8 @@ flowchart TD
         QuartzPublish["🚀 Terbitkan ke Quartz v5"]
     end
 
-    Drafter --> ShariaAuditor & PedagogyCritic & ClarityRedactor
-    ShariaAuditor & PedagogyCritic & ClarityRedactor --> ConsensusNode
+    Drafter --> ShariaAuditor & PedagogyCritic & ClarityRedactor & JourneyAuditor
+    ShariaAuditor & PedagogyCritic & ClarityRedactor & JourneyAuditor --> ConsensusNode
 
     ConsensusNode -->|Skor < 0.85 & Round <= 3| RefinePrompt
     RefinePrompt -->|Revisi Draf Terarah| Drafter
@@ -197,7 +198,10 @@ flowchart TD
    - Menguji kepatuhan naskah terhadap 6 pilar pedagogis Ustadz Abdul Kholiq (lihat [USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)): metafora fitrah (*Koneksi Sebelum Koreksi*, dll.), pembagian 4 etape usia (*Thufulah–Syabab*), diagnosis *Tafrith vs Ifrath*, rubrik observasi 3-level non-angka, 3 pertanyaan muhasabah malam, dan 1 aksi cepat (*Quick Win*). Menolak draf yang hanya berisi teori tanpa instrumen terapan.
 4. **Clarity & Language Editor (Redaktur Bahasa):**
    - Mengaudit skor keterbacaan (*readability score*), menyelaraskan ejaan kata serapan Arab (misal: *Shalat, Ifrath, Tafrith, Syaja'ah*), dan menyusun struktur paragraf yang enak dibaca.
-5. **Consensus Supervisor Node (Arbitrator):**
+5. **User Journey & Navigation Auditor (Arsitek UX & Kurator Navigasi):**
+   - Menguji kelayakan penempatan konten (*Content Placement*) berdasarkan tahapan perjalanan pembaca (lihat [CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md](CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)).
+   - Memastikan konten mikro/taktis (tips harian, formulir ceklist, tabel asesmen) tidak mengotori gerbang makro (Beranda/MOC), melainkan dialihkan secara disiplin ke *hub* yang semestinya (`content/Templates/` atau `content/Tips/`) dengan menyisakan tautan penunjuk arah (*navigational pointers*).
+6. **Consensus Supervisor Node (Arbitrator):**
    - Membatasi debat maksimal 2–3 putaran untuk mencegah pemborosan token (*token burn limit*). Menguji ambang batas kepatuhan gaya $\ge 85\%$ sebelum naskah diajukan ke kurator manusia.
 
 ---
@@ -336,6 +340,7 @@ Untuk menyelesaikan benturan materi antar-dokumen dengan masa rilis dan daur hid
  
 Silakan merujuk ke masing-masing dokumen spesifikasi detail berikut:
 - 📐 **[Standar Progressive Disclosure & Framework Diátaxis](DIATAXIS_PROGRESSIVE_DISCLOSURE.md)** *(Pedoman Format & Anatomi Naskah)*
+- 🧭 **[Evaluasi Penempatan Konten & Navigasi User Journey](CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)** *(Aturan Placement, Pruning & Relokasi Konten)*
 - 🖋️ **[Panduan Gaya Penulisan Ustadz Abdul Kholiq](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)** *(Pedoman Voice, Tone, & 6 Pilar Pedagogis)*
 - 📖 [01. Pipeline Halaman Utama (Portal Indeks)](01_pipeline_halaman_utama.md)
 - 🗺️ [02. Pipeline Halaman Navigasi (Peta Alur & MOC)](02_pipeline_halaman_navigasi.md)

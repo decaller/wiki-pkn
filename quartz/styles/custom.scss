@@ -232,5 +232,179 @@ article {
   }
 }
 
+// ============================================================================
+// MediaWiki-Standard Functional Zones: Infobox & Navbox Styling
+// ============================================================================
 
+// 1. MediaWiki-style Vertical Infobox (Right-aligned / Top Card)
+.wiki-infobox {
+  float: right;
+  clear: right;
+  width: 320px;
+  max-width: 100%;
+  margin: 0 0 1.25rem 1.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background-color: var(--light);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  font-size: 0.86rem;
+  overflow: hidden;
+  box-sizing: border-box;
 
+  .wiki-infobox-header {
+    background-color: var(--secondary);
+    color: #ffffff;
+    padding: 0.65rem 0.85rem;
+    font-weight: 700;
+    font-size: 1.02rem;
+    text-align: center;
+    letter-spacing: -0.01em;
+  }
+
+  .wiki-infobox-image {
+    padding: 0.5rem;
+    text-align: center;
+    background-color: var(--highlight);
+    border-bottom: 1px solid var(--lightgray);
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+      margin: 0 auto;
+    }
+
+    .wiki-infobox-caption {
+      font-size: 0.78rem;
+      color: var(--gray);
+      margin-top: 0.35rem;
+      font-style: italic;
+    }
+  }
+
+  .wiki-infobox-table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+
+    tr {
+      border-bottom: 1px solid var(--lightgray);
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    th {
+      width: 40%;
+      padding: 0.45rem 0.65rem;
+      text-align: left;
+      font-weight: 600;
+      color: var(--darkgray);
+      background-color: rgba(0, 0, 0, 0.02);
+      vertical-align: top;
+      border: none;
+    }
+
+    td {
+      padding: 0.45rem 0.65rem;
+      color: var(--dark);
+      vertical-align: top;
+      border: none;
+    }
+  }
+}
+
+// 2. MediaWiki-style Horizontal Navbox (Bottom cluster navigation)
+.wiki-navbox {
+  clear: both;
+  width: 100%;
+  margin: 2.5rem 0 1.5rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background-color: var(--light);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+  font-size: 0.86rem;
+  overflow: hidden;
+
+  .wiki-navbox-title {
+    background-color: var(--secondary);
+    color: #ffffff;
+    padding: 0.55rem 1rem;
+    font-weight: 700;
+    font-size: 0.95rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a {
+      color: #ffffff !important;
+      text-decoration: underline;
+    }
+  }
+
+  .wiki-navbox-group {
+    display: flex;
+    border-bottom: 1px solid var(--lightgray);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    .wiki-navbox-label {
+      flex: 0 0 160px;
+      padding: 0.5rem 0.75rem;
+      font-weight: 600;
+      background-color: rgba(0, 0, 0, 0.025);
+      border-right: 1px solid var(--lightgray);
+      color: var(--darkgray);
+      display: flex;
+      align-items: center;
+    }
+
+    .wiki-navbox-links {
+      flex: 1 1 auto;
+      padding: 0.5rem 0.85rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 0.85rem;
+      align-items: center;
+
+      a {
+        color: var(--secondary);
+        text-decoration: none;
+
+        &:hover {
+          color: var(--tertiary);
+          text-decoration: underline;
+        }
+      }
+
+      .wiki-navbox-sep {
+        color: var(--gray);
+        user-select: none;
+      }
+    }
+  }
+}
+
+@media all and ($mobile) {
+  .wiki-infobox {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  .wiki-navbox {
+    .wiki-navbox-group {
+      flex-direction: column;
+
+      .wiki-navbox-label {
+        flex: 1 1 auto;
+        border-right: none;
+        border-bottom: 1px solid var(--lightgray);
+        background-color: rgba(0, 0, 0, 0.04);
+      }
+    }
+  }
+}

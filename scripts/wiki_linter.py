@@ -44,21 +44,21 @@ def audit_abdul_kholiq_style(content):
     score = 0
     checks = []
 
-    # 1. Refleksi Batin / Fitrah (10%)
-    if any(k in content.lower() for k in ["fitrah", "bahasa hati", "koneksi sebelum koreksi", "jiwa"]):
+    # 1. TL;DR / Summary Callout di Awal (10%)
+    if "[!summary]" in content[:1500].lower():
         score += 10
-        checks.append("✓ Refleksi Batin / Fitrah")
+        checks.append("✓ TL;DR / Summary Callout di Awal")
     else:
-        checks.append("✗ Refleksi Batin / Fitrah")
+        checks.append("✗ TL;DR / Summary Callout di Awal")
 
-    # 2. Metafora Khas PKN (10%)
-    if any(k in content.lower() for k in ["tangki cinta", "benih", "pabrik", "roda hamster", "batu bata"]):
+    # 2. Refleksi Batin / Fitrah & Metafora PKN (10%)
+    if any(k in content.lower() for k in ["fitrah", "bahasa hati", "koneksi sebelum koreksi", "tangki cinta", "benih"]):
         score += 10
-        checks.append("✓ Metafora Khas PKN")
+        checks.append("✓ Refleksi Batin & Metafora Fitrah")
     else:
-        checks.append("✗ Metafora Khas PKN")
+        checks.append("✗ Refleksi Batin & Metafora Fitrah")
 
-    # 3. Dalil Nabawiyah (15%)
+    # 3. Dalil Nabawiyah Primer (15%)
     # Check for Arabic text
     if re.search(r'[\u0600-\u06FF]', content):
         score += 15
@@ -66,16 +66,16 @@ def audit_abdul_kholiq_style(content):
     else:
         checks.append("✗ Dalil Teks Arab Nabawiyah")
 
-    # 4. Syarah Salaf (10%)
+    # 4. Syarah Ulama Salaf (10%)
     if any(k in content.lower() for k in ["ibnu qayyim", "an-nawawi", "al-ghazali", "ibnu hajar", "syarah", "salaf"]):
         score += 10
         checks.append("✓ Rujukan Syarah Ulama")
     else:
         checks.append("✗ Rujukan Syarah Ulama")
 
-    # 5. Diagnosis Tafrith vs Ifrath (15%)
-    if any(k in content.lower() for k in ["tafrith", "ifrath", "wasathiyah", "meremehkan", "berlebihan", "tekanan"]):
-        score += 15
+    # 5. Diagnosis Tafrith vs Ifrath (10%)
+    if any(k in content.lower() for k in ["tafrith", "ifrath", "wasathiyah", "meremehkan", "berlebihan"]):
+        score += 10
         checks.append("✓ Diagnosis Tafrith vs Ifrath")
     else:
         checks.append("✗ Diagnosis Tafrith vs Ifrath")
@@ -108,12 +108,24 @@ def audit_abdul_kholiq_style(content):
     else:
         checks.append("✗ Quick Win Aksi Hari Ini")
 
-    # 10. Diagram Mermaid (5%)
-    if "```mermaid" in content:
-        score += 5
-        checks.append("✓ Diagram Alur Mermaid")
+    # 10. Visualisasi Bagan Obsidian Canvas (10%)
+    if re.search(r'!\[\[canvas/.*?\.canvas\]\]', content):
+        score += 10
+        checks.append("✓ Bagan Konsep Obsidian Canvas (.canvas)")
     else:
-        checks.append("✗ Diagram Alur Mermaid")
+        checks.append("✗ Bagan Konsep Obsidian Canvas (.canvas)")
+
+    # 11. Zona 2 Infobox Standar Wiki (Bonus/Check)
+    if "wiki-infobox" in content:
+        checks.append("✓ Infobox Standar MediaWiki (.wiki-infobox)")
+    else:
+        checks.append("✗ Infobox Standar MediaWiki (.wiki-infobox)")
+
+    # 12. Zona 4 Navbox Horizontal (Bonus/Check)
+    if "wiki-navbox" in content:
+        checks.append("✓ Navbox Kluster (.wiki-navbox)")
+    else:
+        checks.append("✗ Navbox Kluster (.wiki-navbox)")
 
     return score, checks
 

@@ -73,17 +73,22 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
   - *Perkiraan Token AI:* ~600k - 1M token (ekstraksi entitas istilah Arab/pedagogis khas PKN dan perumusan definisi kontekstual).
   - *Kebutuhan HITL:* Tinggi (verifikasi ketepatan definisi syar'i dan pedagogis oleh ustadz/ahli).
 - [ ] **Standarisasi Progressive Disclosure & Framework Diátaxis pada Generator Konten**
-  - *Deskripsi:* Menerapkan pedoman [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) pada seluruh naskah dan generator AI. Menata artikel ke dalam 4 lapisan bertingkat (Layer 1: Hook/TL;DR 10 detik, Layer 2: Core Flow Mermaid & Dalil Primer 2 menit, Layer 3: Syarah Salaf & Protokol Aksi KBM 10 menit, Layer 4: Raw Takhrij, Transkrip Video, & Graf Triples dalam `<details>`), serta memisahkan intensi konten berdasarkan 4 kuadran Diátaxis (Tutorials, How-To, Reference, Explanation) untuk mencegah artikel menjadi *flat text dump*.
+  - *Deskripsi:* Menerapkan pedoman [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) pada seluruh naskah dan generator AI dengan penekanan khusus pada **Pengalaman Membaca (*Reader's Journey*) & Narasi Kohesif**. Meskipun artikel bersifat ensiklopedis deskriptif, narasi antarpoin harus tersambung mulus (tidak berupa daftar butir terisolasi). Setiap naskah wajib diawali dengan:
+    1. **Layer 1: The Hook / TL;DR:** Callout `> [!SUMMARY]` ringkasan eksekutif 10 detik.
+    2. **Layer 2: Orientasi Global & Bagan Obsidian Canvas:** 1–2 paragraf pengantar naratif holistik, diikuti embed visualisasi **Obsidian Canvas (`![[canvas/...canvas]]`)** (bukan kode Mermaid teks biasa) sebagai jangkar peta gagasan global.
+    3. **Layer 3: Detail Bertahap & Syarah Naratif:** Penguraian mendalam dalil shahih, syarah salaf, serta indikator karakter yang tersambung secara kohesif.
+    4. **Layer 4: Raw Data Collapsible:** Takhrij hadits lengkap, transkrip video, dan relasi graf dalam tag `<details>`.
   - *Status Kemajuan:*
-    - [x] Panduan arsitektur informasi & template naskah di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
+    - [x] Panduan arsitektur informasi, alur naratif & template naskah di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
     - [ ] Penerapan template prompt pada *Drafter & Clarity Agent* di LangGraph
     - [ ] Retrofit halaman-halaman yang sudah ada dengan summary box & collapsible raw data
   - *Perkiraan Token AI:* ~400k - 800k token (penyusunan prompt generator, retrofit naskah yang ada, dan evaluasi keterbacaan).
   - *Kebutuhan HITL:* Sedang (inspeksi konsistensi format dan keterbacaan artikel oleh tim redaksi).
 - [ ] **Validasi Kepatuhan Gaya Penulisan Ustadz Abdul Kholiq (Style Compliance Audit)**
-  - *Deskripsi:* Mengimplementasikan validator otomatis pada pipeline LangGraph berbasis panduan [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) dan skrip [`scripts/audit_content_gaps.py`](scripts/audit_content_gaps.py) untuk memastikan setiap naskah mematuhi 6 pilar pedagogis khas beliau: metafora fitrah ("Koneksi Sebelum Koreksi"), dalil interaksi fisik nabawiyah, diagnosis Tafrith vs Ifrath, pembagian 4 etape usia (*Thufulah–Syabab*), protokol *manhaj tadarruj*, serta blok instrumen terapan (rubrik 3-level non-angka, 3 pertanyaan reflektif muhasabah malam, dan 1 aksi cepat *Quick Win*).
+  - *Deskripsi:* Mengimplementasikan validator otomatis pada pipeline LangGraph berbasis panduan [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) dan skrip [`scripts/wiki_linter.py`](scripts/wiki_linter.py) untuk memastikan setiap naskah mematuhi 10 pilar pedagogis: TL;DR di awal, pengantar naratif global, bagan visual Obsidian Canvas (`.canvas`), dalil teks Arab bersanad, syarah ulama salaf mengalir, diagnosis Tafrith vs Ifrath, pembagian 4 etape usia (*Thufulah–Syabab*), protokol *manhaj tadarruj*, serta blok instrumen terapan (rubrik 3-level non-angka, 3 pertanyaan reflektif muhasabah malam, dan 1 aksi cepat *Quick Win*).
   - *Status Kemajuan:*
     - [x] Panduan gaya & parameter audit 10 poin di [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) `[SELESAI]`
+    - [x] Pembaruan tolok ukur otomatis pada [`scripts/wiki_linter.py`](scripts/wiki_linter.py) (cek TL;DR awal + embed Obsidian Canvas) `[SELESAI]`
     - [ ] Integrasi node evaluasi gaya ke *Pedagogical Critic Agent* di LangGraph
   - *Perkiraan Token AI:* ~200k - 400k token (evaluasi kepatuhan gaya naskah dan feedback perbaikan draf).
   - *Kebutuhan HITL:* Sedang (kalibrasi sensitivitas deteksi gaya bersama tim asatidzah/kurator).
@@ -96,6 +101,15 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
     5. **Kalibrasi Parameter Inferensi Model:** Menyetel $T \in [0.0, 0.2]$ dan $\text{Top-P} = 0.9$ untuk presisi terminologi syar'i dan mitigasi halusinasi.
   - *Perkiraan Token AI:* ~120k - 250k token (penyusunan prompt template system, testing perbandingan few-shot negatif-positif, dan validasi output).
   - *Kebutuhan HITL:* Rendah - Sedang (evaluasi kepadatan informasi dan eliminasi kalimat bertele-tele pada draf uji coba).
+- [ ] **Evaluasi Penempatan, Relokasi & Eliminasi Konten Berbasis User Journey (Placement & Pruning Engine)**
+  - *Deskripsi:* Menerapkan filter arsitektur informasi pada pipeline LangGraph (lihat [`pipeline_designs/CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md`](pipeline_designs/CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)) untuk mengevaluasi kecocokan penempatan materi. Mencegah *cognitive overload* dan salah sasaran audiens dengan memindahkan konten teknis/mikro (seperti tips harian, formulir/rubrik asesmen, dan studi kasus spesifik) dari gerbang makro (Home/Beranda) ke hub yang tepat (`content/Templates/`, `content/Tips/`, atau sub-halaman operasional), serta mengeliminasi konten redundan/basa-basi.
+  - *Status Kemajuan:*
+    - [x] Dokumen spesifikasi aturan & matriks penempatan di [`pipeline_designs/CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md`](pipeline_designs/CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md) `[SELESAI]`
+    - [x] Penambahan `JourneyAuditor` persona pada Dewan Musyawarah Redaksi AI & `ContentPlacementAuditorNode` di [`pipeline_designs/01_pipeline_halaman_utama.md`](pipeline_designs/01_pipeline_halaman_utama.md) `[SELESAI]`
+    - [x] Pembersihan & relokasi rubrik evaluasi dari Beranda ke [`content/Paradigma - Implementasi PKN/Template/Instrumen Evaluasi Kesiapan Transformasi.md`](content/Paradigma%20-%20Implementasi%20PKN/Template/Instrumen%20Evaluasi%20Kesiapan%20Transformasi.md) `[SELESAI]`
+    - [ ] Integrasi otomatis validator penempatan konten pada skrip linter dan LangGraph runner
+  - *Perkiraan Token AI:* ~150k - 300k token (penyusunan audit rules, evaluasi penempatan, dan migrasi terarah).
+  - *Kebutuhan HITL:* Sedang (penyelarasan arsitektur navigasi dan pengalaman membaca).
 
 ---
 
@@ -378,11 +392,25 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     4. **Perhitungan Time-Decay Dinamis (`scripts/source_precedence.py`):** Menghitung bobot efektif $W_{\text{eff}} = W_{\text{tier}} \times W_{\text{author}} \times e^{-\lambda \cdot \Delta t}$ saat retrieval.
     5. **Relasi Graf *SUPERSEDES* & Penyajian Naskah Quartz:** Menelusuri rantai silsilah revisi (misal: Buku 2024 *supersedes* Diktat 2016). Konsep lama tetap dipertahankan pada blok collapsible `<details><summary>Catatan Sejarah & Evolusi Manhaj</summary></details>` alih-alih dihapus.
   - *Status Kemajuan:*
-    - [x] Registry terpusat [`data/sources_registry.csv`](data/sources_registry.csv) `[SELESAI]`
-    - [x] Modul kalkulator presedensi [`scripts/source_precedence.py`](scripts/source_precedence.py) `[SELESAI]`
-    - [x] Template naskah evolusi di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
+     - [x] Registry terpusat [`data/sources_registry.csv`](data/sources_registry.csv) `[SELESAI]`
+     - [x] Modul kalkulator presedensi [`scripts/source_precedence.py`](scripts/source_precedence.py) `[SELESAI]`
+     - [x] Template naskah evolusi di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
   - *Perkiraan Token AI:* ~50k - 100k token.
   - *Kebutuhan HITL:* Rendah - Sedang.
+- [x] **Adopsi Struktur Standar Industri 4 Zona MediaWiki pada Seluruh Template Wiki** `[SELESAI]`
+  - *Deskripsi:* Mengintegrasikan 4 zona fungsional standar MediaWiki ke dalam sistem Wiki PKN (Quartz v5):
+    1. **Zona 1 (Header dan Kontrol Halaman):** Judul artikel (H1/URL slug), tab aksi dokumen (baca/diskusi Giscus/riwayat Git/edit sumber), dan toolbar (search, reader mode, dark mode).
+    2. **Zona 2 (Area Konten Utama & Infobox):** Paragraf pembuka (*Lead Section*) dengan TL;DR `> [!SUMMARY]`, Infobox vertikal kanan (`.wiki-infobox`) untuk parameter cepat, Table of Contents otomatis, dan Batang Tubuh Naratif (H2/H3, Obsidian Canvas, Syarah, Tafrith vs Ifrath, Instrumen Terapan).
+    3. **Zona 3 (Lampiran & Verifikasi Sumber):** Sub-bab "Lihat Pula" (internal cross-links), "Referensi dan Catatan Kaki" dengan rujukan superskrip `[^1]` dan takhrij Shamela/OpenBayan, `<details>` collapsible untuk raw data/evolusi manhaj, serta "Bacaan Lanjutan dan Pranala Luar".
+    4. **Zona 4 (Metadata & Taksonomi Bawah):** Kotak navigasi horizontal (`.wiki-navbox`), kategori dokumen (`[[Kategori:...]]`), tautan mu'jam istilah Arab, dan footer hak cipta/lisensi terbuka.
+    5. **Dukungan SCSS & Linter:** Menambahkan styling CSS responsive `.wiki-infobox` & `.wiki-navbox` pada `quartz/styles/custom.scss` serta rule audit kepatuhan di `scripts/wiki_linter.py`.
+  - *Status Kemajuan:*
+    - [x] Panduan arsitektur & template master di [`pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md`](pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) `[SELESAI]`
+    - [x] Spesifikasi pipeline fokus tema di [`pipeline_designs/03_pipeline_halaman_fokus_satu_tema.md`](pipeline_designs/03_pipeline_halaman_fokus_satu_tema.md) `[SELESAI]`
+    - [x] Parameter audit kepatuhan di [`pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md`](pipeline_designs/USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md) & [`scripts/wiki_linter.py`](scripts/wiki_linter.py) `[SELESAI]`
+    - [x] Styling CSS responsive di [`quartz/styles/custom.scss`](quartz/styles/custom.scss) `[SELESAI]`
+  - *Perkiraan Token AI:* ~40k - 80k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
