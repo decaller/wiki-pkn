@@ -449,6 +449,14 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Kompilasi bersih Quartz v5 & sinkronisasi Git `[SELESAI]`
   - *Perkiraan Token AI:* ~60k - 100k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Integrasi Komprehensif 40 Pilar Bakat Fitrah TB-40 dari Buku Tafsir Bakat ke 4-Zone MediaWiki** `[SELESAI]`
+  - *Deskripsi:* Mengembangkan engine `scripts/enrich_tb40_with_book.py` untuk menyerap seluruh naskah master *Buku Tafsir Bakat* Bab 12 (40 pilar, 9 aspek komprehensif) ke dalam 40 artikel di `content/Paradigma - Implementasi PKN/.../TB40/`. Seluruh artikel mematuhi arsitektur MediaWiki 4-Zone, Progressive Disclosure, dan mencapai rata-rata skor linter 90.0/100.
+  - *Status Kemajuan:*
+    - [x] Engine integrasi di [`scripts/enrich_tb40_with_book.py`](scripts/enrich_tb40_with_book.py) `[SELESAI]`
+    - [x] 40 file Markdown TB-40 ter-upgrade 100% `[SELESAI]`
+    - [x] Verifikasi build Quartz v5 (2.148 files emitted) & sinkronisasi Git `[SELESAI]`
+  - *Perkiraan Token AI:* ~80k - 150k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
