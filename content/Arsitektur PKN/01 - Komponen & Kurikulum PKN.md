@@ -9,6 +9,7 @@ tags:
   - stem-nabawi
 authority_score: 1.0
 aliases:
+  - "Adab"
   - "Komponen & Kurikulum PKN"
   - "Kurikulum Maqashid PKN"
   - "Satu Anak Satu Kurikulum"

@@ -82,7 +82,7 @@ Setiap artikel substantif di Wiki PKN wajib memenuhi ambang batas kualitas berik
 2. **Keaslian Dalil:** Memuat setidaknya **1 dalil Al-Qur'an** dan **1 hadits shahih** berharakat lengkap, terjemahan resmi bahasa Indonesia, dan takhrij kitab induk dari korpus **OpenBayan** (`data/shamela_corpus.db`).
 3. **Kutipan Ulama Klasik:** Mengintegrasikan penjelasan (*syarah*) dari ulama mu'tabar seperti *Ibnul Qayyim, Imam Al-Ghazali, Ibnu Katsir, Ibnu Hajar, An-Nawawi, Ibnu Khaldun, atau Asy-Syathibi*.
 4. **Keteladanan Shahabat Nabi ﷺ:** Menyertakan kisah nyata interaksi tarbiyah Rasulullah ﷺ dengan para sahabat (dewasa maupun anak-anak).
-5. **Kesesuaian Format Quartz:** Menggunakan frontmatter YAML yang valid, callout Obsidian (`[!quote]`, `[!warning]`, `[!info]`, `[!tip]`), serta tautan silang (*wikilinks* `[[...]]`).
+5. **Kesesuaian Format Quartz:** Menggunakan frontmatter YAML yang valid, callout Obsidian (`[!quote]`, `[!warning]`, `[!info]`, `[!tip]`), serta tautan silang (*wikilinks* ``...``).
 
 ---
 
@@ -94,7 +94,7 @@ Untuk menciptakan pengalaman membaca yang seragam, elegan, dan teratur di seluru
 ┌─────────────────────────────────────────────────────────────┐
 │ 1. Frontmatter YAML (title, description, tags, aliases)      │
 ├─────────────────────────────────────────────────────────────┤
-│ 2. Banner Visual Header (![[assets/banners/...]])           │
+│ 2. Banner Visual Header (!`assets/banners/...`)           │
 ├─────────────────────────────────────────────────────────────┤
 │ 3. Catatan Metodologi & Rekonstruksi AI ([!note])           │
 ├─────────────────────────────────────────────────────────────┤
@@ -172,7 +172,7 @@ aliases:
 - Langkah kuratif langkah-demi-langkah berlandaskan kaidah PKN (*Tangki Cinta → Bahasa Hati → Bahasa Lisan → Bahasa Tangan*).
 
 ## 8. Tautan Konseptual Terkait
-- Tautan silang dua arah menggunakan format `[[Nama Halaman]]`.
+- Tautan silang dua arah menggunakan format ``Nama Halaman``.
 
 ---
 
@@ -264,7 +264,7 @@ Sebelum mengajukan pull request atau mempublikasikan artikel di Wiki PKN, lakuka
 - [ ] **Integrasi Ulama:** Apakah artikel memuat setidaknya satu kutipan syarah dari ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, An-Nawawi, Ibnu Katsir, dll.*)?
 - [ ] **Matriks Tafrith-Ifrath:** Apakah bahasan memuat diagnosis penyimpangan dan solusi wasathiyah nabawiyah?
 - [ ] **Fase Usia:** Apakah artikel menguraikan panduan aplikatif berdasarkan 4 fase perkembangan (*Thufulah, Tamyiz, Murahaqah, Syabab*)?
-- [ ] **Wikilinks:** Apakah artikel memuat minimal 3 tautan silang valid menggunakan format `[[Nama Halaman]]`?
+- [ ] **Wikilinks:** Apakah artikel memuat minimal 3 tautan silang valid menggunakan format ``Nama Halaman``?
 - [ ] **Kerapian Quartz:** Apakah frontmatter YAML valid dan tidak memicu warning pada `npx quartz build`?
 
 

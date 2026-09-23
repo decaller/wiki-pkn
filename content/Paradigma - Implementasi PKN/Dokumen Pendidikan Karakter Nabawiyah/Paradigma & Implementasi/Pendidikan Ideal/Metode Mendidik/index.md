@@ -7,6 +7,10 @@ tags:
   - tadarruj
   - manhaj_nabawi
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+
+aliases:
+  - "Metode dan Evaluasi"
+  - "Bahasa Pengasuhan"
 ---
 
 <!-- ========================================================================== -->

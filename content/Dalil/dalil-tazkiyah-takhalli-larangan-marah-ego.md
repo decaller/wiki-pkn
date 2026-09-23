@@ -1,0 +1,191 @@
+---
+title: "Hadits Wasiat Agung Nabi Melarang Meluapkan Amarah (La Taghdhab)"
+tags:
+  - DalilSyar'i
+  - HaditsNabawi
+  - Takhrij
+  - SyarahSalaf
+  - PendidikanKarakterNabawiyah
+sources:
+  - reference: "HR. Bukhari No. 6116"
+    authority: 1.0
+    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Adab) & Jami'ul 'Ulum wal Hikam Verified"
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
+<!-- ========================================================================== -->
+
+# Hadits Wasiat Agung Nabi Melarang Meluapkan Amarah (La Taghdhab)
+
+<div class="wiki-action-bar">
+  <span class="wiki-action-item active">📖 Baca</span>
+  <a href="https://github.com/decaller/wiki-pkn/discussions" class="wiki-action-item" target="_blank" rel="noopener">💬 Diskusi</a>
+  <a href="https://github.com/decaller/wiki-pkn/edit/main/content/Dalil/dalil-tazkiyah-takhalli-larangan-marah-ego.md" class="wiki-action-item" target="_blank" rel="noopener">✏️ Sunting</a>
+  <a href="https://github.com/decaller/wiki-pkn/commits/main/content/Dalil/dalil-tazkiyah-takhalli-larangan-marah-ego.md" class="wiki-action-item" target="_blank" rel="noopener">📜 Riwayat</a>
+  <span class="wiki-action-meta">Otoritas: Dalil Naqli Syar'i • [[Master Katalog Dalil Al-Quran|Katalog Qur'an]] / [[Master Katalog Dalil Hadits dan Sunnah|Katalog Hadits]]</span>
+</div>
+
+<!-- ========================================================================== -->
+<!-- ZONA 2: INFOBOX DALIL (FLOAT RIGHT) & LEAD SECTION                         -->
+<!-- ========================================================================== -->
+
+<div class="wiki-infobox">
+  <div class="wiki-infobox-header">Hadits La Taghdhab</div>
+  <div class="wiki-infobox-image">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+      <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">📜 DALIL SYAR'I</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Hadits Nabawi</div>
+    </div>
+    <div class="wiki-infobox-caption">Rujukan Otentik Manhaj PKN</div>
+  </div>
+  <table class="wiki-infobox-table">
+    <tr>
+      <th>Jenis Dalil</th>
+      <td><b>Hadits Nabawi</b></td>
+    </tr>
+    <tr>
+      <th>Rujukan Nas</th>
+      <td><b>HR. Bukhari No. 6116</b></td>
+    </tr>
+    <tr>
+      <th>Derajat Sanad</th>
+      <td><span style="color: #059669; font-weight: 700;">Shahih (Arba'in An-Nawawiyyah No. 16)</span></td>
+    </tr>
+    <tr>
+      <th>Perawi / Sanad</th>
+      <td>Abu Hurairah radhiyallahu 'anhu</td>
+    </tr>
+    <tr>
+      <th>Kitab Induk</th>
+      <td>Shahih al-Bukhari (Kitab al-Adab) & Jami'ul 'Ulum wal Hikam</td>
+    </tr>
+    <tr>
+      <th>Basis Data</th>
+      <td>OpenBayan (Maktabah Syamilah)</td>
+    </tr>
+    <tr>
+      <th>Fokus Karakter</th>
+      <td>[[Tazkiyatun Nafs]]</td>
+    </tr>
+    <tr>
+      <th>Fase Target</th>
+      <td>[[4 Fase Usia Nabawiyah]] (Seluruh Fase)</td>
+    </tr>
+  </table>
+</div>
+
+> [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
+> **Nas / Rujukan:** HR. Bukhari No. 6116  
+> **Fokus Karakter:** [[Tazkiyatun Nafs]]  
+> **Intisari Manhaj:** Seorang lelaki meminta wasiat singkat padat kepada Nabi ﷺ: 'Berwasiatlah kepadaku!' Beliau bersabda: 'Jangan marah (la taghdhab).' Lelaki itu mengulang permintaannya berkali-kali, dan Nabi tetap bersabda: 'Jangan marah.' Mengikis amarah ego adalah rukun pertama Takhalli pendidik.
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 3: MATAN ARAB, TERJEMAHAN, SYARAH & MATRIKS AMALIAH                    -->
+<!-- ========================================================================== -->
+
+## Teks Takhrij Matan Dalil
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: أَوْصِنِي، قَالَ: لَا تَغْضَبْ. فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ
+</div>
+
+> **Terjemahan Resmi:**  
+> *"Bahwa seorang laki-laki berkata kepada Nabi ﷺ: 'Berwasiatlah kepadaku!' Beliau bersabda: 'Janganlah engkau marah!' Lelaki itu mengulang permintaannya beberapa kali, dan Nabi tetap bersabda: 'Janganlah engkau marah!'"*  
+> 
+> *(Rujukan: HR. Bukhari No. 6116)*
+
+> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%B1%D8%AC%D9%84%D8%A7%20%D9%82%D8%A7%D9%84%20%D9%84%D9%84%D9%86%D8%A8%D9%8A%20%D8%A3%D9%88%D8%B5%D9%86%D9%8A%D8%8C%20%D9%82%D8%A7%D9%84%3A&lang=id)
+
+---
+
+## Analisis Pedagogis & Syarah Ulama Mu'tabar
+
+### 1. Syarah Ulama Mu'tabar
+Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 10 Hal. 520) dan Ibnu Rajab Al-Hanbali menerangkan makna sabda Nabi yang diulang-ulang ini: amarah (*al-ghadhab*) menghimpun seluruh pangkal keburukan akhlak, dan menahan amarah menghimpun seluruh pintu kebaikan. Makna *la taghdhab* mencakup dua hal: pertama, kendalikan dirimu saat pemicu marah datang sehingga kamu tidak meluapkannya dalam perkataan keji atau pukulan kasar; kedua, tempuhlah sebab-sebab yang menjauhkan amarah seperti tawadhu', pemaaf, dan berwudhu. Pendidik yang mendidik anak dalam kondisi marah hakikatnya sedang melayani egonya sendiri, bukan mendidik karena Allah.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
+- **Rukun Takhalli Pendidik (Membuang Ego Ghadhab):** Membentak anak saat melakukan kesalahan biasanya bersumber dari ego orang tua yang merasa tidak dihargai; ini adalah racun batin yang merusak anak.
+- **Koneksi Sebelum Koreksi:** Berhenti bicara tatkala emosi mendidih; diam, ambil wudhu, duduk atau berbaring sebelum berbicara kepada ananda.
+- **Pembeda Tegas:** Marah karena membela kehormatan syariat Allah (*ghadhab lillah*) sangat berbeda dengan marah karena tersinggungnya gengsi orang tua (*ghadhab lin-nafs*).
+
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+1. **Bagi Orang Tua:** Terapkan kaidah 'Aturan 10 Detik': tarik nafas dalam-dalam dan beristighfar 3 kali sebelum merespon tumpahnya air oleh anak.
+2. **Bagi Guru:** Jangan pernah menjatuhkan sanksi di kelas saat nafas masih memburu karena emosi kesal.
+3. **Bagi Evaluasi Santri:** Pantau reaksi santri saat diejek temannya; apakah ia mampu menahan diri atau langsung membalas memukul?
+
+---
+
+## Matriks Panduan Amaliah & Evaluasi
+
+| Fase Usia | Pendekatan Bahasa | Respon Nabawiyah yang Dianjurkan | Tindakan yang Dilarang (Patologi) |
+|:---|:---|:---|:---|
+| **0–7 Tahun (Thufulah)** | Bahasa Hati | Meredakan emosi anak dengan pelukan hening dan suara tenang yang menentramkan. | Membentak, berteriak, atau memukul anak balita saat orang tua sedang kelelahan. |
+| **7–10 Tahun (Tamyiz)** | Bahasa Lisan | Mengajarkan sunnah saat marah: membaca ta'awwudz, duduk jika sedang berdiri, dan berwudhu. | Menghukum anak dengan sanksi berlebihan saat orang tua sedang dalam puncak kemarahan. |
+| **10–14 Tahun (Murahaqah)** | Bahasa Tangan | Melatih remaja menyalurkan energi kemarahan ke dalam olahraga fisik dan doa mustajab. | Membiarkan anak membanting pintu atau merusak barang saat melampiaskan amarahnya. |
+| **15+ Tahun (Syabab)** | Kemitraan Hikmah | Membimbing pemuda agar memiliki kematangan emosi kepemimpinan yang tenang dalam badai provokasi. | Membiarkan pemuda terlibat tawuran atau perkelahian jalanan yang merusak masa depannya. |
+
+---
+
+<!-- ========================================================================== -->
+<!-- ZONA 4: CROSS-LINKS, HORIZONTAL NAVBOX & FOOTNOTES                         -->
+<!-- ========================================================================== -->
+
+## Penautan Konsep Terkait (Cross-Links)
+
+- **Kluster Manhaj:** [[00 - Master Arsitektur PKN]] • [[Tujuan Hidup Manusia]] • [[Tazkiyatun Nafs]]
+- **4 Fase Usia:** [[4 Fase Usia Nabawiyah]] ([[Thufulah]], [[Tamyiz]], [[Murahaqah]], [[Syabab]])
+- **Tiga Bahasa:** [[Bahasa Hati]], [[Bahasa Lisan]], [[Bahasa Tangan]]
+- **Rukun 3A:** [[Adab]], [[Al-Qur'an]], [[Aktivitas Nyata]]
+- **Pilar TB-40:** [[Bakat]], [[Panduan Asesmen dan Observasi TB40]]
+- **Katalog Induk:** [[Master Katalog Dalil Al-Quran]] • [[Master Katalog Dalil Hadits dan Sunnah]]
+
+---
+
+<div class="wiki-navbox">
+  <div class="wiki-navbox-title">
+    <span>Katalog Dalil & Rujukan Nabawiyah Wiki PKN</span>
+    <span>[ <a href="/content/Master Katalog Dalil Al-Quran">Katalog Qur'an</a> • <a href="/content/Master Katalog Dalil Hadits dan Sunnah">Katalog Hadits</a> ]</span>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Pondasi Insan & Jiwa</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/Dalil/dalil-fitrah-kesucian-anak">Fitrah Kesucian</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-tujuan-penciptaan-ibadah">Tujuan Ibadah</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-penciptaan-ruh-dan-jasad">Penciptaan Ruh & Jasad</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-kemuliaan-insan-ahsan-taqwim">Ahsan Taqwim</a>
+    </div>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Fase Usia & Disiplin</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/Dalil/dalil-kasih-sayang-mencium-anak">Kasih Sayang Fisik</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-perintah-shalat-usia-7-dan-10">Perintah Shalat 7 & 10 Thn</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-fase-tamyiz-adab-privasi">Adab Privasi Tamyiz</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-fase-murahaqah-ujian-kemandirian-rusyd">Ujian Rusyd Murahaqah</a>
+    </div>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Tazkiyatun Nafs</div>
+    <div class="wiki-navbox-links">
+      <a href="/content/Dalil/dalil-tazkiyah-poros-keberuntungan-dan-kerugian">Keberuntungan Tazkiyah</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-tazkiyah-doa-permohonan-takwa-jiwa">Doa Taqwa Jiwa</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-tazkiyah-takhalli-larangan-marah-ego">La Taghdhab</a> <span class="wiki-navbox-sep">•</span>
+      <a href="/content/Dalil/dalil-tazkiyah-tahalli-keikhlasan-niat-amal">Niat Ikhlas</a>
+    </div>
+  </div>
+</div>
+
+---
+
+## Referensi dan Catatan Kaki
+
+[^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
+[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+
+---
+
+**Kategori Direktori:** [[Kategori:Dalil Syar'i]] • [[Kategori:Kutubus Sunnah]] • [[Kategori:Tafsir Klasik]]

@@ -169,14 +169,14 @@ Sebagai mitra pengembang amanah orang tua (*Waratsatul Anbiya'*), pendidik forma
 
 Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil, dan literatur resmi peradaban:
 * 📚 **[[Referensi Tambahan Buku Cetak|Delapan Buku Rujukan Utama Manhaj PKN & SOTAB]]:** Karya tulis dan modul resmi perumus manhaj, **Ustadz Abdul Kholiq**:
-  - [📖 Buku Pendidikan Karakter Nabawiyah](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/) — *Cetak biru epistemologi insan, ruh-jasad, dan roadmap fitrah.*
-  - [🎯 Buku Tafsir Bakat](https://karakternabawiyah.com/buku-tafsir-bakat-1/) — *Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan uswah sahabat.* ([Tes Online](https://tafsirbakat.com/) • [Alternatif TB40](https://tb40.insanmustaqbal.or.id/))
-  - [🌱 Buku Recovery Berbasis Fitrah](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/) — *Terapi batin, pemulihan luka pengasuhan, dan hirarki bahasa hati.*
-  - [🏫 Buku Kurikulum Sekolah Karakter Islam](https://karakternabawiyah.com/buku-kurikulum-sekolah-karakter-islam/) — *Integrasi kurikulum berbasis peristiwa, RPP 3 pilar, dan proyek adab.*
-  - [🕌 Buku Menumbuhkan Kesadaran Beramal](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/) — *Membangun kesadaran nurani, shalat barometer jiwa, menolak kepatuhan semu.*
-  - [📏 Buku Panduan Implementasi Standar](https://karakternabawiyah.com/panduan-implementasi-standar/) — *Pedoman tata kelola kelembagaan Standar 11/2024 (Klausul 5–13).*
-  - [🧸 Buku Panduan Kurikulum PAUD/TK Karakter Islam (Rev)](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/) — *Kurikulum usia dini 0–7 tahun, tangki cinta, dan anti-calistung dini.*
-  - [⏳ Buku Bukanlah Sekejap (Edisi Revisi)](https://sotabh.com/portfolio/designing-a-mobile-store-application-2/) — *Prinsip kesabaran tarbiyah, pentahapan tadarruj, dan konsistensi adab harian.*
+  - [[Review Buku Pendidikan Karakter Nabawiyah|📖 Buku Pendidikan Karakter Nabawiyah]] — *Cetak biru epistemologi insan, ruh-jasad, dan roadmap fitrah.*
+  - [[Review Buku Tafsir Bakat|🎯 Buku Tafsir Bakat]] — *Taksonomi 40 pilar bakat nabawiyah (TB40), rukun 3A, dan uswah sahabat.* ([Tes Online](https://tafsirbakat.com/) • [Alternatif TB40](https://tb40.insanmustaqbal.or.id/))
+  - [[Review Buku Recovery Berbasis Fitrah|🌱 Buku Recovery Berbasis Fitrah]] — *Terapi batin, pemulihan luka pengasuhan, dan hirarki bahasa hati.*
+  - [[Review Buku Kurikulum Sekolah Karakter Islam|🏫 Buku Kurikulum Sekolah Karakter Islam]] — *Integrasi kurikulum berbasis peristiwa, RPP 3 pilar, dan proyek adab.*
+  - [[Review Buku Menumbuhkan Kesadaran Beramal|🕌 Buku Menumbuhkan Kesadaran Beramal]] — *Membangun kesadaran nurani, shalat barometer jiwa, menolak kepatuhan semu.*
+  - [[Review Buku Panduan Implementasi Standar PKN|📏 Buku Panduan Implementasi Standar]] — *Pedoman tata kelola kelembagaan Standar 11/2024 (Klausul 5–13).*
+  - [[Review Buku Panduan Kurikulum PAUD-TK Karakter Islam|🧸 Buku Panduan Kurikulum PAUD/TK Karakter Islam (Rev)]] — *Kurikulum usia dini 0–7 tahun, tangki cinta, dan anti-calistung dini.*
+  - [[Review Buku Bukanlah Sekejap|⏳ Buku Bukanlah Sekejap (Edisi Revisi)]] — *Prinsip kesabaran tarbiyah, pentahapan tadarruj, dan konsistensi adab harian.*
 * 📖 **[[Glosarium Istilah Karakter Nabawiyah|Glosarium Istilah Karakter Nabawiyah]]:** Kamus rujukan istilah resmi Manhaj PKN (A–Z), memuat definisi syar'i, terminologi pedagogis, serta panduan purifikasi diksi autentik sumber.
 * 📖 **[[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]]:** Memuat lebih dari 110 ayat Al-Qur'an berharakat lengkap, terjemahan resmi, takhrij surah/ayat, serta syarah klasik dari **Tafsir Ibnu Katsir** melalui korpus **OpenBayan**.
 * 📜 **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]:** Memuat hadits-hadits shahih dari Kutubus Sunnah (*Shahih Bukhari, Shahih Muslim, Riyadush Shalihin, dll.*) yang menjadi pijakan setiap topik.
@@ -198,8 +198,8 @@ Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk
 ## 6. Tata Kelola & Solusi Problematika Implementasi
 
 Dalam penerapannya di lembaga pendidikan maupun keluarga, penegakan manhaj memerlukan keseimbangan antara disiplin mutu (*itqan*) dan kelapangan kasih sayang (*ar-rifq*). Untuk panduan diagnosis kendala lapangan, pencegahan bias *tafrith* (lalai) vs *ifrath* (kaku), serta studi kasus kuratif:
-* ⚖️ **Kaidah & Evaluasi Kebijakan:** [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/index|Kajian Lengkap Paradigma Implementasi & Diagnosis Mutu Lembaga ↗]]
-* 🩺 **Protokol Penanganan Kasus:** [[content_flow/04_pipeline_halaman_case_study|Alur Studi Kasus Lapangan & Manhaj Tadarruj ↗]]
+* ⚖️ **Kaidah & Evaluasi Kebijakan:** [[Paradigma - Implementasi PKN/index|Dokumen Induk Paradigma & Implementasi PKN ↗]] • [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/index|Kajian Paradigma Implementasi & Diagnosis Mutu Lembaga ↗]]
+* 🩺 **Protokol Penanganan Kasus:** [[Bank Studi Kasus|Alur Studi Kasus Lapangan & Manhaj Tadarruj ↗]]
 * 💡 **Solusi Praktis Cepat:** Rujuk ke katalog tanya-jawab dan respon cepat orang tua di [[FAQ Ringkas]] serta arsip refleksi [[Materi SOTAB]].
 
 ---

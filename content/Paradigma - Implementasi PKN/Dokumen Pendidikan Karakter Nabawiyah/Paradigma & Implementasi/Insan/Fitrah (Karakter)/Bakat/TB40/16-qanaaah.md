@@ -19,6 +19,7 @@ tags:
   - berperasaan
   - karakter-nabawiyah
 aliases:
+  - "16-qanaah"
   - "Qanaa'ah"
   - "16-qanaa'ah"
   - "Bakat Qanaa'ah"

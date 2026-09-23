@@ -97,15 +97,126 @@ Proses penyucian jiwa pendidik berlangsung melalui dua tahapan dialektis yang be
 
 ![[canvas/Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]]
 
-### A. Fase Takhalli (Detoksifikasi Racun Hati)
-- **Mengikis Riya' Pengasuhan:** Sering kali orang tua mendidik anak bukan karena Allah, melainkan demi memuaskan gengsi sosial: agar dipuji sebagai "keluarga teladan" atau "orang tua sukses". Riya' ini meracuni ketulusan hubungan dengan anak.
-- **Membuang Ego dan Amarah (*Ghadhab*):** Membentak anak saat melakukan kesalahan biasanya bukan karena membela syariat Allah, melainkan karena ego orang tua yang merasa tidak dihargai. Takhalli menuntut orang tua belajar menahan amarah (*kazhmul ghaizh*).
-- **Menjauhkan Harta Syubhat:** Setiap suapan makanan haram yang masuk ke perut keluarga akan menggelapkan hati anak dan menutup pintu hidayah.
+### A. Fase Takhalli (Detoksifikasi Racun Hati Pendidik)
 
-### B. Fase Tahalli (Penghiasan dengan Akhlak Mulia)
-- **Ikhlas Semata-mata Mencari Ridha Allah:** Membebaskan diri dari pamrih ucapan terima kasih anak. Orang tua mendidik karena taat pada perintah Allah, bukan demi investasi balasan budi materi di masa tua.
-- **Kelemahlembutan (*Ar-Rifq*):** Sebagaimana sabda Nabi ﷺ: *“Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah dicabut dari sesuatu melainkan ia akan memperburuknya”* (HR. Muslim No. 2594).
-- **Istiqamah Menghidupkan Ibadah Khusus:** Menghidupkan shalat tahajjud, memperbanyak tilawah Al-Qur'an, dan istighfar harian untuk menjaga stabilitas cahaya batin.
+Fase *takhalli* adalah proses pengosongan dan pembersihan bejana batin (*tathhirul qalb*) dari berbagai kotoran spiritual yang merusak keikhlasan dan menodai keteladanan. Tiga racun utama yang wajib disingkirkan pendidik meliputi:
+
+#### 1. Mengikis Riya' Pengasuhan dan Gengsi Sosial
+Sering kali orang tua atau guru mendidik anak bukan murni karena Allah, melainkan demi memuaskan ego pencitraan: ingin dipuji sebagai "orang tua sukses", membanggakan hafalan anak di media sosial, atau memenangkan gengsi keluarga. Riya' ini adalah syirik kecil (*asy-syirkul ashghar*) yang meracuni hubungan batin dengan anak.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الأَصْغَرُ: الرِّيَاءُ، يَقُولُ اللَّهُ يَوْمَ الْقِيَامَةِ إِذَا جَزَى النَّاسَ بِأَعْمَالِهِمْ: اذْهَبُوا إِلَى الَّذِينَ كُنْتُمْ تُرَاءُونَ فِي الدُّنْيَا، فَانْظُرُوا هَلْ تَجِدُونَ عِنْدَهُمْ جَزَاءً؟
+</div>
+
+> *"Sesungguhnya perkara yang paling aku takuti menimpa kalian adalah syirik kecil, yaitu riya'. Allah berfirman pada hari kiamat tatkala membalas manusia atas amal-amal mereka: 'Pergilah kalian kepada orang-orang yang dahulu kalian pameri amal kalian di dunia, lalu lihatlah apakah kalian mendapati balasan kebaikan di sisi mereka?'"*  
+> — **HR. Ahmad (No. 23630) & Al-Baghawi dalam Syarhus Sunnah**
+
+📚 **Syarah Al-Imam Ibnul Atsir & Al-Hafizh Al-Iraqi:** Riya' menyusup sangat halus laksana langkah semut hitam di atas batu hitam pada malam pekat. Pendidik yang mendidik demi pujian manusia akan menuai kekecewaan saat anak tidak sesuai ekspektasi sosialnya, sedangkan mendidik karena Allah melahirkan kesabaran tanpa batas.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-takhalli-mengikis-riya-syirik-ashghar|Hadits Bahaya Riya' sebagai Syirik Kecil Perusak Amal]]
+
+#### 2. Membuang Ego dan Amarah (*Ghadhab*)
+Membentak, mencaci, atau memukul anak saat berbuat salah biasanya berakar dari ketersinggungan ego pribadi orang tua yang merasa tidak dihormati, bukan karena membela syariat Allah (*ghadhab lillah*). Takhalli menuntut pendidik melatih pengendalian amarah (*kazhmul ghaizh*).
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+</div>
+
+> *"(Yaitu) orang-orang yang berinfak, baik di waktu lapang maupun sempit, dan orang-orang yang menahan amarahnya dan memaafkan (kesalahan) orang lain. Allah mencintai orang-orang yang berbuat kebaikan."*  
+> — **QS. Ali 'Imran: 134**
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: أَوْصِنِي، قَالَ: لَا تَغْضَبْ. فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ
+</div>
+
+> *"Bahwa seorang laki-laki berkata kepada Nabi ﷺ: 'Berwasiatlah kepadaku!' Beliau bersabda: 'Janganlah engkau marah!' Lelaki itu mengulang permintaannya beberapa kali, dan Nabi tetap bersabda: 'Janganlah engkau marah!'"*  
+> — **HR. Bukhari (No. 6116)**
+
+📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani (*Fathul Bari* X/520):** Amarah menghimpun seluruh pangkal keburukan watak. Larangan *la taghdhab* menuntut dua hal: mengendalikan diri saat dorongan marah timbul sehingga tidak terlontar cercaan atau kekerasan jasmani, serta menempuh sebab peredanya (seperti berwudhu, duduk, atau diam sejenak).  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-takhalli-menahan-marah-kazhmul-ghaizh|QS. Ali 'Imran: 134 (Menahan Amarah / Kazhmul Ghaizh)]] • [[dalil-tazkiyah-takhalli-larangan-marah-ego|HR. Bukhari No. 6116 (Larangan Melampiaskan Amarah Ego)]]
+
+#### 3. Menjauhkan Hubbud Dunya, Harta Syubhat, dan Makanan Haram
+Setiap suapan makanan yang masuk ke perut keluarga akan bertransformasi menjadi darah dan energi yang mengalir ke pusat kalbu. Memberi nafkah syubhat atau haram kepada anak ibarat menyiram benih fitrah dengan racun yang membutakan mata batin.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+إِنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ ... أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
+</div>
+
+> *"Sesungguhnya yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara syubhat (samar) yang tidak diketahui oleh kebanyakan manusia. Maka barangsiapa yang menjaga diri dari perkara syubhat, sungguh ia telah membersihkan agamanya dan kehormatannya... Ketahuilah bahwa di dalam jasad ada segumpal daging, jika ia baik maka baiklah seluruh jasad, dan jika ia rusak maka rusaklah seluruh jasad; ketahuilah segumpal daging itu adalah hati."*  
+> — **HR. Bukhari (No. 52) & Muslim (No. 1599)**
+
+📚 **Syarah Al-Hafizh Ibnu Rajab Al-Hanbali (*Jami'ul 'Ulum wal Hikam*):** Kesucian hati (*shalahul qalb*) berbanding lurus dengan kehalalan asupan fisik. Makanan haram mematikan kepekaan nurani, menolak terkabulnya doa orang tua untuk keshalihan anak (HR. Muslim No. 1015), dan membuat anak sulit menerima bimbingan tauhid.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram|HR. Bukhari No. 52 (Menjaga Kesucian Qalb dari Syubhat)]] • [[dalil-tazkiyah-takhalli-bahaya-makanan-haram-menolak-doa|HR. Muslim No. 1015 (Makanan Haram Menghalangi Doa Pengasuhan)]]
+
+---
+
+### B. Fase Tahalli (Penghiasan Bejana Jiwa dengan Akhlak Mulia)
+
+Setelah bejana batin dikosongkan dari kotoran syirik kecil, amarah ego, dan harta syubhat, pendidik wajib menghiasinya (*tahalli*) dengan permata akhlak nabawiyah:
+
+#### 1. Keikhlasan Niat Semata-mata Mencari Ridha Allah
+Tarbiyah nabawiyah berfondasi pada ketulusan total: membebaskan diri dari pamrih ucapan terima kasih atau balas budi materi di masa tua. Pendidik menunaikan hak anak semata-mata sebagai wujud kepatuhan terhadap amanah Allah.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا، أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ
+</div>
+
+> *"Sesungguhnya seluruh amal perbuatan itu hanya bergantung pada niatnya, dan sesungguhnya setiap orang hanya akan memperoleh apa yang ia niatkan. Barangsiapa yang hijrahnya demi mencari dunia yang ingin diraihnya atau demi wanita yang ingin dinikahinya, maka hijrahnya itu kepada apa yang ia niatkan hijrah kepadanya."*  
+> — **HR. Bukhari (No. 1) & Muslim (No. 1907)**
+
+📚 **Syarah Al-Imam An-Nawawi (*Syarah Shahih Muslim* XIII/53):** Niat adalah pembeda esensial antara tradisi pengasuhan sekadar naluri hewani (*'adah*) dengan amal peribadatan suci (*'ibadah*). Keikhlasan guru dan orang tua memancarkan daya getar batin (*haibah ruhiyyah*) yang melunakkan kekerasan watak santri.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-tahalli-keikhlasan-niat-amal|HR. Bukhari No. 1 (Keikhlasan Niat Amal Tarbiyah)]]
+
+#### 2. Kelemahlembutan (*Ar-Rifq*) dalam Komunikasi Edukatif
+Sikap lemah lembut bukan tanda kelemahan, melainkan mahkota keindahan kepribadian pendidik yang menaklukkan ketegaran hati anak tanpa meremukkan fitrahnya.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ
+</div>
+
+> *"Sesungguhnya kelembutan itu tidaklah ada pada sesuatu melainkan ia akan menghiasinya (menjadikannya indah), dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya (menjadikannya tercela)."*  
+> — **HR. Muslim (No. 2594)**
+
+📚 **Syarah Al-Imam An-Nawawi (*Syarah Shahih Muslim* XVI/146):** Kelembutan adalah instrumen pengubah perilaku paling ampuh. Bentakan kasar hanya memicu resistensi dan kepura-puraan patuh lahiriah, sedangkan nasihat yang disampaikan dengan *rifq* menyentuh relung sanubari anak dan membuahkan kesadaran intrinsik.  
+🔗 **Dalil Terkait:** [[dalil-bahasa-hati-kelembutan-ar-rifq|HR. Muslim No. 2594 (Keutamaan Sikap Lemah Lembut / Ar-Rifq)]]
+
+#### 3. Qiyamullail (Generator Spiritualitas Pengasuhan)
+Mendidik generasi di tengah badai fitnah akhir zaman adalah beban berat (*qaulan tsaqila*). Energi kesabaran dan kejernihan pikiran orang tua harus diisi ulang setiap malam melalui munajat sujud tahajjud.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا ۝ نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا ۝ أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا ۝ إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا ۝ إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+</div>
+
+> *"Wahai orang yang berselimut (Muhammad)! Bangunlah (untuk shalat) pada malam hari, kecuali sebagian kecil... Dan bacalah Al-Qur'an itu dengan perlahan-lahan (tartil). Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu. Sesungguhnya bangun di waktu malam adalah lebih tepat (untuk kekhusyukan) dan bacaan di waktu itu lebih berkesan."*  
+> — **QS. Al-Muzzammil: 1–6**
+
+📚 **Syarah Al-Hafizh Ibnu Katsir (*Tafsir Al-Qur'an Al-'Azhim* VIII/250):** Qiyamullail diwajibkan kepada Rasulullah ﷺ sebelum penugasan dakwah akbar; munajat hening malam hari (*nasyi'atal lail*) menyatukan hati, mata, dan telinga, memberikan ketabahan mental bagi pendidik saat menghadapi kedurhakaan dan kelelahan tarbiyah di siang hari.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-tahalli-shalat-malam-dan-penyucian-diri|QS. Al-Muzzammil: 1–6 (Qiyamullail Pendidik Menghadapi Tugas Berat)]]
+
+#### 4. Istiqamah Menjaga Amalan Harian
+Karakter nabawiyah tidak terbangun dari program insidental yang gegap gempita, melainkan dari kedisiplinan menjaga wirid amalan sunnah harian secara konsisten (*dawamul 'amal*).
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ
+</div>
+
+> *"Amalan yang paling dicintai oleh Allah adalah yang paling terus-menerus (rutin dilakukan) meskipun sedikit."*  
+> — **HR. Bukhari (No. 6464) & Muslim (No. 782)**
+
+📚 **Syarah Al-Hafizh Ibnu Hajar Al-Asqalani (*Fathul Bari* XI/294):** Rutinitas kebajikan yang sedikit namun ajeg menjaga muraqabah kalbu, menghalau kebosanan batin (*al-malal*), dan menyuburkan keberkahan. Keteladanan anak lahir dari kebiasaan orang tua yang tidak pernah meninggalkan shalat berjamaah tepat waktu, tilawah harian, dan zikir pagi-petang.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-tahalli-istiqamah-amalan-harian|HR. Bukhari No. 6464 (Kontinuitas dan Istiqamah Amalan Harian)]]
+
+#### 5. Mewujudkan Qalbun Salim (Hati yang Sehat dan Selamat)
+Muara akhir dari seluruh ikhtiar Tahalli adalah kepemilikan kalbu yang selamat (*qalbun salim*): hati yang suci dari syirik, keraguan syubhat, noda syahwat, serta bersih dari dengki dan kedengkian kepada sesama hamba Allah.
+
+<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.3rem; line-height: 2.3rem; text-align: right; direction: rtl; padding: 0.85rem 1.25rem; background: var(--highlight); border-radius: 6px; border-right: 4px solid var(--secondary); margin-bottom: 0.75rem;">
+يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ ۝ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
+</div>
+
+> *"(Yaitu) pada hari di mana harta dan anak-anak tidak berguna, kecuali orang-orang yang menghadap Allah dengan hati yang bersih (selamat)."*  
+> — **QS. Asy-Syu'ara: 88–89**
+
+📚 **Syarah Imam Ibnul Qayyim Al-Jauziyyah (*Madarijus Salikin*):** Hati yang selamat adalah hati yang bebas dari syirik yang menafikan tauhid, bid'ah yang menafikan sunnah, syahwat yang menafikan perintah Allah, dan kotoran hasad yang menafikan kasih sayang sesama mukmin. Orang tua yang memiliki qalbun salim akan memandang anak sebagai amanah suci yang harus dikembalikan kepada Allah dalam kondisi hati yang bertauhid.  
+🔗 **Dalil Terkait:** [[dalil-tazkiyah-tahalli-keselamatan-hati-qalbun-salim|QS. Asy-Syu'ara: 88–89 (Puncak Penyucian Hati Qalbun Salim)]]
 
 ---
 
@@ -267,6 +378,20 @@ Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Ma
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
 * [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[dalil-tazkiyah-poros-keberuntungan-dan-kerugian]] — QS. Asy-Syams: 9–10 (Tazkiyah Poros Keberuntungan & Kerugian Jiwa).
+* [[dalil-tazkiyah-doa-permohonan-takwa-jiwa]] — Hadits Doa Permohonan Takwa dan Kesucian Jiwa (HR. Muslim No. 2722).
+* [[dalil-tazkiyah-takhalli-mengikis-riya-syirik-ashghar]] — Hadits Mengikis Riya' Pengasuhan & Gengsi Sosial.
+* [[dalil-tazkiyah-takhalli-menahan-marah-kazhmul-ghaizh]] — QS. Ali 'Imran: 134 (Menahan Amarah / Kazhmul Ghaizh).
+* [[dalil-tazkiyah-takhalli-larangan-marah-ego]] — Hadits La Taghdhab (Larangan Melampiaskan Amarah Ego).
+* [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram]] — Hadits Menjauhi Syubhat & Menjaga Kesucian Qalb.
+* [[dalil-tazkiyah-takhalli-bahaya-makanan-haram-menolak-doa]] — Hadits Bahaya Harta Haram Menghalangi Terkabulnya Doa.
+* [[dalil-tazkiyah-tahalli-keikhlasan-niat-amal]] — Hadits Niat & Keikhlasan Amal Tarbiyah.
+* [[dalil-bahasa-hati-kelembutan-ar-rifq]] — Hadits Keutamaan Ar-Rifq (Kelembutan Pengasuhan).
+* [[dalil-tazkiyah-tahalli-shalat-malam-dan-penyucian-diri]] — QS. Al-Muzzammil: 1–6 (Qiyamullail Pendidik Menghadapi Tugas Berat).
+* [[dalil-tazkiyah-tahalli-istiqamah-amalan-harian]] — Hadits Kontinuitas & Keistiqamahan Amalan Harian.
+* [[dalil-tazkiyah-tahalli-keselamatan-hati-qalbun-salim]] — QS. Asy-Syu'ara: 88–89 (Puncak Penyucian Hati Qalbun Salim).
+* [[Master Katalog Dalil Al-Quran]] — Direktori tematik dalil naqli Al-Qur'an manhaj PKN.
+* [[Master Katalog Dalil Hadits dan Sunnah]] — Direktori tematik dalil naqli hadits nabawi manhaj PKN.
 
 ---
 

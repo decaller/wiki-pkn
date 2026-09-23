@@ -140,7 +140,7 @@ Untuk mendukung implementasi **Tafsir Bakat 40 (TB-40)** di sekolah, pesantren, 
 ### D. API TB40 Explore & Peta Bakat Visual
 * **Repositori:** [Yayasan-Bina-Insan-Mustaqbal/api-tb40-explore](https://github.com/Yayasan-Bina-Insan-Mustaqbal/api-tb40-explore) • [decaller/pub.insantaqwa.org](https://github.com/decaller/pub.insantaqwa.org)
 * **Alamat Web Visual:** [https://pub.insantaqwa.org/bakat/](https://pub.insantaqwa.org/bakat/)
-* **Fungsi:** Menyajikan visualisasi graf jejaring sifat insan, memudahkan pendidik memahami pasangan pengimbang pilar bakat serta arketipe sahabat Nabi ﷺ.
+* **Fungsi:** Menyajikan visualisasi graf jejaring sifat insan, memudahkan pendidik memahami pasangan pengimbang pilar bakat serta uswah sahabat sahabat Nabi ﷺ.
 
 ---
 
@@ -300,9 +300,9 @@ Bagi para insinyur perangkat lunak (*software engineers*), pengembang web, data 
   - [Peta Visual Bakat Insan Taqwa](https://pub.insantaqwa.org/bakat/)
   - [Portal Wiki PKN](https://wikipkn.insanmustaqbal.or.id/)
 - **Dokumen Terkait di Wiki PKN:**
-  - [[content/Referensi/index|Pusat Referensi & Sumber Rujukan]]
-  - [[content/Referensi/Panduan Kontribusi|Panduan Kontribusi Wiki PKN]]
-  - [[content/Referensi/Korpus Dalil & Atsar Klasik|Korpus Dalil & Atsar Klasik OpenBayan]]
+  - [[Referensi/index|Pusat Referensi & Sumber Rujukan]]
+  - [[Referensi/Panduan Kontribusi|Panduan Kontribusi Wiki PKN]]
+  - [[Referensi/Korpus Dalil & Atsar Klasik|Korpus Dalil & Atsar Klasik OpenBayan]]
   - [[Bakat]]
   - [[Panduan Asesmen dan Observasi TB40]]
   - [[Kuisioner Asesmen 40 Bakat Nabawiyah]]

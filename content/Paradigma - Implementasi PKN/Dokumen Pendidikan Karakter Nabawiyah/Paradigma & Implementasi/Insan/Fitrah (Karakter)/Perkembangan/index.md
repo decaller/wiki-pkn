@@ -2,7 +2,7 @@
 aliases:
   - "Perkembangan"
   - "4 Fase Usia Nabawiyah"
-  - "4 Etape Usia Nabawiyah"
+  - "4 Fase Usia Nabawiyah"
 title: "Perkembangan"
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 tags:

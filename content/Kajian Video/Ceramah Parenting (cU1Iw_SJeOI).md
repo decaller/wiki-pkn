@@ -100,7 +100,7 @@ sources:
 | [81:39](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=4899s) | **Lima Bahasa Hati (2): Hadiah, Pelayanan, Sentuhan** | Lanjutan bahasa hati: 3) Hadiah (Rasul beri 1 lembah kambing), 4) Pelayanan (masakkan, ambilkan), 5) Sentuhan fisik (peluk, cium kening, usap rambut). Lima bahasa ini untuk menyembuhkan masalah kesadaran. |
 | [86:40](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=5200s) | **Bahasa Lisan: Nasihat untuk yang Sudah Beriman** | Bahasa lisan untuk anak yang sudah beriman tapi belum berilmu. Contoh: orang Arab Badui kencing di masjid, Rasul tunggu selesai baru beri nasihat lembut. Juga kisah Mu'awiyah bin Hakam yang bicara saat shalat. |
 | [91:40](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=5500s) | **Bahasa Ketegasan: Untuk yang Sudah Beriman dan Berilmu** | Ketegasan untuk yang sudah beriman dan berilmu tapi melanggar. Contoh: Ka'b bin Malik tidak ikut perang Tabuk, dikucilkan 50 hari. Juga Mu'adz bin Jabal yang dimarahi karena baca surat panjang saat jadi imam. |
-| [96:40](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=5800s) | **Urutan Disiplin: Iman, Ilmu, Amal** | Ada tiga disiplin: disiplin iman (setiap nafas lillah), disiplin ilmu (rajin bertanya/belajar), disiplin amal (jadwal, reward-punishment). Jangan langsung disiplin amal tanpa iman dan ilmu tuntas dulu, nanti jadi robot. |
+| [96:40](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=5800s) | **Urutan Disiplin: Iman, Ilmu, Amal** | Ada tiga disiplin: disiplin iman (setiap nafas lillah), disiplin ilmu (rajin bertanya/belajar), disiplin amal (jadwal, reward-ta'dib). Jangan langsung disiplin amal tanpa iman dan ilmu tuntas dulu, nanti jadi robot. |
 | [101:41](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=6101s) | **Ketegasan untuk Anak yang Sudah Baligh** | Anak yang sudah baligh harus ditegaskan statusnya: sudah dewasa, tidak wajib dinafkahi (kecuali sedekah), harus mandiri. Sampaikan dengan lembut tapi tegas agar mereka sadar sudah mukallaf dan bertanggung jawab. |
 | [106:42](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=6402s) | **Pentingnya Menumbuhkan Cinta di Rumah** | Cinta adalah dasar semua amalan. Anak yang cintanya tumbuh akan belajar dan murojaah dengan kesadaran. Tugas utama menumbuhkan cinta ada di rumah, bukan sekolah. Jika cinta tidak tumbuh, anak akan malas ibadah dan belajar. |
 | [111:43](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=6703s) | **Perbandingan Pendidikan Dulu dan Sekarang** | Dulu anak ditegasi tidak masalah karena ego tuntas lewat bermain di alam. Sekarang anak lebih peka dan mudah terluka karena pengaruh internet dan kurang bermain bebas. Metode pendidikan harus menyesuaikan zaman dan teknologi. |
@@ -340,7 +340,7 @@ Transkrip belum tersedia.
 ### ⏱️ [96:40](https://www.youtube.com/watch?v=cU1Iw_SJeOI&t=5800s) - Urutan Disiplin: Iman, Ilmu, Amal
 
 > [!info] Ringkasan Bab
-> Ada tiga disiplin: disiplin iman (setiap nafas lillah), disiplin ilmu (rajin bertanya/belajar), disiplin amal (jadwal, reward-punishment). Jangan langsung disiplin amal tanpa iman dan ilmu tuntas dulu, nanti jadi robot.
+> Ada tiga disiplin: disiplin iman (setiap nafas lillah), disiplin ilmu (rajin bertanya/belajar), disiplin amal (jadwal, reward-ta'dib). Jangan langsung disiplin amal tanpa iman dan ilmu tuntas dulu, nanti jadi robot.
 
 <details>
 <summary>📜 Buka Transkrip Lengkap Bab Ini</summary>

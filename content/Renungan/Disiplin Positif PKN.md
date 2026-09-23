@@ -322,13 +322,13 @@ Bagi orang tua yang merasa telah melompati tahapan di atas, pintu pemulihan (*re
 ---
 
 ## Tautan Silang & Rujukan Terkait
-* [[content/Renungan/Hak dan Kewajiban|Renungan: Hak dan Kewajiban Anak]]
-* [[content/Renungan/index|Renungan Pengasuhan Nabawiyah: Ruang Tadabbur Jiwa Pendidik]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Thufulah|Fase Perkembangan: Thufulah (0–7 Tahun)]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Tamyiz|Fase Perkembangan: Tamyiz (7–10 Tahun)]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Murahaqah|Fase Perkembangan: Murahaqah (10 Tahun – Baligh)]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka & Hutang Pengasuhan]]
+* [[Renungan/Hak dan Kewajiban|Renungan: Hak dan Kewajiban Anak]]
+* [[Renungan/index|Renungan Pengasuhan Nabawiyah: Ruang Tadabbur Jiwa Pendidik]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Thufulah|Fase Perkembangan: Thufulah (0–7 Tahun)]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Tamyiz|Fase Perkembangan: Tamyiz (7–10 Tahun)]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Murahaqah|Fase Perkembangan: Murahaqah (10 Tahun – Baligh)]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka & Hutang Pengasuhan]]
 
 ---
 

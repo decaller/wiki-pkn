@@ -4,6 +4,9 @@ description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakte
 tags:
   - pendidikan-karakter
   - fitrah-nabawiyah
+
+aliases:
+  - "Asesmen Bakat"
 ---
 
 <!-- ========================================================================== -->
@@ -184,7 +187,7 @@ Dalam pandangan PKN, **tidak ada anak yang gagal diciptakan Allah**. Anak-anak d
 
 ## 7. Enam Kategori Bakat Utama (Level 6)
 
-Persilangan antara Kutub Energi Sosial (Introvert vs Extrovert) dan Dimensi Jiwa (Karsa, Cipta, Rasa) menghasilkan 6 kluster bakat utama yang menaungi [[CONTENT_ANALYSIS#3.5-tingkat-40-katalog-komprehensif-40-pilar-karakter-nabawiyah|40 Pilar Karakter Nabawiyah (TB40)]]:
+Persilangan antara Kutub Energi Sosial (Introvert vs Extrovert) dan Dimensi Jiwa (Karsa, Cipta, Rasa) menghasilkan 6 kluster bakat utama yang menaungi [[TB40|40 Pilar Karakter Nabawiyah (TB40)]]:
 
 1. **[[Bekerja Keras]] (الحَمَاسَة):** Introvert + Karsa — Daya tahan fisik, ambisi tinggi, tekad membaja.
 2. **[[Berpikir]] (التَّفْكِيْر):** Introvert + Cipta — Ketajaman analisa nalar, perumusan hikmah, kreativitas solusi.

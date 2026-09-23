@@ -4,6 +4,9 @@ description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakte
 tags:
   - pendidikan-karakter
   - fitrah-nabawiyah
+
+aliases:
+  - "Paradigma - Implementasi PKN"
 ---
 
 <!-- ========================================================================== -->
@@ -113,7 +116,7 @@ Membongkar hakikat manusia ciptaan Allah yang terdiri dari pertemuan sakral anta
 
 ### B. Pilar II: [[Pendidikan Ideal]] (Bagaimana Cara Mendidiknya?)
 Merumuskan metodologi pengasuhan yang meneladani kelembutan dan ketegasan Rasulullah ﷺ:
-* **[[Konsep Mendidik Anak]]** dan penanaman **[[Nilai-Nilai Dasar]]** ketauhidan.
+* **[[Benang Merah Pendidikan|Konsep Mendidik Anak]]** dan penanaman **[[Fitrah (Karakter)|Nilai-Nilai Dasar]]** ketauhidan.
 * **[[Metode Mendidik]]** berbasis hirarki 3 bahasa tarbiyah: [[Bahasa Hati]] (kehangatan jiwa), [[Bahasa Lisan]] (komunikasi Qur'ani), dan [[Bahasa Tangan]] (ta'dib tegas terukur).
 * Pencegahan dan pemulihan: **[[Luka dan Hutang Pengasuhan]]**, terapi **[[Recovery]]**, serta penanganan sindrom **[[Euforia]]**.
 * Benteng proteksi pergaulan: **[[Batas Toleransi]]** dan **[[Imunitas Sosial]]**.
@@ -137,7 +140,7 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
 ## 5. Hubungan Antar Dokumen & Tautan Strategis
 
 * **Halaman Induk Utama:**
-  * [[Beranda Utama]] — Pintu masuk publik repositori Wiki PKN.
+  * [[index]] — Pintu masuk publik repositori Wiki PKN.
   * [[Dokumen Pendidikan Karakter Nabawiyah]] — Indeks katalog resmi dokumen PKN.
   * [[Paradigma & Implementasi]] — Sintesis konseptual dan implementatif.
 * **Dokumen Operasional:**
@@ -145,7 +148,7 @@ Bagi Anda yang baru pertama kali mengakses Wiki PKN, kami menyarankan urutan pen
   * [[Panduan RPP dan Observasi Lapangan]] — Petunjuk teknis pembuatan rencana pembelajaran dan asesmen 3A.
   * [[Bakat]] — Katalog lengkap 40 pilar bakat nabawiyah dan pemetaan karir peradaban.
 * **Ruang Refleksi:**
-  * [[Renungan Pengasuhan Nabawiyah]] — Kumpulan tadabbur dan evaluasi diri orang tua.
+  * [[Renungan/index]] — Kumpulan tadabbur dan evaluasi diri orang tua.
 
 ---
 

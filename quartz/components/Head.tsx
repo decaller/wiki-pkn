@@ -92,6 +92,7 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <link rel="apple-touch-icon" href={appleTouchIcon} />
+        <link rel="canonical" href={socialUrl} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

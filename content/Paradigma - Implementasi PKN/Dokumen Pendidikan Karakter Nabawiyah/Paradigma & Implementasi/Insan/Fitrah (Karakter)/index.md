@@ -127,7 +127,7 @@ Pendidikan Karakter Nabawiyah memetakan fitrah anak ke dalam empat rumpun dimens
 
 Pola asuh modern yang mengadopsi filsafat sekuler sering kali merusak fitrah tanpa disadari. Perhatikan perbandingan mendasar berikut:
 
-| Parameter Evaluasi | Doktrin Tabula Rasa (Sekuler) | Paradigma Fitrah Nabawiyah |
+| Parameter Evaluasi | Doktrin Fitrah Insan (Sekuler) | Paradigma Fitrah Nabawiyah |
 |---|---|---|
 | **Pandangan Awal Anak** | Kertas putih kosong tanpa potensi bawaan; pasif dibentuk. | Benih pohon agung yang sudah memiliki cetak biru kebaikan utuh. |
 | **Peran Orang Tua/Guru** | Pemahat yang memaksakan kehendak (*sculptor/molder*). | Petani bijak yang merawat tanah, menyiram, dan menjaga hama (*gardener*). |

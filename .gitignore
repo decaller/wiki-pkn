@@ -43,3 +43,7 @@ data/buku_*/
 Buku_Utama_PKN*
 buku_tafsir_bakat*
 panduan_implementasi*
+
+# Agent metadata and orchestration files
+.agents/
+ORIGINAL_REQUEST.md

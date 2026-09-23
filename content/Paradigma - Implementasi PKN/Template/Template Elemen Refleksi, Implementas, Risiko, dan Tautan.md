@@ -141,7 +141,7 @@ Gunakan blok ini untuk memberikan tips cepat dan ringkas yang dapat langsung dip
 ## 5. Format Penulisan Tautan Silang (*Wikilinks*) Dua Arah
 
 Agar seluruh halaman Wiki PKN saling terhubung dengan rapi tanpa ada halaman buntu (*orphan pages*), patuhi kaidah penulisan tautan berikut:
-* Gunakan nama file persis di dalam tanda kurung siku ganda: `[[Nama Halaman]]` (contoh: `[[Thufulah]]`, `[[Bahasa Hati]]`).
+* Gunakan nama file persis di dalam tanda kurung siku ganda: ``Nama Halaman`` (contoh: `[[Thufulah]]`, `[[Bahasa Hati]]`).
 * Jika ingin menampilkan teks alternatif yang lebih luwes dalam kalimat, gunakan pipa: `[[Nama Halaman|Teks Tampilan]]` (contoh: `[[Thufulah|masa kanak-kanak dini (0-7 tahun)]]`).
 * Setiap artikel baru wajib menautkan minimal ke:
   1. Halaman konsep payung di atasnya (misal: sub-bakat menautkan ke [[Bakat]]).

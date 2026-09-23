@@ -352,9 +352,9 @@ Berikut adalah ikhtisar komprehensif seluruh program resmi yang diselenggarakan 
   - [[8 Standar Implementasi PKN]]
   - [[Panduan RPP dan Observasi Lapangan]]
   - [[Kaidah Implementasi di Berbagai Lembaga]]
-  - [[Bahasa Pengasuhan]]
-  - [[Akil Baligh]]
-  - [[Asesmen Bakat]]
+  - [[Metode Mendidik|Bahasa Pengasuhan]]
+  - [[Murahaqah|Akil Baligh]]
+  - [[Bakat|Asesmen Bakat]]
 
 ---
 

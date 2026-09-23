@@ -19,6 +19,7 @@ tags:
   - memerintah
   - karakter-nabawiyah
 aliases:
+  - "18-syajaah"
   - "Syajaa’ah"
   - "18-syajaa’ah"
   - "Bakat Syajaa’ah"

@@ -161,7 +161,7 @@ Setiap artikel harus memenuhi ambang batas kualitas minimum:
 | Komponen | Teknologi | Versi/Detail |
 | :--- | :--- | :--- |
 | **Static Site Generator** | [Quartz v5](https://quartz.jzhao.xyz/) | v5.0.0 — berbasis TypeScript/React |
-| **Format Konten** | Markdown + Obsidian Flavored Markdown | WikiLinks `[[...]]`, Callouts, Canvas |
+| **Format Konten** | Markdown + Obsidian Flavored Markdown | WikiLinks ``...``, Callouts, Canvas |
 | **Diagram Visual** | Obsidian Canvas (JSON Canvas 1.0) | 96 berkas `.canvas` aktif, 0 Mermaid |
 | **Pencarian** | Quartz Full-Text Search (FlexSearch) | Client-side, tanpa backend |
 | **Komentar** | Giscus (GitHub Discussions) | Repositori `decaller/wiki-pkn` |
@@ -175,7 +175,7 @@ plugins:
   transformers:
     - ObsidianFlavoredMarkdown    # WikiLinks, Callouts, Canvas
     - GitHubFlavoredMarkdown      # Tables, Strikethrough
-    - CrawlLinks                  # resolusi [[wikilink]] ke path
+    - CrawlLinks                  # resolusi `wikilink` ke path
     - Citations                   # BibTeX citation rendering
     - HardLineBreaks
     - TableOfContents             # TOC otomatis

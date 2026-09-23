@@ -1,5 +1,9 @@
 ---
 title: "Pembelajaran Alamiah"
+
+aliases:
+  - "Aktivitas Nyata"
+  - "Pembelajaran Berbasis Projek"
 ---
 
 <!-- ========================================================================== -->

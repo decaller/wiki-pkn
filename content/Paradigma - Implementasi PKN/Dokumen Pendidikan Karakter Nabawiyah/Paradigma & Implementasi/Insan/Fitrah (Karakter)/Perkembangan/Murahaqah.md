@@ -7,6 +7,10 @@ tags:
   - baligh
   - bahasa_tangan
   - taklif
+
+aliases:
+  - "Akil Baligh"
+  - "Akil-Baligh"
 ---
 
 <!-- ========================================================================== -->

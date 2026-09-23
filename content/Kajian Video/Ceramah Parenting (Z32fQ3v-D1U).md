@@ -81,7 +81,7 @@ sources:
 
 | Waktu Mulai | Topik Pembahasan | Ringkasan Inti |
 |:---:|:---|:---|
-| [01:18](https://www.youtube.com/watch?v=Z32fQ3v-D1U&t=78s) | **Bahaya Mengikuti Konsep Pendidikan Barat** | Pendidikan Islam sering terpengaruh konsep Barat seperti teori John Locke (tabula rasa). Pola asuh warisan yang salah terus diturunkan dari generasi ke generasi karena ego yang tidak tuntas. |
+| [01:18](https://www.youtube.com/watch?v=Z32fQ3v-D1U&t=78s) | **Bahaya Mengikuti Konsep Pendidikan Barat** | Pendidikan Islam sering terpengaruh konsep Barat seperti teori John Locke (fitrah insan). Pola asuh warisan yang salah terus diturunkan dari generasi ke generasi karena ego yang tidak tuntas. |
 
 ---
 
@@ -90,7 +90,7 @@ sources:
 ### ⏱️ [01:18](https://www.youtube.com/watch?v=Z32fQ3v-D1U&t=78s) - Bahaya Mengikuti Konsep Pendidikan Barat
 
 > [!info] Ringkasan Bab
-> Pendidikan Islam sering terpengaruh konsep Barat seperti teori John Locke (tabula rasa). Pola asuh warisan yang salah terus diturunkan dari generasi ke generasi karena ego yang tidak tuntas.
+> Pendidikan Islam sering terpengaruh konsep Barat seperti teori John Locke (fitrah insan). Pola asuh warisan yang salah terus diturunkan dari generasi ke generasi karena ego yang tidak tuntas.
 
 <details>
 <summary>📜 Buka Transkrip Lengkap Bab Ini</summary>

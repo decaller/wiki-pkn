@@ -97,7 +97,7 @@ Pendidikan Karakter Nabawiyah hadir sebagai jawaban atas kegagalan sistem pendid
 
 | Dimensi Evaluasi | Paradigma Pendidikan Sekuler Modern | Paradigma Pendidikan Karakter Nabawiyah (PKN) |
 | :--- | :--- | :--- |
-| **Hakikat Anak** | Kertas putih kosong (*tabula rasa*) yang harus diisi dan dibentuk oleh lingkungan luar. | Makhluk mulia yang telah membawa cetak biru suci (*fitrah*) dan potensi ketauhidan sejak lahir. |
+| **Hakikat Anak** | Kertas putih kosong (*fitrah insan*) yang harus diisi dan dibentuk oleh lingkungan luar. | Makhluk mulia yang telah membawa cetak biru suci (*fitrah*) dan potensi ketauhidan sejak lahir. |
 | **Peran Orang Tua** | Konsumen pendidikan; mendelegasikan tanggung jawab pengasuhan penuh kepada sekolah formal. | Penanggung jawab utama dan pertama di hadapan Allah (*fardhu 'ain*); sekolah hanya mitra pendukung. |
 | **Metode Belajar** | Penyeragaman kurikulum massal (*one size fits all*), drill hafalan teks, dan kompetisi ranking. | Personalisasi (*satu anak satu kurikulum*), eksplorasi alamiah, dan mentoring berbasis bakat unik (TB40). |
 | **Fokus Usia Dini** | Calistung dini, ujian kognitif formal, dan pengekangan ruang gerak fisik anak di kelas. | Penuntasan tangki cinta tanpa syarat, bermain aktif, keteladanan visual, dan penanaman rasa cinta iman. |

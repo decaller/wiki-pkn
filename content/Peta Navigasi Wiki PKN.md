@@ -18,7 +18,7 @@ tags:
 > **Tujuan Dokumen:** Berfungsi sebagai *Command Center* bagi editor di Obsidian untuk menavigasi, menyunting, dan menautkan halaman secara instan.
 > * **Total Halaman Markdown:** 383 artikel aktif
 > * **Total Bagan Obsidian Canvas:** 96 bagan visual interaktif
-> * **Format Navigasi:** Hierarki pohon terstruktur dilengkapi penanda badge kanvas `[🎨 Canvas]` dan tautan silang dua arah `[[...]]`.
+> * **Format Navigasi:** Hierarki pohon terstruktur dilengkapi penanda badge kanvas `[🎨 Canvas]` dan tautan silang dua arah ``...``.
 
 ---
 

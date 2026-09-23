@@ -243,14 +243,14 @@ Ketika pendidik malas membangun Bahasa Hati dan memilih jalan pintas berupa repr
 ---
 
 ## Tautan Silang & Rujukan Terkait
-* [[content/Renungan/Disiplin Positif PKN|Renungan: Disiplin Positif PKN (Trilogi 3 Bahasa Pengasuhan)]]
-* [[content/Renungan/Hak dan Kewajiban|Renungan: Hak dan Kewajiban Anak (Hak Main 9 Tahun)]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/Tangki Cinta|Tangki Cinta: Fondasi Bahasa Hati]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Hati|Metode Mendidik: Bahasa Hati]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Lisan|Metode Mendidik: Bahasa Lisan]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Tangan|Metode Mendidik: Bahasa Tangan]]
-* [[content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka Pengasuhan]]
+* [[Renungan/Disiplin Positif PKN|Renungan: Disiplin Positif PKN (Trilogi 3 Bahasa Pengasuhan)]]
+* [[Renungan/Hak dan Kewajiban|Renungan: Hak dan Kewajiban Anak (Hak Main 9 Tahun)]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/Tangki Cinta|Tangki Cinta: Fondasi Bahasa Hati]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Hati|Metode Mendidik: Bahasa Hati]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Lisan|Metode Mendidik: Bahasa Lisan]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Tangan|Metode Mendidik: Bahasa Tangan]]
+* [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Panduan Recovery Luka Pengasuhan]]
 
 ---
 

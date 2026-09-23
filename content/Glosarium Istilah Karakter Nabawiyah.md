@@ -157,7 +157,7 @@ Untuk menjaga orisinalitas manhaj dan kejelasan transmisi keilmuan, seluruh arti
 ---
 
 ### F
-* <a id="f"></a>**Fase Perkembangan (مَرَاحِلُ التَّطَوُّرِ):** Pembagian tahapan usia tumbuh kembang anak berbasis petunjuk Rasulullah ﷺ. Dalam Manhaj PKN, terdiri dari **4 Fase Usia Nabawiyah**: [[Thufulah]] (0–7 tahun), [[Tamyiz]] (7–10 tahun), [[Murahaqah]] (10–15 tahun), dan [[Syabab]] (15+ tahun). *Catatan: Menggantikan istilah etape.*
+* <a id="f"></a>**Fase Perkembangan (مَرَاحِلُ التَّطَوُّرِ):** Pembagian tahapan usia tumbuh kembang anak berbasis petunjuk Rasulullah ﷺ. Dalam Manhaj PKN, terdiri dari **4 Fase Usia Nabawiyah**: [[Thufulah]] (0–7 tahun), [[Tamyiz]] (7–10 tahun), [[Murahaqah]] (10–15 tahun), dan [[Syabab]] (15+ tahun). *Catatan: Menggantikan istilah fase.*
 * **Fashaahah (فَصَاحَة):** Pilar bakat TB-40 ke-22 (rumpun Memerintah). Keterampilan orasi, kefasihan artikulasi lisan, dan kemampuan menyusun pesan yang memikat serta menggerakkan audiens ([[22-fashaahah]]).
 * **Firaasah (فِرَاسَة):** Pilar bakat TB-40 ke-07 (rumpun Berpikir). Ketajaman intuisi batiniah, kemampuan membaca motif tersembunyi manusia, dan kepekaan mendeteksi arah peristiwa sebelum tampak jelas di permukaan ([[07-firaasah]]).
 * **Fitrah (الْفِطْرَةُ):** Rancangan asal yang suci, lurus, dan sempurna yang Allah tanamkan pada setiap manusia saat diciptakan, mencakup fitrah keimanan, fitrah belajar, fitrah bakat, dan fitrah seksualitas (QS. Ar-Rum: 30) ([[Fitrah (Karakter)]]).

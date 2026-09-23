@@ -75,7 +75,7 @@ Seluruh naskah materi berada di dalam folder `content/`. Struktur folder ini dir
 ### Rekomendasi Konfigurasi Obsidian:
 
 * **Format Tautan Internal (Internal Link Format):**
-  Masuk ke menu *Settings -> Files and links -> New link format*, pilih **Wikilink (Shortest path when possible)**. Ini memastikan format tautan `[[Nama Artikel]]` bekerja presisi di Quartz.
+  Masuk ke menu *Settings -> Files and links -> New link format*, pilih **Wikilink (Shortest path when possible)**. Ini memastikan format tautan ``Nama Artikel`` bekerja presisi di Quartz.
 * **Folder Lampiran (Attachment Folder Path):**
   Pastikan folder lampiran mengarah ke `assets/` agar berkas gambar/banner tersimpan seragam.
 * **Canvas Interaktif (.canvas):**

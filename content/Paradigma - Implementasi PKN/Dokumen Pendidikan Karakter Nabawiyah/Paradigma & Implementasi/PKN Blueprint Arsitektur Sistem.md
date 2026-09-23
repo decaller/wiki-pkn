@@ -175,7 +175,7 @@ Kritik mendasar PKN terhadap kurikulum modern (*Recording 5*):
 
 Metode pendidikan PKN berpijak pada **Paradigma Fitrah Murni** (*Recording 7 & 8*):
 - **Refleks Alami Ciptaan Allah:** Seekor anak kucing yang baru lahir secara naluriah langsung mencari susu induknya, menangis, dan kelak berburu secara alami. Serangga menetas langsung mencari makan dan bermetamorfosis sempurna tanpa pernah diajari di bangku sekolah.
-- **Bekal Sempurna Manusia:** Jika binatang saja dibekali insting sempurna oleh Allah, mustahil manusia diciptakan sebagai bejana kosong (*tabula rasa* ala filosofi Barat). Allah membekali manusia dengan dua unsur agung:
+- **Bekal Sempurna Manusia:** Jika binatang saja dibekali insting sempurna oleh Allah, mustahil manusia diciptakan sebagai bejana kosong (*fitrah insan* ala filosofi Barat). Allah membekali manusia dengan dua unsur agung:
   1. **Jasad (Kebutuhan Hayawaniyah):** Membentuk **Jiwa Ammarah** (Organ: Jasad/Tubuh). Puncaknya mekar pada fase Murahaqah (kematangan fisik dan dorongan biologis).
   2. **Ruh (Sifat Rububiyah):** Ditiupkan Allah sejak dalam kandungan membawa perjanjian tauhid azali (QS. Al-A'raf: 172), membentuk **Jiwa Muthmainnah** (Organ: Kalbu/Hati). Mekar sejak fase Thufulah melalui fitrah iman dan cinta.
   3. **Persimpangan / Nalar:** Kebimbangan memilih antara tarikan jasad dan panggilan ruh membentuk **Jiwa Lawwamah** (Organ: Akal/Otak). Mekar pesat pada fase Tamyiz melalui fitrah belajar dan nalar logis.

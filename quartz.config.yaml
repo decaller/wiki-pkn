@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: umami
+    host: "https://umami.insanmustaqbal.or.id"
+    websiteId: "b7ad1d85-28f7-4643-9808-a49262a9053e"
   locale: id-ID
   baseUrl: wikipkn.insanmustaqbal.or.id
   ignorePatterns:

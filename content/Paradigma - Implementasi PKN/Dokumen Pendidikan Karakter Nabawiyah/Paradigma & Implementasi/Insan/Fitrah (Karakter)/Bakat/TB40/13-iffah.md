@@ -19,6 +19,7 @@ tags:
   - berperasaan
   - karakter-nabawiyah
 aliases:
+  - "Iffah"
   - "‘iffah"
   - "13-‘iffah"
   - "Bakat ‘iffah"

@@ -7,6 +7,10 @@ tags:
   - tafsir
   - openbayan
 description: "Kajian komprehensif Master Katalog Dalil Al-Quran dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
+
+aliases:
+  - "Al-Qur'an"
+  - "Al-Quran"
 ---
 
 ![[assets/banners/banner_katalog_quran.webp]]

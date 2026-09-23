@@ -82,7 +82,7 @@ Gunakan tabel di bawah ini untuk memetakan fase kesiapan ekosistem Anda:
 | **1** | **Visi Akhirat Bersama:** Keluarga/Lembaga memiliki visi peradaban akhirat yang jelas, tertulis, dan dipahami bersama. | [ ] | [ ] | [ ] | Diselaraskan dengan [[Tujuan Hidup Manusia]]. |
 | **2** | **Bahasa Hati & Keteladanan:** Menjadikan doa di keheningan malam, kelembutan tatapan, dan keteladanan nyata sebagai instrumen utama komunikasi harian. | [ ] | [ ] | [ ] | Mengacu pada kaidah [[Bahasa Hati]]. |
 | **3** | **Zero Labeling & Personalisasi Fitrah:** Meniadakan vonis negatif/cap buruk (*nakal, pemalas*) dan menghindari pemaksaan kurikulum akademik seragam bagi anak usia dini. | [ ] | [ ] | [ ] | Rujuk panduan [[Tangki Cinta]] dan [[Thufulah]]. |
-| **4** | **Kesadaran Beramal Mandiri:** Menumbuhkan kesadaran beribadah dan shalat atas panggilan cinta kepada Allah, bukan sekadar kepatuhan semu karena takut ancaman/suap. | [ ] | [ ] | [ ] | Berpedoman pada [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal\|Menumbuhkan Kesadaran Beramal]]. |
+| **4** | **Kesadaran Beramal Mandiri:** Menumbuhkan kesadaran beribadah dan shalat atas panggilan cinta kepada Allah, bukan sekadar kepatuhan semu karena takut ancaman/suap. | [ ] | [ ] | [ ] | Berpedoman pada [[Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]. |
 | **5** | **Pemetaan Keunikan Bakat:** Mengamati dan mengasah potensi 40 pilar fitrah unik anak menggunakan formula Rukun 3A (*Alami, Acuhkan, Asah*). | [ ] | [ ] | [ ] | Panduan instrumen di [[Bakat]] dan [[Panduan Asesmen dan Observasi TB40]]. |
 
 ---
@@ -102,7 +102,7 @@ Gunakan tabel di bawah ini untuk memetakan fase kesiapan ekosistem Anda:
 
 ---
 
-*Kembali ke [[Beranda Utama|Beranda Wiki PKN]] • Rujuk instrumen operasional lainnya di [[4 Kaidah Implementasi]] dan [[8 Standar Implementasi PKN]].*
+*Kembali ke [[index|Beranda Wiki PKN]] • Rujuk instrumen operasional lainnya di [[4 Kaidah Implementasi]] dan [[8 Standar Implementasi PKN]].*
 
 
 

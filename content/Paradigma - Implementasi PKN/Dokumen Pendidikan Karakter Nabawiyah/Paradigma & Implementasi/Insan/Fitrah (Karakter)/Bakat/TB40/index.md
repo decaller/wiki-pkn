@@ -2,6 +2,10 @@
 title: "Pangkalan Data 40 Pilar Bakat (TB-40)"
 description: "Eksplorasi pangkalan data interaktif 40 pilar bakat nabawiyah (Tafsir Bakat 40) terintegrasi Bases Page Quartz."
 aliases:
+  - "TB40"
+  - "40 Pilar Karakter TB40"
+  - "40 Pilar Bakat TB40"
+  - "Taksonomi TB40"
   - "Pangkalan Data TB-40 (Bases)"
   - "Pangkalan Data TB-40"
 tags:
@@ -100,11 +104,11 @@ tags:
 * [[13-iffah|13. ‘Iffah (العِفَّة) - Kesucian Diri & Hati-hati]]
 * [[14-shamt|14. Shamt (الصَّمْت) - Pengendalian Lisan & Refleksi]]
 * [[15-hayaa|15. Hayaa’ (الحَيَاء) - Rasa Malu yang Mulia]]
-* [[16-qanaah|16. Qanaa'ah (القَنَاعَة) - Kecukupan Jiwa & Rasa Syukur]]
+* [[16-qanaaah|16. Qanaa'ah (القَنَاعَة) - Kecukupan Jiwa & Rasa Syukur]]
 * [[17-shabr|17. Shabr (الصَّبْر) - Daya Tahan Tangguh Menghadapi Ujian]]
 
 ### 4. Rumpun Memerintah
-* [[18-syajaah|18. Syajaa’ah (الشَّجَاعَة) - Keberanian Membela Kebenaran]]
+* [[18-syajaaah|18. Syajaa’ah (الشَّجَاعَة) - Keberanian Membela Kebenaran]]
 * [[19-ghairah|19. Ghairah (الغَيْرَة) - Kepekaan Perlindungan Kehormatan]]
 * [[20-munaafasah|20. Munaafasah (المُنَافَسَة) - Semangat Berkompetisi Prestasi]]
 * [[21-nashiihah|21. Nashiihah (النَّصِيْحَة) - Mengingatkan Kebaikan & Mengarahkan]]

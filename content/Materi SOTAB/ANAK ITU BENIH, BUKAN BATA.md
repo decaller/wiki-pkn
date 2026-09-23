@@ -189,7 +189,7 @@ Pembiasaan penting.Tetapi tanpa penyadaran hati, ia hanya menghasilkan rutinitas
 
 * Paradigma Keempat:
 
-Reward dan Punishment
+Reward dan Ta'dib
 
 Paradigma ini menganggap perilaku manusia dapat direkayasa sekadar melalui hadiah dan hukuman.
 
