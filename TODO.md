@@ -98,11 +98,55 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
     - [ ] Integrasi otomatis validator penempatan konten pada skrip linter dan LangGraph runner
   - *Perkiraan Token AI:* ~150k - 300k token (penyusunan audit rules, evaluasi penempatan, dan migrasi terarah).
   - *Kebutuhan HITL:* Sedang (penyelarasan arsitektur navigasi dan pengalaman membaca).
+- [ ] **Penambahan Komponen Callout "Kebiasaan Umum vs. Pendekatan PKN" pada Blok Refleksi Harian di Seluruh Artikel**
+  - *Deskripsi:* Memperkaya komponen `[!info] Refleksi Lapangan` yang ada di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md) dengan menambahkan — atau menjadikan sub-bagian khusus — berupa **tabel kontras dua kolom** yang membandingkan kebiasaan/respons spontan yang lazim dilakukan kebanyakan orang (pendidik, orang tua, atau guru konvensional) dengan pendekatan yang ditawarkan manhaj PKN. Tujuannya agar pembaca langsung *klik* dan menyadari: *"Ternyata selama ini saya melakukan yang keliru — inilah alternatifnya."*
+  - *Format Komponen Baru yang Diusulkan:*
+    ```markdown
+    > [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+    > | 🔴 Yang Biasa Dilakukan Kebanyakan Orang | ✅ Pendekatan Manhaj PKN |
+    > | :--- | :--- |
+    > | Langsung menegur/menghukum saat anak berbuat salah | Dialog empati terlebih dahulu — "Apa yang membuatmu melakukan itu?" |
+    > | Membandingkan anak dengan saudara/teman sebaya | Mengenali dan merayakan keunikan fitrah bakat masing-masing anak |
+    > | Memberikan reward/pujian atas nilai ujian | Mengapresiasi proses usaha dan adab, bukan sekadar hasil angka |
+    > | Mendiamkan anak saat menangis agar "tidak manja" | Merespons tangisan sebagai sinyal kebutuhan jiwa yang perlu dipenuhi |
+    ```
+  - *Cakupan Implementasi:*
+    1. **Pembaruan Template Master:** Menambah blok callout baru ini sebagai elemen ke-1 (sebelum `[!info] Refleksi Lapangan` yang sudah ada, atau sebagai sub-komponen di dalamnya) di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md).
+    2. **Standarisasi Pipeline Generator:** Memperbarui prompt generator artikel di pipeline LangGraph agar setiap halaman baru yang dibuat secara otomatis menyertakan tabel kontras ini, dikustomisasi sesuai topik spesifik artikel (misal: artikel tentang *Menghafal Qur'an* akan berisi kebiasaan umum vs pendekatan PKN dalam konteks hafalan).
+    3. **Pengayaan Artikel Eksisting (Retroaktif):** Menyisipkan blok tabel kontras ini ke artikel-artikel pilar utama yang sudah terbit di `content/Paradigma - Implementasi PKN/`, `content/Materi SOTAB/`, dan `content/Arsitektur PKN/` — diprioritaskan pada artikel dengan traffic tinggi dan konten yang paling sering menampilkan situasi sehari-hari.
+  - *Kriteria Konten Tabel Kontras:*
+    - Kolom kiri (🔴): Perilaku/respons yang lazim, *recognizable*, dan mudah diidentifikasi pembaca sebagai sesuatu yang pernah mereka lakukan — bukan untuk menghakimi, melainkan untuk memantik kesadaran.
+    - Kolom kanan (✅): Alternatif PKN yang spesifik, operasional, dan langsung bisa dipraktikkan — bukan sekadar anjuran normatif abstrak.
+    - Baris isi: minimal 3–5 pasang kontras per artikel, disesuaikan konteks topik.
+  - *Perkiraan Token AI:* ~200k - 400k token (desain format tabel, penyusunan contoh pasangan kontras per topik artikel, integrasi ke template master, dan batch retroaktif ke artikel eksisting prioritas).
+  - *Kebutuhan HITL:* **Sedang** (review ketepatan framing "kebiasaan umum" agar tidak terkesan menghakimi pembaca, serta validasi relevansi kontras dengan realitas lapangan pengasuhan oleh tim guru/orang tua praktisi PKN).
 
 ---
 
 ## 4. Pengumpulan & Kurasi Konten Inti PKN
 Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dalam wiki.
+
+- [ ] **[🔴 PRIORITAS TINGGI] Artikel: Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi — Trilogi Hierarki Pendidikan**
+  - *Deskripsi:* Menyusun artikel ensiklopedis mandiri berstandar 4-Zone MediaWiki tentang tiga kaidah pedagogis masyhur dari KH. Abdullah Syukri Zarkasyi (Pimpinan Pondok Modern Darussalam Gontor) yang menguraikan hierarki prioritas dalam pendidikan secara bertingkat:
+    1. **Kaidah I — Materi vs. Metode:**
+       > الْمَادَّةُ مُهِمَّةٌ وَلَكِنَّ الطَّرِيقَةَ أَهَمُّ مِنَ الْمَادَّةِ
+       > *"Materi Pembelajaran adalah sesuatu yang penting, tetapi metode pembelajaran jauh lebih penting daripada materi pembelajaran."*
+    2. **Kaidah II — Metode vs. Guru:**
+       > الطَّرِيقَةُ مُهِمَّةٌ وَلَكِنَّ الْمُدَرِّسَ أَهَمُّ مِنَ الطَّرِيقَةِ
+       > *"Metode pembelajaran adalah sesuatu yang penting, tetapi guru jauh lebih penting daripada metode pembelajaran."*
+    3. **Kaidah III — Guru vs. Jiwa Guru:**
+       > الْمُدَرِّسُ مُهِمٌّ وَلَكِنَّ رُوحَ الْمُدَرِّسِ أَهَمُّ مِنَ الْمُدَرِّسِ
+       > *"Guru adalah sesuatu yang penting, tetapi jiwa guru jauh lebih penting dari seorang guru itu sendiri."*
+  - *Konten Artikel yang Diusulkan:*
+    - **Zone 1:** Lead TL;DR berisi intisari tiga kaidah dalam satu paragraf padat, Infobox profil singkat KH. Abdullah Syukri Zarkasyi (lahir 1942, Pimpinan Gontor ke-3, konteks historis kaidah).
+    - **Zone 2:** Syarah mendalam per kaidah — uraian filosofis-pedagogis, relevansi dalam manhaj PKN, korelasi dengan konsep *ruh al-mu'allim* (jiwa pendidik) dalam tradisi ulama salaf, dan penyambungan ke prinsip *uswah hasanah* Rasulullah ﷺ sebagai puncak trilogi.
+    - **Zone 2:** Tabel matriks hierarki 4 tingkat (*Materi → Metode → Guru → Jiwa Guru*) dengan indikator operasional masing-masing level di kelas/pesantren.
+    - **Zone 2:** Embed Obsidian Canvas visualisasi piramida hierarki pedagogis.
+    - **Zone 3:** Dalil pendukung (hadits tentang niat, ikhlas, dan keteladanan guru), takhrij Shamela, serta pranala ke halaman [`Pembelajaran Alamiah`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Pendidikan%20Ideal/Pembelajaran%20Alamiah.md) dan [`Tazkiyatun Nafs`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Implementasi/Internal%20%26%20Eksternal/Tazkiyatun%20Nafs.md).
+    - **Zone 4:** Navbox, kategori `[[Kategori:Tokoh Pendidikan Islam]]`, `[[Kategori:Kaidah Pedagogis]]`, `[[Kategori:Gontor]]`.
+  - *Target Path:* `content/Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.md`
+  - *Perkiraan Token AI:* ~80k - 150k token (riset biografi, penyusunan syarah kaidah, perakitan artikel 4-Zone, pembuatan canvas, dan verifikasi takhrij dalil pendukung).
+  - *Kebutuhan HITL:* **Tinggi** (verifikasi otentisitas dan sanad atribusi kaidah kepada KH. Abdullah Syukri Zarkasyi, review kesesuaian syarah oleh asatidzah/alumni Gontor, serta validasi kontekstualisasi ke manhaj PKN oleh kurator).
 
 - [ ] **Kurasi materi tulisan Ustadz Bayu di grup**
   - *Deskripsi:* Mengumpulkan, menyeleksi, dan menyusun arsip materi yang pernah ditulis Ustadz Bayu di grup diskusi ke format markdown wiki yang terstruktur.
@@ -138,6 +182,14 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
     - [x] Terbit 121 berkas materi SOTAB berstandar Quartz `[SELESAI]`
   - *Perkiraan Token AI:* ~800k - 1.2M token.
   - *Kebutuhan HITL:* Rendah - Sedang.
+- [ ] **Sinkronisasi & Pengambilan Berkas PDF dari Dropbox Menggunakan Rclone**
+  - *Deskripsi:* Mengunduh dan menyinkronkan seluruh arsip dokumen PDF dari remote Dropbox yang telah terkonfigurasi (`dropbox:projects/PKN`) menggunakan utilitas CLI `rclone` yang telah terpasang di sistem (`/usr/bin/rclone`). Dokumen PDF yang diunduh difilter secara selektif (modul pelatihan guru, panduan standar implementasi, materi seminar, buku) untuk kemudian dipetakan ke direktori input yang sesuai (`searchable_pdfs/` untuk materi PKN atau `sources/research_papers/` untuk literatur pembanding) sebelum diproses ke pipeline ekstraksi Unstructured.
+  - *Alur Kerja & Spesifikasi Operasional:*
+    1. **Inspeksi & Inventarisasi Remote:** Menjalankan `rclone lsf --include "*.pdf" --include "*.PDF" -R dropbox:projects/PKN` untuk mendata seluruh PDF di remote dan mencocokkannya dengan katalog [`dropbox_files.md`](dropbox_files.md).
+    2. **Sinkronisasi Terarah (*Targeted Sync*):** Mengunduh folder yang dibutuhkan menggunakan `rclone copy --include "*.pdf" --include "*.PDF" --progress dropbox:projects/PKN/<subfolder> <target_dir>/` dengan preservasi struktur direktori asal.
+    3. **Penyaringan & Verifikasi Checksum:** Validasi integritas ukuran file dan hash pasca-unduh agar tidak ada file korup sebelum masuk ke pre-flight inspector PyMuPDF.
+  - *Perkiraan Token AI:* ~15k - 30k token (pembuatan skrip pembantu automasi sinkronisasi dan pencatatan log katalog).
+  - *Kebutuhan HITL:* Rendah (pemilihan sub-folder prioritas yang ingin diunduh dan verifikasi masa aktif token Dropbox).
 
 ---
 
@@ -173,6 +225,17 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Kebutuhan HITL:* Tinggi (telaah kritis keselarasan prinsip syar'i oleh dewan pakar pendidikan).
 - [ ] **Pencarian Referensi Riset Ilmiah, Jurnal Empiris & Pembahasan Komparasi Teori PKN**
   - *Deskripsi:* Melakukan penelusuran sistematis literatur riset ilmiah, jurnal peer-reviewed, dan data empiris di internet (neurobiologi, ilmu kognitif, psikologi perkembangan anak, sosiologi pendidikan, dan pedagogi) untuk diverifikasi replikabilitasnya, dibersihkan dari distorsi pop-science, lalu dianalisis dan dikomparasikan secara kritis terhadap teori Pendidikan Karakter Nabawiyah (PKN). **Prinsip Utama:** Dalam PKN, bukti empiris hanyalah instrumen pendukung (*wasilah / syawahid kauniyah*), bukan dan tidak bisa menjadi acuan utama (*al-ashl* adalah wahyu Al-Qur'an dan Sunnah). Mengidentifikasi titik temu (*convergence* - mekanisme fisik selaras syariat) dan titik tolak (*divergence* - reduksionisme materialistik, krisis replikasi, relativisme moral) sesuai panduan teknis pada [`pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md`](pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md).
+  - *Arsitektur Isolasi Data Terjaga:*
+    - **Direktori Input Terpisah:** Kumpulan berkas PDF riset eksternal ditampung khusus di [`sources/research_papers/`](sources/research_papers/) (terpisah dari modul materi internal PKN di `searchable_pdfs/` dan `presentations/`).
+    - **Direktori Output Terpisah:** Hasil ekstraksi semantik dan konversi Markdown disimpan secara terisolasi di [`data/extracted_elements/external_research/`](data/extracted_elements/external_research/) (terpisah dari data ekstraksi modul internal di `data/extracted_elements/pkn_internal/`).
+    - **Manajemen Siklus Kontainer On-Demand:** Kontainer Unstructured API dijalankan secara bergantian/on-demand untuk batch parsing guna menjaga ketersediaan RAM sistem.
+  - *Status Kesiapan Teknis:*
+    - [x] Direktori terisolasi `sources/research_papers/` dan `data/extracted_elements/external_research/` `[SELESAI]`
+    - [x] Berkas deployment kontainer terisolasi [`docker-compose.qdrant-research.yml`](docker-compose.qdrant-research.yml) (Port 6335, batas RAM 1GB) `[SELESAI]`
+    - [x] Skrip batch runner & pre-flight inspector [`scripts/ingest_research_papers.py`](scripts/ingest_research_papers.py) (PyMuPDF + Unstructured + OpenAlex/Semantic Scholar) `[SELESAI]`
+    - [x] Pemasangan pustaka riset & alat skrining di `.venv`: `asreview` (v3.0.8 machine learning screening), `habanero` (Crossref/Retraksi), `arxiv`, `qdrant-client`, `beautifulsoup4`, `requests` `[SELESAI]`
+    - [x] Skrip pencari literatur multi-mesin [`scripts/search_academic_papers.py`](scripts/search_academic_papers.py) (OpenAlex, Semantic Scholar, arXiv dengan opsi auto-download PDF) `[SELESAI]`
+    - [ ] Uji coba ekstraksi pada sampel berkas PDF riset
   - *Alur Analisis & Perangkat Riset:*
     1. **Discovery & Citation Graph Engines:** Penelusuran jejaring sitasi kronologis & konseptual via OpenAlex, Semantic Scholar (NLP intent), Connected Papers/Litmaps (ko-sitasi), dan Consensus.app (consensus meter).
     2. **Verification, Replicability & Retraction Auditing:** Audit replikabilitas dan integritas publikasi via scite.ai (Smart Citations: mentioning, supporting, contrasting), Retraction Watch Database (audit penarikan paper), dan OSF.io (audit pra-registrasi & mitigasi p-hacking).
@@ -363,7 +426,10 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Client adapter Python [`scripts/unstructured_adapter.py`](scripts/unstructured_adapter.py) (partisi elemen, tabel ke markdown, LangChain chunking, MD5 caching) `[SELESAI]`
     - [x] Generator Hierarchical Narrative Graph (TOC + prev/next chunk edges) di [`scripts/unstructured_adapter.py`](scripts/unstructured_adapter.py) `[SELESAI]`
     - [x] Skrip uji & validasi [`scripts/benchmark_extraction.py`](scripts/benchmark_extraction.py) (unit test table converter & schema transformer) `[SELESAI]`
-    - [ ] Peluncuran container & batch ingestion dokumen PDF/PPTX `searchable_pdfs/` ke vector store
+    - [x] Isolasi Partisi Data Ekstraksi: Pemisahan direktori input (`sources/research_papers/` vs `searchable_pdfs/`) dan direktori output (`data/extracted_elements/external_research/` vs `data/extracted_elements/pkn_internal/`) `[SELESAI]`
+    - [x] Peluncuran container & batch ingestion 88 dokumen PDF/PPTX mentah menggunakan Unstructured API (hi_res & fast fallback) `[SELESAI]`
+      - *Hasil Ekstraksi:* 88/88 berkas sukses 100% (47 PDF + 41 PPTX), menghasilkan 5.311 elemen semantik terstruktur dan 166 tabel Markdown rapi di `data/extracted_elements/`.
+    - [ ] Penyelarasan materi hasil ekstraksi dan pengindeksan ke Vector Store (Qdrant)
   - *Perkiraan Token AI:* ~150k - 300k token (pembuatan adapter API client Python, konfigurasi deployment container, transformasi skema chunking, dan pengujian perbandingan akurasi ekstraksi).
   - *Kebutuhan HITL:* Sedang (evaluasi presisi hasil partisi teks, struktur tabel, dan teks Arab berharakat pada sampel dokumen PDF modul PKN).
 - [ ] **Arsitektur GraphRAG Heterogen & Bobot Sumber (Unstructured ➔ Schema Extractor ➔ SurrealDB & Qdrant)**

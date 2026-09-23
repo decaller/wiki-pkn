@@ -24,6 +24,8 @@ pexels-mcp-server/
 presentations/
 screenshots/
 data/extracted_elements/
+!data/extracted_elements/README.md
+!data/extracted_elements/**/README.md
 .cache/
 
 # ============================================================================
@@ -32,6 +34,7 @@ data/extracted_elements/
 # Naskah buku komersial, raw DOCX, PDF cetak, dan hasil ekstraksi verbatim mentah
 # DILARANG di-commit ke repositori publik untuk melindungi hak cipta penerbit
 sources/
+!sources/research_papers/README.md
 *.docx
 *.doc
 *.pdf
@@ -47,3 +50,8 @@ panduan_implementasi*
 # Agent metadata and orchestration files
 .agents/
 ORIGINAL_REQUEST.md
+
+# Ingestion logs and cache
+data/batch_hires.log
+data/batch_hires_progress.json
+synergy_cache.sqlite
