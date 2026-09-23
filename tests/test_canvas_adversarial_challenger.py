@@ -257,8 +257,20 @@ class TestProductionCanvasEmpiricalAudit(unittest.TestCase):
                     link_target = link.strip().lower()
                     # Strip .md or .canvas suffix if included
                     base_target = link_target.replace(".canvas", "").replace(".md", "")
-                    exists_canvas = base_target in all_canvas_files or link_target in all_canvas_files
-                    exists_md = base_target in all_md_files or link_target in all_md_files
+                    target_stem = Path(base_target).stem
+                    target_path = PROJECT_ROOT / "content" / link.strip()
+                    exists_canvas = (
+                        base_target in all_canvas_files
+                        or link_target in all_canvas_files
+                        or target_stem in all_canvas_files
+                        or target_path.exists()
+                    )
+                    exists_md = (
+                        base_target in all_md_files
+                        or link_target in all_md_files
+                        or target_stem in all_md_files
+                        or target_path.with_suffix(".md").exists()
+                    )
                     self.assertTrue(
                         exists_canvas or exists_md,
                         f"{fname} node {node.get('id')}: wikilink target '[[{link}]]' does not resolve to any physical file in content/",

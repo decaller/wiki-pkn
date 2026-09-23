@@ -11,6 +11,9 @@ aliases:
   - "Master Hub PKN"
   - "Bagan Makro Arsitektur PKN"
   - "Peta Sistem Tarbiyah Nabawiyah"
+  - "Master Arsitektur Pendidikan Karakter Nabawiyah"
+  - "00 - Master Arsitektur Pendidikan Karakter Nabawiyah"
+  - "Arsitektur PKN"
 ---
 
 <!-- ZONA 1: HEADER & ACTION BAR -->
@@ -86,6 +89,12 @@ Untuk melihat relasi spasial antar-sektor dalam satu bidang pandang terpadu, kan
 
 ![[canvas/Arsitektur PKN/00 - Master Arsitektur PKN.canvas]]
 *Bagan 1.0: Master Hub Arsitektur Pendidikan Karakter Nabawiyah — Alur Kausalitas Makro 6 Sektor Tarbiyah.*
+
+### Peta Komprehensif Manhaj Pendidikan Karakter Nabawiyah
+Diagram rekonstruksi komprehensif manhaj tarbiyah nabawiyah (5 sumber otoritatif, 5 komponen pokok, 4 dimensi hakikat insan, kaidah tadarruj, tangga 4 fase usia, peran pendidik wasathiyah, dan target akhir peradaban):
+
+![[canvas/Pendidikan Karakter Nabawiyah.canvas]]
+*Bagan 1.1: Grand Blueprint Pendidikan Karakter Nabawiyah — Rekonstruksi Komprehensif Manhaj Tarbiyah Berbasis Fitrah & Sunnah.*
 
 ---
 

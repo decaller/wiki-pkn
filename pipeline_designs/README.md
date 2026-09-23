@@ -343,6 +343,7 @@ Silakan merujuk ke masing-masing dokumen spesifikasi detail berikut:
 - 🏛️ **[Standar Templat Halaman Khusus MediaWiki](SPECIAL_PAGE_TEMPLATES.md)** *(Disambiguasi, Redirect, Daftar Terstruktur, Portal, Noticebox, Media, & Kebijakan)*
 - 🧭 **[Evaluasi Penempatan Konten & Navigasi User Journey](CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md)** *(Aturan Placement, Pruning & Relokasi Konten)*
 - 🖋️ **[Panduan Gaya Penulisan Ustadz Abdul Kholiq](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)** *(Pedoman Voice, Tone, & 6 Pilar Pedagogis)*
+- 🔬 **[Panduan Evidence-Based Research Workflow](EVIDENCE_BASED_RESEARCH_WORKFLOW.md)** *(Alur Riset Ilmiah, Audit Replikasi, MCP Servers & Komparasi PKN)*
 - 📖 [01. Pipeline Halaman Utama (Portal Indeks)](01_pipeline_halaman_utama.md)
 - 🗺️ [02. Pipeline Halaman Navigasi (Peta Alur & MOC)](02_pipeline_halaman_navigasi.md)
 - 💎 [03. Pipeline Halaman Fokus Bahasan Satu Tema](03_pipeline_halaman_fokus_satu_tema.md)

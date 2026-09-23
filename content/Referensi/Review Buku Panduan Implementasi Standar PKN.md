@@ -102,6 +102,13 @@ Selama ini, banyak lembaga pendidikan yang berniat baik menerapkan konsep fitrah
 > - 🔍 **Standar Aqil Baligh sebagai Tolok Ukur Keberhasilan (Klausul 10):** Keberhasilan sekolah bukan diukur dari persentase santri masuk PTN favorit, melainkan dari ketercapaian **Standar Pendewasaan (Aqil Baligh)**: kemandirian ibadah syar'i, kesiapan memikul hisab, dan kemandirian nafkah dasar sebelum usia 15 tahun.
 > - 💡 **Kemitraan Sejajar Wali Santri (Klausul 13):** Wali santri bukan sekadar donatur SPP, melainkan subjek pendidikan yang wajib mengikuti kurikulum Sekolah Orang Tua (SOTAB) minimal 80% kehadiran sebagai syarat penerimaan santri.
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang menggambarkan arsitektur 8 Standar Implementasi Pendidikan Karakter Nabawiyah pada lembaga pendidikan Islam:
+
+![[canvas/Standar Implementasi PKN - 🏛️ 8 Standar Implementasi Pendidikan Karakter Nabawiy.canvas]]
+*Bagan 2.0: Peta Konsep 8 Standar Implementasi Pendidikan Karakter Nabawiyah.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

@@ -96,6 +96,13 @@ Buku ini membongkar kepalsuan sistem pembiasaan mekanistik yang hanya bersandar 
 > - 🔍 **Bahaya Overdosis Nasehat:** Membombardir anak dengan ceramah verbal yang panjang saat batinnya belum siap hanya akan melahirkan sikap tuli emosional (*advice resistance*). Pendidik harus menguasai *Bahasa Hati* sebelum meluncurkan *Bahasa Lisan*.
 > - 💡 **Kaidah Tamyiz & Shalat 7-10:** Perintah shalat di usia 7 tahun adalah proses penyadaran nalar dan dialog kasih sayang selama 3 tahun penuh (sekitar 5.000 kali shalat), barulah ketegasan terukur (*Bahasa Tangan*) ditegakkan di usia 10 tahun jika anak mengabaikan kewajiban.
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang menggambarkan filosofi mendidik layaknya bertani, pengkondisian tanah hati, dan penumbuhan kesadaran beramal mandiri dalam buku *Menumbuhkan Kesadaran Beramal*:
+
+![[canvas/Menumbuhkan Kesadaran Beramal - Metafora Pertanian - Mendidik Layaknya Bertani.canvas]]
+*Bagan 2.0: Peta Konsep Metafora Pertanian dalam Menumbuhkan Kesadaran Beramal Anak.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

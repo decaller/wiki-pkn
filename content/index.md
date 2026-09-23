@@ -2,6 +2,7 @@
 title: Beranda Utama
 description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakter Nabawiyah."
 aliases:
+  - "Beranda Utama"
   - "Home"
   - "Indeks Utama"
   - Home
@@ -184,6 +185,7 @@ Wiki PKN terintegrasi penuh dengan khazanah rujukan otoritatif, basis data dalil
 * 📊 **[[Bahan Tayang & Slide PPTX]]:** Katalog 39 modul presentasi resmi berformat PowerPoint (.pptx) dengan penampil interaktif Microsoft Office Web Viewer.
 * 🎯 **Platform Asesmen & Peta Bakat TB40:** [Tes Online Tafsir Bakat Resmi (tafsirbakat.com)](https://tafsirbakat.com/) • [Platform Alternatif TB40 Insan Mustaqbal (Tahap Dev)](https://tb40.insanmustaqbal.or.id/) • [Peta Visual Bakat & Sifat Manusia (pub.insantaqwa.org/bakat)](https://pub.insantaqwa.org/bakat/)
 * 💻 **[[Pengembangan Software dan Ekosistem Digital PKN]]:** Peta pengembangan aktif software, repositori GitHub, dan arsitektur edutech Manhaj PKN (TB40, OpenBayan, Rapor Karakter, Mading Digital, dan Quran Sekejap).
+* 🚀 **[[Catatan Rilis dan Pembaruan Sistem|Catatan Rilis Sistem (/changelog)]]:** Dokumentasi resmi riwayat evolusi platform dari Milestone 1 hingga Milestone 60 (v1.0.0 s/d v2.5.0), mencakup ekspansi basis data dalil bersanad, purifikasi kosakata manhaj, master blueprint arsitektur, dan standarisasi MediaWiki 4-Zone.
 * ❓ **[[FAQ Ringkas]]:** Jawaban otoritatif atas pertanyaan-pertanyaan praktis yang sering dihadapi para orang tua dan pendidik.
 
 Gunakan bilah pencarian di bagian atas atau panel navigasi di sebelah kiri untuk mulai menelusuri materi. Semoga Allah Ta'ala menjadikan wiki ini sebagai wasilah kebaikan dalam melahirkan generasi *qurrata a'yun* pembangun peradaban Islam.

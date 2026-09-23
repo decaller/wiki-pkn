@@ -11,9 +11,50 @@
         "children": []
       },
       {
-        "title": "PKN Blueprint: Arsitektur Sistem",
+        "title": "Arsitektur PKN",
         "icon": "blueprint",
-        "children": []
+        "children": [
+          {
+            "title": "00 - Master Arsitektur PKN",
+            "icon": "star",
+            "children": []
+          },
+          {
+            "title": "01 - Komponen & Kurikulum PKN",
+            "icon": "book-open",
+            "children": []
+          },
+          {
+            "title": "02 - Metode & Pendekatan Fisik-Ruh",
+            "icon": "compass",
+            "children": []
+          },
+          {
+            "title": "03 - Peran Pembelajaran & Model",
+            "icon": "academicCap",
+            "children": []
+          },
+          {
+            "title": "04 - Peran Pendidik & Kedisiplinan",
+            "icon": "shield-check",
+            "children": []
+          },
+          {
+            "title": "05 - Jejak Pendidik & Target",
+            "icon": "target",
+            "children": []
+          },
+          {
+            "title": "06 - Implementasi & Rantai Kausalitas",
+            "icon": "git-branch",
+            "children": []
+          },
+          {
+            "title": "PKN Blueprint: Arsitektur Sistem",
+            "icon": "blueprint",
+            "children": []
+          }
+        ]
       },
       {
         "title": "Insan",
@@ -517,6 +558,37 @@
                 "children": []
               }
             ]
+          },
+          {
+            "title": "Template & Toolkit KBM Pendidik",
+            "icon": "clipboard-check",
+            "children": [
+              {
+                "title": "Template RPP Karakter Nabawiyah 1 Lembar",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Instrumen Observasi Karakter 19 Butir",
+                "icon": "check-square",
+                "children": []
+              },
+              {
+                "title": "Formulir Desain Proyek Pembelajaran",
+                "icon": "layout",
+                "children": []
+              },
+              {
+                "title": "Lembar Dialog Evaluasi Hati Guru-Santri",
+                "icon": "heart",
+                "children": []
+              },
+              {
+                "title": "Bank Prompt AI Guru KBM",
+                "icon": "cpu",
+                "children": []
+              }
+            ]
           }
         ]
       },
@@ -551,13 +623,8 @@
         "icon": "bookmark",
         "children": [
           {
-            "title": "Referensi Kajian Video",
-            "icon": "video",
-            "children": []
-          },
-          {
-            "title": "Bahan Tayang & Slide PPTX",
-            "icon": "presentation",
+            "title": "Glosarium Istilah Karakter Nabawiyah",
+            "icon": "book",
             "children": []
           },
           {
@@ -573,8 +640,69 @@
                 "title": "Master Katalog Dalil Hadits & Sunnah",
                 "icon": "book",
                 "children": []
+              },
+              {
+                "title": "Tazkiyatun Nafs",
+                "icon": "heart",
+                "children": []
               }
             ]
+          },
+          {
+            "title": "Referensi Tambahan Buku Cetak",
+            "icon": "book",
+            "children": [
+              {
+                "title": "Review Buku Pendidikan Karakter Nabawiyah",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Tafsir Bakat",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Menumbuhkan Kesadaran Beramal",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Recovery Berbasis Fitrah",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Kurikulum Sekolah Karakter Islam",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Panduan Implementasi Standar PKN",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Panduan Kurikulum PAUD-TK Karakter Islam",
+                "icon": "file-text",
+                "children": []
+              },
+              {
+                "title": "Review Buku Bukanlah Sekejap",
+                "icon": "file-text",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Referensi Kajian Video",
+            "icon": "video",
+            "children": []
+          },
+          {
+            "title": "Bahan Tayang & Slide PPTX",
+            "icon": "presentation",
+            "children": []
           },
           {
             "title": "Panduan Kontribusi",
@@ -603,13 +731,13 @@
             ]
           },
           {
-            "title": "Referensi Tambahan Buku Cetak",
-            "icon": "book",
+            "title": "Tentang Aplikasi Wiki PKN",
+            "icon": "info",
             "children": []
           },
           {
-            "title": "Tentang Aplikasi Wiki PKN",
-            "icon": "info",
+            "title": "Catatan Rilis dan Pembaruan Sistem",
+            "icon": "clock",
             "children": []
           }
         ]

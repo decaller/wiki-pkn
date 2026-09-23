@@ -13,7 +13,7 @@
     {
       "id": "Step1",
       "type": "text",
-      "text": "1: Baca [[Beranda Utama]] & Peta Konsep",
+      "text": "1: Baca [[index|Beranda Utama]] & Peta Konsep",
       "x": 0,
       "y": 45,
       "width": 391,
@@ -23,7 +23,7 @@
     {
       "id": "Step2",
       "type": "text",
-      "text": "2: Dalami Hakikat Anak di [[Insan]]",
+      "text": "2: Dalami Hakikat Anak di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/index|Insan]]",
       "x": 461,
       "y": -40,
       "width": 355,
@@ -33,7 +33,7 @@
     {
       "id": "Step3",
       "type": "text",
-      "text": "3: Pahami Metodologi di [[Pendidikan Ideal]]",
+      "text": "3: Pahami Metodologi di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/index|Pendidikan Ideal]]",
       "x": 886,
       "y": -40,
       "width": 420,
@@ -43,7 +43,7 @@
     {
       "id": "Step4",
       "type": "text",
-      "text": "4: Eksekusi Lapangan via [[Implementasi]]",
+      "text": "4: Eksekusi Lapangan via [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/index|Implementasi]]",
       "x": 1376,
       "y": -40,
       "width": 409,
@@ -53,7 +53,7 @@
     {
       "id": "Step5",
       "type": "text",
-      "text": "5: Gunakan Format Baku di [[Template]]",
+      "text": "5: Gunakan Format Baku di [[Paradigma - Implementasi PKN/Template/index|Template]]",
       "x": 1855,
       "y": -40,
       "width": 382,

@@ -96,6 +96,13 @@ Dalam karya ini, Ustadz Abdul Kholiq menyusun rekonstruksi utuh kurikulum berbas
 > - 🔍 **Diferensiasi KBM per Fase Usia:** Kurikulum dirancang bertingkat: PAUD/TK (Pendidikan Hati & Alam), SD Bawah Kelas 1–3 (Pendidikan Nalar & Eksperimen), SD Atas-SMP Kelas 4–9 (Penjurusan Bakat & Proyek Nyata), hingga SMA/Aliyah (Pemagangan Maestro & Start-up Santri).
 > - 💡 **Format RPP Tiga Pilar:** Rencana Pelaksanaan Pembelajaran memadukan secara harmonis tiga pilar: Pilar Karakter Iman (Akidah), Pilar Karakter Belajar (Nalar/Ilmu), dan Pilar Karakter Bakat (Aksi/Amal).
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang menggambarkan model kurikulum tiga gaya belajar fitrah berbasis QS. An-Nahl: 78 (Manhaj SKIS Semarang) yang menjadi rujukan buku ini. Tiga modalitas fitrah sensorik mencakup: gaya Auditori & Dialogis (*As-Sam'u* / السَمْع), gaya Visual & Pengamatan (*Al-Bashar* / البَصَر), serta gaya Kinestetik & Eksperiensial melalui getaran kalbu (*Al-Fu'ad* / الفُؤَاد):
+
+![[canvas/Belajar - Tiga Gaya Belajar Fitrah Berbasis Al - Qur'an (Manhaj SKIS Semarang).canvas]]
+*Bagan 2.0: Peta Konsep Tiga Gaya Belajar Fitrah Berbasis Al-Qur'an (Manhaj SKIS).*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

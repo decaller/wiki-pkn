@@ -97,6 +97,13 @@ Berbeda dengan psikotes sekuler yang acap kali menuntut keseragaman kemampuan da
 > - 🔍 **Taksonomi 6 Rumpun:** 40 bakat dipetakan secara simetris ke dalam 6 kluster aktivitas: *[[Bekerja Keras]]*, *[[Berpikir]]*, *[[Berperasaan]]*, *[[Memerintah]]*, *[[Bekerja Sama]]*, dan *[[Melayani]]*.
 > - 💡 **Uswah Sahabat sebagai Prototipe:** Setiap pilar dari 40 bakat memiliki teladan otentik dari generasi sahabat Nabi ﷺ, sehingga santri tidak meneladani figur pop sekuler, melainkan generasi terbaik umat (*khairul qurun*).
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang merangkum formula Syarat & Rukun 3A (*Alami*, *Acuhkan*, *Asah*), dinamika fitrah bakat, dan taksonomi rumpun karakter dalam buku *Tafsir Bakat*. Kanvas ini menguraikan tiga pilar kematangan bakat nabawi: antusiasme belajar (*Al-Hirsh* / الحِرْص), konsistensi berkelanjutan (*Ad-Dawam / Istiqamah*), dan buah kebermanfaatan nyata bagi ummah (*Al-Mufid* / المُفِيد):
+
+![[canvas/Bakat - Syarat & Rukun 3A Bakat Nabawiyah.canvas]]
+*Bagan 2.0: Peta Konsep Syarat & Rukun 3A Bakat Nabawiyah.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

@@ -4,6 +4,8 @@ description: "Kajian komprehensif index dalam kerangka manhaj Pendidikan Karakte
 tags:
   - pendidikan-karakter
   - fitrah-nabawiyah
+aliases:
+  - "Internal & Eksternal"
 ---
 
 <!-- ========================================================================== -->

@@ -96,6 +96,13 @@ Dalam buku ini, Ustadz Abdul Kholiq memadukan diagnosa kejiwaan kitab *Ar-Ruh* k
 > - 🔍 **Hierarki Tiga Bahasa dalam Terapi:** Anak yang sedang terluka atau berada dalam kondisi emosi labil (*euforia*) tertutup nalar logikanya. Bahasa Lisan dan nasehat haram diluncurkan sebelum *Bahasa Hati* berhasil membuka katup penerimaan jiwanya.
 > - 💡 **Visi Pemulihan:** Target recovery bukan sekadar mengembalikan anak menjadi "anak manis yang patuh" (*sholih*), melainkan mentransformasi pengalaman luka masa lalunya menjadi empati mendalam untuk memperbaiki orang lain (*mushlih*).
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang merangkum metode pemulihan EMISOL dan tiga pilar pemulihan fitrah jiwa anak dalam buku *Recovery Berbasis Fitrah*:
+
+![[canvas/Recovery - Metode EMISOL - Tiga Pilar Pemulihan.canvas]]
+*Bagan 2.0: Peta Konsep Metode EMISOL dan Tiga Pilar Pemulihan Fitrah Jiwa Anak.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

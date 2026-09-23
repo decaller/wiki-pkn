@@ -57,7 +57,7 @@ description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup an
     </tr>
     <tr>
       <th>Bagan Konsep</th>
-      <td>[[canvas/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas.canvas]]</td>
+      <td>[[canvas/Arsitektur PKN/01 - Komponen & Kurikulum PKN.canvas]]</td>
     </tr>
     <tr>
       <th>Kaidah Asas</th>
@@ -80,6 +80,14 @@ description: "Rekonstruksi kurikulum dan standar kompetensi kemandirian hidup an
 
 # Kurikulum Kemandirian Berbasis Maqashid Syari'ah: Rekonstruksi Prioritas Edukasi Nabawiyah
 
+---
+
+## Peta Visual Arsitektur Komponen & Kurikulum PKN (Obsidian Canvas)
+
+Peta visual interaktif yang menggambarkan fondasi epistemologi, 5 sumber otoritatif, 5 komponen pokok, dan arsitektur kurikulum maqashid fitrah:
+
+![[canvas/Arsitektur PKN/01 - Komponen & Kurikulum PKN.canvas]]
+*Bagan 1.0: Peta Konsep Arsitektur Sektor 1 — Komponen & Kurikulum Pendidikan Karakter Nabawiyah.*
 
 ---
 

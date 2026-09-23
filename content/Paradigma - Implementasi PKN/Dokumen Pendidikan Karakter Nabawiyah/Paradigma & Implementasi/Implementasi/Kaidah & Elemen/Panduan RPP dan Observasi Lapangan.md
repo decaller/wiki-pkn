@@ -82,6 +82,14 @@ Untuk menjembatani paradigma filosofis dengan realitas ruang kelas dan asrama ma
 
 ![[canvas/Panduan RPP dan Observasi Lapangan - 📝 Panduan RPP dan Observasi Lapangan Karakt.canvas]]
 
+> [!TIP] Dokumen Siap Pakai & Toolkit KBM Guru
+> Format blangko siap cetak (A4) dan instrumen operasional siap salin kini tersedia di **[[Toolkit KBM/index|Portal & Bank Dokumen Toolkit KBM Guru]]**:
+> * Format RPP 1 Lembar: [[Template RPP Karakter Nabawiyah 1 Lembar]]
+> * Rubrik Observasi Kualitatif Non-Angka: [[Instrumen Observasi Pertumbuhan Karakter 19 Butir]]
+> * Formulir Pembelajaran Alamiah: [[Formulir Desain Proyek Pembelajaran Alamiah]]
+> * Panduan Respon Pemulihan Adab: [[Lembar Dialog Evaluasi Hati Guru-Santri]]
+> * Rekayasa Prompt AI Guru: [[Bank Prompt AI Guru KBM]]
+
 ---
 
 ## 1. Cetak Biru Rencana Pembelajaran Karakter (RPP) Berbasis Fitrah

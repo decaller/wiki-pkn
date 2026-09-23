@@ -56,7 +56,7 @@ tags:
     </tr>
     <tr>
       <th>Bagan Konsep</th>
-      <td>[[canvas/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh.canvas]]</td>
+      <td>[[canvas/Arsitektur PKN/03 - Peran Pembelajaran & Model.canvas]]</td>
     </tr>
     <tr>
       <th>Kaidah Asas</th>
@@ -74,6 +74,15 @@ tags:
 
 > [!info] Integrasi Sistem Observasi Karakter & API TB-40
 > Pangkalan data ini memuat profil lengkap 40 pilar bakat fitrah manusia yang dirumuskan oleh **Ustadz Abdul Kholiq** dan **SOTAB HEBAT**, diekstraksi langsung dari sistem asesmen resmi `api-tb40-explore`.
+
+---
+
+## 1. Peta Visual Arsitektur Bakat & Gaya Belajar Fitrah (Obsidian Canvas)
+
+Peta visual interaktif yang menggambarkan peran pembelajaran, gaya belajar Qur'ani, dan pemetaan potensi bakat fitrah santri:
+
+![[canvas/Arsitektur PKN/03 - Peran Pembelajaran & Model.canvas]]
+*Bagan 1.0: Peta Konsep Arsitektur Sektor 3 — Peran Pembelajaran & Model Bakat Nabawiyah.*
 
 ---
 

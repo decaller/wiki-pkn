@@ -164,6 +164,16 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Deskripsi:* Matriks perbandingan antara konsep PKN dengan konsep-konsep pendidikan lain (konvensional, montessori, fitrah based education, dll.).
   - *Perkiraan Token AI:* ~500k - 900k token (analisis komparatif filosofis, kelebihan/kekurangan, dan tinjauan syariat).
   - *Kebutuhan HITL:* Tinggi (telaah kritis keselarasan prinsip syar'i oleh dewan pakar pendidikan).
+- [ ] **Pencarian Referensi Riset Ilmiah, Jurnal Empiris & Pembahasan Komparasi Teori PKN**
+  - *Deskripsi:* Melakukan penelusuran sistematis literatur riset ilmiah, jurnal peer-reviewed, dan data empiris di internet (neurobiologi, ilmu kognitif, psikologi perkembangan anak, sosiologi pendidikan, dan pedagogi) untuk diverifikasi replikabilitasnya, dibersihkan dari distorsi pop-science, lalu dianalisis dan dikomparasikan secara kritis terhadap teori Pendidikan Karakter Nabawiyah (PKN). Mengidentifikasi titik temu (*convergence* - sarana/alat/mekanisme yang selaras syariat) dan titik tolak (*divergence* - reduksionisme materialistik, relativisme moral, pengabaian fitrah tauhid & akhirat) sesuai panduan teknis pada [`pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md`](pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md).
+  - *Alur Analisis & Perangkat Riset:*
+    1. **Discovery & Citation Graph Engines:** Penelusuran jejaring sitasi kronologis & konseptual via OpenAlex, Semantic Scholar (NLP intent), Connected Papers/Litmaps (ko-sitasi), dan Consensus.app (consensus meter).
+    2. **Verification, Replicability & Retraction Auditing:** Audit replikabilitas dan integritas publikasi via scite.ai (Smart Citations: mentioning, supporting, contrasting), Retraction Watch Database (audit penarikan paper), dan OSF.io (audit pra-registrasi & mitigasi p-hacking).
+    3. **Model Context Protocol (MCP) Academic Servers:** Pemanfaatan MCP server untuk AI agent (PubMed/NCBI, Semantic Scholar, Zotero Local, Markdown Scraper) agar kueri literatur bebas halusinasi.
+    4. **Systematic Screening & Extraction:** Skrining terstruktur minim bias seleksi menggunakan ASReview (active learning) dan Rayyan (PRISMA double-blind screening).
+    5. **Local Synthesis & Matriks Komparasi 6 Dimensi:** Pencatatan atomik Zotero + Obsidian, pemisahan data mekanistik (*wasilah*) vs asumsi filosofis (*ghayah*), serta perakitan tabel matriks komparasi 6 dimensi ([`pipeline_designs/08_pipeline_halaman_komparasi_konsep.md`](pipeline_designs/08_pipeline_halaman_komparasi_konsep.md)).
+  - *Perkiraan Token AI:* ~800k - 1.5M token (kueri literatur, ekstraksi metodologi/sampel, audit replikasi, dan sintesis telaah kritis komparatif).
+  - *Kebutuhan HITL:* Tinggi (validasi keabsahan telaah kritis syar'i dan keakuratan penafsiran data empiris oleh dewan pakar/asatidzah).
 
 ---
 
@@ -483,6 +493,14 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     3. **Evaluasi Gap & Benchmarking:** Membandingkan output alat siap pakai vs arsitektur pipeline kustom kita (apakah mampu menjaga standar 4 lapisan Progressive Disclosure, Diátaxis, dan validasi syar'i OpenBayan/Qaf AI).
   - *Perkiraan Token AI:* ~50k - 100k token (eksekusi uji coba inferensi LLM pada batch dokumen kecil dan analisis perbandingan output).
   - *Kebutuhan HITL:* Rendah - Sedang (evaluasi kualitatif terhadap kerapian struktur markdown dan konsistensi kutipan).
+- [ ] **Integrasi Model Context Protocol (MCP) Servers untuk Riset Akademik & Verifikasi Ilmiah**
+  - *Deskripsi:* Mengonfigurasi dan menghubungkan rangkaian MCP Server akademik ke agen AI dan pipeline riset lokal untuk penelusuran literatur empiris bebas halusinasi (sesuai rincian [`pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md`](pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md)):
+    1. **PubMed / NCBI MCP Server:** Akses native ke kueri MeSH MEDLINE/PubMed dan PMC full-text XML untuk verifikasi data fisiologis, tumbuh kembang, dan neurosains anak.
+    2. **Semantic Scholar MCP Server:** Pengambilan graf sitasi otomatis, pelacakan *influential citations*, dan ringkasan intensi sitasi berdasarkan DOI.
+    3. **Zotero Local MCP Server:** Integrasi LLM langsung ke database SQLite Zotero lokal dan repository PDF riset untuk kueri semantik presisi tinggi.
+    4. **Fetch / Puppeteer Markdown Scraper MCP:** Ekstraksi paper preprint (arXiv, bioRxiv) dan basis data terbuka langsung ke Markdown bersih tanpa boilerplate web.
+  - *Perkiraan Token AI:* ~60k - 120k token (konfigurasi MCP server configs, pembuatan prompt adapter/tools untuk agen AI, dan pengetesan kueri literatur).
+  - *Kebutuhan HITL:* Rendah (pengujian fungsional tool calling dan verifikasi integritas data yang ditarik).
 
 ### H. Program Pembiasaan Santri & Kemitraan Wali Murid
 - [ ] **Format Jurnal Mutaba'ah Yaumiyah (Buku Amalan Harian Terintegrasi)**

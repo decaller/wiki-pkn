@@ -221,6 +221,7 @@ plugins:
     enabled: true
     options:
       links:
+        "Catatan Rilis (Changelog)": "/changelog"
         "PKN - Pendidikan Karakter Nabawiyah": https://karakternabawiyah.com/
         "Sekolah Karakter Imam Syafi'i (SKIS)": https://sekolahkarakter.com/
         "Tes Online Tafsir Bakat": https://tafsirbakat.com/

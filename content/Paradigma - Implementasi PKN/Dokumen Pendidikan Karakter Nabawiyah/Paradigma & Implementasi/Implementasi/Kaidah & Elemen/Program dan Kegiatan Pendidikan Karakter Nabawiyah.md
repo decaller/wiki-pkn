@@ -76,6 +76,14 @@ tags:
 
 # Program dan Kegiatan Pendidikan Karakter Nabawiyah
 
+---
+
+## 1. Peta Visual Arsitektur Implementasi & Rantai Kausalitas (Obsidian Canvas)
+
+Peta visual interaktif yang menggambarkan arsitektur implementasi, 4 kaidah emas, 4 elemen ekosistem, dan rantai kausalitas kesadaran beramal:
+
+![[canvas/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas.canvas]]
+*Bagan 1.0: Peta Konsep Arsitektur Sektor 6 — Implementasi & Rantai Kausalitas Amal Nabawiyah.*
 
 ---
 

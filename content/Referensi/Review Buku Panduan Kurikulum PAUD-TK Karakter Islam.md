@@ -97,6 +97,13 @@ Buku ini menegaskan dengan landasan neurosains perkembangan dan riwayat salaf ba
 > - 🔍 **Pengisian Penuh Tangki Cinta:** Tugas nomor satu orang tua dan pendidik PAUD adalah memastikan kebutuhan afeksi anak tercukupi: pelukan minimal 8 kali sehari, tatapan mata penuh kelembutan, dan penerimaan tanpa syarat tanpa ancaman atau bentakan.
 > - 💡 **Tauhid Rububiyyah & Mahabbah Melalui Alam:** Pengenalan Allah pada usia dini dibangun lewat rasa cinta dan kagum (*mahabbah*), bukan lewat ancaman siksa neraka. Alam semesta ciptaan Allah (pohon, burung, pasir, air hujan) dijadikan buku teks terbuka.
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang menggambarkan dinamika fitrah anak fase Thufulah (usia 0–7 tahun), pengisian tangki cinta, dan cara belajar alami:
+
+![[canvas/Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun).canvas]]
+*Bagan 2.0: Peta Konsep Dinamika Fitrah Fase Thufulah (0–7 Tahun).*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

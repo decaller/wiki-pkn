@@ -163,12 +163,12 @@ Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi in
 
 ---
 
-## 🎨 2. Katalog Visual Obsidian Canvas (96 Bagan)
+## 🎨 2. Katalog Visual Obsidian Canvas (104 Bagan)
 
 Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum masuk ke perincian:
 
 <details open>
-<summary><b>Lihat Seluruh 96 Berkas Obsidian Canvas</b></summary>
+<summary><b>Lihat Seluruh 104 Berkas Obsidian Canvas</b></summary>
 
 | No | Nama Bagan Obsidian Canvas | Tautan Buka di Obsidian |
 | :-: | :--- | :--- |
@@ -268,6 +268,14 @@ Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum m
 | 94 | **Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli** | ![[canvas/Tazkiyatun Nafs - Dua Fase Tazkiyatun Nafs - Takhalli dan Tahalli.canvas]] |
 | 95 | **Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun)** | ![[canvas/Thufulah - Visualisasi Dinamika Fitrah Fase Thufulah (0–7 Tahun).canvas]] |
 | 96 | **Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa** | ![[canvas/Tujuan Hidup Manusia - Visualisasi Arsitektur Visi Kehidupan - 'Ibadah & Khilafa.canvas]] |
+| 97 | **Grand Blueprint - Pendidikan Karakter Nabawiyah** | ![[canvas/Pendidikan Karakter Nabawiyah.canvas]] |
+| 98 | **Arsitektur PKN 00 - Master Arsitektur PKN** | ![[canvas/Arsitektur PKN/00 - Master Arsitektur PKN.canvas]] |
+| 99 | **Arsitektur PKN 01 - Komponen & Kurikulum PKN** | ![[canvas/Arsitektur PKN/01 - Komponen & Kurikulum PKN.canvas]] |
+| 100 | **Arsitektur PKN 02 - Metode & Pendekatan Fisik-Ruh** | ![[canvas/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh.canvas]] |
+| 101 | **Arsitektur PKN 03 - Peran Pembelajaran & Model** | ![[canvas/Arsitektur PKN/03 - Peran Pembelajaran & Model.canvas]] |
+| 102 | **Arsitektur PKN 04 - Peran Pendidik & Kedisiplinan** | ![[canvas/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan.canvas]] |
+| 103 | **Arsitektur PKN 05 - Jejak Pendidik & Target** | ![[canvas/Arsitektur PKN/05 - Jejak Pendidik & Target.canvas]] |
+| 104 | **Arsitektur PKN 06 - Implementasi & Rantai Kausalitas** | ![[canvas/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas.canvas]] |
 
 </details>
 

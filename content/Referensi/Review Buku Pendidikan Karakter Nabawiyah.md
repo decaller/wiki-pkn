@@ -96,6 +96,13 @@ Buku ini menjadi rujukan utama bagi siapa saja yang ingin memahami mengapa pendi
 > - 🔍 **Trilogi Jiwa & Metode Pengendaliannya:** Jiwa manusia bergerak dinamis antara *Ammarah* (dorongan nafsu/keinginan fisik), *Lawwamah* (benteng akal dan penyesalan moral), dan *Muthmainnah* (ketenangan ruhani yang tunduk total pada tauhid).
 > - 💡 **Kaidah Tiga Bahasa Pendidik:** Pendidik wajib membedakan penggunaan *Bahasa Hati* (menumbuhkan iman tanpa syarat), *Bahasa Lisan* (mengajarkan ilmu bersyarat), dan *Bahasa Tangan* (menegakkan amal dengan ketegasan konsekuensi) sesuai fase usia anak.
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang merangkum epistemologi, 5 sumber otoritatif, 5 komponen kurikulum, 4 dimensi hakikat insan, kaidah tadarruj, tangga 4 fase usia, dan target paripurna luaran buku *Pendidikan Karakter Nabawiyah*:
+
+![[canvas/Pendidikan Karakter Nabawiyah.canvas]]
+*Bagan 2.0: Peta Konsep Arsitektur Manhaj Buku Pendidikan Karakter Nabawiyah.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM

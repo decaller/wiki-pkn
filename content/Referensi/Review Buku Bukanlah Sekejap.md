@@ -98,6 +98,13 @@ Buku ini hadir sebagai oase ketenangan yang menyadarkan kita bahwa melahirkan ge
 > - 🔍 **Manajemen Ekspektasi & Mengatasi Burnout:** Orang tua diajarkan membedakan antara "perilaku wajar fase usia" dengan "penyimpangan patologis". Sikap rewel, rasa ingin tahu yang meledak-ledak, dan keengganan sesaat adalah dinamika normal perkembangan yang tidak boleh direspon dengan kepanikan panik.
 > - 💡 **Kekuatan Istiqamah Adab Harian:** Transformasi jiwa anak tidak lahir dari seminar akbar satu hari, melainkan dari ribuan senyuman hangat, salam di depan pintu rumah, kecupan kening sebelum tidur, dan doa mustajab orang tua yang dipanjatkan tanpa henti.
 
+## Peta Visual Obsidian Canvas
+
+Peta visual interaktif yang menggambarkan Grand Theory Kesadaran Beramal dan Rantai Kausalitas 5 Tingkat yang melandasi risalah *Bukanlah Sekejap*:
+
+![[canvas/Benang Merah Pendidikan - Grand Theory Kesadaran Beramal - Rantai Kausalitas 5 T.canvas]]
+*Bagan 2.0: Peta Konsep Grand Theory Kesadaran Beramal dan Rantai Kausalitas 5 Tingkat.*
+
 ---
 
 # ZONE 3: BATANG TUBUH ANALISIS MENDALAM
