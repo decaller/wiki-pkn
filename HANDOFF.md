@@ -900,6 +900,26 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Menghubungkan Glosarium pada `content/index.md` (bagian Master Rujukan) dan `content/Peta Navigasi Wiki PKN.md`.
   - `npx quartz build` sukses memproses 383 berkas Markdown dan menerbitkan **2.172 berkas web statis** ke `public/` dengan exit code 0.
 
+### Milestone 60: Ekspansi Basis Dalil (80+ Dalil), Review 8 Buku Kanonikal, Wiki Linter, SEO & Umami Stack `[SELESAI]`
+- **Ekspansi Basis Data Dalil Mandiri & Pengayaan Tazkiyatun Nafs (`content/Dalil/`):**
+  - Menerbitkan 80+ halaman ensiklopedis mandiri berformat MediaWiki 4-Zone untuk ayat Al-Qur'an dan Hadits shahih bersanad.
+  - Setiap dalil memuat Action Bar, Infobox (nomor surah:ayat / nomor hadits, takhrij OpenBayan / Maktabah Syamilah), teks Arab berharakat, terjemahan resmi Kemenag RI, serta syarah ulama mu'tabar (Ibnu Katsir, An-Nawawi, Ibnu Hajar Al-Asqalani).
+  - Melengkapi dalil pembersihan jiwa (*Tazkiyatun Nafs*: Takhalli dan Tahalli) dan memperkaya artikel `content/Paradigma - Implementasi PKN/.../Tazkiyatun Nafs.md`.
+- **Implementasi Engine Linter & Audit Kualitas Korpus (`scripts/wiki_corpus_linter.py`):**
+  - Mesin linter otomatis (1.484 baris kode) untuk validasi integritas repositori:
+    * **0 Broken Internal Links:** 100% tautan wikilink internal terhubung valid.
+    * **0 Vocabulary Violations:** Menjamin kemurnian manhaj dari 8 klaster istilah terlarang/non-sumber.
+    * **Indeks Keterbacaan (Clarity Score):** Rata-rata korpus mencapai **86.23/100** (target $\ge 85.0$).
+- **Deployment Umami Analytics & Optimasi SEO Mesin Pencari:**
+  - Stack Docker mandiri **Umami Analytics** + PostgreSQL 15 dideploy di Portainer (Endpoint ID 3, Stack ID 27) melayani di port 3008.
+  - Konfigurasi parameter analitik Umami (`quartz.config.yaml`) dan metadata SEO komprehensif (`quartz/components/Head.tsx`) untuk Open Graph tags, deskripsi dinamis, serta sitemap XML.
+- **Penerbitan 8 Review Buku Kanonikal PKN (`content/Referensi/`):**
+  - Menerbitkan 8 artikel review ensiklopedis 4-Zone lengkap dengan Infobox Bibliografi, Lead TL;DR, Peta Konsep Bab, Relevansi Kurikulum, dan Golden Quotes untuk seluruh 8 buku karya Ustadz Abdul Kholiq.
+- **Kompilasi Quartz SSG & Deployment Produksi:**
+  - `npx quartz build` berhasil memproses **471 berkas Markdown** dan menerbitkan **2.522 berkas web statis** (exit code 0).
+  - Git commit & push (`ec1b077`) ke `origin/main`.
+  - Deployment Portainer (Stack ID 25, Endpoint ID 3) sukses berjalan, dan situs produksi `https://wikipkn.insanmustaqbal.or.id` aktif melayani permintaan (HTTP/2 200 OK).
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -907,19 +927,20 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
 | :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 383 berkas Markdown terproses, 2.172 berkas web statis terbit |
-| **Rujukan Buku Utama** | 🟢 **2 Buku Kanonikal** | 1. Buku Utama PKN (Bab 1-7, 9-10) • 2. Buku Tafsir Bakat Master (Bab 1-12) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 383/383 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Canvas, Navbox, Takhrij |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 471 berkas Markdown terproses, 2.522 berkas web statis terbit |
+| **Katalog Dalil Mandiri** | 🟢 **80+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
+| **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
+| **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
+| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.23/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber) |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 471/471 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
 | **Kamus / Glosarium** | 🟢 **Tersedia Lengkap** | `content/Glosarium Istilah Karakter Nabawiyah.md` (Indeks A–Z & Matriks 6 Klaster) |
 | **Purifikasi Kosakata** | 🟢 **100% Bersih** | Kosakata asing *etape* $\to$ **fase**, *archetype* $\to$ **uswah sahabat** |
 | **Pilar Bakat TB-40** | 🟢 **40/40 Selesai Penuh** | Mengintegrasikan 100% naskah Bab 12 Buku Tafsir Bakat ke 4-Zone MediaWiki |
 | **Klaster Arsitektur PKN** | 🟢 **7 Halaman Master** | `content/Arsitektur PKN/` 1-to-1 dengan master canvas arsitektur |
-| **Peta Navigasi Obsidian (MOC)** | 🟢 **383 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
+| **Peta Navigasi Obsidian (MOC)** | 🟢 **471 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
 | **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
 | **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
-| **Platform Tes Bakat TB40** | 🟢 **Terintegrasi Global** | `https://tafsirbakat.com/` (resmi) & `https://tb40.insanmustaqbal.or.id/` (dev) |
-| **Ekosistem Software PKN** | 🟢 **Terdokumentasi** | Rujukan 22+ perangkat lunak rekayasa PKN di bawah Yayasan & Decaller |
-| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25, Endpoint ID 3, Container: `wiki-pkn` di port internal 8080 / host 4040 |
+| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
 
 
 
