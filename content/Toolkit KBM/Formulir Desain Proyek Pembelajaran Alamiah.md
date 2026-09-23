@@ -81,6 +81,9 @@ Dalam metode konvensional, peserta didik sering dikurung di dalam bilik kelas. M
 1. **Dunia Nyata sebagai Laboratorium Karakter:** Santri belajar fiqh muamalah langsung di pasar. Mereka belajar tauhid saat mengamati benih yang berkecambah di tanah. Santri mempraktikkan ukhuwah saat membersihkan selokan asrama.
 2. **Keterlibatan Total Tiga Ranah:** Jiwa (*Qalb*) terikat dengan keagungan Allah Ta'ala. Akal (*'Aql*) memecahkan masalah kausalitas logis secara kritis. Fisik (*Jasad*) bergerak aktif menuntaskan amanah karya.
 3. **Penyaluran Fitrah Bakat:** Santri berbakat kepemimpinan dilatih memandu rekan sekelompoknya. Santri periset dilatih merancang formula kerja. Santri komunikator dilatih berhadapan dengan masyarakat luas.
+4. **Spektrum Ekosistem Belajar (Perkotaan & Alam Alami):**
+   * *Realitas Perkotaan:* Laboratorium wajib di mana santri hidup sehari-hari (mengasah adab muamalah di pasar/supermarket, literasi transportasi kota, pengelolaan limbah rumah tangga, dan pemecahan masalah sosial urban).
+   * *Keutamaan Alam Alami (Tarbiyah Badiyyah):* Inkubator ideal berkala (mengikuti sunnah pengasuhan Rasulullah ﷺ di perkampungan Bani Sa'ad) guna mematangkan sensomotorik tanah/air, merawat kemurnian lisan, dan menenangkan jiwa lewat tadabbur ayat kauniyah.
 
 ```
                       DUA PINTU REALITAS SANTRI

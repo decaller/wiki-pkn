@@ -104,6 +104,29 @@ Dalam paradigma ini, proses belajar dibagi secara tegas ke dalam dua instrumen u
 - **Fokus Edukasi:** Menajamkan *Fitrah Belajar* dan *Fitrah Bakat* melalui **Rukun 3A (Suka, Bisa, Berguna)**.
 - **Kaidah:** Anak dilatih menetapkan tujuan, menghadapi kesulitan teknis (*trial and error*), bekerja sama, dan merasakan kepuasan berkontribusi bagi masyarakat.
 
+### C. Dialektika Ekosistem: Realitas Perkotaan (*Urban Learning*) vs Keutamaan Alam Alami (*Tarbiyah Badiyyah*)
+
+Sering muncul kesalahpahaman bahwa *Pembelajaran Alamiah* harus selalu bertempat di alam terbuka, hutan, sawah, atau perkampungan pedesaan. Manhaj PKN meluruskan hakikat ini secara jernih dan adil (*wasathiyah*):
+
+![[canvas/Pembelajaran Alamiah - Dialektika Ekosistem Belajar (Kota vs Alam Alami).canvas]]
+
+1. **Hakikat Kata "Alamiah" (*Thabi'iyyah*):**
+   - Kata *alamiah* merujuk pada **sunnatullah realitas hidup yang nyata dan otentik**, bukan monopoli geografi hijau. Lawan sejati dari *alamiah* bukanlah *perkotaan*, melainkan **simulasi buatan/artifisial sekolah kaku** yang mengurung anak di balik 4 dinding beton menghafal teori kertas tanpa menyentuh realitas.
+2. **Relevansi Kontekstual di Lingkungan Perkotaan (Wajib & Otentik):**
+   - Di mana pun seorang anak ditakdirkan hidup, di sanalah laboratorium alamiahnya (*muyassarun lima khuliqa lah*). Anak yang tinggal di lingkungan urban **wajib** belajar dari dinamika perkotaannya:
+     * **Pasar & Minimarket:** Belajar kejujuran timbangan, literasi finansial riil, adab muamalah, antre, dan komunikasi santun dengan pedagang.
+     * **Transportasi & Rekayasa Kota:** Naik KRL/angkot, belajar adab safar, keselamatan jalan raya, navigasi arah, dan memahami kerja mekanika bengkel.
+     * **Insiden Domestik Rumah Tangga:** Kebocoran pipa, membersihkan selokan lingkungan perumahan, bertegur sapa dengan tetangga majemuk, dan menyelesaikan konflik saudara.
+3. **Keutamaan Alam Alami (*Afdhaliyyah Bi'ah Thabi'iyyah* sebagai Inkubator Ideal):**
+   - Kendati belajar di kota itu sah dan nyata, **lingkungan alam alami (desa, tanah terbuka, kebun, pesisir) tetap memiliki keutamaan tak tergantikan** untuk menjaga kemurnian fitrah anak:
+     * **Sunnah Sirah Nabawiyah (*Tarbiyah Badiyyah*):** Rasulullah ﷺ pada masa kecilnya sengaja disusukan di perkampungan pedalaman Bani Sa'ad. Para ulama sirah mencatat tiga hikmah agungnya: menjaga kemurnian dan kefasihan lisan Arab (*Fashahah al-Lisan*), membangun postur dan ketahanan fisik yang tangguh (*Jaudah al-Jism*), serta menjaga kejernihan batin dari polusi hedonisme kota Makkah (*Thaharah al-Qalb*).
+     * **Hak Fitrah Sensori Kauniyah:** Menginjak tanah (*turab*), menyentuh air alami, berlari di kontur tak rata, dan menatap cakrawala langit luas adalah stimulasi wajib bagi pematangan sensomotorik anak usia dini (0–7 tahun) serta mencegah sindrom defisit alam (*Nature Deficit Disorder*).
+     * **Tadabbur Ayatullah Murni:** Di alam bebas, seluruh pemandangan memancarkan kebesaran Sang Khaliq tanpa distorsi rekayasa tangan manusia, menumbuhkan rasa takjub (*wonder and awe*) dan muraqabatullah secara spontan.
+
+> [!important] Kaidah Integrasi Manhaj PKN
+> **Prinsip Fleksibilitas:** Jangan membatasi pembelajaran alamiah hanya pada saat berkunjung ke hutan atau desa; ubahlah setiap denyut kota dan rumah menjadi laboratorium adab dan keimanan harian.  
+> **Prinsip Pengayaan Fitrah:** Sediakan waktu berkala (rihlah, berkemah, berkebun, atau mudik ke desa) untuk mengembalikan anak ke alam alami agar jiwa mereka terbasuh dari kepenatan artifisial perkotaan.
+
 ---
 
 ## 2. Matriks 25 Aktivitas & Insiden Keseharian x 40 Pilar Karakter (Manhaj Temu Lembaga PKN)

@@ -234,7 +234,7 @@ Untuk menjaga orisinalitas manhaj dan kejelasan transmisi keilmuan, seluruh arti
 ---
 
 ### P
-* <a id="p"></a>**Pembelajaran Alamiah (*Natural Learning*):** Paradigma pembelajaran yang menjadikan seluruh realitas kehidupan sebagai ruang kelas dan semesta sebagai laboratoriumnya, memadukan peristiwa spontan (*moment*) dan kegiatan proyek terencana (*project*) ([[Pembelajaran Alamiah]]).
+* <a id="p"></a>**Pembelajaran Alamiah (*Natural Learning / Tarbiyah Thabi'iyyah*):** Paradigma pembelajaran yang menjadikan seluruh realitas kehidupan nyata yang otentik sebagai ruang kelas dan semesta sebagai laboratoriumnya, memadukan peristiwa spontan (*moment*) dan kegiatan proyek terencana (*project*). Bersifat kontekstual di lingkungan mana pun anak hidup (termasuk perkotaan), seraya mengakui keutamaan alam alami (*Tarbiyah Badiyyah*) sebagai inkubator ideal penjaga kemurnian fitrah dan sensomotorik anak ([[Pembelajaran Alamiah]]).
 * **Peristiwa (*Teachable Moment*):** Segala peristiwa harian yang tidak dirancang (tumpahan air, perselisihan saudara, kegagalan, rasa sakit) yang ditangkap seketika oleh pendidik sebagai pintu masuk menanamkan tauhid dan adab ([[Pembelajaran Alamiah]]).
 * **Piramida 4 Fase Usia:** Struktur piramida pengasuhan yang menegaskan bahwa proporsi kasih sayang dan ketegasan harus bergeser sesuai usia: 100% kasih sayang di fase [[Thufulah]], pembiasaan shalat dan dialog di fase [[Tamyiz]], penegakan batas di fase [[Murahaqah]], hingga kemitraan di fase [[Syabab]] ([[04 - Peran Pendidik & Kedisiplinan]]).
 

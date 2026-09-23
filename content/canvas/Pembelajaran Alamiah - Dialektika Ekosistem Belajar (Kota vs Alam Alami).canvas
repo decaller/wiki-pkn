@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_KOTA",
+      "type": "group",
+      "label": "1. REALITAS PERKOTAAN (URBAN NATURAL LEARNING) - WAJIB & KONTEKSTUAL",
+      "x": -680,
+      "y": -120,
+      "width": 620,
+      "height": 260,
+      "color": "4"
+    },
+    {
+      "id": "KOTA_1",
+      "type": "text",
+      "text": "🏙️ **Laboratorium Kehidupan Kota**\n- Pasar & Minimarket: Muamalah riil & adab jual beli\n- Transportasi & Bengkel: Mekanika, antre, adab safar\n- Domestik Rumah: Perawatan rumah & kelekatan keluarga",
+      "x": -660,
+      "y": -70,
+      "width": 580,
+      "height": 95,
+      "color": "4"
+    },
+    {
+      "id": "KOTA_2",
+      "type": "text",
+      "text": "🎯 **Target Pencapaian Karakter:**\nKetangguhan adaptasi, adab muamalah, pemecahan masalah riil perkotaan (*problem solver* di mana santri hidup).",
+      "x": -660,
+      "y": 35,
+      "width": 580,
+      "height": 85,
+      "color": "4"
+    },
+    {
+      "id": "GRP_ALAM",
+      "type": "group",
+      "label": "2. ALAM ALAMI (TARBIYAH BADIYYAH) - AFDHAL (IDEAL INCUBATOR)",
+      "x": 60,
+      "y": -120,
+      "width": 620,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "ALAM_1",
+      "type": "text",
+      "text": "🌿 **Sunnah Tarbiyah Badiyyah Rasulullah ﷺ**\n- Perkampungan Bani Sa'ad: Udara bersih & ketangkasan raga\n- Kemurnian Lisan (*Fashahah al-Lisan*)\n- Fitrah Sensori: Menghindarkan *Nature Deficit Disorder*",
+      "x": 80,
+      "y": -70,
+      "width": 580,
+      "height": 95,
+      "color": "5"
+    },
+    {
+      "id": "ALAM_2",
+      "type": "text",
+      "text": "🎯 **Target Pencapaian Karakter:**\nKejernihan kalbu (*Thaharah al-Qalb*), kematangan sensomotorik tanah/air, ketenangan jiwa, dan tadabbur ayat kauniyah.",
+      "x": 80,
+      "y": 35,
+      "width": 580,
+      "height": 85,
+      "color": "5"
+    },
+    {
+      "id": "SINTESIS",
+      "type": "text",
+      "text": "💎 **Sintesis Manhaj Wasathiyah PKN: Generasi Sholih-Muslih**\nMendidik santri agar membumi memecahkan tantangan zaman di manapun berada (termasuk kota), seraya rutin menimba kemurnian fitrah di alam terbuka.",
+      "x": -310,
+      "y": 180,
+      "width": 620,
+      "height": 85,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_kota_sintesis",
+      "fromNode": "KOTA_2",
+      "fromSide": "bottom",
+      "toNode": "SINTESIS",
+      "toSide": "left"
+    },
+    {
+      "id": "e_alam_sintesis",
+      "fromNode": "ALAM_2",
+      "fromSide": "bottom",
+      "toNode": "SINTESIS",
+      "toSide": "right"
+    }
+  ]
+}
