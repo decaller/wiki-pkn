@@ -28,10 +28,10 @@ Fokus pada perbaikan responsivitas perangkat bergerak dan visualisasi informasi.
   - *Deskripsi:* Menyediakan replika korpus direktori materi PKN di folder `content_flow/` (106 berkas) berisi diagram alur materi terstruktur (Mermaid `flowchart TD`) tanpa konten teks panjang.
   - *Perkiraan Token AI:* ~1.2M token (106 berkas × ~11k token/berkas untuk ekstraksi & sintesis node Mermaid).
   - *Kebutuhan HITL:* Rendah (validasi kelengkapan diagram dan sintaks Mermaid).
-- [ ] **Pembuatan mind map untuk tiap halaman**
-  - *Deskripsi:* Menyediakan visualisasi mind map / grafik relasi konsep pada setiap halaman materi untuk mempermudah navigasi mental pembaca.
-  - *Perkiraan Token AI:* ~1.5M - 2M token (106 halaman × ~15k - 20k token per halaman untuk ekstraksi hierarki konsep).
-  - *Kebutuhan HITL:* Sedang (validasi akurasi relasi konsep antarcabang materi oleh guru/praktisi).
+- [x] **Pembuatan mind map untuk tiap halaman** `[SELESAI]`
+  - *Deskripsi:* Menyediakan visualisasi mind map / grafik relasi konsep interaktif melalui standarisasi Obsidian Canvas (`.canvas`) berbasis plugin `@quartz-community/canvas-page` di Zone 2 Lead Section, didukung local graph view interaktif di tiap halaman.
+  - *Status Kemajuan:* Selesai penuh (104 berkas Canvas terstandarisasi, transklusi `![[...canvas]]` tersemat di halaman pilar utama dan 8 ulasan buku).
+  - *Kebutuhan HITL:* Rendah.
 - [x] **Pembuatan visualisasi flow pengolahan (arsitektur pipeline dokumen)** `[SELESAI]`
   - *Deskripsi:* Membuat visualisasi diagram alur proses/workflow pengolahan dokumen (memetakan state graph LangGraph & LangGraph Flow mulai dari input materi multi-modal, kurasi, verifikasi dalil, hingga publikasi Quartz). Tersedia lengkap di direktori [`pipeline_designs/`](pipeline_designs/README.md) (1 master README + 10 dokumen spesifikasi pipeline tematik).
   - *Perkiraan Token AI:* ~30k - 60k token (perancangan arsitektur node dan representasi diagram Mermaid/flowchart).
@@ -54,10 +54,10 @@ Fokus pada visibilitas mesin pencari, pelacakan audiens, otomatisasi monitoring 
   - *Deskripsi:* Instalasi DIUN pada environment deploy server (Coolify / Docker Host) untuk memantau pembaruan image container secara otomatis (seperti container Umami, Unstructured API, reverse proxy, dll.) dan mengirimkan notifikasi instan (via Telegram, Discord, Email, atau Webhook) ketika ada rilis image versi baru di registry Docker Hub / GitHub Container Registry.
   - *Perkiraan Token AI:* ~15k - 30k token (penyusunan konfigurasi `docker-compose.yml` / template Coolify untuk DIUN, pengaturan provider Docker socket, rules filter image, dan template webhook notifikasi).
   - *Kebutuhan HITL:* Rendah (setup kredensial bot/webhook Telegram atau Discord di server Coolify serta verifikasi penangkapan alert image).
-- [ ] **Pembuatan Halaman Rilis (Changelog / Release Notes)**
-  - *Deskripsi:* Menyediakan halaman khusus yang mencatat pembaruan versi, konten baru yang ditambahkan, dan log perbaikan fitur wiki.
-  - *Perkiraan Token AI:* ~40k - 80k token (parsing riwayat git commit & pengelompokan changelog ramah pembaca).
-  - *Kebutuhan HITL:* Rendah (kurasi poin rilis utama yang relevan bagi pengguna awam).
+- [x] **Pembuatan Halaman Rilis (Changelog / Release Notes)** `[SELESAI]`
+  - *Deskripsi:* Menyediakan halaman khusus yang mencatat pembaruan versi, konten baru yang ditambahkan, dan log perbaikan fitur wiki di [`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`](content/Referensi/Catatan%20Rilis%20dan%20Pembaruan%20Sistem.md) (alias `/changelog`).
+  - *Status Kemajuan:* Selesai penuh (Format MediaWiki 4-Zone mencakup Milestone 1 hingga 60, v1.0.0 Alpha s/d v2.5.0 Gold, terhubung di footer dan beranda).
+  - *Kebutuhan HITL:* Rendah.
 
 ---
 
@@ -180,22 +180,26 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
 ## 6. Template Siap Pakai & Toolkit KBM
 Fokus pada operasional praktis bagi pendidik dan praktisi harian.
 
-- [ ] **Daftar dokumen bantuan dan review masing-masing dokumen**
-  - *Deskripsi:* Inventarisasi dokumen panduan/petunjuk teknis pembantu serta telaah kegunaannya.
-  - *Perkiraan Token AI:* ~350k - 600k token (ekstraksi metadata berkas bantuan dan pembuatan panduan penggunaan operasional).
-  - *Kebutuhan HITL:* Sedang (pengecekan relevansi dokumen bantuan dengan kebutuhan riil guru).
-- [ ] **Kumpulan dokumen template siap pakai**
-  - *Deskripsi:* Bank dokumen siap pakai (template RPP, lembar observasi, instrumen penilaian karakter, surat, dan format laporan).
-  - *Perkiraan Token AI:* ~800k - 1.5M token (generasi draf format RPP, instrumen evaluasi adab non-angka, dan lembar kerja pendidik).
-  - *Kebutuhan HITL:* Sedang - Tinggi (uji coba kelayakan instrumen pada aktivitas kelas nyata).
-- [ ] **Prompt AI dan template pembuatan dokumen KBM**
-  - *Deskripsi:* Penyusunan sistem prompt AI siap pakai bagi guru untuk mengenerate modul ajar, rencana pembelajaran, dan studi kasus berbasis PKN.
-  - *Perkiraan Token AI:* ~250k - 500k token (perancangan prompt few-shot terstruktur, pengujian batas output, dan dokumentasi petunjuk penggunaan).
-  - *Kebutuhan HITL:* Sedang (evaluasi kemudahan pakai prompt oleh guru awam teknologi).
-- [ ] **Kumpulan tips and trik problematika harian**
-  - *Deskripsi:* FAQ dan panduan solusi praktis atas kendala harian guru/orang tua dalam menghadapi dinamika perilaku anak.
-  - *Perkiraan Token AI:* ~500k - 900k token (klasifikasi kasus perilaku santri dan formulasi panduan respon nabawiyah).
-  - *Kebutuhan HITL:* Tinggi (verifikasi pendekatan adab dan psikologi anak agar selaras dengan sunnah).
+- [x] **Daftar dokumen bantuan dan review masing-masing dokumen** `[SELESAI]`
+  - *Deskripsi:* Inventarisasi dokumen panduan/petunjuk teknis pembantu serta telaah kegunaannya di [`content/Toolkit KBM/index.md`](content/Toolkit%20KBM/index.md).
+  - *Status Kemajuan:* Selesai penuh (Portal induk mengindeks seluruh instrumen, alur kerja 4 tahap, dan panduan pengisian).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Kumpulan dokumen template siap pakai** `[SELESAI]`
+  - *Deskripsi:* Bank dokumen siap pakai operasional KBM di [`content/Toolkit KBM/`](content/Toolkit%20KBM/):
+    1. [`Template RPP Karakter Nabawiyah 1 Lembar.md`](content/Toolkit%20KBM/Template%20RPP%20Karakter%20Nabawiyah%201%20Lembar.md) (Iman, Adab, Ilmu & 3 Bahasa).
+    2. [`Instrumen Observasi Pertumbuhan Karakter 19 Butir.md`](content/Toolkit%20KBM/Instrumen%20Observasi%20Pertumbuhan%20Karakter%2019%20Butir.md) (Rubrik non-angka BT, MT, BK, MM).
+    3. [`Formulir Desain Proyek Pembelajaran Alamiah.md`](content/Toolkit%20KBM/Formulir%20Desain%20Proyek%20Pembelajaran%20Alamiah.md) (Sains & Adab Berbasis Peristiwa).
+    4. [`Lembar Dialog Evaluasi Hati Guru-Santri.md`](content/Toolkit%20KBM/Lembar%20Dialog%20Evaluasi%20Hati%20Guru-Santri.md) (Protokol 4 Langkah Pemulihan Adab).
+  - *Status Kemajuan:* Selesai penuh (Format markdown bersih siap salin/cetak, bebas angka mati pada adab).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Prompt AI dan template pembuatan dokumen KBM** `[SELESAI]`
+  - *Deskripsi:* Penyusunan sistem prompt AI siap pakai bagi guru di [`content/Toolkit KBM/Bank Prompt AI Guru KBM.md`](content/Toolkit%20KBM/Bank%20Prompt%20AI%20Guru%20KBM.md) memuat 5 paket prompt XML tags (`<role>`, `<context>`, `<rules>`, `<output_format>`) untuk sirah nabawiyah, proyek fitrah, lembar muhasabah, dan studi kasus.
+  - *Status Kemajuan:* Selesai penuh (Dilengkapi few-shot examples dan tips kalibrasi guru).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Kumpulan tips and trik problematika harian** `[SELESAI]`
+  - *Deskripsi:* Panduan solusi praktis atas kendala harian guru/orang tua dalam menghadapi dinamika perilaku santri via protokol rekonsiliasi hati dan penanganan krisis adab di [`content/Toolkit KBM/Lembar Dialog Evaluasi Hati Guru-Santri.md`](content/Toolkit%20KBM/Lembar%20Dialog%20Evaluasi%20Hati%20Guru-Santri.md).
+  - *Status Kemajuan:* Selesai penuh (Protokol 4 langkah tanpa kekerasan verbal/fisik, menjaga fitrah kemuliaan anak).
+  - *Kebutuhan HITL:* Rendah.
 
 ---
 

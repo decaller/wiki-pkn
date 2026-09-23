@@ -920,6 +920,29 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Git commit & push (`ec1b077`) ke `origin/main`.
   - Deployment Portainer (Stack ID 25, Endpoint ID 3) sukses berjalan, dan situs produksi `https://wikipkn.insanmustaqbal.or.id` aktif melayani permintaan (HTTP/2 200 OK).
 
+### Milestone 61: Eksekusi Paripurna 6 Dimensi (Canvas, Navigasi Sidebar, Changelog, Toolkit KBM & Deploy) `[SELESAI]`
+- **Standarisasi & Audit Penautan Canvas (`content/canvas/`):**
+  - Menetapkan Obsidian Canvas (`.canvas`) sebagai standar tunggal visualisasi/mindmap interaktif melalui plugin `@quartz-community/canvas-page`.
+  - Memperbaiki 41 broken link pada kanvas Arsitektur PKN dan menyematkan transklusi `![[canvas/...canvas]]` pada Zone 2 Lead Section di seluruh halaman pilar dan review buku kanonikal.
+- **Sinkronisasi Penuh Navigasi Sidebar (`nav_structure.json`):**
+  - Memperbarui struktur navigasi sidebar dengan 143 simpul terverifikasi dan 0 dead link, mencakup Arsitektur PKN (00–06), Katalog Dalil, Glosarium, Review Buku, dan Toolkit KBM.
+- **Penerbitan Halaman Rilis Publik (Changelog):**
+  - Menerbitkan [`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`](content/Referensi/Catatan%20Rilis%20dan%20Pembaruan%20Sistem.md) (alias `/changelog`) berformat MediaWiki 4-Zone yang mendokumentasikan Milestone 1 hingga Milestone 60 (v1.0.0 Alpha s/d v2.5.0 Gold), tertaut pada footer dan beranda utama.
+- **Penyusunan Bank Dokumen Siap Pakai & Toolkit KBM Guru (`content/Toolkit KBM/`):**
+  - Menerbitkan 6 instrumen operasional KBM berstandar MediaWiki 4-Zone (skor Clarity 92.15/100):
+    1. `Template RPP Karakter Nabawiyah 1 Lembar.md` (Integrasi Iman, Adab, Ilmu & 3 Bahasa).
+    2. `Instrumen Observasi Pertumbuhan Karakter 19 Butir.md` (Rubrik non-angka BT, MT, BK, MM).
+    3. `Formulir Desain Proyek Pembelajaran Alamiah.md` (Sains & Adab Berbasis Peristiwa).
+    4. `Lembar Dialog Evaluasi Hati Guru-Santri.md` (Protokol 4 Langkah Pemulihan Adab).
+    5. `Bank Prompt AI Guru KBM.md` (5 paket XML tags `<role>`, `<context>`, `<rules>`, `<output_format>`).
+    6. `index.md` (Hub Portal Toolkit KBM).
+- **Audit Kualitas, Linter & Deployment Produksi:**
+  - `scripts/wiki_corpus_linter.py` lulus 100% (0 broken links, 0 vocabulary violations, Clarity rata-rata 86.18/100).
+  - 87 unit tests lulus 100%.
+  - `npx quartz build` sukses memproses 478 berkas Markdown dan menerbitkan 2.627 aset (exit code 0).
+  - Git commit & push (`bd51c15`) ke `origin/main`.
+  - Portainer stack git redeploy berhasil dan situs live melayani di `https://wikipkn.insanmustaqbal.or.id` (HTTP/2 200 OK untuk `/`, `/changelog`, dan `/toolkit-kbm/`).
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -927,19 +950,16 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
 | :--- | :--- :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 471 berkas Markdown terproses, 2.522 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 478 berkas Markdown terproses, 2.627 berkas web statis terbit |
+| **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 104 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
+| **Sidebar Navigation** | 🟢 **143 Simpul Aktif** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
+| **Halaman Rilis / Changelog** | 🟢 **Terbit Publik** | `/changelog` (`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`) |
+| **Toolkit & Template KBM** | 🟢 **6 Dokumen Terbit** | `content/Toolkit KBM/` (RPP 1 Lembar, Observasi 19 Butir, Prompt AI) |
 | **Katalog Dalil Mandiri** | 🟢 **80+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
 | **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
 | **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
-| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.23/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 471/471 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
-| **Kamus / Glosarium** | 🟢 **Tersedia Lengkap** | `content/Glosarium Istilah Karakter Nabawiyah.md` (Indeks A–Z & Matriks 6 Klaster) |
-| **Purifikasi Kosakata** | 🟢 **100% Bersih** | Kosakata asing *etape* $\to$ **fase**, *archetype* $\to$ **uswah sahabat** |
-| **Pilar Bakat TB-40** | 🟢 **40/40 Selesai Penuh** | Mengintegrasikan 100% naskah Bab 12 Buku Tafsir Bakat ke 4-Zone MediaWiki |
-| **Klaster Arsitektur PKN** | 🟢 **7 Halaman Master** | `content/Arsitektur PKN/` 1-to-1 dengan master canvas arsitektur |
-| **Peta Navigasi Obsidian (MOC)** | 🟢 **471 MD & 103 Canvas** | Terpetakan otomatis via `content/Peta Navigasi Wiki PKN.md` |
-| **Korpus Alur Visual** | 🟢 **106/106 Berkas Flow** | Direktori `content_flow/` (Mermaid `flowchart TD` tervalidasi 100%) |
-| **Slide Viewer Interaktif** | 🟢 **41/41 PPTX Terintegrasi** | Menggunakan embed resmi Microsoft PowerPoint Online (`1drv.ms/p/c/...`) |
+| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.18/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 87 tests) |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 478/478 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
 
 
