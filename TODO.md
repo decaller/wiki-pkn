@@ -144,9 +144,16 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
 ## 5. Kajian Komparasi, Profil & Review Lembaga
 Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
 
-- [x] **Review masing-masing buku** `[SELESAI]`
+- [x] **Review masing-masing buku & Standarisasi Kutipan 4 Buku Utama** `[SELESAI]`
   - *Deskripsi:* Ulasan mendalam, ringkasan bab, dan relevansi masing-masing buku referensi kanonikal PKN karya Ustadz Abdul Kholiq.
-  - *Status Kemajuan:* Selesai penuh (8 halaman ensiklopedis mandiri berstandar MediaWiki 4-Zone di [`content/Referensi/`](content/Referensi/): *Pendidikan Karakter Nabawiyah*, *Tafsir Bakat*, *Menumbuhkan Kesadaran Beramal*, *Recovery Berbasis Fitrah*, *Kurikulum Sekolah Karakter Islam*, *Panduan Implementasi Standar PKN*, *Panduan Kurikulum PAUD-TK Karakter Islam*, dan *Bukanlah Sekejap*).
+  - *Status Kemajuan:* Selesai penuh (Milestone 60 & 62):
+    - [x] Terbit 8 halaman ensiklopedis mandiri di [`content/Referensi/`](content/Referensi/): *Pendidikan Karakter Nabawiyah*, *Tafsir Bakat*, *Menumbuhkan Kesadaran Beramal*, *Recovery Berbasis Fitrah*, *Kurikulum Sekolah Karakter Islam*, *Panduan Implementasi Standar PKN*, *Panduan Kurikulum PAUD-TK Karakter Islam*, dan *Bukanlah Sekejap*.
+    - [x] Pembersihan label kode teknis (`# ZONE 1, 2, 3, 4`) menjadi judul naratif elegan.
+    - [x] Konversi peta konsep bab dari ASCII/code block menjadi 8 bagan interaktif Obsidian Canvas (`content/canvas/Review Buku/`).
+    - [x] Penyematan kartu Call-to-Action (CTA) pembelian edisi cetak fisik resmi di `karakternabawiyah.com`.
+    - [x] Peringkasan naskah turunan 4 buku (*Buku Utama PKN*, *Tafsir Bakat*, *Kesadaran Beramal*, *Standar Implementasi*) pada 81 berkas korpus dengan penyematan banner intisari & kutipan resmi bersanad yang menautkan ke halaman review buku.
+    - [x] Resolusi tautan otomatis dalam blok HTML mentah (Infobox table & Navbox) via patch Quartz OFM regex & CrawlLinks AST visitor.
+    - [x] Pembaruan atribusi hak cipta menjadi *"Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal"* dan identitas SOTAB HEBAT sebagai *"Sekolah Orang Tua HEBAT dari HCE (Home Character Education)"*.
   - *Kebutuhan HITL:* Rendah.
 - [ ] **Profil dan review masing-masing kegiatan**
   - *Deskripsi:* Dokumentasi format kegiatan, profil aktivitas, tujuan karakter, dan evaluasi efektivitasnya di lapangan.
@@ -165,7 +172,7 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Perkiraan Token AI:* ~500k - 900k token (analisis komparatif filosofis, kelebihan/kekurangan, dan tinjauan syariat).
   - *Kebutuhan HITL:* Tinggi (telaah kritis keselarasan prinsip syar'i oleh dewan pakar pendidikan).
 - [ ] **Pencarian Referensi Riset Ilmiah, Jurnal Empiris & Pembahasan Komparasi Teori PKN**
-  - *Deskripsi:* Melakukan penelusuran sistematis literatur riset ilmiah, jurnal peer-reviewed, dan data empiris di internet (neurobiologi, ilmu kognitif, psikologi perkembangan anak, sosiologi pendidikan, dan pedagogi) untuk diverifikasi replikabilitasnya, dibersihkan dari distorsi pop-science, lalu dianalisis dan dikomparasikan secara kritis terhadap teori Pendidikan Karakter Nabawiyah (PKN). Mengidentifikasi titik temu (*convergence* - sarana/alat/mekanisme yang selaras syariat) dan titik tolak (*divergence* - reduksionisme materialistik, relativisme moral, pengabaian fitrah tauhid & akhirat) sesuai panduan teknis pada [`pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md`](pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md).
+  - *Deskripsi:* Melakukan penelusuran sistematis literatur riset ilmiah, jurnal peer-reviewed, dan data empiris di internet (neurobiologi, ilmu kognitif, psikologi perkembangan anak, sosiologi pendidikan, dan pedagogi) untuk diverifikasi replikabilitasnya, dibersihkan dari distorsi pop-science, lalu dianalisis dan dikomparasikan secara kritis terhadap teori Pendidikan Karakter Nabawiyah (PKN). **Prinsip Utama:** Dalam PKN, bukti empiris hanyalah instrumen pendukung (*wasilah / syawahid kauniyah*), bukan dan tidak bisa menjadi acuan utama (*al-ashl* adalah wahyu Al-Qur'an dan Sunnah). Mengidentifikasi titik temu (*convergence* - mekanisme fisik selaras syariat) dan titik tolak (*divergence* - reduksionisme materialistik, krisis replikasi, relativisme moral) sesuai panduan teknis pada [`pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md`](pipeline_designs/EVIDENCE_BASED_RESEARCH_WORKFLOW.md).
   - *Alur Analisis & Perangkat Riset:*
     1. **Discovery & Citation Graph Engines:** Penelusuran jejaring sitasi kronologis & konseptual via OpenAlex, Semantic Scholar (NLP intent), Connected Papers/Litmaps (ko-sitasi), dan Consensus.app (consensus meter).
     2. **Verification, Replicability & Retraction Auditing:** Audit replikabilitas dan integritas publikasi via scite.ai (Smart Citations: mentioning, supporting, contrasting), Retraction Watch Database (audit penarikan paper), dan OSF.io (audit pra-registrasi & mitigasi p-hacking).
@@ -174,6 +181,15 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
     5. **Local Synthesis & Matriks Komparasi 6 Dimensi:** Pencatatan atomik Zotero + Obsidian, pemisahan data mekanistik (*wasilah*) vs asumsi filosofis (*ghayah*), serta perakitan tabel matriks komparasi 6 dimensi ([`pipeline_designs/08_pipeline_halaman_komparasi_konsep.md`](pipeline_designs/08_pipeline_halaman_komparasi_konsep.md)).
   - *Perkiraan Token AI:* ~800k - 1.5M token (kueri literatur, ekstraksi metodologi/sampel, audit replikasi, dan sintesis telaah kritis komparatif).
   - *Kebutuhan HITL:* Tinggi (validasi keabsahan telaah kritis syar'i dan keakuratan penafsiran data empiris oleh dewan pakar/asatidzah).
+- [ ] **Pembuatan Halaman Khusus Debat & Dialektika Epistemologis: Teori PKN vs Riset & Teori Pendidikan Modern (Pendukung vs Kontradiktif)**
+  - *Deskripsi:* Merancang dan menerbitkan halaman ensiklopedis mandiri berstandar 4-Zone MediaWiki sebagai arena debat komparatif dan dialektika epistemologis tingkat tinggi antara Teori PKN dengan berbagai teori pendidikan serta temuan riset empiris modern—baik yang mendukung/sejalan (*points of convergence*) maupun yang bertolak belakang/kontradiktif (*points of divergence*). Menegakkan aksioma bahwa wahyu adalah fondasi mutlak dan bukti empiris adalah penguat deskriptif sunnatullah.
+  - *Struktur & Komponen Gelanggang Debat:*
+    1. **Gelanggang Konvergensi (Temuan Riset Pendukung):** Dokumentasi riset empiris yang menguatkan sunnatullah manhaj PKN (misal: stimulasi fitrah belajar multisensori, transmisi adab tatap muka langsung vs kemunduran layar digital, ritme tidur sirkadian/gelombang lambat bagi konsolidasi hafalan Al-Qur'an, dan NEAT berkelanjutan vs kesehatan raga).
+    2. **Gelanggang Divergensi (Bantahan Epistemologis & Dekonstruksi Riset Kontradiktif):** Pembongkaran asumsi sekuler teori pembanding (Tabula Rasa John Locke vs Fitrah Tauhid, behaviorisme radikal reward/punishment mekanistik vs keikhlasan niat, degradasi krisis replikasi psikologi sosial seperti Ego Depletion & Power Posing, serta demistifikasi neuromitos otak kiri/kanan).
+    3. **Gelanggang Dialektika Terbuka (*Unresolved Empirical Frontiers*):** Analisis fenomena empiris kontemporer (anomali cadangan kognitif/Alzheimer, dinamika media digital/hiperrealitas) dengan metodologi *negative capability* dan pemisahan observasi murni dari narasi pop-science.
+    4. **Tabel Matriks Komparasi 6 Dimensi:** Hakikat Insan (*Ontologi*), Tujuan Puncak (*Ghayah*), Peran Pendidik (*Murabbi*), Pendekatan Disiplin (*Adab & 'Uqubah*), Orientasi Hasil (*Najaah*), dan Keterikatan dengan Akhirat & Ridha Allah.
+  - *Perkiraan Token AI:* ~600k - 1.2M token (perumusan dialektika, penataan tabel komparatif 6 dimensi, ekstraksi dalil dan syarah pembanding, serta perakitan draf artikel 4-Zone).
+  - *Kebutuhan HITL:* Sangat Tinggi (otorisasi dan verifikasi argumen syar'i oleh kurator utama/Dewan Pakar Pendidikan Islam).
 
 ---
 

@@ -70,6 +70,11 @@ tags:
 > * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
 > * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
 
+> [!NOTE] Intisari & Kutipan Resmi Literatur
+> Dokumen standarisasi ini merupakan ringkasan intisari dan kutipan resmi dari buku **Panduan Implementasi Standar PKN** karya Ustadz Abdul Kholiq (Yayasan Bina Insan Taqwa). Naskah disajikan dalam bentuk poin-poin standar kelembagaan siap pakai.
+> 📖 *Untuk pedoman teknis lengkap, instrumen akreditasi, dan pemesanan buku fisik resmi, baca:* **[[Review Buku Panduan Implementasi Standar PKN|Ulasan Lengkap & Pemesanan Buku Panduan Implementasi Standar PKN ↗]]**.
+
+
 
 ![[assets/banners/banner_hub_implementasi.webp]]
 *Gambar: Ekosistem Program Pembinaan, Standarisasi Kelembagaan, dan Gerakan Kaderisasi Manhaj Pendidikan Karakter Nabawiyah*

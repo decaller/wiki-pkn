@@ -17,7 +17,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -25,8 +25,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi Buku](https://karakternabawiyah.com/buku-tafsir-bakat-1/) • 📊 [Asesmen Online TB40](https://tafsirbakat.com/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -87,7 +85,18 @@ Berbeda dengan psikotes sekuler yang acap kali menuntut keseragaman kemampuan da
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-tafsir-bakat-1/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Tafsir Bakat 40 (TB-40)* merumuskan taksonomi kepribadian Islam terlengkap yang mengklasifikasikan fitrah manusia ke dalam **2 Energi Sosial** (*As-Sirr* / Introvert & *Al-'Alaniyah* / Extrovert), **3 Potensi Jiwa** (Karsa, Cipta, Rasa), **6 Rumpun Bakat Utama**, dan **40 Pilar Karakter Nabawiyah**. Buku ini menolak keras doktrin sekuler "semua anak bisa jadi apa saja dengan latihan keras", dan menggantinya dengan kaidah nabawi: *"Bekerjalah kalian, karena masing-masing akan dimudahkan untuk apa ia diciptakan"* (HR. Bukhari & Muslim).
@@ -106,25 +115,16 @@ Peta visual interaktif yang merangkum formula Syarat & Rukun 3A (*Alami*, *Acuhk
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Buku *Tafsir Bakat* tersusun secara runut dan sistematis dalam **12 Bab Utama** (Bab I hingga Bab XII) yang memandu pembaca dari pemahaman konseptual hingga penerapan asesmen klinis:
 
-```
-[Bab I: Makna Bakat] → [Bab II: Fitrah Manusia & Bakat]
-                               ↓
-[Bab III: Syarat & Rukun 3A Bakat] → [Bab IV: Jiwa Manusia & 2 Energi / 3 Potensi]
-                               ↓
-[Bab V: Kepribadian Manusia & 6 Rumpun] → [Bab VI: Fungsi Bakat dalam Misi Hidup]
-                               ↓
-[Bab VII: Akhlak & Bakat] → [Bab VIII: Penyimpangan Bakat (Tafrith vs Ifrath)]
-                               ↓
-[Bab IX: Silsilah Bakat] → [Bab X: Profesi & Penjurusan Hidup]
-                               ↓
-[Bab XI: Metode Pemetaan & Asesmen TB-40] → [Bab XII: Uraian Tuntas 40 Bakat Nabawiyah]
-```
+![[canvas/Review Buku/Peta Bab - Tafsir Bakat.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Tafsir Bakat 40 (TB-40) (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab I: Makna Bakat
 - Mendefinisikan bakat (*al-isti'dad al-fitriy*) sebagai dorongan batiniah bawaan yang membuat seseorang mudah, gemar, dan unggul dalam melakukan suatu aktivitas kebajikan tertentu.
@@ -226,7 +226,7 @@ Buku *Tafsir Bakat* tersusun secara runut dan sistematis dalam **12 Bab Utama** 
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Tragedi Ijazah Formal Tanpa Karya Nyata
 > **Kondisi Faktual:** Jutaan sarjana muslim lulus setiap tahun dari perguruan tinggi dengan gelar mentereng, namun bingung harus berbuat apa, menganggur bertahun-tahun, atau bekerja di bidang yang dibenci jiwanya.  
@@ -257,6 +257,15 @@ Buku *Tafsir Bakat* tersusun secara runut dan sistematis dalam **12 Bab Utama** 
   keywords = {tb40, bakat, fitrah, karakter, rukun 3a, rumpun bakat, uswah sahabat}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-tafsir-bakat-1/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

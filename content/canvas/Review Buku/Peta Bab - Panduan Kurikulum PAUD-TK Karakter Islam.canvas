@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Panduan Kurikulum PAUD-TK Karakter Islam\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Fitrah Usia Emas Thufulah (0-7 Th)\nMemahami keunikan fase usia dini: raja bermain, penerimaan mutlak, dan pengisian tangki cinta.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Bermain Bebas Beradab\nPermainan sensomotorik dan eksplorasi alam tanpa tekanan target calistung dini.",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Keteladanan Lisan & Hati Pendidik\nMendidik dengan kelembutan, sentuhan kasih, dan dekapan hangat tanpa ancaman.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Penanaman Cinta Allah & Rasul\nMengenalkan keindahan asmaul husna melalui ciptaan-Nya sebelum mengenalkan ancaman neraka.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: Desain Sentra & Lingkungan Main\nMenyiapkan lingkungan fisik yang merangsang rasa ingin tahu alamiah anak usia dini.",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    }
+  ]
+}

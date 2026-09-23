@@ -16,7 +16,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -24,8 +24,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi Buku](https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -86,7 +84,18 @@ Buku ini menjadi rujukan utama bagi siapa saja yang ingin memahami mengapa pendi
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > Buku *Pendidikan Karakter Nabawiyah* adalah cetak biru epistemologi yang merestorasi arah pendidikan Islam dari sekadar transfer wawasan kognitif (*ta'lim*) menjadi pensucian jiwa dan penumbuhan karakter fitrah (*tazkiyah wa tarbiyah*). Tesis sentral buku ini membuktikan bahwa anak terlahir membawa potensi fitrah kebaikan yang utuh (*kullu mauludin yuladu 'alal fitrah*); maka kegagalan karakter bukan bersumber dari ketidakmampuan anak, melainkan dari kesalahan intervensi pengasuhan orang tua dan sistem sekolah yang melompati tahapan sunnatullah (*tadarruj*).
@@ -105,29 +114,16 @@ Peta visual interaktif yang merangkum epistemologi, 5 sumber otoritatif, 5 kompo
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Secara sistematika naskah, buku ini disusun dalam 8 pokok bahasan strategis (Bab 0 hingga Bab 7) yang membangun kerangka pedagogis utuh:
 
-```
-[Bab 0: Tanggung Jawab Pendidikan]
-               ↓
-[Bab 1: Tujuan Pendidikan Insan]
-               ↓
-[Bab 2: Materi Pendidikan (Ruh, Jasad, Nafs)]
-               ↓
-[Bab 3: Batas Akhir Pendidikan Anak (Aqil Baligh)]
-               ↓
-[Bab 4: Metode Pendidikan (Tiga Bahasa: Hati, Lisan, Tangan)]
-               ↓
-[Bab 5: Mendidik Sesuai Fase Usia (0-7, 7-10, 10-14, 15+)]
-               ↓
-[Bab 6: Pendidikan Aqil Baligh & Kesiapan Taklif]
-               ↓
-[Bab 7: Recovery Karakter & Pemulihan Fitrah]
-```
+![[canvas/Review Buku/Peta Bab - Pendidikan Karakter Nabawiyah.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Pendidikan Karakter Nabawiyah (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 0: Tanggung Jawab Pendidikan
 - Membedah mandat primer pendidikan anak yang berada di pundak kedua orang tua (khususnya figur ayah sebagai nakhoda visi dan ibu sebagai madrasah pertama).
@@ -219,7 +215,7 @@ Secara sistematika naskah, buku ini disusun dalam 8 pokok bahasan strategis (Bab
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Krisis Disorientasi Pendidikan Islam
 > **Kondisi Faktual:** Banyak madrasah dan pesantren modern memenangkan berbagai olimpiade sains dan sains robotik, namun para santrinya masih gemar melakukan perundungan (*bullying*), kecanduan game online secara sembunyi-sembunyi, dan malas mendirikan shalat subuh berjamaah.  
@@ -250,6 +246,15 @@ Secara sistematika naskah, buku ini disusun dalam 8 pokok bahasan strategis (Bab
   keywords = {epistemologi, insan, fitrah, tarbiyah, ruh, jasad, nafs, tiga bahasa}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

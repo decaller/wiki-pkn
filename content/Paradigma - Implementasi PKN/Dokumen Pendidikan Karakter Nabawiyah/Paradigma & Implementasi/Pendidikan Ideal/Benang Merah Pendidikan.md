@@ -66,6 +66,11 @@ tags:
 > * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
 > * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
 
+> [!NOTE] Intisari & Kutipan Resmi Literatur
+> Halaman ini merupakan ringkasan intisari dan kutipan resmi dari buku **Menumbuhkan Kesadaran Beramal** karya Ustadz Abdul Kholiq (Yayasan Bina Insan Taqwa). Disajikan secara padat sebagai rujukan pedagogis penumbuhan motivasi intrinsik santri.
+> 📖 *Untuk telaah mendalam, dinamika hati, dan pemesanan edisi fisik resmi, baca:* **[[Review Buku Menumbuhkan Kesadaran Beramal|Ulasan Lengkap & Pemesanan Buku Menumbuhkan Kesadaran Beramal ↗]]**.
+
+
 
 
 ![Analogi Bertani: Kesabaran Merawat Benih Fitrah Hingga Menuai Hasil](/assets/banners/banner-29.webp)

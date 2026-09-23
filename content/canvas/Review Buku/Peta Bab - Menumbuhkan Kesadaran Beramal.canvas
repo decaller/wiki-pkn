@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Menumbuhkan Kesadaran Beramal\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Fenomena Kepatuhan Semu\nKritik atas reward materi dan ancaman dangkal. Membedakan patuh terkondisi vs sadar fitrah.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Struktur Kesadaran Manusia\nEpistemologi Kalbu (Iman) memandu Akal (Ilmu) menggerakkan Jasad (Amal).",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Formula Tiga Bahasa Pendidik\nBahasa Hati menghidupkan iman; Bahasa Lisan menanamkan nalar; Bahasa Tangan menegakkan amal.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Shalat sebagai Barometer Kematangan\nShalat usia 7 dan 10 tahun bukan sekadar gerakan fisik, tapi radar kematangan jiwa anak.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: Mengatasi Resistensi & Overdosis Nasehat\nKoneksi sebelum koreksi. Menghentikan ceramah verbal saat tangki cinta anak kosong.",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "bab6",
+      "type": "text",
+      "text": "### 📌 Bab 6: Pentahapan Pembiasaan Beramal\nTransisi bertahap dari Taqlid imitasi menuju pemahaman Tamyiz hingga kesadaran mandiri.",
+      "x": 0,
+      "y": 700,
+      "width": 680,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "bab7",
+      "type": "text",
+      "text": "### 📌 Bab 7: Qudwah Hasanah Otoritatif\nKeteladanan orang tua sebagai magnet kepatuhan sukarela anak.",
+      "x": 0,
+      "y": 840,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab8",
+      "type": "text",
+      "text": "### 📌 Bab 8: Mengawal Transisi Taklif Syari\nKesiapan menanggung beban amal tanpa pengawasan manusia.",
+      "x": 0,
+      "y": 980,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab5-bab6",
+      "fromNode": "bab5",
+      "fromSide": "bottom",
+      "toNode": "bab6",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab6-bab7",
+      "fromNode": "bab6",
+      "fromSide": "bottom",
+      "toNode": "bab7",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab7-bab8",
+      "fromNode": "bab7",
+      "fromSide": "bottom",
+      "toNode": "bab8",
+      "toSide": "top"
+    }
+  ]
+}

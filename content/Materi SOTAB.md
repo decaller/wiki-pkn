@@ -1,15 +1,16 @@
 ---
-title: "Materi SOTAB (Sekolah Orangtua Ayah Bunda Hebat)"
+title: "Materi SOTAB HEBAT (Sekolah Orang Tua HEBAT - HCE)"
 tags:
   - SOTAB
   - PendidikanKarakterNabawiyah
   - AbdulKholik
   - HubMateri
+  - HCE
 ---
 
-# Direktori Materi SOTAB HEBAT Indonesia
+# Direktori Materi SOTAB HEBAT Indonesia (HCE - Home Character Education)
 
-Halaman ini merupakan portal pengindeksan untuk **121 artikel dan materi resmi** dari komunitas **SOTAB HEBAT (Sekolah Orangtua Ayah Bunda Hebat Indonesia)** yang diasuh dan dirumuskan langsung oleh konseptor Pendidikan Karakter Nabawiyah, **Ustadz Abdul Kholik, S.Pd**.
+Halaman ini merupakan portal pengindeksan untuk **121 artikel dan materi resmi** dari program **SOTAB HEBAT (Sekolah Orang Tua HEBAT)** yang bernaung di bawah **HCE (Home Character Education)**, diasuh dan dirumuskan langsung oleh perumus Pendidikan Karakter Nabawiyah, **Ustadz Abdul Kholiq, S.Pd**.
 
 Materi-materi ini menekankan pendekatan **Bahasa Hati (*Lisanul Qalb*)**, membedah fitrah anak, dan menyelaraskan pola asuh orang tua dengan sunnah nabawiyah.
 

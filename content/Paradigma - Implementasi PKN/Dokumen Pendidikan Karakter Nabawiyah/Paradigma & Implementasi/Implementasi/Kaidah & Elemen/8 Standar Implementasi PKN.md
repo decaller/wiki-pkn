@@ -69,6 +69,11 @@ description: "Delapan Standar Mutu PKN 11/2024: pedoman audit kurikulum, pendewa
 > * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
 > * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
 
+> [!NOTE] Intisari & Kutipan Resmi Literatur
+> Dokumen standarisasi ini merupakan ringkasan intisari dan kutipan resmi dari buku **Panduan Implementasi Standar PKN** karya Ustadz Abdul Kholiq (Yayasan Bina Insan Taqwa). Naskah disajikan dalam bentuk poin-poin standar kelembagaan siap pakai.
+> 📖 *Untuk pedoman teknis lengkap, instrumen akreditasi, dan pemesanan buku fisik resmi, baca:* **[[Review Buku Panduan Implementasi Standar PKN|Ulasan Lengkap & Pemesanan Buku Panduan Implementasi Standar PKN ↗]]**.
+
+
 
 ![[assets/banners/banner_8_standar_pkn.webp]]
 *Gambar: Pilar-pilar 8 Standar Mutu Implementasi PKN*

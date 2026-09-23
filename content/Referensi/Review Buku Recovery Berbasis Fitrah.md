@@ -16,7 +16,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -24,8 +24,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi Buku](https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -86,7 +84,18 @@ Dalam buku ini, Ustadz Abdul Kholiq memadukan diagnosa kejiwaan kitab *Ar-Ruh* k
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Recovery Berbasis Fitrah* membongkar kekeliruan fatal penanganan masalah anak yang hanya berfokus pada pemadaman gejala luar (*symptom treatment*) melalui ancaman skorsing atau kemarahan. Tesis sentral buku ini membuktikan bahwa perilaku menyimpang anak hanyalah "teriakan minta tolong" dari jiwa yang lapar pengakuan dan terluka tangki fitrahnya. Pemulihan sejati mensyaratkan dekonstruksi ego pendidik, penerimaan tanpa syarat (*unconditional acceptance*), pembasuhan racun emosi, dan restrukturisasi lingkungan ramah jiwa.
@@ -105,29 +114,16 @@ Peta visual interaktif yang merangkum metode pemulihan EMISOL dan tiga pilar pem
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Buku *Recovery Berbasis Fitrah* tersusun dalam 8 bab klinis-spiritual yang memandu terapis, asatidz, dan orang tua:
 
-```
-[Bab 1: Anatomi Jiwa yang Terluka: Satu Jiwa dengan Ragam Sifat]
-                             ↓
-[Bab 2: Nutrisi Kalbu & Kebutuhan Pengakuan Fitrah Anak]
-                             ↓
-[Bab 3: Defisit Tangki Cinta & Ledakan Perilaku Menyimpang]
-                             ↓
-[Bab 4: Kaidah Syar'i: La Dharara wa La Dhirar dalam Pemulihan]
-                             ↓
-[Bab 5: Hierarki Terapi Bahasa Hati Mendahului Nalar Logika]
-                             ↓
-[Bab 6: Protokol 9 Tahap Detoksifikasi Racun Emosi & Batin]
-                             ↓
-[Bab 7: Studi Kasus Spesifik: Bullying, Pornografi, Gadget & Depresi]
-                             ↓
-[Bab 8: Transformasi Jiwa: Dari Pribadi Sholih Menuju Jiwa Mushlih]
-```
+![[canvas/Review Buku/Peta Bab - Recovery Berbasis Fitrah.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Recovery Berbasis Fitrah (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 1: Anatomi Jiwa yang Terluka
 - Mengutip kalam Al-Imam Ibnul Qayyim dalam kitab *Ar-Ruh*: *"Dan yang benar adalah bahwa jiwa itu satu, tetapi memiliki beberapa sifat (karakter) dan diberi nama sesuai dengan sifatnya masing-masing."*
@@ -213,7 +209,7 @@ Buku *Recovery Berbasis Fitrah* tersusun dalam 8 bab klinis-spiritual yang meman
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Jebakan Skorsing dan DO Santri
 > **Kondisi Faktual:** Lembaga pendidikan Islam sering mengambil jalan pintas mengeluarkan (*Drop Out* / DO) santri yang ketahuan merokok atau merusak fasilitas demi menjaga nama baik dan akreditasi lembaga.  
@@ -244,6 +240,15 @@ Buku *Recovery Berbasis Fitrah* tersusun dalam 8 bab klinis-spiritual yang meman
   keywords = {recovery, luka pengasuhan, bahasa hati, tadarruj, terapi jiwa, tangki cinta, la dharara}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-recovery-berbasis-fitrah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

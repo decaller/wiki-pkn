@@ -60,6 +60,11 @@ title: "Fitrah Belajar"
 > * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
 > * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
 
+> [!NOTE] Intisari & Kutipan Resmi Literatur
+> Halaman ini merupakan ringkasan intisari dan kutipan resmi dari buku rujukan induk **Pendidikan Karakter Nabawiyah** karya Ustadz Abdul Kholiq (Yayasan Bina Insan Taqwa). Naskah disajikan secara padat sebagai panduan praktis dan tidak menggantikan kedalaman naskah buku aslinya.
+> 📖 *Untuk telaah komprehensif, struktur bab, dan pemesanan buku fisik resmi, baca:* **[[Review Buku Pendidikan Karakter Nabawiyah|Ulasan Lengkap & Pemesanan Buku Pendidikan Karakter Nabawiyah ↗]]**.
+
+
 
 
 ![Fitrah Belajar Anak: Ketekunan Menuntut Ilmu](/assets/banners/banner-06.webp)

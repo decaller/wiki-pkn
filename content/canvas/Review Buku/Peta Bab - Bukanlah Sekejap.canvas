@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Bukanlah Sekejap (Risalah Kesabaran)\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Menghadapi Tanah Keras Tarbiyah\nTarbiyah adalah proses organik panjang layaknya merawat pohon kurma, bukan pabrik instan.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Kurva Kesabaran & Batas Toleransi\nMenjaga kestabilan emosi orang tua saat menghadapi fase pembangkangan anak.",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Dinamika Transisi Tamyiz ke Murahaqah\nSeni mendampingi pergolakan hormonal dan pencarian jati diri remaja.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Kekuatan Doa & Air Mata Sepertiga Malam\nSenjata ruhani pendidik ketika lisan dan tangan telah mencapai batas maksimal ikhtiar.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: Menanti Panen Amal Jariyah\nKeteguhan memelihara visi akhirat hingga anak menjadi penyejuk mata (qurrata ayun).",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -25,8 +25,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi SOTAB HEBAT](https://sotabh.com/portfolio/the-difference-between-ui-and-ux-in-design-2/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -87,7 +85,18 @@ Buku ini menegaskan dengan landasan neurosains perkembangan dan riwayat salaf ba
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Panduan Kurikulum PAUD/TK Karakter Islam* menetapkan bahwa kurikulum usia 0–7 tahun bukanlah kurikulum kognitif-akademik, melainkan **Kurikulum Pendidikan Hati (*Tarbiyatul Qalb*) dan Sensori Motorik**. Tesis sentral buku ini membuktikan bahwa anak yang tangki cintanya penuh, fisiknya bebas bergerak di alam, dan jiwanya merasa aman dalam dekapan orang tua akan memiliki pondasi nalar (*tamyiz*) yang jauh lebih tajam, stabil, dan beradab saat memasuki usia sekolah dasar.
@@ -106,29 +115,16 @@ Peta visual interaktif yang menggambarkan dinamika fitrah anak fase Thufulah (us
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Buku kurikulum praktis ini tersusun dalam 8 bab komprehensif yang dirancang khusus untuk pendidik dan orang tua balita:
 
-```
-[Bab 1: Bahaya Calistung Dini & Dekonstruksi Obsesi Akademik]
-                            ↓
-[Bab 2: Tangki Cinta: Kebutuhan Mutlak Jiwa Fase Thufulah]
-                            ↓
-[Bab 3: Menghidupkan Asmaul Husna Melalui Keajaiban Alam Semesta]
-                            ↓
-[Bab 4: Cara Belajar Alami Anak: Meniru (Taqlid) & Bermain Bebas]
-                            ↓
-[Bab 5: Stimulasi 7 Panca Indera & Kematangan Fisik Motorik Kasar]
-                            ↓
-[Bab 6: Pembiasaan Adab Harian Secara Alamiah Tanpa Tekanan]
-                            ↓
-[Bab 7: Pengenalan Shalat & Ibadah Melalui Syiar Kegembiraan]
-                            ↓
-[Bab 8: Sinergi Madrasah Pertama: Nakhoda Ayah & Pelaksana Bunda]
-```
+![[canvas/Review Buku/Peta Bab - Panduan Kurikulum PAUD-TK Karakter Islam.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Panduan Kurikulum PAUD/TK Karakter Islam (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 1: Bahaya Calistung Dini & Dekonstruksi Obsesi Akademik
 - Membedah bahaya biologis pemaksaan membaca dan menulis terlalu dini: pematangan otot jari tangan belum tuntas, lensa mata rentan miopi dini, dan korsleting sambungan sinaps otak akibat stres akademik (*academic burnout*).
@@ -210,7 +206,7 @@ Buku kurikulum praktis ini tersusun dalam 8 bab komprehensif yang dirancang khus
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Ledakan Speech Delay di Era Smartphone
 > **Kondisi Faktual:** Ribuan anak balita zaman sekarang mengalami keterlambatan bicara (*speech delay*), ketiadaan kontak mata (*lack of eye contact*), dan gejala spektrum autisme semu akibat paparan layar ponsel sejak usia bayi.  
@@ -241,6 +237,15 @@ Buku kurikulum praktis ini tersusun dalam 8 bab komprehensif yang dirancang khus
   keywords = {paud, tk, usia dini, thufulah, tangki cinta, anti calistung, sensori motorik, sotab}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-pendidikan-karakter-nabawiyah/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

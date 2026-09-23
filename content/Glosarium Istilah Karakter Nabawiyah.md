@@ -261,7 +261,7 @@ Untuk menjaga orisinalitas manhaj dan kejelasan transmisi keilmuan, seluruh arti
 * **Shamt (صَمْت):** Pilar bakat TB-40 ke-14 (rumpun Berpikir). Pengendalian lisan yang matang, kecenderungan untuk lebih banyak mendengar dan merenung daripada berbicara yang sia-sia ([[14-shamt]]).
 * **Shidq (صِدْق):** Pilar bakat TB-40 ke-12 (rumpun Berperasaan). Kejujuran paripurna lahir-batin, keselarasan antara perkataan, keyakinan hati, dan perbuatan nyata ([[12-shidq]]).
 * **Sholih & Muslih:** Dua tingkat luaran santri: *Sholih* adalah pribadi yang saleh untuk dirinya sendiri (akidah lurus dan ibadah tertib); *Muslih* adalah pribadi yang aktif menebarkan perbaikan dan memperjuangkan kemaslahatan umat ([[05 - Jejak Pendidik & Target]]).
-* **SOTAB (Sekolah Orang Tua dan Anak Berkarakter):** Buletin berkala dan forum diskusi praktis asuhan Ustadz Abdul Kholiq yang membedah studi kasus nyata problematika pengasuhan harian ([[Materi SOTAB]]).
+* **SOTAB HEBAT (Sekolah Orang Tua HEBAT dari HCE - Home Character Education):** Program pembinaan keluarga, buletin berkala, dan forum diskusi praktis asuhan Ustadz Abdul Kholiq yang membedah studi kasus nyata problematika pengasuhan harian berbasis fitrah di rumah tangga ([[Materi SOTAB]]).
 * **Syajaa'ah (شَجَاعَة):** Pilar bakat TB-40 ke-18 (rumpun Bekerja Keras). Keberanian moral dan fisik dalam membela kebenaran, mengambil risiko terukur, dan tidak gentar menghadapi rintangan peradaban ([[18-syajaaah]]).
 * **Syabab (شَبَاب):** Fase keempat usia nabawiyah (usia 15 tahun ke atas / akil-baligh mandiri). Masa kemandirian penuh, santri diperlakukan sebagai sahabat dan mitra musyawarah, serta memikul mandat dakwah dan karya peradaban ([[Syabab]]).
 

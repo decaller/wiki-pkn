@@ -16,7 +16,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -24,8 +24,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi Buku](https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -86,7 +84,18 @@ Buku ini membongkar kepalsuan sistem pembiasaan mekanistik yang hanya bersandar 
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Menumbuhkan Kesadaran Beramal* mengajarkan cara memindahkan penggerak amal anak dari **faktor eksternal** (takut rotan, haus pujian, mengejar hadiah) ke **faktor internal** (kesadaran iman, keterikatan hati dengan Allah, dan kelezatan munajat). Buku ini membuktikan bahwa shalat adalah barometer tertinggi kematangan fitrah anak; bila kesadaran shalat telah tertanam kuat di usia tamyiz, maka seluruh cabang adab dan kedisiplinan hidup lainnya akan tegak dengan sendirinya.
@@ -105,29 +114,16 @@ Peta visual interaktif yang menggambarkan filosofi mendidik layaknya bertani, pe
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Buku ini tersusun dalam 8 bab komprehensif yang mengurai alur transformasi batiniah anak:
 
-```
-[Bab 1: Fenomena Kepatuhan Semu & Jebakan Reward-Punishment]
-                            ↓
-[Bab 2: Struktur Kesadaran: Hati (Iman), Otak (Ilmu), Fisik (Amal)]
-                            ↓
-[Bab 3: Tiga Bahasa Pendidik Nabawiyah: Hati, Lisan, Tangan]
-                            ↓
-[Bab 4: Shalat sebagai Barometer Kematangan Jiwa Anak]
-                            ↓
-[Bab 5: Mengatasi Sindrom Overdosis Nasehat & Resistensi Anak]
-                            ↓
-[Bab 6: Pentahapan Pembiasaan (Taqlid → Tamyiz → Kesadaran Mandiri)]
-                            ↓
-[Bab 7: Qudwah Hasanah: Keteladanan Otoritatif Orang Tua]
-                            ↓
-[Bab 8: Mengawal Transisi Taklif Syar'i Menjelang Baligh]
-```
+![[canvas/Review Buku/Peta Bab - Menumbuhkan Kesadaran Beramal.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Menumbuhkan Kesadaran Beramal (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 1: Fenomena Kepatuhan Semu & Jebakan Reward-Punishment
 - Mengkritisi metode pendisiplinan dangkal yang mengandalkan stiker bintang, hadiah materi, atau ancaman hukuman fisik.
@@ -206,7 +202,7 @@ Buku ini tersusun dalam 8 bab komprehensif yang mengurai alur transformasi batin
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Tragedi Lepas Shalat Pasca-Kelulusan
 > **Kondisi Faktual:** Seorang santri yang selama 6 tahun di pondok pesantren tidak pernah masbuq shalat berjamaah, seketika berhenti shalat 5 waktu begitu lulus dan mulai hidup mandiri di kota besar.  
@@ -237,6 +233,15 @@ Buku ini tersusun dalam 8 bab komprehensif yang mengurai alur transformasi batin
   keywords = {kesadaran beramal, shalat, qudwah hasanah, motivasi batin, tamyiz, disiplin positif}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

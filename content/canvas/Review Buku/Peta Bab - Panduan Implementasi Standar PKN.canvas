@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Panduan Implementasi Standar PKN\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Urgensi Standarisasi Mutu PKN\nMenjaga kemurnian manhaj PKN dari kompromi pragmatis melalui standar terukur.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Delapan Standar Pendidikan PKN\nStandar Isi, Proses, Kompetensi Lulusan, Pendidik, Sarpras, Pengelolaan, Pembiayaan, dan Penilaian.",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Program AKG (Akademi Karakter Guru)\nStandarisasi kompetensi ruhiyah dan pedagogis asatidz pengampu manhaj PKN.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Program PIS & TDK\nPendidikan Insan Santri dan Training Dasar Karakter sebagai gerbang transformasi santri.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: SOP Keseharian Asrama & Madrasah\nStandar operasional rutinitas harian yang membangun disiplin positif tanpa kekerasan.",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "bab6",
+      "type": "text",
+      "text": "### 📌 Bab 6: Akreditasi Mandiri Lembaga PKN\nInstrumen evaluasi mandiri untuk menilai tingkat maturitas implementasi manhaj di sekolah.",
+      "x": 0,
+      "y": 700,
+      "width": 680,
+      "height": 100,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab5-bab6",
+      "fromNode": "bab5",
+      "fromSide": "bottom",
+      "toNode": "bab6",
+      "toSide": "top"
+    }
+  ]
+}

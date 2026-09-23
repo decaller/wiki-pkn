@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Buku Tafsir Bakat 40 (TB-40)\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Teologi Bakat Fitrah\nSetiap insan dimudahkan untuk takdir penciptaannya (kullun muyassarun lima khuliqa lah). Tolak fabrikasi keseragaman.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Taksonomi 40 Pilar Bakat (TB-40)\nPeta komprehensif 40 sifat produktif nabawiyah yang digali dari Al-Quran dan hadits shahih.",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Rumpun Berpikir (Fikr)\n5 pilar: Fathonah, Hikmah, Tadabbur, Shamt, dan Nazhar. Nalar jernih pemandu syariat.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Rumpun Berperasaan (Qalb)\n6 pilar: Haya, Wara, Raja, Khauf, Sabr, dan Syukr. Radar nurani dan integritas batin.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: Rumpun Bekerja Keras (Amal)\n6 pilar: Itqan, Himmah, Syajaaah, Mujahadah, Jiddiyah, dan Sabat. Stamina amal dan jihad.",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "bab6",
+      "type": "text",
+      "text": "### 📌 Bab 6: Rumpun Bekerja Sama (Ukhuwah)\n8 pilar: Taawun, Ulfah, Nashihah, Hilm, Rahmah, Samahah, Afw, dan Tawadhu.",
+      "x": 0,
+      "y": 700,
+      "width": 680,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "bab7",
+      "type": "text",
+      "text": "### 📌 Bab 7: Rumpun Memerintah (Qiyadah)\n7 pilar: Adl, Amanah, Hazm, Syura, Qudwah, Tabligh, dan Firatsah. Kepemimpinan adil.",
+      "x": 0,
+      "y": 840,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab8",
+      "type": "text",
+      "text": "### 📌 Bab 8: Rumpun Melayani (Khidmah)\n8 pilar: Itsar, Karam, Diyafah, Rifq, Taawun, Infaq, Islah, dan Syafaah. Kerendahan hati berkhidmat.",
+      "x": 0,
+      "y": 980,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab5-bab6",
+      "fromNode": "bab5",
+      "fromSide": "bottom",
+      "toNode": "bab6",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab6-bab7",
+      "fromNode": "bab6",
+      "fromSide": "bottom",
+      "toNode": "bab7",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab7-bab8",
+      "fromNode": "bab7",
+      "fromSide": "bottom",
+      "toNode": "bab8",
+      "toSide": "top"
+    }
+  ]
+}

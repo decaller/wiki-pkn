@@ -92,6 +92,11 @@ aliases:
 > * **Rukun 3A:** Anak berbakat ini secara alamiah *Suka* (menepati janji), *Bisa* berkembang melampaui rata-rata tanpa paksaan, dan *Berguna* bagi kemaslahatan umat serta penegakan peradaban Islam.
 > * **Jalan Wasathiyah:** Menumbuhkan bakat ini dengan landasan iman tauhid agar terhindar dari penyakit hati, serta mengimbanginya dengan pilar adab syariat penyeimbang (*'ilaj*).
 
+> [!NOTE] Intisari & Kutipan Resmi Literatur
+> Halaman ini merupakan ringkasan intisari dan kutipan resmi dari buku rujukan induk **Pendidikan Karakter Nabawiyah** karya Ustadz Abdul Kholiq (Yayasan Bina Insan Taqwa). Naskah disajikan secara padat sebagai panduan praktis dan tidak menggantikan kedalaman naskah buku aslinya.
+> 📖 *Untuk telaah komprehensif, struktur bab, dan pemesanan buku fisik resmi, baca:* **[[Review Buku Pendidikan Karakter Nabawiyah|Ulasan Lengkap & Pemesanan Buku Pendidikan Karakter Nabawiyah ↗]]**.
+
+
 Pendidikan Karakter Nabawiyah memandang bakat bukan semata keterampilan teknis mekanis, melainkan amanah fitrah (*al-mauhibah*) yang Allah hembuskan ke dalam jiwa manusia sejak alam ruh. Setiap anak dilahirkan membawa cetak biru keunikan peran peradaban, di mana pilar **Wafaa** menjadi salah satu pintu kontribusi terbaiknya di muka bumi.
 
 ---

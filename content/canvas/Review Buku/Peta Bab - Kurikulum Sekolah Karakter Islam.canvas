@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📚 Peta Sistematika Bab: Kurikulum Sekolah Karakter Islam\n**Rujukan Otoritatif Manhaj PKN • Ustadz Abdul Kholiq**\n*Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal*",
+      "x": 0,
+      "y": -160,
+      "width": 680,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "bab1",
+      "type": "text",
+      "text": "### 📌 Bab 1: Kritik Paradigma Sekolah Pabrik\nDekonstruksi sistem sekolah massal Prusia yang menyeragamkan bakat dan mematikan fitrah unik anak.",
+      "x": 0,
+      "y": 0,
+      "width": 680,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bab2",
+      "type": "text",
+      "text": "### 📌 Bab 2: Pembelajaran Alamiah Nabawiyah\nMenjadikan alam semesta, peristiwa nyata, dan tantangan hidup sebagai media belajar utama.",
+      "x": 0,
+      "y": 140,
+      "width": 680,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bab3",
+      "type": "text",
+      "text": "### 📌 Bab 3: Desain RPP Berbasis Peristiwa\nFormat RPP 1 lembar yang mengintegrasikan Bahasa Kauniyah, Syariyyah, dan Amaliyah.",
+      "x": 0,
+      "y": 280,
+      "width": 680,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "bab4",
+      "type": "text",
+      "text": "### 📌 Bab 4: Desain Proyek Adab & Kemanfaatan\nProyek belajar berbasis masalah nyata umat yang melatih 40 pilar bakat fitrah santri.",
+      "x": 0,
+      "y": 420,
+      "width": 680,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "bab5",
+      "type": "text",
+      "text": "### 📌 Bab 5: Ekosistem Sekolah Berbasis Fitrah\nPenyelarasan peran Mudir, Asatidz, Wali Santri, dan Lingkungan fisik sekolah.",
+      "x": 0,
+      "y": 560,
+      "width": 680,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "bab6",
+      "type": "text",
+      "text": "### 📌 Bab 6: Evaluasi Autentik Rapor Karakter\nMenilai pertumbuhan jiwa santri bukan dengan angka ujian kognitif semata, melainkan rubrik 3-level.",
+      "x": 0,
+      "y": 700,
+      "width": 680,
+      "height": 100,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-header-bab1",
+      "fromNode": "header",
+      "fromSide": "bottom",
+      "toNode": "bab1",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab1-bab2",
+      "fromNode": "bab1",
+      "fromSide": "bottom",
+      "toNode": "bab2",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab2-bab3",
+      "fromNode": "bab2",
+      "fromSide": "bottom",
+      "toNode": "bab3",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab3-bab4",
+      "fromNode": "bab3",
+      "fromSide": "bottom",
+      "toNode": "bab4",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab4-bab5",
+      "fromNode": "bab4",
+      "fromSide": "bottom",
+      "toNode": "bab5",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-bab5-bab6",
+      "fromNode": "bab5",
+      "fromSide": "bottom",
+      "toNode": "bab6",
+      "toSide": "top"
+    }
+  ]
+}

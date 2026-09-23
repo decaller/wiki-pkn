@@ -81,7 +81,7 @@ tags:
     </tr>
     <tr>
       <th>Lisensi & Otoritas</th>
-      <td>Manhaj Ustadz Abdul Kholiq / Yayasan Bina Insan Taqwa</td>
+      <td>Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal</td>
     </tr>
   </table>
 </div>
@@ -106,8 +106,29 @@ tags:
 
 ## 📦 Riwayat Rilis Versi & Milestone
 
+### 🏷️ Versi 2.5.1 — *Engine Resolusi Tautan HTML, Bagan Canvas Review Buku & Standarisasi Kutipan*
+**Tanggal Rilis:** 23 September 2026 | **Cakupan Milestone:** Milestone 62 | **Status:** Rilis Produksi Aktif
+
+Versi 2.5.1 menghadirkan penyempurnaan menyeluruh pada mesin parser Quartz, visualisasi konsep buku, integritas navigasi, dan perlindungan hak cipta:
+
+* ⚡ **Engine Resolusi Tautan HTML & Tabel Infobox:**
+  - Menambal defisiensi bawaan Quartz SSG (`@quartz-community/obsidian-flavored-markdown` dan `@quartz-community/crawl-links`) sehingga seluruh wikilink `[[...]]` dan `<a href="...">` di dalam blok HTML mentah (seperti tabel infobox dan navbox) terkonversi otomatis ke rute slug Quartz yang valid dan case-sensitive.
+  - Memperbaiki tautan pada seluruh tabel navigasi bawah (`.wiki-navbox`) sehingga bebas 404.
+* 🎨 **Pembaruan 8 Berkas Review Buku & Bagan Canvas Interaktif:**
+  - Mengeliminasi label kode kaku (`# ZONE 1, 2, 3, 4`) menjadi judul naratif ensiklopedis yang alami dan elegan.
+  - Mengganti peta konsep teks kode ASCII menjadi 8 bagan Obsidian Canvas interaktif (`content/canvas/Review Buku/`) yang responsif terhadap zoom dan geser kursor.
+  - Menyematkan kartu Call-to-Action (CTA) pembelian edisi cetak fisik resmi karya Ustadz Abdul Kholiq di portal resmi `karakternabawiyah.com`.
+* 📜 **Penyematan Disclaimer & Notice Kutipan Resmi Bersanad:**
+  - Memperbarui 81 berkas artikel turunan dari 4 buku utama (*Pendidikan Karakter Nabawiyah*, *Tafsir Bakat*, *Menumbuhkan Kesadaran Beramal*, dan *Panduan Implementasi Standar PKN*) dengan banner intisari resmi dan tautan ke halaman review buku terkait.
+  - Memastikan konten wiki berfungsi sebagai intisari dan pemandu tanpa menduplikasi isi buku asli secara berlebihan.
+* 🏛️ **Pembaruan Atribusi & Identitas Program:**
+  - Memperbarui atribusi Lisensi & Otoritas menjadi: *"Pengembangan oleh Harridi Ilman Tovid - Yayasan Bina Insan Taqwa - Yayasan Bina Insan Mustaqbal"*.
+  - Meluruskan definisi SOTAB HEBAT menjadi: *"Sekolah Orang Tua HEBAT dari HCE (Home Character Education)"*.
+
+---
+
 ### 🏷️ Versi 2.5.0 — *Ekspansi Dalil Bersanad, Review 8 Buku, Linter Kualitas & Umami Analytics*
-**Tanggal Rilis:** 23 September 2026 | **Cakupan Milestone:** Milestone 60 | **Status:** Rilis Produksi Aktif
+**Tanggal Rilis:** 23 September 2026 | **Cakupan Milestone:** Milestone 60 | **Status:** Stabil
 
 Versi 2.5.0 merupakan tonggak ekspansi ilmiah dan infrastruktur terbesar, mengukuhkan otoritas sanad keilmuan Wiki PKN melalui korpus wahyu dan kitab turats klasik:
 

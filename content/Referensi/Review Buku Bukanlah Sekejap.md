@@ -18,7 +18,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -26,8 +26,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi SOTAB HEBAT](https://sotabh.com/portfolio/designing-a-mobile-store-application-2/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -88,7 +86,18 @@ Buku ini hadir sebagai oase ketenangan yang menyadarkan kita bahwa melahirkan ge
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Bukanlah Sekejap* membedah filosofi ketahanan mental pendidik (*tarbawi resilience*) dalam mengarungi dinamika sunnatullah pentahapan (*at-tadarruj*). Tesis sentral buku ini menegaskan bahwa kegagalan terbesar orang tua bukanlah karena kekurangan buku resep parenting, melainkan karena **ketidaksabaran menghadapi proses alami anak** dan keputusasaan prematur saat melihat kemunduran perilaku sementara. Kemenangan tarbiyah adalah milik mereka yang istiqamah menanam adab-adab kecil setiap hari dan menyerahkan hasil akhir sepenuhnya kepada Allah Azza wa Jalla.
@@ -107,29 +116,16 @@ Peta visual interaktif yang menggambarkan Grand Theory Kesadaran Beramal dan Ran
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Buku risalah ini tersusun dalam 8 bab perenungan mendalam dan arahan praktis:
 
-```
-[Bab 1: Jebakan Ilusi Hasil Instan di Era Serba Cepat]
-                             ↓
-[Bab 2: Sunnatullah Tadarruj: Belajar dari 23 Tahun Wahyu & Pohon Kurma]
-                             ↓
-[Bab 3: Memahami Dinamika Naik-Turun Emosi & Siklus Pertumbuhan Anak]
-                             ↓
-[Bab 4: Merestart Ekspektasi: Menghapus Rasa Malu Sosial Orang Tua]
-                             ↓
-[Bab 5: Keteguhan Nakhoda Ayah Menjaga Visi di Tengah Badai Fitnah]
-                             ↓
-[Bab 6: Menjaga Energi Batin Ibu: Mencegah Parenting Burnout]
-                             ↓
-[Bab 7: Keajaiban Istiqamah: Buah Raksasa dari Benih Adab Kecil]
-                             ↓
-[Bab 8: Maqam Ridha & Tawakkal: Menyerahkan Hasil Akhir kepada Allah]
-```
+![[canvas/Review Buku/Peta Bab - Bukanlah Sekejap.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Bukanlah Sekejap (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 1: Jebakan Ilusi Hasil Instan di Era Serba Cepat
 - Mengkritik mentalitas masyarakat modern yang menginginkan hasil instan: ikut seminar parenting 2 jam lalu berharap anak langsung berubah 180 derajat menjadi santri penghafal Al-Qur'an yang penurut.
@@ -204,7 +200,7 @@ Buku risalah ini tersusun dalam 8 bab perenungan mendalam dan arahan praktis:
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Krisis Ketahanan Mental Orang Tua Zaman Now
 > **Kondisi Faktual:** Begitu banyak orang tua muda masa kini yang mudah stres (*burnout*), membentak anak balitanya, atau bahkan tega melakukan kekerasan fisik hanya karena anak rewel atau menolak makan.  
@@ -235,6 +231,15 @@ Buku risalah ini tersusun dalam 8 bab perenungan mendalam dan arahan praktis:
   keywords = {kesabaran, parenting, tadarruj, adab harian, ketahanan keluarga, sotab hebat}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/buku-menumbuhkan-kesadaran-beramal/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">

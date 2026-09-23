@@ -18,7 +18,7 @@ tags:
 ---
 
 <div class="wiki-action-bar">
-  <a class="wiki-action-item active" href="#zone-1-header-action-bar--infobox-bibliografi">📖 Ulasan Buku</a>
+  <a class="wiki-action-item active" href="#intisari-eksekutif--gagasan-utama">📖 Ulasan Buku</a>
   <a class="wiki-action-item" href="#1-peta-konsep-bab-per-bab">📑 Peta Bab</a>
   <a class="wiki-action-item" href="#2-relevansi-kurikulum--implementasi-lapangan">🏫 Implementasi</a>
   <a class="wiki-action-item" href="#3-matriks-rekomendasi-pembaca--prasyarat">🎯 Rekomendasi</a>
@@ -26,8 +26,6 @@ tags:
   <a class="wiki-action-item" href="#sitasi-ilmiah-bibtex">📥 Sitasi BibTeX</a>
   <span class="wiki-action-meta">Katalog Pustaka Kanonikal PKN</span>
 </div>
-
-# ZONE 1: HEADER, ACTION BAR & INFOBOX BIBLIOGRAFI
 
 > [!note] Action Bar & Navigasi Cepat
 > 🔙 [[Referensi Tambahan Buku Cetak|Kembali ke Katalog Pustaka]] • 🌐 [Portal Resmi Buku](https://karakternabawiyah.com/panduan-implementasi-standar/) • 📥 [Unduh Sitasi BibTeX](#sitasi-ilmiah-bibtex)
@@ -92,7 +90,18 @@ Selama ini, banyak lembaga pendidikan yang berniat baik menerapkan konsep fitrah
 
 ---
 
-# ZONE 2: LEAD TL;DR INTISARI EKSEKUTIF BUKU
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/panduan-implementasi-standar/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
+
+---
+
+## Intisari Eksekutif & Gagasan Utama
 
 > [!summary] ⚡ TL;DR: Intisari Eksekutif Buku
 > *Panduan Implementasi Standar PKN 11/2024* adalah manual manajemen mutu kelembagaan yang mentransformasi gagasan filosofis karakter nabawiyah menjadi serangkaian klausul audit yang aplikatif, terukur, dan kompatibel dengan regulasi Kemendikbudristek maupun Kementerian Agama. Tesis sentral buku ini membuktikan bahwa kelestarian sebuah peradaban pendidikan tidak boleh bersandar pada karisma individu, melainkan harus ditopang oleh sistem tata kelola institusional (*nizhamul mu'assasah*) yang kokoh, transparan, dan berorientasi pada kepuasan penerima manfaat (santri dan orang tua).
@@ -111,23 +120,16 @@ Peta visual interaktif yang menggambarkan arsitektur 8 Standar Implementasi Pend
 
 ---
 
-# ZONE 3: BATANG TUBUH ANALISIS MENDALAM
+## Analisis Mendalam & Struktur Pembahasan
 
 ## 1. Peta Konsep Bab per Bab
 
 Naskah dokumen standar resmi ini tersusun dalam **13 Bab/Klausul Utuh** yang membentuk arsitektur akreditasi internal:
 
-```
-[Bab 1: Ketentuan Umum] ───► [Bab 2: Ruang Lingkup] ───► [Bab 3: Acuan Normatif]
-                                                                ↓
-[Bab 6: Kepemimpinan] ◄─── [Bab 5: Konteks Lembaga] ◄─── [Bab 4: Istilah & Definisi]
-         ↓
-[Bab 7: Standar Tujuan] ───► [Bab 8: Standar Perencanaan] ───► [Bab 9: Standar Proses]
-                                                                      ↓
-[Bab 13: Standar Wali Santri] ◄─── [Bab 12: Standar Pendidik] ◄─── [Bab 10: Standar Aqil Baligh]
-                                            ↓
-                           [Bab 11: Standar Evaluasi & Perbaikan]
-```
+![[canvas/Review Buku/Peta Bab - Panduan Implementasi Standar PKN.canvas]]
+
+*Bagan Interaktif: Peta Alur Bab per Bab Panduan Implementasi Standar PKN (Gunakan zoom dan geser kursor untuk eksplorasi bagan interaktif).* 
+
 
 ### Bab 1: Ketentuan Umum
 - Menegaskan status dokumen sebagai panduan tata cara penerapan PKN pada lembaga pendidikan Islam formal maupun nonformal.
@@ -212,7 +214,7 @@ Naskah dokumen standar resmi ini tersusun dalam **13 Bab/Klausul Utuh** yang mem
 
 ---
 
-# ZONE 4: NAVBOX, CALLOUT REFLEKSI & SITASI BIBLIOGRAFI
+## Refleksi Penerapan & Takhrij Rujukan
 
 > [!info] Refleksi Lapangan: Jebakan Ketergantungan Figur Tunggal (Founder-Centric)
 > **Kondisi Faktual:** Banyak pondok pesantren dan sekolah alam Islam yang berkembang pesat saat sang kyai pendiri masih hidup, namun seketika hancur berantakan atau kehilangan arah fitrahnya saat kepemimpinan berganti kepada generasi penerus.  
@@ -243,6 +245,15 @@ Naskah dokumen standar resmi ini tersusun dalam **13 Bab/Klausul Utuh** yang mem
   keywords = {standar pkn, klausul, institusi, tata kelola, aqil baligh, audit mutu, bayu issetyadi}
 }
 ```
+
+
+<div class="wiki-cta-box" style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(14, 165, 233, 0.08)); border: 2px solid #10b981; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.25rem;">📖 Dapatkan Edisi Cetak Fisik Asli &amp; Lengkap</div>
+    <div style="font-size: 0.9rem; color: var(--text-color);">Dukung dakwah manhaj PKN dengan memiliki buku fisik resmi karya Ustadz Abdul Kholiq langsung dari penerbit Yayasan Bina Insan Taqwa.</div>
+  </div>
+  <a href="https://karakternabawiyah.com/panduan-implementasi-standar/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.25rem; background: #059669; color: white; font-weight: 700; border-radius: 6px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🛒 Pesan Buku Resmi di KarakterNabawiyah.com ↗</a>
+</div>
 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
