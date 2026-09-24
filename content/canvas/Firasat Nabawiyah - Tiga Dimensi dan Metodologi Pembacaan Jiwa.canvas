@@ -1,0 +1,168 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_FIRASAT_MAIN",
+      "type": "group",
+      "label": "👁️ METODOLOGI FIRASAT NABAWIYAH — TIGA DIMENSI DAN PEMBACAAN JIWA PKN",
+      "x": -60,
+      "y": -80,
+      "width": 1780,
+      "height": 1180,
+      "color": "6"
+    },
+    {
+      "id": "NODE_TURATS_DALIL",
+      "type": "text",
+      "text": "### 📜 PONDASI TEOLOGIS & TURATS\n**Ayat & Hadits Landasan Firasat**\n- **QS. Al-Hijr: 75:** *\"Inna fī dzālika la-āyātin lil mutawassimīn\"* — Mujahid menafsirkan: *Al-Mutafarrisīn* (orang berfirasat).\n- **HR. At-Tirmidzi 3127:** *\"Ittaqū firāsatal mu'min fa-innahū yanzhuru bi-nūrillāh\"* (Takutilah firasat orang beriman karena ia memandang dengan cahaya Allah).\n- **Ibnul Qayyim (Madarijus Salikin):**\n  1. *Firasat Imaniyah:* Buah takwa, ghadhul bashar, & rezeki halal.\n  2. *Firasat Riyadhiyah:* Olah jiwa & konsentrasi batin.\n  3. *Firasat Khilqiyah:* Fisiognomi / membaca tanda lahiriah fisik.",
+      "x": -20,
+      "y": 0,
+      "width": 400,
+      "height": 340,
+      "color": "6"
+    },
+    {
+      "id": "NODE_CORE_AXIOM",
+      "type": "text",
+      "text": "### 🎯 AKSIOMA METODOLOGIS PKN\n**Metodologi Universal, Bukan Bakat Individual**\n- Berbeda dari pilar bakat kepribadian individual **TB-40 #07 (Firaasah)** yang hanya dimiliki sebagian orang.\n- **Firasat Nabawiyah** adalah metodologi pedagogis wajib bagi **seluruh pendidik & orang tua** untuk membaca realitas batin santri.\n- *Aksioma Pokok:* \"Menyimpulkan perkara batiniyah dari tanda lahiriah tanpa prasangka buruk dan tanpa memata-matai aib.\"",
+      "x": 420,
+      "y": 0,
+      "width": 420,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "NODE_SYARI_BOUNDS",
+      "type": "text",
+      "text": "### ⚖️ BATASAN SYAR'I & INTEGRITAS ADAB\n**Pagar Pengaman agar Terhindar dari Dosa**\n- **Kaidah:** *Al-Umūru bi Maqāshidihā* — Firasat diniatkan untuk bimbingan (*tarbiyah & 'ilaj*), bukan menghakimi (*idanah*).\n- **Larangan Su'uzhan & Tajassus:** Haram menduga buruk dan memata-matai cela (QS. Al-Hujurat: 12).\n- **Kewajiban Tabayyun:** Hasil firasat adalah hipotesis awal yang wajib diklarifikasi via dialog empat mata (QS. Al-Hujurat: 6).\n- **Menjaga Rahasia (*Sitru 'Aurah*):** Luka dan aib santri haram diumbar ke publik.",
+      "x": 880,
+      "y": 0,
+      "width": 400,
+      "height": 340,
+      "color": "1"
+    },
+    {
+      "id": "NODE_DIM1_BAKAT",
+      "type": "text",
+      "text": "### 1️⃣ Dimensi I: Firasat Bakat (Syakilah)\n**Membaca Cetak Biru Peran Peradaban**\n- Mengamati kecenderungan alami sejak balita (0–7 th) tanpa tes tertulis.\n- Memvalidasi **Rukun 3A:** *Suka* (bergairah spontan), *Bisa* (cepat menyerap), *Berguna* (berorientasi maslahat).\n- Mengamati gerak spontan, objek mainan yang dipilih berulang kali, dan daya tahan fokus saat beraktivitas mandiri.",
+      "x": -20,
+      "y": 380,
+      "width": 400,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "NODE_DIM2_EGO",
+      "type": "text",
+      "text": "### 2️⃣ Dimensi II: Firasat Ego & Kutub Energi\n**3 Tingkat Jiwa × 2 Kutub = 6 Rumpun Bakat**\n- **Ego Tinggi (Ammarah):** Tegas, mandiri, dominan.\n  * *Ekstrovert:* Memerintah (Leadership)\n  * *Introvert:* Bekerja Keras (Eksekusi Mandiri)\n- **Ego Sedang (Lawwamah):** Analitis, perenung, kolaboratif.\n  * *Ekstrovert:* Bekerja Sama (Sinergi)\n  * *Introvert:* Berpikir (Riset & Strategi)\n- **Ego Rendah (Muthmainnah):** Penuh empati, khidmah.\n  * *Ekstrovert:* Melayani (Hospitalitas)\n  * *Introvert:* Berperasaan (Sensitivitas Kalbu)",
+      "x": 420,
+      "y": 380,
+      "width": 420,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "NODE_DIM3_JIWA",
+      "type": "text",
+      "text": "### 3️⃣ Dimensi III: Firasat Kondisi Jiwa & Luka Batin\n**Mendeteksi Defisit Tangki Cinta**\n- Membaca tanda tubuh: sorot mata sayu/waspada, kekakuan bahu, kepalan tangan, nada bicara cemas/defensif.\n- Menemukan akar **Hutang Pengasuhan:** luka bentakan, pembandingan saudara, ayah absen, rasa tidak aman.\n- Kaidah penyembuhan: *Koneksi sebelum koreksi*, basuh luka batin sebelum menuntut capaian disiplin adab.",
+      "x": 880,
+      "y": 380,
+      "width": 400,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "NODE_OBSERVATION_PROTOCOL",
+      "type": "text",
+      "text": "### 🛠️ PROTOKOL EMPAT TAHAP LATIHAN OBSERVASI FIRASAT PENDIDIK\n1. **Tahap 1 — Observasi Murni 30 Hari:** Mengamati anak di lingkungan alamiah tanpa memberi penilaian atau intervensi prematur.\n2. **Tahap 2 — Analisis Mikro-Ekspresi & Bahasa Tubuh:** Membaca kontak mata, perubahan intonasi, tarikan nafas, dan gerak refleks saat menghadapi situasi senang atau tertekan.\n3. **Tahap 3 — Majelis Syura Asatidz & Orang Tua:** Mengonfirmasi kecenderungan anak secara silang antara kondisi di rumah dan di sekolah.\n4. **Tahap 4 — Verifikasi Dialogik (Tabayyun Empat Mata):** Memvalidasi hipotesis firasat melalui obrolan santai penuh Bahasa Hati.",
+      "x": -20,
+      "y": 720,
+      "width": 1300,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "NODE_OUTPUT_TARBIYAH",
+      "type": "text",
+      "text": "### 🌟 HASIL AKHIR: PENDIDIKAN TEPAT FITRAH (SINKRONISASI 3 BAHASA)\n- **Anak Ego Tinggi:** Diberikan tantangan kepemimpinan nyata dan amanah besar (bukan dipatahkan karakternya).\n- **Anak Ego Rendah:** Diberikan perlindungan kehangatan dan apresiasi ketulusan pelayanan (bukan dipaksa agresif).\n- **Anak Terluka:** Diberikan pemulihan cinta (*Tazkiyah & Recovery*) hingga fitrahnya kembali memancarkan ketenangan (*Muthmainnah*).",
+      "x": -20,
+      "y": 950,
+      "width": 1300,
+      "height": 180,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_F1",
+      "fromNode": "NODE_TURATS_DALIL",
+      "fromSide": "right",
+      "toNode": "NODE_CORE_AXIOM",
+      "toSide": "left",
+      "label": "Mendasari"
+    },
+    {
+      "id": "EDGE_F2",
+      "fromNode": "NODE_CORE_AXIOM",
+      "fromSide": "right",
+      "toNode": "NODE_SYARI_BOUNDS",
+      "toSide": "left",
+      "label": "Membentengi"
+    },
+    {
+      "id": "EDGE_F3",
+      "fromNode": "NODE_CORE_AXIOM",
+      "fromSide": "bottom",
+      "toNode": "NODE_DIM1_BAKAT",
+      "toSide": "top",
+      "label": "Membuka Dimensi 1"
+    },
+    {
+      "id": "EDGE_F4",
+      "fromNode": "NODE_CORE_AXIOM",
+      "fromSide": "bottom",
+      "toNode": "NODE_DIM2_EGO",
+      "toSide": "top",
+      "label": "Membuka Dimensi 2"
+    },
+    {
+      "id": "EDGE_F5",
+      "fromNode": "NODE_CORE_AXIOM",
+      "fromSide": "bottom",
+      "toNode": "NODE_DIM3_JIWA",
+      "toSide": "top",
+      "label": "Membuka Dimensi 3"
+    },
+    {
+      "id": "EDGE_F6",
+      "fromNode": "NODE_DIM1_BAKAT",
+      "fromSide": "bottom",
+      "toNode": "NODE_OBSERVATION_PROTOCOL",
+      "toSide": "top",
+      "label": "Alur Latihan"
+    },
+    {
+      "id": "EDGE_F7",
+      "fromNode": "NODE_DIM2_EGO",
+      "fromSide": "bottom",
+      "toNode": "NODE_OBSERVATION_PROTOCOL",
+      "toSide": "top",
+      "label": "Pemetaan"
+    },
+    {
+      "id": "EDGE_F8",
+      "fromNode": "NODE_DIM3_JIWA",
+      "fromSide": "bottom",
+      "toNode": "NODE_OBSERVATION_PROTOCOL",
+      "toSide": "top",
+      "label": "Diagnosa"
+    },
+    {
+      "id": "EDGE_F9",
+      "fromNode": "NODE_OBSERVATION_PROTOCOL",
+      "fromSide": "bottom",
+      "toNode": "NODE_OUTPUT_TARBIYAH",
+      "toSide": "top",
+      "label": "Aplikasi Lapangan"
+    }
+  ]
+}

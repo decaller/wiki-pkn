@@ -178,13 +178,14 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 
 ---
 
-> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Peran Ayah dan Bunda
-> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Peran Ayah dan Bunda, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
-> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
-> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
-> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Yang Biasa Dilakukan Kebanyakan Orang | ✅ Pendekatan Manhaj PKN |
+> | :--- | :--- |
+> | **Menganggap urusan pengasuhan anak adalah 100% domain ibu**, sementara ayah membatasi perannya hanya sebagai penyedia nafkah uang. | **Menegakkan kepemimpinan tarbiyah di pundak Ayah sebagai Qawwam**; sebagaimana teladan Nabi Ibrahim dan Luqman, ayah adalah arsitek utama visi tauhid, arah masa depan, dan penegak batasan syariat. |
+> | **Ayah dan ibu saling mendebat aturan, bertengkar, atau membatalkan instruksi satu sama lain di depan anak**. | **Menjaga Satu Suara di Depan Anak**; perbedaan pandangan diselesaikan di ruang tertutup lewat *syura*, menghadirkan kepemimpinan keluarga yang berwibawa dan memberi rasa aman batin. |
+> | **Ibu yang kelelahan (*burnout*) melampiaskan amarah kepada anak** karena tidak memperoleh dukungan emosional dari suami. | **Ayah aktif memenuhi tangki cinta dan ketenangan jiwa ibu terlebih dahulu**; ibu yang terayomi dengan baik akan mengalirkan energi kelembutan (*rahmah*) yang menyejukkan ke seluruh rumah. |
+> | **Ayah hanya berkomunikasi dengan anak dalam bentuk "interogasi kaku"** (mengecek nilai rapor, PR, atau hafalan) tanpa pernah berbincang santai. | **Ayah meluangkan waktu rutin *deep talk* dan aktivitas maskulin bersama anak** berdua saja tanpa gawai, mendengarkan kegelisahannya, dan menanamkan cita-cita peradaban. |
+> | **Membiarkan anak lelaki tumbuh tanpa transfer maskulinitas**, atau membiarkan anak perempuan kehilangan figur cinta pertama dari ayahnya. | **Menyeimbangkan dua kutub pengasuhan**: ayah mentransfer ketegasan dan tanggung jawab ksatria, sementara ibu menumbuhkan keanggunan, rasa malu, dan kepekaan nurani. |
 
 > [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Peran Ayah dan Bunda
 > * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.

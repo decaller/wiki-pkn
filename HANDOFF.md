@@ -943,23 +943,67 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Git commit & push (`bd51c15`) ke `origin/main`.
   - Portainer stack git redeploy berhasil dan situs live melayani di `https://wikipkn.insanmustaqbal.or.id` (HTTP/2 200 OK untuk `/`, `/changelog`, dan `/toolkit-kbm/`).
 
+### Milestone 62: Kaidah Zarkasyi, Firasat Nabawiyah, Callout Kontras, Pipeline CI/CD & Navigasi Sync `[SELESAI]`
+- **R1: Artikel Ensiklopedis Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi & Canvas:**
+  - Menerbitkan artikel ensiklopedis mandiri berstandar MediaWiki 4-Zone gold standard di `content/Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.md` (365 baris, skor pedagogis 100/100, clarity 98.76/100).
+  - Menguraikan Trilogi Hierarki Pendidikan: *Al-Maddah* (materi), *Ath-Thariqah* (metode), *Al-Mudarris* (guru), dan *Ruhul Mudarris* (jiwa guru), serta menghubungkannya secara simetris dengan konsep "Guru Manusia" PKN.
+  - Takhrij 5 dalil hadits bersanad lengkap (HR. Bukhari No. 1, HR. An-Nasa'i No. 3140, HR. At-Tirmidzi No. 2685, HR. Muslim No. 537 & 2594) dan syarah ulama salaf (An-Nawawi, Ibnu Hajar, Al-Ghazali, Ibnul Qayyim).
+  - Membuat dan menyematkan Obsidian Canvas piramida hierarki terbalik (*inverted pyramid of impact*) di `content/canvas/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.canvas`.
+- **R2: Artikel Konsep Firasat Nabawiyah, Canvas & 2 Dalil Mandiri:**
+  - Menerbitkan artikel konsep 4-Zone di `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Firasat.md` (372 baris, skor pedagogis 100/100, clarity 90.1/100).
+  - Membedakan konsep metode firasat pedagogis universal dari bakat individual TB-40 #07 (`07-firaasah.md`) via tabel perbandingan 6 parameter.
+  - Mengintegrasikan Tiga Dimensi Firasat PKN (Bakat/Syakilah, Ego/Kutub Energi 6 Rumpun Bakat, Kondisi Jiwa & Deteksi Hutang Pengasuhan), syarah Ibnul Qayyim 3 tingkatan firasat (*Madarijus Salikin*), matriks konversi 8 kasus tanda lahiriah $\to$ batiniah, protokol 4 tahap latihan observasi, dan batasan syar'i (*Al-Umuru bi Maqashidiha*, larangan su'uzhan & tajassus).
+  - Membuat diagram Obsidian Canvas di `content/canvas/Firasat Nabawiyah - Tiga Dimensi dan Metodologi Pembacaan Jiwa.canvas` (9 node, 9 edge, valid JSON Canvas 1.0).
+  - Menerbitkan 2 halaman dalil mandiri berformat MediaWiki 4-Zone di `content/Dalil/`:
+    1. `dalil-firasat-mukmin-cahaya-allah.md` (HR. At-Tirmidzi No. 3127, hasan lighairihi, takhrij OpenBayan, syarah Ibnul Qayyim & Al-Munawi).
+    2. `dalil-al-mutawassimin-tanda-kebesaran-allah.md` (QS. Al-Hijr: 75, tafsir Ibnu Katsir, atsar Mujahid, Qatadah, Ibnu Abbas).
+- **R3: Standarisasi Callout Kontras Master Template & 9 Artikel Prioritas:**
+  - Memperbarui master template `Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md` dengan Subseksi 2.1: Blok Callout Kontras `> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN` format dua kolom (🔴 vs ✅).
+  - Menyuntikkan 45 pasang perbandingan kontras kontekstual pada 9 artikel pilar prioritas tinggi:
+    1. `Pembelajaran Alamiah.md`
+    2. `Persepsi Positif.md`
+    3. `Disiplin Positif PKN.md`
+    4. `Luka dan Hutang Pengasuhan/index.md`
+    5. `Recovery.md`
+    6. `Peran Ayah dan Bunda.md`
+    7. `Bahasa Hati.md`
+    8. `Bahasa Lisan.md`
+    9. `Bahasa Tangan.md`
+  - Mengeliminasi 100% teks placeholder generik pada seluruh artikel sasaran, bebas pelanggaran kosakata linter.
+- **R4: Pipeline GitHub Actions CI/CD Quartz:**
+  - Membuat pipeline CI/CD di `.github/workflows/deploy.yml` dengan arsitektur fail-fast 2 job:
+    * Job 1 `corpus-lint`: Audit integritas link, kosakata, dan kejelasan korpus via Python 3.12 (`scripts/wiki_corpus_linter.py`).
+    * Job 2 `quartz-build`: Kompilasi Quartz v5 menggunakan Node.js 22, caching dependensi npm dan plugin `.quartz/plugins`, patch resolver link, clean build, artefak upload `quartz-build-output` (retensi 7 hari), dan webhook Portainer.
+  - Memvalidasi sintaks YAML dan format kode via Prettier 100% lolos.
+- **R5: Sinkronisasi Navigasi Sidebar, Audit Kualitas & Kompilasi SSG:**
+  - Memperbarui `nav_structure.json` dengan penambahan simpul:
+    * `Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi` di bawah `Referensi > Tokoh & Pemikiran` (didukung penerbitan hub `content/Referensi/Tokoh & Pemikiran/index.md`).
+    * `Firasat` di bawah `Implementasi > Kaidah & Elemen`.
+    * 2 simpul dalil di bawah `Referensi > Korpus Dalil & Atsar Klasik`.
+  - Struktur navigasi kini memuat **148 simpul aktif** dan **120 simpul daun** dengan 0 unlinked leaves dan 0 unresolved nodes (100% lolos `tests/test_nav_structure.py`).
+  - Unit test suite (`python3 -m unittest discover tests`) lulus 100% (87 tests, OK).
+  - Linter korpus (`python3 scripts/wiki_corpus_linter.py`) lulus bersih (0 broken links, 0 vocabulary violations, skor rata-rata Clarity korpus 86.3/100).
+  - Kompilasi `npx quartz build` sukses memproses **484 berkas Markdown** dan menerbitkan **2.713 berkas statis** ke `public/` dengan exit code 0.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
 
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
-| :--- | :--- :---: | :--- |
+| :--- | :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 478 berkas Markdown terproses, 2.627 berkas web statis terbit |
-| **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 104 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
-| **Sidebar Navigation** | 🟢 **143 Simpul Aktif** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 484 berkas Markdown terproses, 2.713 berkas web statis terbit |
+| **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 106 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
+| **Sidebar Navigation** | 🟢 **148 Simpul Aktif (120 Daun)** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
 | **Halaman Rilis / Changelog** | 🟢 **Terbit Publik** | `/changelog` (`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`) |
 | **Toolkit & Template KBM** | 🟢 **6 Dokumen Terbit** | `content/Toolkit KBM/` (RPP 1 Lembar, Observasi 19 Butir, Prompt AI) |
-| **Katalog Dalil Mandiri** | 🟢 **80+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
+| **Katalog Dalil Mandiri** | 🟢 **82+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
 | **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
+| **Callout Kontras Refleksi** | 🟢 **10 Berkas (45 Pasang)** | Master Template & 9 Artikel Prioritas (`🔴 vs ✅`) |
+| **Pipeline CI/CD** | 🟢 **GitHub Actions Active** | `.github/workflows/deploy.yml` (fail-fast 2 job linter & Quartz build) |
 | **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
-| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.18/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 87 tests) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 478/478 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
+| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.3/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 87 tests) |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 484/484 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
 
 

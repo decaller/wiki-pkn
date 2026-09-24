@@ -503,6 +503,11 @@
                 "title": "Panduan RPP dan Observasi Lapangan",
                 "icon": "tools",
                 "children": []
+              },
+              {
+                "title": "Firasat",
+                "icon": "eye",
+                "children": []
               }
             ]
           },
@@ -645,6 +650,16 @@
                 "title": "Tazkiyatun Nafs",
                 "icon": "heart",
                 "children": []
+              },
+              {
+                "title": "Hadits Firasat Mukmin Memandang dengan Cahaya Allah",
+                "icon": "book",
+                "children": []
+              },
+              {
+                "title": "Ayat Al-Mutawassimin: Tanda Kekuasaan Allah bagi yang Berfirasat",
+                "icon": "book",
+                "children": []
               }
             ]
           },
@@ -690,6 +705,17 @@
               {
                 "title": "Review Buku Bukanlah Sekejap",
                 "icon": "file-text",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Tokoh & Pemikiran",
+            "icon": "users",
+            "children": [
+              {
+                "title": "Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi",
+                "icon": "book-open",
                 "children": []
               }
             ]

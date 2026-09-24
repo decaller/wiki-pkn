@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_ZARKASYI",
+      "type": "group",
+      "label": "🏛️ TRILOGI KAIDAH PEDAGOGIS KH. ABDULLAH SYUKRI ZARKASYI & PIRAMIDA GURU MANUSIA",
+      "x": -40,
+      "y": -50,
+      "width": 1080,
+      "height": 1150,
+      "color": "6"
+    },
+    {
+      "id": "NODE_RUH_MUDARRIS",
+      "type": "text",
+      "text": "### 🌟 Tingkat 4: RUHUL MUDARRIS (روح المدرس)\n**\"Rūhul mudarris ahammu minal mudarris\" — Jiwa Guru Jauh Lebih Penting dari Gurunya Sendiri**\n- **Puncak Pengaruh:** Hulu spiritualitas yang mengalirkan keberkahan, ketulusan (*ikhlas lillahi ta'ala*), dan rasa kasih (*mahabbah*).\n- **Ciri Guru Manusia #1:** Menghadirkan hati dalam mendidik anak, munajat sepertiga malam untuk santri.\n- **Kunci Keberhasilan:** Menggetarkan jiwa santri tanpa kata, menembus batin karena terpancar dari hati yang bersih (*Tazkiyatun Nafs*).\n- **Dalil:** HR. Al-Bukhari 1 & Muslim 1907 (Niat), HR. An-Nasa'i 3140 (Ikhlas).",
+      "x": 100,
+      "y": 0,
+      "width": 800,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "NODE_AL_MUDARRIS",
+      "type": "text",
+      "text": "### 👤 Tingkat 3: AL-MUDARRIS (المدرس)\n**\"Al-Mudarris ahammu minath tharīqah\" — Guru Jauh Lebih Penting daripada Metode**\n- **Keteladanan Hidup (Qudwah Hasanah):** Guru adalah kurikulum yang berjalan; adab dan wibawa guru mendahului ilmunya.\n- **Ciri Guru Manusia #2:** Guru yang telah selesai dengan dirinya sendiri; mengamalkan sebelum mengajarkan.\n- **Wibawa Nubuwah:** Hubungan rasa aman dan keterikatan emosional (*koneksi sebelum koreksi*).\n- **Dalil:** HR. At-Tirmidzi 2685 (Kemuliaan Guru Kebaikan), HR. Muslim 537 (Kelembutan Rasulullah ﷺ).",
+      "x": 100,
+      "y": 250,
+      "width": 800,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "NODE_ATH_THARIQAH",
+      "type": "text",
+      "text": "### 🧭 Tingkat 2: ATH-THARIQAH (الطريقة)\n**\"Ath-Tharīqatu ahammu minal māddah\" — Metode Jauh Lebih Penting daripada Materi**\n- **Seni Menyampaikan Sesuai Fitrah:** Pembelajaran alamiah, interaktif, bertahap (*Prinsip Tadarruj*).\n- **Ciri Guru Manusia #3:** Menyajikan metode selaras fase usia dan kondisi jiwa:\n  * 0–7 th: Bahasa Hati (Tangki Cinta, Nol Sanksi)\n  * 7–10 th: Bahasa Lisan (Kalam & Dialog Kausalitas)\n  * 10–14 th: Bahasa Tangan (Ta'dib Terukur Berbatas Syariat)\n- **Pedagogi Nabawi:** Membangkitkan rasa kagum dan cinta belajar sebelum kaidah formal.",
+      "x": 100,
+      "y": 500,
+      "width": 800,
+      "height": 210,
+      "color": "5"
+    },
+    {
+      "id": "NODE_AL_MADDAH",
+      "type": "text",
+      "text": "### 📚 Tingkat 1: AL-MADDAH (المادة)\n**\"Al-Māddatu muhimmah\" — Materi Pembelajaran Itu Penting**\n- **Instrumen & Bahan Baku:** Konten ilmu, teks syar'i, wawasan pengetahuan, dan kecakapan hidup.\n- **Ciri Guru Manusia #4:** Memilah materi fardhu 'ain (universal bagi semua anak) vs materi fardhu kifayah sesuai bakat unik (*Syakilah / TB-40*).\n- **Kedudukan:** Sarana penunjang (*washilah*), bukan tujuan akhir (*ghayah*); tidak berdaya guna jika disajikan tanpa metode dan jiwa.",
+      "x": 100,
+      "y": 760,
+      "width": 800,
+      "height": 190,
+      "color": "4"
+    },
+    {
+      "id": "NODE_CORE_AXIOM",
+      "type": "text",
+      "text": "### 🎯 AKSIOMA HIERARKI DAMPAK PENDIDIKAN (ZARKASYI - PKN)\n> *\"Materi tanpa metode membingungkan. Metode tanpa keteladanan guru melelahkan. Guru tanpa jiwa yang ikhlas mematikan fitrah.\"*\n\nPendidikan modern sering membalik piramida: memuja kurikulum teknis seraya melupakan jiwa guru. Manhaj PKN menegakkan kembali hierarki fitrah: **Jiwa Guru yang Rabbani adalah poros pembangun peradaban**.",
+      "x": 50,
+      "y": 990,
+      "width": 900,
+      "height": 160,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_MADDAH_TO_THARIQAH",
+      "fromNode": "NODE_AL_MADDAH",
+      "fromSide": "top",
+      "toNode": "NODE_ATH_THARIQAH",
+      "toSide": "bottom",
+      "label": "Digerakkan oleh metode"
+    },
+    {
+      "id": "EDGE_THARIQAH_TO_MUDARRIS",
+      "fromNode": "NODE_ATH_THARIQAH",
+      "fromSide": "top",
+      "toNode": "NODE_AL_MUDARRIS",
+      "toSide": "bottom",
+      "label": "Dihidupkan oleh teladan guru"
+    },
+    {
+      "id": "EDGE_MUDARRIS_TO_RUH",
+      "fromNode": "NODE_AL_MUDARRIS",
+      "fromSide": "top",
+      "toNode": "NODE_RUH_MUDARRIS",
+      "toSide": "bottom",
+      "label": "Diberkahi & dijiwai oleh ruhani"
+    },
+    {
+      "id": "EDGE_RUH_TO_AXIOM",
+      "fromNode": "NODE_RUH_MUDARRIS",
+      "fromSide": "left",
+      "toNode": "NODE_CORE_AXIOM",
+      "toSide": "left",
+      "label": "Aksioma Manhaj"
+    }
+  ]
+}

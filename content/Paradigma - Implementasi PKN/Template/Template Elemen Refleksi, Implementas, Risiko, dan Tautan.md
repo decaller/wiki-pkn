@@ -76,7 +76,7 @@ Di seluruh dokumentasi Wiki PKN, rangkaian elemen penutup wajib mengikuti urutan
 ├────────────────────────────────────────────────────────┤
 │ --- (Garis Pemisah Horisontal)                         │
 ├────────────────────────────────────────────────────────┤
-│ 1. [!info] Refleksi Lapangan                           │
+│ 1. [!info] Refleksi Harian Kontras & Refleksi Lapangan │
 │ 2. [!warning] Peringatan Risiko & Tafrith-Ifrath       │
 │ 3. [!tip] Rekomendasi Solusi & Aksi Praktis             │
 ├────────────────────────────────────────────────────────┤
@@ -110,6 +110,22 @@ Gunakan blok ini untuk mendokumentasikan temuan nyata, studi kasus empiris, atau
 > 2. Lakukan dialog empatik dua arah tanpa menghakimi melalui [[Bahasa Lisan]].
 > 3. Tinjau kembali beban harian anak agar tidak melampaui kapasitas fitrah usianya.
 ```
+
+### 2.1. Blok Callout Kontras "Kebiasaan Umum vs. Pendekatan PKN"
+
+Setiap artikel materi pokok wajib dilengkapi dengan callout tabel kontras dua kolom yang membandingkan secara tajam antara kekeliruan reaksi spontan yang lazim dilakukan masyarakat (🔴) dengan pendekatan adab Manhaj PKN (✅):
+
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Yang Biasa Dilakukan Kebanyakan Orang | ✅ Pendekatan Manhaj PKN |
+> | :--- | :--- |
+> | [Contoh reaksi spontan/keliru yang lazim] | [Alternatif adab/langkah solutif nabawiyah] |
+> | [Pola pengasuhan konvensional/reaktif] | [Metode berlandaskan fitrah dan sunnah] |
+> | [Kepatuhan semu berbasis paksaan/hukuman] | [Penumbuhan kesadaran batin mandiri (wa'yu)] |
+
+**Ketentuan Penyusunan:**
+1. Wajib memuat minimal 3 hingga 5 pasang perbandingan spesifik dan operasional.
+2. Hindari slogan abstrak; gunakan bahasa perilaku empiris (tindakan lahiriah atau perkataan lisan yang kerap ditemui).
+3. Posisikan callout ini tepat di Zona 2 sebelum blok `[!warning]` dan `[!tip]`.
 
 ---
 

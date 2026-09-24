@@ -277,6 +277,40 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Perkiraan Token AI:* ~600k - 1.2M token (perumusan dialektika, penataan tabel komparatif 6 dimensi, ekstraksi dalil dan syarah pembanding, serta perakitan draf artikel 4-Zone).
   - *Kebutuhan HITL:* Sangat Tinggi (otorisasi dan verifikasi argumen syar'i oleh kurator utama/Dewan Pakar Pendidikan Islam).
 
+- [ ] **[🔴 PRIORITAS TINGGI] Riset Khazanah Turats: Audit Dalil & Pendapat Ulama tentang Parenting via OpenBayan & Qaf — Temuan Gap & Kontradiksi dengan PKN**
+  - *Deskripsi:* Menjalankan proyek riset syar'i mendalam dan sistematis menggunakan **OpenBayan** (Qdrant `shamela_11m` — 11 juta matan Maktabah Syamilah) dan **Qaf AI** (`qaf_wrapper` — 320+ kitab klasik) untuk mengumpulkan secara komprehensif **seluruh dalil Al-Qur'an, Hadits, dan pendapat/komentar ulama** yang berkaitan dengan tema-tema inti parenting/tarbiyatul aulad, lalu melakukan analisis kritis: **(1) Apa yang belum disebutkan dalam PKN?** dan **(2) Apakah ada yang berpotensi bertentangan atau perlu klarifikasi lebih lanjut?**
+  - **Sifat Output: Dokumen Kerja Internal** — Hasil analisis ini **tidak langsung diterbitkan** di Quartz sebagai halaman publik, melainkan disimpan sebagai kumpulan dokumen riset internal di direktori `sources/audit_dalil_parenting/` untuk kemudian menjadi bahan review, koreksi, dan pengayaan naskah PKN oleh tim asatidzah/kurator.
+  - *Tahapan Kerja:*
+    1. **Tahap 1 — Pemetaan Tema & Query Design:** Menyusun daftar lengkap tema-tema inti parenting dalam PKN yang akan diaudit (misal: *tarbiyatul aulad*, *adabul walad*, *haq al-walad*, *'uqubah al-walad*, *mahabbah al-walad*, *taklif*, *mumayyiz*, *bait*, *fitrah*, *'aqiqah*, *ta'lim*, *tahfizh*, *riyadhah*, dll.) dan merancang kueri Arab presisi untuk setiap tema.
+    2. **Tahap 2 — Sweeping OpenBayan (`shamela_11m`):** Menjalankan kueri BM25 full-text dan dense vector search ke Qdrant port 6333 untuk setiap tema, mengekstrak semua matan hadits yang relevan beserta nomor, kitab, dan derajat shahih/hasan/dha'if-nya. Target: menemukan hadits-hadits yang *belum* dirujuk dalam korpus dalil PKN saat ini (`content/Dalil/`).
+    3. **Tahap 3 — Sweeping Qaf AI (Kitab Turats):** Menjalankan kueri ke `qaf_wrapper` untuk menelusuri komentar, fatwa, dan ijtihad ulama klasik dan kontemporer tentang setiap tema parenting dari kitab-kitab utama: *Tuhfatul Maudud* (Ibnul Qayyim), *Ihya Ulumiddin* (Al-Ghazali), *Fathul Bari* (Ibnu Hajar), *Syarah Shahih Muslim* (An-Nawawi), *Minhajul Qashidin* (Ibnu Qudamah), *Adabud Dunya wad Din* (Al-Mawardi), *Siyasatus Syar'iyyah* (Ibnu Taimiyyah), *At-Tarbiyah Al-Islamiyyah* (Al-Abrasy), *Al-Mawsuah Al-Fiqhiyyah* (Kuwait), dan kitab mu'ashir terkait.
+    4. **Tahap 4 — Gap Analysis (Belum Disebutkan):** Membandingkan hasil sweeping dengan korpus dalil PKN yang sudah ada, mengidentifikasi:
+       - Hadits-hadits shahih tematik parenting yang *belum* muncul di PKN
+       - Pendapat ulama yang *belum* dikutip tapi relevan memperkuat atau memperkaya manhaj PKN
+       - Tema-tema fiqh tarbiyah yang *sama sekali belum disinggung* dalam konten PKN
+    5. **Tahap 5 — Contradiction Analysis (Potensi Bertentangan):** Mengidentifikasi secara jujur dan akademis dalil atau pendapat ulama yang *secara zahir* berpotensi bertentangan dengan prinsip-prinsip PKN, mencakup:
+       - Perbedaan pendapat ulama tentang *hukum ta'dib/ta'zir* anak (batas mana yang dibolehkan)
+       - Hadits-hadits tentang tegas/keras dalam mendidik vs prinsip *lembut dan kasih sayang* yang ditekankan PKN
+       - Perbedaan ulama tentang usia baligh, batas taklif, dan protokol pendisiplinan
+       - Ijtihad kontemporer yang berbeda dengan pendekatan PKN
+    6. **Tahap 6 — Sintesis & Klasifikasi Temuan:** Mengklasifikasikan seluruh temuan ke dalam tiga kategori:
+       - 🟢 **Convergent (Menguatkan PKN):** Dalil/pendapat ulama yang selaras dengan PKN dan bisa langsung dijadikan penguat
+       - 🟡 **Gap (Belum Ada di PKN):** Dalil/pendapat yang relevan tapi belum dirujuk — kandidat pengayaan
+       - 🔴 **Divergent (Perlu Klarifikasi):** Dalil/pendapat yang zahirnya berseberangan — perlu jawaban dan tahqiq mendalam oleh asatidzah sebelum disikapi
+  - *Struktur Output Dokumen Kerja Internal:*
+    ```
+    sources/audit_dalil_parenting/
+    ├── 00_README_dan_Metodologi.md          # Panduan penggunaan dokumen audit ini
+    ├── 01_sweeping_hadits_tarbiyah.md       # Hasil raw sweep OpenBayan per tema
+    ├── 02_sweeping_ulama_turats.md          # Hasil raw sweep Qaf AI per kitab
+    ├── 03_gap_analysis_belum_disebutkan.md  # Temuan dalil & pendapat yang belum ada di PKN
+    ├── 04_contradiction_analysis.md         # Temuan yang berpotensi bertentangan + analisis
+    ├── 05_rekomendasi_pengayaan_konten.md   # Daftar artikel/dalil yang direkomendasikan untuk ditambahkan
+    └── 06_pertanyaan_terbuka_untuk_asatidzah.md  # Daftar pertanyaan yang membutuhkan ijtihad ulama
+    ```
+  - *Perkiraan Token AI:* ~1.5M - 3M token (kueri Arab multi-tema ke OpenBayan & Qaf, ekstraksi dan klasifikasi ratusan matan & kutipan ulama, analisis gap dan kontradiksi, serta penulisan laporan sintesis per tema).
+  - *Kebutuhan HITL:* **Sangat Tinggi** — Dokumen ini pada dasarnya adalah bahan mudzakarah ilmiah yang *wajib* di-review oleh asatidzah sebelum dijadikan dasar perubahan konten PKN. Khususnya untuk temuan kategori 🔴 Divergent, tidak boleh ada kesimpulan atau respons yang diterbitkan tanpa otorisasi kurator/ustadz.
+
 ---
 
 ## 6. Template Siap Pakai & Toolkit KBM
@@ -320,10 +354,11 @@ Fokus pada migrasi infrastruktur, domain kustom resmi, integrasi web editor untu
   - *Deskripsi:* Konfigurasi permanent redirect (HTTP 301) dari URL hosting sementara / domain staging ke `wiki.karakternabawiyah.com`, serta pemastian seluruh canonical URL, sitemap XML, dan Open Graph metadata merujuk ke domain resmi.
   - *Perkiraan Token AI:* ~25k - 50k token (pembuatan rules redirect web server/Cloudflare Page Rules dan audit konsistensi tag canonical).
   - *Kebutuhan HITL:* Rendah (verifikasi uji redirect 301 pada sampel halaman materi penting).
-- [ ] **Automasi Pipeline CI/CD Build & Deploy ke Server Production**
+- [x] **Automasi Pipeline CI/CD Build & Deploy ke Server Production** `[SELESAI]`
   - *Deskripsi:* Menghubungkan webhook repositori GitHub ke runner deployment (Coolify / GitHub Actions) agar setiap perubahan naskah yang disetujui di Alexandrie atau commit pengembang otomatis memicu build Quartz dan terbit ke `wiki.karakternabawiyah.com` tanpa intervensi manual.
-  - *Perkiraan Token AI:* ~40k - 80k token (penyusunan GitHub Actions workflow / webhook trigger Coolify, strategi caching aset build Quartz, dan skrip rollback).
-  - *Kebutuhan HITL:* Rendah (pengujian siklus commit → trigger build otomatis → verifikasi halaman live).
+  - *Status Kemajuan:* Selesai penuh (Penerbitan `.github/workflows/deploy.yml` dengan arsitektur fail-fast 2 job: `corpus-lint` Python 3.12 dan `quartz-build` Node.js 22, caching npm/plugins, patch resolver link, upload artifact `quartz-build-output`, dan webhook Portainer).
+  - *Perkiraan Token AI:* ~40k - 80k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Penyelarasan Branding & Identitas Visual Domain Resmi**
   - *Deskripsi:* Penyesuaian favicon, logo navbar, metadata Open Graph banner, serta footer hak cipta agar mencerminkan identitas resmi Karakter Nabawiyah saat tautan dibagikan ke publik/media sosial.
   - *Perkiraan Token AI:* ~30k - 60k token (standarisasi resolusi aset grafis, penataan metadata social preview, dan pembaruan lisensi/footer).
@@ -577,7 +612,14 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
 - [x] **Glosarium Resmi PKN & Purifikasi Kosakata Autentik Sumber (383 Berkas)** `[SELESAI]`
   - *Deskripsi:* Menerbitkan master Glosarium Istilah Karakter Nabawiyah ([`content/Glosarium Istilah Karakter Nabawiyah.md`](content/Glosarium%20Istilah%20Karakter%20Nabawiyah.md)) dengan indeks A–Z, matriks tematik 6 klaster, definisi syar'i-pedagogis, serta melakukan purifikasi 630+ kemunculan kosakata asing/tidak bersumber di seluruh repositori (mengganti *etape* menjadi *fase*, *archetype* menjadi *uswah sahabat*, dan merename 4 kanvas fase usia).
   - *Status Kemajuan:* Selesai penuh (383 berkas terverifikasi, Quartz build sukses dengan 2.172 file statis, Portainer live HTTP/2 200 OK).
-  - *Perkiraan Token AI:* ~60k - 100k token.
+- [x] **Milestone 62: Kaidah Zarkasyi, Firasat Nabawiyah, Callout Kontras, CI/CD Pipeline & Navigasi Sync** `[SELESAI]`
+  - *Deskripsi:* Eksekusi empat pilar pengembangan Wiki PKN:
+    1. **R1 (Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi):** Naskah 4-Zone lengkap di `content/Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.md` mengurai Trilogi Hierarki Pendidikan (*Al-Maddah, Ath-Thariqah, Al-Mudarris, Ruhul Mudarris*), takhrij dalil hadits bersanad, syarah ulama salaf, matriks 4 level, dan Obsidian Canvas interaktif piramida hierarki di `content/canvas/`.
+    2. **R2 (Firasat Nabawiyah & 2 Dalil Mandiri):** Naskah konsep 4-Zone di `content/.../Kaidah & Elemen/Firasat.md` membedakan metode firasat universal dari bakat TB-40 #07, syarah Ibnul Qayyim 3 tingkatan firasat (*Madarijus Salikin*), matriks 8 kasus tanda lahiriah ke batiniah, protokol latihan observasi, Canvas 3 dimensi di `content/canvas/`, serta penerbitan 2 halaman dalil mandiri di `content/Dalil/` (`dalil-firasat-mukmin-cahaya-allah.md` dan `dalil-al-mutawassimin-tanda-kebesaran-allah.md`).
+    3. **R3 (Callout Kontras Dua Kolom & Eliminasi Teks Generik):** Pembaruan master template `Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md` dengan format tabel kontras dua kolom (`🔴 Kebiasaan Umum vs. ✅ Pendekatan PKN`), implementasi 45 pasang butir kontras kontekstual pada 9 artikel pilar prioritas tinggi, dan eliminasi 100% placeholder generik.
+    4. **R4 (Pipeline GitHub Actions CI/CD):** Penyusunan `.github/workflows/deploy.yml` dengan arsitektur fail-fast 2 job (`corpus-lint` Python 3.12 dan `quartz-build` Node.js 22), caching npm/plugins, link resolver patch, artifact upload `quartz-build-output`, dan webhook Portainer.
+    5. **R5 (Sinkronisasi Navigasi, Linter Korpus & Quartz Build):** Pembaruan `nav_structure.json` mencakup simpul Zarkasyi, Firasat, dan 2 Dalil (total 148 simpul, 120 simpul daun, 0 broken leaf), 87 unit tests lulus 100%, linter korpus `scripts/wiki_corpus_linter.py` lolos bersih (0 broken link, 0 vocabulary violation, skor Clarity 86.3/100), dan kompilasi statis `npx quartz build` sukses memproses 484 berkas (2.713 file statis, exit code 0).
+  - *Perkiraan Token AI:* ~180k - 300k token.
   - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
