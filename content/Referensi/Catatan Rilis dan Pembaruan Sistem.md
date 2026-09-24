@@ -106,6 +106,22 @@ tags:
 
 ## 📦 Riwayat Rilis Versi & Milestone
 
+### 🏷️ Versi 2.5.2 — *Harmonisasi Prinsip Tadarruj, Konversi 5.233 Link Navbox & Resolusi Tag-Leak Warna CSS*
+**Tanggal Rilis:** 24 September 2026 | **Cakupan Milestone:** Milestone 63 | **Status:** Rilis Produksi Aktif
+
+Versi 2.5.2 menghadirkan penguatan substantif manhaj pedagogis serta pembenahan menyeluruh terhadap integritas visual dan navigasi wiki:
+
+* 🏛️ **Penerbitan Naskah Master Prinsip Tadarruj & Bagan Canvas:**
+  - Menerbitkan artikel ensiklopedis MediaWiki 4-Zone `Prinsip Tadarruj.md` dan diagram visual `Prinsip Tadarruj.canvas` yang mengintegrasikan 4 dimensi pentahapan alami PKN: 4 Fase Usia (0–7 th, 7–10 th, 10–14 th, 15+ th), Kurikulum 3T (*Ta'rif* $\to$ *Ta'alluf* $\to$ *Tamkin*), Gradasi Ta'dib 5 Tingkat, serta Transformasi Lembaga.
+  - Memutakhirkan Sektor 01, Sektor 04, Sektor 06, dan Glosarium Resmi dengan terminologi baku Tadarruj.
+* 🔗 **Konversi Masif 5.233 Tautan Navbox Bawah:**
+  - Menormalisasi 5.233 tag link fisik `<a href="/content/...">` di 464 berkas markdown menjadi wikilink Quartz `[[...]]`, mengeliminasi 100% potensi broken link (HTTP 404) pada baris navigasi bawah (`.wiki-navbox`).
+* 🎨 **Resolusi Tag-Leak Hex Color pada Atribut HTML Inline:**
+  - Mengonversi 1.051 kode warna heksadesimal `#hex` pada atribut `style="..."` di 461 berkas menjadi format CSS standar `rgb(...)` via `scripts/fix_style_hex_colors.py`.
+  - Mengeliminasi bug tokenizer Quartz OFM yang sebelumnya mendeteksi `#hex` sebagai hashtag/tag link pada komponen infobox (seperti pada halaman Tangki Cinta).
+
+---
+
 ### 🏷️ Versi 2.5.1 — *Engine Resolusi Tautan HTML, Bagan Canvas Review Buku & Standarisasi Kutipan*
 **Tanggal Rilis:** 23 September 2026 | **Cakupan Milestone:** Milestone 62 | **Status:** Rilis Produksi Aktif
 
