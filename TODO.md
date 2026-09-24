@@ -278,12 +278,17 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Kebutuhan HITL:* Sangat Tinggi (otorisasi dan verifikasi argumen syar'i oleh kurator utama/Dewan Pakar Pendidikan Islam).
 
 - [ ] **[🔴 PRIORITAS TINGGI] Riset Khazanah Turats: Audit Dalil & Pendapat Ulama tentang Parenting via OpenBayan & Qaf — Temuan Gap & Kontradiksi dengan PKN**
-  - *Deskripsi:* Menjalankan proyek riset syar'i mendalam dan sistematis menggunakan **OpenBayan** (Qdrant `shamela_11m` — 11 juta matan Maktabah Syamilah) dan **Qaf AI** (`qaf_wrapper` — 320+ kitab klasik) untuk mengumpulkan secara komprehensif **seluruh dalil Al-Qur'an, Hadits, dan pendapat/komentar ulama** yang berkaitan dengan tema-tema inti parenting/tarbiyatul aulad, lalu melakukan analisis kritis: **(1) Apa yang belum disebutkan dalam PKN?** dan **(2) Apakah ada yang berpotensi bertentangan atau perlu klarifikasi lebih lanjut?**
+  - *Deskripsi:* Menjalankan proyek riset syar'i mendalam dan sistematis menggunakan **OpenBayan** (Qdrant `shamela_11m` — 11 juta matan Maktabah Syamilah) sebagai mesin sweep utama, dan **Qaf AI** (`qaf_wrapper` — 320+ kitab klasik) secara **terbatas dan strategis** untuk mengumpulkan dalil Al-Qur'an, Hadits, dan pendapat/komentar ulama yang berkaitan dengan tema-tema inti parenting/tarbiyatul aulad, lalu melakukan analisis kritis: **(1) Apa yang belum disebutkan dalam PKN?** dan **(2) Apakah ada yang berpotensi bertentangan atau perlu klarifikasi?**
   - **Sifat Output: Dokumen Kerja Internal** — Hasil analisis ini **tidak langsung diterbitkan** di Quartz sebagai halaman publik, melainkan disimpan sebagai kumpulan dokumen riset internal di direktori `sources/audit_dalil_parenting/` untuk kemudian menjadi bahan review, koreksi, dan pengayaan naskah PKN oleh tim asatidzah/kurator.
+  - > ⚠️ **Batasan Kuota Qaf AI:** Qaf AI memiliki kuota terbatas **~100 pesan per bulan**. Penggunaannya **WAJIB dihemat** — jangan dipakai untuk sweeping massal atau kueri eksplorasi acak. Qaf **hanya boleh dipanggil** untuk: (a) **verifikasi hipotesis** yang sudah dirumuskan dari hasil sweep OpenBayan, dan (b) **meta-analysis tingkat tinggi** — yaitu ketika sudah ada temuan spesifik yang perlu dikonfirmasi atau dikontekstualisasikan dengan komentar ulama dari kitab tertentu. Seluruh eksplorasi awal dan broad scanning dilakukan via OpenBayan.
   - *Tahapan Kerja:*
-    1. **Tahap 1 — Pemetaan Tema & Query Design:** Menyusun daftar lengkap tema-tema inti parenting dalam PKN yang akan diaudit (misal: *tarbiyatul aulad*, *adabul walad*, *haq al-walad*, *'uqubah al-walad*, *mahabbah al-walad*, *taklif*, *mumayyiz*, *bait*, *fitrah*, *'aqiqah*, *ta'lim*, *tahfizh*, *riyadhah*, dll.) dan merancang kueri Arab presisi untuk setiap tema.
-    2. **Tahap 2 — Sweeping OpenBayan (`shamela_11m`):** Menjalankan kueri BM25 full-text dan dense vector search ke Qdrant port 6333 untuk setiap tema, mengekstrak semua matan hadits yang relevan beserta nomor, kitab, dan derajat shahih/hasan/dha'if-nya. Target: menemukan hadits-hadits yang *belum* dirujuk dalam korpus dalil PKN saat ini (`content/Dalil/`).
-    3. **Tahap 3 — Sweeping Qaf AI (Kitab Turats):** Menjalankan kueri ke `qaf_wrapper` untuk menelusuri komentar, fatwa, dan ijtihad ulama klasik dan kontemporer tentang setiap tema parenting dari kitab-kitab utama: *Tuhfatul Maudud* (Ibnul Qayyim), *Ihya Ulumiddin* (Al-Ghazali), *Fathul Bari* (Ibnu Hajar), *Syarah Shahih Muslim* (An-Nawawi), *Minhajul Qashidin* (Ibnu Qudamah), *Adabud Dunya wad Din* (Al-Mawardi), *Siyasatus Syar'iyyah* (Ibnu Taimiyyah), *At-Tarbiyah Al-Islamiyyah* (Al-Abrasy), *Al-Mawsuah Al-Fiqhiyyah* (Kuwait), dan kitab mu'ashir terkait.
+    1. **Tahap 1 — Pemetaan Tema & Query Design:** Menyusun daftar lengkap tema-tema inti parenting dalam PKN yang akan diaudit (misal: *tarbiyatul aulad*, *adabul walad*, *haq al-walad*, *'uqubah al-walad*, *mahabbah al-walad*, *taklif*, *mumayyiz*, *bait*, *fitrah*, *'aqiqah*, *ta'lim*, *tahfizh*, *riyadhah*, dll.) dan merancang kueri Arab presisi untuk setiap tema. Tahap ini menghasilkan **daftar hipotesis awal** yang akan diuji di tahap berikutnya.
+    2. **Tahap 2 — Sweeping Massal OpenBayan (`shamela_11m`) [Mesin Utama]:** Menjalankan kueri BM25 full-text dan dense vector search ke Qdrant port 6333 untuk **semua tema** secara batch — ini adalah operasi tidak terbatas yang bisa diulang bebas. Ekstrak semua matan hadits yang relevan beserta nomor, kitab, dan derajat shahih/hasan/dha'if-nya. Target: menemukan hadits-hadits yang *belum* dirujuk dalam korpus dalil PKN saat ini (`content/Dalil/`). **Gunakan OpenBayan untuk semua eksplorasi awal, bukan Qaf.**
+    3. **Tahap 3 — Qaf AI: Verifikasi Hipotesis & Meta-Analysis [Kuota Terbatas, Maks ~100 Pesan/Bulan]:**
+       - **Strategi hemat kuota:** Sebelum memanggil Qaf, rumuskan dahulu **hipotesis spesifik** berdasarkan hasil Tahap 2. Contoh: *"Apakah Ibnul Qayyim dalam Tuhfatul Maudud memiliki pendapat tentang usia anak pertama kali dihukum ta'zir?"* — bukan kueri umum seperti *"cari semua tentang mendidik anak"*.
+       - **Kapan boleh memanggil Qaf:** (a) Saat ditemukan hadits ambigu dari OpenBayan yang butuh konteks syarah ulama spesifik; (b) Saat ada temuan Divergent yang perlu dikonfirmasi dari kitab primer (*Tuhfatul Maudud*, *Ihya Ulumiddin*, *Fathul Bari*, dll.); (c) Untuk meta-analysis — merangkum posisi lintas ulama terhadap satu isu kritis (*ikhtilaf ulama* tentang tema tertentu).
+       - **Kapan TIDAK boleh memanggil Qaf:** Eksplorasi broad, kueri berulang dengan variasi minor, sweeping tema baru yang belum dianalisis di OpenBayan, atau kueri yang jawabannya bisa ditemukan lewat OpenBayan.
+       - **Alokasi kuota yang disarankan:** ~20 pesan untuk konfirmasi temuan Gap, ~30 pesan untuk analisis temuan Divergent, ~30 pesan untuk meta-analysis lintas kitab, ~20 pesan cadangan.
     4. **Tahap 4 — Gap Analysis (Belum Disebutkan):** Membandingkan hasil sweeping dengan korpus dalil PKN yang sudah ada, mengidentifikasi:
        - Hadits-hadits shahih tematik parenting yang *belum* muncul di PKN
        - Pendapat ulama yang *belum* dikutip tapi relevan memperkuat atau memperkaya manhaj PKN
@@ -302,13 +307,14 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
     sources/audit_dalil_parenting/
     ├── 00_README_dan_Metodologi.md          # Panduan penggunaan dokumen audit ini
     ├── 01_sweeping_hadits_tarbiyah.md       # Hasil raw sweep OpenBayan per tema
-    ├── 02_sweeping_ulama_turats.md          # Hasil raw sweep Qaf AI per kitab
-    ├── 03_gap_analysis_belum_disebutkan.md  # Temuan dalil & pendapat yang belum ada di PKN
-    ├── 04_contradiction_analysis.md         # Temuan yang berpotensi bertentangan + analisis
-    ├── 05_rekomendasi_pengayaan_konten.md   # Daftar artikel/dalil yang direkomendasikan untuk ditambahkan
-    └── 06_pertanyaan_terbuka_untuk_asatidzah.md  # Daftar pertanyaan yang membutuhkan ijtihad ulama
+    ├── 02_hipotesis_untuk_qaf.md            # Daftar hipotesis terstruktur siap diverifikasi ke Qaf
+    ├── 03_hasil_verifikasi_qaf.md           # Hasil pemanggilan Qaf (dicatat hemat, per hipotesis)
+    ├── 04_gap_analysis_belum_disebutkan.md  # Temuan dalil & pendapat yang belum ada di PKN
+    ├── 05_contradiction_analysis.md         # Temuan yang berpotensi bertentangan + analisis
+    ├── 06_rekomendasi_pengayaan_konten.md   # Daftar artikel/dalil yang direkomendasikan untuk ditambahkan
+    └── 07_pertanyaan_terbuka_untuk_asatidzah.md  # Daftar pertanyaan yang membutuhkan ijtihad ulama
     ```
-  - *Perkiraan Token AI:* ~1.5M - 3M token (kueri Arab multi-tema ke OpenBayan & Qaf, ekstraksi dan klasifikasi ratusan matan & kutipan ulama, analisis gap dan kontradiksi, serta penulisan laporan sintesis per tema).
+  - *Perkiraan Token AI:* ~1.5M - 3M token (kueri Arab multi-tema ke OpenBayan, perumusan hipotesis terstruktur, pemanggilan Qaf terbatas untuk meta-analysis, ekstraksi dan klasifikasi temuan, serta penulisan laporan sintesis per tema).
   - *Kebutuhan HITL:* **Sangat Tinggi** — Dokumen ini pada dasarnya adalah bahan mudzakarah ilmiah yang *wajib* di-review oleh asatidzah sebelum dijadikan dasar perubahan konten PKN. Khususnya untuk temuan kategori 🔴 Divergent, tidak boleh ada kesimpulan atau respons yang diterbitkan tanpa otorisasi kurator/ustadz.
 
 ---
