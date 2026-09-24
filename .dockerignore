@@ -8,7 +8,8 @@ dropbox_links_cache.json
 generate_dropbox_links.py
 test_pipeline.py
 index_pdf_pipeline.py
-public
+presentations
+.agents
 .quartz-cache
 *.log
 .DS_Store

@@ -15,7 +15,7 @@ concurrency:
 
 permissions:
   contents: read
-  actions: write
+  packages: write
 
 jobs:
   # ============================================================================
@@ -39,10 +39,10 @@ jobs:
         run: python3 scripts/wiki_corpus_linter.py
 
   # ============================================================================
-  # Job 2: Static Site Compilation & Artifact Generation
+  # Job 2: Static Site Compilation, GHCR Image Build & Deployment
   # ============================================================================
   quartz-build:
-    name: Quartz v5 Static Site Build
+    name: Quartz v5 Static Site & Docker Image Build
     needs: corpus-lint
     runs-on: ubuntu-latest
     steps:
@@ -83,6 +83,39 @@ jobs:
           name: quartz-build-output
           path: public/
           retention-days: 7
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GitHub Container Registry (GHCR)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract Docker metadata
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ghcr.io/${{ github.repository }}
+          tags: |
+            type=raw,value=latest
+            type=sha,format=short
+
+      - name: Build and push Nginx Docker image to GHCR
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile.nginx
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
 
       - name: Optional Portainer Webhook
         continue-on-error: true
