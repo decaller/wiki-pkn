@@ -985,6 +985,27 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Linter korpus (`python3 scripts/wiki_corpus_linter.py`) lulus bersih (0 broken links, 0 vocabulary violations, skor rata-rata Clarity korpus 86.3/100).
   - Kompilasi `npx quartz build` sukses memproses **484 berkas Markdown** dan menerbitkan **2.713 berkas statis** ke `public/` dengan exit code 0.
 
+### Milestone 64: Migrasi Runtime Produksi ke Docker Image GHCR (Nginx Alpine Anti-Lag) `[SELESAI]`
+- **Eliminasi 100% Beban Kompilasi VPS:**
+  - Mentransformasi arsitektur runtime container produksi dari image monolithic Node.js (`node:22-slim` ~1.2 GB yang menjalankan `npx quartz build --serve` dengan lonjakan CPU 100% dan RAM ~1 GB) menjadi **Nginx Alpine murni** (`nginx:alpine` ~20 MB compressed, ~66 MB uncompressed).
+  - Seluruh beban berat kompilasi Quartz (484 berkas markdown $\to$ 2.713 file HTML statis) sepenuhnya dialihkan ke cloud runner GitHub Actions secara gratis dan paralel.
+- **Konfigurasi Server Nginx Produksi (`nginx.conf`):**
+  - Menerapkan clean URLs routing Quartz via `try_files $uri $uri.html $uri/ /index.html =404;` sehingga semua tautan internal navigasi terbuka mulus tanpa ekstensi `.html`.
+  - Mengaktifkan kompresi Gzip (level 6) untuk file text, CSS, XML, JSON, JS, dan SVG.
+  - Menerapkan cache browser 30 hari (`Cache-Control: public, no-transform`) untuk aset statis (`.css`, `.js`, `.webp`, `.canvas`, font).
+  - Menyediakan endpoint healthcheck `/healthz` terisolasi yang mendukung binding IPv4 dan IPv6 (`listen 8080; listen [::]:8080;`).
+- **Otomasi Build & Push ke GitHub Container Registry (`Dockerfile.nginx` & GitHub Actions):**
+  - Membuat `Dockerfile.nginx` yang menyalin langsung folder `public/` hasil build Quartz dan menyematkan `HEALTHCHECK` wget ke `127.0.0.1:8080/healthz`.
+  - Menambahkan step Docker Buildx, login GHCR via `GITHUB_TOKEN`, dan build-push multi-tag (`latest` dan `sha`) ke `ghcr.io/decaller/wiki-pkn:latest` pada workflow `.github/workflows/deploy.yml`.
+  - Berhasil terbit dan dapat ditarik (*pulled*) secara publik dan instan dari registry GHCR.
+- **Pembaruan Konfigurasi Stack Portainer (Stack ID 25):**
+  - Memperbarui `docker-compose.yml` menggunakan `image: ghcr.io/decaller/wiki-pkn:latest` dengan healthcheck wget ke `http://127.0.0.1:${PORT:-8080}/healthz`.
+  - Sinkronisasi Git settings di Portainer Stack 25 ke branch `refs/heads/main` (ConfigHash `30101ca`).
+  - Redeploy container di Portainer tuntas dalam **10 detik** (hanya menarik image jadi ~20 MB tanpa build lokal di VPS).
+  - Penggunaan memori RAM container turun dari ~1.000 MB ke **~18 MB** (turun >98%), dan penggunaan CPU VPS berada di level **0%**.
+  - Status container di Portainer: **`running (healthy)`**.
+  - Verifikasi public live: `https://wikipkn.insanmustaqbal.or.id/` melayani via Nginx 1.31.6 dengan `HTTP/2 200 OK`.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -992,6 +1013,8 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | Komponen Arsitektur | Status Produksi | Keterangan & Rujukan |
 | :--- | :---: | :--- |
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
+| **Server Runtime** | 🟢 **Nginx 1.31.6 Alpine** | RAM: ~18 MB, CPU: 0%, Clean URLs & Gzip Compression aktif |
+| **Container Registry** | 🟢 **GHCR Public Image** | `ghcr.io/decaller/wiki-pkn:latest` (Image size: ~20 MB compressed) |
 | **Generator SSG** | 🟢 **Quartz v5.0.0** | 484 berkas Markdown terproses, 2.713 berkas web statis terbit |
 | **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 106 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
 | **Sidebar Navigation** | 🟢 **148 Simpul Aktif (120 Daun)** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
@@ -1000,11 +1023,11 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | **Katalog Dalil Mandiri** | 🟢 **82+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
 | **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
 | **Callout Kontras Refleksi** | 🟢 **10 Berkas (45 Pasang)** | Master Template & 9 Artikel Prioritas (`🔴 vs ✅`) |
-| **Pipeline CI/CD** | 🟢 **GitHub Actions Active** | `.github/workflows/deploy.yml` (fail-fast 2 job linter & Quartz build) |
+| **Pipeline CI/CD** | 🟢 **GitHub Actions Active** | `.github/workflows/deploy.yml` (Linter $\to$ Quartz Build $\to$ Push GHCR) |
 | **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
 | **Audit Kualitas & Linter** | 🟢 **100% Passed (86.3/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 87 tests) |
 | **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 484/484 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
-| **Deployment & Hosting** | 🟢 **Portainer GitOps** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
+| **Deployment & Hosting** | 🟢 **Portainer GitOps (Healthy)** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
 
 
 
