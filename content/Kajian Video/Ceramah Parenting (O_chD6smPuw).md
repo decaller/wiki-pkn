@@ -34,7 +34,7 @@ sources:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Ceramah Parenting (O_chD6smPuw)</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #b91c1c, #991b1b); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(185, 28, 28), rgb(153, 27, 27)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🎬 Rekaman</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Kajian Video PKN</div>
     </div>

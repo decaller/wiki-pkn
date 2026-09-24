@@ -33,7 +33,7 @@ tags:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">RPP Karakter Nabawiyah 1 Lembar</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(30, 58, 138), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">📜 RPP FITRAH</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Integrasi 3 Pilar & Penjenjangan 3 Bahasa</div>
     </div>
@@ -261,6 +261,6 @@ IV. CATATAN OBSERVASI ANEKDOT PERILAKU SPONTAN
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #1e3a8a; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(30, 58, 138); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk pendalaman filosofi keterpaduan iman dan adab, pelajari [[Panduan RPP dan Observasi Lapangan]], [[Review Buku Kurikulum Sekolah Karakter Islam|Kurikulum Sekolah Karakter Islam]], dan materi pemetaan pilar pada [[Panduan Asesmen dan Observasi TB40|Tafsir Bakat 40]].
 </div>

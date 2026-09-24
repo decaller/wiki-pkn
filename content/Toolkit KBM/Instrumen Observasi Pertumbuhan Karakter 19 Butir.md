@@ -34,7 +34,7 @@ tags:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Observasi Karakter 19 Butir</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #0284c7, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(2, 132, 199), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🌱 OBSERVASI FITRAH</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Asesmen Naratif Kualitatif Non-Angka</div>
     </div>
@@ -232,6 +232,6 @@ Pada akhir semester, data observasi diolah menjadi **narasi pertumbuhan fitrah**
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #0284c7; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(2, 132, 199); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk panduan mendalam tentang penanganan santri yang capaiannya masih [BT] atau mengalami kemunduran adab, gunakan [[Lembar Dialog Evaluasi Hati Guru-Santri]]. Untuk landasan teori, lihat [[Panduan RPP dan Observasi Lapangan]].
 </div>

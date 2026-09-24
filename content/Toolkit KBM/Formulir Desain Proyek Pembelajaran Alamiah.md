@@ -34,7 +34,7 @@ tags:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Desain Proyek Pembelajaran Alamiah</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #15803d, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(21, 128, 61), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🌿 TARBIYAH THABI'IYYAH</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Pembelajaran Berbasis Realitas & Bakat TB-40</div>
     </div>
@@ -279,6 +279,6 @@ menyuburkan 50 polybag bibit cabai dan terong di halaman asrama.
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #15803d; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(21, 128, 61); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk panduan asesmen pilar bakat santri yang bertugas dalam proyek, pelajari [[Panduan Asesmen dan Observasi TB40|Tafsir Bakat 40]] dan [[Review Buku Tafsir Bakat|Buku Tafsir Bakat]].
 </div>

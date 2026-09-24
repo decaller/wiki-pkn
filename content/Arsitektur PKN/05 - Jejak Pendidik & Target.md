@@ -37,7 +37,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 05: Target & Jejak Santri</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #7c3aed, #6d28d9); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(124, 58, 237), rgb(109, 40, 217)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">🏆 ➔ 👨‍👩‍👧 ➔ 🌍</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Sholih Personal • Muslih Peradaban</div>
     </div>

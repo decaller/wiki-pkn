@@ -37,7 +37,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 06: Implementasi Kausalitas</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #0f172a, #334155); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(15, 23, 42), rgb(51, 65, 85)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">⛓️ ➔ 🚰 ➔ 🧭 ➔ 🏛️</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Grand Theory Kesadaran Beramal</div>
     </div>

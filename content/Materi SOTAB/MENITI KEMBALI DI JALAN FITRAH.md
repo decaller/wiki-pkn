@@ -36,7 +36,7 @@ sources:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">MENITI KEMBALI DI JALAN FITRAH</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #0f766e, #115e59); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(15, 118, 110), rgb(17, 94, 89)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🌱 SOTAB</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Parenting & Praktisi Lapangan</div>
     </div>

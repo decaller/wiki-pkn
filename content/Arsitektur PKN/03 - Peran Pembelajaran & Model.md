@@ -37,7 +37,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 03: Model Belajar Fitrah</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #15803d, #16a34a); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(21, 128, 61), rgb(22, 163, 74)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">👂 ➔ 👁️ ➔ ❤️</div>
       <div style="font-weight: 700; font-size: 0.9rem;">As-Sam'u • Al-Bashar • Al-Fu'ad</div>
     </div>

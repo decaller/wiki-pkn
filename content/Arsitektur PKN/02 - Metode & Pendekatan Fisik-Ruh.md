@@ -37,7 +37,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 02: Metode Fisik-Ruh</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e1b4b, #4338ca); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(30, 27, 75), rgb(67, 56, 202)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">✨ ➔ ❤️ ➔ 🧠 ➔ 🏃</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Ruh • Qalb • Akal • Jasad</div>
     </div>

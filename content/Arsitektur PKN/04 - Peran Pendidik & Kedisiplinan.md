@@ -37,7 +37,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 04: Pendidik & Disiplin</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #b45309, #d97706); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(180, 83, 9), rgb(217, 119, 6)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">👶 ➔ 👦 ➔ 🧑 ➔ 👨‍🎓</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Piramida 4 Fase & Al-Hima</div>
     </div>

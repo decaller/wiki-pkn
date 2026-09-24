@@ -38,7 +38,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Sektor 01: Kurikulum Maqashid</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #065f46, #047857); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(6, 95, 70), rgb(4, 120, 87)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.35rem;">📜 ➔ ⚖️ ➔ 🔬</div>
       <div style="font-weight: 700; font-size: 0.9rem;">Adab Menuju STEM Aplikatif</div>
     </div>

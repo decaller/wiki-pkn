@@ -33,7 +33,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Toolkit KBM Karakter Nabawiyah</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #0d9488, #1e3a8a); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(13, 148, 136), rgb(30, 58, 138)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🎒 KBM PKN</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Perkakas Operasional Kelas & Asrama</div>
     </div>
@@ -176,6 +176,6 @@ Untuk memperdalam landasan filosofis di balik setiap instrumen, para pendidik di
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #0d9488; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(13, 148, 136); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Petunjuk Teknis:</b> Dokumen di dalam toolkit ini bebas disalin dan dicetak untuk kebutuhan internal lembaga pendidikan Islam tanpa mengubah prinsip kemurnian manhaj nabawiyah.
 </div>

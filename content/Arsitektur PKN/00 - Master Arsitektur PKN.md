@@ -39,7 +39,7 @@ aliases:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Master Hub Arsitektur PKN</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.5rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.5rem 1rem; background: linear-gradient(135deg, rgb(30, 58, 138), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 2rem; margin-bottom: 0.5rem;">🏛️ ➔ 👤 ➔ 📖<br/>⚡ 🠔 🎯 🠔 ⚖️</div>
       <div style="font-weight: 700; font-size: 0.95rem;">Macro Value Chain Sistem Tarbiyah</div>
     </div>

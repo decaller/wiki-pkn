@@ -36,7 +36,7 @@ description: "Prinsip Tadarruj (Pentahapan Alami) dalam Manhaj PKN: integrasi 4 
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Prinsip Tadarruj</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #065f46, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(6, 95, 70), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">🌱 تَـدَرُّج</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Sunnatullah Pentahapan Alami</div>
     </div>

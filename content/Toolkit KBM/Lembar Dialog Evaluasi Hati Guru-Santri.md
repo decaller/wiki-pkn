@@ -34,7 +34,7 @@ tags:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Dialog Evaluasi Hati Guru-Santri</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #e11d48, #1e3a8a); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(225, 29, 72), rgb(30, 58, 138)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">❤️ PEMULIHAN ADAB</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Restorative Ta'dib & Pemulihan Fitrah</div>
     </div>
@@ -259,6 +259,6 @@ Ustadz Rahmat: "Barakallahu fiik, Khalid. Itu keputusan yang sangat gagah dan me
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #e11d48; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(225, 29, 72); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk pengayaan prinsip penyucian jiwa santri dan tata cara pembersihan penyakit hati (*Takhalli wa Tahalli*), pelajari [[Tazkiyatun Nafs]] dan bab adab pada [[Review Buku Kurikulum Sekolah Karakter Islam|Kurikulum Sekolah Karakter Islam]].
 </div>

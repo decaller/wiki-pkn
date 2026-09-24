@@ -34,7 +34,7 @@ tags:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Bank Prompt AI Guru KBM</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #4f46e5, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(79, 70, 229), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">⚡ AI GURU PKN</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Prompt Rekayasa XML Tags Terstruktur</div>
     </div>
@@ -292,6 +292,6 @@ Pendidik dapat menerapkan tiga langkah praktis berikut saat berinteraksi dengan 
 
 ---
 
-<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #4f46e5; background: var(--card-bg, #f8fafc);">
+<div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(79, 70, 229); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Integritas Manhaj:</b> Penggunaan kecerdasan buatan wajib diawasi oleh bashirah keimanan pendidik. Jangan pernah menerbitkan modul atau asesmen ke hadapan santri tanpa melalui proses tadabbur dan verifikasi mandiri oleh guru.
 </div>

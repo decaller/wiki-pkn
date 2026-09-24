@@ -33,7 +33,7 @@ sources:
 <div class="wiki-infobox">
   <div class="wiki-infobox-header">Hadits Fitrah Anak</div>
   <div class="wiki-infobox-image">
-    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, #1e3a8a, #0d9488); color: white; text-align: center; border-radius: 6px;">
+    <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(30, 58, 138), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">📜 DALIL SYAR'I</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Hadits Nabawi</div>
     </div>
@@ -50,7 +50,7 @@ sources:
     </tr>
     <tr>
       <th>Derajat Sanad</th>
-      <td><span style="color: #059669; font-weight: 700;">Shahih (Muttafaq 'Alaih)</span></td>
+      <td><span style="color: rgb(5, 150, 105); font-weight: 700;">Shahih (Muttafaq 'Alaih)</span></td>
     </tr>
     <tr>
       <th>Perawi / Sanad</th>
