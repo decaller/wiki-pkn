@@ -1,21 +1,16 @@
 services:
   wiki-pkn:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/decaller/wiki-pkn:latest
     container_name: wiki-pkn
     restart: unless-stopped
     ports:
       - "${HOST_PORT:-4040}:${PORT:-8080}"
     environment:
-      - DOMAIN=${DOMAIN:-localhost}
+      - DOMAIN=${DOMAIN:-wikipkn.insanmustaqbal.or.id}
       - PORT=${PORT:-8080}
-      - WS_PORT=${WS_PORT:-3001}
-    volumes:
-      - ./presentations:/usr/src/app/presentations:ro
     healthcheck:
-      test: ["CMD", "node", "-e", "fetch('http://localhost:' + (process.env.PORT || 8080)).then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
+      test: ["CMD-SHELL", "wget -q -O - http://localhost:${PORT:-8080}/healthz || exit 1"]
       interval: 30s
-      timeout: 10s
+      timeout: 5s
       retries: 3
-      start_period: 30s
+      start_period: 5s
