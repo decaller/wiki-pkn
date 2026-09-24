@@ -249,35 +249,35 @@ Pendidikan anak membutuhkan orkestrasi harmonis antara energi maskulin ayah dan 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>🧭 Kluster Arsitektur Pendidikan Karakter Nabawiyah (PKN)</span>
-    <span>[ <a href="/content/Peta Navigasi Wiki PKN">Peta Navigasi MOC</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi MOC]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Master Hub</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">00. Master Hub Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/PKN Blueprint Arsitektur Sistem">PKN Blueprint</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Benang Merah Pendidikan">Benang Merah Pendidikan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup Manusia</a>
+      [[00 - Master Arsitektur PKN|00. Master Hub Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]] <span class="wiki-navbox-sep">•</span>
+      [[Benang Merah Pendidikan]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">6 Sektor Arsitektur</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/01 - Komponen & Kurikulum PKN">01. Komponen & Kurikulum</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh">02. Metode Fisik-Ruh</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/03 - Peran Pembelajaran & Model">03. Pembelajaran & Model</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan">04. Pendidik & Kedisiplinan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/05 - Jejak Pendidik & Target" style="font-weight: 700; color: var(--secondary);">05. Jejak & Target Santri</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas">06. Implementasi & Kausalitas</a>
+      [[01 - Komponen & Kurikulum PKN|01. Komponen & Kurikulum]] <span class="wiki-navbox-sep">•</span>
+      [[02 - Metode & Pendekatan Fisik-Ruh|02. Metode Fisik-Ruh]] <span class="wiki-navbox-sep">•</span>
+      [[03 - Peran Pembelajaran & Model|03. Pembelajaran & Model]] <span class="wiki-navbox-sep">•</span>
+      [[04 - Peran Pendidik & Kedisiplinan|04. Pendidik & Kedisiplinan]] <span class="wiki-navbox-sep">•</span>
+      [[05 - Jejak Pendidik & Target|05. Jejak & Target Santri]] <span class="wiki-navbox-sep">•</span>
+      [[06 - Implementasi & Rantai Kausalitas|06. Implementasi & Kausalitas]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Peran & Capaian</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Peran Ayah dan Bunda">Peran Ayah & Bunda</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Imunitas Sosial">Imunitas Sosial</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Syabab">Syabab (Mukallaf)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+      [[Peran Ayah dan Bunda|Peran Ayah & Bunda]] <span class="wiki-navbox-sep">•</span>
+      [[Imunitas Sosial]] <span class="wiki-navbox-sep">•</span>
+      [[Syabab|Syabab (Mukallaf)]] <span class="wiki-navbox-sep">•</span>
+      [[Tangki Cinta]]
     </div>
   </div>
 </div>

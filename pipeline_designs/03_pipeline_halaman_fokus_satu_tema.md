@@ -289,7 +289,7 @@ Imam Ibnul Qayyim Al-Jauziyyah dalam *Tuhfatul Maudud* menjelaskan bahwa anak ya
 
 ## Lihat Pula
 * [[Koneksi Sebelum Koreksi]] — Metode komunikasi hati sebelum perbaikan adab.
-* [[4 Etape Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
 * [[Bahasa Hati]] — Seni berdialog melalui rasa dan keteladanan.
 
 ---

@@ -374,16 +374,16 @@ Transkrip belum tersedia.
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>Dokumentasi Kajian Video Pendidikan Karakter Nabawiyah</span>
-    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Navigasi Utama</div>
     <div class="wiki-navbox-links">
-      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Kajian Video">Daftar Video Kajian</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Materi SOTAB">Materi SOTAB</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tangki Cinta">Tangki Cinta</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a>
+      [[index|Beranda]] <span class="wiki-navbox-sep">•</span>
+      [[Kajian Video|Daftar Video Kajian]] <span class="wiki-navbox-sep">•</span>
+      [[Materi SOTAB]] <span class="wiki-navbox-sep">•</span>
+      [[Tangki Cinta]] <span class="wiki-navbox-sep">•</span>
+      [[Bahasa Hati|Koneksi Sebelum Koreksi]]
     </div>
   </div>
 </div>

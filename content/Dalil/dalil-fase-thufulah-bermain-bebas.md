@@ -148,33 +148,33 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Thufulah]]**, yaitu:
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>Katalog Dalil & Rujukan Nabawiyah Wiki PKN</span>
-    <span>[ <a href="/content/Master Katalog Dalil Al-Quran">Katalog Qur'an</a> • <a href="/content/Master Katalog Dalil Hadits dan Sunnah">Katalog Hadits</a> ]</span>
+    <span>[ [[Master Katalog Dalil Al-Quran|Katalog Qur'an]] • [[Master Katalog Dalil Hadits dan Sunnah|Katalog Hadits]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Pondasi Insan & Jiwa</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Dalil/dalil-fitrah-kesucian-anak">Fitrah Kesucian</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-tujuan-penciptaan-ibadah">Tujuan Ibadah</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-penciptaan-ruh-dan-jasad">Penciptaan Ruh & Jasad</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-kemuliaan-insan-ahsan-taqwim">Ahsan Taqwim</a>
+      [[dalil-fitrah-kesucian-anak|Fitrah Kesucian]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-tujuan-penciptaan-ibadah|Tujuan Ibadah]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-penciptaan-ruh-dan-jasad|Penciptaan Ruh & Jasad]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-kemuliaan-insan-ahsan-taqwim|Ahsan Taqwim]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Fase Usia & Disiplin</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Dalil/dalil-kasih-sayang-mencium-anak">Kasih Sayang Fisik</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-perintah-shalat-usia-7-dan-10">Perintah Shalat 7 & 10 Thn</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-fase-tamyiz-adab-privasi">Adab Privasi Tamyiz</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-fase-murahaqah-ujian-kemandirian-rusyd">Ujian Rusyd Murahaqah</a>
+      [[dalil-kasih-sayang-mencium-anak|Kasih Sayang Fisik]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-perintah-shalat-usia-7-dan-10|Perintah Shalat 7 & 10 Thn]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-fase-tamyiz-adab-privasi|Adab Privasi Tamyiz]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-fase-murahaqah-ujian-kemandirian-rusyd|Ujian Rusyd Murahaqah]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Tazkiyatun Nafs</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Dalil/dalil-tazkiyah-poros-keberuntungan-dan-kerugian">Keberuntungan Tazkiyah</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-tazkiyah-doa-permohonan-takwa-jiwa">Doa Taqwa Jiwa</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-tazkiyah-takhalli-larangan-marah-ego">La Taghdhab</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Dalil/dalil-tazkiyah-tahalli-keikhlasan-niat-amal">Niat Ikhlas</a>
+      [[dalil-tazkiyah-poros-keberuntungan-dan-kerugian|Keberuntungan Tazkiyah]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-tazkiyah-doa-permohonan-takwa-jiwa|Doa Taqwa Jiwa]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-tazkiyah-takhalli-larangan-marah-ego|La Taghdhab]] <span class="wiki-navbox-sep">•</span>
+      [[dalil-tazkiyah-tahalli-keikhlasan-niat-amal|Niat Ikhlas]]
     </div>
   </div>
 </div>

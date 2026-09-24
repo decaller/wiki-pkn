@@ -233,7 +233,7 @@ Setiap potensi fitrah senantiasa terancam oleh dua kutub penyimpangan ekstrem:
 ## Lihat Pula
 * [[Koneksi Sebelum Koreksi]] — Fondasi komunikasi Bahasa Hati sebelum pemberian arahan adab.
 * [[Tangki Cinta]] — Prasyarat afeksi emosional anak sebelum penegakan disiplin dan taklif shalat.
-* [[4 Etape Usia Nabawiyah]] — Peta pentahapan usia tumbuh kembang anak menurut sunnah.
+* [[4 Fase Usia Nabawiyah]] — Peta pentahapan usia tumbuh kembang anak menurut sunnah.
 * [[Tafsir Bakat 40]] — Taksonomi 40 pilar karakter dan instrumen asesmen fitrah.
 
 ---
@@ -310,7 +310,7 @@ RELATE pilar:konsep -> DITOPANG_DALIL -> dalil:bukhari_1234;
     </div>
   </div>
   <div class="wiki-navbox-group">
-    <div class="wiki-navbox-label">4 Etape Usia</div>
+    <div class="wiki-navbox-label">4 Fase Usia</div>
     <div class="wiki-navbox-links">
       <a href="/content/Thufulah">Thufulah (0–7 Th)</a> <span class="wiki-navbox-sep">•</span>
       <a href="/content/Tamyiz">Tamyiz (7–10 Th)</a> <span class="wiki-navbox-sep">•</span>

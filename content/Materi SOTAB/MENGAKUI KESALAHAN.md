@@ -163,16 +163,16 @@ Join Whatsapp Grup
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>Eksplorasi Materi SOTAB HEBAT (Sekolah Orang Tua Ayah Bunda)</span>
-    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Navigasi Utama</div>
     <div class="wiki-navbox-links">
-      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Materi SOTAB">Daftar Materi SOTAB</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tangki Cinta">Tangki Cinta</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Recovery">Protokol Recovery</a>
+      [[index|Beranda]] <span class="wiki-navbox-sep">•</span>
+      [[Materi SOTAB|Daftar Materi SOTAB]] <span class="wiki-navbox-sep">•</span>
+      [[Tangki Cinta]] <span class="wiki-navbox-sep">•</span>
+      [[Bahasa Hati|Koneksi Sebelum Koreksi]] <span class="wiki-navbox-sep">•</span>
+      [[Recovery|Protokol Recovery]]
     </div>
   </div>
 </div>

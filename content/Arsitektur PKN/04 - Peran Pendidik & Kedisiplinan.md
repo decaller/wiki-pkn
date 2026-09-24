@@ -198,14 +198,20 @@ Mengapa banyak anak pesantren yang rajin shalat saat di asrama, tetapi langsung 
 
 ---
 
-## 7. Protokol Operasional & Manhaj Tadarruj Ta'dib
+## 7. Protokol Operasional & Manhaj [[Prinsip Tadarruj|Tadarruj Ta'dib (Kedisiplinan Bertahap)]]
 
-1. **Langkah 1: Tabayyun & Klarifikasi Emosi:**
-   Saat anak melanggar, tenangkan emosi pendidik terlebih dahulu. Duduk sejajar mata anak, pegang pundaknya, dan dengarkan penjelasannya tanpa memotong kalimat.
-2. **Langkah 2: Uji Nalar & Kesadaran Konsekuensi:**
-   Gunakan pertanyaan reflektif: *"Menurutmu, perbuatan tadi membuat Allah ridha atau murka? Apa dampaknya bagi saudaramu?"* Biarkan anak menyadari kesalahannya dari dalam dadanya sendiri.
-3. **Langkah 3: Pelaksanaan Konsekuensi Logis Edukatif:**
-   Jika anak merusak barang, konsekuensinya adalah memperbaikinya atau menyisihkan uang tabungannya untuk mengganti. Jika melanggar shalat di usia 10 tahun ke atas, berikan sanksi ta'dib fisik yang mendidik (tidak melukai, tidak pada wajah, maksimal 3 kali pukulan ringan pada betis/kaki dengan siwak atau tangan terbuka, tanpa luapan amarah).
+Kedisiplinan nabawiyah mengharamkan lompatan sanksi (*al-qafz*). Penanganan deviasi santri ditegakkan secara gradual menapaki 5 tingkatan:
+
+1. **Tingkat 1: Muhasabah Diri & Doa Pendidik (*Ibda' Binafsik*):**
+   Sebelum menegur anak, pendidik mengevaluasi diri: *"Apakah kesalahan santri ini buah dari kelalaian teladanku atau keringnya tangki cintanya?"* Mendoakan kelembutan hati anak di keheningan malam.
+2. **Tingkat 2: Tabayyun & Dialog Empati (*Nasehat Hikmah*):**
+   Duduk sejajar mata anak, pegang pundaknya, dengarkan perasaannya tanpa memotong (*Koneksi Sebelum Koreksi*).
+3. **Tingkat 3: Teguran Empat Mata Rahasia (*Qaulan Sadida Sirran*):**
+   Gunakan pertanyaan reflektif: *"Menurutmu, perbuatan tadi membuat Allah ridha atau murka? Apa dampaknya bagi saudaramu?"* Menjaga kehormatan anak tanpa mempermalukannya di depan khalayak.
+4. **Tingkat 4: Pemisahan Fasilitas / Sosial Edukatif (*Al-Hajr Al-Waqti*):**
+   Mendiamkan secara wajar atau menarik hak fasilitas tertentu (maksimal 3 hari) sebagai sinyal kekecewaan mendalam atas pelanggaran adab yang disengaja.
+5. **Tingkat 5: Ketegasan Fisik Simbolik Berbatas Syariat (*Adh-Dharb Ghairul Mubarrih*):**
+   Khusus anak usia $\ge 10$ tahun yang meninggalkan shalat setelah 3 tahun pembiasaan (1.095 hari). Syarat mutlak: tidak melukai, tidak pada wajah, maksimal 3 kali pukulan ringan pada betis dengan siwak/tangan terbuka, dan bukan luapan amarah ego pendidik. Panduan komprehensif tersedia di [[Prinsip Tadarruj]].
 
 ---
 
@@ -237,36 +243,36 @@ Mengapa banyak anak pesantren yang rajin shalat saat di asrama, tetapi langsung 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>🧭 Kluster Arsitektur Pendidikan Karakter Nabawiyah (PKN)</span>
-    <span>[ <a href="/content/Peta Navigasi Wiki PKN">Peta Navigasi MOC</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi MOC]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Master Hub</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">00. Master Hub Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/PKN Blueprint Arsitektur Sistem">PKN Blueprint</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Benang Merah Pendidikan">Benang Merah Pendidikan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup Manusia</a>
+      [[00 - Master Arsitektur PKN|00. Master Hub Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]] <span class="wiki-navbox-sep">•</span>
+      [[Benang Merah Pendidikan]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">6 Sektor Arsitektur</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/01 - Komponen & Kurikulum PKN">01. Komponen & Kurikulum</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh">02. Metode Fisik-Ruh</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/03 - Peran Pembelajaran & Model">03. Pembelajaran & Model</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan" style="font-weight: 700; color: var(--secondary);">04. Pendidik & Kedisiplinan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/05 - Jejak Pendidik & Target">05. Jejak & Target Santri</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas">06. Implementasi & Kausalitas</a>
+      [[01 - Komponen & Kurikulum PKN|01. Komponen & Kurikulum]] <span class="wiki-navbox-sep">•</span>
+      [[02 - Metode & Pendekatan Fisik-Ruh|02. Metode Fisik-Ruh]] <span class="wiki-navbox-sep">•</span>
+      [[03 - Peran Pembelajaran & Model|03. Pembelajaran & Model]] <span class="wiki-navbox-sep">•</span>
+      [[04 - Peran Pendidik & Kedisiplinan|04. Pendidik & Kedisiplinan]] <span class="wiki-navbox-sep">•</span>
+      [[05 - Jejak Pendidik & Target|05. Jejak & Target Santri]] <span class="wiki-navbox-sep">•</span>
+      [[06 - Implementasi & Rantai Kausalitas|06. Implementasi & Kausalitas]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Fase & Disiplin</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Thufulah">Thufulah (0–7 Th)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tamyiz">Tamyiz (7–10 Th)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Murahaqah">Murahaqah (10–14 Th)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Syabab">Syabab (15+ Th)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Disiplin Positif PKN">Disiplin Positif</a>
+      [[Thufulah|Thufulah (0–7 Th)]] <span class="wiki-navbox-sep">•</span>
+      [[Tamyiz|Tamyiz (7–10 Th)]] <span class="wiki-navbox-sep">•</span>
+      [[Murahaqah|Murahaqah (10–14 Th)]] <span class="wiki-navbox-sep">•</span>
+      [[Syabab|Syabab (15+ Th)]] <span class="wiki-navbox-sep">•</span>
+      [[Disiplin Positif PKN|Disiplin Positif]]
     </div>
   </div>
 </div>
@@ -278,6 +284,7 @@ Mengapa banyak anak pesantren yang rajin shalat saat di asrama, tetapi langsung 
 <!-- ========================================================================== -->
 
 ## Lihat Pula
+* [[Prinsip Tadarruj]] — Kaidah pentahapan alami 4 dimensi, toleransi edukatif 3 tahun, dan ta'dib berjenjang.
 * [[Disiplin Positif PKN]] — Panduan operasional disiplin tanpa kekerasan dan penghinaan martabat.
 * [[Batas Toleransi]] — Konsepsi batas toleransi kesalahan dan penegakan hukum syariat.
 * [[Menumbuhkan Kesadaran Beramal]] — Grand theory menanamkan motivasi internal ketaatan ibadah.

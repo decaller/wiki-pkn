@@ -32,10 +32,14 @@ Fokus pada perbaikan responsivitas perangkat bergerak dan visualisasi informasi.
   - *Deskripsi:* Menyediakan visualisasi mind map / grafik relasi konsep interaktif melalui standarisasi Obsidian Canvas (`.canvas`) berbasis plugin `@quartz-community/canvas-page` di Zone 2 Lead Section, didukung local graph view interaktif di tiap halaman.
   - *Status Kemajuan:* Selesai penuh (104 berkas Canvas terstandarisasi, transklusi `![[...canvas]]` tersemat di halaman pilar utama dan 8 ulasan buku).
   - *Kebutuhan HITL:* Rendah.
-- [x] **Pembuatan visualisasi flow pengolahan (arsitektur pipeline dokumen)** `[SELESAI]`
-  - *Deskripsi:* Membuat visualisasi diagram alur proses/workflow pengolahan dokumen (memetakan state graph LangGraph & LangGraph Flow mulai dari input materi multi-modal, kurasi, verifikasi dalil, hingga publikasi Quartz). Tersedia lengkap di direktori [`pipeline_designs/`](pipeline_designs/README.md) (1 master README + 10 dokumen spesifikasi pipeline tematik).
-  - *Perkiraan Token AI:* ~30k - 60k token (perancangan arsitektur node dan representasi diagram Mermaid/flowchart).
-  - *Kebutuhan HITL:* Sedang (penyelarasan urutan langkah kurasi bersama kurator & developer).
+- [x] **Pembersihan Broken Links Navbox Bawah & Standarisasi Wikilinks Quartz** `[SELESAI]`
+  - *Deskripsi:* Konversi masif 5.233 tautan tag HTML mentah `<a href="/content/...">` di 464 berkas markdown menjadi tautan internal Quartz yang sah `[[...]]`. Mengeliminasi seluruh broken links (HTTP 404) pada baris navigasi bawah (`.wiki-navbox`) dan mengarahkan rute navigasi secara presisi.
+  - *Status Kemajuan:* Selesai penuh (0 broken internal links, terverifikasi via `scripts/fix_navbox_links.py` dan `npx quartz build`).
+  - *Kebutuhan HITL:* Rendah.
+- [x] **Harmonisasi & Pengayaan Komprehensif Manhaj Tadarruj (Pentahapan Alami)** `[SELESAI]`
+  - *Deskripsi:* Menyerap temuan hasil ekstraksi semantik Unstructured API (88 berkas PDF/PPTX) menjadi artikel master ensiklopedis 4-Zone [`Prinsip Tadarruj.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20&%20Implementasi/Implementasi/Kaidah%20&%20Elemen/Prinsip%20Tadarruj.md) dan bagan interaktif [`Prinsip Tadarruj.canvas`](content/canvas/Prinsip%20Tadarruj%20-%20Empat%20Dimensi%20Pentahapan%20Alami%20PKN.canvas), menstandarisasi 4 Dimensi Tadarruj (4 Fase Usia, Kurikulum 3T *Ta'rif $\to$ Ta'alluf $\to$ Tamkin*, Tadarruj Ta'dib 5 tingkat, dan Transformasi Lembaga), serta menyelaraskan Sektor 01, Sektor 04, Sektor 06, dan Glosarium Istilah.
+  - *Status Kemajuan:* Selesai penuh (0 residu diksi *etape*, kepatuhan gaya Ustadz Abdul Kholiq 100%, terbit di Quartz).
+  - *Kebutuhan HITL:* Rendah.
 
 ---
 
@@ -147,6 +151,25 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Target Path:* `content/Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.md`
   - *Perkiraan Token AI:* ~80k - 150k token (riset biografi, penyusunan syarah kaidah, perakitan artikel 4-Zone, pembuatan canvas, dan verifikasi takhrij dalil pendukung).
   - *Kebutuhan HITL:* **Tinggi** (verifikasi otentisitas dan sanad atribusi kaidah kepada KH. Abdullah Syukri Zarkasyi, review kesesuaian syarah oleh asatidzah/alumni Gontor, serta validasi kontekstualisasi ke manhaj PKN oleh kurator).
+
+- [ ] **Artikel: Firasat (الفِرَاسَة) — Metode Nabawi Membaca Jiwa & Mengenali Bakat Anak**
+  - *Deskripsi:* Menyusun halaman konsep mandiri berstandar 4-Zone MediaWiki tentang **firasat** sebagai *metode pedagogis inti* dalam manhaj PKN — yaitu kemampuan menyimpulkan hal-hal batin (karakter, bakat, kondisi jiwa) dari tanda-tanda lahir yang tampak (gestur tubuh, ekspresi, perilaku spontan). Halaman ini berbeda dan lebih luas dari entri bakat TB-40 Pilar #7 ([`07-firaasah.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Insan/Fitrah%20%28Karakter%29/Bakat/TB40/07-firaasah.md)) yang sudah ada — fokusnya bukan pada *memiliki bakat firasat*, melainkan pada *firasat sebagai alat/metode* yang bisa diasah oleh setiap orang tua dan guru.
+  - *Konten Artikel yang Diusulkan:*
+    - **Zone 1:** Lead TL;DR — definisi firasat dalam Islam (*menyimpulkan hal batiniah dari tanda yang tampak*), posisinya sebagai metode Rasulullah ﷺ dalam mengenali dan menempatkan sahabat, serta relevansinya sebagai metode pemetaan bakat anak yang lebih akurat daripada asesmen tertulis.
+    - **Zone 2 — Fondasi Syar'i:** Dalil Al-Qur'an (QS. Al-Hijr: 75 *"Inna fī dzālika la-āyātin lil-mutawassimīn"* — tanda bagi yang tajam firasat) dan hadits tentang ketajaman firasat mukmin (*"Ittaqū firāsatal mu'min fa-innahū yanẓuru bi nūrillāh"*). Takhrij Shamela dan syarah Ibnul Qayyim dalam *Madarijus Salikin* tentang tiga tingkatan firasat: firasat imaniyah, firasat riyādhiyah, dan firasat khilqiyah.
+    - **Zone 2 — Tiga Dimensi Firasat dalam Konteks PKN:**
+      1. **Firasat Bakat (*Syakilah*):** Membaca potensi dominan anak dari gestur, pola respons, dan kegiatan favorit — lebih valid dari tes psikologi/asesmen karena bersifat longitudinal dan berbasis observasi harian.
+      2. **Firasat Ego/Kutub Energi:** Membedakan ego tinggi (introvert-dominan, bertenaga dari dalam), ego sedang (analitis-kolaboratif), dan ego rendah (ekstrover-pelayan) dari cara anak berinteraksi dengan lingkungan dan respons spontan terhadap tekanan.
+      3. **Firasat Kondisi Jiwa:** Mendeteksi tanda-tanda hutang pengasuhan, luka batin, atau potensi menyimpang sejak dini dari perubahan perilaku, pola emosi, dan bahasa tubuh anak.
+    - **Zone 2 — Cara Mengasah Firasat (Protokol Latihan):** Panduan bertahap melatih kemampuan firasat — mulai dari observasi video anak usia 2–5 tahun, latihan pembacaan gestur langsung, hingga tradisi majelis *syura* guru yang saling berbagi pengamatan firasat tentang santri.
+    - **Zone 2 — Tabel Matriks:** Tanda lahir → Kesimpulan batin (ego, bakat rumpun, kondisi jiwa) dengan contoh konkret dari kajian Ustadz Abdul Kholiq.
+    - **Zone 2 — Uswah Sahabat:** Kisah Umar bin Khattab (ketajaman firasat ego tinggi), Imam Syafi'i (firasat khilqiyah), dan kasus Rasulullah ﷺ menempatkan sahabat pada posisi peran yang sesuai firasat beliau.
+    - **Zone 2 — Batasan & Adab Firasat:** Firasat bukan ramalan, bukan penghakiman permanen — penjelasan tentang bahaya *overthinking* firasat dan kaidah *"al-umūru bi maqāshidihā"* agar firasat tetap berlandaskan niat mendidik, bukan memvonis.
+    - **Zone 3:** Pranala silang ke [`07-firaasah.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Insan/Fitrah%20%28Karakter%29/Bakat/TB40/07-firaasah.md) (bakat firaasah TB-40), [`Bakat/index.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Insan/Fitrah%20%28Karakter%29/Bakat/index.md), kajian video terkait firasat (SQrC2H38EV4, Fti1kjBgBjA, lTrVXBUVnSM, 6H-qENwmmcw).
+    - **Zone 4:** Navbox, kategori `[[Kategori:Metode Pedagogis Nabawi]]`, `[[Kategori:Pemetaan Bakat]]`, `[[Kategori:Fitrah Karakter]]`.
+  - *Target Path:* `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Firasat.md`
+  - *Perkiraan Token AI:* ~100k - 180k token (riset dalil dan syarah ulama, penyusunan protokol latihan firasat, perakitan artikel 4-Zone, dan pembuatan canvas visualisasi tiga dimensi firasat).
+  - *Kebutuhan HITL:* **Tinggi** (verifikasi takhrij hadits firasat mukmin, review syarah Ibnul Qayyim tentang tingkatan firasat, serta validasi kesesuaian tabel matriks tanda-batin dengan pengamatan lapangan oleh asatidzah/guru praktisi PKN).
 
 - [ ] **Kurasi materi tulisan Ustadz Bayu di grup**
   - *Deskripsi:* Mengumpulkan, menyeleksi, dan menyusun arsip materi yang pernah ditulis Ustadz Bayu di grup diskusi ke format markdown wiki yang terstruktur.

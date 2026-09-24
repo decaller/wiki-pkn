@@ -258,36 +258,36 @@ Menjelaskan proporsi penerapan Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan:
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>🧭 Kluster Arsitektur Pendidikan Karakter Nabawiyah (PKN)</span>
-    <span>[ <a href="/content/Peta Navigasi Wiki PKN">Peta Navigasi MOC</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi MOC]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Master Hub</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">00. Master Hub Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/PKN Blueprint Arsitektur Sistem">PKN Blueprint</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Benang Merah Pendidikan">Benang Merah Pendidikan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup Manusia</a>
+      [[00 - Master Arsitektur PKN|00. Master Hub Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]] <span class="wiki-navbox-sep">•</span>
+      [[Benang Merah Pendidikan]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">6 Sektor Arsitektur</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/01 - Komponen & Kurikulum PKN">01. Komponen & Kurikulum</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh" style="font-weight: 700; color: var(--secondary);">02. Metode Fisik-Ruh</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/03 - Peran Pembelajaran & Model">03. Pembelajaran & Model</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan">04. Pendidik & Kedisiplinan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/05 - Jejak Pendidik & Target">05. Jejak & Target Santri</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas">06. Implementasi & Kausalitas</a>
+      [[01 - Komponen & Kurikulum PKN|01. Komponen & Kurikulum]] <span class="wiki-navbox-sep">•</span>
+      [[02 - Metode & Pendekatan Fisik-Ruh|02. Metode Fisik-Ruh]] <span class="wiki-navbox-sep">•</span>
+      [[03 - Peran Pembelajaran & Model|03. Pembelajaran & Model]] <span class="wiki-navbox-sep">•</span>
+      [[04 - Peran Pendidik & Kedisiplinan|04. Pendidik & Kedisiplinan]] <span class="wiki-navbox-sep">•</span>
+      [[05 - Jejak Pendidik & Target|05. Jejak & Target Santri]] <span class="wiki-navbox-sep">•</span>
+      [[06 - Implementasi & Rantai Kausalitas|06. Implementasi & Kausalitas]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Dimensi Jiwa</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Bersatunya Ruh dan Jasad Membentuk Jiwa">Ruh & Jasad</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Ammarah">Ammarah (Jasad)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Lawwamah">Lawwamah (Akal)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Muthmainnah">Muthmainnah (Qalb)</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+      [[Bersatunya Ruh dan Jasad Membentuk Jiwa|Ruh & Jasad]] <span class="wiki-navbox-sep">•</span>
+      [[Ammarah|Ammarah (Jasad)]] <span class="wiki-navbox-sep">•</span>
+      [[Lawwamah|Lawwamah (Akal)]] <span class="wiki-navbox-sep">•</span>
+      [[Muthmainnah|Muthmainnah (Qalb)]] <span class="wiki-navbox-sep">•</span>
+      [[Tangki Cinta]]
     </div>
   </div>
 </div>

@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "GRP_TADARRUJ",
+      "type": "group",
+      "label": "🌱 EMPAT DIMENSI TADARRUJ (PENTAHAPAN ALAMI) MANHAJ PKN",
+      "x": -60,
+      "y": -80,
+      "width": 1640,
+      "height": 780,
+      "color": "6"
+    },
+    {
+      "id": "NODE_DIM1_FASE",
+      "type": "text",
+      "text": "### 1️⃣ Tadarruj Fase Usia & 3 Bahasa\n**Penjenjangan Biologis & Nalar Syar'i**\n- **Thufulah (0–7 th):** 100% *Bahasa Hati* (cinta, pelukan, nol sanksi formal)\n- **Tamyiz (7–10 th):** *Bahasa Lisan* (dialog kausalitas, perintah shalat 3 tahun tanpa pukulan)\n- **Murahaqah (10–14 th):** *Bahasa Tangan* (ta'dib tegas terukur, pisah tempat tidur)\n- **Syabab (15+ th):** *Kemitraan Aqil Baligh* (mukallaf mandiri, teman musyawarah)",
+      "x": -20,
+      "y": 0,
+      "width": 360,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "NODE_DIM2_KURIKULUM",
+      "type": "text",
+      "text": "### 2️⃣ Tadarruj Kurikulum 3T\n**Tangga Belajar Alamiah Berbasis Fitrah**\n- **Ta'rif (Pengenalan Indrawi):** Eksplorasi langsung realitas alam dan peristiwa harian (*sensory-rich*), bebas drill teori abstrak.\n- **Ta'alluf (Pengikatan Cinta Batin):** Mengikat minat spontan dengan tauhid dan kekaguman (*mahabbah*), menumbuhkan gairah belajar mandiri.\n- **Tamkin (Pengokohan Bakat & Amal):** Proyek karya riil berakar Rukun 3A, kemanfaatan bagi ummah (*muslih*).",
+      "x": 380,
+      "y": 0,
+      "width": 360,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "NODE_DIM3_TADIB",
+      "type": "text",
+      "text": "### 3️⃣ Tadarruj Ta'dib & Disiplin\n**Gradasi Penanganan Deviasi Perilaku**\n- **Tingkat 1:** Muhasabah & Doa pendidik (*Ibda' binafsik*)\n- **Tingkat 2:** Nasehat lemah lembut (*Hikmah & Mau'izhah*)\n- **Tingkat 3:** Teguran empat mata rahasia (*Qaulan Sadida*)\n- **Tingkat 4:** Pemisahan fasilitas/sosial sementara (*Hajr Edukatif*)\n- **Tingkat 5:** Ketegasan fisik simbolik tanpa luka/wajah (*Pasca-10 Th & 3 Th Pembiasaan*)",
+      "x": 780,
+      "y": 0,
+      "width": 360,
+      "height": 300,
+      "color": "1"
+    },
+    {
+      "id": "NODE_DIM4_LEMBAGA",
+      "type": "text",
+      "text": "### 4️⃣ Tadarruj Transformasi Lembaga\n**Evolusi Ekosistem Ramah Fitrah**\n- **Tahap 1:** *Tazkiyah Asatidz* (Penyucian niat & jiwa pendidik)\n- **Tahap 2:** *Penataan Kultur* (Menghapus ranking & hukuman mempermalukan)\n- **Tahap 3:** *Kemitraan Rumah-Sekolah* (Satu anak satu kurikulum bersinergi)\n- **Tahap 4:** *Penjaminan Mutu Berkelanjutan* (Observasi adab & bakat 3-level)",
+      "x": 1180,
+      "y": 0,
+      "width": 360,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "NODE_SUMMARY_CORE",
+      "type": "text",
+      "text": "### 🎯 KAIDAH POKOK MANHAJ TADARRUJ:\n> *\"Maa laa yudraku kulluh laa yutraku julluh — Apa yang tidak bisa dicapai seluruhnya jangan ditinggalkan sebagian besarnya.\"*\n\nMengharamkan lompatan tergesa (*isti'jal*) dan menolak pemaksaan instan (*ikrah*) demi menjaga kemurnian fitrah anak.",
+      "x": 280,
+      "y": 420,
+      "width": 960,
+      "height": 180,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_TAD_1",
+      "fromNode": "NODE_DIM1_FASE",
+      "fromSide": "bottom",
+      "toNode": "NODE_SUMMARY_CORE",
+      "toSide": "top",
+      "label": "Fondasi Usia"
+    },
+    {
+      "id": "EDGE_TAD_2",
+      "fromNode": "NODE_DIM2_KURIKULUM",
+      "fromSide": "bottom",
+      "toNode": "NODE_SUMMARY_CORE",
+      "toSide": "top",
+      "label": "Alur Belajar"
+    },
+    {
+      "id": "EDGE_TAD_3",
+      "fromNode": "NODE_DIM3_TADIB",
+      "fromSide": "bottom",
+      "toNode": "NODE_SUMMARY_CORE",
+      "toSide": "top",
+      "label": "Disiplin Syar'i"
+    },
+    {
+      "id": "EDGE_TAD_4",
+      "fromNode": "NODE_DIM4_LEMBAGA",
+      "fromSide": "bottom",
+      "toNode": "NODE_SUMMARY_CORE",
+      "toSide": "top",
+      "label": "Ekosistem"
+    }
+  ]
+}

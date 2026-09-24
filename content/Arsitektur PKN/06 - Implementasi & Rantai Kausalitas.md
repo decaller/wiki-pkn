@@ -159,8 +159,8 @@ Kesadaran amal santri digerakkan oleh energi kasih sayang yang mengalir melalui 
 
 ## 5. Empat Kaidah Emas Implementasi PKN
 
-1. **Pentahapan Alami (*At-Tadarruj*):**
-   Mendidik fitrah mengikuti sunnatullah pertumbuhan biologis dan nalar; tidak menuntut buah sebelum pohon berakar kokoh, dan tidak membebani hisab taklif sebelum waktunya (rujukan: [[4 Kaidah Implementasi]]).
+1. **Pentahapan Alami (*[[Prinsip Tadarruj|At-Tadarruj]]*):**
+   Mendidik fitrah mengikuti sunnatullah pertumbuhan biologis dan nalar melintasi 4 dimensi hierarkis; tidak menuntut buah sebelum pohon berakar kokoh, dan tidak membebani hisab taklif sebelum waktunya (rujukan: [[Prinsip Tadarruj]] dan [[4 Kaidah Implementasi]]).
 2. **Koneksi Sebelum Koreksi (*Al-Washlu qablal Qath'*):**
    Memastikan jalinan hati tersambung erat dan tangki cinta terisi penuh sebelum melayangkan teguran adab atau koreksi disiplin.
 3. **Keteladanan Sebelum Tuntutan (*Al-Qudwah qablad Da'wah*):**
@@ -248,35 +248,35 @@ Untuk menjamin mutu penyelenggaraan sekolah dan pesantren jejaring PKN, dirumusk
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>🧭 Kluster Arsitektur Pendidikan Karakter Nabawiyah (PKN)</span>
-    <span>[ <a href="/content/Peta Navigasi Wiki PKN">Peta Navigasi MOC</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi MOC]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Master Hub</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">00. Master Hub Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/PKN Blueprint Arsitektur Sistem">PKN Blueprint</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Benang Merah Pendidikan">Benang Merah Pendidikan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup Manusia</a>
+      [[00 - Master Arsitektur PKN|00. Master Hub Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]] <span class="wiki-navbox-sep">•</span>
+      [[Benang Merah Pendidikan]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">6 Sektor Arsitektur</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/01 - Komponen & Kurikulum PKN">01. Komponen & Kurikulum</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh">02. Metode Fisik-Ruh</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/03 - Peran Pembelajaran & Model">03. Pembelajaran & Model</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan">04. Pendidik & Kedisiplinan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/05 - Jejak Pendidik & Target">05. Jejak & Target Santri</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas" style="font-weight: 700; color: var(--secondary);">06. Implementasi & Kausalitas</a>
+      [[01 - Komponen & Kurikulum PKN|01. Komponen & Kurikulum]] <span class="wiki-navbox-sep">•</span>
+      [[02 - Metode & Pendekatan Fisik-Ruh|02. Metode Fisik-Ruh]] <span class="wiki-navbox-sep">•</span>
+      [[03 - Peran Pembelajaran & Model|03. Pembelajaran & Model]] <span class="wiki-navbox-sep">•</span>
+      [[04 - Peran Pendidik & Kedisiplinan|04. Pendidik & Kedisiplinan]] <span class="wiki-navbox-sep">•</span>
+      [[05 - Jejak Pendidik & Target|05. Jejak & Target Santri]] <span class="wiki-navbox-sep">•</span>
+      [[06 - Implementasi & Rantai Kausalitas|06. Implementasi & Kausalitas]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Implementasi & Standar</div>
     <div class="wiki-navbox-links">
-      <a href="/content/4 Kaidah Implementasi">4 Kaidah Implementasi</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/4 Elemen Implementasi">4 Elemen Implementasi</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/8 Standar Implementasi PKN">8 Standar Lembaga</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Menumbuhkan Kesadaran Beramal">Kesadaran Beramal</a>
+      [[4 Kaidah Implementasi]] <span class="wiki-navbox-sep">•</span>
+      [[4 Elemen Implementasi]] <span class="wiki-navbox-sep">•</span>
+      [[8 Standar Implementasi PKN|8 Standar Lembaga]] <span class="wiki-navbox-sep">•</span>
+      [[Menumbuhkan Kesadaran Beramal|Kesadaran Beramal]]
     </div>
   </div>
 </div>
@@ -288,6 +288,7 @@ Untuk menjamin mutu penyelenggaraan sekolah dan pesantren jejaring PKN, dirumusk
 <!-- ========================================================================== -->
 
 ## Lihat Pula
+* [[Prinsip Tadarruj]] — Sunnatullah pentahapan alami 4 dimensi dan larangan ketergesaan instan.
 * [[4 Kaidah Implementasi]] — Empat pilar kaidah emas operasional penerapan manhaj PKN.
 * [[4 Elemen Implementasi]] — Ekosistem iman, adab, nalar belajar, dan aktualisasi bakat.
 * [[8 Standar Implementasi PKN]] — Panduan implementasi standar lembaga dan instrumen asesmen sekolah.

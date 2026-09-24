@@ -32,7 +32,7 @@ Halaman bakat dalam Wiki-PKN mendefinisikan potensi fitrah anak bukan sekadar ba
      * *Bab 12 (Pilar 1–40):* Uraian 40 bakat lengkap dalam **9 aspek baku** (Definisi, Teladan Nabi/Sahabat/Salaf, Ciri Kepribadian, Indikator Suka-Bisa-Berguna, Tafrith-Ifrath, dan Terapi Penyeimbang *'Ilaj*).
    - **Spesifikasi OpenAPI & Engine TB40 API:** Data terstruktur dari repositori API Observasi Karakter (`http://localhost:4040/api/tb40`).
 2. **Status Hubungan terhadap Buku Utama PKN (Catatan Presedensi Penting):**
-   - **Buku Utama PKN (Bab 1–7, 9–10):** Buku Babon / Acuan Utama untuk Dasar Pendidikan Islam, Konsep Fitrah, 4 Etape Usia Nabawiyah, Metode Pembelajaran, dan Tashlih/Recovery.
+   - **Buku Utama PKN (Bab 1–7, 9–10):** Buku Babon / Acuan Utama untuk Dasar Pendidikan Islam, Konsep Fitrah, 4 Fase Usia Nabawiyah, Metode Pembelajaran, dan Tashlih/Recovery.
    - **Buku Tafsir Bakat (Bab 1–12):** **Menggantikan secara total (*fully supersedes*) Bab 8 Buku Utama PKN lama** yang dahulu mengutip instrumen barat (ST-30 Ramadhani/Rama Royani, Talents Mapping, dan Multiple Intelligence Gardner).
    - Seluruh instrumen pemetaan bakat di Wiki-PKN kini 100% berakar pada naskah **Buku Tafsir Bakat** karya Ustadz Abdul Kholiq.
 3. **Sirah Sahabat Nabi & Syarah Salaf:** Referensi profil teladan sahabat Nabi dan nukilan kaidah Ibnul Qayyim (*Al-Akhlaqul Hamidah Yuwalidu Ba'dhuha Ba'dha*).

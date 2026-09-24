@@ -234,16 +234,16 @@ Sinergi tripartit (Ayah, Bunda, Guru) bergerak dinamis mengikuti kurva kematanga
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>Hierarki Manhaj Pendidikan Karakter Nabawiyah</span>
-    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Fondasi Manhaj</div>
     <div class="wiki-navbox-links">
-      <a href="/content/index">Beranda</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">Master Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Koneksi Sebelum Koreksi">Koneksi Sebelum Koreksi</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tangki Cinta">Tangki Cinta</a>
+      [[index|Beranda]] <span class="wiki-navbox-sep">•</span>
+      [[00 - Master Arsitektur PKN|Master Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia|Tujuan Hidup]] <span class="wiki-navbox-sep">•</span>
+      [[Bahasa Hati|Koneksi Sebelum Koreksi]] <span class="wiki-navbox-sep">•</span>
+      [[Tangki Cinta]]
     </div>
   </div>
 </div>

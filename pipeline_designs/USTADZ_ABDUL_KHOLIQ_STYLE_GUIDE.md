@@ -26,7 +26,7 @@ flowchart TD
     P1["<b>1. Refleksi Batin & Metafora Fitrah</b><br/>Gugatan fenomena zaman • Analogi pembumi fitrah • Urgensi jiwa"]
     P2["<b>2. Teladan Sirah & Dalil Interaksi Fisik</b><br/>Hadits shahih • Kasih sayang fisik Nabi ﷺ • Syarah ulama salaf"]
     P3["<b>3. Diagnosis Patologi: Tafrith vs Ifrath</b><br/>Jurang meremehkan (defisit) vs memaksakan (obsesif) • Jalan Wasathiyah"]
-    P4["<b>4. Penyelarasan 4 Etape Usia Nabawiyah</b><br/>Thufulah (0-7 th) • Tamyiz (7-10 th) • Murahaqah (10-14 th) • Syabab (15+ th)"]
+    P4["<b>4. Penyelarasan 4 Fase Usia Nabawiyah</b><br/>Thufulah (0-7 th) • Tamyiz (7-10 th) • Murahaqah (10-14 th) • Syabab (15+ th)"]
     P5["<b>5. Protokol Kuratif & Manhaj Tadarruj</b><br/>Tahapan bertahap: Ta'rif (paham) -> Ta'alluf (hati) -> Tamkin (kokoh)"]
     P6["<b>6. Instrumen Terapan & Refleksi Mandiri</b><br/>Rubrik 3-level non-angka • 3 Pertanyaan Muhasabah Malam • 1 Quick Win Aksi Hari Ini"]
 
@@ -40,7 +40,7 @@ flowchart TD
    - Menggali sunnah *amaliyah* Nabi ﷺ bersama anak-anak: mencium cucu, mengusap kepala anak yatim, mendengarkan celoteh burung pipit Abu 'Umair, memangku Usamah bin Zaid.
 3. **Diagnosis Patologi: Tafrith vs Ifrath:**
    - Menunjukkan bahaya ekstrim kiri (*Tafrith:* membiarkan anak liar tanpa batas) dan ekstrim kanan (*Ifrath:* menekan anak dengan target instan dan bentakan).
-4. **Penyelarasan 4 Etape Usia Nabawiyah:**
+4. **Penyelarasan 4 Fase Usia Nabawiyah:**
    - Menegaskan bahwa perlakuan anak tidak boleh disamaratakan. Harus dibagi presisi:
      - **0–7 Tahun (*Thufulah*):** 100% Bahasa Hati, kasih sayang tumpah ruah, belum ada taklif shalat.
      - **7–10 Tahun (*Tamyiz*):** Masuk Bahasa Lisan, perintah shalat dengan lemah lembut, pembiasaan nalar adab.
@@ -92,7 +92,7 @@ Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor` dan `ContentPl
 | 4 | **Dalil Nabawiyah Primer** | 15% | Teks Arab berharakat + terjemahan + relevansi pedagogis. |
 | 5 | **Syarah Ulama Salaf & Narasi Mengalir** | 10% | Rujukan kutipan An-Nawawi, Ibnu Qayyim, atau Al-Ghazali yang tersambung secara kohesif. |
 | 6 | **Diagnosis Tafrith vs Ifrath** | 10% | Analisis eksplisit jurang ekstrim defisit vs berlebihan dan jalan tengah (*wasathiyah*). |
-| 7 | **Penyebutan 4 Etape Usia** | 10% | Penjenjangan bertahap fase *Thufulah / Tamyiz / Murahaqah / Syabab*. |
+| 7 | **Penyebutan 4 Fase Usia** | 10% | Penjenjangan bertahap fase *Thufulah / Tamyiz / Murahaqah / Syabab*. |
 | 8 | **Instrumen Terapan (Rubrik 3-Level, Muhasabah & Quick Win)** | 15% | Rubrik Non-Angka (*Belum*, *Mulai*, *Membudaya*), 3 Pertanyaan Muhasabah, dan 1 Quick Win. |
 | 9 | **Lampiran & Catatan Kaki (Zona 3: Takhrij & Superskrip)** | 10% | Sub-bab "Lihat Pula", rujukan superskrip `[^1]`, takhrij Shamela, dan "Bacaan Lanjutan/Pranala Luar". |
 | 10 | **Navigasi Bawah & Taksonomi (Zona 4: Navbox & Kategori)** | 10% | Kotak navigasi horizontal `.wiki-navbox`, kategori tematik `[[Kategori:...]]`, dan tautan mu'jam. |

@@ -422,14 +422,14 @@ Mintalah pendapat kepadanya jika anda mengalami kesulitan untuk merumuskan visi 
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>Taksonomi 40 Pilar Karakter Nabawiyah (TB-40)</span>
-    <span>[ <a href="/content_flow/">Peta Navigasi</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Rumpun Bekerja Keras</div>
     <div class="wiki-navbox-links">
-      <a href="/content/TB40/index">Indeks TB-40</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Bekerja Keras">Bekerja Keras</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Panduan Asesmen dan Observasi TB40">Panduan Asesmen</a>
+      [[Bakat|Indeks TB-40]] <span class="wiki-navbox-sep">•</span>
+      [[Bekerja Keras]] <span class="wiki-navbox-sep">•</span>
+      [[Panduan Asesmen dan Observasi TB40|Panduan Asesmen]]
     </div>
   </div>
 </div>

@@ -213,14 +213,16 @@ Untuk mengevaluasi ketercapaian kurikulum tanpa terjebak dalam standardisasi ang
 
 ---
 
-## 9. Protokol Operasional & Manhaj Tadarruj Kurikulum
+## 9. Protokol Operasional & Manhaj [[Prinsip Tadarruj|Tadarruj Kurikulum (Tangga 3T)]]
+
+Proses pembelajaran karakter dan ilmu bertingkat meniti tiga anak tangga alami:
 
 1. **Fase Ta'rif (Pengenalan Adab & Cinta — Usia 0–7 Th):**
    Fokus 100% pada penanaman rasa aman, teladan adab orang tua, kecintaan kepada Rasulullah ﷺ, dan eksplorasi sensori-motorik alam terbuka tanpa beban akademis formal ([[Thufulah]]).
 2. **Fase Ta'alluf (Pembiasaan Nalar & Sains Terapan — Usia 7–10 Th):**
-   Mulai melatih shalat 5 waktu dengan kelembutan dialogis, eksplorasi laboratorium sains alam, percobaan mekanika dan kriya, serta observasi awal 40 Bakat Nabawiyah ([[Tamyiz]]).
+   Mulai melatih shalat 5 waktu dengan kelembutan dialogis (rentang toleransi edukatif 3 tahun), eksplorasi laboratorium sains alam, percobaan mekanika dan kriya, serta observasi awal 40 Bakat Nabawiyah ([[Tamyiz]]).
 3. **Fase Tamkin (Penegakan Syariat & Proyek Spesialisasi — Usia 10–14 Th):**
-   Penegakan disiplin syariat secara tegas, pemisahan ranjang tidur, magang kerja mandiri, dan penajaman proyek karya berbasis 6 bakat terkuat santri ([[Murahaqah]]).
+   Penegakan disiplin syariat secara tegas, pemisahan ranjang tidur, magang kerja mandiri, dan penajaman proyek karya berbasis 6 bakat terkuat santri ([[Murahaqah]]). Detail manhaj dapat ditelaah di [[Prinsip Tadarruj]].
 
 ---
 
@@ -252,35 +254,35 @@ Untuk mengevaluasi ketercapaian kurikulum tanpa terjebak dalam standardisasi ang
 <div class="wiki-navbox">
   <div class="wiki-navbox-title">
     <span>🧭 Kluster Arsitektur Pendidikan Karakter Nabawiyah (PKN)</span>
-    <span>[ <a href="/content/Peta Navigasi Wiki PKN">Peta Navigasi MOC</a> ]</span>
+    <span>[ [[Peta Navigasi Wiki PKN|Peta Navigasi MOC]] ]</span>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Master Hub</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/00 - Master Arsitektur PKN">00. Master Hub Arsitektur</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/PKN Blueprint Arsitektur Sistem">PKN Blueprint</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Benang Merah Pendidikan">Benang Merah Pendidikan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Tujuan Hidup Manusia">Tujuan Hidup Manusia</a>
+      [[00 - Master Arsitektur PKN|00. Master Hub Arsitektur]] <span class="wiki-navbox-sep">•</span>
+      [[PKN Blueprint Arsitektur Sistem|PKN Blueprint]] <span class="wiki-navbox-sep">•</span>
+      [[Benang Merah Pendidikan]] <span class="wiki-navbox-sep">•</span>
+      [[Tujuan Hidup Manusia]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">6 Sektor Arsitektur</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Arsitektur PKN/01 - Komponen & Kurikulum PKN" style="font-weight: 700; color: var(--secondary);">01. Komponen & Kurikulum</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/02 - Metode & Pendekatan Fisik-Ruh">02. Metode Fisik-Ruh</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/03 - Peran Pembelajaran & Model">03. Pembelajaran & Model</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/04 - Peran Pendidik & Kedisiplinan">04. Pendidik & Kedisiplinan</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/05 - Jejak Pendidik & Target">05. Jejak & Target Santri</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Arsitektur PKN/06 - Implementasi & Rantai Kausalitas">06. Implementasi & Kausalitas</a>
+      [[01 - Komponen & Kurikulum PKN|01. Komponen & Kurikulum]] <span class="wiki-navbox-sep">•</span>
+      [[02 - Metode & Pendekatan Fisik-Ruh|02. Metode Fisik-Ruh]] <span class="wiki-navbox-sep">•</span>
+      [[03 - Peran Pembelajaran & Model|03. Pembelajaran & Model]] <span class="wiki-navbox-sep">•</span>
+      [[04 - Peran Pendidik & Kedisiplinan|04. Pendidik & Kedisiplinan]] <span class="wiki-navbox-sep">•</span>
+      [[05 - Jejak Pendidik & Target|05. Jejak & Target Santri]] <span class="wiki-navbox-sep">•</span>
+      [[06 - Implementasi & Rantai Kausalitas|06. Implementasi & Kausalitas]]
     </div>
   </div>
   <div class="wiki-navbox-group">
     <div class="wiki-navbox-label">Topik Terkait</div>
     <div class="wiki-navbox-links">
-      <a href="/content/Master Katalog Dalil Al-Quran">Katalog Dalil Qur'an</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Master Katalog Dalil Hadits dan Sunnah">Katalog Dalil Sunnah</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Kuisioner Asesmen 40 Bakat Nabawiyah">Kuisioner 40 Bakat</a> <span class="wiki-navbox-sep">•</span>
-      <a href="/content/Disiplin Positif PKN">Disiplin Positif</a>
+      [[Master Katalog Dalil Al-Quran|Katalog Dalil Qur'an]] <span class="wiki-navbox-sep">•</span>
+      [[Master Katalog Dalil Hadits dan Sunnah|Katalog Dalil Sunnah]] <span class="wiki-navbox-sep">•</span>
+      [[Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner 40 Bakat]] <span class="wiki-navbox-sep">•</span>
+      [[Disiplin Positif PKN|Disiplin Positif]]
     </div>
   </div>
 </div>
@@ -292,6 +294,7 @@ Untuk mengevaluasi ketercapaian kurikulum tanpa terjebak dalam standardisasi ang
 <!-- ========================================================================== -->
 
 ## Lihat Pula
+* [[Prinsip Tadarruj]] — Sunnatullah pentahapan alami dalam 4 dimensi kurikulum dan pengasuhan.
 * [[PKN Blueprint Arsitektur Sistem]] — Blueprint sistemik kurikulum dan komponen manhaj.
 * [[Kuisioner Asesmen 40 Bakat Nabawiyah]] — Instrumen pemetaan 40 pilar bakat fardhu kifayah santri.
 * [[JANGAN MEMBEBANI IMAN ANAK]] — Panduan mendidik aqidah tanpa doktrin kaku yang mematikan fitrah.

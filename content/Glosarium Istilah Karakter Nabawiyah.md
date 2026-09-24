@@ -270,7 +270,10 @@ Untuk menjaga orisinalitas manhaj dan kejelasan transmisi keilmuan, seluruh arti
 ### T
 * <a id="t"></a>**Ta'awun (تَعَاوُن):** Pilar bakat TB-40 ke-25 (rumpun Bekerja Sama). Keterampilan sinergi, senang bergotong-royong, dan kecakapan berkolaborasi dalam menyelesaikan misi-misi kebaikan bersama ([[25-taaawun]]).
 * **Ta'dib (تَأْدِيب):** Pendidikan adab dan pembentukan disiplin batiniah yang mengarahkan jiwa anak untuk tunduk secara sukarela kepada nilai-nilai kehormatan dan syariat Allah ([[Metode Mendidik]]).
-* **Tadarruj (تَدَرُّج):** Kaidah pentahapan yang menghormati proses pertumbuhan alami fitrah dan kematangan akal anak. Beban syariat dan adab diberikan setahap demi setahap sesuai kapasitas fase usianya ([[Perkembangan]]).
+* **Ta'alluf (تَأَلُّف):** Tangga kedua kurikulum belajar alamiah PKN (usia 7–10 tahun). Pengikatan rasa cinta batin (*mahabbah*), ketakjuban tauhid kepada Allah, dan keteraturan nalar adab sebelum pembebanan karya formal ([[Prinsip Tadarruj]]).
+* **Ta'rif (تَعْرِيف):** Tangga pertama kurikulum belajar alamiah PKN (usia 0–7 tahun). Eksplorasi langsung dunia indrawi yang kaya sensomotorik di alam terbuka tanpa hafalan definisi abstrak atau drill lembar kerja ([[Prinsip Tadarruj]]).
+* **Tamkin (تَمْكِين):** Tangga ketiga kurikulum belajar alamiah PKN (usia 10–14 tahun ke atas). Pengokohan karya nyata berbasis 6 bakat terkuat santri (Rukun 3A), pemagangan sosial, dan kontribusi nyata bagi peradaban ([[Prinsip Tadarruj]]).
+* **Tadarruj (تَدَرُّج):** Sunnatullah pentahapan alami dalam Manhaj PKN yang menghormati ritme kematangan biologis dan fitrah anak melintasi 4 dimensi hierarkis: 4 fase usia, kurikulum 3T, disiplin ta'dib bertahap, dan transformasi kelembagaan ([[Prinsip Tadarruj]]).
 * **Tafsir Bakat 40 (TB-40):** Taksonomi 40 potensi karakteristik kepribadian nabawiyah yang disarikan dari Al-Qur'an, Sunnah, dan biografi para sahabat Nabi ﷺ, dirancang untuk memetakan arah karya peradaban santri ([[Bakat]]).
 * **Tamyiz (تَمْيِيز):** Fase kedua usia nabawiyah (usia 7–10 tahun). Gerbang melek nalar dan pembiasaan shalat (*amr* ~5.000 kali pengulangan) melalui dialog persuasif [[Bahasa Lisan]] tanpa ancaman pukulan ([[Tamyiz]]).
 * **Tangki Cinta:** Metafora ruang kebutuhan emosional dasar anak akan rasa aman, penerimaan utuh, dan kasih sayang yang wajib diisi penuh oleh kedua orang tua terutama pada fase usia 0–7 tahun ([[Tangki Cinta]]).
@@ -310,6 +313,12 @@ Untuk menjaga orisinalitas manhaj dan kejelasan transmisi keilmuan, seluruh arti
     <div class="wiki-navbox-label">Pintu Masuk & Indeks</div>
     <div class="wiki-navbox-links">
       [[Home|Beranda Utama]] • [[Peta Navigasi Wiki PKN|Peta Navigasi]] • [[Glosarium Istilah Karakter Nabawiyah|Glosarium Resmi]] • [[FAQ Ringkas]] • [[Referensi Kajian Video]]
+    </div>
+  </div>
+  <div class="wiki-navbox-group">
+    <div class="wiki-navbox-label">Kaidah & Elemen</div>
+    <div class="wiki-navbox-links">
+      [[4 Kaidah Implementasi]] • [[Prinsip Tadarruj]] • [[4 Elemen Implementasi]] • [[8 Standar Implementasi PKN]] • [[Panduan RPP dan Observasi Lapangan]]
     </div>
   </div>
   <div class="wiki-navbox-group">

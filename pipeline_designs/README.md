@@ -195,7 +195,7 @@ flowchart TD
    - Menghubungkan dalil ke **OpenBayan (Qdrant `shamela_11m`)** untuk verifikasi teks Arab berharakat & takhrij nomor hadits.
    - Memanggil **Qaf AI (`qaf_wrapper`)** untuk cross-check kutipan syarah ulama salaf (Ibnul Qayyim, Al-Ghazali, Ibnu Hajar, Asy-Syathibi) guna mencegah takwil serampangan.
 3. **Pedagogical Critic Agent (Praktisi Lapangan & Auditor Gaya Ustadz Abdul Kholiq):**
-   - Menguji kepatuhan naskah terhadap 6 pilar pedagogis Ustadz Abdul Kholiq (lihat [USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)): metafora fitrah (*Koneksi Sebelum Koreksi*, dll.), pembagian 4 etape usia (*Thufulah–Syabab*), diagnosis *Tafrith vs Ifrath*, rubrik observasi 3-level non-angka, 3 pertanyaan muhasabah malam, dan 1 aksi cepat (*Quick Win*). Menolak draf yang hanya berisi teori tanpa instrumen terapan.
+   - Menguji kepatuhan naskah terhadap 6 pilar pedagogis Ustadz Abdul Kholiq (lihat [USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md](USTADZ_ABDUL_KHOLIQ_STYLE_GUIDE.md)): metafora fitrah (*Koneksi Sebelum Koreksi*, dll.), pembagian 4 fase usia (*Thufulah–Syabab*), diagnosis *Tafrith vs Ifrath*, rubrik observasi 3-level non-angka, 3 pertanyaan muhasabah malam, dan 1 aksi cepat (*Quick Win*). Menolak draf yang hanya berisi teori tanpa instrumen terapan.
 4. **Clarity & Language Editor (Redaktur Bahasa):**
    - Mengaudit skor keterbacaan (*readability score*), menyelaraskan ejaan kata serapan Arab (misal: *Shalat, Ifrath, Tafrith, Syaja'ah*), dan menyusun struktur paragraf yang enak dibaca.
 5. **User Journey & Navigation Auditor (Arsitek UX & Kurator Navigasi):**
@@ -214,7 +214,7 @@ Untuk mengeliminasi risiko *flat vector search* yang kerap memotong konteks syar
 flowchart TD
     subgraph L1["<b>Layer 1: Structural Tree (Daftar Isi / TOC)</b>"]
         Doc["Buku / Modul PKN"]
-        Ch["Bab 3: Etape Usia & Disiplin Nabawiyah"]
+        Ch["Bab 3: Fase Usia & Disiplin Nabawiyah"]
         Sec1["Seksi 3.2: Fase Tamyiz (7-10 Th)"]
         Sec2["Seksi 3.3: Fase Murahaqah (10-14 Th)"]
         Doc --> Ch
@@ -255,7 +255,7 @@ Untuk menjamin presisi ilmiah dan mencegah halusinasi saat mereduksi puluhan dok
 ### B. Contextual Document Embeddings (Situational Prefix)
 Setiap potongan teks diberikan awalan situasional 50–100 token sebelum proses embedding (mengurangi *retrieval failure* hingga 35-50%):
 ```text
-[Konteks: Modul Standar PKN | Bab: Etape Usia Nabawiyah | Fase: Murahaqah (10-14 Th) | Topik: Disiplin Shalat]
+[Konteks: Modul Standar PKN | Bab: 4 Fase Usia Nabawiyah | Fase: Murahaqah (10-14 Th) | Topik: Disiplin Shalat]
 "Terapkan sanksi tegas dan pisahkan tempat tidurnya setelah 3 tahun pembiasaan bahasa hati..."
 ```
 

@@ -55,7 +55,7 @@ Istilah **[Nama Istilah]** dalam literatur tarbiyah nabawiyah dan modul Pendidik
 * **[[[Nama Istilah] (Konsep Teologis)]]** — Pemaknaan istilah ini dalam kerangka tauhid dan pemenuhan hak-hak rububiyah Allah ﷻ.
 * **[[[Nama Istilah] (Psikologi Fitrah)]]** — Manifestasi istilah ini dalam struktur jiwa (*Nafs*) dan dorongan potensi bawaan anak.
 
-### Penerapan Lapangan Berdasarkan Etape Usia
+### Penerapan Lapangan Berdasarkan Fase Usia
 * **[[[Nama Istilah] pada Fase Thufulah]]** — Pembiasaan istilah ini untuk anak rentang usia 0–7 tahun berbasis Bahasa Hati.
 * **[[[Nama Istilah] pada Fase Tamyiz]]** — Penanaman kesadaran nalar dan perintah shalat berbatas tegas untuk rentang 7–10 tahun.
 
