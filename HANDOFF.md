@@ -1005,6 +1005,11 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Penggunaan memori RAM container turun dari ~1.000 MB ke **~18 MB** (turun >98%), dan penggunaan CPU VPS berada di level **0%**.
   - Status container di Portainer: **`running (healthy)`**.
   - Verifikasi public live: `https://wikipkn.insanmustaqbal.or.id/` melayani via Nginx 1.31.6 dengan `HTTP/2 200 OK`.
+65. **Milestone 65: Panduan CI/CD Deployment Komprehensif & Konsolidasi Kredensial Lingkungan (`.env`)**:
+    - **Penyusunan Panduan Resmi (`docs/CI_CD_DEPLOYMENT_GUIDE.md`):** Merumuskan panduan teknis mendalam mencakup arsitektur hybrid, alur pipeline GitHub Actions $\to$ GHCR $\to$ Portainer Stack 25 Webhook $\to$ Nginx, perbandingan efisiensi sumber daya (RAM 18 MB vs 1 GB), konfigurasi GitHub Secrets, 3 metode deployment (otomatis, webhook cURL, dan Portainer MCP/Dashboard), serta protokol diagnostik dan pemulihan bencana (*disaster recovery*).
+    - **Konfigurasi Webhook AutoUpdate di Portainer Stack 25:** Menetapkan token webhook UUID `41440fa5-3131-42e1-a2b6-2a7bd675296d` pada Stack 25 Endpoint 3 dengan flag `ForcePullImage: true` dan `ForceUpdate: true`. Menguji pemicu via HTTP POST yang menghasilkan status `HTTP/2 204 No Content` dan berhasil memperbarui container secara otomatis.
+    - **Konsolidasi Seluruh Kredensial Koneksi ke `.env`:** Menyatukan 7 kelompok konfigurasi: Runtime Domain/Ports (`wikipkn.insanmustaqbal.or.id`, container 8080, host 4040, lokal 4045), Git/GHCR Repository, Portainer GitOps & Webhook, Umami Analytics (Stack 27 port 3008), Qdrant Vector DB & OpenBayan, TB-40 Ecosystem, dan Unstructured API.
+    - **Pengamanan Gitignore & Template Sanitasi (`.env.example`):** Mengeluarkan berkas `.env` dari pelacakan git (`git rm --cached .env`), menambahkan proteksi `.env` & `.env.*` di `.gitignore` dan `.dockerignore`, serta memperbarui `.env.example` sebagai referensi konfigurasi publik yang aman.
 
 ---
 

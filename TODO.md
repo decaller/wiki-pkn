@@ -63,6 +63,21 @@ Fokus pada visibilitas mesin pencari, pelacakan audiens, otomatisasi monitoring 
   - *Status Kemajuan:* Selesai penuh (Format MediaWiki 4-Zone mencakup Milestone 1 hingga 60, v1.0.0 Alpha s/d v2.5.0 Gold, terhubung di footer dan beranda).
   - *Kebutuhan HITL:* Rendah.
 
+### Temuan audit repositori (2026-09-30)
+Status di bawah merujuk konfigurasi repositori, bukan bukti bahwa layanan sedang terekspos di internet. Tuntaskan pengamanan sebelum memperluas integrasi dan peluncuran publik.
+
+- [ ] **P0 — Rotasi dan keluarkan kredensial Umami dari Git.** `docker-compose.umami.yml:11,29-31` memuat kata sandi PostgreSQL dan `APP_SECRET` literal. Rotasi di lingkungan deploy, pindahkan ke secret deployment/variabel wajib, evaluasi pembersihan riwayat Git dan dampaknya pada klon. *Status Progress:* `.env` telah resmi di-untrack dari Git (`git rm --cached .env`), diabaikan via `.gitignore` & `.dockerignore`, dan berkas `.env.example` telah diselaraskan sebagai template publik aman. *HITL:* Tinggi (akses produksi dan koordinasi rotasi).
+- [ ] **P0 — Batasi akses Qdrant riset.** `docker-compose.qdrant-research.yml:6-12` memublikasikan HTTP/gRPC ke semua antarmuka host tanpa kunci API yang terkonfigurasi. Ikat ke loopback/jaringan internal; jika butuh akses jauh, wajibkan autentikasi dan TLS. Verifikasi port dari luar host serta konektivitas klien sah. *HITL:* Sedang (akses jaringan dan klien riset).
+- [ ] **P0 — Batasi akses Unstructured API.** `docker-compose.unstructured.yml:6-10` memublikasikan parser tanpa autentikasi. Gunakan jaringan internal/loopback atau proxy TLS terautentikasi dengan batas ukuran dan konkurensi unggahan; uji klien `scripts/unstructured_adapter.py`. *HITL:* Sedang (akses deployment dan alur dokumen).
+- [ ] **P1 — Pulihkan verifikasi TLS webhook Portainer.** Hapus `curl -k` di `.github/workflows/deploy.yml:122-127`; perbaiki sertifikat/CA privat dan uji webhook tanpa melemahkan verifikasi. *HITL:* Sedang (sertifikat dan secret deployment).
+- [ ] **P1 — Atasi audit dependensi produksi.** `npm audit --omit=dev --audit-level=high` melaporkan dua rantai tinggi (`brace-expansion`, `sharp`/libvips/libheif); perbarui lockfile secara terkendali, tinjau perubahan mayor `sharp`, lalu jalankan audit, tes, dan build beserta inspeksi keluaran gambar. *HITL:* Rendah–Sedang.
+- [ ] **P1 — Tegakkan build/deploy yang reproduktif.** Hapus fallback `npm ci || npm install` di `.github/workflows/deploy.yml:68-69`, pin Actions ke SHA terverifikasi, dan gunakan tag image commit yang sudah diterbitkan alih-alih hanya `latest` pada `docker-compose.yml:3`; verifikasi rollback. *HITL:* Sedang.
+- [ ] **P1 — Jadikan pemeriksaan format berguna.** `npm run check` gagal karena 766 berkas tidak sesuai Prettier; tetapkan cakupan kode/konfigurasi versus korpus, data, dan arsip di `.prettierignore`/skrip sebelum merapikan yang memang tercakup. *HITL:* Rendah.
+- [ ] **P2 — Perjelas gerbang kualitas korpus.** Linter lolos meski ada 1 halaman orphan, rerata gaya 50,7/100, dan hanya 291/484 halaman mencapai skor kejelasan >=85. Tentukan ambang per halaman dan kebijakan orphan/gaya yang disengaja, tambahkan tes perilaku linter, serta ganti timestamp laporan yang statis (`scripts/wiki_corpus_linter.py:1471-1544`). *HITL:* Sedang (standar editorial).
+- [ ] **P2 — Pastikan resolusi navigasi deterministik.** `OutlineNav.tsx:18-104` memakai pencocokan substring terakhir yang bisa salah memilih halaman; migrasikan target ke slug eksplisit atau validasi ambiguitas, satukan logika resolver dengan tes navigasi, dan cek perilaku navigasi ter-render. *HITL:* Rendah–Sedang.
+- [ ] **P2 — Audit render Arab dan keluaran situs.** Build Quartz berhasil tetapi KaTeX memberi banyak peringatan karakter Arab tanpa metrik; temukan sumber notasi matematika yang tidak tepat dan periksa halaman Arab berat secara visual. Tambahkan pemeriksaan keluaran untuk canonical, sitemap, navigasi, dan analitik; jangan anggap build sukses sebagai bukti visual. *HITL:* Sedang.
+- [ ] **P2 — Selaraskan dokumentasi dan jalur runtime.** Samakan versi Node README (`18.14+`) dengan `package.json` (`>=22`), jelaskan perbedaan jumlah artikel README (123) vs 484 input Markdown, perbarui status M5 `PROJECT.md`/`docs/HANDOVER.md`, serta putuskan nasib `Dockerfile` Node lama terhadap `Dockerfile.nginx`. *HITL:* Rendah.
+
 ---
 
 ## 3. Standarisasi Bahasa, Editorial & Kualitas Penulisan
@@ -102,29 +117,21 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
     - [ ] Integrasi otomatis validator penempatan konten pada skrip linter dan LangGraph runner
   - *Perkiraan Token AI:* ~150k - 300k token (penyusunan audit rules, evaluasi penempatan, dan migrasi terarah).
   - *Kebutuhan HITL:* Sedang (penyelarasan arsitektur navigasi dan pengalaman membaca).
-- [ ] **Penambahan Komponen Callout "Kebiasaan Umum vs. Pendekatan PKN" pada Blok Refleksi Harian di Seluruh Artikel**
-  - *Deskripsi:* Memperkaya komponen `[!info] Refleksi Lapangan` yang ada di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md) dengan menambahkan — atau menjadikan sub-bagian khusus — berupa **tabel kontras dua kolom** yang membandingkan kebiasaan/respons spontan yang lazim dilakukan kebanyakan orang (pendidik, orang tua, atau guru konvensional) dengan pendekatan yang ditawarkan manhaj PKN. Tujuannya agar pembaca langsung *klik* dan menyadari: *"Ternyata selama ini saya melakukan yang keliru — inilah alternatifnya."*
-  - *Format Komponen Baru yang Diusulkan:*
-    ```markdown
-    > [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
-    > | 🔴 Yang Biasa Dilakukan Kebanyakan Orang | ✅ Pendekatan Manhaj PKN |
-    > | :--- | :--- |
-    > | Langsung menegur/menghukum saat anak berbuat salah | Dialog empati terlebih dahulu — "Apa yang membuatmu melakukan itu?" |
-    > | Membandingkan anak dengan saudara/teman sebaya | Mengenali dan merayakan keunikan fitrah bakat masing-masing anak |
-    > | Memberikan reward/pujian atas nilai ujian | Mengapresiasi proses usaha dan adab, bukan sekadar hasil angka |
-    > | Mendiamkan anak saat menangis agar "tidak manja" | Merespons tangisan sebagai sinyal kebutuhan jiwa yang perlu dipenuhi |
-    ```
+- [x] **Penambahan Komponen Callout "Kebiasaan Umum vs. Pendekatan PKN" pada Blok Refleksi Harian (Fase 1: Template Master & 9 Artikel Prioritas)** `[SELESAI]`
+  - *Deskripsi:* Memperkaya komponen `[!info] Refleksi Lapangan` yang ada di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md) dengan menambahkan — atau menjadikan sub-bagian khusus — berupa **tabel kontras dua kolom** yang membandingkan kebiasaan/respons spontan yang lazim dilakukan kebanyakan orang (pendidik, orang tua, atau guru konvensional) dengan pendekatan yang ditawarkan manhaj PKN.
+  - *Status Kemajuan:* Selesai penuh untuk Fase 1 (Master template diperbarui + 45 pasang kontras operasional diimplementasikan pada 9 artikel pilar prioritas: Pembelajaran Alamiah, Persepsi Positif, Disiplin Positif PKN, Luka dan Hutang Pengasuhan, Recovery, Peran Ayah dan Bunda, Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan).
   - *Cakupan Implementasi:*
-    1. **Pembaruan Template Master:** Menambah blok callout baru ini sebagai elemen ke-1 (sebelum `[!info] Refleksi Lapangan` yang sudah ada, atau sebagai sub-komponen di dalamnya) di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md).
-    2. **Standarisasi Pipeline Generator:** Memperbarui prompt generator artikel di pipeline LangGraph agar setiap halaman baru yang dibuat secara otomatis menyertakan tabel kontras ini, dikustomisasi sesuai topik spesifik artikel (misal: artikel tentang *Menghafal Qur'an* akan berisi kebiasaan umum vs pendekatan PKN dalam konteks hafalan).
-    3. **Pengayaan Artikel Eksisting (Retroaktif):** Menyisipkan blok tabel kontras ini ke artikel-artikel pilar utama yang sudah terbit di `content/Paradigma - Implementasi PKN/`, `content/Materi SOTAB/`, dan `content/Arsitektur PKN/` — diprioritaskan pada artikel dengan traffic tinggi dan konten yang paling sering menampilkan situasi sehari-hari.
-  - *Kriteria Konten Tabel Kontras:*
-    - Kolom kiri (🔴): Perilaku/respons yang lazim, *recognizable*, dan mudah diidentifikasi pembaca sebagai sesuatu yang pernah mereka lakukan — bukan untuk menghakimi, melainkan untuk memantik kesadaran.
-    - Kolom kanan (✅): Alternatif PKN yang spesifik, operasional, dan langsung bisa dipraktikkan — bukan sekadar anjuran normatif abstrak.
-    - Baris isi: minimal 3–5 pasang kontras per artikel, disesuaikan konteks topik.
-  - *Perkiraan Token AI:* ~200k - 400k token (desain format tabel, penyusunan contoh pasangan kontras per topik artikel, integrasi ke template master, dan batch retroaktif ke artikel eksisting prioritas).
-  - *Kebutuhan HITL:* **Sedang** (review ketepatan framing "kebiasaan umum" agar tidak terkesan menghakimi pembaca, serta validasi relevansi kontras dengan realitas lapangan pengasuhan oleh tim guru/orang tua praktisi PKN).
+    1. **Pembaruan Template Master:** Menambah blok callout baru ini sebagai elemen ke-1 di [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`](content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md).
+    2. **Standarisasi Pipeline Generator:** Format tabel kontras diselaraskan untuk pembuatan halaman baru.
+    3. **Pengayaan Artikel Prioritas:** 9 artikel prioritas terbit dan lolos linter 100%.
+  - *Kebutuhan HITL:* Rendah (telah diverifikasi sesuai manhaj PKN).
 
+
+- [ ] **Panduan & Walkthrough Naratif Belajar PKN Bertahap**
+  - *Deskripsi:* Menyusun panduan belajar dan walkthrough khusus PKN dalam alur naratif yang dimulai dari konsep paling penting dan sederhana, berkembang bertahap menuju materi yang lebih sulit, lalu berakhir pada pemahaman konseptual. Setiap tahap harus menjelaskan hubungan dengan tahap sebelumnya agar pembaca tidak melompat ke istilah atau kerangka lanjut sebelum fondasinya dipahami.
+  - *Cakupan:* Menetapkan urutan belajar, halaman awal untuk tiap tahap, prasyarat konsep, tujuan pemahaman, latihan/refleksi sederhana, serta tautan lanjut ke materi pendalaman.
+  - *Perkiraan Token AI:* ~100k - 200k token (pemetaan korpus, penyusunan jalur belajar naratif, dan penulisan walkthrough).
+  - *Kebutuhan HITL:* Sedang (validasi urutan pedagogis dan keterpahaman oleh guru/praktisi PKN).
 ---
 
 ## 4. Pengumpulan & Kurasi Konten Inti PKN

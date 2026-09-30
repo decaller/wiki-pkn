@@ -102,7 +102,22 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
 
 ---
 
-## 5. Rencana Tahap Selanjutnya (Action Items Rekomendasi)
+## 5. Panduan Deployment & Konfigurasi Lingkungan
+
+Panduan komprehensif CI/CD, konfigurasi Portainer, rahasia lingkungan, dan prosedur pemulihan bencana didokumentasikan di:
+👉 **[`docs/CI_CD_DEPLOYMENT_GUIDE.md`](CI_CD_DEPLOYMENT_GUIDE.md)**
+
+* **Berkas Kredensial Lokal:** `.env` (diabaikan oleh git, mencakup seluruh kredensial Portainer Webhook, Umami, Qdrant, TB-40 API, Unstructured API).
+* **Template Kredensial Publik:** `.env.example`.
+* **Portainer AutoUpdate Webhook UUID:** `41440fa5-3131-42e1-a2b6-2a7bd675296d` (Stack 25, Endpoint 3).
+* **Pemicu Manual Webhook:**
+  ```bash
+  curl -k -i -X POST https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/41440fa5-3131-42e1-a2b6-2a7bd675296d
+  ```
+
+---
+
+## 6. Rencana Tahap Selanjutnya (Action Items Rekomendasi)
 
 1. **Jalur Riset & Audit Dalil Parenting (OpenBayan + Qaf AI):**
    - Menjalankan kueri broad-sweeping via OpenBayan (`shamela_11m`, port 6333) untuk tema-tema fikih tarbiyah (*tarbiyatul aulad*, *adabul walad*, *'uqubah*, *taklif*, *fitrah*).
@@ -111,5 +126,5 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
 2. **Jalur Konten Komparasi:**
    - Profil dan review lembaga-lembaga yang mengadopsi PKN serta studi kasus implementasi persekolahan.
    - Halaman dialektika epistemologis: Teori PKN vs Teori Pendidikan Modern.
-3. **Jalur Otomasi Webhook:**
-   - Menambahkan secret `PORTAINER_WEBHOOK_URL` di GitHub repository agar GitHub Actions memicu redeploy Portainer otomatis tanpa perlu klik manual di dashboard Portainer.
+3. **Penyelarasan GitHub Secret:**
+   - Masukkan `PORTAINER_WEBHOOK_URL` ke GitHub Repository Secrets (`Settings -> Secrets and variables -> Actions`) menggunakan nilai dari `.env` agar GitHub Actions memicu redeploy Portainer otomatis pasca-build GHCR.

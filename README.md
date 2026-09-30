@@ -75,6 +75,7 @@ graph TD
 
 | Dokumen | Deskripsi |
 |---|---|
+| ✍️ **[PANDUAN_PENULISAN_KONTEN.md](PANDUAN_PENULISAN_KONTEN.md)** | **Panduan operasional resmi penulisan konten, pemanfaatan database dalil, ekstraksi materi, dan alur kontribusi.** |
 | 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh artikel (100% kepatuhan standar emas). |
 | 📑 **[PRESENTATION_AUDIT_REPORT.md](PRESENTATION_AUDIT_REPORT.md)** | Laporan audit inventaris 145 berkas PDF/PPTX presentasi pelatihan dan tautan cloud Dropbox. |
 | 📖 **[QURAN_DALIL_CATALOG.md](QURAN_DALIL_CATALOG.md)** | Katalog master dalil Al-Qur'an, teks Arab berharakat, dan takhrij Tafsir Ibnu Katsir. |
@@ -117,46 +118,22 @@ Buka peramban di `http://localhost:8888/` untuk menelusuri seluruh basis pengeta
 
 ---
 
-## 5. Panduan Deployment Portainer Stack (Fitur Git)
+## 5. Panduan Deployment CI/CD (GHCR & Portainer Stack 25)
 
-Repositori ini telah dikonfigurasi penuh agar dapat langsung di-*deploy* menggunakan fitur **Portainer Stack (Repository/Git)** dan mendukung kustomisasi nama domain serta port via environment variables (`DOMAIN` dan `PORT`).
+Repositori ini menggunakan arsitektur modern **GitHub Actions CI/CD $\to$ GitHub Container Registry (GHCR) $\to$ Portainer GitOps Webhook** dengan runtime Nginx Alpine ultra-ringan (~18 MB RAM vs ~1 GB Node.js runtime).
 
-### A. Konfigurasi Environment Variables
+> [!tip] 📖 Panduan Lengkap CI/CD
+> Panduan teknis komprehensif, arsitektur, rahasia lingkungan, dan prosedur pemulihan bencana (*disaster recovery*) didokumentasikan di:  
+> 👉 **[`docs/CI_CD_DEPLOYMENT_GUIDE.md`](docs/CI_CD_DEPLOYMENT_GUIDE.md)**
 
-File `.env.example` telah disediakan. Variabel utama yang didukung:
-
-| Variabel | Deskripsi | Default | Contoh Nilai |
-|---|---|---|---|
-| `DOMAIN` | Domain publik untuk canonical URL, OpenGraph metadata, dan sitemap | `localhost:8080` | `wiki.domainanda.com` |
-| `PORT` | Port server Quartz di dalam dan luar container | `8080` | `8080` / `3000` |
-| `HOST_PORT` | Port binding host (opsional jika berbeda dari port container) | `${PORT}` | `80` |
-| `WS_PORT` | Port WebSocket live-reload | `3001` | `3001` |
-
-> [!NOTE]
-> Format `DOMAIN` dapat ditulis dengan atau tanpa `https://` (misal `https://wiki.domainanda.com` atau `wiki.domainanda.com`). Sistem secara otomatis membersihkan awalan protokol dan garis miring penutup.
-
----
-
-### B. Langkah-langkah Deploy di Portainer
-
-1. **Masuk ke Portainer Web UI**
-2. Pilih environment Docker Anda, lalu klik menu **Stacks** di bilah navigasi kiri.
-3. Klik tombol **Add stack** (+).
-4. Pilih metode build **Repository** (Git repository):
-   - **Name:** Beri nama stack, contoh: `wiki-pkn`
-   - **Repository URL:** `https://github.com/decaller/wiki-pkn.git` (atau URL repositori Anda)
-   - **Repository reference:** `refs/heads/main` (atau branch target deployment Anda)
-   - **Compose path:** `docker-compose.yml`
-5. **Konfigurasi GitOps / Automatic Updates (Sangat Direkomendasikan):**
-   - Aktifkan toggle **Automatic updates**.
-   - Pilih **Polling** (misal interval 5m) atau **Webhook**.
-   - Jika menggunakan Webhook, salin Webhook URL yang disediakan Portainer ke pengaturan Webhook repositori GitHub/Gitlab Anda. Setiap kali ada `git push`, Portainer akan otomatis menarik perubahan dan me-rebuild wiki Anda.
-6. **Isi Environment Variables:**
-   - Di bagian bawah, pada kartu **Environment variables**, klik **Add an environment variable**:
-     - `DOMAIN` = `wiki.domainanda.com` (atau domain Anda)
-     - `PORT` = `8080`
-7. Klik tombol **Deploy the stack**.
-8. Portainer akan secara otomatis meng-clone repositori, membangun image container, dan menjalankan stack `wiki-pkn`!
+### Ringkasan Cepat Deployment:
+1. **Penyebaran Otomatis:** Cukup lakukan `git push origin main`. GitHub Actions menjalankan linter korpus, kompilasi Quartz v5, pembuatan image Docker Nginx, dan memicu webhook auto-redeploy Portainer.
+2. **Kredensial Koneksi:** Seluruh kredensial infrastruktur disimpan terpusat di berkas `.env` lokal (termasuk Portainer Webhook, Umami, Qdrant, TB-40 API, Unstructured API). Gunakan `.env.example` sebagai referensi struktur.
+3. **Pemicu Manual Webhook:**
+   ```bash
+   curl -k -i -X POST https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/41440fa5-3131-42e1-a2b6-2a7bd675296d
+   ```
+4. **Situs Produksi:** [https://wikipkn.insanmustaqbal.or.id](https://wikipkn.insanmustaqbal.or.id) (Status: 🟢 Live, Nginx Alpine, HTTP/2 200 OK).
 
 ---
 
