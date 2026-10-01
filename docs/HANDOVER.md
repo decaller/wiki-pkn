@@ -1,7 +1,7 @@
 # Dokumen Handover & Status Sistem Wiki PKN
 
-> **Terakhir Diperbarui:** 24 September 2026, 17:10 WIB  
-> **Status Repositori:** Clean, Sinkron dengan `origin/main` (Commit `6857fd4` / `main`)  
+> **Terakhir Diperbarui:** 1 Oktober 2026 — tambahan handoff perubahan lokal
+> **Status Repositori:** Memuat perubahan lokal; klaim clean/sinkron dan commit historis bukan status saat ini.
 > **Target Produksi:** `https://wikipkn.insanmustaqbal.or.id/` (HTTP/2 200 OK)  
 > **Mesin Platform:** Nginx 1.31 Alpine (Container dari `ghcr.io/decaller/wiki-pkn:latest`), SSG Quartz v5  
 > **Kondisi Server VPS:** CPU 0%, RAM Container ~18 MB (Turun >98% dari konfigurasi Node.js lama)
@@ -13,6 +13,30 @@
 Dokumen ini mencatat klaim dan pengukuran historis saat migrasi Nginx. Pemeriksaan lokal terbaru hanya membuktikan build Quartz dan keluaran statis; kondisi produksi, webhook, dan kesehatan container belum diverifikasi ulang. Gunakan panduan CI/CD untuk memvalidasi deployment sebelum menyatakan perubahan ini aktif di produksi.
 
 Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi saat ini.
+
+### Handoff perubahan lokal — 1 Oktober 2026
+
+**Navigasi seluruh konten**
+
+* Pusat navigasi tetap `content/Peta Navigasi Wiki PKN.md`; tidak dibuat halaman navigasi kedua. Bagian **Indeks Lengkap Seluruh Konten** menyusun seluruh halaman menurut hierarki folder dengan target jalur lengkap, sehingga nama seperti `index.md` tidak saling menimpa.
+* Verifikasi terakhir: 486 Markdown, 117 canvas, dan 1 Bases; 604 target unik ditemukan pada sumber, tanpa target berkas hilang. Angka ini adalah snapshot, bukan konstanta.
+* `content/index.md` memiliki tautan indeks di bagian atas beranda. Bagian tematik lama dipertahankan sebagai panduan membaca; inventaris lengkap berada di blok `BEGIN_COMPLETE_CONTENT_INDEX` / `END_COMPLETE_CONTENT_INDEX`.
+* Jalankan `python3 scripts/update_content_index.py` **sebelum setiap commit**, setelah perubahan struktur konten, dan saat pemeriksaan mingguan. Script hanya mengganti blok inventaris; teks editorial di luar blok dipertahankan. Sertakan perubahan halaman hasilnya pada commit yang relevan.
+* `scripts/generate_obsidian_navigation.py` juga memanggil pembaruan indeks lengkap setelah menulis bagian tematik. Jangan menjalankan generator tematik hanya untuk memperbarui inventaris karena generator itu menulis ulang panduan tematik. Tidak ada scheduler atau hook pre-commit yang dipasang.
+* Pemeriksaan setelah perubahan: `python3 scripts/wiki_corpus_linter.py --check-links`; sebelum rilis: `npx quartz build`, lalu periksa halaman `public/peta-navigasi-wiki-pkn.html`, tautan beranda, dan target indeks pada hasil build. Verifikasi terakhir menghasilkan 0 broken links, 0 orphan; build 486 sumber menghasilkan 2.746 berkas dan sampel halaman diperiksa melalui Chromium. Dua peringatan berkas Toolkit KBM belum terlacak Git tetap terpisah dari keberhasilan build.
+
+**Keandalan rilis dan kualitas situs**
+
+* Workflow memakai `npm ci`, Actions dipin ke SHA, webhook tanpa `curl -k`/`continue-on-error`, dan pemeriksaan commit melalui `/build-version.txt`. Stack masih memakai `latest`; sertifikat, webhook nyata, kesehatan container, pin image, dan rollback produksi belum diuji.
+* Verifikasi kode terakhir sebelum penambahan indeks: `npm run check` lulus, 163 tes JavaScript dan 7 tes linter lulus, audit dependensi produksi 0 kerentanan; linter memakai waktu UTC aktual, kebijakan orphan dan lantai gaya/PICI dengan pengecualian legacy bernama.
+* Resolver navigasi menolak kandidat ambigu; enam kutipan Arab dipindah dari KaTeX menjadi blok RTL. Sampel Chromium mempertahankan harakat serta pemformatan terjemahan. Ini bukan bukti telaah visual/PDF seluruh artikel.
+
+**Blueprint mobile**
+
+* `IDE_APLIKASI_MOBILE_PKN.md` adalah rancangan, bukan aplikasi yang sudah diterapkan. Dokumen dilengkapi hak akses/privasi anak, model data, kontrak sinkronisasi offline, batas asesmen, aksesibilitas, dan gerbang penerimaan pilot.
+* Backend lintas-repositori hanya kandidat integrasi; mobile harus melalui API HTTPS terotorisasi. Jangan menganggap nama kontainer membuktikan kontrak API siap, hasil kartu anak sebagai diagnosis, atau kesamaan bakat dengan Sahabat sebagai hasil tervalidasi.
+
+**Batas operasional:** seluruh bukti di atas lokal. Tidak dilakukan deploy, pemanggilan webhook produksi, atau perubahan layanan produksi. Pertahankan perubahan pengguna di luar cakupan; status pekerjaan lanjutan dan kewajiban berulang dicatat di `TODO.md`.
 
 ---
 
@@ -48,7 +72,7 @@ Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi s
   - Memperbarui master template [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`](file:///home/abuhafi/Project/wiki-pkn/content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md) dengan format tabel 2 kolom.
   - Menginjeksi 45 pasang perbandingan kontras kontekstual pada 9 artikel pilar utama prioritas (*Pembelajaran Alamiah*, *Persepsi Positif*, *Disiplin Positif PKN*, *Luka dan Hutang Pengasuhan*, *Recovery*, *Peran Ayah dan Bunda*, *Bahasa Hati*, *Bahasa Lisan*, *Bahasa Tangan*).
 * **4. Pipeline CI/CD GitHub Actions (`.github/workflows/deploy.yml`):**
-  - Workflow 2 job: `corpus-lint` (Python 3.12) dan `quartz-build` (Node.js 22, Quartz SSG build, image GHCR, webhook Portainer). Pemanggilan webhook saat ini memakai `curl -k` dan `continue-on-error: true`; sukses job tidak menjamin redeploy berhasil.
+  - Workflow 2 job: `corpus-lint` (Python 3.12) dan `quartz-build` (Node.js 22, Quartz SSG build, image GHCR, webhook Portainer). Workflow kini memverifikasi TLS, menggagalkan job bila webhook gagal, dan menunggu commit baru melalui `/build-version.txt`; kesehatan container harus diperiksa tersendiri.
 * **5. Sinkronisasi Navigasi Sidebar & Integritas Repositori:**
   - `nav_structure.json` kini memuat **148 simpul** (120 daun) dengan 100% resolusi fisik (0 broken link, 0 unlinked leaves).
   - 87/87 pengujian unit di `tests/test_nav_structure.py` lulus 100%.
@@ -57,6 +81,23 @@ Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi s
 
 ### C. Milestone 63: Resolusi Tag Leak Warna Hex pada Infobox
 * Mengonversi 1.051 kode warna heksadesimal `#hex` pada atribut style HTML di 461 berkas menjadi format standar `rgb(...)` via [`scripts/fix_style_hex_colors.py`](file:///home/abuhafi/Project/wiki-pkn/scripts/fix_style_hex_colors.py) untuk mencegah parser Quartz OFM membacanya sebagai markdown hashtag.
+
+### D. Milestone 64: Arsitektur Hibrida, 13 Persona IA, Blueprint Mobile & Dewan Syura Karpathy LLM Council
+* **1. Suite Desain & Arsitektur Informasi (`analisis-desain/`):**
+  - Menerbitkan 6 dokumen komprehensif (`01-audit-struktur-saat-ini.md` s/d `06-rencana-aksi-penerapan-persona-interdisipliner.md`) memadukan Psikologi Kognitif, IA/Marketing Komunikasi, Pedagogi Nabawiyah, dan Desain Sistem.
+  - Membangun taksonomi 13 persona (`analisis-desain/persona/`): membedakan peran gender (01a Ayah vs 01b Ibu), 5 fase pendidik (02a Thufulah s/d 02e Dewasa), 2 model tata kelola (03a Formal vs 03b Non-Formal), Santri (04), Pengkaji Kurikulum (05), Siswa (06), dan Masyarakat Umum (07).
+* **2. Pipeline 11: Evaluasi Kualitas Hibrida (Rule-Based + System One):**
+  - Spesifikasi di [`pipeline_designs/11_hybrid_quality_evaluation_system_one.md`](file:///home/abuhafi/Project/wiki-pkn/pipeline_designs/11_hybrid_quality_evaluation_system_one.md).
+  - Skrip pemeriksa berkecepatan tinggi `<10ms` di [`scripts/hybrid_quality_scorer.py`](file:///home/abuhafi/Project/wiki-pkn/scripts/hybrid_quality_scorer.py) dan unit tests di [`tests/test_hybrid_quality_scorer.py`](file:///home/abuhafi/Project/wiki-pkn/tests/test_hybrid_quality_scorer.py).
+* **3. Pipeline 12: Dewan Syura Karpathy LLM Council Architecture:**
+  - Spesifikasi di [`pipeline_designs/12_dewan_syura_llm_council_architecture.md`](file:///home/abuhafi/Project/wiki-pkn/pipeline_designs/12_dewan_syura_llm_council_architecture.md) mengadaptasi 5 lensa Karpathy ke manhaj PKN: Faqih Manhaj (Contrarian), Filosof Fitrah (First Principles), Arsitek Peradaban (Expansionist), Pembaca Awam (Outsider), dan Praktisi KBM (Executor).
+  - Alur 3-tahap musyawarah terotomasi di [`scripts/llm_council.py`](file:///home/abuhafi/Project/wiki-pkn/scripts/llm_council.py) dengan Anonymous Cross-Examination (Peer Review acak A..E) dan Chairman Synthesis.
+  - Unit tests di [`tests/test_llm_council.py`](file:///home/abuhafi/Project/wiki-pkn/tests/test_llm_council.py).
+* **4. Blueprint Aplikasi Mobile PKN:**
+  - Terbit di [`IDE_APLIKASI_MOBILE_PKN.md`](file:///home/abuhafi/Project/wiki-pkn/IDE_APLIKASI_MOBILE_PKN.md) memetakan arsitektur mobile offline-first untuk 5 segmen pengguna dengan perlindungan privasi data anak.
+* **5. Verifikasi Integritas Sistem:**
+  - 121 pengujian unit di `tests/` lulus 100% (5 skipped, 0 fail).
+  - Linter korpus `scripts/wiki_corpus_linter.py` lulus bersih (0 broken links, 0 pelanggaran kosakata, skor Clarity `86.28/100`).
 
 ---
 

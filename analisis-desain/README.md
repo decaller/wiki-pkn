@@ -24,6 +24,7 @@ Berikut adalah rangkaian dokumen evaluasi arsitektur informasi dan desain konten
 | [**04 — Matriks Tugas & Skenario Navigasi**](04-matriks-tugas-dan-skenario-navigasi.md) | Pemetaan matriks 5 persona terhadap 15 skenario tugas riil dan perbandingan jalur klik (*click-path* lama vs. baru). | Spesifikasi UX & Skenario |
 | [**05 — Rencana Validasi & Pengujian**](05-rencana-validasi-dan-pengujian.md) | Protokol validasi empiris: Card Sorting 50 kartu, Tree Testing 10 tugas, moderasi ketergunaan (SUS $\ge 80$), dan kriteria kelulusan. | Protokol Pengujian Metodologis |
 | [**06 — Strategi Konten Interdisipliner & Rencana Aksi**](06-rencana-aksi-penerapan-persona-interdisipliner.md) | Integrasi 4 disiplin ilmu (Psikologi Kognitif, MarKom, Desain Visual, WCAG 2.1) dan alur kerja 5-fase penerapan 13 persona. | Panduan Operasional & Aksi |
+| [**07 — Paket Implementasi Agentic Orchestration**](07-paket-implementasi-agentic-orchestration.md) | Kontrak pilot berorientasi tugas (6 MOC Panduan), batasan bukti, checklist dependensi, dan gates multi-agent. | Paket Eksekusi Pilot & Orkestrasi |
 | [**Persona Pengguna**](persona/README.md) | Profil 13 persona terperinci dalam 5 ranah: Orang Tua (Ayah vs Bunda), Guru Fase Usia (Thufulah, Tamyiz, Murahaqah, Baligh, Dewasa), Pengelola Lembaga (Formal vs Non-Formal), Penelaah/Fasilitator, serta Siswa & Pengembangan Diri. | Hipotesis Desain (`[INFERENCE]`) |
 
 ## Landasan dan batas bukti

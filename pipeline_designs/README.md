@@ -103,6 +103,7 @@ flowchart TD
 | **09** | [09_pipeline_halaman_template_toolkit.md](09_pipeline_halaman_template_toolkit.md) | Instrumen siap pakai (RPP, Lembar Observasi Karakter, Rubrik Non-Angka, AI Prompt) | Dokumen administratif sekolah, formulir evaluasi santri | Rubric Builder, Structured Prompt Crafter, Checklist Normalizer | `Sedang - Tinggi` |
 | **10** | [10_pipeline_halaman_profil_lembaga.md](10_pipeline_halaman_profil_lembaga.md) | Profil lembaga & sekolah mitra, adaptasi kurikulum, dan evaluasi implementasi | Profil sekolah mitra, dokumentasi KBM, wawancara pimpinan | Institutional Profiler, Consent Gatekeeper, Benchmark Engine | `Sedang` |
 | **11** | [11_hybrid_quality_evaluation_system_one.md](11_hybrid_quality_evaluation_system_one.md) | Evaluasi otomatis kualitas tulisan berbasis linter deterministik & model System One (<0.2s) | Draf Markdown hasil generate, parameter style guide | Rule-Based Regex Linter, System One Decision Head (Jev/Laya/Kev), Weighted Aggregator | `Otomatis (Pre-Flight)` |
+| **12** | [12_dewan_syura_llm_council_architecture.md](12_dewan_syura_llm_council_architecture.md) | Musyawarah multi-perspektif Karpathy LLM Council: 5 Lensa Kognitif, Anonymous Peer Review & Chairman Verdict | Topik strategis, draf berisiko tinggi (manhaj, fiqih, kurikulum) | 5 Advisor Lenses (Contrarian, First Principles, Expansionist, Outsider, Executor), Anonymous Reviewer Node, Chairman Node | `Tinggi (Syura Engine)` |
 
 ---
 
@@ -154,9 +155,11 @@ class DocumentProcessingState(TypedDict):
 
 ---
 
-## 5. Arsitektur Multi-Agent Debate & Refinement Loop ("Dewan Musyawarah Redaksi AI")
+## 5. Arsitektur Dewan Syura Multi-Perspektif (Karpathy LLM Council Engine)
 
-Untuk menjamin mutu naskah setara telaah dewan pakar, pipeline mengadopsi pola **Multi-Agent Collaborative Critique & Debate** sebelum naskah diserahkan ke manusia (*HITL Gate*). Empat persona agen berkolaborasi dalam siklus refleksi terkelola:
+Untuk menjamin mutu naskah setara telaah dewan pakar dan memitigasi risiko epistemik pada keputusan berisiko tinggi (*high-stakes decisions*), pipeline mengadopsi metodologi **LLM Council Andrej Karpathy** (lihat detail lengkap pada [`12_dewan_syura_llm_council_architecture.md`](12_dewan_syura_llm_council_architecture.md)). 
+
+Sistem ini beroperasi dalam 3 tahap: **Analisis Mandiri 5 Penasihat**, **Ulasan Sejawat Anonim (*Anonymous Cross-Examination*)**, dan **Sintesis Ketetapan Syura (*Chairman Verdict*)**:
 
 ```mermaid
 flowchart TD
@@ -164,33 +167,38 @@ flowchart TD
         Drafter["📝 Drafter Agent (Perumus Manhaj)<br/>Menyusun draf 9 lapisan anatomi dari korpus mentah"]
     end
 
-    subgraph DEBATE_COUNCIL["2. Dewan Musyawarah Redaksi (Multi-Agent Panel)"]
+    subgraph STAGE_1["2. Tahap 1: Analisis Mandiri 5 Lensa Kognitif (Parallel)"]
         direction TB
-        ShariaAuditor["⚖️ Sharia Auditor Agent (Faqih)<br/>• Audit matan Arab & harakat via Qdrant<br/>• Takhrij kesahihan sanad & syarah salaf<br/>• Mencegah takwil serampangan"]
-        PedagogyCritic["🌱 Pedagogical Critic Agent (Guru Praktisi)<br/>• Uji kelayakan KBM di kelas & rumah<br/>• Tuntutan contoh aplikatif & formula 'ilaj<br/>• Deteksi diksi yang terlalu teoretis"]
-        ClarityRedactor["✍️ Clarity & Language Editor (Redaktur)<br/>• Pemangkasan kalimat berbelit & pasif<br/>• Konsistensi glosarium istilah PKN<br/>• Penataan ritme & keindahan bahasa"]
-        JourneyAuditor["🧭 User Journey & Navigation Auditor (UX Architect)<br/>• Evaluasi kecocokan penempatan konten (Placement)<br/>• Pindahkan rubrik/tips yang salah kamar (Relocate)<br/>• Cegah cognitive overload di Beranda & MOC"]
+        L1["⚖️ Faqih Manhaj (The Contrarian)<br/>Cari titik gagal, ifrath/tafrith, & risiko takwil"]
+        L2["🌱 Filosof Fitrah (First Principles)<br/>Bongkar esensi tauhid & fitrah ke akar hakikat"]
+        L3["🏛️ Arsitek Peradaban (The Expansionist)<br/>Skalabilitas ekosistem & visi peradaban jangka panjang"]
+        L4["👤 Pembaca Awam (The Outsider)<br/>Kacamata orang tua/santri awam tanpa kutukan istilah"]
+        L5["🛠️ Praktisi KBM (The Executor)<br/>Monday Morning Test: Uji kelayakan teknis di kelas"]
     end
 
-    subgraph SUPERVISOR["3. Konsensus & Arbitrasi"]
-        ConsensusNode{"⚖️ Consensus Supervisor Node<br/>Hitung skor kelayakan & agregasi kritik"}
-        RefinePrompt["Perumusan Umpan Balik Perbaikan<br/>(Actionable Revision Notes)"]
+    subgraph STAGE_2["3. Tahap 2: Anonymous Cross-Examination (Peer Review)"]
+        direction TB
+        Shuffle["🔀 Blind Shuffle (Acak Respons A, B, C, D, E)"]
+        BlindReview["Audit Sejawat Anonim:<br/>1. Respons terkuat?<br/>2. Celah (blind spot) terbesar?<br/>3. Apa yang terlewatkan oleh kelima respons?"]
+        Shuffle --> BlindReview
     end
 
-    subgraph FINAL_GATES["4. Validasi Akhir"]
+    subgraph STAGE_3["4. Tahap 3: Chairman Synthesis (Ketetapan Syura)"]
+        ChairmanNode{"📜 Chairman Node (Sintesis Ketetapan)<br/>• Konsensus (Where Council Agrees)<br/>• Khilaf (Where Council Clashes)<br/>• Celah Terbongkar (Blind Spots)<br/>• Rekomendasi Terpilih & 1 Langkah Perdana"}
+    end
+
+    subgraph FINAL_GATES["5. Validasi Akhir"]
         HITLGate{"👤 Gerbang HITL Manusia<br/>(Asatidzah & Tim Kurator)"}
         QuartzPublish["🚀 Terbitkan ke Quartz v5"]
     end
 
-    Drafter --> ShariaAuditor & PedagogyCritic & ClarityRedactor & JourneyAuditor
-    ShariaAuditor & PedagogyCritic & ClarityRedactor & JourneyAuditor --> ConsensusNode
+    Drafter --> L1 & L2 & L3 & L4 & L5
+    L1 & L2 & L3 & L4 & L5 --> Shuffle
+    BlindReview --> ChairmanNode
 
-    ConsensusNode -->|Skor < 0.85 & Round <= 3| RefinePrompt
-    RefinePrompt -->|Revisi Draf Terarah| Drafter
-
-    ConsensusNode -->|Skor >= 0.85 atau Round > 3| HITLGate
+    ChairmanNode -->|Rekomendasi Lengkap| HITLGate
     HITLGate -->|Disetujui| QuartzPublish
-    HITLGate -->|Revisi Manual| Drafter
+    HITLGate -.->|Revisi Berdasarkan Risalah Syura| Drafter
 ```
 
 ### Rincian Peran & Tugas Dewan Agen:
