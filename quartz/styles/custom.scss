@@ -80,10 +80,10 @@ h2.page-title {
     h2.page-title {
       margin: 0 !important;
       flex: 1 1 auto;
-      
+
       a {
         font-size: 1.4rem;
-        
+
         &::before {
           width: 1.9rem;
           height: 1.9rem;
@@ -178,7 +178,9 @@ footer {
     word-break: break-word;
     overflow-wrap: break-word;
 
-    p, li, blockquote {
+    p,
+    li,
+    blockquote {
       word-break: break-word;
       overflow-wrap: break-word;
     }
@@ -226,7 +228,8 @@ article {
 
   article .table-container > table {
     font-size: 0.85rem;
-    th, td {
+    th,
+    td {
       padding: 0.35rem 0.5rem;
     }
   }
@@ -580,5 +583,126 @@ article {
     margin-left: auto;
     font-size: 0.78rem;
     color: var(--gray);
+  }
+}
+
+// Cetak artikel dan template KBM tanpa navigasi situs.
+@media print {
+  @page {
+    size: A4;
+    margin: 16mm;
+  }
+
+  :root {
+    --light: #fff;
+    --lightgray: #ddd;
+    --dark: #111;
+    --darkgray: #222;
+  }
+
+  body {
+    color: #111;
+    background: #fff;
+  }
+
+  .page > #quartz-body {
+    display: block;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page > #quartz-body > .sidebar,
+  .page-header header,
+  .page-header .breadcrumb-container,
+  .page-header .metadata-container,
+  .page-header .content-meta,
+  .page-header .tags,
+  .page-footer,
+  .page > #quartz-body > footer,
+  .wiki-action-bar,
+  .wiki-navbox,
+  .popover,
+  a.transclude-src {
+    display: none !important;
+  }
+
+  .page > #quartz-body > .center {
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page-header {
+    margin: 0;
+  }
+
+  article {
+    overflow: visible;
+    overflow-wrap: anywhere;
+  }
+
+  article [lang="ar"],
+  article [dir="rtl"] {
+    font-family: "Amiri", "Noto Naskh Arabic", "Traditional Arabic", serif;
+    line-height: 1.9;
+    overflow-wrap: normal;
+  }
+
+  article .wiki-infobox {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+    break-inside: auto;
+  }
+
+  article .wiki-infobox-table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  article h1,
+  article h2,
+  article h3,
+  article h4 {
+    break-after: avoid-page;
+  }
+
+  article p,
+  article li {
+    orphans: 2;
+    widows: 2;
+  }
+
+  article .callout,
+  article tr,
+  article figure,
+  article img {
+    break-inside: avoid;
+  }
+
+  article .table-container {
+    overflow: visible;
+  }
+
+  article .table-container > table {
+    width: 100%;
+    margin: 1rem 0;
+    padding: 0;
+    table-layout: fixed;
+  }
+
+  article th,
+  article td {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  article img,
+  article svg {
+    max-width: 100%;
+    height: auto;
   }
 }

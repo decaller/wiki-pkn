@@ -360,13 +360,14 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
 
 ---
 
-> [!info] Refleksi Lapangan: Realitas Penerapan 8 Standar Implementasi PKN
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 8 Standar Implementasi PKN sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Mengadopsi 8 Standar Nasional Pendidikan secara kaku dan sekuler** tanpa menautkannya dengan orientasi kesiapan akil-baligh dan tanggung jawab di hadapan Allah. | **Mentransformasi 8 standar ke dalam kerangka syar'i-fitrah**; menargetkan lulusan yang matang aqil-balighnya, mandiri finansial-sosial, dan kokoh akidahnya. |
+> | **Menilai pemenuhan standar isi kurikulum semata-mata dari habisnya bab buku teks** dan latihan drill mengerjakan lembar soal ujian. | **Menilai keberhasilan dari hidupnya kurikulum peristiwa (*Tarbiyah bil Waqi'*)**, kemampuan santri memecahkan persoalan nyata, dan kesadaran amal mandiri. |
+> | **Asesmen proses belajar dipenuhi angka-angka kuantitatif pemeringkatan 1 s/d 40** yang menyuburkan bibit hasad dan rasa rendah diri antar-santri. | **Menerapkan instrumen observasi kualitatif non-angka (BT, MT, BK, MM)** dan portofolio karya nyata berlandaskan keunikan 40 potensi fitrah (*TB-40*). |
+> | **Standar sarana-prasarana diukur dari kemewahan gedung bertingkat ber-AC** yang memisahkan santri dari tanah, udara segar, dan alam terbuka. | **Mengutamakan sarana ramah fitrah (*nature-based learning*)**; menyediakan ruang eksplorasi tanah, air, kebun, dan aktivitas ketangkasan fisik sunnah. |
+> | **Manajemen sekolah memperlakukan orang tua murid hanya sebagai "sumber dana SPP"** atau konsumen pasif saat pembagian buku rapor semester. | **Menjadikan orang tua sebagai pilar kemitraan utama (*Sinergi Segitiga Emas*)**; menyelenggarakan forum syura berkala dan pendampingan kurikulum rumah yang berkesinambungan. |
 
 > [!warning] Peringatan Risiko: Jebakan Formalitas dalam 8 Standar Implementasi PKN
 > * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.

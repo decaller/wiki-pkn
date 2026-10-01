@@ -985,6 +985,104 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
   - Linter korpus (`python3 scripts/wiki_corpus_linter.py`) lulus bersih (0 broken links, 0 vocabulary violations, skor rata-rata Clarity korpus 86.3/100).
   - Kompilasi `npx quartz build` sukses memproses **484 berkas Markdown** dan menerbitkan **2.713 berkas statis** ke `public/` dengan exit code 0.
 
+### Milestone 63: Sinkronisasi Status, Perluasan Callout Kontras, Bank Cerita Sirah & Apersepsi KBM, Infografis WAG, dan Riset Turats Parenting OpenBayan `[SELESAI]`
+- **Ringkasan Eksekutif:**
+  Milestone 63 menyempurnakan dan memperluas implementasi khazanah pedagogis dan riset turats Wiki PKN melalui 5 aliran kerja simultan:
+  1) Penyelarasan status dokumentasi `TODO.md` terkait capaian M62 (Kaidah Pedagogis Zarkasyi & Firasat Nabawiyah beserta dalil mandirinya);
+  2) Perluasan retroaktif callout kontras refleksi harian (`🔴 Kebiasaan Umum vs. ✅ Pendekatan PKN`) pada 12 artikel pilar inti PKN (total 60 pasang kontras operasional baru, 100% eliminasi placeholder generik);
+  3) Penyusunan dokumen master 4-Zone `Bank Cerita Sirah dan Apersepsi KBM` (12 riwayat shahih/hasan 4 tema kurikulum, inquiry prompts Bahasa Hati, rubrik evaluasi kualitatif non-angka BT-MT-BK-MM, dan SOP KBM 5 menit);
+  4) Penyusunan dokumen `Infografis Ringkasan Materi PKN Siap Sebar` (10 kartu konsep pokok PKN dalam format Dual-Layer responsive dan raw monospace siap salin WhatsApp, serta kalender siar 10 hari);
+  5) Eksekusi riset khazanah turats parenting via OpenBayan (FTS5 SQLite `shamela_corpus.db` & Qdrant `shamela_11m`) di direktori kerja internal `sources/audit_dalil_parenting/` (4 berkas kerja ~80 KB: README & Metodologi, sweeping 22 hadits/atsar terstandar, gap analysis terhadap 86 berkas dalil eksisting, dan rekomendasi pengayaan konten).
+
+- **Rincian Capaian R1 s/d R5:**
+  - **R1: Sinkronisasi Status TODO List:**
+    * Memperbarui status checklist `[x] ... [SELESAI]` pada `TODO.md` baris 145 (Artikel Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi beserta canvas piramida hierarki dan 5 dalil hadits bersanad) dan baris 168 (Artikel Firasat Nabawiyah beserta canvas 3 dimensi dan 2 dalil mandiri: `dalil-firasat-mukmin-cahaya-allah.md` dan `dalil-al-mutawassimin-tanda-kebesaran-allah.md`).
+    * Memastikan konsistensi 100% antara catatan kemajuan proyek dengan kondisi fisik deliverable di repositori.
+  - **R2: Perluasan Retroaktif Callout Kontras Refleksi (12 Artikel Pilar Inti):**
+    * Menginjeksi blok callout standar `> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN` format dua kolom (`> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |`) dengan 5 pasang butir kontras operasional (total 60 pasang kontras baru) pada 12 artikel pilar inti di `content/Paradigma - Implementasi PKN/`:
+      1. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Bersatunya Ruh dan Jasad Membentuk Jiwa.md` (Hakikat Insan)
+      2. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Tujuan Hidup Manusia.md`
+      3. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Belajar.md` (Fitrah Belajar)
+      4. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Kaidah Implementasi.md`
+      5. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Batas Toleransi.md`
+      6. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/Tangki Cinta.md`
+      7. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal.md`
+      8. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Imunitas Sosial.md`
+      9. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/Tazkiyatun Nafs.md`
+      10. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/Peran Guru dan Lembaga Pendidikan.md`
+      11. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Elemen Implementasi.md`
+      12. `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN.md`
+    * Mengeliminasi 100% teks placeholder generik peninggalan skrip lama tanpa sisa.
+    * Bersih total dari istilah asing terlarang (*etape*, *archetype*, *behavioral conditioning*, *punishment*, dll.).
+  - **R3: Penyusunan Dokumen Master "Bank Cerita Sirah & Apersepsi KBM":**
+    * Menerbitkan berkas berstandar MediaWiki 4-Zone di `content/Toolkit KBM/Bank Cerita Sirah dan Apersepsi KBM.md` (549 baris, skor clarity 86.8/100).
+    * Mengintegrasikan 12 riwayat sirah & atsar sahabat shahih/hasan yang dipetakan ke dalam 4 tema pelajaran:
+      1. *Sains / Fenomena Alam Semesta:* Gerhana matahari & wafatnya Ibrahim (HR. Bukhari 1044, Muslim 901), Penggalian Khandaq & batu keras (HR. Bukhari 4101), Air memancar dari sela jemari Nabi ﷺ (HR. Bukhari 3576, Muslim 1856).
+      2. *Ilmu Sosial / Interaksi Manusia & Muamalah:* Hilful Fudhul (Musnad Ahmad 1655, Al-Adab Al-Mufrad 567), Piagam Madinah (Ibnu Hisyam 1/501, Al-Amwal 517), Pembebasan Salman Al-Farisi (Musnad Ahmad 23737).
+      3. *Matematika / Hitungan Teratur, Waktu & Waris:* Ghanimah Hunain & Takaran Wasathiyah (HR. Bukhari 4330, Muslim 1059), Penentuan Hilal Awal Bulan & Astronomi Nabawi (HR. Bukhari 1913, Muslim 1080), Garis-Garis Ajal & Harapan Ibnu Mas'ud (HR. Bukhari 6417).
+      4. *Adab Keseharian & Interaksi Personal:* 3 Kaidah Makan Umar bin Abi Salamah (HR. Bukhari 5376, Muslim 2022), Izin Mengetuk Pintu 3 Kali Abu Musa & Umar (HR. Bukhari 6245, Muslim 2153), Menjaga Rahasia Anas bin Malik & Ummu Sulaim (HR. Bukhari 6289, Muslim 2482).
+    * Menyediakan *Inquiry Prompts* 3 tingkat (Afeksi Kalbu, Tadabbur Nalar/Kausalitas, Komitmen Amal Lapangan), *Rubrik Refleksi Adab Kualitatif* 4 jenjang non-angka (Belum Terlihat [BT], Mulai Tumbuh [MT], Berkembang Konsisten [BK], Membudaya Teladan [MM]), serta SOP 5 Menit Pembuka KBM bagi pendidik.
+    * Takhrij dalil berharakat lengkap dengan syarah ulama salaf (Ibnu Hajar, An-Nawawi, Ibnul Qayyim).
+  - **R4: Pembuatan Lembar Ringkasan Materi PKN Siap Sebar (Format WAG / Mobile-Friendly):**
+    * Menerbitkan berkas berstandar MediaWiki 4-Zone di `content/Toolkit KBM/Infografis Ringkasan Materi PKN Siap Sebar.md` (366 baris, skor clarity 87.2/100).
+    * Memuat 10 kartu konsep pokok PKN dalam format Dual-Layer (tampilan visual responsif mobile web + blok teks raw monospace siap salin WhatsApp dengan formatting `*bold*` dan `_italic_`):
+      1. Kartu 01: Hakikat Insan — Jasad, Ruh, Akal, dan Trilogi Jiwa
+      2. Kartu 02: Fitrah Insan — Anak Bukan Kertas Kosong
+      3. Kartu 03: Adab Sebelum Ilmu — Menyiapkan Wadah Sebelum Menuang Air
+      4. Kartu 04: Bahasa Hati — Koneksi Sebelum Koreksi
+      5. Kartu 05: 4 Kaidah Implementasi PKN — Kompas Konsistensi Tarbiyah
+      6. Kartu 06: Firasat Nabawiyah — Membaca Potensi Anak Tanpa Skor Angka
+      7. Kartu 07: Peran Ayah dan Bunda — Sinergi Dua Sayap Peradaban
+      8. Kartu 08: Pembelajaran Alamiah — Menembus Sekat Dinding Kelas
+      9. Kartu 09: Batas Toleransi (*Al-Hima*) & Restorative Ta'dib
+      10. Kartu 10: Tri Sentra Pendidikan & Imunitas Sosial
+    * Dilengkapi Panduan Jadwal Siar 10 Hari (Broadcast Calendar) untuk kemitraan sekolah dan rumah.
+  - **R5: Dokumen Kerja Internal: Riset Khazanah Turats Parenting via OpenBayan:**
+    * Membangun direktori riset internal `sources/audit_dalil_parenting/` berisi 4 berkas komprehensif (~80 KB):
+      1. `00_README_dan_Metodologi.md` (103 baris): Alur riset dual-engine retrieval (SQLite FTS5 + Dense Qdrant Cosine), protokol kualifikasi sanad hadits shahih/hasan, taksonomi 7 klaster tematik tarbiyah nabawiyah, dan batasan analisis syar'i.
+      2. `01_sweeping_hadits_tarbiyah.md` (252 baris): 22 entri hadits dan atsar lengkap terstandar (`DALIL-SWEEP-01` s/d `DALIL-SWEEP-22`) berharakat lengkap, takhrij kitab & nomor hadits, derajat sanad, terjemahan resmi, dan kutipan syarah ulama salaf (*Fathul Bari*, *Syarah Shahih Muslim Nawawi*, *Umdatul Qari*, *Syarah Ibnu Utsaimin*, *Dalilul Falihin*, *Manar Al-Qari*, *Tuhfatul Maudud*).
+      3. `04_gap_analysis_belum_disebutkan.md` (112 baris): Analisis komparatif terhadap 86 berkas fisik di `content/Dalil/`, membedah 6 gap kunci (Hadits Keadilan Hibah Nu'man bin Basyir, Hadits Larangan Mendoakan Buruk Anak, Atsar Tasyaabi 0–7 tahun, Atsar Wasiat Ta'lim & Ta'dib Ali bin Abi Thalib, Hadits Kaffu Shubyan waktu maghrib, dan Kaidah Batasan Dharb Ta'dib Syar'i vs Kekerasan Fisik).
+      4. `06_rekomendasi_pengayaan_konten.md` (126 baris): Blueprint teknis penerbitan 6 halaman dalil mandiri baru di `content/Dalil/` serta matriks pengayaan 10 artikel pilar inti di `content/Paradigma - Implementasi PKN/`.
+    * Memastikan 0 vocabulary violations pada seluruh naskah riset internal.
+  - **Sinkronisasi Navigasi Sidebar & Integritas Unit Test:**
+    * Menambahkan 2 entri leaf node pada `nav_structure.json` di bawah klaster `"Template & Toolkit KBM Pendidik"`: `"Bank Cerita Sirah dan Apersepsi KBM"` dan `"Infografis Ringkasan Materi PKN Siap Sebar"`.
+    * Memperbarui assertion pada `tests/test_nav_structure.py`: total node naik dari 148 $\to$ 150 node, dan leaf node naik dari 120 $\to$ 122 node (0 unlinked leaf, 0 broken link).
+    * Menyempurnakan penanganan import opsional pada `tests/test_pkn_retrieval.py` dengan isolasi `try...except ImportError` dan `@unittest.skipUnless(HAS_QDRANT, "qdrant_client is not installed in the current Python environment")` sehingga eksekusi `python3 -m unittest discover tests` lulus 100% (exit code 0) secara universal.
+
+- **Metrik Kualitas:**
+  - **Broken Links:** 0 broken internal links (Link integrity 100% sound, audit via `scripts/wiki_corpus_linter.py --check-links`).
+  - **Istilah Terlarang (Vocabulary Guard):** 0 prohibited term occurrences (100% manhaj-pure, bebas dari kata *etape*, *archetype*, *behavioral conditioning*, *punishment*, *reward and punishment*, *parenting permisif/otoriter*, *tabula rasa*, dan *cliftonstrengths*).
+  - **Clarity Score:** Rata-rata korpus mencapai **86.32/100** (melampaui target ambang batas $\ge 85.0/100$, 292/486 file $\ge 85.0$).
+  - **Unit Tests Passed:** 100% Passed. Full test suite discovery (`python3 -m unittest discover tests`) lolos 100% tanpa error maupun failure (106 pengujian total; 101 passed, 5 safely skipped di Python sistem akibat ketiadaan `qdrant_client`; 106/106 passed di lingkungan virtualenv).
+  - **Quartz Build:** Exit code 0 (486 Markdown input files diproses, 2.746 file statis terbit ke `public/`).
+
+- **Daftar Berkas Baru & Berkas yang Dimodifikasi:**
+  - *Berkas Baru:*
+    1. `content/Toolkit KBM/Bank Cerita Sirah dan Apersepsi KBM.md`
+    2. `content/Toolkit KBM/Infografis Ringkasan Materi PKN Siap Sebar.md`
+    3. `sources/audit_dalil_parenting/00_README_dan_Metodologi.md`
+    4. `sources/audit_dalil_parenting/01_sweeping_hadits_tarbiyah.md`
+    5. `sources/audit_dalil_parenting/04_gap_analysis_belum_disebutkan.md`
+    6. `sources/audit_dalil_parenting/06_rekomendasi_pengayaan_konten.md`
+  - *Berkas Dimodifikasi:*
+    1. `TODO.md` (Sinkronisasi status M62 Zarkasyi & Firasat, M63 Sirah, Infografis WAG, Riset Turats, dan ringkasan M63).
+    2. `HANDOFF.md` (Pencatatan rincian capaian Milestone 63 dan pembaruan tabel status operasional).
+    3. `nav_structure.json` (Penambahan 2 leaf node Toolkit KBM, total 150 nodes / 122 leaves).
+    4. `tests/test_nav_structure.py` (Sinkronisasi batas assertion node 150 dan leaf 122).
+    5. 12 artikel pilar inti PKN di `content/Paradigma - Implementasi PKN/` (Injeksi callout kontras refleksi 2 kolom dan eliminasi placeholder generik):
+       - `content/Paradigma - Implementasi PKN/.../Insan/Bersatunya Ruh dan Jasad Membentuk Jiwa.md`
+       - `content/Paradigma - Implementasi PKN/.../Insan/Tujuan Hidup Manusia.md`
+       - `content/Paradigma - Implementasi PKN/.../Insan/Fitrah (Karakter)/Belajar.md`
+       - `content/Paradigma - Implementasi PKN/.../Implementasi/Kaidah & Elemen/4 Kaidah Implementasi.md`
+       - `content/Paradigma - Implementasi PKN/.../Pendidikan Ideal/Batas Toleransi.md`
+       - `content/Paradigma - Implementasi PKN/.../Insan/Fitrah (Karakter)/Iman/Tangki Cinta.md`
+       - `content/Paradigma - Implementasi PKN/.../Pendidikan Ideal/Menumbuhkan Kesadaran Beramal.md`
+       - `content/Paradigma - Implementasi PKN/.../Pendidikan Ideal/Imunitas Sosial.md`
+       - `content/Paradigma - Implementasi PKN/.../Implementasi/Internal & Eksternal/Tazkiyatun Nafs.md`
+       - `content/Paradigma - Implementasi PKN/.../Implementasi/Peran & Tanggung Jawab/Peran Guru dan Lembaga Pendidikan.md`
+       - `content/Paradigma - Implementasi PKN/.../Implementasi/Kaidah & Elemen/4 Elemen Implementasi.md`
+       - `content/Paradigma - Implementasi PKN/.../Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN.md`
+
 ### Milestone 64: Migrasi Runtime Produksi ke Docker Image GHCR (Nginx Alpine Anti-Lag) `[SELESAI]`
 - **Eliminasi 100% Beban Kompilasi VPS:**
   - Mentransformasi arsitektur runtime container produksi dari image monolithic Node.js (`node:22-slim` ~1.2 GB yang menjalankan `npx quartz build --serve` dengan lonjakan CPU 100% dan RAM ~1 GB) menjadi **Nginx Alpine murni** (`nginx:alpine` ~20 MB compressed, ~66 MB uncompressed).
@@ -1020,18 +1118,18 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
 | **Server Runtime** | 🟢 **Nginx 1.31.6 Alpine** | RAM: ~18 MB, CPU: 0%, Clean URLs & Gzip Compression aktif |
 | **Container Registry** | 🟢 **GHCR Public Image** | `ghcr.io/decaller/wiki-pkn:latest` (Image size: ~20 MB compressed) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 484 berkas Markdown terproses, 2.713 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 486 berkas Markdown terproses, 2.746 berkas web statis terbit |
 | **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 106 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
-| **Sidebar Navigation** | 🟢 **148 Simpul Aktif (120 Daun)** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
+| **Sidebar Navigation** | 🟢 **150 Simpul Aktif (122 Daun)** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
 | **Halaman Rilis / Changelog** | 🟢 **Terbit Publik** | `/changelog` (`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`) |
-| **Toolkit & Template KBM** | 🟢 **6 Dokumen Terbit** | `content/Toolkit KBM/` (RPP 1 Lembar, Observasi 19 Butir, Prompt AI) |
+| **Toolkit & Template KBM** | 🟢 **8 Dokumen Terbit** | `content/Toolkit KBM/` (RPP 1 Lembar, Observasi 19 Butir, Prompt AI, Bank Cerita Sirah, Infografis WAG) |
 | **Katalog Dalil Mandiri** | 🟢 **82+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
 | **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
-| **Callout Kontras Refleksi** | 🟢 **10 Berkas (45 Pasang)** | Master Template & 9 Artikel Prioritas (`🔴 vs ✅`) |
+| **Callout Kontras Refleksi** | 🟢 **22 Berkas (105 Pasang)** | Master Template, 9 Artikel Prioritas M62, & 12 Artikel Pilar Inti M63 (`🔴 vs ✅`) |
 | **Pipeline CI/CD** | 🟢 **GitHub Actions Active** | `.github/workflows/deploy.yml` (Linter $\to$ Quartz Build $\to$ Push GHCR) |
 | **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
-| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.3/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 87 tests) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 484/484 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
+| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.32/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 106 unit tests discovery passed 100%) |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 486/486 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps (Healthy)** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
 
 

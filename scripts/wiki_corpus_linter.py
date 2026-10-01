@@ -27,6 +27,7 @@ import sys
 import re
 import json
 import argparse
+from datetime import datetime, timezone
 from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Set, Optional, Any
 
@@ -36,6 +37,42 @@ from typing import Dict, List, Tuple, Set, Optional, Any
 
 DEFAULT_CONTENT_DIR = "content"
 DEFAULT_MIN_CLARITY = 85.0
+# Hard per-page floors are deliberately lower than the editorial targets (85 PICI,
+# 100 style). Existing exceptions are measured on the 484-page corpus; new pages
+# never inherit them. Raise these floors as the legacy pages are improved.
+MIN_CLARITY_PAGE = 60.0
+MIN_STYLE_PAGE = 20.0
+CLARITY_LEGACY_FLOORS = {
+    "index.md": 55.0,
+    "Materi SOTAB.md": 35.0,
+    "Kajian Video.md": 35.0,
+    "Referensi/Referensi Tambahan Buku Cetak.md": 48.6,
+    "Referensi/Pengembangan Software dan Ekosistem Digital PKN.md": 56.0,
+    "Referensi/Tentang Aplikasi Wiki PKN.md": 39.0,
+    "Referensi/Catatan Rilis dan Pembaruan Sistem.md": 49.4,
+    "Peta Navigasi Wiki PKN.md": 40.0,
+}
+STYLE_LEGACY_FLOORS = {
+    "Materi SOTAB.md": 0.0,
+    "Kajian Video.md": 0.0,
+    "Referensi/index.md": 0.0,
+    "Referensi/Panduan Kontribusi.md": 10.0,
+    "Referensi/Bahan Tayang & Slide PPTX.md": 10.0,
+    "Referensi/Korpus Dalil & Atsar Klasik.md": 10.0,
+    "Referensi/Tentang Aplikasi Wiki PKN.md": 10.0,
+}
+# Catalog hub: currently reachable through other navigation, not wikilinks.
+ALLOWED_ORPHANS = {"Referensi/Tokoh & Pemikiran/index.md"}
+
+
+def page_floor_failures(files_data: Dict[str, Any], floor: float,
+                        legacy_floors: Dict[str, float], score_key: str) -> List[Dict[str, Any]]:
+    """Report pages below their hard floor; legacy exemptions are path-specific."""
+    return [
+        {"file": path, "score": data[score_key], "minimum": legacy_floors.get(path, floor)}
+        for path, data in sorted(files_data.items())
+        if data[score_key] < legacy_floors.get(path, floor)
+    ]
 
 # Files exclusively owned by other active workers - protected from auto-fixing
 RESTRICTED_WRITE_PATTERNS = [
@@ -1321,7 +1358,7 @@ def generate_markdown_report(report_data: Dict[str, Any]) -> str:
     broken_targets_count = link_res.get("broken_targets_count", 0)
     orphan_count = link_res.get("orphan_count", 0)
     md.append(f"| Target Broken Wikilinks | **{broken_targets_count}** | 0 | {'✅ LULUS' if broken_targets_count == 0 else '❌ PERLU PERBAIKAN'} |")
-    md.append(f"| Halaman Yatim (Orphan Pages) | **{orphan_count}** | Minim | {'ℹ️ INFO'} |")
+    md.append(f"| Halaman Yatim (Orphan Pages) | **{orphan_count}** | Pengecualian bernama saja | {'❌ PERLU PERBAIKAN' if link_res.get('unexpected_orphans') else '✅ LULUS'} |")
 
     vocab_res = report_data.get("vocabulary_guard", {})
     vocab_violations = vocab_res.get("total_violations", 0)
@@ -1329,12 +1366,18 @@ def generate_markdown_report(report_data: Dict[str, Any]) -> str:
 
     style_res = report_data.get("pedagogical_style", {})
     avg_style = style_res.get("average_score", 0.0)
-    md.append(f"| Kepatuhan Gaya Pedagogis (10 Poin) | **{avg_style}/100** | Otoritatif | {'ℹ️ INFO'} |")
+    md.append(f"| Gaya di bawah lantai per halaman | **{len(style_res.get('below_page_floor', []))}** | 0 (umum ≥ {MIN_STYLE_PAGE}) | {'❌ PERLU PERBAIKAN' if style_res.get('below_page_floor') else '✅ LULUS'} |")
+    md.append(f"| Rata-Rata Gaya Pedagogis | **{avg_style}/100** | 100 editorial | ℹ️ INFO |")
 
     clarity_res = report_data.get("indonesian_clarity", {})
     avg_clarity = clarity_res.get("average_clarity", 0.0)
     min_clarity = clarity_res.get("min_clarity_threshold", DEFAULT_MIN_CLARITY)
     md.append(f"| Rata-Rata PKN Indonesian Clarity (PICI) | **{avg_clarity}/100** | ≥ {min_clarity}/100 | {'✅ LULUS' if avg_clarity >= min_clarity else '❌ DI BAWAH TARGET'} |")
+    md.append(f"| Kejelasan di bawah lantai per halaman | **{len(clarity_res.get('below_page_floor', []))}** | 0 (umum ≥ {MIN_CLARITY_PAGE}) | {'❌ PERLU PERBAIKAN' if clarity_res.get('below_page_floor') else '✅ LULUS'} |")
+    md.append("\n**Kebijakan:** halaman baru wajib memiliki inbound wikilink (kecuali `index.md`), gaya ≥ 20 dan PICI ≥ 60. Korpus tetap ditargetkan rata-rata PICI ≥ 85; target editorial per halaman PICI ≥ 85 dan gaya 100 dilaporkan, bukan syarat keras. Pengecualian legacy hanya berlaku untuk path dan lantai skor yang tercatat di `policy` pada laporan JSON; penurunan di bawah lantai itu gagal.\n")
+    md.append(f"**Pengecualian orphan:** {', '.join(f'`{path}`' for path in sorted(ALLOWED_ORPHANS))}.\n")
+    if report_data.get("gate_failures"):
+        md.append(f"**Gerbang gagal:** {', '.join(report_data['gate_failures'])}.\n")
     md.append("\n---\n")
 
     # Link Integrity Details
@@ -1357,6 +1400,8 @@ def generate_markdown_report(report_data: Dict[str, Any]) -> str:
         if orphan_count > 15:
             md.append(f"- *... dan {orphan_count - 15} berkas lainnya.*")
         md.append("\n")
+    for page in link_res.get("unexpected_orphans", []):
+        md.append(f"- ❌ Orphan di luar pengecualian: `{page}`")
 
     # Vocabulary Guard Details
     md.append("---\n")
@@ -1393,6 +1438,12 @@ def generate_markdown_report(report_data: Dict[str, Any]) -> str:
     md.append("## 5. Audit Gaya Pedagogis Ustadz Abdul Kholiq\n")
     md.append(f"- **Rata-rata Skor Kepatuhan:** **{avg_style} / 100**\n")
     md.append(f"- **Berkas Standar Emas (100/100):** {style_res.get('perfect_100_count', 0)} berkas\n")
+    for name, result in (("Gaya", style_res), ("Kejelasan", clarity_res)):
+        failures = result.get("below_page_floor", [])
+        if failures:
+            md.append(f"\n### {name}: halaman di bawah lantai wajib ({len(failures)})\n")
+            for item in failures:
+                md.append(f"- `{item['file']}`: {item['score']} < {item['minimum']}")
 
     return "\n".join(md)
 
@@ -1470,8 +1521,17 @@ def main():
 
     report_payload: Dict[str, Any] = {
         "content_dir": content_dir,
-        "timestamp": "2026-09-23T04:45:00+07:00",
-        "passed": True
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "passed": True,
+        "gate_failures": [],
+        "policy": {
+            "orphan_allowlist": sorted(ALLOWED_ORPHANS),
+            "style_page_floor": MIN_STYLE_PAGE,
+            "style_legacy_floors": STYLE_LEGACY_FLOORS,
+            "clarity_page_floor": MIN_CLARITY_PAGE,
+            "clarity_legacy_floors": CLARITY_LEGACY_FLOORS,
+            "clarity_average_target": args.min_clarity,
+        },
     }
 
     # 1. LINK INTEGRITY
@@ -1485,9 +1545,15 @@ def main():
             "orphan_count": len(orphans),
             "orphan_pages": orphans
         }
+        unexpected_orphans = sorted(set(orphans) - ALLOWED_ORPHANS)
+        report_payload["link_integrity"]["unexpected_orphans"] = unexpected_orphans
+        if unexpected_orphans:
+            report_payload["gate_failures"].append("orphan_pages")
+            print(f"   ❌ Unexpected orphan pages: {unexpected_orphans}")
         print(f"   Broken wikilink targets: {len(broken_links)}")
         if broken_links:
             report_payload["passed"] = False
+            report_payload["gate_failures"].append("broken_links")
             for target, occs in list(broken_links.items())[:10]:
                 print(f"   ❌ [[{target}]] ({len(occs)}x, e.g. {occs[0]['file']}:{occs[0]['line']})")
             if len(broken_links) > 10:
@@ -1524,6 +1590,12 @@ def main():
         style_auditor = PedagogicalStyleAuditor(content_dir)
         style_res = style_auditor.audit_corpus()
         report_payload["pedagogical_style"] = style_res
+        style_res["below_page_floor"] = page_floor_failures(
+            style_res["files_data"], MIN_STYLE_PAGE, STYLE_LEGACY_FLOORS, "score"
+        )
+        if style_res["below_page_floor"]:
+            report_payload["gate_failures"].append("style_page_floor")
+            print(f"   ❌ Pages below style floor: {len(style_res['below_page_floor'])}")
         print(f"   Average Style Score: {style_res['average_score']}/100")
         print(f"   Perfect Gold Standard Pages (100/100): {style_res['perfect_100_count']} files")
         print()
@@ -1535,14 +1607,23 @@ def main():
         clarity_res = clarity_calc.audit_corpus(min_clarity=args.min_clarity)
         clarity_res["min_clarity_threshold"] = args.min_clarity
         report_payload["indonesian_clarity"] = clarity_res
+        clarity_res["below_page_floor"] = page_floor_failures(
+            clarity_res["files_data"], MIN_CLARITY_PAGE, CLARITY_LEGACY_FLOORS, "total_score"
+        )
+        if clarity_res["below_page_floor"]:
+            report_payload["gate_failures"].append("clarity_page_floor")
+            print(f"   ❌ Pages below clarity floor: {len(clarity_res['below_page_floor'])}")
         print(f"   Corpus Average Clarity Score: {clarity_res['average_clarity']}/100")
         print(f"   Files meeting target (≥ {args.min_clarity}): {clarity_res['pass_count']}/{clarity_res['total_files']} ({clarity_res['pass_percentage']}%)")
         if clarity_res["average_clarity"] < args.min_clarity:
             report_payload["passed"] = False
+            report_payload["gate_failures"].append("clarity_average")
             print(f"   ❌ Warning: Average clarity is below target threshold ({args.min_clarity})!")
         else:
             print(f"   ✅ Target achieved! Average clarity is {clarity_res['average_clarity']}/100.")
         print()
+
+    report_payload["passed"] = report_payload["passed"] and not report_payload["gate_failures"]
 
     # Write output reports
     if args.json_out:

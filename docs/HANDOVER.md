@@ -10,9 +10,9 @@
 
 ## 1. Ringkasan Eksekutif (Executive Summary)
 
-Seluruh pembenahan teknis, penulisan konten filosofis-pedagogis (Kaidah Zarkasyi & Firasat Nabawiyah), integrasi komponen tabel kontras refleksi, audit linter korpus, serta **migrasi total arsitektur deployment produksi ke GitHub Container Registry (GHCR) berbasis Nginx Alpine** telah selesai dikerjakan secara paripurna, diaudit oleh Independent Victory Auditor (**VICTORY CONFIRMED**), dan aktif melayani di domain produksi.
+Dokumen ini mencatat klaim dan pengukuran historis saat migrasi Nginx. Pemeriksaan lokal terbaru hanya membuktikan build Quartz dan keluaran statis; kondisi produksi, webhook, dan kesehatan container belum diverifikasi ulang. Gunakan panduan CI/CD untuk memvalidasi deployment sebelum menyatakan perubahan ini aktif di produksi.
 
-Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terkini agar sesi berikutnya dapat langsung melanjutkan tanpa kehilangan konteks teknis maupun konten.
+Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi saat ini.
 
 ---
 
@@ -25,9 +25,9 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
   2. **Image Web Server Ringan (`Dockerfile.nginx` & `nginx.conf`):** Hasil build `public/` dibungkus ke dalam image Nginx Alpine murni (hanya ~20 MB terkompresi, ~66 MB uncompressed).
   3. **Konfigurasi Routing Clean URLs:** Aturan Nginx `try_files $uri $uri.html $uri/ /index.html =404;` menjamin seluruh navigasi clean URL Quartz berfungsi mulus tanpa ekstensi `.html`.
   4. **Kompresi & Caching:** Gzip level 6 aktif untuk teks/CSS/JSON/JS/SVG dan cache browser 30 hari untuk aset statis (`.css`, `.js`, `.webp`, `.canvas`, font).
-  5. **Healthcheck Multi-Protokol:** Konfigurasi `listen 8080; listen [::]:8080;` dan healthcheck wget ke `http://127.0.0.1:8080/healthz` menjamin status container `healthy` di Portainer.
+  5. **Healthcheck Multi-Protokol:** Konfigurasi `listen 8080; listen [::]:8080;` dan healthcheck wget ke `http://127.0.0.1:8080/healthz` memeriksa respons lokal container; status Portainer harus diperiksa tersendiri.
   6. **Automasi GHCR:** Workflow `.github/workflows/deploy.yml` otomatis mem-build dan mem-push multi-tag (`latest` dan `sha`) ke `ghcr.io/decaller/wiki-pkn:latest` setiap push ke `main`.
-* **Dampak & Hasil Produksi:**
+* **Pengukuran produksi historis (belum diverifikasi ulang):**
   - Deployment di Portainer Stack 25 kini hanya membutuhkan waktu **~10 detik** (hanya menarik image jadi ~20 MB).
   - Konsumsi RAM container turun dari ~1.000 MB ke **~18 MB** (>98% penghematan).
   - **CPU VPS tetap 0%** tanpa lonjakan saat pembaruan naskah.
@@ -48,7 +48,7 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
   - Memperbarui master template [`Template Elemen Refleksi, Implementas, Risiko, dan Tautan.md`](file:///home/abuhafi/Project/wiki-pkn/content/Paradigma%20-%20Implementasi%20PKN/Template/Template%20Elemen%20Refleksi,%20Implementas,%20Risiko,%20dan%20Tautan.md) dengan format tabel 2 kolom.
   - Menginjeksi 45 pasang perbandingan kontras kontekstual pada 9 artikel pilar utama prioritas (*Pembelajaran Alamiah*, *Persepsi Positif*, *Disiplin Positif PKN*, *Luka dan Hutang Pengasuhan*, *Recovery*, *Peran Ayah dan Bunda*, *Bahasa Hati*, *Bahasa Lisan*, *Bahasa Tangan*).
 * **4. Pipeline CI/CD GitHub Actions (`.github/workflows/deploy.yml`):**
-  - Workflow fail-fast 2 job: Job 1 `corpus-lint` (Python 3.12 linter) dan Job 2 `quartz-build` (Node.js 22, caching, Quartz SSG build, Docker image build, push ke GHCR, dan Portainer webhook).
+  - Workflow 2 job: `corpus-lint` (Python 3.12) dan `quartz-build` (Node.js 22, Quartz SSG build, image GHCR, webhook Portainer). Pemanggilan webhook saat ini memakai `curl -k` dan `continue-on-error: true`; sukses job tidak menjamin redeploy berhasil.
 * **5. Sinkronisasi Navigasi Sidebar & Integritas Repositori:**
   - `nav_structure.json` kini memuat **148 simpul** (120 daun) dengan 100% resolusi fisik (0 broken link, 0 unlinked leaves).
   - 87/87 pengujian unit di `tests/test_nav_structure.py` lulus 100%.
@@ -60,12 +60,12 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
 
 ---
 
-## 3. Kondisi Infrastruktur & Deployment Produksi
+## 3. Infrastruktur & Deployment Produksi (catatan historis; status kini belum diverifikasi)
 
 * **Server Produksi:** Portainer Host di `103.167.12.129`, Endpoint ID: 3.
 * **Stack Aktif:**
-  1. `wiki-pkn` (Stack ID: 25) — Menjalankan image `ghcr.io/decaller/wiki-pkn:latest` (Nginx 1.31 Alpine). Binding port host `0.0.0.0:4040 -> 8080/tcp`. Status: `running (healthy)`.
-  2. `umami` (Stack ID: 27) — Umami Analytics + PostgreSQL 15 melayani di port 3008.
+  1. `wiki-pkn` (Stack ID: 25) — konfigurasi `docker-compose.yml` memakai image `ghcr.io/decaller/wiki-pkn:latest` dengan port host 4040 ke 8080; status runtime belum diperiksa ulang.
+  2. `umami` (Stack ID: 27) — konfigurasi terpisah untuk Umami Analytics + PostgreSQL 15; status runtime belum diperiksa ulang.
 * **Alur Deployment Otomatis Terkini:**
   ```
   git push origin main
@@ -107,13 +107,9 @@ Dokumen ini berfungsi sebagai panduan serah terima (*handover*) lengkap dan terk
 Panduan komprehensif CI/CD, konfigurasi Portainer, rahasia lingkungan, dan prosedur pemulihan bencana didokumentasikan di:
 👉 **[`docs/CI_CD_DEPLOYMENT_GUIDE.md`](CI_CD_DEPLOYMENT_GUIDE.md)**
 
-* **Berkas Kredensial Lokal:** `.env` (diabaikan oleh git, mencakup seluruh kredensial Portainer Webhook, Umami, Qdrant, TB-40 API, Unstructured API).
-* **Template Kredensial Publik:** `.env.example`.
-* **Portainer AutoUpdate Webhook UUID:** `41440fa5-3131-42e1-a2b6-2a7bd675296d` (Stack 25, Endpoint 3).
-* **Pemicu Manual Webhook:**
-  ```bash
-  curl -k -i -X POST https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/41440fa5-3131-42e1-a2b6-2a7bd675296d
-  ```
+* **Berkas Kredensial Lokal:** `.env` diabaikan untuk perubahan berikutnya, tetapi riwayat Git tetap perlu diaudit; jangan anggap rahasia lama sudah aman.
+* **Template Kredensial Publik:** `.env.example` tanpa nilai rahasia.
+* **Portainer AutoUpdate Webhook:** rotasi token yang pernah dicatat di repositori. Simpan URL baru hanya di pengelola secret dan GitHub Actions Secrets; pemicu manual memakai `curl -f -i -X POST "$PORTAINER_WEBHOOK_URL"` dengan verifikasi TLS aktif.
 
 ---
 

@@ -58,3 +58,4 @@ ORIGINAL_REQUEST.md
 data/batch_hires.log
 data/batch_hires_progress.json
 synergy_cache.sqlite
+data/qdrant_research_storage/

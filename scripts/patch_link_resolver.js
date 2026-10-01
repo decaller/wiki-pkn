@@ -1,51 +1,59 @@
-import fs from "fs";
-import path from "path";
+import fs from "fs"
+import path from "path"
 
 const filesToPatch = [
   "node_modules/@quartz-community/crawl-links/dist/index.js",
-  "node_modules/@quartz-community/utils/dist/path.js"
-];
+  "node_modules/@quartz-community/utils/dist/path.js",
+]
 
 // 1. Folder index resolution patch
 for (const relPath of filesToPatch) {
-  const fullPath = path.resolve(process.cwd(), relPath);
-  if (!fs.existsSync(fullPath)) continue;
+  const fullPath = path.resolve(process.cwd(), relPath)
+  if (!fs.existsSync(fullPath)) continue
 
-  let code = fs.readFileSync(fullPath, "utf-8");
-  const target = "return targetCanonical === fileName;";
-  const replacement = `if (targetCanonical === fileName) return true;\n        if (fileName === "index" && parts.length > 1 && targetCanonical === parts.at(-2)) return true;\n        return false;`;
+  let code = fs.readFileSync(fullPath, "utf-8")
+  const target = "return targetCanonical === fileName;"
+  const replacement = `if (targetCanonical === fileName) return true;\n        if (fileName === "index" && parts.length > 1 && targetCanonical === parts.at(-2)) return true;\n        return false;`
 
   if (code.includes(target)) {
-    code = code.replace(target, replacement);
-    fs.writeFileSync(fullPath, code, "utf-8");
-    console.log(`[patch] Applied folder index resolution patch to: ${relPath}`);
+    code = code.replace(target, replacement)
+    fs.writeFileSync(fullPath, code, "utf-8")
+    console.log(`[patch] Applied folder index resolution patch to: ${relPath}`)
   } else if (code.includes("parts.at(-2)")) {
-    console.log(`[patch] Already patched: ${relPath}`);
+    console.log(`[patch] Already patched: ${relPath}`)
   }
 }
 
 // 1b. Fix broken wikilinkRegex in OFM
-const ofmPath = path.resolve(process.cwd(), "node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js");
+const ofmPath = path.resolve(
+  process.cwd(),
+  "node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js",
+)
 if (fs.existsSync(ofmPath)) {
-  let ofmCode = fs.readFileSync(ofmPath, "utf-8");
-  const brokenTarget = "var wikilinkRegex = new RegExp(\n  /!?\\[\\[([^[]\\]#|\\\\]+)?(#+[^[]\\]#|\\\\]+)?(\\\\?\\|[^[]\\]#]*)?\\]\\]/g\n);";
-  const fixedRegex = "var wikilinkRegex = new RegExp(\n  /!?\\[\\[([^\\[\\]#|]+)?(#+[^\\[\\]#|]+)?(?:\\|([^\\[\\]]+))?\\]\\]/g\n);";
+  let ofmCode = fs.readFileSync(ofmPath, "utf-8")
+  const brokenTarget =
+    "var wikilinkRegex = new RegExp(\n  /!?\\[\\[([^[]\\]#|\\\\]+)?(#+[^[]\\]#|\\\\]+)?(\\\\?\\|[^[]\\]#]*)?\\]\\]/g\n);"
+  const fixedRegex =
+    "var wikilinkRegex = new RegExp(\n  /!?\\[\\[([^\\[\\]#|]+)?(#+[^\\[\\]#|]+)?(?:\\|([^\\[\\]]+))?\\]\\]/g\n);"
   if (ofmCode.includes(brokenTarget)) {
-    ofmCode = ofmCode.replace(brokenTarget, fixedRegex);
-    fs.writeFileSync(ofmPath, ofmCode, "utf-8");
-    console.log(`[patch] Applied broken wikilinkRegex fix to OFM!`);
+    ofmCode = ofmCode.replace(brokenTarget, fixedRegex)
+    fs.writeFileSync(ofmPath, ofmCode, "utf-8")
+    console.log(`[patch] Applied broken wikilinkRegex fix to OFM!`)
   } else if (ofmCode.includes("([^\\[\\]#|]+)?(#+[^\\[\\]#|]+)?(?:\\|([^\\[\\]]+))?")) {
-    console.log(`[patch] Already patched OFM wikilinkRegex.`);
+    console.log(`[patch] Already patched OFM wikilinkRegex.`)
   }
 }
 
 // 2. Raw HTML Wikilinks and Link Resolution patch in crawl-links
-const crawlLinksPath = path.resolve(process.cwd(), "node_modules/@quartz-community/crawl-links/dist/index.js");
+const crawlLinksPath = path.resolve(
+  process.cwd(),
+  "node_modules/@quartz-community/crawl-links/dist/index.js",
+)
 if (fs.existsSync(crawlLinksPath)) {
-  let crawlCode = fs.readFileSync(crawlLinksPath, "utf-8");
-  const rawPatchMarker = "/* RAW_HTML_WIKILINK_PATCH */";
+  let crawlCode = fs.readFileSync(crawlLinksPath, "utf-8")
+  const rawPatchMarker = "/* RAW_HTML_WIKILINK_PATCH */"
   if (!crawlCode.includes(rawPatchMarker)) {
-    const targetHook = "visit(tree, \"element\", (node) => {";
+    const targetHook = 'visit(tree, "element", (node) => {'
     const rawPatchCode = `${rawPatchMarker}
             visit(tree, (node) => {
               if (node.type === "raw" && typeof node.value === "string") {
@@ -94,13 +102,13 @@ if (fs.existsSync(crawlLinksPath)) {
                 );
               }
             });
-            ${targetHook}`;
+            ${targetHook}`
     if (crawlCode.includes(targetHook)) {
-      crawlCode = crawlCode.replace(targetHook, rawPatchCode);
-      fs.writeFileSync(crawlLinksPath, crawlCode, "utf-8");
-      console.log(`[patch] Applied Raw HTML Wikilink & Link Resolution patch to CrawlLinks!`);
+      crawlCode = crawlCode.replace(targetHook, rawPatchCode)
+      fs.writeFileSync(crawlLinksPath, crawlCode, "utf-8")
+      console.log(`[patch] Applied Raw HTML Wikilink & Link Resolution patch to CrawlLinks!`)
     }
   } else {
-    console.log(`[patch] Already patched CrawlLinks with Raw HTML Wikilink support.`);
+    console.log(`[patch] Already patched CrawlLinks with Raw HTML Wikilink support.`)
   }
 }

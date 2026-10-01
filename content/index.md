@@ -17,6 +17,8 @@ tags:
 
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
+**Navigasi seluruh materi:** [[Peta Navigasi Wiki PKN#Indeks Lengkap Seluruh Konten|Buka indeks lengkap terstruktur]] — seluruh artikel, canvas, dan Bases disusun menurut folder sumber.
+
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 

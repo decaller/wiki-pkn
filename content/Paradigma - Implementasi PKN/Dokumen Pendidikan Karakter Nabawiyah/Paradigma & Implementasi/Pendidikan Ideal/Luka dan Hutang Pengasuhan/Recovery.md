@@ -177,7 +177,11 @@ Lihat landasan filosofis dan tadabbur ekologi qolbunya pada dokumen [[Pendidikan
 ## 6. Prinsip Mutlak: "Tidak Menambah Luka" (*Ad-Dhararu Yuzal*)
 
 Berdasarkan Klausul 11.2.3 Standar Penjaminan Mutu PKN, setiap upaya pemulihan anak wajib mematuhi kaidah fikih nabawi:
-$$\text{الضَّرَرُ يُزَالُ}$$
+
+<div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
+الضَّرَرُ يُزَالُ
+</div>
+
 *"Kemudharatan (bahaya/luka) harus dihilangkan."*
 
 Pendidik dan orang tua **dilarang keras** melakukan tindakan perbaikan yang justru menorehkan luka baru di jiwa anak, seperti:

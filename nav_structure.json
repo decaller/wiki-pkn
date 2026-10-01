@@ -517,6 +517,7 @@
             "children": [
               {
                 "title": "Tazkiyatun Nafs",
+                "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/implementasi/internal--and--eksternal/tazkiyatun-nafs",
                 "icon": "tools",
                 "children": []
               },
@@ -591,6 +592,16 @@
               {
                 "title": "Bank Prompt AI Guru KBM",
                 "icon": "cpu",
+                "children": []
+              },
+              {
+                "title": "Bank Cerita Sirah dan Apersepsi KBM",
+                "icon": "book-open",
+                "children": []
+              },
+              {
+                "title": "Infografis Ringkasan Materi PKN Siap Sebar",
+                "icon": "share-2",
                 "children": []
               }
             ]

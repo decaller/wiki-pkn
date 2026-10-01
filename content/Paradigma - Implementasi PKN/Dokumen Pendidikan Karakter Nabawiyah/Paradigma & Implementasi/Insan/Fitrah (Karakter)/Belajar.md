@@ -216,13 +216,14 @@ Berdasarkan instrumen baku **Lembar Observasi Pertumbuhan Karakter Santri (Akade
 
 ---
 
-> [!info] Refleksi Lapangan: Mogok Belajar Akibat Desensitisasi Fitrah Intelektual
-> **Kondisi Faktual:** Anak usia 8 tahun (kelas 2 SD) mulai menunjukkan keengganan membuka buku, menangis histeris saat disuruh mengerjakan PR, dan mengeluh kepalanya pusing setiap kali jam belajar tiba.  
-> **Akar Masalah PKN:** Penjejangan kognitif massal gaya Prusia yang memaksa anak duduk diam 6 jam sehari sambil menghafal rumus abstrak, mematikan rasa ingin tahu alami (*curiosity*) dan menguras tangki cinta tanpa memberi ruang gerak fisik kinestetik.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hentikan intimidasi nilai rapor; alihkan media belajar ke observasi alam nyata di luar ruangan (*outdoor living books*).  
-> 2. Sambungkan kembali jembatan emosi (*Bahasa Hati*) melalui pelukan dan apresiasi atas minat unik anak.  
-> 3. Kenalkan adab sebelum ilmu (*Al-Adab Qablal 'Ilm*) agar proses menuntut ilmu dirasakan sebagai ibadah yang menggembirakan.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Memaksa anak balita (0–7 tahun) duduk diam berjam-jam mengerjakan lembar kerja (LKS) calistung** demi gengsi ujian masuk SD. | **Menjaga fitrah bermain aktif di alam terbuka pada fase Thufulah**; mematangkan sensomotorik dan memantik rasa takjub pada ciptaan Allah sebelum masuk fase Tamyiz. |
+> | **Menilai kecerdasan anak semata-mata dari deretan angka nilai ujian**, ranking kelas, dan hafalan teori di atas kertas rapor. | **Menghargai kesungguhan proses ikhtiar, daya nalar kritis, dan gairah belajar (*syaghaf*)** anak dalam memecahkan masalah nyata sesuai rumpun bakatnya. |
+> | **Membungkam rasa ingin tahu anak dengan bentakan**: *"Jangan banyak tanya, ikuti saja apa kata guru dan buku!"*. | **Menyambut setiap pertanyaan kritis dengan binar mata antusias**; memfasilitasi dialog (*Bahasa Lisan*) dan menuntun anak menemukan jawaban lewat riset alamiah. |
+> | **Mendahulukan transfer tumpukan materi ilmu kognitif** tanpa menanamkan keimanan batin dan adab penuntut ilmu (*Al-Adab Qablal 'Ilm*). | **Menegakkan kaidah salaf: Iman sebelum Al-Qur'an dan Adab sebelum Ilmu**; memastikan hati anak bersih dan beradab sebelum mempelajari cabang-cabang keilmuan. |
+> | **Menghukum kesalahan atau kekeliruan jawaban anak dengan celaan dan cap bodoh**, menumbuhkan kecemasan akademis (*academic anxiety*). | **Memperlakukan kekeliruan sebagai gerbang pembelajaran berharga (*teachable moments*)**; melatih anak berani bereksperimen, mengevaluasi kesalahan, dan bangkit kembali. |
 
 > [!warning] Peringatan Risiko Pengasuhan: Bahaya Menghukum Kegagalan Akademik Anak
 > * **Bentuk Kesalahan:** Membentak, memberi cap "pemalas / bodoh", atau mencabut hak bermain anak karena nilai ujian yang rendah.

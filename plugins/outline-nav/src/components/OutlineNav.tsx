@@ -15,97 +15,100 @@ function slugify(text: string): string {
     .replace(/^-|-$/g, "")
 }
 
-function buildSlugMap(allFiles: QuartzComponentProps["allFiles"]): Map<string, string> {
-  const map = new Map<string, string>()
-  
-  // Sort so non-tag pages are processed after tag pages, ensuring real content takes priority
-  const sortedFiles = [...allFiles].sort((a, b) => {
-    const aIsTag = a.slug?.startsWith("tags/") ? 1 : 0
-    const bIsTag = b.slug?.startsWith("tags/") ? 1 : 0
-    return bIsTag - aIsTag // tags first, then real content overrides them
-  })
+function buildSlugMap(allFiles: QuartzComponentProps["allFiles"]): Map<string, Set<string>> {
+  const map = new Map<string, Set<string>>()
+  const add = (key: string, slug: string) => {
+    const matches = map.get(key) ?? new Set<string>()
+    matches.add(slug)
+    map.set(key, matches)
+  }
 
-  for (const file of sortedFiles) {
+  for (const file of allFiles) {
     if (!file.slug) continue
     const title = file.frontmatter?.title as string | undefined
-    if (title) {
-      map.set(title.toLowerCase().trim(), file.slug)
-    }
+    if (title) add(title.toLowerCase().trim(), file.slug)
     const aliases = file.frontmatter?.aliases as string[] | undefined
     if (Array.isArray(aliases)) {
       for (const alias of aliases) {
-        if (typeof alias === "string") {
-          map.set(alias.toLowerCase().trim(), file.slug)
-        }
+        if (typeof alias === "string") add(alias.toLowerCase().trim(), file.slug)
       }
     }
     const slugParts = file.slug.split("/")
     const lastPart = slugParts[slugParts.length - 1]
-    map.set(lastPart.toLowerCase(), file.slug)
     if (lastPart === "index" && slugParts.length > 1) {
-      map.set(slugParts[slugParts.length - 2].toLowerCase(), file.slug)
+      add(slugParts[slugParts.length - 2].toLowerCase(), file.slug)
     }
+    add(lastPart.toLowerCase(), file.slug)
   }
   return map
 }
 
+function onlyMatch(matches: Set<string> | undefined): string | null {
+  return matches?.size === 1 ? matches.values().next().value! : null
+}
+
 function resolveNodeSlug(
-  title: string,
-  slugMap: Map<string, string>,
+  item: NavItem,
+  slugMap: Map<string, Set<string>>,
   allFiles: QuartzComponentProps["allFiles"],
 ): string | null {
+  if (item.slug) {
+    return allFiles.some((file) => file.slug === item.slug) ? item.slug : null
+  }
+
+  const title = item.title
   const tLow = title.toLowerCase().trim()
   if (tLow === "home" || tLow === "beranda" || tLow === "beranda utama") {
     return "index"
   }
-  if (slugMap.has(tLow)) {
-    return slugMap.get(tLow)!
-  }
+  const exactMatches = slugMap.get(tLow)
+  if (exactMatches) return onlyMatch(exactMatches)
 
   // Support matching TB-40 items by number prefix (e.g. "01. Himmah" or "01 - Himmah")
   const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]/)
   if (tbMatch) {
     const num = tbMatch[1].padStart(2, "0")
+    const matches = new Set<string>()
     for (const file of allFiles) {
       if (!file.slug) continue
       const last = file.slug.split("/").pop() ?? ""
       if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40")) {
-        return file.slug
+        matches.add(file.slug)
       }
     }
+    if (matches.size) return onlyMatch(matches)
   }
 
   const sTitle = slugify(title)
-  if (slugMap.has(sTitle)) {
-    return slugMap.get(sTitle)!
-  }
+  const slugMatches = slugMap.get(sTitle)
+  if (slugMatches) return onlyMatch(slugMatches)
 
+  const filenameMatches = new Set<string>()
   for (const file of allFiles) {
     if (!file.slug) continue
     const parts = file.slug.split("/")
     const last = parts[parts.length - 1]
     const prev = parts.length > 1 ? parts[parts.length - 2] : ""
     if (last === sTitle || last === sTitle + "-pkn" || (last === "index" && prev === sTitle)) {
-      return file.slug
+      filenameMatches.add(file.slug)
     }
   }
+  if (filenameMatches.size) return onlyMatch(filenameMatches)
 
+  if (!tLow || !sTitle) return null
+  const partialMatches = new Set<string>()
   for (const file of allFiles) {
     if (!file.slug) continue
     const fTitle = (file.frontmatter?.title as string | undefined)?.toLowerCase().trim()
-    if (fTitle && fTitle.includes(tLow)) {
-      return file.slug
-    }
-    if (file.slug.includes(sTitle)) {
-      return file.slug
+    if ((fTitle && fTitle.includes(tLow)) || file.slug.includes(sTitle)) {
+      partialMatches.add(file.slug)
     }
   }
-
-  return null
+  return onlyMatch(partialMatches)
 }
 
-function hasActiveDescendant(item: NavItem, activeSlug: string, slugMap: Map<string, string>, allFiles: QuartzComponentProps["allFiles"]): boolean {
-  const slug = resolveNodeSlug(item.title, slugMap, allFiles)
+function hasActiveDescendant(item: NavItem, activeSlug: string, slugMap: Map<string, Set<string>>, allFiles: QuartzComponentProps["allFiles"]): boolean {
+  const slug = resolveNodeSlug(item, slugMap, allFiles)
   if (slug === activeSlug) return true
   if (item.children) {
     for (const child of item.children) {
@@ -138,7 +141,7 @@ export default ((userOpts?: OutlineNavOptions) => {
     const slugMap = buildSlugMap(allFiles)
 
     const renderItem = (item: NavItem, depth: number, parentPath: string): JSX.Element => {
-      const nodeSlug = resolveNodeSlug(item.title, slugMap, allFiles)
+      const nodeSlug = resolveNodeSlug(item, slugMap, allFiles)
       const isFolder = item.children && item.children.length > 0
       const currentPath = parentPath ? `${parentPath}/${item.title}` : item.title
       const isActive = nodeSlug ? nodeSlug === currentSlug : false

@@ -307,13 +307,14 @@ Penyucian jiwa pendidik dan anak (*maraji': Ihya Ulumiddin karya Al-Ghazali & Ma
 
 ---
 
-> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tazkiyatun Nafs
-> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
-> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
-> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
-> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Menuntut kesucian moral dan ketaatan anak**, sementara pendidik sendiri tidak pernah bermuhasabah membersihkan kotoran hati, amarah, dan ego pribadinya. | **Mengawali proses tarbiyah dari *Tazkiyatun Nafs Pendidik***; menyucikan niat semata mencari ridha Allah dan merontokkan rasa bangga diri (*'Ujub*) sebelum membina anak. |
+> | **Memaksa anak menghafal ragam akhlak terpuji (*Tahalli*)** tanpa terlebih dahulu mengobati luka batin dan meredam gejolak dorongan nafsu ammarah (*Takhalli*). | **Menempuh tahapan pensucian jiwa yang berurutan**: membersihkan kalbu dari sifat tercela, iri hati, dan dendam (*Takhalli*), baru menghiasinya dengan akhlak karimah (*Tahalli*). |
+> | **Fokus memoles kesalehan lahiriah (pakaian syar'i, kefasihan lafal doa)** seraya membiarkan penyakit hati tersembunyi (riya', sombong, meremehkan kawan) merajalela. | **Menjadikan keikhlasan dan kerendahan hati (*Tawadhu'*) sebagai inti pembinaan**; melatih anak merawat amalan tersembunyi (*'Amal As-Sirr*) yang hanya diketahui Allah. |
+> | **Menyikapi kekhilafan dosa anak dengan vonis permusuhan permanen** yang memadamkan harapan dan memicu keputusasaan dari rahmat Allah. | **Membimbing anak meniti jalan taubat nashuha dan istighfar**; menanamkan bahwa setiap anak Adam pasti bersalah dan sebaik-baik pemenang adalah yang segera bertaubat. |
+> | **Memandang tazkiyatun nafs sebagai ajaran mistik rumit** yang hanya relevan bagi kaum sufi di pertapaan, bukan untuk pendidikan praktis harian. | **Menerapkan tazkiyatun nafs sebagai kurikulum pembiasaan harian**: menahan amarah, menjaga lisan dari ghibah, memaafkan sebelum tidur, dan saling mendoakan kebaikan. |
 
 > [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Tazkiyatun Nafs
 > * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.

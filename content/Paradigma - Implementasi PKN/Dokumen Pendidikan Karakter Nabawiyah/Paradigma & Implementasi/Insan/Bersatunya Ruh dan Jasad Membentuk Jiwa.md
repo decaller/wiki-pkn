@@ -209,13 +209,14 @@ Dalam Islam, jasad dan ruh adalah kesatuan organik yang saling mempengaruhi. Ima
 
 ---
 
-> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Bersatunya Ruh dan Jasad Membentuk Jiwa
-> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
-> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
-> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
-> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Memperlakukan anak layaknya mesin biologis atau kognitif**; hanya fokus pada gizi fisik dan les akademis, sementara dahaga ruhaninya dibiarkan merana. | **Memuliakan hakikat manusia sebagai paduan jasad tanah dan tiupan ruh Ilahi**; mendahulukan nutrisi ruhani (Al-Qur'an, zikir, doa malam) sebelum menuntut performa lahiriah. |
+> | **Mengobati kegelisahan, tantrum, atau kemurungan anak dengan hiburan materi instan** (gawai, televisi, jalan-jalan ke mall, atau makanan manis). | **Mendiagnosis sinyal dahaga jiwa dan kekeringan fitrah**; mengajak anak bertafakkur di alam terbuka (*grounding*), menyapa hatinya dengan Bahasa Hati, dan membasahinya dengan zikrullah. |
+> | **Mengukur kemuliaan anak semata-mata dari penampilan fisik, pakaian bermerek, dan capaian duniawi yang tampak** (*zhahir*). | **Menjadikan kebersihan jiwa (*Tazkiyatun Nafs*) dan ketakwaan batin** sebagai tolok ukur kemuliaan sejati di sisi Allah (*Inna akramakum 'indallāhi atqākum*). |
+> | **Menghukum raga anak dengan kekerasan fisik atau bentakan kasar tatkala ia malas beribadah**, mengira pukulan jasad otomatis menyadarkan kalbu. | **Menyadari bahwa anggota badan bergerak mengikuti komando hati**; menyentuh cinta anak kepada Allah terlebih dahulu sebelum menegakkan disiplin syariat secara bertahap (*Tadarruj*). |
+> | **Memisahkan urusan duniawi dengan ukhrawi**; menganggap aktivitas belajar sains, olahraga, atau bekerja tidak ada kaitannya dengan ibadah. | **Menyatukan seluruh gerak fisik jasad sebagai sarana taqarrub ilallāh**; membingkai setiap keterampilan hidup sebagai manifestasi peran khalifah pemakmur bumi (*'Imaratul Ardh*). |
 
 > [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Bersatunya Ruh dan Jasad Membentuk Jiwa
 > * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.

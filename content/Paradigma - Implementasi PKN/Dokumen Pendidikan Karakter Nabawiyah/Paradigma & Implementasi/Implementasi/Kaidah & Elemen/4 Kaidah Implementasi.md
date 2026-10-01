@@ -199,13 +199,14 @@ Dalam kaidah fiqh tarbiyah Islam (*maraji': Tuhfatul Maudud karya Ibnul Qayyim*)
 
 ---
 
-> [!info] Refleksi Lapangan: Realitas Penerapan 4 Kaidah Implementasi
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 4 Kaidah Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Menuntut perubahan karakter anak secara instan dalam semalam**; memaksakan kedisiplinan ibadah sempurna tanpa tahapan kematangan fitrah. | **Menerapkan kaidah *Tadarruj* (bertahap)**; mendampingi pembiasaan ibadah anak selama 3 tahun penuh (1.095 hari antara usia 7–10 tahun) dengan telaten dan penuh rahmah. |
+> | **Memperberat aturan pengasuhan dengan rentetan larangan kaku** yang membuat anak merasa agama Islam itu sempit, mengekang, dan menyengsarakan. | **Mengedepankan kaidah *Taisir* (mempermudah dan menggembirakan)**; membuka seluas-luasnya ruang fitrah mubah sebelum membatasi pada pagar larangan syariat. |
+> | **Terjebak pada dua kutub ekstrem**: membiarkan anak liar tanpa disiplin (*tafrith*) atau mengekang anak dengan kekerasan militeristik (*ifrath*). | **Berpegang teguh pada prinsip *Wasathiyah* (keseimbangan adil)**; memadukan kehangatan kasih sayang yang merengkuh dengan ketegasan wibawa syariat (*Rifq fi Quwwah*). |
+> | **Orang tua dan guru banyak berceramah dan menuntut kepatuhan**, sementara dirinya sendiri enggan mengamalkan apa yang diperintahkan. | **Menjadikan *Qudwah Hasanah* (keteladanan hidup) sebagai bahasa tarbiyah terkuat**; memperbaiki shalat, adab, dan lisan pendidik terlebih dahulu sebelum memerintah anak. |
+> | **Mengukur keberhasilan implementasi kurikulum semata-mata dari kelengkapan tumpukan berkas administratif** di atas meja pengawas. | **Menilai keberhasilan dari buah mutu karakter nyata (*Itqan*)**; tumbuhnya keikhlasan batin, adab santun kepada sesama, dan kesadaran amal santri yang membudaya. |
 
 > [!warning] Peringatan Risiko: Jebakan Formalitas dalam 4 Kaidah Implementasi
 > * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.

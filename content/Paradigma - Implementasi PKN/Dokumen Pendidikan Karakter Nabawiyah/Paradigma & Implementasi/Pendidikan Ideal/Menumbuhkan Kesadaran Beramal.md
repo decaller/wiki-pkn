@@ -378,13 +378,14 @@ Pendidik PKN mengiringi setiap detik interaksi muridnya dengan doa di sepertiga 
 
 ---
 
-> [!info] Refleksi Lapangan: Problematika Nyata dalam Dinamika Kesadaran Beramal
-> **Kondisi Faktual:** Banyak keluarga dan institusi pendidikan menghadapi benturan nyata saat menerapkan Kesadaran Beramal, di mana niat baik mendidik sering kali berujung pada perlawanan anak atau hasil yang semu.  
-> **Akar Masalah PKN:** Mengabaikan kondisi kesiapan batin (*tahapan qalbiyah*) dan memaksakan instrumen lahiriah tanpa mengisi jembatan kelekatan kasih sayang terlebih dahulu.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Mulai dari pemulihan keheningan kalbu pendidik (*tazkiyatun nafs*) dan doa yang tulus.  
-> 2. Penuhi tangki cinta anak agar terjalin rasa aman (*trust*) yang kokoh.  
-> 3. Terapkan prinsip penahapan (*tadarruj*) dan kelembutan hikmah (*rifq*) dalam menegakkan batasan syariat.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Memaksa anak beramal shalih (shalat, sedekah, menutup aurat) lewat sogokan materi** (*reward/bribe*) atau ancaman hukuman yang menakutkan. | **Menumbuhkan kesadaran batin mandiri (*wa'yu*) dan keimanan**; menyadarkan anak akan agungnya nikmat Allah sehingga amal shalih lahir dari rasa syukur dan cinta. |
+> | **Merasa puas saat anak tampak rajin shalat di hadapan orang tua/guru**, tanpa mempedulikan bahwa anak langsung meninggalkannya begitu tidak diawasi. | **Menanamkan nilai *Muraqabatullah* (merasa diawasi Allah)**; membangun integritas batin agar anak tetap istiqamah beramal shalih meski dalam kesendirian yang sunyi. |
+> | **Menuntut kuantitas lembar mutaba'ah amalan harian tercentang penuh**, mengabaikan kekhusyukan dan kehadiran hati (*hudhurul qalb*) anak saat beribadah. | **Mengutamakan kualitas penghayatan dan keikhlasan amal (*Ihsan*)**; meyakini bahwa sedikit amalan yang dikerjakan dengan cinta jauh lebih berkah daripada banyak yang terpaksa. |
+> | **Memarahi anak yang malas beramal dengan memvonisnya sebagai calon penghuni neraka** yang tidak tahu berterima kasih. | **Mengajak berdialog hikmah (*Bahasa Lisan*)**; menanyakan ganjalan rasa yang dialami anak dan mendampinginya menemukan kembali manisnya bermunajat kepada Allah. |
+> | **Mengabaikan proses penalaran nalar anak**; menolak menjelaskan hikmah di balik perintah syariat dengan dalih *"pokoknya taat saja, jangan mendebat!"*. | **Membuka ruang tadabbur dan diskusi hikmah sesuai fase usia anak**; memahamkan akal anak akan maslahat syariat sehingga ia beramal dengan keyakinan nalar yang mantap. |
 
 > [!warning] Peringatan Risiko Pengasuhan: Jebakan Fatal dalam Kesadaran Beramal
 > * **Bentuk Kesalahan:** Menggunakan ancaman, amarah tanpa kendali, atau menuntut perubahan instan dalam waktu semalam.

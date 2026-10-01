@@ -53,7 +53,7 @@ graph TB
 
 ## 2. Struktur Konfigurasi Lingkungan (`.env` vs `.env.example`)
 
-Untuk menjaga keamanan repositori publik, **seluruh kredensial dan rahasia infrastruktur disimpan di file `.env` lokal** dan dilarang di-commit ke Git. File `.env.example` disediakan sebagai acuan struktur variabel.
+Simpan kredensial hanya di pengelola secret deployment; `.env` lokal diabaikan Git untuk perubahan berikutnya, tetapi aturan ignore tidak menghapus berkas yang pernah terlacak atau rahasia dari riwayat Git. Rotasi kredensial yang pernah terpapar, lalu audit riwayat secara terkoordinasi. `.env.example` hanya berisi nama variabel dan contoh nonrahasia.
 
 ### Variabel Lingkungan Utama
 
@@ -69,7 +69,7 @@ Untuk menjaga keamanan repositori publik, **seluruh kredensial dan rahasia infra
 | `PORTAINER_URL` | Infrastruktur | `https://portainer.insanmustaqbal.or.id` | Dashboard manajemen Portainer |
 | `PORTAINER_ENDPOINT_ID` | Portainer | `3` | ID environment Docker Standalone |
 | `PORTAINER_STACK_ID` | Portainer | `25` | ID Stack wiki-pkn di Portainer |
-| `PORTAINER_WEBHOOK_UUID` | Portainer | `41440fa5-3131-42e1-a2b6-2a7bd675296d` | Token rahasia webhook AutoUpdate |
+| `PORTAINER_WEBHOOK_UUID` | Portainer | `(rahasia; jangan ditulis di repositori)` | Token webhook AutoUpdate; rotasi jika pernah terpapar |
 | `PORTAINER_WEBHOOK_URL` | Portainer | `https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/...` | Endpoint webhook trigger redeployment |
 | `UMAMI_HOST` | Analitik | `https://portainer.insanmustaqbal.or.id:3008` | Instance Umami self-hosted (Stack 27) |
 | `QDRANT_HOST` | Korpus Dalil| `http://localhost:6333` | Vector database OpenBayan (11 juta matan) |
@@ -85,7 +85,7 @@ Agar GitHub Actions dapat memicu auto-deploy ke Portainer setelah selesai mem-pu
 2. Klik tombol **New repository secret**.
 3. Tambahkan secret berikut:
    * **Name:** `PORTAINER_WEBHOOK_URL`
-   * **Secret:** `https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/41440fa5-3131-42e1-a2b6-2a7bd675296d`
+   * **Secret:** URL webhook baru dari Portainer, disimpan langsung di GitHub Actions Secrets; jangan salin URL atau tokennya ke dokumentasi.
 4. Simpan (*Add secret*).
 
 > [!NOTE]
@@ -102,7 +102,7 @@ Stack 25 di Portainer dikonfigurasi dengan spesifikasi:
 * **Repository URL:** `https://github.com/decaller/wiki-pkn`
 * **Compose Path:** `docker-compose.yml`
 * **AutoUpdate:**
-  * `Webhook`: `41440fa5-3131-42e1-a2b6-2a7bd675296d`
+  * `Webhook`: token rahasia yang dikelola di Portainer dan GitHub Actions Secrets (jangan dicatat di Git).
   * `ForcePullImage`: `true` (Memastikan image `ghcr.io/decaller/wiki-pkn:latest` selalu ditarik baru)
   * `ForceUpdate`: `true`
 
@@ -139,18 +139,20 @@ git add .
 git commit -m "feat: pembaruan artikel dan dalil baru"
 git push origin main
 ```
-1. GitHub Actions otomatis menjalankan linter korpus (`python3 scripts/wiki_corpus_linter.py`).
-2. Jika lulus audit, Quartz v5 mengompilasi halaman web statis.
-3. Docker image Nginx dibangun dan di-push ke GHCR.
-4. GitHub Actions memanggil webhook Portainer.
-5. Portainer menarik image baru dan merefresh container tanpa downtime.
+1. GitHub Actions menjalankan linter korpus dan menghentikan pipeline jika gerbang gagal.
+2. `npm ci` memasang dependensi sesuai lockfile; Quartz mengompilasi halaman statis.
+3. Build menulis commit penuh ke `build-version.txt`, lalu menerbitkan image `latest` dan `sha-<commit-pendek>` ke GHCR.
+4. Pada push `main`, webhook Portainer wajib ada dan harus lolos verifikasi TLS. Kegagalan respons menghentikan job.
+5. Workflow membandingkan `https://wikipkn.insanmustaqbal.or.id/build-version.txt` dengan commit yang dibangun. Jika versi tidak muncul dalam sekitar lima menit, job gagal. Respons webhook saja bukan bukti container sudah diperbarui.
+
+> Stack Portainer saat ini masih memakai tag bergerak `latest`. Tag `sha-<commit-pendek>` tersedia untuk rollback manual, tetapi deployment belum sepenuhnya dipin ke digest/commit. Periksa image dan status health container di Portainer sebelum menyatakan produksi sehat.
 
 ### Opsi B: Pemicu Manual via Webhook (cURL)
-Jika image di GHCR sudah terbit atau ingin memaksa Portainer menarik image terbaru tanpa push kode:
+Jika image di GHCR sudah terbit, ambil URL webhook dari pengelola rahasia dan jalankan hanya di lingkungan berizin:
 ```bash
-curl -k -i -X POST https://portainer.insanmustaqbal.or.id/api/stacks/webhooks/41440fa5-3131-42e1-a2b6-2a7bd675296d
+curl -f -i -X POST "$PORTAINER_WEBHOOK_URL"
 ```
-*Respons sukses:* `HTTP/2 204 No Content`.
+Pastikan sertifikat TLS valid; jangan gunakan `-k`. Respons sukses: `HTTP/2 204 No Content`.
 
 ### Opsi C: Manual Redeploy via Portainer MCP / Web UI
 1. **Via Antigravity MCP:**
@@ -177,9 +179,9 @@ Ekspektasi: `HTTP/2 200 OK` dengan server `nginx`.
 
 ### 2. Uji Healthcheck Internal
 ```bash
-curl -I https://wikipkn.insanmustaqbal.or.id/healthz
+curl https://wikipkn.insanmustaqbal.or.id/healthz
 ```
-Ekspektasi: `HTTP/2 200 OK` dengan payload `healthy\n`.
+Ekspektasi: HTTP 200 dengan payload sesuai `nginx.conf`, yaitu `OK\n`. Gunakan GET karena HEAD (`curl -I`) tidak menampilkan body.
 
 ### 3. Periksa Log Container Produksi
 Jalankan di server atau via Portainer:
@@ -206,14 +208,7 @@ Ekspektasi: Penggunaan RAM stabil di kisaran **15 MB – 25 MB** dan CPU **0.00%
 * **Solusi:** Pastikan parameter healthcheck menggunakan IP eksplisit `http://127.0.0.1:8080/healthz` dan Nginx listen pada kedua stack (`listen 8080; listen [::]:8080;`).
 
 ### Prosedur Rollback Cepat
-Jika deployment terbaru mengalami kesalahan fatal:
-1. Revert commit terakhir di git:
-   ```bash
-   git revert HEAD
-   git push origin main
-   ```
-   Pipeline CI/CD akan otomatis membangun kembali versi sebelumnya yang stabil.
-2. Atau pada Portainer Stack 25, ubah sementara tag image di editor compose ke SHA stabil:
-   ```yaml
-   image: ghcr.io/decaller/wiki-pkn:sha-<previous-commit-hash>
-   ```
+Jika deployment terbaru mengalami kesalahan fatal, lakukan di Portainer Stack 25:
+1. Tentukan commit stabil sebelumnya dari riwayat build GHCR, lalu ubah image stack menjadi `ghcr.io/decaller/wiki-pkn:sha-<commit-pendek>` yang sudah diterbitkan. Jangan gunakan tag `latest` untuk rollback.
+2. Redeploy dengan pull image, pastikan container `healthy`, lalu bandingkan isi `/build-version.txt` dengan commit stabil yang dipilih.
+3. Setelah sumber masalah diperbaiki, pulihkan konfigurasi image sesuai prosedur rilis; mencabut perubahan kode dengan `git revert` akan memicu build image baru, bukan langsung mengembalikan image lama.

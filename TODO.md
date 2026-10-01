@@ -67,16 +67,21 @@ Fokus pada visibilitas mesin pencari, pelacakan audiens, otomatisasi monitoring 
 Status di bawah merujuk konfigurasi repositori, bukan bukti bahwa layanan sedang terekspos di internet. Tuntaskan pengamanan sebelum memperluas integrasi dan peluncuran publik.
 
 - [ ] **P0 — Rotasi dan keluarkan kredensial Umami dari Git.** `docker-compose.umami.yml:11,29-31` memuat kata sandi PostgreSQL dan `APP_SECRET` literal. Rotasi di lingkungan deploy, pindahkan ke secret deployment/variabel wajib, evaluasi pembersihan riwayat Git dan dampaknya pada klon. *Status Progress:* `.env` telah resmi di-untrack dari Git (`git rm --cached .env`), diabaikan via `.gitignore` & `.dockerignore`, dan berkas `.env.example` telah diselaraskan sebagai template publik aman. *HITL:* Tinggi (akses produksi dan koordinasi rotasi).
+- [ ] **P0 — Rotasi webhook Portainer yang pernah tertulis di dokumentasi.** Token telah diredaksi dari `docs/CI_CD_DEPLOYMENT_GUIDE.md` dan `docs/HANDOVER.md`, tetapi riwayat Git dan salinan lama masih dapat memuatnya. Cabut token lama di Portainer, simpan URL baru hanya di secret GitHub, audit riwayat dan koordinasikan pembersihan tanpa mencetak nilainya; uji trigger serta pastikan image baru benar-benar berjalan. *HITL:* Tinggi (akses dan koordinasi produksi).
 - [ ] **P0 — Batasi akses Qdrant riset.** `docker-compose.qdrant-research.yml:6-12` memublikasikan HTTP/gRPC ke semua antarmuka host tanpa kunci API yang terkonfigurasi. Ikat ke loopback/jaringan internal; jika butuh akses jauh, wajibkan autentikasi dan TLS. Verifikasi port dari luar host serta konektivitas klien sah. *HITL:* Sedang (akses jaringan dan klien riset).
 - [ ] **P0 — Batasi akses Unstructured API.** `docker-compose.unstructured.yml:6-10` memublikasikan parser tanpa autentikasi. Gunakan jaringan internal/loopback atau proxy TLS terautentikasi dengan batas ukuran dan konkurensi unggahan; uji klien `scripts/unstructured_adapter.py`. *HITL:* Sedang (akses deployment dan alur dokumen).
-- [ ] **P1 — Pulihkan verifikasi TLS webhook Portainer.** Hapus `curl -k` di `.github/workflows/deploy.yml:122-127`; perbaiki sertifikat/CA privat dan uji webhook tanpa melemahkan verifikasi. *HITL:* Sedang (sertifikat dan secret deployment).
-- [ ] **P1 — Atasi audit dependensi produksi.** `npm audit --omit=dev --audit-level=high` melaporkan dua rantai tinggi (`brace-expansion`, `sharp`/libvips/libheif); perbarui lockfile secara terkendali, tinjau perubahan mayor `sharp`, lalu jalankan audit, tes, dan build beserta inspeksi keluaran gambar. *HITL:* Rendah–Sedang.
-- [ ] **P1 — Tegakkan build/deploy yang reproduktif.** Hapus fallback `npm ci || npm install` di `.github/workflows/deploy.yml:68-69`, pin Actions ke SHA terverifikasi, dan gunakan tag image commit yang sudah diterbitkan alih-alih hanya `latest` pada `docker-compose.yml:3`; verifikasi rollback. *HITL:* Sedang.
-- [ ] **P1 — Jadikan pemeriksaan format berguna.** `npm run check` gagal karena 766 berkas tidak sesuai Prettier; tetapkan cakupan kode/konfigurasi versus korpus, data, dan arsip di `.prettierignore`/skrip sebelum merapikan yang memang tercakup. *HITL:* Rendah.
-- [ ] **P2 — Perjelas gerbang kualitas korpus.** Linter lolos meski ada 1 halaman orphan, rerata gaya 50,7/100, dan hanya 291/484 halaman mencapai skor kejelasan >=85. Tentukan ambang per halaman dan kebijakan orphan/gaya yang disengaja, tambahkan tes perilaku linter, serta ganti timestamp laporan yang statis (`scripts/wiki_corpus_linter.py:1471-1544`). *HITL:* Sedang (standar editorial).
-- [ ] **P2 — Pastikan resolusi navigasi deterministik.** `OutlineNav.tsx:18-104` memakai pencocokan substring terakhir yang bisa salah memilih halaman; migrasikan target ke slug eksplisit atau validasi ambiguitas, satukan logika resolver dengan tes navigasi, dan cek perilaku navigasi ter-render. *HITL:* Rendah–Sedang.
-- [ ] **P2 — Audit render Arab dan keluaran situs.** Build Quartz berhasil tetapi KaTeX memberi banyak peringatan karakter Arab tanpa metrik; temukan sumber notasi matematika yang tidak tepat dan periksa halaman Arab berat secara visual. Tambahkan pemeriksaan keluaran untuk canonical, sitemap, navigasi, dan analitik; jangan anggap build sukses sebagai bukti visual. *HITL:* Sedang.
-- [ ] **P2 — Selaraskan dokumentasi dan jalur runtime.** Samakan versi Node README (`18.14+`) dengan `package.json` (`>=22`), jelaskan perbedaan jumlah artikel README (123) vs 484 input Markdown, perbarui status M5 `PROJECT.md`/`docs/HANDOVER.md`, serta putuskan nasib `Dockerfile` Node lama terhadap `Dockerfile.nginx`. *HITL:* Rendah.
+- [ ] **P1 — Pulihkan verifikasi TLS webhook Portainer.** Workflow tidak lagi memakai `curl -k` dan gagal jika webhook tidak tersedia/HTTP gagal; sertifikat/CA dan secret di lingkungan produksi belum diuji. *HITL:* Sedang (akses deployment).
+- [x] **P1 — Atasi audit dependensi produksi (lokal).** `sharp` naik ke 0.35.5, kedua jalur `brace-expansion` naik ke versi perbaikan; `npm audit --omit=dev --audit-level=high` melaporkan 0 kerentanan, `npm ci`, tes, dan build lokal berhasil. Keluaran gambar produksi tetap perlu diamati saat rilis. *HITL:* Rendah–Sedang.
+- [ ] **P1 — Tegakkan build/deploy yang reproduktif.** `npm ci` menggantikan fallback install; Actions dipin ke SHA dan image memiliki tag `sha-<commit-pendek>`. Stack masih memakai `latest`, sehingga pin commit/digest, uji rollback dan konsistensi Portainer tetap terbuka. *HITL:* Sedang.
+- [ ] **P1 — Jadikan kegagalan redeploy terlihat.** Workflow kini gagal bila webhook gagal dan memeriksa `/build-version.txt` sampai commit baru tersaji; uji dengan CI/Portainer dan cek status image/health container nyata masih terbuka. *HITL:* Sedang (akses produksi).
+- [x] **P1 — Jadikan pemeriksaan format berguna.** `npm run check` memeriksa TypeScript dan kode Quartz, skrip JS/TS root, konfigurasi utama, serta workflow; korpus, data, dan arsip tidak dipaksa mengikuti Prettier. Kode dalam cakupan telah dirapikan dan pemeriksaan lulus lokal. *HITL:* Rendah.
+- [x] **P2 — Perjelas gerbang kualitas korpus (lokal).** Timestamp laporan UTC aktual; orphan baru dan halaman di bawah lantai gaya 20/PICI 60 ditolak, dengan pengecualian legacy bernama serta rerata PICI minimum 85. Tujuh tes perilaku dan audit 486 berkas lulus lokal; peningkatan skor editorial ke target ideal tetap pekerjaan konten. *HITL:* Sedang.
+- [x] **P2 — Pastikan resolusi navigasi deterministik (lokal).** Kandidat judul/alias/TB-40/substring ambigu tidak dipilih berdasarkan urutan; slug eksplisit divalidasi. Tes render dan halaman Tazkiyatun Nafs hasil build menunjukkan tautan target. *HITL:* Rendah.
+- [ ] **P2 — Audit render Arab dan keluaran situs.** Enam kutipan Arab telah dipindah dari KaTeX ke blok Arab; build lokal 486 berkas selesai tanpa peringatan KaTeX dan sampel DOM mempertahankan harakat. Verifikasi visual/PDF artikel penuh pasca-perubahan, pemeriksaan otomatis canonical/sitemap seluruh situs, dan telaah editorial Arab belum selesai. *HITL:* Sedang.
+- [ ] **P2 — Selaraskan dokumentasi dan jalur runtime.** README kini memakai Node `>=22` dan membedakan 484 input build dari audit artikel lama; M5 dinyatakan parsial. `Dockerfile` Node lama masih digunakan oleh dokumentasi Docker nonproduksi, sedangkan deploy memakai `Dockerfile.nginx`; putuskan dukungan lokalnya dan perbarui instruksi yang terdampak sebelum menghapus. *HITL:* Rendah.
+- [ ] **P1 — Cocokkan canonical beranda dengan sitemap dan rute publik.** Sampel build menghasilkan canonical beranda `/index`, sementara pencarian URL itu dalam sitemap gagal; tentukan URL beranda tunggal (`/`), koreksi generator atau konfigurasi terkait, dan uji canonical, sitemap, serta redirect/rute pada keluaran statis. *HITL:* Rendah.
+- [ ] **P2 — Uji cetak lintas-peramban dan dokumen panjang.** CSS A4 sudah diuji pada RPP dan dalil di Chromium; bandingkan Firefox/WebKit, halaman bertabel panjang dan matan Arab berharakat untuk clipping, pemenggalan, dan fallback font. Jangan samakan nama “RPP 1 Lembar” dengan jumlah halaman artikel lengkap. *HITL:* Rendah–Sedang (tinjauan visual/editorial).
+- [ ] **P2 — Pantau analitik dari halaman nyata.** Skrip Umami termuat melalui `postscript` pada build, tetapi permintaan jaringan dan pencatatan kunjungan tidak diuji; validasi pada lingkungan berizin dengan persetujuan privasi dan tanpa membocorkan website ID. *HITL:* Sedang (akses analitik).
 
 ---
 
@@ -137,7 +142,7 @@ Fokus pada kejelasan kalimat, pemahaman pembaca umum, dan standardisasi istilah.
 ## 4. Pengumpulan & Kurasi Konten Inti PKN
 Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dalam wiki.
 
-- [ ] **[🔴 PRIORITAS TINGGI] Artikel: Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi — Trilogi Hierarki Pendidikan**
+- [x] **[🔴 PRIORITAS TINGGI] Artikel: Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi — Trilogi Hierarki Pendidikan** `[SELESAI]`
   - *Deskripsi:* Menyusun artikel ensiklopedis mandiri berstandar 4-Zone MediaWiki tentang tiga kaidah pedagogis masyhur dari KH. Abdullah Syukri Zarkasyi (Pimpinan Pondok Modern Darussalam Gontor) yang menguraikan hierarki prioritas dalam pendidikan secara bertingkat:
     1. **Kaidah I — Materi vs. Metode:**
        > الْمَادَّةُ مُهِمَّةٌ وَلَكِنَّ الطَّرِيقَةَ أَهَمُّ مِنَ الْمَادَّةِ
@@ -148,6 +153,7 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
     3. **Kaidah III — Guru vs. Jiwa Guru:**
        > الْمُدَرِّسُ مُهِمٌّ وَلَكِنَّ رُوحَ الْمُدَرِّسِ أَهَمُّ مِنَ الْمُدَرِّسِ
        > *"Guru adalah sesuatu yang penting, tetapi jiwa guru jauh lebih penting dari seorang guru itu sendiri."*
+  - *Status Kemajuan:* Selesai penuh pada Milestone 62 (Naskah ensiklopedis 365 baris 4-Zone di `content/Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi.md`, matriks hierarki 4 tingkat operasional, Canvas interaktif piramida hierarki di `content/canvas/`, dan takhrij 5 dalil bersanad).
   - *Konten Artikel yang Diusulkan:*
     - **Zone 1:** Lead TL;DR berisi intisari tiga kaidah dalam satu paragraf padat, Infobox profil singkat KH. Abdullah Syukri Zarkasyi (lahir 1942, Pimpinan Gontor ke-3, konteks historis kaidah).
     - **Zone 2:** Syarah mendalam per kaidah — uraian filosofis-pedagogis, relevansi dalam manhaj PKN, korelasi dengan konsep *ruh al-mu'allim* (jiwa pendidik) dalam tradisi ulama salaf, dan penyambungan ke prinsip *uswah hasanah* Rasulullah ﷺ sebagai puncak trilogi.
@@ -159,8 +165,9 @@ Fokus pada pemindahan khazanah materi narasumber dan konsep-konsep pokok ke dala
   - *Perkiraan Token AI:* ~80k - 150k token (riset biografi, penyusunan syarah kaidah, perakitan artikel 4-Zone, pembuatan canvas, dan verifikasi takhrij dalil pendukung).
   - *Kebutuhan HITL:* **Tinggi** (verifikasi otentisitas dan sanad atribusi kaidah kepada KH. Abdullah Syukri Zarkasyi, review kesesuaian syarah oleh asatidzah/alumni Gontor, serta validasi kontekstualisasi ke manhaj PKN oleh kurator).
 
-- [ ] **Artikel: Firasat (الفِرَاسَة) — Metode Nabawi Membaca Jiwa & Mengenali Bakat Anak**
+- [x] **Artikel: Firasat (الفِرَاسَة) — Metode Nabawi Membaca Jiwa & Mengenali Bakat Anak** `[SELESAI]`
   - *Deskripsi:* Menyusun halaman konsep mandiri berstandar 4-Zone MediaWiki tentang **firasat** sebagai *metode pedagogis inti* dalam manhaj PKN — yaitu kemampuan menyimpulkan hal-hal batin (karakter, bakat, kondisi jiwa) dari tanda-tanda lahir yang tampak (gestur tubuh, ekspresi, perilaku spontan). Halaman ini berbeda dan lebih luas dari entri bakat TB-40 Pilar #7 ([`07-firaasah.md`](content/Paradigma%20-%20Implementasi%20PKN/Dokumen%20Pendidikan%20Karakter%20Nabawiyah/Paradigma%20%26%20Implementasi/Insan/Fitrah%20%28Karakter%29/Bakat/TB40/07-firaasah.md)) yang sudah ada — fokusnya bukan pada *memiliki bakat firasat*, melainkan pada *firasat sebagai alat/metode* yang bisa diasah oleh setiap orang tua dan guru.
+  - *Status Kemajuan:* Selesai penuh pada Milestone 62 (Naskah 436 baris 4-Zone di `content/Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Firasat.md`, Canvas 3 dimensi firasat di `content/canvas/`, matriks 8 kasus tanda lahiriah ke batiniah, protokol latihan observasi, serta penerbitan 2 halaman dalil mandiri di `content/Dalil/`: `dalil-firasat-mukmin-cahaya-allah.md` dan `dalil-al-mutawassimin-tanda-kebesaran-allah.md`).
   - *Konten Artikel yang Diusulkan:*
     - **Zone 1:** Lead TL;DR — definisi firasat dalam Islam (*menyimpulkan hal batiniah dari tanda yang tampak*), posisinya sebagai metode Rasulullah ﷺ dalam mengenali dan menempatkan sahabat, serta relevansinya sebagai metode pemetaan bakat anak yang lebih akurat daripada asesmen tertulis.
     - **Zone 2 — Fondasi Syar'i:** Dalil Al-Qur'an (QS. Al-Hijr: 75 *"Inna fī dzālika la-āyātin lil-mutawassimīn"* — tanda bagi yang tajam firasat) dan hadits tentang ketajaman firasat mukmin (*"Ittaqū firāsatal mu'min fa-innahū yanẓuru bi nūrillāh"*). Takhrij Shamela dan syarah Ibnul Qayyim dalam *Madarijus Salikin* tentang tiga tingkatan firasat: firasat imaniyah, firasat riyādhiyah, dan firasat khilqiyah.
@@ -284,8 +291,13 @@ Fokus pada telaah kritis literatur dan pemetaan ekosistem implementasi.
   - *Perkiraan Token AI:* ~600k - 1.2M token (perumusan dialektika, penataan tabel komparatif 6 dimensi, ekstraksi dalil dan syarah pembanding, serta perakitan draf artikel 4-Zone).
   - *Kebutuhan HITL:* Sangat Tinggi (otorisasi dan verifikasi argumen syar'i oleh kurator utama/Dewan Pakar Pendidikan Islam).
 
-- [ ] **[🔴 PRIORITAS TINGGI] Riset Khazanah Turats: Audit Dalil & Pendapat Ulama tentang Parenting via OpenBayan & Qaf — Temuan Gap & Kontradiksi dengan PKN**
+- [x] **[🔴 PRIORITAS TINGGI] Riset Khazanah Turats: Audit Dalil & Pendapat Ulama tentang Parenting via OpenBayan & Qaf — Temuan Gap & Kontradiksi dengan PKN** `[FASE 1 SELESAI]`
   - *Deskripsi:* Menjalankan proyek riset syar'i mendalam dan sistematis menggunakan **OpenBayan** (Qdrant `shamela_11m` — 11 juta matan Maktabah Syamilah) sebagai mesin sweep utama, dan **Qaf AI** (`qaf_wrapper` — 320+ kitab klasik) secara **terbatas dan strategis** untuk mengumpulkan dalil Al-Qur'an, Hadits, dan pendapat/komentar ulama yang berkaitan dengan tema-tema inti parenting/tarbiyatul aulad, lalu melakukan analisis kritis: **(1) Apa yang belum disebutkan dalam PKN?** dan **(2) Apakah ada yang berpotensi bertentangan atau perlu klarifikasi?**
+  - *Status Kemajuan:* Fase 1 (Sweeping & Gap Analysis via OpenBayan) selesai penuh pada Milestone 63. Telah diterbitkan 4 berkas riset internal berbobot ~80 KB di `sources/audit_dalil_parenting/`:
+    1. `00_README_dan_Metodologi.md` (Alur riset, arsitektur dual-engine FTS5 + Qdrant, taksonomi 7 klaster tematik, batasan syar'i).
+    2. `01_sweeping_hadits_tarbiyah.md` (22 entri hadits/atsar lengkap dengan matan Arab berharakat, perawi, nomor, takhrij, derajat sanad, terjemahan resmi, dan kutipan syarah ulama salaf).
+    3. `04_gap_analysis_belum_disebutkan.md` (Komparasi 86 file fisik di `content/Dalil/` dan pembongkaran 6 gap kunci dalil tarbiyah).
+    4. `06_rekomendasi_pengayaan_konten.md` (Blueprint penerbitan 6 dalil mandiri baru dan matriks pengayaan 10 artikel pilar inti).
   - **Sifat Output: Dokumen Kerja Internal** — Hasil analisis ini **tidak langsung diterbitkan** di Quartz sebagai halaman publik, melainkan disimpan sebagai kumpulan dokumen riset internal di direktori `sources/audit_dalil_parenting/` untuk kemudian menjadi bahan review, koreksi, dan pengayaan naskah PKN oleh tim asatidzah/kurator.
   - > ⚠️ **Batasan Kuota Qaf AI:** Qaf AI memiliki kuota terbatas **~100 pesan per bulan**. Penggunaannya **WAJIB dihemat** — jangan dipakai untuk sweeping massal atau kueri eksplorasi acak. Qaf **hanya boleh dipanggil** untuk: (a) **verifikasi hipotesis** yang sudah dirumuskan dari hasil sweep OpenBayan, dan (b) **meta-analysis tingkat tinggi** — yaitu ketika sudah ada temuan spesifik yang perlu dikonfirmasi atau dikontekstualisasikan dengan komentar ulama dari kitab tertentu. Seluruh eksplorasi awal dan broad scanning dilakukan via OpenBayan.
   - *Tahapan Kerja:*
@@ -401,8 +413,9 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Evaluasi karakter berbasis narasi perkembangan dan pengamatan perilaku nyata, bukan sekadar skor angka ujian.
   - *Perkiraan Token AI:* ~450k - 800k token (perumusan indikator perilaku deskriptif & rubrik asesmen naratif).
   - *Kebutuhan HITL:* Tinggi (validasi konstruk instrumen penilaian karakter oleh pakar evaluasi pendidikan).
-- [ ] **Bank Cerita Sirah & Apersepsi KBM**
+- [x] **Bank Cerita Sirah & Apersepsi KBM** `[SELESAI]`
   - *Deskripsi:* Kumpulan kisah Rasulullah ﷺ dan para sahabat yang dipetakan ke tema-tema pelajaran sains/sosial/matematika untuk apersepsi KBM.
+  - *Status Kemajuan:* Selesai penuh pada Milestone 63 (Naskah master berstandar MediaWiki 4-Zone di `content/Toolkit KBM/Bank Cerita Sirah dan Apersepsi KBM.md` memuat 12 riwayat shahih/hasan dalam 4 tema kurikulum sains, sosial, matematika, dan adab, inquiry prompts Bahasa Hati 3 tingkat, rubrik evaluasi kualitatif non-angka BT-MT-BK-MM, takhrij dalil berharakat lengkap, dan SOP 5 menit pembuka KBM).
   - *Perkiraan Token AI:* ~1.2M - 2M token (kurasi riwayat sirah shahihah dan pemetaannya ke topik kurikulum umum).
   - *Kebutuhan HITL:* Tinggi (tahqiq keabsahan riwayat sirah agar terhindar dari kisah dha'if/maudhu').
 - [ ] **Panduan Penanganan Kasus Khusus (Adiksi Gadget, Bullying, Tantrum)**
@@ -421,10 +434,10 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Kebutuhan HITL:* Sedang (uji kenyamanan membaca teks Arab berharakat oleh asatidzah).
 
 ### D. Fitur Teknis Platform & Distribusi
-- [ ] **Fitur Ekspor PDF Rapi Siap Cetak (Print Stylesheet)**
-  - *Deskripsi:* Cetak halaman materi / RPP / modul dalam format A4 bersih tanpa elemen navigasi website.
-  - *Perkiraan Token AI:* ~30k - 60k token (pembuatan aturan `@media print` CSS, page break, dan header/footer bersih).
-  - *Kebutuhan HITL:* Rendah (pengujian print-preview di beberapa peramban).
+- [x] **Fitur Ekspor PDF Rapi Siap Cetak (Print Stylesheet)** `[SELESAI LOKAL]`
+  - *Deskripsi:* CSS cetak A4 untuk materi / RPP / modul menyembunyikan sidebar, breadcrumb, metadata, action bar, dan footer situs; tabel dibungkus sesuai lebar halaman, callout dan baris tabel dijaga agar tidak terbelah bila muat.
+  - *Verifikasi:* Build Quartz 484 input berhasil; Chromium menghasilkan PDF RPP dan artikel dalil. Uji peramban selain Chromium tetap disarankan sebelum rilis publik.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Dukungan Akses Offline / PWA (Progressive Web App)**
   - *Deskripsi:* Memungkinkan wiki diakses tanpa koneksi internet stabil bagi sekolah/guru di daerah minim sinyal.
   - *Perkiraan Token AI:* ~40k - 80k token (implementasi service worker, manifest JSON, dan strategi caching aset).
@@ -500,9 +513,19 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     - [x] Isolasi Partisi Data Ekstraksi: Pemisahan direktori input (`sources/research_papers/` vs `searchable_pdfs/`) dan direktori output (`data/extracted_elements/external_research/` vs `data/extracted_elements/pkn_internal/`) `[SELESAI]`
     - [x] Peluncuran container & batch ingestion 88 dokumen PDF/PPTX mentah menggunakan Unstructured API (hi_res & fast fallback) `[SELESAI]`
       - *Hasil Ekstraksi:* 88/88 berkas sukses 100% (47 PDF + 41 PPTX), menghasilkan 5.311 elemen semantik terstruktur dan 166 tabel Markdown rapi di `data/extracted_elements/`.
-    - [ ] Penyelarasan materi hasil ekstraksi dan pengindeksan ke Vector Store (Qdrant)
+    - [ ] Penyelarasan materi hasil ekstraksi dan pengindeksan ke koleksi Qdrant **khusus korpus PKN** (bukan `shamela_11m`), dengan ID stabil, metadata sumber/lokasi, pembaruan idempoten, dan penghapusan chunk dokumen yang berubah; verifikasi hasil kueri pada sampel dokumen sebelum menandai selesai.
+    - [x] Implementasi lokal `scripts/pkn_retrieval.py`: indeks Qdrant koleksi `pkn_internal`, embedding Ollama `qwen3-embedding:0.6b`, ID titik stabil, sinkronisasi chunk yang berubah, pencarian dengan lokasi halaman, dan tes in-memory di `tests/test_pkn_retrieval.py`. Jalankan `index --input <satu-JSON-ekstraksi> --source-id <ID-registry-yang-sesuai>` setelah memeriksa asal dokumen. Smoke Qdrant persisten memakai berkas sintetis pada koleksi sementara: 2 titik awal, 2 setelah indeks ulang, 1 setelah chunk dihapus, sitasi `/synthetic/lesson.pdf#page=2`; koleksi sementara telah dihapus. Uji dokumen PDF nyata sempat menghasilkan sitasi, tetapi atribusi `PPTX-PRESENTATIONS` keliru dan koleksi uji itu telah dihapus. Indeks produksi, relevansi korpus penuh, dan sitasi halaman asli belum diverifikasi; klien Qdrant 1.19.1 dan server 1.12.0 belum selaras versinya.
   - *Perkiraan Token AI:* ~150k - 300k token (pembuatan adapter API client Python, konfigurasi deployment container, transformasi skema chunking, dan pengujian perbandingan akurasi ekstraksi).
   - *Kebutuhan HITL:* Sedang (evaluasi presisi hasil partisi teks, struktur tabel, dan teks Arab berharakat pada sampel dokumen PDF modul PKN).
+
+### Analisis implementasi dan gerbang kualitas RAG (2026-10-01)
+
+- **Status jalur RAG:** `scripts/unstructured_adapter.py` menghasilkan `langchain_documents` dan `hierarchical_graph` dalam berkas cache JSON/Markdown (`scripts/unstructured_adapter.py:268-417,420-487`). `scripts/pkn_retrieval.py` kini menyediakan indeks dan pencarian vektor Qdrant terpisah, tetapi belum mengimpor relasi ke SurrealDB, menggabungkan dalil lintas koleksi, atau menghasilkan jawaban. Klaim 88 dokumen terpartisi di atas membuktikan tahap ekstraksi, bukan kualitas retrieval atau jawaban.
+- **Pisahkan korpus dan otoritas:** `shamela_11m` pada `local_qdrant:6333` adalah rujukan dalil/turats (`data/sources_registry.csv:2-4`), sedangkan `qdrant-research` terpisah memakai port host 6335/6336 (`docker-compose.qdrant-research.yml:1-14`). Tentukan koleksi PKN tersendiri, asal setiap potongan, izin pemakaian, serta aturan penggabungan hasil lintas koleksi sebelum menerapkan RRF. Jangan menyamakan skor kemiripan antarkoleksi secara langsung.
+- **Presedensi belum terhubung ke pencarian:** `scripts/source_precedence.py:61-104` menghitung bobot berdasarkan registry, tetapi dokumen hasil ekstraksi hanya membawa metadata elemen, kategori, dan path (`scripts/unstructured_adapter.py:268-296`). Petakan `source_id` dan lokasi kutipan ke tiap chunk; sumber `superseded` tidak boleh menjadi dasar jawaban mutakhir hanya karena penalti bobotnya 0,5. Perbedaan bobot tetap dalam roadmap (buku 0,9; slide 0,7) dan registry (`data/sources_registry.csv:5-12`: buku 1,0; slide 0,65) harus diputuskan kurator sebelum pemeringkatan.
+- **Graf yang ada masih artefak per dokumen:** ID node dibentuk dari nama berkas, dan `surrealql_preview` hanya memuat 30 chunk serta 30 edge pertama (`scripts/unstructured_adapter.py:309-310,397-416`). Sebelum impor graf, tetapkan ID berbasis path/identitas dokumen, migrasi saat sumber berubah, dan escaping/parameterisasi teks; preview bukan skrip impor lengkap.
+- **Urutan gerbang:** (1) tutup eksposur Qdrant/Unstructured yang dicatat sebagai P0 di bagian audit repositori; (2) indeks sampel PKN dengan metadata dan sinkronisasi idempoten; (3) uji himpunan pertanyaan berlabel mencakup bahasa Indonesia/Arab, tabel, fase usia, dalil, serta sumber yang digantikan; ukur recall@k dan ketepatan lokasi sitasi, termasuk abstain bila bukti tidak ada; (4) baru tambah graf, hybrid RRF, dan perakitan parent section jika baseline retrieval terbukti kurang; (5) uji jawaban bersitasi dengan kurator sebelum chatbot publik; (6) terbitkan hasil Q&A hanya sebagai draf setelah tinjauan manusia. Catat versi model embedding, strategi chunking, dan hasil evaluasi tiap perubahan; jangan anggap ukuran chunk 150/1.200 token sebagai angka baku sebelum diuji.
+
 - [ ] **Arsitektur GraphRAG Heterogen & Bobot Sumber (Unstructured ➔ Schema Extractor ➔ SurrealDB & Qdrant)**
   - *Deskripsi:* Membangun engine GraphRAG terspesialisasi untuk menangani korpus heterogen PKN (Buku rujukan, Slide PPTX, Transkrip audio 122 video di `pkn.db`, Modul PDF, dan data terstruktur JSON):
     1. **Front-Door Ingestion:** Memanfaatkan container `unstructured-api` (port 8005) untuk preservasi tata letak slide presentasi (.pptx), tabel perbandingan, dan hierarki heading buku.
@@ -516,6 +539,7 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     7. **Small-to-Big & Contextual Situational Prefix:** Mengindeks *child chunk* (~150 token) untuk presisi pencarian, namun menyuplai *parent section* (~1.200 token) ke LLM; menyematkan awalan situasional 50-token `[Konteks: Dokumen, Bab, Etape Usia]` untuk mengeliminasi kesalahan konteks hukum antar-fase usia anak.
   - *Perkiraan Token AI:* ~450k - 900k token (perumusan ontologi Pydantic, dual-level retrieval runner, integrasi client SurrealDB/Qdrant, dan evaluasi akurasi jawaban).
   - *Kebutuhan HITL:* Tinggi (validasi keabsahan skema relasi karakter dan review hasil jawaban RAG oleh tim asatidzah/kurator).
+  - *Kriteria penerimaan:* Jalur dokumen-ke-indeks-ke-kueri dapat dijalankan ulang tanpa duplikasi; setiap hasil menunjuk dokumen, bagian/halaman atau timestamp, dan `source_id`; graf lintas dokumen tidak bentrok ID; evaluasi berlabel membandingkan baseline tanpa graf dengan graf/hybrid dan menunjukkan manfaat terukur sebelum kompleksitas baru dipertahankan.
 - [ ] **Kompilasi Wiki Otomatis Pola 3-Pass Map-Reduce (Map-Reduce Wiki Compiler)**
   - *Deskripsi:* Membangun arsitektur 3 lintasan (*three-pass compilation*) untuk mengompilasi korpus multi-modal (8 buku cetak, slide daurah, dan 122 video `pkn.db`) menjadi halaman Quartz v5 berstandar Diátaxis tanpa distorsi fakta:
     1. **Pass 1 (Map / Ingestion):** Parsing via Unstructured, ekstraksi proposisi fakta atomik, dan perakitan pohon Daftar Isi (TOC Tree).
@@ -527,10 +551,12 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Deskripsi:* Fitur AI pintar pencari solusi yang menjawab pertanyaan seputar PKN berbasis dokumen, graf konsep, dan dalil di wiki ini (*grounded QA* memanfaatkan layer GraphRAG di atas).
   - *Perkiraan Token AI:* ~250k - 500k token (setup chunking, embedding korpus, perumusan system prompt, dan evaluasi retrieval).
   - *Kebutuhan HITL:* Tinggi (evaluasi mitigasi halusinasi terhadap dalil dan panduan adab).
+  - *Prasyarat rilis:* Retrieval dan sitasi lolos evaluasi berlabel serta review kurator; jawaban tanpa bukti memadai menyatakan keterbatasan, tidak mengarang dalil atau derajat hadits; antarmuka hanya menampilkan rujukan yang dapat ditelusuri ke sumber asli. UI publik dan kebijakan akses/biaya layanan diputuskan sebelum deployment.
 - [ ] **Mekanisme Compounding Queries (Konversi Tanya-Jawab RAG Menjadi Halaman Wiki Permanen)**
   - *Deskripsi:* Menghubungkan chatbot RAG asisten PKN ke siklus akumulasi pengetahuan (*Compounding Knowledge Loop*): saat asisten menghasilkan sintesis jawaban bernilai tinggi atas problematika pengasuhan/KBM yang kompleks, jawaban tersebut tidak hilang di riwayat chat, melainkan otomatis dikompilasi menjadi draf artikel baru di direktori `content/Insight & Teknis/` atau FAQ terindeks via branch staging Git (`ingest/qna-...`), sehingga ilmu terus bertambah (*compounding*) dan siap diretrieve instan pada pencarian berikutnya.
   - *Perkiraan Token AI:* ~200k - 350k token (orkestrasi QnA synthesizer, pemetaan wikilinks, dan pembuatan draf Diátaxis).
   - *Kebutuhan HITL:* Sedang - Tinggi (review kurator/asatidzah sebelum draf jawaban RAG di-merge ke branch `main`).
+  - *Kriteria penerimaan:* Jawaban tersimpan sebagai draf dengan tautan sumber dan jejak versi, bukan langsung sebagai fakta publik; kurator menyetujui perubahan sebelum merge, dan indeks hanya memperbarui konten yang telah disetujui agar jawaban sintetis tidak menjadi sumber bagi dirinya sendiri.
 - [ ] **Arsitektur Tiga Tingkat "LLM-as-Librarian" & Pembaruan Diferensial (The Karpathy Wiki Pattern)**
   - *Deskripsi:* Menerapkan pemisahan mutlak tiga lapisan sistem:
     1. **Tier 1 (Raw Ingestion / Immutable):** Berkas PDF, PPTX, transkrip rekaman video `pkn.db`, dan JSON (Read-Only bagi LLM).
@@ -634,6 +660,16 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
     5. **R5 (Sinkronisasi Navigasi, Linter Korpus & Quartz Build):** Pembaruan `nav_structure.json` mencakup simpul Zarkasyi, Firasat, dan 2 Dalil (total 148 simpul, 120 simpul daun, 0 broken leaf), 87 unit tests lulus 100%, linter korpus `scripts/wiki_corpus_linter.py` lolos bersih (0 broken link, 0 vocabulary violation, skor Clarity 86.3/100), dan kompilasi statis `npx quartz build` sukses memproses 484 berkas (2.713 file statis, exit code 0).
   - *Perkiraan Token AI:* ~180k - 300k token.
   - *Kebutuhan HITL:* Rendah.
+- [x] **Milestone 63: Sinkronisasi Status, Perluasan Callout Kontras, Bank Cerita Sirah & Apersepsi KBM, Infografis WAG, dan Riset Turats Parenting OpenBayan** `[SELESAI]`
+  - *Deskripsi:* Eksekusi komprehensif lima pilar penyempurnaan konten dan riset repositori Wiki PKN:
+    1. **R1 (Sinkronisasi Status TODO.md):** Penyelarasan checklist `[x] [SELESAI]` pada `TODO.md` baris 145 (Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi) dan baris 168 (Firasat Nabawiyah beserta 2 dalil mandirinya), memastikan 100% konsistensi dokumentasi terhadap berkas deliverable fisik repositori.
+    2. **R2 (Perluasan Retroaktif Callout Kontras Refleksi):** Injeksi komponen callout tabel kontras dua kolom (`> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN`) berisi 5 pasang butir kontras operasional (total 60 pasang kontras baru) pada 12 artikel pilar inti PKN di `content/Paradigma - Implementasi PKN/` (*Hakikat Insan*, *Tujuan Hidup Manusia*, *Fitrah Belajar*, *4 Kaidah Implementasi*, *Batas Toleransi*, *Tangki Cinta*, *Kesadaran Beramal*, *Imunitas Sosial*, *Tazkiyatun Nafs*, *Peran Guru*, *4 Elemen Implementasi*, *8 Standar Implementasi PKN*), serta eliminasi 100% placeholder generik tanpa sisa.
+    3. **R3 (Bank Cerita Sirah & Apersepsi KBM):** Penerbitan dokumen master 4-Zone di `content/Toolkit KBM/Bank Cerita Sirah dan Apersepsi KBM.md` (549 baris) memuat 12 riwayat sirah & atsar sahabat shahih/hasan terpetakan dalam 4 tema (Sains, Sosial, Matematika, Adab), *Inquiry Prompts Bahasa Hati* 3 tingkat, *Rubrik Refleksi Adab Non-Angka* (BT, MT, BK, MM), dan SOP KBM 5 menit bagi pendidik.
+    4. **R4 (Infografis Ringkasan Materi PKN Siap Sebar):** Penerbitan dokumen 4-Zone di `content/Toolkit KBM/Infografis Ringkasan Materi PKN Siap Sebar.md` (366 baris) dengan 10 kartu konsep pokok PKN dalam format Dual-Layer (tampilan visual responsif web + blok teks raw monospace siap salin WhatsApp berformat `*bold*` dan `_italic_`), serta Kalender Siar 10 Hari bagi kemitraan sekolah dan orang tua.
+    5. **R5 (Riset Khazanah Turats Parenting via OpenBayan):** Eksekusi riset internal di `sources/audit_dalil_parenting/` (4 berkas kerja ~80 KB: `00_README_dan_Metodologi.md`, `01_sweeping_hadits_tarbiyah.md` dengan 22 hadits/atsar terstandar, `04_gap_analysis_belum_disebutkan.md` membedah 6 gap kunci terhadap 86 halaman dalil eksisting, dan `06_rekomendasi_pengayaan_konten.md` perumusan 6 dalil mandiri baru serta matriks pengayaan 10 artikel pilar), 100% bebas istilah terlarang.
+    6. **Sinkronisasi Navigasi Sidebar & Verifikasi Kualitas:** Pembaruan `nav_structure.json` dengan penambahan simpul Bank Cerita Sirah dan Infografis WAG (total 150 simpul, 122 daun), sinkronisasi assertion `tests/test_nav_structure.py`, kelulusan 87 unit tests (100% pass), linter korpus `scripts/wiki_corpus_linter.py` bersih (0 broken links, 0 prohibited terms, skor Clarity 86.32/100), dan kompilasi statis Quartz v5 sukses memproses 486 berkas markdown (2.746 berkas statis, exit code 0).
+  - *Perkiraan Token AI:* ~200k - 350k token.
+  - *Kebutuhan HITL:* Rendah.
 - [ ] **Wiki "Linter" Agent (Continuous Knowledge Maintenance & Audit Kualitas Korpus)**
   - *Deskripsi:* Membangun agen pemeliharaan linter offline terjadwal untuk mengaudit kesehatan struktural repositori wiki:
     1. **Orphan & Broken Link Detection:** Memindai seluruh sintaks `[[WikiLinks]]`, menandai tautan buntu (*broken target*) atau halaman yatim (*orphan page*) yang tidak memiliki rujukan masuk (*zero inbound citations*).
@@ -681,8 +717,9 @@ Kumpulan ide dan usulan eksplorasi fitur, konten, serta teknis yang dapat dipert
   - *Kebutuhan HITL:* Tinggi (review kesesuaian solusi tindakan disiplin dengan prinsip kasih sayang nabawiyah).
 
 ### I. Visualisasi Media & Aksesibilitas Pembaca
-- [ ] **Infografis Ringkasan Siap Sebar (Format WhatsApp/Media Sosial)**
+- [x] **Infografis Ringkasan Siap Sebar (Format WhatsApp/Media Sosial)** `[SELESAI]`
   - *Deskripsi:* Desain ringkasan 1 lembar visual (1080x1080 / PDF 1 halaman) materi pokok untuk memudahkan guru menyebarkannya ke WAG wali murid.
+  - *Status Kemajuan:* Selesai penuh pada Milestone 63 (Naskah berstandar MediaWiki 4-Zone di `content/Toolkit KBM/Infografis Ringkasan Materi PKN Siap Sebar.md` memuat 10 kartu konsep pokok PKN dalam format Dual-Layer: container visual responsif web + blok teks raw monospace siap salin WhatsApp berformat `*bold*` dan `_italic_`, serta panduan kalender siar 10 hari).
   - *Perkiraan Token AI:* ~400k - 800k token (ekstraksi intisari artikel, copywriting ringkas, dan penyusunan prompt instruksi desain visual).
   - *Kebutuhan HITL:* Sedang (review kejelasan pesan visual oleh tim media/komunikasi).
 

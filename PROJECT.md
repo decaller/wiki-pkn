@@ -40,7 +40,7 @@ The expansion comprises four technical & content tracks plus an automated verifi
 | M2 | Wiki Corpus Linter & Quality Remediation | Features 7, 8, 9, 10, 11 | M1, M4 (partial) | DONE |
 | M3 | Umami Analytics Container & SEO Optimization | Features 12, 13, 14, 15 | None | DONE |
 | M4 | 8 Canonical Book Reviews & Reference Hub | Features 16, 17 | None | DONE |
-| M5 | E2E Verification & Production Deployment | Features 18, 19, 20 | M1, M2, M3, M4 | PLANNED |
+| M5 | E2E Verification & Production Deployment | Features 18, 19, 20 | M1, M2, M3, M4 | PARTIAL: build lokal diverifikasi; CI/deploy produksi tidak diverifikasi dalam sesi ini |
 
 ## Interface Contracts
 ### content/Dalil/ ↔ content/

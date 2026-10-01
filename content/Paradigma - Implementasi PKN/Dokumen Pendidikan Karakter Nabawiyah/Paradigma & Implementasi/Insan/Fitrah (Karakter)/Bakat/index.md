@@ -92,7 +92,11 @@ aliases:
 Dalam naskah resmi *Seminar 2: Tafsir Bakat TB-40*, **Bakat** secara syar'i diistilahkan sebagai **Al-Mauhibah (المَوْهِبَة)**, yaitu anugerah keistimewaan sifat dan kecondongan fitriah yang Allah sematkan secara unik pada diri setiap hamba sebagai bekal menunaikan peran peradaban.
 
 Landasan teologis penciptaan bakat merujuk pada firman Allah *Subhanahu wa Ta'ala*:
-$$\text{وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ}$$
+
+<div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
+وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ
+</div>
+
 *"Dan segala sesuatu pada sisi-Nya ada kadarnya (ukuran dan potensinya yang terukur)."* (QS. Ar-Ra'd: 8).
 
 Imam Ibnul Jauzi *rahimahullah* dalam kitab *Al-Hats 'ala Thalabil 'Ilmi* menegaskan:

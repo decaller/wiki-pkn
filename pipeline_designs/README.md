@@ -78,7 +78,11 @@ flowchart TD
     P3 & P4 & P7 & P8 --> QAF_AI
     P5 --> TB40_API
 
-    P1 & P2 & P3 & P4 & P5 & P6 & P7 & P8 & P9 & P10 --> HITL_GATE
+    HYBRID_GATE{"⚡ Pre-Flight Hybrid Gate (Pipeline 11)<br/>Rule-Based Linter + System One Model<br/>(Score ≥ 70 Pass Threshold, <0.2s)"}
+
+    P1 & P2 & P3 & P4 & P5 & P6 & P7 & P8 & P9 & P10 --> HYBRID_GATE
+    HYBRID_GATE -- "Lolos (Score ≥ 70)" --> HITL_GATE
+    HYBRID_GATE -.->|"Gagal (Score < 70)<br/>Fast-Fail Feedback"| ROUTER
     HITL_GATE --> QUARTZ_OUT
 ```
 
@@ -98,6 +102,7 @@ flowchart TD
 | **08** | [08_pipeline_halaman_komparasi_konsep.md](08_pipeline_halaman_komparasi_konsep.md) | Matriks perbandingan filosofis: PKN vs Konvensional vs Montessori vs FBE | Buku rujukan teori pendidikan, modul komparasi tarbiyah | Matrix Comparator, Philosophical Deconstructer, Sharia Gate | `Tinggi` |
 | **09** | [09_pipeline_halaman_template_toolkit.md](09_pipeline_halaman_template_toolkit.md) | Instrumen siap pakai (RPP, Lembar Observasi Karakter, Rubrik Non-Angka, AI Prompt) | Dokumen administratif sekolah, formulir evaluasi santri | Rubric Builder, Structured Prompt Crafter, Checklist Normalizer | `Sedang - Tinggi` |
 | **10** | [10_pipeline_halaman_profil_lembaga.md](10_pipeline_halaman_profil_lembaga.md) | Profil lembaga & sekolah mitra, adaptasi kurikulum, dan evaluasi implementasi | Profil sekolah mitra, dokumentasi KBM, wawancara pimpinan | Institutional Profiler, Consent Gatekeeper, Benchmark Engine | `Sedang` |
+| **11** | [11_hybrid_quality_evaluation_system_one.md](11_hybrid_quality_evaluation_system_one.md) | Evaluasi otomatis kualitas tulisan berbasis linter deterministik & model System One (<0.2s) | Draf Markdown hasil generate, parameter style guide | Rule-Based Regex Linter, System One Decision Head (Jev/Laya/Kev), Weighted Aggregator | `Otomatis (Pre-Flight)` |
 
 ---
 

@@ -217,7 +217,9 @@ Dalam mendidik dan memulihkan adab anak saat terjadi peristiwa, Ustadz Abdul Kho
 
 Keberhasilan kurikulum berbasis peristiwa tidak bergantung pada kesempurnaan teknik semata, melainkan pada kebersihan hati dan kesadaran spiritual orang tua sebagai *Mu'allim*. Sebagaimana ditekankan dalam ajaran Nabawiyah, setiap orang tua memikul **"Tanggung Jawab yang Besar" (*Mas’uliyah ‘Adhimah*)** yang terkalung di leher mereka:
 
-$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ}$$
+<div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
+كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ
+</div>
 
 Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, melainkan **"Kuttab Nabawiyah di dalam rumah"** yang Allah gelar khusus untuk menumbuhkan akal dan adab ananda. Dengan merespons setiap peristiwa secara bertahap dan beradab, kita memastikan anak tumbuh tidak hanya baligh secara jasmani, tetapi juga paripurna kematangan akalnya (*Aqil-Baligh*) menuju hamba Allah yang bertaqwa.
 

@@ -114,8 +114,8 @@ class TestNavStructure(unittest.TestCase):
         unresolved_all = [n for n in all_nodes if not n["slug"]]
 
         # Assertions
-        self.assertEqual(len(all_nodes), 148, f"Expected 148 total nodes, got {len(all_nodes)}")
-        self.assertEqual(len(leaves), 120, f"Expected 120 leaf nodes, got {len(leaves)}")
+        self.assertEqual(len(all_nodes), 150, f"Expected 150 total nodes, got {len(all_nodes)}")
+        self.assertEqual(len(leaves), 122, f"Expected 122 leaf nodes, got {len(leaves)}")
         self.assertEqual(len(unlinked_leaves), 0, f"Unlinked leaves found: {unlinked_leaves}")
         self.assertEqual(len(unresolved_all), 0, f"Unresolved nodes found: {unresolved_all}")
 

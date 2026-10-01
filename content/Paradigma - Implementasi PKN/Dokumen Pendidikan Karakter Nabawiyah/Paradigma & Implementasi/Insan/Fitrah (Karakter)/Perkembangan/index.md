@@ -90,11 +90,19 @@ tags:
 Pendidikan Karakter Nabawiyah (PKN) memandang bahwa setiap anak melewati tahapan perkembangan fitrah yang tidak boleh dilompati (*sunnatullah tadarruj*). Landasan dasarnya berpijak pada dua hadits agung:
 
 1. **Hadits Pengangkatan Pena Syariat (*Rufi'al Qalam*):**
-   $$\text{رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ}$$
+
+   <div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
+   رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ
+   </div>
+
    *“Diangkat pena (pencatat amal/dosa) dari tiga golongan: dari orang yang tidur sampai ia bangun, dari anak kecil sampai ia baligh (bermimpi basah), dan dari orang gila sampai ia berakal.”* (HR. Abu Dawud, Tirmidzi, dan Ahmad).
 
 2. **Hadits Penjenjangan Shalat Berbasis Usia:**
-   $$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
+
+   <div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
+   مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ
+   </div>
+
    *“Perintahkanlah anak-anak kalian untuk mendirikan shalat ketika mereka berumur 7 tahun, dan pukullah mereka (dengan pukulan edukatif tanpa mencederai) jika meninggalkannya ketika berumur 10 tahun, serta pisahkanlah tempat tidur mereka.”* (HR. Abu Dawud).
 
 ---

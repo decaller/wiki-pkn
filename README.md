@@ -1,7 +1,7 @@
 # Wiki Pendidikan Karakter Nabawiyah (PKN)
 
 [![Quartz v5](https://img.shields.io/badge/Platform-Quartz%20v5-blue)](https://quartz.jzhao.xyz/)
-[![Total Halaman](https://img.shields.io/badge/Halaman-123%20Berkas-success)](ARTICLE_AUDIT_REPORT.md)
+[![Input Markdown](https://img.shields.io/badge/Input%20Markdown-484-success)](content/)
 [![Kepatuhan Standar](https://img.shields.io/badge/Standar%20Emas-100%25%20Lulus%20(%E2%89%A55k%20chars)-brightgreen)](ARTICLE_AUDIT_REPORT.md)
 [![Total Karakter](https://img.shields.io/badge/Total%20Karakter->1%2C000%2C000-orange)](ARTICLE_AUDIT_REPORT.md)
 [![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia%20%26%20Arab%20(OpenBayan)-emerald)](content/Referensi/Korpus%20Dalil%20%26%20Atsar%20Klasik.md)
@@ -61,7 +61,7 @@ graph TD
 
 ## 2. Fitur Unggulan Sistem Basis Pengetahuan
 
-1. **123 Artikel Ensiklopedia Berstandar Emas (≥ 5.000 Karakter):** Setiap halaman ditulis secara mendalam dengan landasan Al-Qur'an, Hadits shahih, syarah ulama, diagnosis tafrith-ifrath, rubrik evaluasi, dan lembar refleksi.
+1. **Korpus Markdown:** Build lokal terakhir memproses 484 berkas input, termasuk halaman indeks dan dokumen pendukung; angka 123 di laporan audit artikel merujuk pada cakupan audit saat laporan dibuat, bukan seluruh input build.
 2. **Link Pencarian OpenBayan Terintegrasi (183 Link):** Setiap callout dalil memiliki tombol 🔍 yang menghubungkan langsung ke platform OpenBayan (seluruh dataset **Maktabah Syamilah**) untuk penelusuran teks Arab mendalam.
 3. **41 Presentasi Interaktif Embedded:** Materi slide resmi PKN ditampilkan langsung via iframe Microsoft Office Web Apps (OneDrive) di 57 artikel — dapat dinavigasi, dibuka layar penuh, dan diunduh.
 4. **96 Diagram Visual Obsidian Canvas:** Seluruh diagram telah dikonversi ke format JSON Canvas 1.0 resmi (0 Mermaid tersisa), mendukung tampilan interaktif dan integrasi Obsidian penuh.
@@ -75,6 +75,7 @@ graph TD
 
 | Dokumen | Deskripsi |
 |---|---|
+| 📱 **[IDE_APLIKASI_MOBILE_PKN.md](IDE_APLIKASI_MOBILE_PKN.md)** | **Blueprint & konsep pengembangan aplikasi mobile PKN (Multi-role: Guru, Orang Tua, Siswa/Anak, dan Umum).** |
 | ✍️ **[PANDUAN_PENULISAN_KONTEN.md](PANDUAN_PENULISAN_KONTEN.md)** | **Panduan operasional resmi penulisan konten, pemanfaatan database dalil, ekstraksi materi, dan alur kontribusi.** |
 | 📊 **[ARTICLE_AUDIT_REPORT.md](ARTICLE_AUDIT_REPORT.md)** | Laporan audit kuantitatif & kualitatif panjang seluruh artikel (100% kepatuhan standar emas). |
 | 📑 **[PRESENTATION_AUDIT_REPORT.md](PRESENTATION_AUDIT_REPORT.md)** | Laporan audit inventaris 145 berkas PDF/PPTX presentasi pelatihan dan tautan cloud Dropbox. |
@@ -94,7 +95,7 @@ graph TD
 ## 4. Panduan Menjalankan Secara Lokal
 
 ### Prasyarat:
-- Node.js versi 18.14.0 atau yang lebih baru.
+- Node.js versi 22 atau yang lebih baru (npm >=10.9.2; lihat `package.json`).
 - npm atau npx.
 
 ### Langkah Menjalankan:

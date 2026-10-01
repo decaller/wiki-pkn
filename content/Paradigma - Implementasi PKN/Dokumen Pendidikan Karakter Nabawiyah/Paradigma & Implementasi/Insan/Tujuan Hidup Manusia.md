@@ -311,13 +311,14 @@ Imam Ibnu Katsir rahimahullah menyampaikan "Ini adalah janji dari Allah kepada R
 
 ---
 
-> [!info] Refleksi Lapangan: Menjaga Kemurnian Batin dalam Dinamika Tujuan Hidup Manusia
-> **Kondisi Faktual:** Sering kali pengasuhan terjebak pada tuntutan perilaku luar (*zhahir*) sementara kondisi ruhani dan dinamika batiniah (*bathin*) anak terabaikan, melahirkan kegersangan jiwa.  
-> **Akar Masalah PKN:** Mereduksi manusia menjadi makhluk materialistis tanpa menghidupkan sambungan fitrah ketuhanan (*shibghatullah*) yang menjadi sumber kedamaian sejati.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Hidupkan suasana ibadah yang khusyuk dan penuh penghayatan di lingkungan rumah.  
-> 2. Bantu anak mengenali gejolak emosi dan bisikan jiwanya dengan bimbingan wahyu.  
-> 3. Tanamkan orientasi akhirat sebagai kompas penentu seluruh cita-cita duniawi.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Mengarahkan cita-cita anak semata-mata untuk meraih kemapanan finansial**, status sosial tinggi, dan pekerjaan bergaji besar. | **Menanamkan sejak dini bahwa puncak tujuan hidup adalah beribadah menghamba kepada Allah** (*'Ibadatullah*) dan meraih ridha-Nya di akhirat sebagai pribadi yang *Sholih*. |
+> | **Menyeragamkan impian masa depan anak ke profesi-profesi populer** tanpa mempedulikan keunikan potensi fitrah yang Allah titipkan. | **Menggali dan memfasilitasi peran peradaban spesifik anak** agar ia tumbuh menjadi pribadi *Muslih* (pemakmur bumi dan pemecah masalah ummah) di atas *syakilah*-nya. |
+> | **Membatasi pemahaman ibadah hanya pada ritual mahdhah di masjid**, sementara ranah sains, ekonomi, dan profesi dianggap urusan duniawi yang terpisah. | **Menyatukan seluruh bidang kehidupan sebagai ladang ibadah ghairu mahdhah**; menjadikan sains dan keahlian teknis sebagai instrumen kemanfaatan dakwah Islam. |
+> | **Mendidik anak hanya untuk menjadi orang baik bagi dirinya sendiri** (saleh individual) yang acuh tak acuh terhadap kezaliman dan kerusakan di sekitarnya. | **Membangun jiwa kepeloporan sosial dan kepedulian peradaban**; melatih anak berani amar ma'ruf nahi munkar dan aktif membawa perbaikan di tengah masyarakat. |
+> | **Menjejalkan hafalan target agama secara kering tanpa mengaitkannya dengan rasa cinta dan takjub** (*mahabbah & ta'zhim*) kepada Allah. | **Menumbuhkan kesadaran tauhid rububiyah lewat tadabbur alam dan dialog hati**; melahirkan kepatuhan syariat yang berakar dari kerinduan fitrah, bukan beban paksaan. |
 
 > [!warning] Peringatan Risiko Pengasuhan: Mengabaikan Aspek Ruhani Tujuan Hidup Manusia
 > * **Bentuk Kesalahan:** Mengabaikan doa, meremehkan tazkiyatun nafs, atau membebani jiwa anak dengan ekspektasi duniawi yang melampaui batas fitrah.

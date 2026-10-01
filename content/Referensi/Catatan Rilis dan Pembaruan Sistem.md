@@ -106,6 +106,22 @@ tags:
 
 ## 📦 Riwayat Rilis Versi & Milestone
 
+### Pembaruan lokal — Tampilan cetak dan pemeriksaan kode
+
+* Halaman materi serta template KBM dapat dicetak sebagai A4 tanpa sidebar, breadcrumb, metadata, dan navigasi; tabel dan callout memperoleh aturan pemenggalan halaman.
+* Pemeriksaan `npm run check` difokuskan pada kode Quartz, skrip JS/TS, dan konfigurasi terkait, tanpa memformat korpus editorial.
+* Perubahan ini diverifikasi pada build lokal dan PDF Chromium; belum menunjukkan bahwa image produksi telah dideploy.
+
+### Pembaruan lokal — Gerbang rilis dan kualitas keluaran
+
+* Workflow memasang dependensi dengan `npm ci`, memakai SHA Actions yang dipin, mewajibkan webhook TLS pada push `main`, dan menunggu `/build-version.txt` memuat commit yang diterbitkan. Tag `latest` pada stack masih bergerak; validasi image dan kesehatan container di produksi belum dilakukan.
+* `sharp` dan `brace-expansion` diperbarui di lockfile; audit dependensi lokal tidak menemukan kerentanan produksi yang dilaporkan.
+* Linter memberi waktu laporan UTC aktual, menolak orphan baru, serta menerapkan batas minimum gaya dan PICI per halaman dengan pengecualian legacy bernama. Resolver navigasi tidak lagi memilih kandidat ambigu berdasarkan urutan berkas.
+* Enam kutipan Arab yang semula dibungkus sebagai rumus KaTeX kini menjadi blok teks Arab; build lokal selesai tanpa peringatan karakter Arab. Pemeriksaan visual lintas-peramban dan deployment produksi tetap terpisah.
+
+---
+
+
 ### 🏷️ Versi 2.5.2 — *Harmonisasi Prinsip Tadarruj, Konversi 5.233 Link Navbox & Resolusi Tag-Leak Warna CSS*
 **Tanggal Rilis:** 24 September 2026 | **Cakupan Milestone:** Milestone 63 | **Status:** Rilis Produksi Aktif
 

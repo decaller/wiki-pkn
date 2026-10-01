@@ -170,9 +170,8 @@ tags:
 
 > [!SUMMARY] Ringkasan Eksekutif & Panduan Editor
 > **Tujuan Dokumen:** Berfungsi sebagai *Command Center* bagi editor di Obsidian untuk menavigasi, menyunting, dan menautkan halaman secara instan.
-> * **Total Halaman Markdown:** {total_md} artikel aktif
-> * **Total Bagan Obsidian Canvas:** {total_canvases} bagan visual interaktif
-> * **Format Navigasi:** Hierarki pohon terstruktur dilengkapi penanda badge kanvas `[🎨 Canvas]` dan tautan silang dua arah `[[...]]`.
+> * **Inventaris lengkap:** lihat [[Peta Navigasi Wiki PKN#Indeks Lengkap Seluruh Konten|Indeks Lengkap Seluruh Konten]] untuk jumlah aktual dan tautan setiap halaman.
+> * **Format Navigasi:** Panduan tematik di bawah dilengkapi inventaris hierarkis menurut folder sumber; artikel, canvas, dan Bases memakai jalur tautan lengkap.
 
 ---
 
@@ -237,6 +236,10 @@ Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum m
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(content)
+
+    # Always restore the complete path-keyed inventory after the thematic hub.
+    from update_content_index import main as update_complete_index
+    update_complete_index()
         
     print(f"✅ Sukses menghasilkan halaman navigasi di: {OUTPUT_FILE}")
     print(f"   Total berkas markdown terindeks: {total_md}")

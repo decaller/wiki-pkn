@@ -209,13 +209,14 @@ Evaluasi rapor ditopang oleh lembar observasi harian dengan rubrik perilaku konk
 
 ---
 
-> [!info] Refleksi Lapangan: Realitas Penerapan 4 Elemen Implementasi
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan 4 Elemen Implementasi sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
-> **Langkah Penanganan Nabawiyah:**  
-> 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
-> 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
-> 3. Terapkan evaluasi berkala berbasis pertumbuhan karakter batin, bukan sekadar kelengkapan berkas fisik.
+> [!info] Refleksi Harian: Kebiasaan Umum vs. Pendekatan PKN
+> | 🔴 Kebiasaan Umum | ✅ Pendekatan PKN |
+> | :--- | :--- |
+> | **Merumuskan visi pendidikan yang megah di atas kertas dokumen**, namun praktik harian di kelas tetap dipenuhi bentakan, ancaman, dan kompetisi kotor. | **Menyelaraskan visi tauhid langsung ke dalam interaksi keseharian (*Koneksi Sebelum Koreksi*)**; setiap elemen lembaga menghidupkan visi lewat akhlak nyata. |
+> | **Mengandalkan fasilitas sarana fisik yang serba modern tanpa membangun iklim psikospiritual** yang aman dan menenangkan bagi jiwa anak (*Biah Shalihah*). | **Membangun ekosistem yang menghadirkan rasa aman (*Al-Amn & Sakinah*)** dan perlindungan fitrah (*Hima*); anak terlindungi dari perundungan fisik maupun luka batiniah. |
+> | **Mengabaikan pembinaan jiwa dan tazkiyatun nafs pendidik**, menganggap guru cukup dibekali sertifikasi teknis mengajar kurikulum kognitif. | **Menjadikan pembersihan jiwa pendidik sebagai pilar implementasi terpenting**; meyakini bahwa hanya hati yang bersih yang mampu memancarkan hidayah ke kalbu santri. |
+> | **Menerapkan pola interaksi satu arah yang hierarkis dan kaku** di mana santri diposisikan sebagai wadah kosong pasif yang harus selalu menerima perintah. | **Menghidupkan budaya dialog dua arah (*Syura & Bahasa Lisan*)**; santri dihormati martabat fitrahnya dan dilibatkan aktif dalam merumuskan kesepakatan adab. |
+> | **Mengevaluasi keberhasilan elemen implementasi hanya saat menjelang penilaian akreditasi** dengan memanipulasi dokumen formalitas. | **Melakukan muhasabah dan evaluasi berkala secara jujur dan transparan**; berfokus pada perbaikan adab berkelanjutan (*Ishlah Da'im*) semata-mata mengharap ridha Allah. |
 
 > [!warning] Peringatan Risiko: Jebakan Formalitas dalam 4 Elemen Implementasi
 > * **Bentuk Kesalahan:** Mengubah kurikulum fitrah nabawiyah menjadi sekadar rutinitas administratif formalitas tanpa ruh keimanan.
