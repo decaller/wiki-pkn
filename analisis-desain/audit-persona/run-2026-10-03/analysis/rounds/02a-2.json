@@ -1,0 +1,30 @@
+{
+  "persona": "02a",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah rencana main dan instrumen usia dini?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Halaman Thufulah memberi karakteristik fase dan contoh sirah; RPP satu lembar tersedia secara umum tetapi belum menjadi rencana main usia dini terisi yang teruji.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Lebih kaya konsep, tetap perlu contoh aktivitas dengan durasi, alat aman dan indikator.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/perkembangan/thufulah",
+          "quote": "Belajar Melalui Peniruan Visual"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Bermain dan keteladanan menjadi pintu pendidikan usia dini; label bakat tidak boleh membekukan anak."
+  ],
+  "recommendations": [
+    "Sediakan rencana main terisi, alat aman, dan lembar observasi usia dini."
+  ]
+}

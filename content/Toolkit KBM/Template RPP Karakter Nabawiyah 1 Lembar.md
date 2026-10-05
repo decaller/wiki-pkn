@@ -46,7 +46,7 @@ tags:
     </tr>
     <tr>
       <th>Integrasi Pilar</th>
-      <td><b>Iman (Aqidah) • Adab (Bakat TB-40) • Ilmu (Syariat)</b></td>
+      <td><b>Iman (Aqidah) • Adab (Nilai Umum & Bakat TB-40) • Ilmu (Syariat)</b></td>
     </tr>
     <tr>
       <th>Kerangka Bahasa</th>
@@ -101,7 +101,8 @@ Mata Pelajaran : [Nama Mata Pelajaran / Sentra Belajar]
 Fase Usia      : [ ] Thufulah (0–7 th)  [ ] Tamyiz (7–10 th)  [ ] Murahaqah (10 th–Baligh)  [ ] Syabab
 Kelas / Semester: [Kelas ..... / Semester .....]      Alokasi Waktu : [.... JP (.... Menit)]
 Tema / Topik   : [Judul Kegiatan Pembelajaran Berbasis Realitas Nyata]
-Pilar Bakat TB-40: [Pilar Utama Karakter yang Ditanamkan, misal: Shidq, Ihsaan, Khidmah]
+Nilai Adab Pokok : [Nilai Adab & Karakter Umum, misal: Syukur, Khidmah, Birrul Walidain]
+Pilar Bakat TB-40: [Pilar Bakat Fitrah TB-40 Spesifik, misal: Ihsaan, Shidq, Anaah, Itsaar]
 
 II. INTEGRASI TIGA PILAR & TIGA BAHASA
 ┌────────────────────┬───────────────────────────────────────────────────────────────────┐
@@ -111,9 +112,10 @@ II. INTEGRASI TIGA PILAR & TIGA BAHASA
 │    (Aqidah/Kauniyah│ tadabbur tanda-tanda kebesaran Allah di alam semesta.             │
 │    Bahasa Batin)   │ Dalil Rujukan: [QS. ..................... / HR. .................]│
 ├────────────────────┼───────────────────────────────────────────────────────────────────┤
-│ 2. Pilar Adab      │ Penanaman adab penuntut ilmu, adab interaksi sesama, dan         │
-│    (Bakat TB-40 /  │ penyaluran fitrah bakat alami santri dalam aktivitas belajar.    │
-│    Bahasa Amaliyah)│ Fokus Karakter: [...............................................] │
+│ 2. Pilar Adab      │ Penanaman adab penuntut ilmu, pembiasaan akhlaq mulia, dan        │
+│    (Adab & TB-40 / │ penyaluran fitrah bakat alami santri dalam aktivitas belajar.     │
+│    Bahasa Amaliyah)│ • Nilai Adab Pokok : [..........................................] │
+│                    │ • Bakat Fitrah TB-40: [.........................................] │
 ├────────────────────┼───────────────────────────────────────────────────────────────────┤
 │ 3. Pilar Ilmu      │ Penguasaan konsep esensial, keterampilan nalar syar'i/ilmiah,    │
 │    (Kognisi /      │ dan penerapan kaidah hukum fiqh dalam konteks topik.              │
@@ -178,8 +180,9 @@ Nama Lembaga   : SD Karakter Islam Al-Mustaqbal
 Mata Pelajaran : IPA Terpadu & Fiqh Thaharah
 Fase Usia      : [X] Tamyiz (Kelas 4 / Usia 9–10 Tahun)
 Kelas / Semester: Kelas 4-A / Semester Ganjil        Alokasi Waktu : 2 JP (2 x 35 Menit)
-Tema / Topik   : Keajaiban Daur Air, Siklus Hujan, dan Adab Penghematan Air Wudhu
-Pilar Bakat TB-40: Ihsaan (Ketelitian Mutu), Syukur (Menghargai Nikmat), Khidmah (Melayani)
+Tema / Topik     : Keajaiban Daur Air, Siklus Hujan, dan Adab Penghematan Air Wudhu
+Nilai Adab Pokok : Syukur (Menghargai Nikmat Air) & Khidmah (Kepedulian Fasilitas Umum)
+Pilar Bakat TB-40: Ihsaan (#02 - Ketelitian Mutu), Anaah (#38 - Ketenangan / Tertib), Itsaar (#34 - Mendahulukan Teman)
 
 II. INTEGRASI TIGA PILAR & TIGA BAHASA
 ┌────────────────────┬───────────────────────────────────────────────────────────────────┐
@@ -190,9 +193,13 @@ II. INTEGRASI TIGA PILAR & TIGA BAHASA
 │    Bahasa Batin)   │ evaporasi dengan keagungan sifat Al-Muhyi dan Ar-Razzaq.          │
 │    Dalil Rujukan   │ QS. Al-Waqi'ah: 68–70 dan QS. Al-Anbiya: 30                       │
 ├────────────────────┼───────────────────────────────────────────────────────────────────┤
-│ 2. Pilar Adab      │ Melatih ketelitian (*Ihsaan*) dalam menggunakan air secukupnya    │
-│    (Bakat TB-40 /  │ saat bersuci, mengikis sifat mubazir (*Israf*), dan membiasakan  │
-│    Bahasa Amaliyah)│ antre wudhu dengan tertib (*Anaah* dan *Itsaar*).                 │
+│ 2. Pilar Adab      │ • Nilai Adab Pokok: Menumbuhkan kesadaran syukur atas nikmat air, │
+│    (Adab & TB-40 / │   menghindari sifat mubazir (*Israf*), dan adab khidmah merawat   │
+│    Bahasa Amaliyah)│   kebersihan sarana tempat wudhu sekolah.                         │
+│                    │ • Bakat Fitrah TB-40: Melatih ketelitian mutu (*Ihsaan #02*)      │
+│                    │   dalam meratakan air wudhu sesuai rukun syariat, ketenangan      │
+│                    │   tanpa tergesa-gesa (*Anaah #38*), dan mendahulukan teman dalam  │
+│                    │   antrean (*Itsaar #34*).                                         │
 ├────────────────────┼───────────────────────────────────────────────────────────────────┤
 │ 3. Pilar Ilmu      │ Menjelaskan tahapan daur air (evaporasi, kondensasi, presipitasi) │
 │    (Kognisi /      │ dan mempraktikkan takaran wudhu sunnah 1 mud (±600 ml air) sesuai │

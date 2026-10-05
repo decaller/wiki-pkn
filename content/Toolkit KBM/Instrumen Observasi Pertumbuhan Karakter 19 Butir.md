@@ -232,6 +232,89 @@ Pada akhir semester, data observasi diolah menjadi **narasi pertumbuhan fitrah**
 
 ---
 
+## 7. Jurnal Naratif Harian dan Pekanan
+
+> [!WARNING] Draf editorial — menunggu telaah guru dan wali
+> Tambahan jurnal ini adalah saran praktis penyunting, **belum disetujui untuk pelaksanaan**, bukan arahan resmi ulama atau bukti validitas empiris instrumen. Jurnal mendampingi catatan anekdot pada bagian 5 dan narasi pada bagian 6; tidak mengganti 19 indikator atau definisi BT/MT/BK/MM pada bagian 2–3.
+
+### 7.1 Cara Menggunakan dan Menjaga Catatan
+
+Catat satu peristiwa yang bermakna, bukan seluruh kegiatan anak. Pisahkan apa yang terlihat, kata-kata anak, tanggapan pendamping, dan hal yang belum diketahui. Tidak teramati berarti belum ada catatan, bukan otomatis BT. Satu kejadian tidak cukup untuk menetapkan konsistensi, niat, kualitas iman, atau keadaan batin. Bila guru menggunakan rubrik yang ada, rujuk butir dan bukti lintas waktu/konteks di catatan tersendiri; jurnal ini tidak memberi skor, jumlah capaian, atau jenjang baru.
+
+Alur peristiwa–pendampingan–refleksi meneruskan **bagian 5–6 halaman ini** serta pembuka, aksi nyata, dan refleksi pada [[Template RPP Karakter Nabawiyah 1 Lembar#2. Format Blanko RPP 1 Lembar Siap Cetak (A4)|RPP 1 lembar]]. Pertukaran ringkasan, persetujuan, akses terbatas, dan masa simpan memakai [[Infografis Ringkasan Materi PKN Siap Sebar#3. Modul Kolaborasi Sekolah–Rumah|modul sekolah–rumah]]. Guru/wali memilih cuplikan yang disepakati, bukan mengirim jurnal lengkap ke WAG atau alat AI. Anak boleh bercerita, menggambar, meminta pendamping menuliskan ucapannya, atau melewati pertanyaan.
+
+### 7.2 Jurnal Harian (Salin atau Cetak)
+
+```text
+DRAF EDITORIAL — MENUNGGU TELAAH GURU/WALI
+Tanggal / tempat / kode anak (catatan privat):
+Pengamat dan hubungan dengan anak:
+Kegiatan atau momen yang dipilih:
+Fakta teramati (tindakan/ucapan, konteks, bantuan yang tersedia):
+Ucapan anak, bila bersedia (kutipan, bukan tafsiran pendamping):
+Hal yang belum diketahui atau tidak teramati:
+Rujukan butir yang sudah ada, bila relevan (domain dan nama butir; boleh kosong):
+Respons pendamping dan respons anak yang terlihat:
+
+REFLEKSI ANAK — OPSIONAL
+Apa yang menyenangkan / sulit? Bantuan apa yang diinginkan?
+Jawaban / gambar / memilih tidak menjawab:
+REFLEKSI GURU/WALI
+Apa yang sudah saya lakukan untuk mendampingi? Apa yang perlu saya ubah?
+LANGKAH BERIKUT
+Satu aksi kecil yang dipilih bersama:
+Pendamping / bahan atau penyesuaian / waktu meninjau kembali:
+Bagian yang boleh dibagikan secara privat dan penerimanya (boleh tidak ada):
+```
+
+### 7.3 Catatan Ibadah/Mutabaah Pribadi (Opsional)
+
+Bagian ini boleh tidak digunakan atau disimpan hanya di keluarga. Tidak ada target jumlah, durasi, frekuensi normatif, skor, perbandingan publik, atau kewajiban mengungkapkan ibadah. Tidak mengisi bukan alasan menghukum, mempermalukan, atau menyimpulkan keadaan iman. Pendamping mencatat dukungan dan pengalaman yang bersedia diceritakan, bukan menilai keikhlasan atau kekhusyukan batin.
+
+Pilihan topik konkret: **shalat** (pengalaman bersiap dan bantuan yang diminta), **dzikir** (ucapan yang terdengar dalam konteks tertentu), **tilawah** (pengalaman membaca/menyimak dan bantuan), **adab** (salam atau merawat barang), serta **birrul walidain** (mendengarkan atau membantu orang tua dalam kegiatan yang aman dan disepakati). Shalat, dzikir, adab, dan pengalaman menyimak Al-Qur'an berhubungan dengan Karakter Iman butir 1, 6, 3, dan 10 pada matriks yang ada; birrul walidain mengikuti tema keluarga pada [[Infografis Ringkasan Materi PKN Siap Sebar#Kartu 07: Peran Ayah dan Bunda — Sinergi Dua Sayap Peradaban|Kartu 07]]. Topik birrul walidain dan tilawah di sini **bukan indikator tambahan**, dan catatan membaca tidak dengan sendirinya membuktikan butir kekhusyukan. Persoalan tuntunan ibadah tetap dirujuk kepada guru yang berwenang; formulir tidak menetapkan hukum baru.
+
+```text
+CATATAN PRIBADI OPSIONAL — TIDAK WAJIB DIBAGIKAN
+Topik pilihan: [shalat / dzikir / tilawah / adab / birrul walidain / lainnya]
+Peristiwa yang bersedia dicatat (tanpa jumlah capaian):
+Ucapan anak atau pengalaman yang ingin diceritakan:
+Dukungan pendamping yang diberikan / diminta:
+Refleksi anak (boleh kosong):
+Refleksi pendamping, tanpa menilai batin anak:
+Langkah kecil berikut yang disepakati / waktu meninjau:
+Pilihan penyimpanan dan berbagi: [pribadi / cuplikan yang disepakati kepada ...]
+```
+
+### 7.4 Ringkasan Pekanan (Salin atau Cetak)
+
+```text
+DRAF EDITORIAL — MENUNGGU TELAAH GURU/WALI
+Periode / kode anak / pendamping:
+Cuplikan peristiwa harian yang dipilih (tanggal dan konteks):
+Tindakan yang terlihat kembali / yang masih berbeda antar-konteks:
+Bantuan yang menyertai setiap peristiwa:
+Yang belum teramati (tidak diisi dengan dugaan):
+Rujukan butir rubrik yang ada, bila relevan:
+Refleksi anak: Apa yang ingin dicoba lagi? Apa yang ingin diubah? (opsional)
+Refleksi guru/wali: Dukungan apa yang membantu atau perlu diganti?
+Masukan dua arah rumah–sekolah yang disepakati (boleh kosong):
+Keputusan bersama: [lanjut / sederhanakan / ganti / jeda] beserta alasan kegiatan:
+Satu langkah berikut / pendamping / waktu tinjau:
+Bagian privat yang tidak dibagikan / penerima cuplikan yang diizinkan:
+```
+
+### 7.5 Contoh Isian Sintetis
+
+**Seluruh isian berikut rekaan untuk menunjukkan cara menulis, bukan data anak, hasil penelitian, atau contoh penetapan jenjang.**
+
+**Harian — Senin, meja gambar:** Setelah menggambar, anak meletakkan pensil di meja. Wali menunjuk kotak dan menawarkan bantuan. Anak memasukkan pensil lalu berkata, “Penghapusnya di mana?” Wali membantu mencari. Rujukan: Karakter Belajar butir 9, Kemandirian Merawat Alat Belajar. Belum diketahui: perilaku di kegiatan lain. Refleksi anak: “Kotaknya dekat sini saja.” Refleksi wali: tempat simpan sebelumnya terlalu jauh dari meja. Aksi berikut: letakkan kotak dekat kertas dan tutup kegiatan bersama; tinjau pada akhir pekan.
+
+**Catatan pribadi opsional — Selasa, tilawah:** Anak meminta wali menemani menyimak bacaan yang sedang dipelajari. Wali mendengarkan dan menawarkan bantuan pada bagian yang ditanyakan. Anak berkata, “Aku mau ditemani dulu.” Refleksi wali: menawarkan bantuan tanpa membandingkan bacaan. Aksi berikut: tanyakan kapan anak ingin ditemani lagi. Catatan disimpan keluarga; tidak ada target bacaan, penilaian batin, atau pengiriman ke grup.
+
+**Pekanan:** Cuplikan Senin dan Kamis mencatat alat gambar dikembalikan setelah pendamping menunjukkan wadah. Di sekolah, guru mencatat anak masih bertanya lokasi alat bersama. Refleksi anak: ingin label bergambar pada wadah. Refleksi pendamping: lokasi alat perlu lebih jelas di kedua tempat. Keputusan: lanjut dengan wadah mudah dijangkau dan gambar penanda; guru dan wali meninjau kembali pekan berikutnya melalui ringkasan privat yang disepakati. Tidak menetapkan BT/MT/BK/MM dari cuplikan ini.
+
+---
+
 <div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(2, 132, 199); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk panduan mendalam tentang penanganan santri yang capaiannya masih [BT] atau mengalami kemunduran adab, gunakan [[Lembar Dialog Evaluasi Hati Guru-Santri]]. Untuk landasan teori, lihat [[Panduan RPP dan Observasi Lapangan]].
 </div>

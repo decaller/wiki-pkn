@@ -1,0 +1,30 @@
+{
+  "persona": "07",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah panduan recovery memberi batas penggunaan mandiri?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Recovery berfokus pada orang tua dan anak. Klaim perilaku menyimpang hanyalah gejala luka hati terlalu menyeluruh untuk dijadikan penjelasan klinis pribadi; batas penggunaan dan rujukan belum ditemukan.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Panduan bukan diagnosis; perlu konteks dewasa dan pengaman klinis.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pendidikan-ideal/luka-dan-hutang-pengasuhan/recovery",
+          "quote": "dari hati yang terluka, bukan watak permanen anak."
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Konsep tujuan dan refleksi dapat dibaca dewasa, tetapi materi masih dominan orang tua-anak."
+  ],
+  "recommendations": [
+    "Buat pintu pengembangan diri dewasa dan batas jelas antara muhasabah dan kebutuhan klinis."
+  ]
+}

@@ -87,6 +87,8 @@ class LLMCouncilEngine:
             "context_length": len(context),
             "execution_time_sec": duration_sec,
             "mode": "offline_deterministic" if self.offline_mode else "llm_api",
+            "approval_status": "UNAPPROVED_SIMULATION",
+            "simulation_notice": "Offline templates, not source-grounded advice or human signoff; no live provider is implemented",
             "advisors": list(ADVISOR_PROFILES.keys()),
             "stage_1_perspectives": stage_1_responses,
             "stage_2_peer_reviews": {
@@ -216,12 +218,14 @@ class LLMCouncilEngine:
 
 
 def format_markdown_verdict(res: Dict[str, Any]) -> str:
-    """Format council output into clean, publishable GitHub-flavored Markdown."""
+    """Format private, unapproved council simulation as Markdown."""
     v = res["stage_3_verdict"]
     lines = [
         f"# 🏛️ Risalah Ketetapan Dewan Syura (Council Verdict)",
+        "**SIMULASI OFFLINE — BELUM DISETUJUI MANUSIA**",
+        "Template penasihat ini bukan draf berbasis sumber, keputusan manusia, atau izin publikasi. Tidak ada provider live yang diimplementasikan.",
         f"**Topik:** {res['topic']}",
-        f"**Status Sidang:** Selesai ({res['execution_time_sec']} detik | {len(res['advisors'])} Penasihat)",
+        f"**Status Simulasi:** Selesai; tetap belum disetujui ({res['execution_time_sec']} detik | {len(res['advisors'])} Penasihat)",
         "",
         "---",
         "",

@@ -1,0 +1,79 @@
+{
+  "persona": "02e",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Mengapa pendidik mulai dari diri?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Implementasi dimulai dari pembenahan diri pendidik.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Belum kurikulum fasilitasi kelas dewasa.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Perbaiki diri sendiri dahulu sebelum mendidik"
+        }
+      ]
+    },
+    {
+      "question": "Apa bentuk muhasabah?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Pertanyaan evaluasi mencakup intervensi, afeksi sebelum teguran, dan permintaan maaf.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Refleksi bukan instrumen diagnostik.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Adakah perkataan saya yang melukai harga diri anak dan membutuhkan taubat serta permohonan maaf?"
+        }
+      ]
+    },
+    {
+      "question": "Apa dukungan pemulihan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Istirahat dan variasi aktivitas pendidik disebut dalam blueprint.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Belum pembinaan trauma atau batas kewenangan trainer.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Self Recovery: istirahat, hobi, variasi aktivitas"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana membatasi klaim psikologis?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Halaman menggunakan istilah trauma; snapshot belum menjelaskan batas antara pembinaan dan layanan klinis.",
+      "suitability": 1,
+      "completeness": 1,
+      "reason": "Istilah ditemukan tetapi batas klinis tidak dibuktikan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "trauma pengasuhan"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Apakah recovery membedakan pembinaan dan terapi?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

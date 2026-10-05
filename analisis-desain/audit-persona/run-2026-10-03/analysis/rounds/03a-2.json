@@ -1,0 +1,30 @@
+{
+  "persona": "03a",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah delapan standar memuat pemetaan regulasi dan penanggung jawab?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Standar membahas pimpinan, kebijakan mutu, pembelajaran dan audit. Namun pemetaan pasal regulasi Indonesia serta dokumen kepatuhan belum terverifikasi.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Akuntabilitas umum ada; belum matriks KOSP/regulasi lengkap.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/implementasi/kaidah--and--elemen/8-standar-implementasi-pkn",
+          "quote": "6.1 Komitmen Pimpinan Puncak"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Standar menyebut kepemimpinan dan audit; kepatuhan regulasi tetap perlu pemeriksaan terpisah."
+  ],
+  "recommendations": [
+    "Perbaiki tautan 8 Standar dan buat matriks standar, pemilik, bukti, serta regulasi."
+  ]
+}

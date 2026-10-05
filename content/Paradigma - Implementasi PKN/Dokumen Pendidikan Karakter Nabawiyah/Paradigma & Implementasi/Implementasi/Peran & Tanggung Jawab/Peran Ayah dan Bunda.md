@@ -87,12 +87,16 @@ aliases:
 
 ---
 
-## 1. Hakikat Sinergi Dua Kutub Pengasuhan
+## 1. Hakikat Sinergi Dua Kutub Pengasuhan: Kepala Sekolah & Guru/Pelatih
 
 ![Penerapan Analogi Bertani dalam Siklus Fase Usia Anak](/assets/slides/slide-analogi-bertani-fase.webp)
 *Penerapan Analogi Bertani dalam Siklus Fase Usia Anak*
 
 Dalam arsitektur Pendidikan Karakter Nabawiyah (PKN), keluarga diposisikan sebagai **laboratorium peradaban terkecil**. Allah menciptakan laki-laki dan perempuan dengan fitrah jasmani dan rohani yang berbeda bukan untuk saling mendominasi, melainkan untuk membentuk **sinergi komplementer** yang sempurna:
+
+> [!NOTE] Analogi Peran Rumah Tangga PKN
+> * **Ayah adalah "Kepala Sekolah":** Penentu visi tarbiyah keluarga, arsitek kurikulum adab rumah tangga, pembuat keputusan strategis, dan benteng penegak hukum syariat (*Qawwamah*).
+> * **Bunda adalah "Guru dan Pelatih":** Eksekutor pendidikan harian, pembimbing teknis adab, pengasah kebiasaan amal, dan perawat kehangatan jiwa anak (*Rahimah*).
 
 ![[canvas/Peran Ayah dan Bunda - Hakikat Sinergi Dua Kutub Pengasuhan.canvas]]
 
@@ -115,7 +119,53 @@ Bunda adalah madrasah pertama (*Al-Ummu Madrasatun Ula*):
 
 ---
 
-## 3. Dinamika Nyata di Lapangan & Solusi Praktis
+## 3. Dinamika Amarah: Keistimewaan Marah Ibu vs Bahaya Marah Ayah
+
+Dalam manhaj PKN, terdapat perbedaan mendalam antara dampak amarah seorang ibu dan dampak amarah seorang ayah terhadap struktur batiniah anak:
+
+```mermaid
+flowchart TD
+    subgraph Amarah_Ibu["<b>MARAHNYA IBU (GURU & PELATIH)</b>"]
+        direction TB
+        I1["Modal Kasih Sayang Usia Thufulah Melimpah"] --> I2["Marah/Teguran Tegas Ibu Tidak Merusak Ikatan Hati"]
+        I2 --> I3["Anak Tetap Rindu & Ingin Tidur Bersama Ibu"]
+        I3 --> I4["<b>Kelebihan Fitrah:</b><br/>Ibu dapat sabar berulang kali menasehati & melatih tanpa cemas trauma."]
+    end
+
+    subgraph Amarah_Ayah["<b>MARAHNYA AYAH (KEPALA SEKOLAH)</b>"]
+        direction TB
+        A1["Simbol Wibawa & Otoritas Tertinggi"] --> A2["Bentakan/Amarah Emosional Ayah Sangat Menghunjam"]
+        A2 --> A3["Rentan Membekas Menjadi Trauma & Luka Pengasuhan"]
+        A3 --> A4["<b>Kewajiban Fitrah:</b><br/>Ayah wajib ekstra sabar menahan amarah; ketegasan harus dingin & berwibawa."]
+    end
+```
+
+### A. Keistimewaan Ibu: Marah yang Tidak Melukai Hati
+Berkat limpahan kasih sayang raksasa yang telah ditanamkan ibu sejak masa buaian (dekapan, belaian, dan air susu di usia Thufulah), jiwa anak memiliki *peredam alami* terhadap kemarahan ibu:
+* Ketika ibu marah, menegur dengan nada agak keras, atau menuntut disiplin, **anak tidak mengalami kerusakan ikatan batin (*attachment*)**. Beberapa saat setelah ditegur, anak akan tetap mencari ibunya, memeluk, dan ingin tidur di samping ibunya.
+* **Aplikasi Praktis bagi Bunda:** Keistimewaan fitrah ini memberi ruang lapang bagi ibu untuk terus-menerus mendidik, mengarahkan, dan mengulang-ulang pembiasaan adab (*tadarruj*) dengan sabar dan tegas, tanpa perlu dihantui kecemasan berlebih bahwa ketegasannya akan melahirkan trauma batin pada anak.
+
+### B. Kewaspadaan Ayah: Wibawa yang Menuntut Pengendalian Amarah
+Sebaliknya, seorang ayah memegang simbol wibawa (*haibah*), kekuatan pelindung, dan otoritas tertinggi di mata anak:
+* Tatkala seorang ayah membentak, meledak marah dengan emosi tak terkendali, atau bersikap kasar, suara keras tersebut akan menghunjam langsung ke dasar jiwa anak dan **sangat rentan meninggalkan luka pengasuhan menahun (*father wound*)**. Anak merasa tempat perlindungan teramannya telah runtuh.
+* **Aplikasi Praktis bagi Ayah:** Ayah harus menjadi sosok yang paling penyabar dan paling terlatih dalam menahan amarah (*kazhmul ghaizh*). Kemarahan seorang ayah tidak boleh diobral menjadi luapan kekesalan harian; marahnya ayah harus sangat langka, terukur, sunyi dari makian, dan berorientasi pada penegakan batas syariat semata.
+
+---
+
+## 4. Spesialisasi Pendampingan Gender Sesuai Fase Usia (Membangun Imunitas Sosial)
+
+Sinergi ayah dan bunda bergulir secara dinamis mengikuti kebutuhan perkembangan fitrah anak:
+
+| Fase Perkembangan | Rentang Usia | Pola Pendampingan Gender | Fokus Tarbiyah & Sasaran Manhaj |
+|---|---|---|---|
+| **Fase Thufulah** | **0–7 Tahun** | **Bersama Keduanya (Ayah & Bunda)** | Pemenuhan kebutuhan rasa aman batin (*attachment*), bermain bersama, dan penyerapan adab keteladanan tanpa pembebanan kognitif kaku. |
+| **Fase Tamyiz** | **7–10 Tahun** | **Bersama Orang Tua Sejenis (*Same Gender*)** | **Pengokohan Fitrah Seksualitas & Gender:**<br/>• **Anak Laki-laki intens bersama Ayah:** Meneladani shalat berjamaah ke masjid, etos ksatria, keberanian, dan tanggung jawab pria.<br/>• **Anak Perempuan intens bersama Bunda:** Belajar keanggunan, rasa malu (*haya'*), tata kelola rumah tangga, dan keterampilan wanita. |
+| **Fase Murahaqah** | **10–15 Tahun** | **Bersama Orang Tua Lawan Jenis (*Cross Gender*)** | **Pengisian Tangki Cinta untuk Membangun [[Imunitas Sosial]]:**<br/>• **Anak Perempuan dekat dengan Ayah:** Ayah melimpahkan cinta, pujian tulus, dan rasa bangga agar putrinya kenyang kasih sayang pria dan kebal dari rayuan lelaki asing di luar rumah.<br/>• **Anak Laki-laki dekat dengan Bunda:** Bunda menjadi tempat curhat yang menenangkan, melatih kepekaan empati terhadap wanita, dan meredam gejolak pubertas. |
+| **Fase Syabab** | **15+ Tahun** | **Kemitraan Mandiri (Keluarga Utuh)** | Pendampingan kemandirian mukallaf, persiapan memikul amanah nafkah, dan penyiapan pernikahan syar'i. |
+
+---
+
+## 5. Dinamika Nyata di Lapangan & Solusi Praktis
 
 ### Kasus 1: Suami-Istri Beda Visi Pengasuhan (Ibu Paham PKN, Ayah Masih Keras)
 Ini adalah persoalan yang paling sering dialami para ibu: ibu sudah mengikuti kajian fitrah, namun suami masih menggunakan pola asuh lama yang otoriter, kaku, dan mudah membentak anak.
@@ -133,15 +183,15 @@ Banyak anak yang memiliki ayah secara fisik di rumah, namun yatim secara psikolo
 * **Dampak pada Anak Laki-Laki:** Tumbuh menjadi pemuda yang gamang dalam mengambil keputusan, pasif, atau sebaliknya melampiaskan maskulinitas toksik di luar rumah.
 * **Dampak pada Anak Perempuan:** Mengalami defisit cinta laki-laki, sehingga mudah terbuai oleh rayuan palsu pria asing di media sosial untuk mencari validasi kasih sayang.
 
-### Kasus 3: Pendampingan Khusus Ayah untuk Anak Putri Menjelang Baligh
-Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah menjadi sangat krusial:
-- Ayah harus melimpahkan pujian tulus terhadap kecantikan dan kehormatan anak putrinya.
+### Kasus 3: Pendampingan Khusus Ayah untuk Anak Putri Menjelang Baligh (Target Imunitas Sosial)
+Ketika anak perempuan memasuki usia 10–15 tahun (Fase Murahaqah), peran ayah menjadi benteng pertahanan utama:
+- Ayah harus melimpahkan pujian tulus terhadap kecantikan, keanggunan, dan kehormatan anak putrinya.
 - Berikan hadiah, luangkan waktu berdua (*father-daughter date*), dan peluk dengan penuh kasih sayang yang suci.
-- Ketika kebutuhan rasa dicintai anak putri telah terpenuhi secara paripurna oleh ayahnya sendiri, ia akan memiliki benteng harga diri (*'Izzah* dan *'Iffah*) yang sangat kokoh terhadap godaan pergaulan bebas.
+- Ketika kebutuhan rasa dicintai anak putri telah terpenuhi secara paripurna oleh ayahnya sendiri, ia akan memiliki benteng harga diri (*'Izzah* dan *'Iffah*) yang sangat kokoh, membentuk **[[Imunitas Sosial]]** sejati sehingga tidak mudah terpesona oleh pujian murahan pria lain di luar rumah.
 
 ---
 
-## 4. Rujukan Kajian Video Terkait (PKN Video Database)
+## 6. Rujukan Kajian Video Terkait (PKN Video Database)
 
 * *Peran Ayah vs Ibu dalam Pengasuhan Karakter* — [Tonton di YouTube @ 45:18](https://www.youtube.com/watch?v=iVLk4cfj_I4&t=2718s)
 * *Tanya Jawab: Solusi Ayah vs Ibu Beda Pola Asuh* — [Tonton di YouTube @ 116:10](https://www.youtube.com/watch?v=w04OJijPmQk&t=6970s)
@@ -182,7 +232,14 @@ Ketika anak perempuan memasuki usia 10–14 tahun (Fase Murahaqah), peran ayah m
 > | 🔴 Yang Biasa Dilakukan Kebanyakan Orang | ✅ Pendekatan Manhaj PKN |
 > | :--- | :--- |
 > | **Menganggap urusan pengasuhan anak adalah 100% domain ibu**, sementara ayah membatasi perannya hanya sebagai penyedia nafkah uang. | **Menegakkan kepemimpinan tarbiyah di pundak Ayah sebagai Qawwam**; sebagaimana teladan Nabi Ibrahim dan Luqman, ayah adalah arsitek utama visi tauhid, arah masa depan, dan penegak batasan syariat. |
-> | **Ayah dan ibu saling mendebat aturan, bertengkar, atau membatalkan instruksi satu sama lain di depan anak**. | **Menjaga Satu Suara di Depan Anak**; perbedaan pandangan diselesaikan di ruang tertutup lewat *syura*, menghadirkan kepemimpinan keluarga yang berwibawa dan memberi rasa aman batin. |
+> | **Ayah dan ibu saling mendebat aturan, bertengkar, atau membatalkan instruksi satu sama lain di depan anak**. | **Menjaga Satu Suara di Depan Anak**; perbedaan pandangan diselesaikan di ruang tertutup lewat *syura*, menghadirkan kepemimpinan keluarga yang berwibawa dan memberi rasa aman batin. *(Lihat Pengecualian Kedaruratan KDRT & Keselamatan Fisik di bawah)*. |
+
+> [!CAUTION] Pengecualian Mutlak Kedaruratan: Perlindungan dari KDRT & Bahaya Fisik
+> **Prinsip "Menjaga Satu Suara di Depan Anak" BUKAN Pembenaran Terhadap Kezaliman atau Kekerasan:**
+> 1. **Gugur dalam Situasi Kekerasan:** Nasihat untuk menahan perbedaan pandangan di depan anak **GUGUR SECARA SYARIAT DAN HUKUM** jika terjadi Kekerasan Dalam Rumah Tangga (KDRT), kekerasan fisik terhadap anak atau pasangan, pelecehan seksual, penelantaran ekstrem, atau ancaman nyata terhadap keselamatan nyawa.
+> 2. **Intervensi Langsung demi Keselamatan:** Dalam situasi kekerasan fisik atau penganiayaan, prioritas pertama dan utama adalah **menghentikan bahaya seketika (*dar'ul mafasid*)**, melindungi korban secara fisik, dan mengamankan anak ke tempat yang aman tanpa menunda.
+> 3. **Larangan Dalih Kelelahan:** Beban nafkah ayah atau kelelahan pengasuhan bunda tidak pernah dapat dijadikan dalih pembenaran (*justifikasi*) syariat untuk melakukan kekerasan fisik maupun verbal yang merusak jiwa anak.
+> 4. **Saluran Bantuan Kedaruratan & Hukum:** Segera hubungi keluarga besar yang amanah, tokoh masyarakat/aparat, atau **Layanan Sahabat Perempuan dan Anak (SAPA 129)** KemenPPPA (Telepon: `129` / WhatsApp: `08111-129-129`) untuk perlindungan darurat.
 > | **Ibu yang kelelahan (*burnout*) melampiaskan amarah kepada anak** karena tidak memperoleh dukungan emosional dari suami. | **Ayah aktif memenuhi tangki cinta dan ketenangan jiwa ibu terlebih dahulu**; ibu yang terayomi dengan baik akan mengalirkan energi kelembutan (*rahmah*) yang menyejukkan ke seluruh rumah. |
 > | **Ayah hanya berkomunikasi dengan anak dalam bentuk "interogasi kaku"** (mengecek nilai rapor, PR, atau hafalan) tanpa pernah berbincang santai. | **Ayah meluangkan waktu rutin *deep talk* dan aktivitas maskulin bersama anak** berdua saja tanpa gawai, mendengarkan kegelisahannya, dan menanamkan cita-cita peradaban. |
 > | **Membiarkan anak lelaki tumbuh tanpa transfer maskulinitas**, atau membiarkan anak perempuan kehilangan figur cinta pertama dari ayahnya. | **Menyeimbangkan dua kutub pengasuhan**: ayah mentransfer ketegasan dan tanggung jawab ksatria, sementara ibu menumbuhkan keanggunan, rasa malu, dan kepekaan nurani. |

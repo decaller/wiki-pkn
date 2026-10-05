@@ -25,6 +25,7 @@ Berikut adalah rangkaian dokumen evaluasi arsitektur informasi dan desain konten
 | [**05 — Rencana Validasi & Pengujian**](05-rencana-validasi-dan-pengujian.md) | Protokol validasi empiris: Card Sorting 50 kartu, Tree Testing 10 tugas, moderasi ketergunaan (SUS $\ge 80$), dan kriteria kelulusan. | Protokol Pengujian Metodologis |
 | [**06 — Strategi Konten Interdisipliner & Rencana Aksi**](06-rencana-aksi-penerapan-persona-interdisipliner.md) | Integrasi 4 disiplin ilmu (Psikologi Kognitif, MarKom, Desain Visual, WCAG 2.1) dan alur kerja 5-fase penerapan 13 persona. | Panduan Operasional & Aksi |
 | [**07 — Paket Implementasi Agentic Orchestration**](07-paket-implementasi-agentic-orchestration.md) | Kontrak pilot enam MOC, unit task/ownership, dependency waves, review gates, recipe Orca, verifikasi serta rollout/rollback. | Siap persiapan/pilot terotorisasi; bukan produksi |
+| [**08 — Rencana Eksekusi Hibrida Minim Token**](08-rencana-eksekusi-hibrida-minim-token.md) | Penyelamatan 372 ledger & audit navigasi OMP, arsitektur hibrida 4-fase (Zero-Token First), dan penuntasan bundling 7 butir tugas TODO. | Rencana Eksekusi Resmi & Bundling TODO |
 | [**Persona Pengguna**](persona/README.md) | Profil 13 persona terperinci dalam 5 ranah: Orang Tua (Ayah vs Bunda), Guru Fase Usia (Thufulah, Tamyiz, Murahaqah, Baligh, Dewasa), Pengelola Lembaga (Formal vs Non-Formal), Penelaah/Fasilitator, serta Siswa & Pengembangan Diri. | Hipotesis Desain (`[INFERENCE]`) |
 
 ## Landasan dan batas bukti
@@ -55,3 +56,27 @@ Dokumen persona adalah **hipotesis desain**, bukan hasil wawancara, analitik, at
 5. Produksi menunggu card sorting, tree testing, usability/a11y, gerbang keselamatan dan persetujuan rollout/rollback. Angka target pada05 masih provisional; tidak ada klaim UX/test/WCAG lulus.
 
 Smoke baseline yang dilaporkan coordinator: `python3 scripts/wiki_corpus_linter.py --check-links` exit0, Broken wikilink targets0 dan True orphan pages0. Hasil ini bukan bukti build, URL render, aksesibilitas, atau keberhasilan pengguna; penyusunan paket tidak menjalankan ulang lint/build/test/formatter.
+
+### Integrasi pipeline musyawarah
+
+[Paket07, bagian6.1](07-paket-implementasi-agentic-orchestration.md) menambahkan traceability Pipeline11/12, brief M0–M3, state/gates, ownership, dependency DAG dan smoke CLI aman. Sumber nyata: [master pipeline §5](../pipeline_designs/README.md), [arsitektur Dewan Syura](../pipeline_designs/12_dewan_syura_llm_council_architecture.md), dan [engine council](../scripts/llm_council.py).
+
+Engine saat ini memiliki CLI tiga tahap **simulasi offline**; respons/review/verdict berupa template, context belum dipakai untuk sintesis dan live mode masih placeholder. Tidak ada bukti wiring otomatis scorer/council/Quartz atau human approval; skor70, style85%, latency200ms, lima lensa dan shape tests tidak membuktikan keputusan manhaj atau konsensus semantik. Integrasi pilot memakai risalah advisory terlabel dan signoff manusia nyata; adapter/live tetap contract-gated, tidak otomatis publish.
+
+Riset tambahan hanya membaca sumber dan memperbarui07/README. Smoke council yang diusulkan memakai `python3 scripts/llm_council.py --help` dan `--offline`, output stdout atau direktori sementara terisolasi, bukan `content/`; belum dijalankan pada tahap ini. `pipeline_runner_dalil.py` tidak dijadikan smoke karena menulis korpus langsung.
+
+### Transisi Eksekusi Hibrida Minim Token (Dokumen 08)
+
+Upaya orkestrasi serial berbasis agen LLM monolitik pada run `run_0f3cfd37f363` dievaluasi mengalami kebuntuan (*hang*) akibat ledakan konteks (naskah ledger membengkak hingga 91.000 baris / 3.3 MB), model subagent fiktif pada konfigurasi OMP, dan *rate limiting* upstream API (429/503). 
+
+[Dokumen 08](08-rencana-eksekusi-hibrida-minim-token.md) menetapkan arah eksekusi resmi:
+1. **Penyelamatan Aset:** Memanfaatkan 372 ledger artikel yang sudah tervalidasi di `/tmp/wiki-pkn-omp-content.json` dan rancangan arsitektur navigasi 100% tuntas di `/tmp/wiki-pkn-omp-nav.md`.
+2. **Pola Hibrida Zero-Token:** Audit 115 berkas sisa diselesaikan melalui skrip parser Python deterministik (<2 detik, 0 token) tanpa membebani LLM.
+3. **Penerbitan 6 MOC Task-Oriented:** Membangun Presentation Layer di `content/Panduan/` (*Mulai di Sini, Fase Usia, Fitrah & Bakat, Praktik Keluarga, Lembaga & Guru, Dalil & Rujukan*) berbasis 4 kuadran Diátaxis dan 13 persona.
+4. **Multi-Task Bundling:** Mengintegrasikan penuntasan 7 butir pekerjaan di `TODO.md` (TODO 66, 67, 68, 139/431, 402, 120, 86, 65) dalam satu siklus implementasi yang rapi dan terukur.
+
+**Status Kemajuan:**
+* **Fase 1 (Selesai):** Master Ledger [`data/wiki-pkn-full-ledger.json`](../data/wiki-pkn-full-ledger.json) (487 berkas, 100% tuntas, rata-rata skor kualitas 86.01, waktu proses 1.15 detik, 0 token API) berhasil diterbitkan.
+* **Fase 2 (Sedang Berjalan):** Penerbitan 6 berkas MOC di `content/Panduan/`.
+
+

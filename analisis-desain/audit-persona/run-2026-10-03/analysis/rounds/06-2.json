@@ -1,0 +1,30 @@
+{
+  "persona": "06",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah kuesioner aman dipakai untuk memilih jurusan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Belum. Crawl ulang mengonfirmasi nomor rekap salah dan beberapa label tambahan tidak cocok dengan daftar butir. Gunakan halaman sebagai bahan diskusi sementara, bukan penghitungan rekomendasi jurusan.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Bukti cukup untuk menunda scoring, tidak membuktikan validitas alat alternatif.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+          "quote": "Jud / الجُود (Dermawan/Ringan Tangan)]]\nButir 22"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Potensi dapat ditumbuhkan melalui karya tanpa malu atas keterbatasan; rekap skor saat ini bermasalah."
+  ],
+  "recommendations": [
+    "Tunda fitur skor otomatis sampai pemetaan dan validitas dikaji; buat bacaan ramah pelajar."
+  ]
+}

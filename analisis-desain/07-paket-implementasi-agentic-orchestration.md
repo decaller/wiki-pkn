@@ -4,7 +4,7 @@
 
 **Architecture:** Dual-layer IA memakai enam MOC sebagai jalur tugas di atas korpus kanonik yang tidak dipindahkan. OutlineNav dan indeks Obsidian mengonsumsi satu manifest navigasi; coordinator menjadi satu pemilik konfigurasi bersama. Fan-out hanya sesudah kontrak disetujui, dengan kepemilikan content/UI/generator/CSS/audit terpisah.
 
-**Tech Stack:** Quartz v5.0.0 ESM, Preact ^10.28.2, TypeScript ^5.9.3, esbuild ^0.27.2, unified/remark, YAML, Markdown/WikiLinks, Python unittest; Node >=22 dan npm >=10.9.2; Orca supervised orchestration.
+**TechStack:** Quartz v5.0.0 ESM, Preact ^10.28.2, TypeScript ^5.9.3, esbuild ^0.27.2, unified/remark, YAML, Markdown/WikiLinks, Python unittest; Node >=22 dan npm >=10.9.2; Orca supervised orchestration.
 
 > **Status: siap untuk persiapan dan pilot terotorisasi, bukan produksi.** Dokumen ini adalah paket eksekusi bersyarat, bukan persetujuan mengubah situs. Pekerjaan penyusunan hanya mengubah dokumen07 dan README analisis; tidak menjalankan build/test/lint/formatter, tidak commit, tidak deploy. Worker implementasi kelak membaca skill relevan dan menyelesaikan checkbox sesuai dependency serta review gate.
 
@@ -178,6 +178,91 @@ Semua worker menahan build/test/lint/formatter selama fan-out; coordinator melak
 
 Fitur §4 adalah wave terpisah setelah kontraknya lengkap; **bukan dependency pilot enam MOC** dan bukan alasan mengklaim fitur telah selesai. Manifest/P adalah prerequisite bersama; C/U/N/S/A adalah fan-out eksklusif, I menunggu semuanya, V mempertahankan urutan card-sort/tree-test/usability yang benar.
 
+### 6.1 Tambahan wajib — integrasi pipeline musyawarah (M0–M3)
+
+Riset tambahan membaca06 terbaru dan laporan sumber run sebelumnya; scout dicoba tetapi gagal `No model selected`, sehingga sumber ditelusuri langsung secara read-only. **Tidak ada smoke council, test, lint atau build yang dijalankan dalam riset ini.** Penambahan ini menyiapkan integrasi, tidak mengimplementasikan pipeline.
+
+#### Traceability: kode tersedia bukan integrasi produksi
+
+| Sumber nyata | Temuan, status dan task/gate |
+|---|---|
+| [06 fase4](06-rencana-aksi-penerapan-persona-interdisipliner.md), baris155–157 | Scorer Pipeline11 adalah pre-flight usulan; skor>=70 ada pada kode, latency<0,2s bukan kondisi approval. Masuk M0/M2; tidak menggantikan G1–G5. |
+| [Master pipeline](../pipeline_designs/README.md) §3 baris105–106 dan §4 baris117–153 | Pipeline11/12 terdaftar; `DocumentProcessingState` berisi source authority, page_type/target_slug, dalil, draft, iteration_round, critiques, consensus_score, hitl_status/notes/review_level **hanya schema desain**, bukan state runtime council. Masuk kontrak M0 dan adapter M2. |
+| Master pipeline §5 baris158–218 | Drafter, Sharia Auditor/OpenBayan/Qaf, Pedagogical Critic, Clarity Editor, Navigation Auditor dan Supervisor; maksimum2–3 putaran serta style>=85% **desain**, tidak ada gate ini di council CLI. Masuk M0/M2/M3; service readiness/sumber otoritatif belum terbukti. |
+| [Pipeline12](../pipeline_designs/12_dewan_syura_llm_council_architecture.md) §2–5 | Lima lensa, tiga tahap dan pemicu high-stakes tersedia sebagai spesifikasi. Klaim perangkat operasional pada§5 dibatasi oleh implementasi simulasi berikut. Task M1/M2; final authority M3/G1. |
+| [Engine council](../scripts/llm_council.py), baris65–98,100–215,264–292 | `LLMCouncilEngine.run_council(topic, context)` dan CLI nyata; default offline. Perspektif/review/verdict berupa template, bukan penalaran atau validasi dalil. Cabang non-offline mengandung placeholder; tidak ada live provider yang siap. Context hanya dihitung panjangnya, tidak mempengaruhi substansi; synthesis tidak memakai respons/review untuk menurunkan keputusan. Masuk M1; live tetap contract-gated. |
+| Engine baris142–176 | Shuffle seed42; mapping identitas ikut JSON, reviews memakai label+nama tetap (misalnya `Response E (Executor)`) tanpa mengikuti hasil shuffle. Bukan blind review terjamin. Masuk M1, gate identitas/privasi M0/M3. |
+| Engine baris264–279 | `--topic` wajib, `--context-file`, `--offline` defaultTrue, `--json-out`, `--md-out`; tidak ada flag live, approval atau resume. Context path hilang diam-diam menjadi kosong. File output ditulis langsung jika dipilih; jangan arahkan ke korpus. Masuk M1/M2 input safety. |
+| [Tests council](../tests/test_llm_council.py), baris18–93 | Tests existing mengecek shape/teks simulasi dan CLI; tidak membuktikan konsensus semantik, penggunaan context, anonimitas atau signoff manusia. Tidak dijalankan pada riset; M1 kelak mengganti test incidental dengan consumer-visible boundaries. |
+| [Scorer](../scripts/hybrid_quality_scorer.py), baris315–371; [Pipeline11](../pipeline_designs/11_hybrid_quality_evaluation_system_one.md) §4 | Kode mengembalikan `overall_score`, `status` APPROVED/NEEDS_REVISION, duration dan feedback; approval hanya threshold70. Tidak ditemukan caller council dari scorer: pre-flight lalu syura adalah kontrak integrasi M2, bukan wiring terbukti. |
+| [Dalil runner](../scripts/pipeline_runner_dalil.py), baris13–15,66–70,151–152 | Prototipe data hard-coded dengan main menulis `content/Dalil`; tidak dipakai sebagai entrypoint smoke. Ada label10–14 pada data, bertentangan dengan baseline10–15. Masuk M0 safety inventory; tidak diubah dalam pilot dan tidak boleh di-run untuk membuktikan integrasi. |
+| [Template halaman khusus](../pipeline_designs/SPECIAL_PAGE_TEMPLATES.md) §3 baris289–293; [placement](../pipeline_designs/CONTENT_PLACEMENT_AND_NAVIGATION_RULES.md) §2/§node; [disclosure](../pipeline_designs/DIATAXIS_PROGRESSIVE_DISCLOSURE.md) §5 | Eskalasi sumber primer/takhrij/perumus manhaj, KEEP/RELOCATE/PRUNE/TRANSFORM dan prompt drafter adalah aturan desain. M0/M3 mengadopsi source review; keputusan relocate/prune bukan izin memindahkan/menghapus korpus pilot. |
+
+Pencarian repository untuk `llm_council`, `run_council`, dan `LLMCouncilEngine` menemukan engine, tests dan dokumentasi; tidak menemukan consumer pada scorer, generator navigasi atau Quartz. Ini bukti batas pencarian, bukan kepastian bahwa seluruh layanan eksternal tidak ada. Klaim historical tests/build pada HANDOFF/TODO bukan hasil verifikasi dispatch ini.
+
+#### Kontrak input/output dan state integrasi yang harus disetujui
+
+**Entry point nyata sekarang:** `python3 scripts/llm_council.py --topic ... --context-file ... --offline --json-out ... --md-out ...`. Python stdlib; CLI default offline bahkan tanpa flag. Output stdout Markdown plus file opsional JSON/Markdown. Payload nyata: topic/context_length/execution_time_sec/mode/advisors, stage_1_perspectives, stage_2_peer_reviews (anonymized_responses/anonymization_key/reviews), stage_3_verdict. Verdict berisi consensus/clashes/blind spots/recommendation/first action; tidak mengandung hitl_status atau bukti persetujuan.
+
+**Default aman integrasi:** council menjadi lampiran advisory **SIMULASI**, bukan otoritas manhaj; proses manusia dapat melakukan musyawarah nyata tanpa menunggu live AI. Input integrasi kelak berupa topik berisiko, draf berversi, file sumber/status aktif-superseded,13 persona/JTBD terdampak, pertanyaan keputusan, accepted destinations dan batas keselamatan; tidak memakai data anak/konseling/PII. Output di direktori artifact terisolasi, tidak `content/`/config/nav. Manifest review menyimpan draft/source fingerprint, mode, hasil pre-flight, risalah, reviewer manusia/peran/tanggal/notes, keputusan dan alasan; mapping identitas tidak diteruskan ke reviewer anonim atau publik. Format/path manifest dan adapter disepakati M0 sebelum implementasi; bukan metadata baru pada seluruh korpus.
+
+**State usulan, belum terimplementasi:** DRAFT → PREFLIGHT; NEEDS_REVISION kembali ke drafter; APPROVED menuju RISK_REVIEW. Risiko tinggi memerlukan council advisory atau sidang manusia dan source/manhaj review; kerja mekanis rutin tidak memerlukan council. Risalah masuk HUMAN_PENDING; approved/rejected/needs_revision ditetapkan reviewer berwenang, bukan score/verdict CLI. Revisi mengubah fingerprint dan membatalkan approval lama; maksimal3 putaran desain lalu eskalasi manusia, bukan auto-approve. Hanya HUMAN_APPROVED dengan sources/safety bersih dan G4/G5 memungkinkan keputusan publikasi manual. Tidak ada auto-publish, auto-deploy, klaim klinis atau fatwa dari template AI.
+
+**Peran berbeda dari persona pengguna:** lima lensa Faqih Manhaj/Filosof Fitrah/Arsitek Peradaban/Pembaca Awam/Praktisi KBM adalah perspektif editorial, bukan13 persona atau partisipan uji. Pembaca Awam meninjau kebutuhan orang tua/santri/mandiri, Praktisi meninjau guru/fasilitator, Arsitek meninjau lembaga, Faqih/penelaah sumber meninjau sumber/manhaj; semua13 tetap harus terlacak di ledger P. Chairman menyusun perbedaan dan risiko; perumus manhaj/asatidzah memutuskan substansi, reviewer perlindungan anak/privasi menolak risiko, kurator menjaga sumber dan navigation auditor menjaga target. Jabatan AI tidak membuktikan keahlian atau persetujuan manusia.
+
+#### Brief worker self-contained dan dependencies
+
+### M0 — Kontrak musyawarah dan signoff (sesudah P, sebelum materi sensitif C)
+
+- [ ] **Target:** `analisis-desain/06-rencana-aksi-penerapan-persona-interdisipliner.md`, `pipeline_designs/README.md`, `pipeline_designs/12_dewan_syura_llm_council_architecture.md`, `pipeline_designs/11_hybrid_quality_evaluation_system_one.md`; baca kode council/scorer/dalil runner sebagai bukti, tidak edit kode pada task ini.
+- [ ] **Change:** bedakan schema desain/simulasi/live; tetapkan risk triggers (disiplin/taklif, asesmen, istilah, restrukturisasi, kurikulum), input/artifact/state contract di atas, reviewer/signoff, iterasi<=3, source/PII handling dan denominator style85% sebelum dianggap gate.
+- [ ] **Constraints:** hanya dokumen terotorisasi, tidak rewrite perubahan user; label10–15 tetap, template tidak menghasilkan keputusan sah; OpenBayan/Qaf/System One live belum dibuktikan; skor/latensi bukan approval manusia.
+- [ ] **Ownership:** satu worker dokumen eksklusif empat file target; coordinator I menahan06 sampai M0 settled, A tetap owner scorer. Coordinator saja mengubah07/README analisis untuk status integrasi.
+- [ ] **Observable acceptance:** tiap penambahan traceability di tabel memiliki kontrak/gate/pemilik, G1 owner dan risk triggers disetujui; path adapter/artifact dan format review ditetapkan sebelum M2. Materi high-stakes C blocked hingga human/manhaj review, bukan hingga simulasi memberi verdict.
+
+### M1 — Batas simulasi council (sesudah M0, paralel C/U/N/S/A)
+
+- [ ] **Target:** `scripts/llm_council.py`, `tests/test_llm_council.py`.
+- [ ] **Change:** saat diotorisasi, label mode/risalah sebagai simulasi advisory, fail jelas untuk context hilang atau mode non-offline belum nyata; selaraskan label review dengan shuffle dan pisahkan mapping dari blind-review view. Hilangkan klaim context-based synthesis untuk template; live provider baru hanya sesudah kontrak provider/model/credentials/privacy/evidence disetujui, bukan placeholder.
+- [ ] **Constraints:** tidak mengarang semantic agreement atau dalil; tidak implementasi live diam-diam, tidak menulis korpus/config, tidak memakai random global sebagai bukti anonimitas; tests tidak sekadar mengecek string/length/shape/wiring.
+- [ ] **Ownership:** eksklusif dua file council; A tidak menyentuhnya dan tidak worker lain mendaftarkan council pada generator.
+- [ ] **Observable acceptance:** missing context/non-offline memberi status jujur; label review sesuai mapping nyata; reviewer tidak melihat key identitas; artifact offline tidak mungkin disalahartikan human approval. Smoke di bawah hanya membuktikan simulasi output, consumer boundaries dibuktikan setelah implementasi terotorisasi.
+
+### M2 — Adapter pre-flight ke review manusia (sesudah M0,M1,A; tidak dependency navigasi rutin)
+
+- [ ] **Target:** kontrak state§6.1 dan entrypoint existing `scripts/llm_council.py` + `scripts/hybrid_quality_scorer.py` sebagai consumer APIs read-only; file adapter baru hanya path yang disetujui receipt M0, bukan `pipeline_runner_dalil.py` yang menulis korpus. Jika path/format belum disetujui, task tetap blocked dan coordinator tidak dispatch kode.
+- [ ] **Change:** implementasi terotorisasi kelak menghubungkan pre-flight report, risk classification, advisory council terlabel/sidang manusia dan review manifest berversi; enforce rejection/revision/approval stale, source review dan batas putaran, tanpa publish. Default pilot saat ini memakai langkah CLI+signoff manual, bukan mengklaim adapter sudah tersedia.
+- [ ] **Constraints:** tidak menggandakan owner scorer A/council M1; tidak memperlonggar quality gate70, tidak menganggap style85%/latency200ms terukur; hard safety/source/PII failure tidak dapat diluluskan weighted score; provider/dalil external tetap contract-gated.
+- [ ] **Ownership:** satu owner adapter/state/artifact setelah M0 menetapkan path; coordinator mengendalikan shared config dan gate signoff. Tidak ada overlap content/UI/generator/CSS/audit.
+- [ ] **Observable acceptance:** draf pre-flight gagal tidak maju, risiko tinggi tetap HUMAN_PENDING, reviewer rejected/revision tidak publish, perubahan fingerprint membatalkan approval; context/source yang hilang ditolak, advisory tidak menjadi approval. Throwaway scenario menggunakan draft non-sensitif terisolasi serta manifest nyata; tidak menulis korpus. Belum dapat dijalankan sebelum adapter selesai.
+
+### M3 — Musyawarah manusia dan keputusan integrasi (sesudah M0; memakai M1/M2 bila terotorisasi)
+
+- [ ] **Target:** ledger review G1/P dan hasil task C, kontrak §6.1; `analisis-desain/05-rencana-validasi-dan-pengujian.md` untuk batas klaim empiris, bukan perubahan korpus otomatis.
+- [ ] **Change:** perumus manhaj/asatidzah, kurator sumber, reviewer perlindungan anak/privasi dan editor membaca draf/sumber/perbedaan risalah; catat approved/rejected/needs_revision, alasan dan fingerprint. Kurator nav menjaga accepted destinations; persona ledger tetap13, bukan menggantinya lima lensa.
+- [ ] **Constraints:** reviewer manusia nyata, tidak fabricated signature; tidak mempublikasikan mapping/PII atau menyamakan hasil council dengan takhrij/kebenaran hukum/WCAG/UX. Gap sumber atau instrumen asesmen tetap blocked.
+- [ ] **Ownership:** reviewer substansi dan coordinator ledger; I menunggu signoff ini untuk materi high-stakes yang akan ditampilkan. M0/M3 tidak memindahkan korpus meski desain placement mengenal RELOCATE/PRUNE.
+- [ ] **Observable acceptance:** keputusan dapat ditelusuri ke draf/sumber/reviewer, dissent/safety unresolved menghalangi publikasi; tidak ada verdict simulasi yang tampil sebagai ketetapan resmi. V tetap menguji pengguna nyata, G5 tetap keputusan pemilik.
+
+**DAG tambahan:** P selesai → M0; M0 membuka M1 dan peninjauan manusia M3, sekaligus kontrak C. M1 dan A selesai → M2 bila diotorisasi; M3 memakai hasil M2 untuk jalur adapter atau sidang manual bila adapter belum ada. I menunggu C/U/N/S/A seperti semula **serta M3 untuk materi high-stakes**, bukan bergantung live API belum tersedia. Tidak ada siklus M3→M2; revisi draf adalah iterasi review dengan version baru. Recipe Orca§8 memakai `SPEC_M0/M1/M2/M3` dari brief lengkap di sini, `TASK_M*` hanya dari receipt: task M0 deps `[TASK_P]`, M1 deps `[TASK_M0]`, M2 deps `[TASK_M0,TASK_M1,TASK_A]`, M3 deps `[TASK_M0]` untuk sidang manual atau tambah `[TASK_M2]` bila adapter diotorisasi; shared I menambahkan dependency `TASK_M3` sesuai risiko. Jangan start M2 sebelum kontrak path/consumer disetujui; Run tidak membuat dependency ini otomatis berjalan.
+
+#### Smoke council aman dan batas bukti coordinator
+
+CLI yang tersedia bisa diperiksa tanpa provider/network maupun tulisan ke korpus. Jika coordinator mengizinkan smoke **simulasi saja**, buat direktori sementara baru dengan `mktemp -d` lalu gunakan receipt path `COUNCIL_SMOKE_DIR`; tidak menjalankan dalil runner atau test/build/lint/formatter:
+
+```sh
+python3 scripts/llm_council.py --help
+python3 scripts/llm_council.py --topic "Audit kontrak pilot enam MOC; bukan keputusan manhaj" --context-file analisis-desain/07-paket-implementasi-agentic-orchestration.md --offline
+mktemp -d
+python3 scripts/llm_council.py --topic "Audit kontrak pilot enam MOC; bukan keputusan manhaj" --context-file analisis-desain/07-paket-implementasi-agentic-orchestration.md --offline --json-out "$COUNCIL_SMOKE_DIR/council.json" --md-out "$COUNCIL_SMOKE_DIR/council.md"
+```
+
+Coordinator membuka JSON/Markdown aktual: mode `offline_deterministic`, context_length sesuai file, stages/advisory lengkap; periksa label/mapping dan tandai rekomendasi template **bukan hasil musyawarah substantif**. Input context tidak dibuktikan digunakan hanya karena context_length benar. Catat exit/output/path dan limit; smoke tidak membuktikan pre-flight wiring, live model, semantic synthesis, human gate atau publish. Sesudah M1/M2, skenario changed-source/stale-approval/rejected/context-missing/high-risk pending wajib dieksekusi memakai entrypoint adapter yang benar dari receipt M0; command belum boleh direka sebelum consumer ada. Artifact sementara dibersihkan setelah evidence disimpan oleh coordinator, tanpa menghapus file pengguna.
+
+**Bukti smoke coordinator:** Perintah offline pada baris255 dijalankan dengan context dokumen ini dan exit code0. Stdout menghasilkan risalah lima penasihat serta rekomendasi template, masih berjudul “Risalah Ketetapan Dewan Syura”; tidak ada file output, perubahan korpus, panggilan provider atau publikasi. Ini membuktikan CLI simulasi berjalan, bukan penggunaan context dalam sintesis, konsensus substantif, integrasi scorer, atau approval manusia. Label keluaran yang berpotensi dianggap ketetapan resmi tetap menjadi acceptance M1.
+
+
+
 ## 7. Verifikasi terencana, belum dijalankan worker
 
 Perintah berikut nyata dari audit/package/CLI, **bukan hasil kelulusan**. Coordinator menjalankan setelah izin implementasi dan slice selesai, tanpa `--fix-*`. Catat exit code, output, scope dan temuan; berhenti pada kegagalan kontrak/keselamatan.
@@ -266,3 +351,19 @@ Release hanya setelah accepted settlement, bukan timeout atau hilang kontak. Wor
 - [ ] Setelah rollback, coordinator mengulangi smoke jalur terdampak dan mencatat temuan/revisi; jangan memakai rollback sebagai alasan mengklaim desain lolos.
 
 **Batas selesai paket ini:** rencana, kontrak, ownership, dependencies, gates, recipe dan tautan lokal tersedia. Tidak ada klaim build/test/UX/WCAG lulus atau pilot sudah diimplementasikan; smoke link baseline coordinator adalah satu-satunya bukti runtime situs yang dilaporkan di sini.
+
+---
+
+## 10. Evaluasi Pasca-Insiden OMP (Run 0f3cfd37f363) & Transisi ke Alur Hibrida (Dokumen 08)
+
+Pada eksekusi orkestrasi `run_0f3cfd37f363` (2 Oktober 2026), proses audit serial monolitik menggunakan agent OMP mengalami kebuntuan (*infinite retry loop*) akibat:
+1. `modelRoles.smol` mengarah ke model yang tidak ada (`ollama/gemma4:e4b-omp`), menggagalkan subagent scout (`AuditContent.md` = 0 byte).
+2. Fallback serial monolitik menyebabkan ledakan konteks (naskah ledger membengkak hingga 91.222 baris / 3.3 MB pada `/tmp/wiki-pkn-omp-content.md`).
+3. Gateway API mencapai kuota penggunaan (503/429 upstream error) dan auto-retry tanpa circuit breaker mengunci proses selama >6 jam (PID 2055437).
+
+**Tindakan & Keputusan:**
+- Proses loop OMP telah dihentikan secara resmi (`kill 2055437`).
+- Konfigurasi `config.yml` OMP telah diperbaiki ke model valid (`mustaqbal-ai-basic`/`mustaqbal-ai-coding`).
+- Artefak audit navigasi 100% tuntas ([`/tmp/wiki-pkn-omp-nav.md`](file:///tmp/wiki-pkn-omp-nav.md)) dan 372 ledger konten ([`/tmp/wiki-pkn-omp-content.json`](file:///tmp/wiki-pkn-omp-content.json)) diselamatkan secara penuh.
+- Alur eksekusi resmi dialihkan ke **[Dokumen 08 — Rencana Eksekusi Hibrida Minim Token](08-rencana-eksekusi-hibrida-minim-token.md)** yang memanfaatkan pemrosesan deterministik Python untuk 115 berkas sisa (0 token) dan mengonsolidasikan penuntasan 7 butir tugas `TODO.md`.
+

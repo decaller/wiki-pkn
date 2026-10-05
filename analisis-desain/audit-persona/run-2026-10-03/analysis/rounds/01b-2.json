@@ -1,0 +1,30 @@
+{
+  "persona": "01b",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah recovery memuat batas keselamatan dan bantuan profesional?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Recovery menjelaskan empati, imajinasi, solusi dan restitusi. Pada halaman yang diperiksa belum ditemukan batas layanan klinis atau jalur rujukan profesional; klaim hormonal tidak diverifikasi.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Ada langkah relasional, belum kriteria bahaya dan rujukan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pendidikan-ideal/luka-dan-hutang-pengasuhan/recovery",
+          "quote": "Metode EMISOL: Tiga Pilar Pemulihan"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Afeksi, mendengarkan, dan meminta maaf menjadi praktik dasar; recovery tidak menggantikan layanan kesehatan."
+  ],
+  "recommendations": [
+    "Tambahkan respons instan tanpa menyalahkan ibu, dukungan pengasuh, dan rujukan bila ada bahaya."
+  ]
+}

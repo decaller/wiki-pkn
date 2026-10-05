@@ -1,134 +1,136 @@
 import json
-import os
-import re
+import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
-CONTENT_DIR = ROOT_DIR / "content"
+from scripts import generate_obsidian_navigation as nav
+
 
 class TestNavStructure(unittest.TestCase):
-    @classmethod
-    def setUpClass(cls):
-        cls.all_files = []
-        for root, _, files in os.walk(CONTENT_DIR):
-            for f in sorted(files):
-                if f.endswith(".md"):
-                    full = os.path.join(root, f)
-                    rel = os.path.relpath(full, CONTENT_DIR)
-                    slug = rel[:-3]
-                    title = ""
-                    aliases = []
-                    with open(full, "r", encoding="utf-8", errors="ignore") as fh:
-                        txt = fh.read()
-                        m = re.search(r"^title:\s*[\"']?(.*?)[\"']?$", txt, re.M)
-                        if m:
-                            title = m.group(1).strip()
-                        m_al = re.search(r"^aliases:\s*\n((?:\s*-\s*.*\n)+)", txt, re.M)
-                        if m_al:
-                            for line in m_al.group(1).splitlines():
-                                line = line.strip()
-                                if line.startswith("-"):
-                                    aliases.append(line[1:].strip().strip("\"'"))
-                    cls.all_files.append({"slug": slug, "title": title, "aliases": aliases, "rel": rel})
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.content = Path(self.temp.name)
 
-        cls.slug_map = {}
-        for f in cls.all_files:
-            if f["title"]:
-                cls.slug_map[f["title"].lower().strip()] = f["slug"]
-            for al in f["aliases"]:
-                cls.slug_map[al.lower().strip()] = f["slug"]
-            parts = f["slug"].split("/")
-            last = parts[-1]
-            cls.slug_map[last.lower()] = f["slug"]
-            if last == "index" and len(parts) > 1:
-                cls.slug_map[parts[-2].lower()] = f["slug"]
+    def article(self, path, text=""):
+        file = self.content / path
+        file.parent.mkdir(parents=True, exist_ok=True)
+        file.write_text(text, encoding="utf-8")
 
-    @staticmethod
-    def slugify(s):
-        s = s.lower().strip()
-        s = re.sub(r"[^\w\s-]", "", s)
-        s = re.sub(r"[\s_-]+", "-", s)
-        s = re.sub(r"^-+|-+$", "", s)
-        return s
+    def registry(self):
+        return nav.get_all_markdown_metadata(self.content)
 
-    def resolve(self, title):
-        t_low = title.lower().strip()
-        if t_low in ["home", "beranda", "beranda utama"]:
-            return "index"
-        if t_low in self.slug_map:
-            return self.slug_map[t_low]
-        tb = re.match(r"^0?(\d{1,2})[\.\s\-]", title)
-        if tb:
-            num = tb.group(1).zfill(2)
-            for f in self.all_files:
-                last = f["slug"].split("/")[-1]
-                if last.startswith(f"{num}-") and "tb40" in f["slug"].lower():
-                    return f["slug"]
-        st = self.slugify(title)
-        if st in self.slug_map:
-            return self.slug_map[st]
-        for f in self.all_files:
-            parts = f["slug"].split("/")
-            last = parts[-1]
-            prev = parts[-2] if len(parts) > 1 else ""
-            if last == st or last == st + "-pkn" or (last == "index" and prev == st):
-                return f["slug"]
-        for f in self.all_files:
-            f_title = f["title"].lower().strip()
-            if f_title and t_low in f_title:
-                return f["slug"]
-            if st in f["slug"]:
-                return f["slug"]
-        return None
+    def test_home_and_nested_indexes_keep_separate_identities(self):
+        for path in ("index.md", "A/index.md", "B/index.md"):
+            self.article(path)
+        registry = self.registry()
+        self.assertEqual(set(registry), {"index.md", "A/index.md", "B/index.md"})
+        self.assertEqual(nav.find_matching_file("Home", registry)["rel_path"], "index.md")
+        lines = nav.build_tree_markdown([
+            {"title": "Home"},
+            {"title": "A", "slug": "a/index"},
+            {"title": "B", "slug": "b/index"},
+        ], registry)
+        self.assertEqual(lines, ["- [[index|Home]]", "- [[A/index|A]]", "- [[B/index|B]]"])
 
-    def test_nav_structure_integrity(self):
-        nav_file = ROOT_DIR / "nav_structure.json"
-        self.assertTrue(nav_file.exists(), "nav_structure.json must exist")
+    def test_title_and_alias_are_frontmatter_only(self):
+        self.article("Folder/Source.md", '---\ntitle: "Judul: tepat"\naliases: [Nama, "Nama lain"]\n---\ntitle: Bukan metadata\n')
+        registry = self.registry()
+        for label in ("Judul: tepat", "Nama", "Nama lain", "Source"):
+            self.assertEqual(nav.find_matching_file(label, registry)["rel_path"], "Folder/Source.md")
+        self.assertIsNone(nav.find_matching_file("Bukan metadata", registry))
+        self.assertIsNone(nav.find_matching_file("Judul", registry))
 
-        with open(nav_file, "r", encoding="utf-8") as fh:
-            nav = json.load(fh)
+    def test_ambiguous_alias_title_and_basename_never_choose_first(self):
+        self.article("A/Same.md", "---\ntitle: Shared\naliases:\n  - Collision\n---\n")
+        self.article("B/Same.md", "---\ntitle: Collision\naliases: [Shared]\n---\n")
+        registry = self.registry()
+        for label in ("Collision", "Shared", "Same"):
+            for ordered in (registry, dict(reversed(list(registry.items())))):
+                with self.subTest(label=label), self.assertRaisesRegex(ValueError, "Ambiguous"):
+                    nav.find_matching_file(label, ordered)
+        self.assertIsNone(nav.find_matching_file("Sam", registry))
+        with self.assertRaisesRegex(ValueError, "Unresolved"):
+            nav.build_tree_markdown([{"title": "Sam"}], registry)
 
-        root_key = list(nav.keys())[0]
-        structure = nav[root_key]["structure"]
+    def test_explicit_slug_is_exact_and_overrides_label(self):
+        self.article("A/First.md", "---\ntitle: Same\n---\n")
+        self.article("B/Second.md", "---\ntitle: Same\n---\n")
+        registry = self.registry()
+        self.assertEqual(nav.build_tree_markdown([{"title": "Same", "slug": "b/second"}], registry),
+                         ["- [[B/Second|Same]]"])
+        for slug in ("B/Second", "b/second.md", "b/second/", "missing", "", None):
+            with self.subTest(slug=slug), self.assertRaisesRegex(ValueError, "Invalid explicit slug"):
+                nav.build_tree_markdown([{"title": "First", "slug": slug}], registry)
 
-        def traverse(items, path=""):
-            nodes = []
-            for it in items:
-                cur_path = f"{path} > {it['title']}" if path else it["title"]
-                slug = self.resolve(it["title"])
-                is_leaf = not bool(it.get("children"))
-                nodes.append({
-                    "path": cur_path,
-                    "title": it["title"],
-                    "slug": slug,
-                    "is_leaf": is_leaf
-                })
-                if it.get("children"):
-                    nodes.extend(traverse(it["children"], cur_path))
-            return nodes
+    def test_canonical_slug_uses_source_path_not_title_slugify(self):
+        self.article("Arsitektur PKN/00 - Master & Fitrah (Anak).md", "---\ntitle: Label berbeda\n---\n")
+        self.article("Folder/Folder.md")
+        self.article("Folder/_index.md")
+        registry = self.registry()
+        slug = "arsitektur-pkn/00---master--and--fitrah-(anak)"
+        self.assertEqual(nav.build_tree_markdown([{"title": "Label", "slug": slug}], registry),
+                         ["- [[Arsitektur PKN/00 - Master & Fitrah (Anak)|Label]]"])
+        # Quartz maps both folder/name and _index to index; neither may win.
+        with self.assertRaisesRegex(ValueError, "Ambiguous explicit slug"):
+            nav.build_tree_markdown([{"title": "Folder", "slug": "folder/index"}], registry)
 
-        all_nodes = traverse(structure)
-        leaves = [n for n in all_nodes if n["is_leaf"]]
-        unlinked_leaves = [n for n in leaves if not n["slug"]]
-        unresolved_all = [n for n in all_nodes if not n["slug"]]
+    def test_all_collections_and_groups_render_in_manifest_order(self):
+        self.article("A/One.md")
+        self.article("B/Two.md")
+        self.article("Section.md")
+        structure = {
+            "first": {"name": "Pertama", "structure": [{"title": "One", "slug": "a/one"}]},
+            "second": {"name": "Kedua", "structure": [
+                {"title": "Section", "kind": "group", "children": [{"title": "Two", "slug": "b/two"}]},
+            ]},
+        }
+        self.assertEqual(nav.render_navigation(structure, self.registry()),
+                         "## Pertama\n\n- [[A/One|One]]\n\n## Kedua\n\n- **Section**\n  - [[B/Two|Two]]")
 
-        # Assertions
-        self.assertEqual(len(all_nodes), 150, f"Expected 150 total nodes, got {len(all_nodes)}")
-        self.assertEqual(len(leaves), 122, f"Expected 122 leaf nodes, got {len(leaves)}")
-        self.assertEqual(len(unlinked_leaves), 0, f"Unlinked leaves found: {unlinked_leaves}")
-        self.assertEqual(len(unresolved_all), 0, f"Unresolved nodes found: {unresolved_all}")
+    def test_writer_preserves_editorial_and_complete_index_and_is_idempotent(self):
+        self.article("index.md")
+        page = self.content / "Peta.md"
+        before = "---\ntitle: Editorial\n---\n\nPengantar manual\n"
+        after = "\nCatatan manual\n<!-- BEGIN_COMPLETE_CONTENT_INDEX -->\n[[A/index|Indeks]]\n<!-- END_COMPLETE_CONTENT_INDEX -->\n"
+        page.write_text(before + nav.START + "\nLama\n" + nav.END + after, encoding="utf-8")
+        manifest = self.content / "nav.json"
+        manifest.write_text(json.dumps({"main": {"name": "Utama", "structure": [{"title": "Home"}]}}), encoding="utf-8")
+        with patch.object(nav, "CONTENT_DIR", self.content), patch.object(nav, "NAV_STRUCTURE_FILE", manifest), patch.object(nav, "OUTPUT_FILE", page):
+            nav.generate_navigation_page()
+            expected = before + nav.START + "\n## Utama\n\n- [[index|Home]]\n" + nav.END + after
+            self.assertEqual(page.read_text(encoding="utf-8"), expected)
+            nav.generate_navigation_page()
+            self.assertEqual(page.read_text(encoding="utf-8"), expected)
 
-        # Verify physical markdown files exist
-        missing_physical = []
-        for n in all_nodes:
-            slug = n["slug"]
-            md_file = CONTENT_DIR / f"{slug}.md"
-            idx_file = CONTENT_DIR / slug / "index.md"
-            if not md_file.exists() and not idx_file.exists():
-                missing_physical.append((n["path"], slug))
+    def test_missing_duplicate_reversed_or_overlapping_markers_reject_without_write(self):
+        self.article("index.md")
+        manifest = self.content / "nav.json"
+        manifest.write_text(json.dumps({"main": {"structure": [{"title": "Home"}]}}), encoding="utf-8")
+        page = self.content / "Peta.md"
+        for text in ("Editorial only", nav.END + nav.START, nav.START + nav.START + nav.END,
+                     nav.START + nav.END + nav.END,
+                     "<!-- BEGIN_COMPLETE_CONTENT_INDEX -->" + nav.START + nav.END + "<!-- END_COMPLETE_CONTENT_INDEX -->",
+                     nav.START + "<!-- BEGIN_COMPLETE_CONTENT_INDEX -->x<!-- END_COMPLETE_CONTENT_INDEX -->" + nav.END):
+            page.write_text(text, encoding="utf-8")
+            with self.subTest(text=text), patch.object(nav, "CONTENT_DIR", self.content), patch.object(nav, "NAV_STRUCTURE_FILE", manifest), patch.object(nav, "OUTPUT_FILE", page):
+                with self.assertRaisesRegex(ValueError, "marker|overlap"):
+                    nav.generate_navigation_page()
+                self.assertEqual(page.read_text(encoding="utf-8"), text)
 
-        self.assertEqual(len(missing_physical), 0, f"Missing physical files for nodes: {missing_physical}")
+    def test_invalid_explicit_slug_does_not_modify_page(self):
+        self.article("index.md")
+        page = self.content / "Peta.md"
+        original = nav.START + "\nEditorial\n" + nav.END
+        page.write_text(original, encoding="utf-8")
+        manifest = self.content / "nav.json"
+        manifest.write_text(json.dumps({"main": {"structure": [{"title": "Home", "slug": "missing"}]}}), encoding="utf-8")
+        with patch.object(nav, "CONTENT_DIR", self.content), patch.object(nav, "NAV_STRUCTURE_FILE", manifest), patch.object(nav, "OUTPUT_FILE", page):
+            with self.assertRaisesRegex(ValueError, "Invalid explicit slug"):
+                nav.generate_navigation_page()
+        self.assertEqual(page.read_text(encoding="utf-8"), original)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -60,9 +60,9 @@ tags:
 
 
 > [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
-> **Hakikat Konsep:** **Bank Studi Kasus** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
-> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
-> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+> **Hakikat Konsep:** **Bank Studi Kasus** membantu orang tua dan guru membaca peristiwa harian sebagai kesempatan membina adab, bukan sekadar pelanggaran yang harus dihukum. Artikel ini menguraikan respons melalui **Tangki Cinta, Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan**.
+> * **Prinsip Utama:** Dahulukan *Koneksi Sebelum Koreksi* dan sesuaikan pendampingan dengan tahapan fitrah anak (*Tadarruj*).
+> * **Orientasi Akhir:** Membina pribadi *Sholih* (selamat akidah dan ibadahnya) dan *Muslih* (bermanfaat bagi ummah).
 
 
 ![[assets/banners/banner_bank_studi_kasus.webp]]
@@ -82,7 +82,7 @@ Dalam lanskap pendidikan kontemporer, kita menghadapi krisis arsitektural yang f
 
 Kurikulum Berbasis Peristiwa adalah instrumen utama untuk melakukan pemulihan tersebut. Peristiwa harian—baik berupa konflik anak, pelanggaran aturan, kemalasan ibadah, maupun hambatan emosi—bukanlah gangguan bagi proses pendidikan, melainkan **pintu masuk utama (*entry point*)** bagi penanaman adab yang paling organik. Jika peristiwa ini diabaikan atau diselesaikan dengan kemarahan reaktif, kita berisiko melahirkan *"dewasa biologis namun anak-anak secara fungsional"*.
 
-Setiap konflik adalah ruang bagi seorang anak untuk bertransformasi menjadi seorang *Muta'allim* (pembelajar) sejati. Untuk mengelola peristiwa secara terarah, diterapkan kerangka kerja arsitektural empat langkah: **Tangki Cinta**, **Bahasa Hati**, **Bahasa Lisan**, dan **Bahasa Tangan**.
+Konflik dapat menjadi kesempatan bagi anak untuk belajar sebagai *Muta'allim* (pembelajar). Empat langkah berikut membantu pendidik menghubungkan pemahaman atas kondisi anak dengan dialog dan tindakan yang beradab.
 
 ---
 
@@ -92,14 +92,14 @@ Kerangka ini berakar pada prinsip *Adab al-Mu'allimin* (Etika Pendidik), di mana
 
 ![[canvas/Bank Studi Kasus - Kerangka Kerja Restorasi - Metode Empat Langkah ( - The 4 - S.canvas]]
 
-### Penjelasan 4 Langkah:
+### Penjelasan Empat Langkah
 
 1. **Langkah 1: Tangki Cinta (Koneksi Spiritual & Emosional)**  
    Seorang pendidik (*Mu'allim*) wajib menghadirkan kasih sayang (*rahmah*) sebelum instruksi. Pendidik adalah pelindung yang menjaga anak dari pertanggungjawaban berat di hadapan Allah. Tangki cinta bukan sekadar kenyamanan emosional, melainkan pemenuhan amanah agar orang tua selamat di hari hisab kelak.
 2. **Langkah 2: Bahasa Hati (Empati & Keikhlasan Niat)**  
-   Restorasi bermula dari keikhlasan kalbu pendidik. Sebelum menyentuh perilaku lahiriah, pendidik harus memastikan adanya resonansi batin yang menembus fitrah anak. Tanpa keikhlasan dan koneksi hati, instruksi hanya akan dianggap paksaan yang memicu resistensi bawah sadar.
+   Sebelum membahas perilaku anak, pendidik meluruskan niat dan membangun koneksi hati. Keikhlasan dan empati menjadi dasar agar anak menerima bimbingan, bukan sekadar merasa dipaksa.
 3. **Langkah 3: Bahasa Lisan (Instruksi Reflektif & Dialog Moralitas)**  
-   Mengambil inspirasi dari tradisi *Kuttab* yang mendahulukan adab membaca dan memahami sebelum ilmu kompleks, pendidik membimbing anak agar mampu "membaca" bobot moral dari perbuatannya. Dialog harus bersifat reflektif untuk menyalakan nalar kesadaran (*Aqil*), bukan khutbah satu arah yang menghakimi.
+   Mengambil inspirasi dari tradisi *Kuttab* yang mendahulukan adab membaca dan memahami sebelum ilmu kompleks, pendidik mengajak anak memahami bobot moral perbuatannya. Gunakan dialog reflektif untuk menumbuhkan kesadaran (*Aqil*), bukan khutbah satu arah yang menghakimi.
 4. **Langkah 4: Bahasa Tangan (Konsekuensi, Batas Hak, dan Ta'dib)**  
    Ketegasan dalam tradisi Nabawi disebut sebagai *Ta'dib*. Pendidik wajib menegakkan keadilan (*'adl*) bahkan dalam disiplin. Bahasa tangan adalah bentuk perlindungan terhadap martabat dan batasan hak anak, bukan pelampiasan amarah ego pendidik, yang bertujuan mengoreksi perilaku tanpa menghancurkan harga dirinya.
 
@@ -115,6 +115,9 @@ Kerangka ini berakar pada prinsip *Adab al-Mu'allimin* (Etika Pendidik), di mana
 | **Bahasa Tangan** | Hukuman fisik impulsif yang melukai fisik dan merendahkan martabat. | Penegakan *Ta'dib*, pemisahan batas hak, dan restitusi yang adil (*'adl*). |
 
 ---
+
+> [!info] Cara Membaca Contoh Kasus
+> Empat contoh berikut disusun sebagai panduan respons berdasarkan rujukan kajian yang dicantumkan pada setiap bagian. Contoh-contoh ini bukan laporan observasi anak tertentu atau bukti empiris keberhasilan penanganan. Bedakan kondisi yang benar-benar diamati dari dugaan tentang penyebabnya sebelum memilih tindakan.
 
 ## 3. Studi Kasus 1: Anak Menolak/Mogok Shalat Fardhu
 
@@ -235,10 +238,12 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 
 ---
 
-## Studi Kasus Nyata & Solusi Kuratif Tadarruj
+## Ilustrasi Kasus & Tahapan Pendampingan Tadarruj
 
 ### Skenario Permasalahan
 > **Kasus:** Guru menangani kasus perkelahian santri dengan hukuman fisik kurungan tanpa membedah akar luka batiniah dan hutang pengasuhannya.
+
+Skenario ini merupakan ilustrasi untuk pembahasan, bukan laporan kejadian yang telah diverifikasi. Rentang waktu berikut adalah alur pendampingan yang disajikan dalam artikel, bukan data hasil pemulihan suatu kasus.
 
 ### Tahapan Solusi Kuratif Langkah-demi-Langkah (Manhaj Tadarruj)
 1. **Fase 1: Rekalibrasi Visi & Niat (Hari 1–7)**  
@@ -252,9 +257,9 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 
 ---
 
-> [!info] Refleksi Lapangan: Realitas Penerapan Bank Studi Kasus Kurikulum Peristiwa
-> **Kondisi Faktual:** Dalam praktik nyata di lembaga dan rumah tangga, penerapan Bank Studi Kasus Kurikulum Peristiwa sering menghadapi tantangan resistensi budaya lama dan tuntutan hasil instan.  
-> **Akar Masalah PKN:** Ketidakselarasan antara standar ideal manhaj dengan kapasitas pendidik yang belum tuntas melakukan tazkiyatun nafs.  
+> [!info] Refleksi Penerapan Bank Studi Kasus Kurikulum Peristiwa
+> **Kondisi yang Perlu Dicermati:** Apakah kebiasaan lama atau tuntutan hasil instan menghambat pendampingan di rumah dan lembaga Anda? Catat peristiwa yang mendasari jawaban, bukan kesan umum.  
+> **Refleksi PKN:** Telaah keselarasan antara standar manhaj, kapasitas pendidik, dan upaya tazkiyatun nafs; jangan menjadikannya kesimpulan tentang orang lain tanpa memahami kondisinya.  
 > **Langkah Penanganan Nabawiyah:**  
 > 1. Bangun pemahaman bersama (*idrak musytarak*) di kalangan pimpinan, guru, dan orang tua.  
 > 2. Utamakan keteladanan nyata sebelum membuat aturan administratif yang kaku.  
@@ -304,7 +309,7 @@ Setiap peristiwa, insiden, dan pertengkaran di rumah bukanlah beban pengganggu, 
 3. Sudahkah saya memohon petunjuk khusus kepada Allah dalam sujud tahajud mengenai kasus anak ini?
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
-* Tuliskan satu kasus perilaku anak yang paling memusingkan Anda hari ini, bedah menggunakan kacamata 'energi bakat yang salah wadah'.
+* Tuliskan satu peristiwa perilaku anak hari ini: apa yang terjadi, apa yang anak sampaikan, dan bagaimana Anda merespons. Pertimbangkan kemungkinan 'energi bakat yang salah wadah' sebagai bahan dialog, bukan kesimpulan sebelum mendengar anak.
 
 ---
 

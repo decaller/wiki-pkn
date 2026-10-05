@@ -1,6 +1,6 @@
 # Panduan Gaya Penulisan & Karakteristik Pedagogis Ustadz Abdul Kholiq (Style Guide)
 
-Dokumen ini merupakan pedoman standar kepenulisan (*voice, tone, and pedagogical signature*) untuk memastikan setiap naskah yang digenerate oleh AI maupun disunting oleh tim kurator memiliki **karakteristik, jiwa (*ruh*), dan gaya bertutur khas perumus Manhaj PKN, Ustadz Abdul Kholiq**.
+Dokumen ini adalah **referensi pendamping suara penulisan dan ciri pedagogis materi Ustadz Abdul Kholiq**, bukan kebijakan editorial atau gerbang publikasi mandiri. Kebijakan kanonis terdapat dalam [`PANDUAN_PENULISAN_KONTEN.md`](../PANDUAN_PENULISAN_KONTEN.md), termasuk jenis halaman, retensi fakta, sitasi, dan HITL. Penggunaan gaya ini tidak membuktikan atribusi ucapan kepada beliau atau persetujuan ahli terhadap naskah AI/kontributor. Kutipan langsung dan parafrasa harus tetap ditelusuri ke materi asal.
 
 ---
 
@@ -17,9 +17,9 @@ Gaya penulisan Ustadz Abdul Kholiq bukanlah ceramah doktrinal satu arah yang kak
 
 ---
 
-## 2. Enam Pilar Wajib Struktur Tulisan (*The 6 Core Pedagogical Pillars*)
+## 2. Enam Pilar Referensi Struktur Tulisan (*The 6 Core Pedagogical Pillars*)
 
-Setiap artikel materi PKN wajib memuat **6 pilar anatomi pedagogis khas Ustadz Abdul Kholiq**:
+Enam pilar berikut membantu menyusun **artikel panjang** bila sesuai tema dan sumber. Pilar bukan kewajiban seragam untuk MOC, formulir, atau setiap artikel. Jangan menambah dalil, analisis usia, maupun instrumen yang tidak bersumber demi kelengkapan gaya.
 
 ```mermaid
 flowchart TD
@@ -34,6 +34,8 @@ flowchart TD
 ```
 
 ### Rincian 6 Pilar:
+
+Rincian di bawah adalah kerangka gaya yang telah tercatat dalam referensi ini, bukan dalil mandiri, diagnosis, atau validasi hukum/perkembangan. Sebelum menerapkannya sebagai klaim dalam artikel, cari materi asal dan cantumkan lokasinya sesuai panduan kanonis. Pernyataan sebab tunggal, usia/taklif, serta istilah kuratif memerlukan review substansi; penyunting gaya tidak berwenang mengesahkannya. Jika belum terverifikasi, jangan memperlakukannya sebagai aturan universal.
 1. **Refleksi Batin & Metafora Fitrah:**
    - Membuka kesadaran orang tua bahwa perilaku menyimpang anak hanyalah puncak gunung es dari defisit kasih sayang batin.
 2. **Teladan Sirah & Dalil Interaksi Fisik:**
@@ -57,7 +59,7 @@ flowchart TD
 
 ## 3. Format Baku Blok Instrumen Terapan (Pilar 6)
 
-Setiap artikel wajib menyertakan blok penutup dengan format persis seperti ini:
+Blok berikut adalah **contoh format**, bukan instrumen tervalidasi atau skala wajib. Gunakan pertanyaan reflektif dan aksi yang relevan; untuk observasi, rujuk instrumen proyek yang sudah ada beserta kategori aslinya. Jangan mengganti kategori instrumen 19 butir dengan tiga level ini atau membuat indikator/skala baru tanpa review risiko tinggi. MOC dapat cukup menautkan toolkit, dan formulir mengikuti tujuan pengisian.
 
 ````markdown
 ## Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
@@ -82,7 +84,7 @@ Setiap artikel wajib menyertakan blok penutup dengan format persis seperti ini:
 
 ## 4. Parameter Pengecekan Kepatuhan Gaya, Arsitektur 4 Zona Wiki & Pengalaman Membaca (*Audit Checklist*)
 
-Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor` dan `ContentPlacementAuditor`) menguji naskah terhadap 10 tolok ukur kepatuhan manhaj, arsitektur 4 zona standar MediaWiki, dan *reader's journey*:
+Tolok ukur berikut adalah referensi audit desain untuk artikel panjang, bukan persyaratan universal atau bukti bahwa node AI telah dijalankan. Pilih parameter yang sesuai jenis halaman dan sumber; pola Quartz yang sudah digunakan (callout, Mermaid/canvas, wikilink) tidak perlu diganti hanya untuk mengejar skor atau arsitektur MediaWiki.
 
 | No | Parameter Kepatuhan | Nilai Bobot | Indikator Validasi Otomatis |
 |:---:|:---|:---:|:---|
@@ -97,14 +99,14 @@ Sistem evaluasi AI (pada LangGraph node `AbdulKholiqStyleAuditor` dan `ContentPl
 | 9 | **Lampiran & Catatan Kaki (Zona 3: Takhrij & Superskrip)** | 10% | Sub-bab "Lihat Pula", rujukan superskrip `[^1]`, takhrij Shamela, dan "Bacaan Lanjutan/Pranala Luar". |
 | 10 | **Navigasi Bawah & Taksonomi (Zona 4: Navbox & Kategori)** | 10% | Kotak navigasi horizontal `.wiki-navbox`, kategori tematik `[[Kategori:...]]`, dan tautan mu'jam. |
 
-> 🎯 **Ambang Batas Kelulusan:** Skor Kepatuhan Gaya minimal **$\ge 85\%$** untuk dapat diajukan ke Gerbang Kurator Manusia (*HITL Gate*).
-> ⚠️ **Catatan Alur Membaca:** Dilarang menyajikan artikel dalam bentuk deretan *bullet points* terisolasi. Seluruh poin harus dirangkai dengan jembatan narasi transisi logis agar pembaca memahami kausalitas konsep secara utuh dalam kerangka 4 zona wiki.
+> **Skor bersifat advisori:** bobot pada tabel adalah rancangan audit, bukan persentase terkalibrasi atau ukuran kebenaran. Jangan menganggap ambang 85% sebagai syarat masuk HITL, kelulusan, atau tanda tangan manusia. Catat masalah per parameter dan perbaiki yang relevan; sumber dan review risiko mengikuti panduan kanonis.
+> **Alur membaca:** artikel panjang memerlukan hubungan gagasan yang jelas. Daftar bernomor, checklist, tabel, MOC, dan kolom formulir tetap tepat untuk instruksi praktis; jangan menambah transisi pengisi atau paragraf demi skor/panjang.
 
 ---
 
 ## 5. Mekanisme Penulisan Kepadatan Tinggi & Pembatasan Negatif (High-Density Engineering Prompts)
 
-Agar naskah teknis/tarbiyah tetap tajam, kaya data, dan tidak terjebak dalam basa-basi khas AI (*LLM tells*), generator LLM wajib menerapkan 6 aturan mekanik penulisan berikut:
+Untuk menjaga naskah teknis/tarbiyah padat tanpa kehilangan fakta, gunakan pola penyuntingan berikut sesuai kebutuhan. Target 5.000 karakter hanya sasaran elaborasi artikel panjang dalam panduan kanonis, bukan minimum MOC/formulir atau alasan menambah teks.
 
 ### A. Pembatasan Negatif Mutlak (*Ban the "LLM Tells"*)
 1. **Dilarang Menulis Pengumuman Meta (*No Meta-Announcements*):**
@@ -113,15 +115,15 @@ Agar naskah teknis/tarbiyah tetap tajam, kaya data, dan tidak terjebak dalam bas
 2. **Eliminasi Kata Sifat Klise & Berlebihan (*Ban Fluffy Adjectives*):**
    - ❌ *Dilarang:* Kata-kata seperti *krusial, luar biasa, revolusioner, sangat penting, pilar fundamental yang tak tergantikan, menjembatani secara mulus*.
    - ✔️ *Wajib:* Paparkan fakta dan konsekuensi amaliah secara langsung dan lugas.
-3. **Dilarang Menulis Judul Kesimpulan Berlabel (*No Labeled Closings*):**
-   - ❌ *Dilarang:* Bagian dengan judul "Kesimpulan", "Rangkuman", "Inti Sari".
-   - ✔️ *Wajib:* Artikel wiki selesai setelah sub-bab *Instrumen Observasi Terapan* (Pilar 6) selesai disajikan.
+3. **Penutup Sesuai Kebutuhan Pembaca:**
+   - Ringkasan, tindak lanjut, referensi, dan navigasi boleh ditempatkan di akhir bila membantu pembaca. Tidak ada kewajiban mengakhiri semua artikel pada blok instrumen.
 4. **Gunakan Kalimat Aktif & Aksi Konkret (*Active Voice*):**
-   - ❌ *Hindari:* "Pemberian hukuman fisik dilakukan oleh orang tua apabila terjadi pengabaian shalat setelah anak berusia 10 tahun."
-   - ✔️ *Gunakan:* "Orang tua menerapkan sanksi tegas terukur jika anak tetap meninggalkan shalat setelah menginjak usia 10 tahun."
+   - Hindari: “Pencatatan kejadian dilakukan oleh pendamping setelah kegiatan.”
+   - Gunakan: “Pendamping mencatat kejadian setelah kegiatan.”
+   - Perbaikan bentuk kalimat tidak boleh mengubah saran menjadi perintah, ketidakpastian menjadi kepastian, atau materi berisiko tinggi menjadi instruksi tanpa review.
 
 ### B. Pola Buffer Penalaran: "Ekstraksi Dulu, Baru Sintesis" (*Scratchpad-Then-Synthesize*)
-Sebelum menulis naskah final, prompt LLM wajib mengekstrak seluruh fakta atomik di dalam tag `<scratchpad_extraction>` agar tidak ada batasan usia atau peringatan syar'i yang tereliminasi:
+Sebelum menulis naskah final, catat fakta dan lokasi sumber dalam catatan kerja agar batasan usia, atribusi, pengecualian, dan peringatan tidak hilang. Catatan ini adalah inventaris sumber yang dapat diperiksa, bukan penalaran internal model atau bukti verifikasi otomatis:
 ```xml
 <phase_1_fact_extraction>
 - Pindai teks sumber/transkrip dan catat:
@@ -132,25 +134,24 @@ Sebelum menulis naskah final, prompt LLM wajib mengekstrak seluruh fakta atomik 
 </phase_1_fact_extraction>
 
 <phase_2_wiki_draft>
-- Susun naskah wiki Quartz lengkap 9 lapisan.
-- Pastikan seluruh poin yang tercatat pada phase_1 termuat utuh dalam tabel atau narasi.
+- Susun naskah sesuai jenis halaman dan empat lapisan penyajian bila relevan.
+- Petakan setiap fakta yang digunakan ke sumber; pertahankan syarat dan ketidakpastiannya. Catat alasan jika fakta tidak relevan atau belum layak dimuat, bukan memaksakan seluruh hasil ekstraksi ke artikel.
 </phase_2_wiki_draft>
 ```
 
 ### C. Format Kepadatan Tinggi Menggantikan Paragraf Panjang (*High-Density Formats*)
-1. **Matriks Kasus (*Condition $\to$ Root Cause $\to$ Exact Remediation*):**
-   - Setiap kali mengurai dinamika santri/anak, gunakan tabel keputusan:
-   | Kondisi / Gejala Perilaku | Akar Masalah Batin | Protokol Terapi Nabawiyah (*'Ilaj*) |
+1. **Matriks Kasus Deskriptif:**
+   - Gunakan tabel bila membantu memisahkan kejadian dari tafsir dan tindak lanjut. Jangan menyimpulkan akar masalah batin atau terapi dari satu perilaku tanpa dasar dan review substansi:
+   | Kejadian Teramati & Konteks | Tafsir Sementara / Pertanyaan Pendamping | Tindak Lanjut Sesuai Sumber |
    |:---|:---|:---|
 2. **Aturan "Specification Box":**
-   - Jika sebuah paragraf memuat $\ge 3$ parameter (misal: rentang usia, durasi KBM, batasan kuota gadget, tahapan bertahap), **dilarang menuliskannya dalam bentuk prosa panjang**. Wajib disajikan dalam bentuk tabel kunci-nilai (*key-value table*) atau *callout card*.
+   - Jika paragraf memuat banyak parameter, pertimbangkan tabel kunci-nilai atau callout agar mudah dipindai. Pertahankan kalimat penjelas ketika tabel akan menghilangkan syarat, pengecualian, atau hubungan gagasan.
 
 ### D. Multi-Pass "Editor" Chaining (Two-Agent Pipeline)
-Proses penulisan dipisahkan menjadi 2 agen sekuensial:
-1. **Agent 1 (The Technical Drafter):** Berfokus pada kelengkapan 100% fakta, dalil, dan studi kasus. Menghasilkan draf komprehensif tanpa peduli gaya prosa.
-2. **Agent 2 (The Ruthless Copy-Editor):** Berfokus memotong 20–25% kata-kata mubazir, membuang kata klise AI, mengubah kalimat pasif menjadi aktif, dan memadatkan paragraf ke dalam tabel tanpa menghilangkan satu pun parameter teknis atau dalil.
+Proses dapat dibagi menjadi penyusunan draf dan copy-edit, oleh manusia atau dengan bantuan AI:
+1. **Penyusun draf:** catat fakta, dalil, lokasi sumber, dan status verifikasi; susun naskah sesuai kebutuhan pembaca.
+2. **Copy-editor:** buang pengulangan, perjelas kalimat, dan rapikan struktur dengan checklist retensi fakta dalam panduan kanonis. Tidak ada kuota pemotongan 20–25%; kutipan, parameter, syarat, dan peringatan tidak boleh hilang demi kepadatan.
 
-### E. Kalibrasi Parameter Inferensi Model
-- **Temperature ($T = 0.0 - 0.2$):** Sangat rendah untuk menjamin presisi kutipan dalil, nomor perawi hadits, dan batasan usia hukum tanpa halusinasi kreatif.
-- **Top-P ($0.9$):** Menjaga determinisme istilah syar'i (*Ihsan, Ta'dib, Iffah, Syaja'ah*) agar tidak tergantikan sinonim modern yang melenceng.
+### E. Batas Bantuan Model
+Pengaturan temperature atau top-p dapat membantu konsistensi keluaran, tetapi **tidak menjamin** akurasi kutipan, nomor hadits, istilah, atau batas usia/hukum. Cocokkan hasil dengan sumber asal, dokumentasikan ketidakpastian, dan serahkan review manusia sesuai risiko. Jangan menyebut keluaran model sebagai takhrij, validasi instrumen, atau signoff ahli.
 

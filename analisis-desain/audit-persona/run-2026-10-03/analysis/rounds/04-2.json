@@ -1,0 +1,30 @@
+{
+  "persona": "04",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah jalur tiga bahasa dengan tujuan dan durasi pertemuan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Bahasa Hati menyediakan dalil, modalitas dan praktik; belum menyediakan silabus satu pertemuan dengan prasyarat dan evaluasi peserta.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Bahan kaya; urutan belajar masih harus disusun fasilitator.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pendidikan-ideal/metode-mendidik/bahasa-hati",
+          "quote": "Lima Dialek Operasional Bahasa Hati dalam Pengasuhan Keluarga"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Bahan konsep dan media cukup kaya; jalur belajar belum otomatis terbentuk dari daftar tautan."
+  ],
+  "recommendations": [
+    "Tambahkan jalur 30/60/90 menit, prasyarat, glosarium dan pertanyaan evaluasi."
+  ]
+}

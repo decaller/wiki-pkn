@@ -158,101 +158,112 @@ Berikut adalah daftar lengkap 40 butir pernyataan evaluasi diri yang mencakup se
 
 ## 3. Matriks Pengelompokan 6 Rumpun Bakat
 
-Setelah mengisi ke-40 butir pernyataan di atas, rekapitulasi nilai skor Anda (skala 1–5) ke dalam tabel kelompok 6 kluster bakat berikut untuk menemukan **3–5 Bakat Terunggul** dan **Bakat yang Kurang Dominan**:
+> [!IMPORTANT] Rekonsiliasi Matriks Skor TB-40 Terverifikasi
+> Tabel rekapitulasi di bawah ini telah direkonsiliasi secara penuh dengan pangkalan data kanonikal 40 Bakat Nabawiyah ([`TB40/index`](../TB40/index.md)). Setiap butir (Butir 1 s/d 40) terhubung secara presisi 1:1 dengan nomor butir pernyataan pada instrumen di atas.
+
+Setelah mengisi ke-40 butir pernyataan di atas, rekapitulasi nilai skor Anda (skala 1–5) ke dalam tabel kelompok 6 kluster bakat berikut untuk memetakan kekuatan fitrah Anda:
 
 ### A. Kluster Hayawaniyah (Jasad / Jiwa Ammarah)
 
 #### 1. Rumpun Bekerja Keras (Introvert — Jasad/Fisik)
-*Ciri utama: Ulet, tahan banting, gigih menyelesaikan tugas hingga tuntas, fokus pada aksi raga.*
+*Ciri utama: Ulet, tekad kuat, berambisi tinggi, menjaga kehormatan diri, tenang berwibawa, dan gesit bekerja keras.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Bekerja Keras|‘Aziimah / العَزِيمَة (Bertekad Kuat)]] | Butir 4 | ... |
-| 2 | [[Bakat/Bekerja Keras|Syaja’ah / الشَّجَاعَة (Pemberani)]] | Butir 29 | ... |
-| 3 | [[Bakat/Bekerja Keras|Qana’ah / القَنَاعَة (Menerima Apa Adanya)]] | Butir 26 | ... |
-| 4 | [[Bakat/Bekerja Keras|Hirmaan / الحِرْمَان (Rela Menahan Diri)]] | Butir 14 | ... |
-| 5 | [[Bakat/Bekerja Keras|Istiqaamah / الاِسْتِقَامَة (Konsisten)]] | Butir 20 | ... |
-| 6 | [[Bakat/Bekerja Keras|Nasyath / النَّشَاط (Giat & Aktif)]] | Butir 25 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Himmah / الهِمَّة (bercita-cita tinggi)** | [[01-himmah|01. Himmah]] | Butir 13 | ... |
+| 2 | **Ihsaan / الاِحْسَان (perfeksionis)** | [[02-ihsaan|02. Ihsaan]] | Butir 16 | ... |
+| 3 | **‘Izzah / العِزَّة (harga diri)** | [[03-izzah|03. ‘Izzah]] | Butir 18 | ... |
+| 4 | **Waqaar / الوَقَار (berwibawa)** | [[04-waqaar|04. Waqaar]] | Butir 40 | ... |
+| 5 | **‘Aziimah / العَزِيمَة (bertekad kuat)** | [[05-aziimah|05. ‘Aziimah]] | Butir 4 | ... |
+| 6 | **Nasyaath / النَّشَاط (bersemangat)** | [[06-nasyaath|06. Nasyaath]] | Butir 25 | ... |
 
 #### 2. Rumpun Memerintah / Mempengaruhi (Ekstrovert — Jasad/Sosial)
-*Ciri utama: Memimpin, berani mengambil risiko, mengarahkan orang lain, vokal, dan kompetitif.*
+*Ciri utama: Memimpin, berani mengambil risiko, mengarahkan orang lain, vokal, membela kebenaran, dan dermawan berkorban.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Memerintah|Waqaar / الوَقَار (Berwibawa)]] | Butir 40 | ... |
-| 2 | [[Bakat/Memerintah|Ziyaadah / الزِّيَادَة (Berambisi/Ekspansif)]] | Butir 33 | ... |
-| 3 | [[Bakat/Memerintah|Hamaasah / الحَمَاسَة (Penyemangat/Motivator)]] | Butir 11 | ... |
-| 4 | [[Bakat/Memerintah|Ghairoh / الغَيْرَة (Cemburu Aturan/Protektif)]] | Butir 9 | ... |
-| 5 | [[Bakat/Memerintah|Iqnaa' / الإِقْنَاع (Persuasif/Mempengaruhi)]] | Butir 19 | ... |
-| 6 | [[Bakat/Memerintah|Fashahah / الفَصَاحَة (Fasih Mengomunikasikan)]] | Butir 7 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Syajaa’ah / الشَّجَاعَة (pemberani)** | [[18-syajaaah|18. Syajaa’ah]] | Butir 35 | ... |
+| 2 | **Ghairah / الغَيْرَة (pencemburu)** | [[19-ghairah|19. Ghairah]] | Butir 9 | ... |
+| 3 | **Munaafasah / المُنَافَسَة (kompetitif)** | [[20-munaafasah|20. Munaafasah]] | Butir 22 | ... |
+| 4 | **Nashiihah / النَّصِيْحَة (penasehat)** | [[21-nashiihah|21. Nashiihah]] | Butir 24 | ... |
+| 5 | **Fashaahah / الفَصَاحَة (komunikatif)** | [[22-fashaahah|22. Fashaahah]] | Butir 7 | ... |
+| 6 | **Nushrah / النُّصْرَة (menolong)** | [[23-nushrah|23. Nushrah]] | Butir 27 | ... |
+| 7 | **Juud / الجُوْد (dermawan)** | [[24-juud|24. Juud]] | Butir 19 | ... |
 
 ---
 
 ### B. Kluster Nuthqiyah (Akal / Jiwa Lawwamah)
 
 #### 3. Rumpun Berpikir (Introvert — Akal/Refleksi)
-*Ciri utama: Analitis, suka merenung, riset mendalam, teliti, kritis, dan konseptor.*
+*Ciri utama: Analitis, suka merenung, riset mendalam, firasat tajam, cerdik menemukan solusi, dan bijaksana.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Berpikir|Dzakaa' / الذَّكَاء (Cerdas/Cepat Memahami)]] | Butir 6 | ... |
-| 2 | [[Bakat/Berpikir|Firasah / الفِرَاسَة (Kuat Firasat/Intuisi)]] | Butir 8 | ... |
-| 3 | [[Bakat/Berpikir|Hikmah / الحِكْمَة (Bijaksana/Filosofis)]] | Butir 13 | ... |
-| 4 | [[Bakat/Berpikir|Hifzh / الحِفْظ (Daya Ingat Kuat)]] | Butir 12 | ... |
-| 5 | [[Bakat/Berpikir|Tatsabbut / التَّثَبُّت (Verifikatif/Tabayyun)]] | Butir 36 | ... |
-| 6 | [[Bakat/Berpikir|Ta’ammul / التَّأَمُّل (Merenung/Tadabbur)]] | Butir 34 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Firaasah / الفِرَاسَة (berfirasat)** | [[07-firaasah|07. Firaasah]] | Butir 8 | ... |
+| 2 | **Nubl / النُّبْل (cerdik)** | [[08-nubl|08. Nubl]] | Butir 26 | ... |
+| 3 | **Husnuzhan / حُسْنُ الظَّن (berprasangka baik)** | [[09-husnuzhan|09. Husnuzhan]] | Butir 14 | ... |
+| 4 | **Dzakaa’ / الذَّكَاء (cerdas)** | [[10-dzakaa|10. Dzakaa’]] | Butir 6 | ... |
+| 5 | **Hikmah / الحِكْمَة (ahli hikmah)** | [[11-hikmah|11. Hikmah]] | Butir 11 | ... |
 
 #### 4. Rumpun Bekerja Sama (Ekstrovert — Akal/Relasi)
-*Ciri utama: Networking, mudah bergaul, menyatukan orang, diplomasi, dan koordinasi tim.*
+*Ciri utama: Sinergi tim, mudah bergaul, menyatukan orang, adil sportif, ramah senyum, dan penuh kasih sayang.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Bekerja Sama|Ta’alluf / التَّأَلُّف (Mudah Akrab/Supel)]] | Butir 35 | ... |
-| 2 | [[Bakat/Bekerja Sama|Tasyji’ / التَّشْجِيع (Mengapresiasi/Kolaboratif)]] | Butir 37 | ... |
-| 3 | [[Bakat/Bekerja Sama|Wafa’ / الوَفَاء (Setia Kawan/Menepati Janji)]] | Butir 39 | ... |
-| 4 | [[Bakat/Bekerja Sama|Shulh / الصُّلْح (Juru Damai/Mediasi)]] | Butir 27 | ... |
-| 5 | [[Bakat/Bekerja Sama|Nasihah / النَّصِيحَة (Pemberi Masukan Konstruktif)]] | Butir 24 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Ta’aawun / التَّعَاوُن (bekerjasama)** | [[25-taaawun|25. Ta'aawun]] | Butir 36 | ... |
+| 2 | **Ulfah / الاُلْفَة (bersatu)** | [[26-ulfah|26. Ulfah]] | Butir 38 | ... |
+| 3 | **‘Adaalah / العَدَالَة (adil)** | [[27-adaalah|27. ‘Adaalah]] | Butir 1 | ... |
+| 4 | **Wafaa’ / الوَفَاء (menepati janji)** | [[28-wafaa|28. Wafaa']] | Butir 39 | ... |
+| 5 | **Muzaah / المُزَاح (humoris)** | [[29-muzaah|29. Muzaah]] | Butir 23 | ... |
+| 6 | **Basyaasyah / البَشَاشَة (berseri-seri)** | [[30-basyaasyah|30. Basyaasyah]] | Butir 5 | ... |
+| 7 | **Rifq / الرِّفْق (lemah lembut)** | [[31-rifq|31. Rifq]] | Butir 30 | ... |
+| 8 | **Rahmah / الرَّحْمَة (berbelas kasih)** | [[32-rahmah|32. Rahmah]] | Butir 29 | ... |
 
 ---
 
 ### C. Kluster Ruhaniyah (Hati / Jiwa Muthmainnah)
 
 #### 5. Rumpun Berperasaan (Introvert — Hati/Rasa)
-*Ciri utama: Peka, empati tinggi, penyayang, lembut, menjaga perasaan, dan mudah tersentuh.*
+*Ciri utama: Peka, menjaga adab dan kesucian diri, jujur apa adanya, mampu mengendalikan lisan, qana'ah, dan sabar.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Berperasaan|Rifq / الرِّفْق (Lemah Lembut)]] | Butir 28 | ... |
-| 2 | [[Bakat/Berperasaan|Hilim / الحِلْم (Penyantun/Pemaaf)]] | Butir 15 | ... |
-| 3 | [[Bakat/Berperasaan|Rahmah / الرَّحْمَة (Penuh Welas Asih)]] | Butir 30 | ... |
-| 4 | [[Bakat/Berperasaan|Hayaa' / الحَيَاء (Pemalu/Menjaga Adab)]] | Butir 10 | ... |
-| 5 | [[Bakat/Berperasaan|Anaah / الاَنَاة (Tidak Tergesa/Tenang)]] | Butir 3 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Shidq / الصِّدْق (jujur)** | [[12-shidq|12. Shidq]] | Butir 34 | ... |
+| 2 | **‘Iffah / العِفَّة (menjaga diri)** | [[13-iffah|13. ‘Iffah]] | Butir 15 | ... |
+| 3 | **Shamt / الصَّمْت (pendiam)** | [[14-shamt|14. Shamt]] | Butir 33 | ... |
+| 4 | **Hayaa’ / الحَيَاء (pemalu)** | [[15-hayaa|15. Hayaa’]] | Butir 10 | ... |
+| 5 | **Qanaa’ah / القَنَاعَة (sederhana)** | [[16-qanaaah|16. Qanaa’ah]] | Butir 28 | ... |
+| 6 | **Shabr / الصَّبْر (penyabar)** | [[17-shabr|17. Shabr]] | Butir 32 | ... |
 
 #### 6. Rumpun Melayani (Ekstrovert — Hati/Khidmah)
-*Ciri utama: Dermawan, suka menolong, mendahulukan orang lain (*Itsar*), melayani dan berkorban.*
+*Ciri utama: Pengabdian tulus, mendahulukan orang lain (itsaar), menjaga amanah dan rahasia, pemaaf, tenang tidak tergesa, dan rendah hati.*
 
-| No | Nama Bakat | No Butir Kuisioner | Skor Anda (1–5) |
-|:---:|:---|:---:|:---:|
-| 1 | [[Bakat/Melayani|Iitsaar / الإِيثَار (Mendahulukan Orang Lain)]] | Butir 17 | ... |
-| 2 | [[Bakat/Melayani|Jud / الجُود (Dermawan/Ringan Tangan)]] | Butir 22 | ... |
-| 3 | [[Bakat/Melayani|Karam / الكَرَم (Memuliakan Tamu/Murah Hati)]] | Butir 23 | ... |
-| 4 | [[Bakat/Melayani|Basyaasyah / البَشَاشَة (Ramah/Murah Senyum)]] | Butir 5 | ... |
-| 5 | [[Bakat/Melayani|Ta’aawun / التَّعَاوُن (Suka Membantu)]] | Butir 38 | ... |
+| No | Nama Bakat (Arab & Latin) | Artikel Rujukan | No Butir Kuisioner | Skor Anda (1–5) |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Mahabbah / المَحَبَّة (penuh cinta)** | [[33-mahabbah|33. Mahabbah]] | Butir 21 | ... |
+| 2 | **Itsaar / الاِيْثَار (melayani)** | [[34-itsaar|34. Itsaar]] | Butir 17 | ... |
+| 3 | **Kitmaanus Sirr / كِتْمَانُ السِّرِّ (penjaga rahasia)** | [[35-kitmaanus-sirr|35. Kitmaanus Sirr]] | Butir 20 | ... |
+| 4 | **Satr / السَّتْرُ (menutup aib)** | [[36-satr|36. Satr]] | Butir 31 | ... |
+| 5 | **Amaanah / الاَمَانَة (bertanggung jawab)** | [[37-amaanah|37. Amaanah]] | Butir 2 | ... |
+| 6 | **Anaah / الاَنَاة (tidak tergesa)** | [[38-anaah|38. Anaah]] | Butir 3 | ... |
+| 7 | **Hilm / الحِلْم (santun)** | [[39-hilm|39. Hilm]] | Butir 12 | ... |
+| 8 | **Tawaadhu’ / التَّوَاضُع (rendah hati)** | [[40-tawaadhu|40. Tawaadhu’]] | Butir 37 | ... |
 
 ---
 
 ## 4. Analisis Profil & Interpretasi Hasil
 
-### Menentukan Top 5 Bakat Unggul (*Core Talents*)
+### Menentukan Top 5 – Top 6 Bakat Unggul (*Core Talents*)
 Urutkan nilai butir dari yang memperoleh **skor tertinggi (Skor 5 dan 4)**:
-1. **Bakat Unggul #1:** Merupakan kekuatan utama yang menjadi jalan amal jariyah tercepat dan paling produktif bagi ananda.
-2. **Dominasi Kluster:** Lihat kluster mana yang menyumbang bakat unggul terbanyak. Apakah ananda dominan seorang *Eksekutor/Pekerja Keras*, *Pemimpin/Mempengaruhi*, *Konseptor/Pemikir*, *Juru Kolaborasi*, *Empatis/Berperasaan*, atau *Pelayan Umat (Khidmah)*.
+1. **Bakat Unggul #1 s/d #6:** Merupakan kekuatan fitrah alami yang menjadi jalan amal tercepat dan paling produktif bagi ananda (*muyassarun lima khuliqa lahu*).
+   - *Catatan Metodologis Top 5 vs Top 6:* Pada instrumen digital/aplikasi Excel resmi PKN (`APLIKASI TB-40(dewasa).xlsx` & `RAPORT TB-40`), formula pemeringkatan menyeleksi **Top 6 Potensi Kekuatan** dan **Bottom 6 Keterbatasan**. Namun dalam lembar evaluasi ringkas atau pendampingan harian orang tua, fokus pembinaan dapat dikerucutkan pada **Top 5 Bakat Utama** agar energi tarbiyah keluarga terarah secara tajam tanpa membebani santri.
+2. **Dominasi Kluster:** Perhatikan kluster mana yang menyumbang bakat unggul terbanyak. Apakah ananda dominan seorang *Eksekutor/Pekerja Keras*, *Pemimpin/Mempengaruhi*, *Konseptor/Pemikir*, *Juru Kolaborasi*, *Empatis/Berperasaan*, atau *Pelayan Umat (Khidmah)*.
 
 ### Menyikapi Bakat Skor Rendah (*Lesser Talents*)
 Dalam kaidah PKN, **bakat rendah bukanlah aib atau kebodohan**, melainkan penunjuk wilayah yang harus dikerjakan melalui **sinergi dan kolaborasi tim**:
 * **Fokus Menguatkan Kelebihan:** Energi 80% dicurahkan untuk mengasah bakat yang berada di skor 4 dan 5.
 * **Penuhi Ambang Batas Minimal (*Fardhu 'Ain*):** Untuk bakat yang menyentuh ranah kewajiban syar'i (seperti *Amaanah*, *‘Adaalah*, *Hayaa'*), jika skornya rendah maka dilatih hingga mencapai standar batas minimal adab dan kepatuhan syariat, tanpa dituntut menjadi seorang maestro di bidang tersebut.
-* **Siasati Kelemahan dengan Kolaborasi:** Jika anak lemah dalam administrasi dan ketelitian (*Tatsabbut*), pasangkan ia dengan rekan yang memiliki bakat tersebut dalam proyek bersama.
+* **Siasati Kelemahan dengan Kolaborasi:** Jika anak kurang dominan dalam ketelitian atau riset konseptual, pasangkan ia dengan rekan tim yang memiliki kekuatan di pilar tersebut dalam proyek bersama.
 
 ---
 

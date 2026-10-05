@@ -1,0 +1,79 @@
+{
+  "persona": "02b",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Bagaimana mengasah nalar?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Tamyiz diarahkan pada sebab-akibat, literasi, kepemilikan dan tanggung jawab.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Belum urutan satu pembelajaran kelas.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Anak mulai mampu membedakan sebab-akibat, membedakan hak kepemilikan, dan memahami konsep tanggung jawab shalat."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana mengajarkan ibadah?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Tujuan Hidup memberi arahan mengajarkan cara ibadah wajib pada fase Tamyiz.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum demonstrasi wudhu atau respons saat anak enggan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/tujuan-hidup-manusia",
+          "quote": "Ananda diajari cara mengerjakan berbagai ibadah wajib, terutama yang dilaksanakan setiap hari."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana menghargai usaha?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Apresiasi ketekunan belajar, bukan hanya angka rapor.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Contoh tersedia tetapi belum bank umpan balik kelas.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Fokus pada Usaha, Bukan Hasil Nilai Rapor:"
+        }
+      ]
+    },
+    {
+      "question": "Apa indikator observasi belajar?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Amati keberanian bertanya, mencoba, dan toleransi terhadap kesalahan.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Indikator ada; definisi dan contoh penilaian antar-guru perlu ditajamkan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Bebas dari Ketakutan Berbuat Salah:"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah RPP yang dapat langsung diadaptasi?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

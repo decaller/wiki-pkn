@@ -1,0 +1,79 @@
+{
+  "persona": "01a",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa tanggung jawab ayah selain nafkah?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Snapshot menekankan kehadiran orang tua dan pembenahan diri sebelum mendidik; rincian ayah belum tersedia pada halaman awal.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Prinsip relevan, belum pembagian tugas ayah.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Perbaiki diri sendiri dahulu sebelum mendidik"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana hadir dalam waktu terbatas?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Wiki menyarankan waktu khusus tanpa distraksi, mendengarkan cerita anak, bukan hanya memberi barang.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Aksi jelas; adaptasi untuk jadwal kerja belum dijelaskan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "Luangkan 15 menit waktu khusus berdua saja dengan anak sebelum tidur, lakukan aktivitas yang ia pilih sepenuhnya."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana menegakkan batas tanpa bentakan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Relasi dipulihkan, lalu kesepakatan tanggung jawab disusun bersama.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum SOP ketika ada bahaya langsung atau pelanggaran berulang.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "Merumuskan kesepakatan bersama yang adil dan realistis."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana menyelaraskan peran pasangan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint membedakan peran, tetapi belum memberi dialog pasangan atau pembagian beban harian.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Judul dan matriks bukan prosedur musyawarah.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "4.5 Personalisasi — Peran Ayah & Ibu"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah pembagian peran dan contoh dialog yang spesifik?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

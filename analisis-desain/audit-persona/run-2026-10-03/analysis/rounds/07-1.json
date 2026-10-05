@@ -1,0 +1,79 @@
+{
+  "persona": "07",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa tujuan hidup?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Wiki menghubungkan peran unik dengan manfaat bagi sekitar.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Belum latihan spesifik untuk profesional.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/tujuan-hidup-manusia",
+          "quote": "Peran tersebut bermanfaat bagi keluarga dan orang lain di sekitarnya"
+        }
+      ]
+    },
+    {
+      "question": "Apa refleksi emosi?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Konsep lawwamah memuat penyesalan moral dan muhasabah; bukan diagnosis kondisi pembaca.",
+      "suitability": 3,
+      "completeness": 1,
+      "reason": "Konteks artikel dominan pengasuhan, belum pembaca dewasa mandiri.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/lawwamah",
+          "quote": "Muhasabah batin dan penyesalan positif jiwa lawwamah."
+        }
+      ]
+    },
+    {
+      "question": "Apa praktik kecil?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint menyarankan perbaikan kecil yang konsisten.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Angka 1% merupakan kerangka motivasi, bukan ukuran efektivitas.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Kaizen: perbaikan 1% konsisten lebih baik dari rencana besar tanpa aksi"
+        }
+      ]
+    },
+    {
+      "question": "Apa cara mengenali potensi?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Kuesioner menyediakan pernyataan diri, tetapi rekap belum konsisten.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Tidak dapat dipakai sebagai vonis karier atau instrumen tervalidasi.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+          "quote": "Menentukan Top 5 Bakat Unggul"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Apakah panduan recovery memberi batas penggunaan mandiri?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

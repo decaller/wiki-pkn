@@ -1,0 +1,30 @@
+{
+  "persona": "02b",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah RPP yang dapat langsung diadaptasi?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Ada templat satu lembar, catatan anekdot, dan worked example IPA daur air serta penghematan air wudhu untuk kelas 4.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Contoh memenuhi kebutuhan utama; label bakat Syukur/Khidmah perlu diselaraskan katalog TB40.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/toolkit-kbm/template-rpp-karakter-nabawiyah-1-lembar",
+          "quote": "Keajaiban Daur Air, Siklus Hujan, dan Adab Penghematan Air Wudhu"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Templat RPP dan contoh daur air sudah ada, sehingga kebutuhan bukan membuat templat dari nol."
+  ],
+  "recommendations": [
+    "Perjelas label bakat dan sediakan versi cetak serta contoh lintas mapel."
+  ]
+}

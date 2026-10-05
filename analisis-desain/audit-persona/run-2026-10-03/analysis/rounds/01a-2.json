@@ -1,0 +1,30 @@
+{
+  "persona": "01a",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah pembagian peran dan contoh dialog yang spesifik?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Halaman Peran Ayah dan Bunda menambahkan visi ayah, pembiasaan harian bunda, dialog tanpa gawai, dan dukungan ayah pada ibu. Nasihat tidak mendebat suami perlu batas keselamatan agar tidak menghalangi koreksi terhadap kekerasan.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Jawaban lebih spesifik; pengecualian keselamatan dan keluarga beragam belum jelas.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/implementasi/peran--and--tanggung-jawab/peran-ayah-dan-bunda",
+          "quote": "Ayah aktif memenuhi tangki cinta dan ketenangan jiwa ibu terlebih dahulu"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Kehadiran ayah meliputi relasi dan dukungan pengasuh, bukan hanya nafkah."
+  ],
+  "recommendations": [
+    "Tambahkan kartu 3 menit: dialog ayah, pembagian tugas, dan batas keselamatan."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona": "03b",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah kontrak kemitraan dan program tahunan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Artikel Program dan Kegiatan memetakan AKG, PIS, TDK, Talent Camp dan kemandirian; belum ditemukan kontrak kemitraan keluarga dan kalender komunitas terisi pada halaman ini.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Program ada; format operasional untuk komunitas kecil belum lengkap.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/implementasi/kaidah--and--elemen/program-dan-kegiatan-pendidikan-karakter-nabawiyah",
+          "quote": "Ekosistem Program & Kegiatan PKN"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Program kelembagaan sudah tersedia, tetapi komunitas kecil perlu turunan praktis."
+  ],
+  "recommendations": [
+    "Sediakan kalender minimal, anggaran ringan, dan kontrak kemitraan yang memberi dukungan keluarga."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "persona": "01b",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Bagaimana mendengarkan anak?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Letakkan ponsel dan dengarkan sebelum menghakimi atau memberi solusi.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Langkah tersedia; situasi darurat perlu dibedakan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "Jangan langsung menghakimi atau memberi solusi sebelum emosinya tervalidasi."
+        }
+      ]
+    },
+    {
+      "question": "Apa aksi afeksi harian?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Sediakan perhatian utuh dan aktivitas pilihan anak dalam waktu khusus.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Jangan perlakukan durasi sebagai dosis klinis.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "Luangkan 15 menit waktu khusus berdua saja dengan anak sebelum tidur, lakukan aktivitas yang ia pilih sepenuhnya."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana meminta maaf setelah membentak?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Artikel mendorong pengakuan kesalahan orang tua sebagai teladan rendah hati.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum contoh kalimat lengkap dan tindak lanjut pencegahan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+          "quote": "Minta Maaf Tatkala Berbuat Salah:"
+        }
+      ]
+    },
+    {
+      "question": "Apa dukungan untuk pengasuh kelelahan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint menyebut istirahat, hobi, dan variasi aktivitas untuk pendidik.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Belum pembagian beban, dukungan sosial, atau rujukan kesehatan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Self Recovery: istirahat, hobi, variasi aktivitas"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Apakah recovery memuat batas keselamatan dan bantuan profesional?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

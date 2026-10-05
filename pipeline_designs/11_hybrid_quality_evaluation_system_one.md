@@ -2,6 +2,8 @@
 
 **Status:** Spesifikasi teknis arsitektur penilaian kualitas (*Automated Quality Gate Specification*). Mengintegrasikan penyaringan deterministik berbasis aturan (*Rule-Based Linters*) dan model klasifikasi semantik cepat (*System One Decision Head*) untuk mengevaluasi kepatuhan kognitif dan keterbacaan naskah wiki secara otomatis.
 
+**Integrasi lokal:** `scripts/hitl_workflow.py` memakai `HybridQualityScorer.evaluate_document` untuk preflight draf Markdown nyata dan menyimpan laporan tiap revisi. `APPROVED` di laporan scorer berarti hanya lolos ambang kualitas, **bukan approval manusia**. Adapter menghasilkan `HUMAN_PENDING` atau `PREFLIGHT_FAILED`; hanya keputusan manusia dengan identitas/peran/alasan dapat menghasilkan `HUMAN_APPROVED`. Preflight gagal tidak dapat dilewati oleh signoff. Resume hanya menulis handoff privat di luar corpus, bukan publikasi. Detail CLI dan batas kepercayaan operator ada di [README](../README.md#review-manusia-lokal-hitl-rendahsedang); signoff manusia operasional belum dibuktikan oleh implementasi.
+
 ---
 
 ## 1. Konteks Masalah & Dilema Otomasi Kualitas

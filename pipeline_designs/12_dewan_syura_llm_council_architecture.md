@@ -3,6 +3,10 @@
 
 **Status:** Spesifikasi teknis arsitektur musyawarah ilmiah (*Deliberation Engine Specification*). Mengadaptasi metodologi **LLM Council Andrej Karpathy** menjadi sistem pengambilan keputusan manhaj dan kurikulum berisiko tinggi (*High-Stakes Decision Making*) di lingkungan Wiki Pendidikan Karakter Nabawiyah.
 
+**Batas implementasi:** `scripts/llm_council.py` adalah **simulasi offline belum disetujui manusia** berbasis template; konteks tidak menjamin grounding isi dan tidak ada provider live yang berfungsi. JSON mencakup identity mapping sehingga bukan tampilan anonim publik. Desain high-stakes di bawah bukan otorisasi otomatis atau bukti sidang manusia. CLI lama tetap tersedia untuk eksperimen privat.
+
+Workflow lokal rendah–sedang tersedia terpisah di `scripts/hitl_workflow.py`: menerima Markdown kontributor aktual, konteks dan sumber wajib, preflight scorer, ledger keputusan manusia dengan SHA-256 versi tepat, revisi baru, serta resume handoff di luar `content/`. Council tidak digunakan sebagai draf atau persetujuan manusia. Risiko tinggi tetap memerlukan prosedur manusia di luar adapter; belum ada bukti signoff operasional. Lihat [panduan CLI](../README.md#review-manusia-lokal-hitl-rendahsedang).
+
 ---
 
 ## 1. Landasan Filosofis: Mengapa Satu Model AI Tidak Cukup?

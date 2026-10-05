@@ -25,6 +25,7 @@ function buildSlugMap(allFiles: QuartzComponentProps["allFiles"]): Map<string, S
 
   for (const file of allFiles) {
     if (!file.slug) continue
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue
     const title = file.frontmatter?.title as string | undefined
     if (title) add(title.toLowerCase().trim(), file.slug)
     const aliases = file.frontmatter?.aliases as string[] | undefined
@@ -64,21 +65,6 @@ function resolveNodeSlug(
   const exactMatches = slugMap.get(tLow)
   if (exactMatches) return onlyMatch(exactMatches)
 
-  // Support matching TB-40 items by number prefix (e.g. "01. Himmah" or "01 - Himmah")
-  const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]/)
-  if (tbMatch) {
-    const num = tbMatch[1].padStart(2, "0")
-    const matches = new Set<string>()
-    for (const file of allFiles) {
-      if (!file.slug) continue
-      const last = file.slug.split("/").pop() ?? ""
-      if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40")) {
-        matches.add(file.slug)
-      }
-    }
-    if (matches.size) return onlyMatch(matches)
-  }
-
   const sTitle = slugify(title)
   const slugMatches = slugMap.get(sTitle)
   if (slugMatches) return onlyMatch(slugMatches)
@@ -86,6 +72,7 @@ function resolveNodeSlug(
   const filenameMatches = new Set<string>()
   for (const file of allFiles) {
     if (!file.slug) continue
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue
     const parts = file.slug.split("/")
     const last = parts[parts.length - 1]
     const prev = parts.length > 1 ? parts[parts.length - 2] : ""
@@ -95,10 +82,28 @@ function resolveNodeSlug(
   }
   if (filenameMatches.size) return onlyMatch(filenameMatches)
 
+  // Support matching TB-40 items by number prefix (e.g. "01. Himmah" or "01 - Himmah")
+  const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]+([a-zA-Z\u0600-\u06FF\']+)/)
+  if (tbMatch) {
+    const num = tbMatch[1].padStart(2, "0")
+    const keyword = tbMatch[2].toLowerCase()
+    const matches = new Set<string>()
+    for (const file of allFiles) {
+      if (!file.slug) continue
+      if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue
+      const last = file.slug.split("/").pop() ?? ""
+      if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40") && (last.includes(keyword) || file.slug.toLowerCase().includes(keyword))) {
+        matches.add(file.slug)
+      }
+    }
+    if (matches.size) return onlyMatch(matches)
+  }
+
   if (!tLow || !sTitle) return null
   const partialMatches = new Set<string>()
   for (const file of allFiles) {
     if (!file.slug) continue
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue
     const fTitle = (file.frontmatter?.title as string | undefined)?.toLowerCase().trim()
     if ((fTitle && fTitle.includes(tLow)) || file.slug.includes(sTitle)) {
       partialMatches.add(file.slug)

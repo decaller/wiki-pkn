@@ -1,0 +1,79 @@
+{
+  "persona": "06",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa manfaat bakat?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan mengarahkan potensi menuju proyek dan mentor, bukan peringkat kemuliaan.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Belum pengalaman kuis interaktif.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Orang tua dan sekolah berkewajiban memfasilitasi jam terbang, proyek karya nyata, dan mentor ahli di bidang ini."
+        }
+      ]
+    },
+    {
+      "question": "Apa cara menilai diri?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Kuesioner menyediakan 40 pernyataan dan rekap, tetapi pemetaan nomor butir bermasalah.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Tidak aman menyimpulkan skor tanpa koreksi pemetaan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+          "quote": "Setelah mengisi ke-40 butir pernyataan di atas, rekapitulasi nilai skor Anda"
+        }
+      ]
+    },
+    {
+      "question": "Apakah kelemahan berarti aib?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan menyatakan keterbatasan bukan aib atau kebodohan.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Batas moral dipisahkan dari pilihan peran.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Ini bukan aib atau kebodohan, melainkan batas alami kapasitas insan."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana mengubah hasil menjadi karya?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Arah tindak lanjut berupa pengalaman dan pemagangan.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum langkah mandiri pelajar untuk menghubungi mentor.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Siapkan Ekosistem Pemagangan"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Apakah kuesioner aman dipakai untuk memilih jurusan?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

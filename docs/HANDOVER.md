@@ -38,6 +38,14 @@ Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi s
 
 **Batas operasional:** seluruh bukti di atas lokal. Tidak dilakukan deploy, pemanggilan webhook produksi, atau perubahan layanan produksi. Pertahankan perubahan pengguna di luar cakupan; status pekerjaan lanjutan dan kewajiban berulang dicatat di `TODO.md`.
 
+**Pekerjaan lanjutan dan koordinasi terminal**
+
+* Scope penyusun indeks selesai: inventaris lengkap, akses beranda, dan dokumentasi pemeliharaan. Audit editorial serta penataan seluruh konten berdasarkan `analisis-desain/` adalah pekerjaan lanjutan; penyelesaiannya belum dikonfirmasi dari terminal `term_81b1e555-40a4-4178-a53e-d600d366e77c`.
+* Generator tematik `scripts/generate_obsidian_navigation.py` masih memakai pencocokan stem; risiko benturan nama pada bagian tematik belum diselesaikan oleh indeks lengkap berbasis jalur. Catatan migrasinya ditambahkan ke `TODO.md`.
+* Terminal penyusun indeks melepas ownership atas `content/Peta Navigasi Wiki PKN.md`, `content/index.md`, `scripts/update_content_index.py`, `scripts/generate_obsidian_navigation.py`, `TODO.md`, dan `docs/HANDOVER.md` untuk koordinasi pekerjaan lanjutan. Tidak ada run audit/build/browser aktif dari pekerjaan indeks saat pelepasan. Pembaruan dokumentasi ini dilakukan atas permintaan pengguna; bukan pengambilalihan pekerjaan audit.
+* Pengiriman koordinasi melalui `orca-ide terminal send` normal dan `--interrupt` gagal: keduanya `accepted: false`, `bytesWritten: 0`. Terminal tujuan terdaftar connected/writable, tetapi penerimaan pesan belum terbukti. Konfirmasi ownership dan penerimaan sebelum melanjutkan editor atau run paralel.
+* Tugas produksi yang sudah terbuka tetap berlaku: uji TLS/webhook nyata, kesehatan container, pin image, dan rollback. Tidak ada deploy atau verifikasi produksi tambahan pada pembaruan dokumentasi ini.
+
 ---
 
 ## 2. Rincian Milestone & Perbaikan Terbaru

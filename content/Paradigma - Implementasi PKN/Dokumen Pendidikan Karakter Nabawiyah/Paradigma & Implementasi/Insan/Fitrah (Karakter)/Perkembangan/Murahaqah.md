@@ -104,6 +104,12 @@ Dalam peradaban Barat sekuler, usia 10–18 tahun dikonstruksikan sebagai masa "
 2. **Kesiapan Menjadi Mukallaf:** Begitu tanda-tanda baligh muncul (mimpi basah / haidh / genap 15 tahun), pena pencatat amal malaikat langsung aktif. Detik itu juga, anak sah menjadi **orang dewasa penuh (*baligh 'aqil*)** yang menanggung hisab surga dan neraka secara mandiri!
 3. **Peran sebagai Menteri (*Al-Wazir*):** Orang tua memperlakukan anak sebagai menteri pendamping: dilibatkan dalam urusan keluarga, dipercaya memegang proyek nyata, dan dimintai pertanggungjawaban atas tugasnya.
 
+> [!NOTE] Catatan Terminologi Rentang Usia Murahaqah
+> Dalam literatur PKN dan modul kajian Ustadz Abdul Kholiq, rentang usia Murahaqah kerap dituliskan dalam beberapa penyebutan yang saling melengkapi:
+> 1. **10–14 Tahun:** Mengacu pada fase transisi pubertas awal (*early adolescence*) di jenjang pendidikan menengah pertama (SMP/MTs).
+> 2. **10–15 Tahun:** Mengacu pada batas maksimal usia baligh secara hukum syariat (*15 tahun qamariyah*) berdasarkan hadits Abdullah bin Umar ra.
+> 3. **10–Baligh:** Menegaskan hakikat fungsional syar'i bahwa masa ini adalah jembatan persiapan (*I'daad*) seorang anak menuju status *Mukallaf* penuh (*Aqil-Baligh*).
+
 ---
 
 ## 2. Teladan Tarbiyah Rasulullah ﷺ Menggembleng Pemuda Murahaqah
@@ -155,9 +161,9 @@ Dalam *Zadul Ma'ad* dan *Madarijus Salikin*:
 
 ---
 
-## 5. Standar Pendewasaan (Aqil Baligh) & Kesiapan Peran Dewasa (Klausul 11 Standar PKN)
+## 5. Standar Pendewasaan (Aqil Baligh) & Kesiapan Peran Dewasa (Klausul 10 Standar PKN)
 
-Berdasarkan **Panduan Implementasi Standar PKN (A4) Klausul 11**, prosedur pendewasaan (*aqil baligh*) diformulasikan untuk menuntaskan transformasi seorang anak menjadi seorang **Mukallaf**—yakni hamba yang memikul beban hukum syariat secara mandiri di hadapan Allah Ta'ala.
+Berdasarkan **Panduan Implementasi Standar PKN (A4) Klausul 10** (lihat [[8 Standar Implementasi PKN#6. Klausul 10: Standar Pendewasaan (Aqil Baligh)|Standar Pendewasaan (Aqil Baligh)]]), prosedur pendewasaan (*aqil baligh*) diformulasikan untuk menuntaskan transformasi seorang anak menjadi seorang **Mukallaf**—yakni hamba yang memikul beban hukum syariat secara mandiri di hadapan Allah Ta'ala.
 
 Pada fase ini, lembaga pendidikan dan orang tua wajib menerapkan diferensiasi kurikulum yang mempersiapkan peran hakiki kedewasaan:
 

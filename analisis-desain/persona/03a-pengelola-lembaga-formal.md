@@ -19,6 +19,7 @@ Kepala Sekolah, Direktur Pendidikan Yayasan, atau Wakil Kepala Bidang Kurikulum 
 
 - Panduan integrasi kurikulum PKN ke dalam dokumen Kurikulum Operasional Satuan Pendidikan (KOSP).
 - Standar Ekosistem dan Iklim Sekolah Nabawiyah (8 Standar Implementasi PKN).
+- Matriks prioritasi program tahunan berbasis Maqashid Syariah (*Dharuriyyat, Hajiyyat, Tahsiniyyat*) untuk mencegah *institutional burnout* dewan guru.
 - Contoh SOP penanganan pelanggaran santri/siswa yang melindungi hak anak sekaligus menegakkan adab.
 - Desain silabus pelatihan guru tahunan (*In-House Training*) tentang manhaj pendidikan karakter.
 
@@ -37,12 +38,13 @@ Membaca melalui komputer kerja di ruang pimpinan untuk menyusun draf kebijakan, 
 1. Pengelola mencari acuan "8 Standar Implementasi PKN" untuk dimasukkan ke dalam Rencana Strategis (Renstra) Yayasan 5 tahunan.
 2. Kepala Sekolah mencari SOP syar'i penanganan kasus perundungan antar siswa kelas 8 untuk dijadikan standar penanganan resmi sekolah.
 3. Koordinator Kurikulum mencari contoh silabus pembinaan orang tua (SOTAB) yang dapat dijalankan 1 kali setiap bulan sepanjang tahun ajaran.
+4. Pimpinan Yayasan / Kepala Sekolah menyaring 30 usulan program kerja tahunan menggunakan *The Maqashid Program Filter* untuk memangkas kegiatan seremonial yang menguras energi guru dan mengalihkan anggaran ke pos kesejahteraan pendidik.
 
-**Indikator keberhasilan:** tersusunnya SOP sekolah berbasis adab yang operasional, disepakatinya instrumen supervisi guru ramah fitrah, dan terlaksananya program kemitraan orang tua yang terukur.
+**Indikator keberhasilan:** tersusunnya SOP sekolah berbasis adab yang operasional, disepakatinya instrumen supervisi guru ramah fitrah, terlaksananya program kemitraan orang tua yang terukur, dan terhindarnya guru dari kelelahan akibat program seremonial berlebih.
 
 ## Implikasi untuk susunan konten
 
-Sediakan sub-portal **[Lembaga & Guru $\rightarrow$ Tata Kelola Lembaga Formal]** yang memuat dokumen kebijakan makro, standar iklim sekolah, dan modul SOTAB institusional.
+Sediakan sub-portal **[Lembaga & Guru $\rightarrow$ Tata Kelola Lembaga Formal]** yang memuat dokumen kebijakan makro, standar iklim sekolah, modul SOTAB institusional, serta panduan **[[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]**.
 
 ---
 

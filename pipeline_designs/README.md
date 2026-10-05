@@ -4,6 +4,10 @@ Dokumen ini merupakan pedoman arsitektural dan spesifikasi master untuk rancang 
 
 Sistem ini mengorkestrasi konversi bahan ajar multi-modal mentah (PDF hasil scan, slide PPTX, audio kajian, catatan observasi KBM, dan arsip diskusi) menjadi dokumen Markdown terstruktur dan kaya visual yang siap dipublikasikan pada engine **Quartz v5**.
 
+**Batas runtime saat ini:** Diagram di bawah adalah desain target, bukan bukti integrasi publikasi. Adapter lokal `scripts/hitl_workflow.py` telah diimplementasikan untuk review **rendah–sedang** atas Markdown yang disuplai, konteks wajib, dan berkas sumber wajib. Alurnya create → preflight scorer → keputusan manusia → resume handoff privat di luar `content/`; tidak menghubungkan Quartz, provider live, atau layanan validasi eksternal. Lihat [panduan CLI](../README.md#review-manusia-lokal-hitl-rendahsedang). Rendah memerlukan satu reviewer editorial/source; sedang memerlukan dua identitas berbeda untuk signoff editorial dan source. SHA-256 sumber/draf/snapshot diperiksa sebelum keputusan, status, dan resume; perubahan membatalkan approval secara persisten. Revisi membuat versi baru dan tidak mengubah tingkat risiko. Implementasi ini belum menjadi bukti signoff operasional manusia.
+
+Identitas reviewer merupakan pernyataan operator lokal terpercaya, bukan autentikasi otoritas. Manifest tidak tahan terhadap modifikasi pemilik filesystem. Output council adalah **simulasi offline belum disetujui**, bukan keputusan manusia atau draf source-grounded. Risiko tinggi tetap di luar adapter ini.
+
 ---
 
 ## 1. Landasan Filosofis & Arsitektur Ekosistem

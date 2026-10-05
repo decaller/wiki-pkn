@@ -111,6 +111,7 @@ Berdasarkan dokumen master *Kaidah Implementasi PKN dalam Berbagai Lembaga*, ter
 ### 2. Utamakan Menghindari Mudhorot (*Dar'ul Mafasid Muqaddamun 'ala Jalbil Mashalih*)
 - **Prinsip:** Mencegah perpecahan, keresahan wali murid, atau konflik horizontal antar-guru jauh lebih didahulukan daripada memaksakan program baru yang belum dipahami oleh seluruh tim.
 - **Operasional di Lembaga:** Jika kebijakan menghapus pekerjaan rumah (PR) atau meniadakan ujian tertulis akan memicu kepanikan massal wali murid yang belum teredukasi, jangan terapkan secara mendadak. Hindari mudharat hilangnya kepercayaan masyarakat terhadap lembaga dakwah.
+- **Instrumen Fiqh Prioritas:** Untuk menyaring agenda kerja agar tidak membebani guru dengan program seremonial yang mengancam hal pokok (dharuriyyat), gunakan panduan **[[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]**.
 
 ### 3. Mulai Dari yang Mudah dan Tidak Ideal (*Mā Lā Yudraku Kulluh Lā Yutraku Julluh*)
 - **Prinsip:** *“Apa yang tidak bisa diraih seluruhnya, jangan ditinggalkan sebagian besarnya.”* Tidak ada alasan untuk menunda penerapan PKN hanya karena sarana fisik sekolah belum ideal (misalnya belum memiliki gedung alam terbuka).
@@ -236,6 +237,7 @@ Lembaga pendidikan Islam (PAUD/TK, SD/Madrasah Ibtidaiyah, SMP/Pesantren, hingga
 
 * [[Peran Guru dan Lembaga Pendidikan]] — Kedudukan guru sebagai Waratsatul Anbiya' dan mitra komplementer orang tua.
 * [[4 Kaidah Implementasi]] — Prinsip metodologis penumbuhan fitrah anak.
+* [[Prioritasi Program Lembaga Berbasis Maqashid Syariah]] — Kerangka kerja Fiqh Aulawiyyat (Dharuriyyat, Hajiyyat, Tahsiniyyat) untuk menyaring program kerja sekolah/pesantren.
 * [[Implementasi]] — Paradigma menyeluruh implementasi kurikulum PKN.
 * [[Benang Merah Pendidikan]] — Kritik terhadap sistem schooling pabrik Prusia.
 * [[Recovery]] — Penanganan kelembagaan terhadap ketidaksesuaian perkembangan santri.

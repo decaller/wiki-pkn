@@ -81,9 +81,17 @@ title: "Recovery"
 
 ## 1. Hakikat Pemulihan (*Recovery*)
 
-**Recovery (Pemulihan Fitrah)** adalah proses terapeutik dan edukatif yang dirancang untuk menyembuhkan luka batin anak, mencairkan dendam bawah sadar, dan melunasi hutang pengasuhan sebelum anak memasuki fase kedewasaan mandiri (*Aqil-Baligh*).
+> [!CAUTION] Batas Kewenangan Pedagogis & Rujukan Klinis Profesional
+> **1. Batas Wilayah Manhaj PKN:** Metode *Recovery* dan protokol *EMISOL* dalam Wiki PKN berfokus pada **edukasi pengasuhan, tazkiyatun nafs (penyucian jiwa), perbaikan adab, dan rekonsiliasi relasi keluarga**. Materi ini **bukan pengganti tindakan medis, psikoterapi klinis, atau diagnosis psikiatri berlisensi**.
+> **2. Kedaruratan & Indikasi Klinis Berat:** Jika anak atau anggota keluarga menunjukkan gejala gangguan klinis berat—seperti dorongan melukai diri sendiri (*self-harm*), ide atau ancaman bunuh diri (*suicidal ideation*), depresi mayor klinis, halusinasi/psikosis, kecanduan zat adiktif berbahaya, atau trauma disosiasi akut—orang tua dan pendidik **WAJIB SEGERA** merujuk ananda ke profesional kesehatan mental berlisensi (Psikolog Klinis / Psikiater) atau fasilitas kesehatan terdekat.
+> **3. Saluran Bantuan Kedaruratan Resmi:**
+> - 📞 **Hotline Kesehatan Jiwa Kemenkes RI:** Telepon `119` (Ekstensi 8)
+> - 🛡️ **Layanan Sahabat Perempuan dan Anak (SAPA) KemenPPPA:** Hotline `129` atau WhatsApp `08111-129-129`
+> - 🏛️ **Pusat Pembelajaran Keluarga (PUSPAGA):** Layanan konseling keluarga pada dinas pemberdayaan perempuan dan perlindungan anak setempat.
 
-Pemulihan ini berpijak pada kaidah dasar bahwa fitrah manusia pada dasarnya condong kepada kebaikan (*hanif*). Perilaku menyimpang, pembangkangan, atau adiksi hanyalah **gejala (*symptom*)** dari hati yang terluka, bukan watak permanen anak.
+**Recovery (Pemulihan Fitrah)** adalah ikhtiar pembinaan fitrah dan edukasi keluarga yang dirancang untuk menyembuhkan luka batin anak, mencairkan ketegangan bawah sadar, dan melunasi hutang pengasuhan sebelum anak memasuki fase kedewasaan mandiri (*Aqil-Baligh*).
+
+Pemulihan ini berpijak pada kaidah dasar bahwa fitrah manusia pada dasarnya condong kepada kebaikan (*hanif*). Perilaku menyimpang atau pembangkangan adalah sinyal bahwa ada kebutuhan fitrah dan tangki afeksi yang belum terpenuhi, bukan watak bawaan yang kekal.
 
 ---
 
@@ -125,7 +133,7 @@ Dalam interaksi harian selama masa pemulihan, orang tua wajib menguasai analogi 
 ![[canvas/Recovery - Kaidah Emas - Prinsip - Naik Turun Gas.canvas]]
 
 1. **Awali dengan Bahasa Lisan:** Bicarakan aturan atau tugas rumah tangga secara baik-baik.
-2. **Deteksi Resistensi:** Jika anak mulai cemberut, membanting pintu, atau meninggikan nada bicara, ini tanda bahwa **amigdala (otak emosi) anak sedang membajak nalarnya**.
+2. **Deteksi Resistensi:** Jika anak mulai cemberut, membanting pintu, atau meninggikan nada bicara, ini tanda bahwa emosi kalbu anak sedang bergolak meluap (dalam kacamata metafora neuro-edukatif, kondisi luapan emosi ini kerap dianalogikan sebagai reaksi defensif *amigdala* yang menekan kerja nalar tenang).
 3. **Turunkan Gas Seketika:** Jangan lawan dengan bentakan atau ancaman fisik. Segera turunkan gas ke **Bahasa Hati**: diamkan sejenak, beri minum, dekap punggungnya, dan dengarkan perasaannya hingga detak jantungnya kembali normal.
 4. **Naikkan Gas Setelah Tenang:** Hanya ketika frekuensi hati sudah kembali tersambung, naikkan gas kembali ke Bahasa Lisan untuk menuntaskan kesepakatan.
 
@@ -258,6 +266,7 @@ Ketika anak yang biasanya berbuat baik tiba-tiba melakukan pelanggaran syariat t
 > [!tip] Tips Praktis Pengasuhan Hari Ini
 > * **Aksi Sederhana:** Tahan diri Anda dari memberikan teguran atau nasihat apapun selama 24 jam ke depan; gantikan seluruh interaksi dengan senyuman, pelukan hangat, dan pelayanan tulus.
 > * **Tujuan:** Merestorasi saluran penerimaan batin anak sehingga nasihat berikutnya akan masuk laksana air sejuk di tanah yang subur.
+> * **Pengecualian Kedaruratan & Keselamatan Fisik:** Aturan jeda teguran 24 jam ini berlaku khusus untuk friksi kedisiplinan dan pembiasaan adab harian biasa. Aturan ini **TIDAK BERLAKU** jika anak berada dalam situasi bahaya fisik nyata, membahayakan keselamatan orang lain, atau terjadi kekerasan fisik. Perlindungan fisik dan pengamanan langsung tetap menjadi kewajiban mutlak yang harus ditegakkan seketika dengan cara yang aman tanpa kezaliman.
 
 ---
 

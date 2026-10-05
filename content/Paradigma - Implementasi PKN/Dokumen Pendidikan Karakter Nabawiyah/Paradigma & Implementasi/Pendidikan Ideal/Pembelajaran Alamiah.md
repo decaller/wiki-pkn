@@ -60,9 +60,9 @@ aliases:
 
 
 > [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
-> **Hakikat Konsep:** **Pembelajaran Alamiah** adalah pilar fundamental dalam Manhaj Pendidikan Karakter Nabawiyah yang mengarahkan proses tarbiyah dari penegakan tauhid batin menuju pembiasaan amal shalih lahiriah.
-> * **Prinsip Utama:** Mengutamakan pengisian tangki cinta (*Koneksi Sebelum Koreksi*) dan menghormati tahapan fitrah anak (*Tadarruj*).
-> * **Orientasi Akhir:** Menghantarkan santri menjadi pribadi yang *Sholih* (selamat akidah & ibadahnya) dan *Muslih* (pelopor peradaban yang bermanfaat bagi ummah).
+> **Hakikat Konsep:** **Pembelajaran Alamiah** menjadikan kehidupan nyata sebagai ruang belajar: **Peristiwa (*Moment*)** yang muncul spontan menjadi pintu masuk adab, sedangkan **Kegiatan (*Project*)** yang direncanakan menjadi ruang mengasah belajar dan bakat.
+> * **Prinsip Utama:** Dampingi anak dengan *Koneksi Sebelum Koreksi* dan *Tadarruj*. Belajar dapat berlangsung di rumah, kota, maupun alam terbuka, bukan hanya saat rihlah.
+> * **Orientasi Akhir:** Membina pribadi *Sholih* dan *Muslih* melalui adab, keterampilan, dan karya yang bermanfaat bagi sesama.
 
 
 
@@ -88,9 +88,9 @@ aliases:
 ![Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani](/assets/slides/slide-kertas-kosong-vs-fitrah.webp)
 *Perbandingan Paradigma: Kertas Kosong (Tabula Rasa) vs Fitrah Qur'ani*
 
-**Pembelajaran Alamiah (*Natural Learning*)** adalah paradigma pendidikan yang membebaskan anak dari jeratan pemesinan kurikulum artifisial, lalu mengembalikan mereka kepada ekosistem belajar yang otentik dan selaras dengan sunnatullah fitrah manusia.
+**Pembelajaran Alamiah (*Natural Learning*)** menghubungkan proses belajar dengan pengalaman nyata yang selaras dengan sunnatullah fitrah manusia. Anak tidak hanya mempelajari penjelasan, tetapi juga mengamati, mencoba, dan mengambil hikmah dari kehidupan sehari-hari.
 
-Dalam paradigma ini, proses belajar dibagi secara tegas ke dalam dua instrumen utama: **Peristiwa (*Moment*)** dan **Kegiatan (*Project*)**:
+Pendidik dapat memulai dari peristiwa yang sedang terjadi atau merancang kegiatan bersama anak. Keduanya saling melengkapi, dengan titik masuk dan fokus pendampingan yang berbeda:
 
 ![[canvas/Pembelajaran Alamiah - Hakikat Pembelajaran Alamiah.canvas]]
 
@@ -106,7 +106,7 @@ Dalam paradigma ini, proses belajar dibagi secara tegas ke dalam dua instrumen u
 
 ### C. Dialektika Ekosistem: Realitas Perkotaan (*Urban Learning*) vs Keutamaan Alam Alami (*Tarbiyah Badiyyah*)
 
-Sering muncul kesalahpahaman bahwa *Pembelajaran Alamiah* harus selalu bertempat di alam terbuka, hutan, sawah, atau perkampungan pedesaan. Manhaj PKN meluruskan hakikat ini secara jernih dan adil (*wasathiyah*):
+Pembelajaran alamiah tidak terbatas pada hutan, sawah, atau desa. Pembedaan berikut menjelaskan bagaimana lingkungan perkotaan menjadi ruang belajar nyata sekaligus mengapa pengalaman di alam alami tetap mendapat tempat dalam manhaj PKN:
 
 ![[canvas/Pembelajaran Alamiah - Dialektika Ekosistem Belajar (Kota vs Alam Alami).canvas]]
 
@@ -183,10 +183,10 @@ Pembelajaran proyek dijalankan melalui empat tahapan terstruktur:
 
 ![[canvas/Pembelajaran Alamiah - B. 4 Siklus Pelaksanaan Proyek Alamiah.canvas]]
 
-1. **Investigasi & Observasi Lapangan:** Mengamati fenomena ciptaan Allah dan menemukan permasalahan riil di lingkungan sekitar (misal: penanganan sampah organik, tata kelola air wudhu, perawatan hewan ternak).
-2. **Perencanaan & Kolaborasi Tim:** Berdiskusi merumuskan hipotesis, membagi peran kerja berdasarkan kecenderungan bakat masing-masing anak, dan menyusun kebutuhan bahan.
-3. **Eksekusi & Eksperimen Lapangan:** Beraksi nyata memotong, merakit, menanam, menguji coba, dan menghadapi kendala teknis secara langsung.
-4. **Refleksi & Kemanfaatan Nyata (*Output Sholih-Muslih*):** Mengevaluasi proses, mempresentasikan hasil karya kepada orang tua dan komunitas, serta mendonasikan atau memanfaatkan karya tersebut untuk kebaikan publik.
+1. **Investigasi & Observasi Lapangan:** Ajak anak mengamati fenomena ciptaan Allah dan menemukan masalah nyata di sekitarnya, seperti sampah organik, tata kelola air wudhu, atau perawatan hewan ternak. Mulai dari hal yang menarik perhatian anak.
+2. **Perencanaan & Kolaborasi Tim:** Diskusikan dugaan awal (*hipotesis*), tujuan, dan kebutuhan bahan. Bagi peran kerja sesuai kecenderungan bakat masing-masing anak agar setiap anggota memahami tugasnya.
+3. **Eksekusi & Eksperimen Lapangan:** Dampingi anak merakit, menanam, atau menguji coba rencana. Ketika kendala teknis muncul, gunakan kesempatan itu untuk mencoba perbaikan, bukan mengambil alih seluruh pekerjaan anak.
+4. **Refleksi & Kemanfaatan Nyata (*Output Sholih-Muslih*):** Ajak anak membahas proses dan hasil: apa yang berhasil, apa yang perlu diperbaiki, dan siapa yang dapat memperoleh manfaat. Presentasikan karya kepada orang tua atau komunitas, lalu manfaatkan atau donasikan untuk kebaikan publik.
 
 ### C. Diferensiasi Proyek Berdasarkan 3 Fase Perkembangan
 
@@ -259,10 +259,12 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ---
 
-## Studi Kasus Nyata & Solusi Kuratif Tadarruj
+## Ilustrasi Kasus & Tahapan Pendampingan Tadarruj
 
 ### Skenario Permasalahan
 > **Kasus:** Anak usia SD tidak mengenal nama-nama pohon di halamannya dan tidak tahu dari mana beras berasal karena terkurung dalam dinding kelas bertembok tebal.
+
+Skenario ini merupakan ilustrasi pembahasan, bukan laporan observasi anak tertentu. Jadwal pendampingan berikut tidak menunjukkan hasil yang telah diuji pada kasus tersebut; gunakan untuk memahami urutan pembahasan, bukan sebagai bukti empiris pemulihan.
 
 ### Tahapan Solusi Kuratif Langkah-demi-Langkah (Manhaj Tadarruj)
 1. **Fase 1: Pendinginan & Penghentian Celaan (Hari 1–3)**  
@@ -317,7 +319,7 @@ Pembelajaran Alamiah berfokus menumbuhkan tiga dimensi abadi ini sejak dini, seh
 
 ---
 
-## 3. 21 Metode Pembelajaran Alamiah Rasulullah ﷺ Terhadap Anak
+## 8. 21 Metode Pembelajaran Alamiah Rasulullah ﷺ Terhadap Anak
 
 Berdasarkan silabus pelatihan narasumber *Materi Temu Lembaga PKN 6: Pembelajaran Alamiah (Tarbiyah Thabi'iyyah)*, Rasulullah ﷺ dalam mendidik generasi tidak mengandalkan kelas kaku serba formal, melainkan melibatkan anak secara langsung dengan aktivitas dan peristiwa nyata sepanjang rentang kehidupannya:
 
@@ -347,9 +349,9 @@ Berdasarkan silabus pelatihan narasumber *Materi Temu Lembaga PKN 6: Pembelajara
 
 ---
 
-## 4. Tipologi Pembelajaran Alamiah: Proyek Terencana (*Kegiatan*) vs Respons Momen (*Peristiwa*)
+## 9. Perbandingan Pelaksanaan Kegiatan dan Peristiwa
 
-Dalam implementasi sekolah dan pesantren nabawiyah, kurikulum alamiah (*Tarbiyah Thabi'iyyah*) bertumpu pada dua pilar aksi yang saling menguatkan:
+Pembedaan *Moment* dan *Project* pada bagian pertama membantu memilih titik masuk pendampingan. Bagan dan tabel berikut merangkum penerapannya di sekolah dan pesantren, termasuk peran pendidik dan bentuk catatan evaluasinya:
 
 ```mermaid
 graph TD
@@ -390,7 +392,7 @@ graph TD
 
 ---
 
-## 5. Instrumen Evaluasi: Lembar Observasi Pemetaan 40 Pilar Karakter (Manhaj Temu Lembaga PKN)
+## 10. Instrumen Evaluasi: Lembar Observasi Pemetaan 40 Pilar Karakter (Manhaj Temu Lembaga PKN)
 
 Berdasarkan lembar instrumen kerja resmi narasumber (*Dokumen Observasi Pemetaan Karakter Temu Lembaga PKN*), evaluasi santri tidak menggunakan rapor angka atau peringkat kelas, melainkan menghitung **frekuensi keterlibatan perilaku alami** ($\checkmark$) dalam satu semester:
 
@@ -439,7 +441,7 @@ Berdasarkan lembar instrumen kerja resmi narasumber (*Dokumen Observasi Pemetaan
 
 ---
 
-## 6. Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
+## 11. Instrumen Observasi Terapan & Lembar Evaluasi Diri (Self-Assessment)
 
 ### 1. Rubrik Pemenuhan Siklus Belajar Alami Anak
 | No | Tahapan Belajar Alami | Terbelenggu Ruang Kaku | Cukup Terfasilitasi | Bebas Bereksplorasi |
@@ -450,9 +452,9 @@ Berdasarkan lembar instrumen kerja resmi narasumber (*Dokumen Observasi Pemetaan
 | 4 | Mengambil hikmah dan mensyukuri kebesaran Sang Pencipta | [ ] | [ ] | [ ] |
 
 ### 2. Tiga Pertanyaan Reflektif
-1. Berapa jam anak saya menghabiskan waktu di alam terbuka pekan ini dibandingkan di depan layar?
-2. Apakah saya terlalu cepat mematikan rasa penasaran anak dengan jawaban singkat yang tidak memancing nalar?
-3. Bagaimana kita mengubah lingkungan rumah menjadi laboratorium kehidupan yang menakjubkan?
+1. Pengalaman apa yang anak peroleh di alam terbuka pekan ini, dan apa yang ia ceritakan tentang pengalaman itu? Bagaimana waktunya dibandingkan dengan waktu di depan layar?
+2. Saat anak bertanya, apakah saya langsung memberi jawaban singkat atau mengajaknya mengamati dan mencari penjelasan bersama?
+3. Kegiatan nyata apa di rumah yang dapat anak ikuti pekan ini untuk mengamati, mencoba, dan mengambil hikmah?
 
 ### 3. Aksi Cepat (*Quick Win*) Hari Ini
 * Bawa sehelai daun atau sebiji batu ke meja makan, amati guratan seratnya bersama anak menggunakan kaca pembesar dan tadabburi keteraturannya.

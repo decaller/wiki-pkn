@@ -1,0 +1,79 @@
+{
+  "persona": "04",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa peta konsep pengantar?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint memberi hubungan tujuan, metode, peran dan implementasi.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Peta tersedia; urutan pertemuan belum dinyatakan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Ringkasan Sistem PKN"
+        }
+      ]
+    },
+    {
+      "question": "Apa contoh praktik?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Pembenahan satu kebiasaan hari ini menjadi pintu praktik.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum panduan fasilitasi dan debrief.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Evaluasi satu prosedur pembelajaran atau kebiasaan rumah tangga hari ini:"
+        }
+      ]
+    },
+    {
+      "question": "Apa bahan pendukung?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan TB40 mencantumkan identitas materi dan rentang slide.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Berkas belum dibuka, kecocokan isi tidak terverifikasi.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Slide Hal. 20–85"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana membedakan pendalaman?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint menautkan konsep yang lebih spesifik, tetapi tanpa level peserta atau prasyarat.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Tautan bukan jalur belajar terstruktur.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Tautan Navigasi Terkait"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah jalur tiga bahasa dengan tujuan dan durasi pertemuan?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

@@ -1,0 +1,30 @@
+{
+  "persona": "02c",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah panduan batas toleransi dan SOP perlindungan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Murahaqah menambahkan pendidikan thaharah dan magang. Standar memberi larangan perundungan, tetapi halaman belum membuktikan SOP pelaporan korban dan respons darurat.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Kebijakan tersedia; implementasi perlindungan dan hukum lokal belum diverifikasi.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/implementasi/kaidah--and--elemen/8-standar-implementasi-pkn",
+          "quote": "Larangan mutlak segala bentuk perundungan"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Kemandirian perlu proyek terbimbing; kebijakan anti-perundungan belum sama dengan SOP kasus."
+  ],
+  "recommendations": [
+    "Tambahkan kanal laporan, perlindungan korban, penanggung jawab, dan supervisi magang."
+  ]
+}

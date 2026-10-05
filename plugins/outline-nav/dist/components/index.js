@@ -1,4 +1,4 @@
-// plugins/outline-nav/src/components/OutlineNav.tsx
+// src/components/OutlineNav.tsx
 import fs from "fs";
 import path from "path";
 import { resolveRelative } from "@quartz-community/utils";
@@ -8,80 +8,89 @@ function slugify(text) {
 }
 function buildSlugMap(allFiles) {
   const map = /* @__PURE__ */ new Map();
-  const sortedFiles = [...allFiles].sort((a, b) => {
-    const aIsTag = a.slug?.startsWith("tags/") ? 1 : 0;
-    const bIsTag = b.slug?.startsWith("tags/") ? 1 : 0;
-    return bIsTag - aIsTag;
-  });
-  for (const file of sortedFiles) {
+  const add = (key, slug) => {
+    const matches = map.get(key) ?? /* @__PURE__ */ new Set();
+    matches.add(slug);
+    map.set(key, matches);
+  };
+  for (const file of allFiles) {
     if (!file.slug) continue;
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue;
     const title = file.frontmatter?.title;
-    if (title) {
-      map.set(title.toLowerCase().trim(), file.slug);
-    }
+    if (title) add(title.toLowerCase().trim(), file.slug);
     const aliases = file.frontmatter?.aliases;
     if (Array.isArray(aliases)) {
       for (const alias of aliases) {
-        if (typeof alias === "string") {
-          map.set(alias.toLowerCase().trim(), file.slug);
-        }
+        if (typeof alias === "string") add(alias.toLowerCase().trim(), file.slug);
       }
     }
     const slugParts = file.slug.split("/");
     const lastPart = slugParts[slugParts.length - 1];
-    map.set(lastPart.toLowerCase(), file.slug);
     if (lastPart === "index" && slugParts.length > 1) {
-      map.set(slugParts[slugParts.length - 2].toLowerCase(), file.slug);
+      add(slugParts[slugParts.length - 2].toLowerCase(), file.slug);
     }
+    add(lastPart.toLowerCase(), file.slug);
   }
   return map;
 }
-function resolveNodeSlug(title, slugMap, allFiles) {
+function onlyMatch(matches) {
+  return matches?.size === 1 ? matches.values().next().value : null;
+}
+function resolveNodeSlug(item, slugMap, allFiles) {
+  if (item.slug) {
+    return allFiles.some((file) => file.slug === item.slug) ? item.slug : null;
+  }
+  const title = item.title;
   const tLow = title.toLowerCase().trim();
   if (tLow === "home" || tLow === "beranda" || tLow === "beranda utama") {
     return "index";
   }
-  if (slugMap.has(tLow)) {
-    return slugMap.get(tLow);
-  }
-  const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]/);
-  if (tbMatch) {
-    const num = tbMatch[1].padStart(2, "0");
-    for (const file of allFiles) {
-      if (!file.slug) continue;
-      const last = file.slug.split("/").pop() ?? "";
-      if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40")) {
-        return file.slug;
-      }
-    }
-  }
+  const exactMatches = slugMap.get(tLow);
+  if (exactMatches) return onlyMatch(exactMatches);
   const sTitle = slugify(title);
-  if (slugMap.has(sTitle)) {
-    return slugMap.get(sTitle);
-  }
+  const slugMatches = slugMap.get(sTitle);
+  if (slugMatches) return onlyMatch(slugMatches);
+  const filenameMatches = /* @__PURE__ */ new Set();
   for (const file of allFiles) {
     if (!file.slug) continue;
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue;
     const parts = file.slug.split("/");
     const last = parts[parts.length - 1];
     const prev = parts.length > 1 ? parts[parts.length - 2] : "";
     if (last === sTitle || last === sTitle + "-pkn" || last === "index" && prev === sTitle) {
-      return file.slug;
+      filenameMatches.add(file.slug);
     }
   }
+  if (filenameMatches.size) return onlyMatch(filenameMatches);
+  const tbMatch = title.match(/^0?(\d{1,2})[\.\s\-]+([a-zA-Z\u0600-\u06FF\']+)/);
+  if (tbMatch) {
+    const num = tbMatch[1].padStart(2, "0");
+    const keyword = tbMatch[2].toLowerCase();
+    const matches = /* @__PURE__ */ new Set();
+    for (const file of allFiles) {
+      if (!file.slug) continue;
+      if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue;
+      const last = file.slug.split("/").pop() ?? "";
+      if (last.startsWith(`${num}-`) && file.slug.toLowerCase().includes("tb40") && (last.includes(keyword) || file.slug.toLowerCase().includes(keyword))) {
+        matches.add(file.slug);
+      }
+    }
+    if (matches.size) return onlyMatch(matches);
+  }
+  if (!tLow || !sTitle) return null;
+  const partialMatches = /* @__PURE__ */ new Set();
   for (const file of allFiles) {
     if (!file.slug) continue;
+    if (file.slug.endsWith(".canvas") || file.slug.startsWith("canvas/")) continue;
     const fTitle = file.frontmatter?.title?.toLowerCase().trim();
-    if (fTitle && fTitle.includes(tLow)) {
-      return file.slug;
-    }
-    if (file.slug.includes(sTitle)) {
-      return file.slug;
+    if (fTitle && fTitle.includes(tLow) || file.slug.includes(sTitle)) {
+      partialMatches.add(file.slug);
     }
   }
-  return null;
+  return onlyMatch(partialMatches);
 }
 function hasActiveDescendant(item, activeSlug, slugMap, allFiles) {
-  const slug = resolveNodeSlug(item.title, slugMap, allFiles);
+  const slug = resolveNodeSlug(item, slugMap, allFiles);
   if (slug === activeSlug) return true;
   if (item.children) {
     for (const child of item.children) {
@@ -109,7 +118,7 @@ var OutlineNav_default = ((userOpts) => {
     }
     const slugMap = buildSlugMap(allFiles);
     const renderItem = (item, depth, parentPath) => {
-      const nodeSlug = resolveNodeSlug(item.title, slugMap, allFiles);
+      const nodeSlug = resolveNodeSlug(item, slugMap, allFiles);
       const isFolder = item.children && item.children.length > 0;
       const currentPath = parentPath ? `${parentPath}/${item.title}` : item.title;
       const isActive = nodeSlug ? nodeSlug === currentSlug : false;
@@ -596,7 +605,7 @@ li.outline-folder:not(:has(> .folder-outer.open)) > .outline-folder-container .f
   return OutlineNav2;
 });
 
-// plugins/outline-nav/src/components/index.ts
+// src/components/index.ts
 var OutlineNav = OutlineNav_default;
 export {
   OutlineNav,

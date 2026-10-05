@@ -1,0 +1,79 @@
+{
+  "persona": "02c",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa arah proyek atau magang?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Pembelajaran diarahkan pada masalah nyata dan pendampingan ahli.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Belum keselamatan, izin wali, dan lingkup kerja.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Anak diarahkan untuk menerapkan ilmunya dalam memecahkan masalah nyata di lingkungan melalui karya dan magang bersama para ahli"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana dialog ketika agresif?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Wiki menyebut konsekuensi logis yang disepakati dan proyek penyaluran energi; ini klaim panduan, bukan penanganan klinis.",
+      "suitability": 3,
+      "completeness": 1,
+      "reason": "Belum triase bahaya, korban, atau pertolongan segera.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/ammarah",
+          "quote": "tegakkan konsekuensi logis yang disepakati bersama."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana bakat ditindaklanjuti?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Hubungkan kecenderungan anak dengan mentor dan pengalaman praktik.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum rubrik kesiapan atau supervisi magang.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Siapkan Ekosistem Pemagangan"
+        }
+      ]
+    },
+    {
+      "question": "Apa perlindungan dari mudarat?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint memprioritaskan perlindungan dari perundungan dan akses digital tak terbatas.",
+      "suitability": 3,
+      "completeness": 1,
+      "reason": "Daftar prioritas bukan SOP perlindungan anak.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "Prioritas: lindungi dari pornografi, gadget tak terbatas, bullying"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah panduan batas toleransi dan SOP perlindungan?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

@@ -138,6 +138,25 @@ Repositori ini menggunakan arsitektur modern **GitHub Actions CI/CD $\to$ GitHub
 
 ---
 
+## Review manusia lokal (HITL rendah–sedang)
+
+`scripts/hitl_workflow.py` menerima **Markdown nyata dari kontributor**, konteks sumber, dan satu atau lebih berkas sumber; bukan teks template council. Contoh berikut memakai artefak privat di luar `content/`:
+
+```bash
+python3 scripts/hitl_workflow.py create --run-dir /tmp/pkn-review-001 --draft /tmp/draft.md --context-file /tmp/source-context.md --source /tmp/source.md --risk low
+python3 scripts/hitl_workflow.py status --run-dir /tmp/pkn-review-001
+python3 scripts/hitl_workflow.py decide --run-dir /tmp/pkn-review-001 --decision approve --reviewer editor-001 --role editorial --reason "Draf dan sumber versi ini diperiksa"
+python3 scripts/hitl_workflow.py resume --run-dir /tmp/pkn-review-001
+```
+
+Gunakan direktori run baru yang belum ada. `--source` dapat diulang. Risiko `low` membutuhkan satu reviewer manusia dengan peran `editorial` atau `source`; `medium` membutuhkan kedua peran dengan identitas manusia berbeda. `decide` juga menerima `reject` dan `needs-revision`, selalu dengan identitas, peran, dan alasan. `revise --run-dir ... --draft ... --context-file ... --source ...` membuat revisi baru, mempertahankan risiko run dan riwayat lama, menjalankan preflight baru, serta mengosongkan signoff revisi baru. Risiko tinggi tidak didukung oleh adapter ini.
+
+Preflight menggunakan scorer yang sudah ada; status scorer `APPROVED` **bukan persetujuan manusia**. `status`, `decide`, dan `resume` memeriksa SHA-256 byte draf asli, snapshot, konteks, serta semua sumber. Berkas hilang/berubah membuat `STALE` dan membatalkan keputusan secara persisten; perlu revisi baru. `resume` hanya menghasilkan salinan Markdown dan receipt JSON yang disetujui di luar `content/`, idempoten pada versi/destinasi yang sama, tanpa publikasi/deploy. Run/output yang mengarah ke `content/` melalui symlink ditolak.
+
+Ini ledger operator lokal terpercaya, **bukan autentikasi/otorisasi reviewer** atau perlindungan kriptografis terhadap pemilik filesystem yang mengedit manifest. Simpan artefak dan identitas secara privat; otoritas reviewer, klasifikasi risiko, perlindungan PII, dan signoff operasional nyata tetap tanggung jawab manusia. CLI council lama tetap tersedia, tetapi outputnya dilabeli simulasi offline belum disetujui; tidak ada provider live atau jaminan grounding sumber. Implementasi adapter tidak membuktikan review manusia sudah dilakukan.
+
+---
+
 ## 6. Tim Penyusun & Pengembang
 
 * **Perumus Manhaj PKN:** Ustadz Abdul Kholiq, Bayu Issetyadi, dan Tim SOTAB HEBAT.

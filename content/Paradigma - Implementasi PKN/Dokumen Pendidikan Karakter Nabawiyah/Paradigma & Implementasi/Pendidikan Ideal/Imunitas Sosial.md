@@ -116,9 +116,12 @@ Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib
 - Al-Qur'an diturunkan sebagai *Furqan* (pembeda). Anak dilatih untuk tidak menelan mentah-mentah apa yang viral di media sosial.
 - Orang tua membiasakan diskusi kritis di meja makan: *"Menurutmu, video yang sedang viral itu bermanfaat atau merusak? Apa pandangan Islam tentang tren tersebut?"*
 
-### C. Pemenuhan Tangki Cinta di Rumah
-- Anak yang haus pengakuan (*starving for approval*) akan rela melakukan apa saja demi diterima oleh geng temannya, termasuk merokok, tawuran, atau mencoba narkoba.
-- Tatkala [[Tangki Cinta]] anak terisi meluap oleh pelukan dan apresiasi ayah-bundanya, ia tidak butuh validasi murahan dari kelompok teman yang berakhlak buruk.
+### C. Pemenuhan Tangki Cinta di Rumah (Khususnya Silang Gender di Fase Murahaqah)
+- Anak yang haus pengakuan (*starving for approval*) akan rela melakukan apa saja demi diterima oleh geng temannya, termasuk pacaran bebas, tawuran, atau mencoba zat adiktif.
+- Tatkala [[Tangki Cinta]] anak terisi meluap oleh pelukan dan apresiasi orang tuanya, ia tidak butuh validasi murahan dari kelompok luar:
+  * **Anak Perempuan dengan Ayah:** Imunitas sosial anak perempuan dibangun dari kenyangnya kasih sayang sang ayah. Pujian tulus ayah atas kecantikan, adab, dan prestasinya membuat anak perempuan kebal dari jeratan rayuan manis lelaki asing.
+  * **Anak Laki-laki dengan Bunda:** Imunitas sosial anak laki-laki dibangun dari ketenteraman dialog bersama sang bunda. Bunda yang mendengarkan tanpa menghakimi meredam gejolak pubertas dan mencegahnya mencari pelarian ke pornografi digital atau pergaulan liar.
+  * *Rujukan Praktik:* Simak strategi detailnya di [[Peran Ayah dan Bunda]] serta [[Panduan/praktik-keluarga|Panduan Praktik Keluarga]].
 
 ### D. Penyaluran Energi ke Dalam [[Bakat]]
 - Kaidah salaf menegaskan: *“Jika jiwamu tidak disibukkan dengan kebenaran, niscaya ia akan disibukkan dengan kebatilan.”*
@@ -130,11 +133,13 @@ Pendidikan Karakter Nabawiyah merumuskan empat lapisan imunitas batin yang wajib
 
 1. **Usia 0 – 7 Tahun ([[Thufulah]]): Fase Proteksi Maksimal**
    - Di usia ini, imunitas batin anak belum terbentuk. Lingkungan harus dijaga sangat bersih (*hima* ketat).
-   - Batasi paparan gawai dan tontonan televisi. Jangan biarkan anak diasuh oleh lingkungan yang toksik.
-2. **Usia 7 – 10 Tahun ([[Tamyiz]]): Fase Pengenalan Kuman Terkendali (*Vaksinasi Moral*)**
-   - Anak mulai dikenalkan pada realitas luar secara bertahap. Ketika melihat pengemis, orang gila, atau orang merokok, jangan ditutup matanya secara panik, melainkan jadikan bahan tadabbur: *"Kasihan ya Nak, semoga Allah beri mereka hidayah. Mengapa kita tidak boleh merokok seperti paman itu?"*
-3. **Usia 10 – Baligh ([[Murahaqah]]): Fase Pengujian Mandiri & Mentoring**
-   - Anak diberi ruang berorganisasi, mengikuti kegiatan pramuka/kepanduan, berkompetisi, dan berinteraksi sosial di bawah pengawasan jarak jauh (*remote monitoring*). Orang tua menjadi tempat berlabuh yang aman untuk mengevaluasi dinamika pergaulannya.
+   - Kedua orang tua (Ayah dan Bunda) hadir bersamaan memberikan kehangatan penuh. Batasi paparan gawai dan tontonan televisi.
+2. **Usia 7 – 10 Tahun ([[Tamyiz]]): Fase Pengenalan Kuman Terkendali (*Vaksinasi Moral*) & Figur Sejenis**
+   - Anak mulai dikenalkan pada realitas luar secara bertahap dengan pendampingan orang tua sejenis (Anak laki-laki bersama Ayah ke masjid dan masyarakat; Anak perempuan bersama Bunda melatih adab keputrian).
+   - Ketika melihat fenomena kemungkaran di luar, jadikan bahan tadabbur nalar sebab-akibat: *"Kasihan ya Nak, semoga Allah beri mereka hidayah. Mengapa kita tidak boleh meniru perbuatan itu?"*
+3. **Usia 10 – Baligh ([[Murahaqah]]): Fase Pengujian Mandiri, Silang Gender & Mentoring**
+   - Anak perempuan dikokohkan perlindungan cintanya oleh Ayah, sementara anak laki-laki ditenangkan gejolak batinnya oleh Bunda.
+   - Anak diberi ruang berorganisasi, kepanduan, dan berinteraksi sosial di bawah pengawasan jarak jauh (*remote monitoring*). Orang tua menjadi dermaga berlabuh yang aman untuk mengevaluasi dinamika pergaulannya.
 
 ---
 

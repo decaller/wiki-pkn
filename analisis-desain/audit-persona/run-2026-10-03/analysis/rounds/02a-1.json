@@ -1,0 +1,79 @@
+{
+  "persona": "02a",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa prinsip bermain?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Fase awal dijelaskan sebagai pembelajaran melalui gerak dan sensori, bukan lembar kerja kaku.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Prinsip jelas, perlu adaptasi perkembangan individual.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Dunia anak usia dini adalah dunia gerak dan sensori."
+        }
+      ]
+    },
+    {
+      "question": "Apa contoh alat murah?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Wiki memberi contoh kardus, plastisin, dan kebun mini untuk eksplorasi.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Keamanan alat dan supervisi belum terinci.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Berikan anak akses pada peralatan sederhana: kaca pembesar, obeng mainan, kardus bekas, plastisin, kuas cat, atau kebun mini."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana menghadapi tekanan calistung?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Artikel menolak ancaman dan tuntutan akademik kaku pada balita.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum skrip pertemuan orang tua dan dukungan literasi yang sesuai anak.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "Jangan membebani mereka dengan lembar kerja kertas"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana observasi tanpa label bakat?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan mengingatkan bahwa anak bertumbuh dan hasil asesmen tidak menjadi penjara.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Contoh khusus usia dini belum tersedia pada halaman awal.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Hindari Menjadikan Hasil Asesmen Sebagai Kotak Penjara:"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah rencana main dan instrumen usia dini?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

@@ -74,7 +74,7 @@ aliases:
 
 Dalam sistem pendidikan konvensional, waktu dan energi guru kerap habis tersita oleh tumpukan dokumen administratif. Guru disibukkan menyusun RPP tebal yang jarang dibuka saat mengajar. Evaluasi belajar sering kali mereduksi keimanan santri menjadi skor angka statistik hampa. Manhaj Pendidikan Karakter Nabawiyah (PKN) merombak total kebiasaan administratif tersebut.
 
-Sesuai aturan tata kelola konten pada *User Journey Tahap 4*, berkas pada direktori ini dipisahkan dari teori epistemologi makro. Guru yang memasuki ruang kelas atau musyrif di asrama membutuhkan instrumen kerja yang ringkas. Setiap dokumen di bawah ini terbukti aplikatif di lapangan dan berakar pada Sunnah Nabawiyah.
+Sesuai aturan tata kelola konten pada *User Journey Tahap 4*, berkas pada direktori ini dipisahkan dari teori epistemologi makro. Guru yang memasuki ruang kelas atau musyrif di asrama membutuhkan instrumen kerja yang ringkas. Rujukan konseptual tersedia pada setiap dokumen; tersedianya format tidak dengan sendirinya membuktikan efektivitas lapangan atau persetujuan untuk pelaksanaan.
 
 ```
                            ALUR IMPLEMENTASI KBM FITRAH
@@ -112,6 +112,21 @@ Berikut adalah lima instrumen operasional inti yang dapat langsung digunakan di 
 | **Formulir Desain Proyek Pembelajaran Alamiah** | Instruktur Proyek, Guru Sains/Sosial, Pembina Santri. | Formulir rancang bangun KBM berbasis dua pintu realitas santri (Kegiatan Terencana vs Respon Peristiwa Spontan). Mengintegrasikan pembagian peran bakat TB-40. | [[Formulir Desain Proyek Pembelajaran Alamiah]] |
 | **Lembar Dialog Evaluasi Hati Guru-Santri** | Guru Bimbingan, Wali Kelas, Musyrif Asrama, Orang Tua. | Panduan respon 4 langkah pemulihan adab (*Tazkiyah Pendidik $\to$ Bahasa Hati $\to$ Dialog Maieutik $\to$ Restitusi Hak*). Berfungsi sebagai pengganti buku sanksi poin. | [[Lembar Dialog Evaluasi Hati Guru-Santri]] |
 | **Bank Prompt AI Guru KBM** | Pengembang Kurikulum, Pendidik Karakter, Guru Mapel. | Koleksi prompt rekayasa terstruktur format XML tags (`<role>`, `<context>`, `<rules>`, `<output_format>`). Membantu guru menyusun perangkat ajar dalam waktu singkat. | [[Bank Prompt AI Guru KBM]] |
+
+### 2.1 Paket Praktis Sekolah–Rumah, Jurnal, dan Tantangan Pekanan
+
+> [!WARNING] Draf editorial — menunggu telaah guru dan wali
+> Tambahan paket berikut **belum disetujui untuk pelaksanaan**. Format dapat disalin untuk ditelaah; bukan arahan resmi ulama, pengesahan instrumen, atau bukti hasil pendidikan. Guru dan wali meninjau konteks, keamanan, persetujuan, dan privasi sebelum penggunaan. Status ini tetap berlaku meskipun metadata portal menyebut Tier 1.
+
+| Kebutuhan | Bagian yang dituju | Cara menghubungkan |
+|---|---|---|
+| Menyepakati peran, kanal privat, dan ritme sekolah–rumah | [[Infografis Ringkasan Materi PKN Siap Sebar#3. Modul Kolaborasi Sekolah–Rumah\|Modul kolaborasi sekolah–rumah]] | Mulai dari persetujuan dan pilihan kegiatan; gunakan lembar komunikasi dua arah, bukan laporan anak di WAG. |
+| Mencatat peristiwa harian dan refleksi pekanan | [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#7. Jurnal Naratif Harian dan Pekanan\|Jurnal naratif harian dan pekanan]] | Template pendamping catatan anekdot; tidak mengubah 19 indikator atau BT/MT/BK/MM. |
+| Mencatat pengalaman ibadah secara pribadi jika bersedia | [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#7.3 Catatan Ibadah/Mutabaah Pribadi (Opsional)\|Catatan ibadah/mutabaah opsional]] | Shalat, dzikir, tilawah, adab, dan birrul walidain tanpa skor, target normatif, perbandingan publik, atau kewajiban berbagi. |
+| Memilih rangkaian aksi sekolah dan rumah | [[Formulir Desain Proyek Pembelajaran Alamiah#5. Program Tantangan Karakter Empat Pekan\|Tantangan karakter empat pekan]] | Satu proyek sudut belajar; rencana, bahan, waktu fleksibel, refleksi, dan lembar pekanan terhubung ke formulir master. |
+| Menyimpan rancangan proyek utama | [[Formulir Desain Proyek Pembelajaran Alamiah#3. Format Blanko Formulir Desain Proyek Siap Cetak (A4)\|Formulir master proyek]] | Rangkaian pekanan menjadi lampiran tahap pelaksanaan dan evaluasi, bukan duplikasi desain. |
+
+Urutan telaah yang disarankan: kesepakatan sekolah–rumah, rancangan proyek, pilihan aksi pekanan, lalu catatan dan tindak lanjut naratif. Hubungan konsep merujuk bagian sumber lokal di masing-masing tambahan. [[Template RPP Karakter Nabawiyah 1 Lembar|RPP 1 lembar]] tetap menjadi rujukan integrasi kegiatan kelas dan tidak diubah oleh paket ini.
 
 ---
 

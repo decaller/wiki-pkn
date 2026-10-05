@@ -36,130 +36,162 @@ Berikut adalah 6 Sektor Arsitektur Makro PKN yang berkorespondensi 1-to-1 dengan
 
 ---
 
-## 🏛️ 1. Hierarki Manhaj Utama (Paradigma & Implementasi PKN)
+<!-- BEGIN_OBSIDIAN_NAVIGATION -->
+## Panduan & Jalur Belajar
 
-Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi insan, metodologi pendidikan nabawiyah, hingga tata kelola kelembagaan:
+- [[Panduan/mulai-di-sini|Mulai di Sini: Peta Orientasi & Jalur Belajar]]
+- [[Panduan/fase-usia|Panduan Fase Usia Anak & Tadarruj Nabawiyah]]
+- [[Panduan/fitrah-dan-bakat|Panduan Fitrah & Penelusuran Bakat Nabawiyah (TB-40)]]
+- [[Panduan/praktik-keluarga|Panduan Praktik Keluarga & Pengasuhan Rumah Tangga]]
+- [[Panduan/lembaga-dan-guru|Panduan Lembaga & Guru: Implementasi Karakter Nabawiyah]]
+- [[Panduan/dalil-dan-rujukan|Panduan Dalil & Kepustakaan Rujukan Karakter Nabawiyah]]
 
-- 📄 [[index|Home]]
-- 📄 [[Glosarium Istilah Karakter Nabawiyah|Glosarium Istilah Karakter Nabawiyah (Kamus Resmi PKN)]]
-- 📄 [[PKN Blueprint Arsitektur Sistem|PKN Blueprint: Arsitektur Sistem]] `[🎨 Canvas: PKN Blueprint Arsitektur Siste...]`
-- 📂 **Insan** *(Folder/Topik)*
-  - 📄 [[Tujuan Hidup Manusia|Tujuan Hidup Manusia]] `[🎨 Canvas: Tujuan Hidup Manusia - Visuali...]`
-  - 📄 [[Bersatunya Ruh dan Jasad Membentuk Jiwa|Bersatunya Ruh dan Jasad Membentuk Jiwa]] `[🎨 Canvas: Bersatunya Ruh dan Jasad Membe...]`
-  - 📂 **Pembagian Jiwa** *(Folder/Topik)*
-    - 📄 [[Ammarah|Ammarah]] `[🎨 Canvas: Ammarah - Ammarah dalam Perkem...]`
-    - 📄 [[Lawwamah|Lawwamah]] `[🎨 Canvas: Lawwamah - Trikotomi Lawwamah ...]`
-    - 📄 [[Muthmainnah|Muthmainnah]] `[🎨 Canvas: Muthmainnah - Karakteristik Na...]`
-  - 📂 **Fitrah (Karakter)** *(Folder/Topik)*
-    - 📂 [[JANGAN MEMBEBANI IMAN ANAK|Iman]]
-      - 📄 [[Tangki Cinta|Tangki Cinta]] `[🎨 Canvas: Tangki Cinta - Patologi Tangki...]`
-    - 📄 [[Belajar|Belajar]] `[🎨 Canvas: Belajar - Tiga Pilar Pembelaja...]`
-    - 📂 [[Kuisioner Asesmen 40 Bakat Nabawiyah|Bakat]] `[🎨 Canvas: Kuisioner Asesmen 40 Bakat Nab...]`
-      - 📄 **Pangkalan Data TB-40 (Bases)** *(Folder/Topik)*
-      - 📄 **Panduan Asesmen dan Observasi TB-40** *(Folder/Topik)*
-      - 📄 [[Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]] `[🎨 Canvas: Kuisioner Asesmen 40 Bakat Nab...]`
-      - 📂 [[Bekerja Keras|Bekerja Keras]] `[🎨 Canvas: Bekerja Keras - Enam Turunan P...]`
-        - 📄 [[01-himmah|01. Himmah (Bercita-Cita Tinggi)]]
-        - 📄 [[02-ihsaan|02. Ihsaan (Perfeksionis)]]
-        - 📄 [[03-izzah|03. 'Izzah (Harga Diri)]]
-        - 📄 [[04-waqaar|04. Waqaar (Berwibawa)]]
-        - 📄 [[05-aziimah|05. 'Aziimah (Bertekad Kuat)]]
-        - 📄 [[06-nasyaath|06. Nasyaath (Bersemangat)]]
-      - 📂 [[Berpikir|Berpikir]] `[🎨 Canvas: Berpikir - Lima Turunan Pilar ...]`
-        - 📄 [[07-firaasah|07. Firaasah (Berfirasat)]]
-        - 📄 [[08-nubl|08. Nubl (Cerdik)]]
-        - 📄 [[09-husnuzhan|09. Husnuzhan (Berprasangka Baik)]]
-        - 📄 [[10-dzakaa|10. Dzakaa' (Cerdas)]]
-        - 📄 [[11-hikmah|11. Hikmah (Ahli Hikmah)]]
-      - 📂 [[Berperasaan|Berperasaan]] `[🎨 Canvas: Berperasaan - Enam Turunan Pil...]`
-        - 📄 [[12-shidq|12. Shidq (Jujur)]]
-        - 📄 [[13-iffah|13. 'Iffah (Menjaga Diri)]]
-        - 📄 [[14-shamt|14. Shamt (Pendiam)]]
-        - 📄 [[15-hayaa|15. Hayaa' (Pemalu)]]
-        - 📄 [[16-qanaaah|16. Qanaa'ah (Sederhana)]]
-        - 📄 [[17-shabr|17. Shabr (Penyabar)]]
-      - 📂 [[Memerintah|Memerintah]] `[🎨 Canvas: Memerintah - Tujuh Turunan Pil...]`
-        - 📄 [[18-syajaaah|18. Syajaa'ah (Pemberani)]]
-        - 📄 [[19-ghairah|19. Ghairah (Pencemburu)]]
-        - 📄 [[20-munaafasah|20. Munaafasah (Kompetitif)]]
-        - 📄 [[21-nashiihah|21. Nashiihah (Penasehat)]]
-        - 📄 [[22-fashaahah|22. Fashaahah (Komunikatif)]]
-        - 📄 [[23-nushrah|23. Nushrah (Menolong)]]
-        - 📄 [[24-juud|24. Juud (Dermawan)]]
-      - 📂 [[Bekerja Sama|Bekerja Sama]] `[🎨 Canvas: Bekerja Sama - Delapan Turunan...]`
-        - 📄 [[25-taaawun|25. Ta'aawun (Bekerjasama)]]
-        - 📄 [[26-ulfah|26. Ulfah (Bersatu)]]
-        - 📄 [[27-adaalah|27. 'Adaalah (Adil)]]
-        - 📄 [[28-wafaa|28. Wafaa' (Menepati Janji)]]
-        - 📄 [[29-muzaah|29. Muzaah (Humoris)]]
-        - 📄 [[30-basyaasyah|30. Basyaasyah (Berseri-Seri)]]
-        - 📄 [[31-rifq|31. Rifq (Lemah Lembut)]]
-        - 📄 [[32-rahmah|32. Rahmah (Berbelas Kasih)]]
-      - 📂 [[Melayani|Melayani]] `[🎨 Canvas: Melayani - Delapan Turunan Pil...]`
-        - 📄 [[33-mahabbah|33. Mahabbah (Penuh Cinta)]]
-        - 📄 [[34-itsaar|34. Itsaar (Melayani)]]
-        - 📄 [[35-kitmaanus-sirr|35. Kitmaanus Sirr (Penjaga Rahasia)]]
-        - 📄 [[36-satr|36. Satr (Menutup Aib)]]
-        - 📄 [[37-amaanah|37. Amaanah (Bertanggung Jawab)]]
-        - 📄 [[38-anaah|38. Anaah (Tidak Tergesa)]]
-        - 📄 [[39-hilm|39. Hilm (Santun)]]
-        - 📄 [[40-tawaadhu|40. Tawaadhu' (Rendah Hati)]]
-    - 📂 **Perkembangan** *(Folder/Topik)*
-      - 📄 [[Thufulah|Thufulah]] `[🎨 Canvas: Thufulah - Visualisasi Dinamik...]`
-      - 📄 [[Tamyiz|Tamyiz]] `[🎨 Canvas: Tamyiz - Visualisasi Gerbang N...]`
-      - 📄 [[Murahaqah|Murahaqah]] `[🎨 Canvas: Murahaqah - Visualisasi Tangga...]`
-      - 📄 [[Syabab|Syabab]] `[🎨 Canvas: Syabab - Tiga Pilar Kemandiria...]`
-- 📂 **Pendidikan Ideal** *(Folder/Topik)*
-  - 📄 [[Benang Merah Pendidikan|Benang Merah Pendidikan]] `[🎨 Canvas: Benang Merah Pendidikan - Krit...]`
-  - 📂 **Metode Mendidik** *(Folder/Topik)*
-    - 📄 [[Bahasa Hati|Bahasa Hati]] `[🎨 Canvas: Bahasa Hati - Tiga Modalitas O...]`
-    - 📄 [[Bahasa Lisan|Bahasa Lisan]] `[🎨 Canvas: Bahasa Lisan - Visualisasi Fil...]`
-    - 📄 [[Bahasa Tangan|Bahasa Tangan]] `[🎨 Canvas: Bahasa Tangan - Empat Syarat S...]`
-  - 📄 [[Pembelajaran Alamiah|Pembelajaran Alamiah]] `[🎨 Canvas: Pembelajaran Alamiah - Hakikat...]`
-  - 📄 [[Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]] `[🎨 Canvas: Menumbuhkan Kesadaran Beramal ...]`
-  - 📂 **Luka dan Hutang Pengasuhan** *(Folder/Topik)*
-    - 📄 [[Recovery|Recovery]] `[🎨 Canvas: Recovery - Metode EMISOL - Tig...]`
-    - 📄 [[Euforia|Euforia]] `[🎨 Canvas: Euforia - Anatomi Dua Bentuk E...]`
-  - 📄 [[Batas Toleransi|Batas Toleransi]] `[🎨 Canvas: Batas Toleransi - Tiga Zonasi ...]`
-  - 📄 [[Imunitas Sosial|Imunitas Sosial]] `[🎨 Canvas: Imunitas Sosial - Empat Kompon...]`
-  - 📄 [[Bank Studi Kasus|Bank Studi Kasus]] `[🎨 Canvas: Bank Studi Kasus - Kerangka Ke...]`
-- 📂 [[Arahan Teknis Implementasi|Implementasi]] `[🎨 Canvas: Arahan Teknis Implementasi - S...]`
-  - 📂 **Kaidah & Elemen** *(Folder/Topik)*
-    - 📄 [[4 Kaidah Implementasi|4 Kaidah Implementasi]] `[🎨 Canvas: Kaidah Implementasi - Arsitekt...]`
-    - 📄 [[4 Elemen Implementasi|4 Elemen Implementasi]] `[🎨 Canvas: Elemen Implementasi - Arsitekt...]`
-    - 📄 [[Kaidah Implementasi di Berbagai Lembaga|Kaidah Implementasi di Berbagai Lembaga]] `[🎨 Canvas: Kaidah Implementasi di Berbaga...]`
-    - 📄 [[8 Standar Implementasi PKN|8 Standar Implementasi PKN]] `[🎨 Canvas: Standar Implementasi PKN - 🏛️ ...]`
-    - 📄 [[Panduan RPP dan Observasi Lapangan|Panduan RPP dan Observasi Lapangan]] `[🎨 Canvas: Panduan RPP dan Observasi Lapa...]`
-  - 📂 **Internal & Eksternal** *(Folder/Topik)*
-    - 📄 [[Tazkiyatun Nafs|Tazkiyatun Nafs]] `[🎨 Canvas: Tazkiyatun Nafs - Dua Fase Ta...]`
-    - 📄 [[Tawakkal dan Doa|Tawakkal dan Doa]] `[🎨 Canvas: Tawakkal dan Doa - Memahami Te...]`
-  - 📂 **Peran & Tanggung Jawab** *(Folder/Topik)*
-    - 📄 [[Tanggung Jawab Pendidikan|Tanggung Jawab Pendidikan]] `[🎨 Canvas: Tanggung Jawab Pendidikan - Vi...]`
-    - 📄 [[Peran Ayah dan Bunda|Peran Ayah dan Bunda]] `[🎨 Canvas: Peran Ayah dan Bunda - Hakikat...]`
-    - 📄 [[Peran Guru dan Lembaga Pendidikan|Peran Guru dan Lembaga Pendidikan]] `[🎨 Canvas: Peran Guru dan Lembaga Pendidi...]`
-  - 📂 **Arahan & Insight Teknis** *(Folder/Topik)*
-    - 📄 [[Arahan Teknis Implementasi|Arahan Teknis Implementasi]] `[🎨 Canvas: Arahan Teknis Implementasi - S...]`
-    - 📄 [[SOTABH|SOTABH]] `[🎨 Canvas: SOTABH - Enam Pilar Paradigma ...]`
-- 📂 **Renungan** *(Folder/Topik)*
-  - 📄 **Renungan Pengasuhan Nabawiyah** *(Folder/Topik)*
-  - 📄 [[Hak dan Kewajiban|Hak dan Kewajiban]] `[🎨 Canvas: Hak dan Kewajiban - Visualisas...]`
-  - 📄 [[Disiplin Positif PKN|Disiplin Positif PKN]] `[🎨 Canvas: Disiplin Positif PKN - Penahap...]`
-  - 📄 [[Persepsi Positif|Persepsi Positif]] `[🎨 Canvas: Persepsi Positif - Siklus Amal...]`
-- 📂 [[Referensi Kajian Video|Referensi]] `[🎨 Canvas: Referensi Kajian Video - Visua...]`
-  - 📄 [[Referensi Kajian Video|Referensi Kajian Video]] `[🎨 Canvas: Referensi Kajian Video - Visua...]`
-  - 📄 [[Bahan Tayang & Slide PPTX|Bahan Tayang & Slide PPTX]]
-  - 📂 [[Korpus Dalil & Atsar Klasik|Korpus Dalil & Atsar Klasik]]
-    - 📄 **Master Katalog Dalil Al-Qur'an** *(Folder/Topik)*
-    - 📄 **Master Katalog Dalil Hadits & Sunnah** *(Folder/Topik)*
-  - 📂 [[Panduan Kontribusi|Panduan Kontribusi]]
-    - 📄 **Standar Template Wiki PKN** *(Folder/Topik)*
-    - 📄 [[Template Elemen Karakteristik|Template Elemen Karakteristik]]
-    - 📄 **Template Komponen Refleksi, Implementasi & Risiko** *(Folder/Topik)*
-    - 📄 [[Template Tema|Template Tema]]
-  - 📄 [[Referensi Tambahan Buku Cetak|Referensi Tambahan Buku Cetak]]
-  - 📄 [[Tentang Aplikasi Wiki PKN|Tentang Aplikasi Wiki PKN]]
-- 📄 [[FAQ Ringkas|FAQ Ringkas]] `[🎨 Canvas: FAQ Ringkas - Visualisasi Poho...]`
+## Paradigma
 
+- [[index|Home]]
+- **Arsitektur**
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/PKN Blueprint Arsitektur Sistem|PKN Blueprint: Arsitektur Sistem]]
+- [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/index|Insan]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Tujuan Hidup Manusia|Tujuan Hidup Manusia]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Bersatunya Ruh dan Jasad Membentuk Jiwa|Bersatunya Ruh dan Jasad Membentuk Jiwa]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Pembagian Jiwa/index|Pembagian Jiwa]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Pembagian Jiwa/Ammarah|Ammarah]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Pembagian Jiwa/Lawwamah|Lawwamah]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Pembagian Jiwa/Muthmainnah|Muthmainnah]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/index|Fitrah (Karakter)]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/index|Iman]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Iman/Tangki Cinta|Tangki Cinta]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Belajar|Belajar]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/index|Bakat]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/index|Pangkalan Data TB-40 (Bases)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Panduan Asesmen dan Observasi TB40|Panduan Asesmen dan Observasi TB-40]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Kuisioner Asesmen 40 Bakat Nabawiyah|Kuisioner Asesmen 40 Bakat Nabawiyah]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Bekerja Keras|Bekerja Keras]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/01-himmah|01. Himmah (Bercita-Cita Tinggi)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/02-ihsaan|02. Ihsaan (Perfeksionis)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/03-izzah|03. 'Izzah (Harga Diri)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/04-waqaar|04. Waqaar (Berwibawa)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/05-aziimah|05. 'Aziimah (Bertekad Kuat)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/06-nasyaath|06. Nasyaath (Bersemangat)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Berpikir|Berpikir]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/07-firaasah|07. Firaasah (Berfirasat)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/08-nubl|08. Nubl (Cerdik)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/09-husnuzhan|09. Husnuzhan (Berprasangka Baik)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/10-dzakaa|10. Dzakaa' (Cerdas)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/11-hikmah|11. Hikmah (Ahli Hikmah)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Berperasaan|Berperasaan]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/12-shidq|12. Shidq (Jujur)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/13-iffah|13. 'Iffah (Menjaga Diri)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/14-shamt|14. Shamt (Pendiam)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/15-hayaa|15. Hayaa' (Pemalu)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/16-qanaaah|16. Qanaa'ah (Sederhana)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/17-shabr|17. Shabr (Penyabar)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Memerintah|Memerintah]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/18-syajaaah|18. Syajaa'ah (Pemberani)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/19-ghairah|19. Ghairah (Pencemburu)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/20-munaafasah|20. Munaafasah (Kompetitif)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/21-nashiihah|21. Nashiihah (Penasehat)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/22-fashaahah|22. Fashaahah (Komunikatif)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/23-nushrah|23. Nushrah (Menolong)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/24-juud|24. Juud (Dermawan)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Bekerja Sama|Bekerja Sama]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/25-taaawun|25. Ta'aawun (Bekerjasama)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/26-ulfah|26. Ulfah (Bersatu)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/27-adaalah|27. 'Adaalah (Adil)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/28-wafaa|28. Wafaa' (Menepati Janji)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/29-muzaah|29. Muzaah (Humoris)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/30-basyaasyah|30. Basyaasyah (Berseri-Seri)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/31-rifq|31. Rifq (Lemah Lembut)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/32-rahmah|32. Rahmah (Berbelas Kasih)]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/Melayani|Melayani]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/33-mahabbah|33. Mahabbah (Penuh Cinta)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/34-itsaar|34. Itsaar (Melayani)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/35-kitmaanus-sirr|35. Kitmaanus Sirr (Penjaga Rahasia)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/36-satr|36. Satr (Menutup Aib)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/37-amaanah|37. Amaanah (Bertanggung Jawab)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/38-anaah|38. Anaah (Tidak Tergesa)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/39-hilm|39. Hilm (Santun)]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Bakat/TB40/40-tawaadhu|40. Tawaadhu' (Rendah Hati)]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/index|Perkembangan]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Thufulah|Thufulah]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Tamyiz|Tamyiz]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Murahaqah|Murahaqah]]
+      - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Insan/Fitrah (Karakter)/Perkembangan/Syabab|Syabab]]
+- [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/index|Pendidikan Ideal]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Benang Merah Pendidikan|Benang Merah Pendidikan]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/index|Metode Mendidik]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Hati|Bahasa Hati]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Lisan|Bahasa Lisan]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Metode Mendidik/Bahasa Tangan|Bahasa Tangan]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Pembelajaran Alamiah|Pembelajaran Alamiah]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Menumbuhkan Kesadaran Beramal|Menumbuhkan Kesadaran Beramal]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/index|Luka dan Hutang Pengasuhan]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Recovery|Recovery]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Luka dan Hutang Pengasuhan/Euforia|Euforia]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Batas Toleransi|Batas Toleransi]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Imunitas Sosial|Imunitas Sosial]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Pendidikan Ideal/Bank Studi Kasus|Bank Studi Kasus]]
+- [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/index|Implementasi]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/index|Kaidah & Elemen]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Kaidah Implementasi|4 Kaidah Implementasi]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Elemen Implementasi|4 Elemen Implementasi]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Kaidah Implementasi di Berbagai Lembaga|Kaidah Implementasi di Berbagai Lembaga]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN|8 Standar Implementasi PKN]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Panduan RPP dan Observasi Lapangan|Panduan RPP dan Observasi Lapangan]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Firasat|Firasat]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/index|Internal & Eksternal]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/Tazkiyatun Nafs|Tazkiyatun Nafs]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/Tawakkal dan Doa|Tawakkal dan Doa]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/index|Peran & Tanggung Jawab]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/Tanggung Jawab Pendidikan|Tanggung Jawab Pendidikan]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/Peran Ayah dan Bunda|Peran Ayah dan Bunda]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/Peran Guru dan Lembaga Pendidikan|Peran Guru dan Lembaga Pendidikan]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Insight & Teknis/index|Arahan & Insight Teknis]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Insight & Teknis/Arahan Teknis Implementasi|Arahan Teknis Implementasi]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Insight & Teknis/Insight/SOTABH|SOTABH]]
+  - [[Toolkit KBM/index|Template & Toolkit KBM Pendidik]]
+    - [[Toolkit KBM/Template RPP Karakter Nabawiyah 1 Lembar|Template RPP Karakter Nabawiyah 1 Lembar]]
+    - [[Toolkit KBM/Instrumen Observasi Pertumbuhan Karakter 19 Butir|Instrumen Observasi Karakter 19 Butir]]
+    - [[Toolkit KBM/Formulir Desain Proyek Pembelajaran Alamiah|Formulir Desain Proyek Pembelajaran]]
+    - [[Toolkit KBM/Lembar Dialog Evaluasi Hati Guru-Santri|Lembar Dialog Evaluasi Hati Guru-Santri]]
+    - [[Toolkit KBM/Bank Prompt AI Guru KBM|Bank Prompt AI Guru KBM]]
+    - [[Toolkit KBM/Bank Cerita Sirah dan Apersepsi KBM|Bank Cerita Sirah dan Apersepsi KBM]]
+    - [[Toolkit KBM/Infografis Ringkasan Materi PKN Siap Sebar|Infografis Ringkasan Materi PKN Siap Sebar]]
+- [[Renungan/index|Renungan]]
+  - [[Renungan/index|Renungan Pengasuhan Nabawiyah]]
+  - [[Renungan/Hak dan Kewajiban|Hak dan Kewajiban]]
+  - [[Renungan/Disiplin Positif PKN|Disiplin Positif PKN]]
+  - [[Renungan/Persepsi Positif|Persepsi Positif]]
+- [[Referensi/index|Referensi]]
+  - [[Glosarium Istilah Karakter Nabawiyah|Glosarium Istilah Karakter Nabawiyah]]
+  - [[Referensi/Korpus Dalil & Atsar Klasik|Korpus Dalil & Atsar Klasik]]
+    - [[Master Katalog Dalil Al-Quran|Master Katalog Dalil Al-Qur'an]]
+    - [[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]
+    - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Internal & Eksternal/Tazkiyatun Nafs|Tazkiyatun Nafs]]
+    - [[Dalil/dalil-firasat-mukmin-cahaya-allah|Hadits Firasat Mukmin Memandang dengan Cahaya Allah]]
+    - [[Dalil/dalil-al-mutawassimin-tanda-kebesaran-allah|Ayat Al-Mutawassimin: Tanda Kekuasaan Allah bagi yang Berfirasat]]
+  - [[Referensi/Referensi Tambahan Buku Cetak|Referensi Tambahan Buku Cetak]]
+    - [[Referensi/Review Buku Pendidikan Karakter Nabawiyah|Review Buku Pendidikan Karakter Nabawiyah]]
+    - [[Referensi/Review Buku Tafsir Bakat|Review Buku Tafsir Bakat]]
+    - [[Referensi/Review Buku Menumbuhkan Kesadaran Beramal|Review Buku Menumbuhkan Kesadaran Beramal]]
+    - [[Referensi/Review Buku Recovery Berbasis Fitrah|Review Buku Recovery Berbasis Fitrah]]
+    - [[Referensi/Review Buku Kurikulum Sekolah Karakter Islam|Review Buku Kurikulum Sekolah Karakter Islam]]
+    - [[Referensi/Review Buku Panduan Implementasi Standar PKN|Review Buku Panduan Implementasi Standar PKN]]
+    - [[Referensi/Review Buku Panduan Kurikulum PAUD-TK Karakter Islam|Review Buku Panduan Kurikulum PAUD-TK Karakter Islam]]
+    - [[Referensi/Review Buku Bukanlah Sekejap|Review Buku Bukanlah Sekejap]]
+  - [[Referensi/Tokoh & Pemikiran/index|Tokoh & Pemikiran]]
+    - [[Referensi/Tokoh & Pemikiran/Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi|Kaidah Pedagogis KH. Abdullah Syukri Zarkasyi]]
+  - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Referensi Kajian Video|Referensi Kajian Video]]
+  - [[Referensi/Bahan Tayang & Slide PPTX|Bahan Tayang & Slide PPTX]]
+  - [[Referensi/Panduan Kontribusi|Panduan Kontribusi]]
+    - [[Paradigma - Implementasi PKN/Template/index|Standar Template Wiki PKN]]
+    - [[Paradigma - Implementasi PKN/Template/Template Elemen Karakteristik|Template Elemen Karakteristik]]
+    - [[Paradigma - Implementasi PKN/Template/Template Elemen Refleksi, Implementas, Risiko, dan Tautan|Template Komponen Refleksi, Implementasi & Risiko]]
+    - [[Paradigma - Implementasi PKN/Template/Template Tema|Template Tema]]
+  - [[Referensi/Tentang Aplikasi Wiki PKN|Tentang Aplikasi Wiki PKN]]
+  - [[Referensi/Catatan Rilis dan Pembaruan Sistem|Catatan Rilis dan Pembaruan Sistem]]
+- [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/FAQ Ringkas|FAQ Ringkas]]
+<!-- END_OBSIDIAN_NAVIGATION -->
 ---
 
 ## 🎨 2. Katalog Visual Obsidian Canvas (104 Bagan)
@@ -313,7 +345,7 @@ Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum m
 <!-- BEGIN_COMPLETE_CONTENT_INDEX -->
 ## Indeks Lengkap Seluruh Konten
 
-**486 halaman Markdown**, **117 canvas**, dan **1 Bases** berdasarkan berkas di `content/`.
+**493 halaman Markdown**, **117 canvas**, dan **1 Bases** berdasarkan berkas di `content/`.
 
 Susunan mengikuti folder sumber. Setiap berkas memiliki satu tautan dengan jalur lengkap, termasuk halaman indeks folder. Gunakan daftar isi halaman untuk melompat antarbagian. Gambar, audio, PDF, dan lampiran lainnya diakses melalui artikel terkait; berkas tersebut bukan halaman artikel.
 
@@ -797,6 +829,15 @@ Indeks ini diperbarui dengan `python3 scripts/update_content_index.py` setelah p
 - [[Materi SOTAB/TIDAK SEMUA YANG LEBIH DINI AKAN LEBIH BAIK|TIDAK SEMUA YANG LEBIH DINI AKAN LEBIH BAIK]]
 - [[Materi SOTAB/YANG TERBAIK BUKAN YANG TAK PERNAH SALAH|YANG TERBAIK BUKAN YANG TAK PERNAH SALAH]]
 
+### Panduan
+
+- [[Panduan/dalil-dan-rujukan|Panduan Dalil & Kepustakaan Rujukan Karakter Nabawiyah]]
+- [[Panduan/fase-usia|Panduan Fase Usia Anak & Tadarruj Nabawiyah]]
+- [[Panduan/fitrah-dan-bakat|Panduan Fitrah & Penelusuran Bakat Nabawiyah (TB-40)]]
+- [[Panduan/lembaga-dan-guru|Panduan Lembaga & Guru: Implementasi Pendidikan Karakter Nabawiyah]]
+- [[Panduan/mulai-di-sini|Mulai di Sini: Peta Orientasi & Jalur Belajar Wiki PKN]]
+- [[Panduan/praktik-keluarga|Panduan Praktik Keluarga & Pengasuhan Rumah Tangga]]
+
 ### Paradigma - Implementasi PKN
 
 - [[Paradigma - Implementasi PKN/index|Paradigma - Implementasi PKN]]
@@ -828,6 +869,7 @@ Indeks ini diperbarui dengan `python3 scripts/update_content_index.py` setelah p
         - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Kaidah Implementasi di Berbagai Lembaga|Kaidah Implementasi PKN dalam Berbagai Lembaga]]
         - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Panduan RPP dan Observasi Lapangan|Panduan RPP dan Observasi Lapangan Karakter Nabawiyah]]
         - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Prinsip Tadarruj|Prinsip Tadarruj]]
+        - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Prioritasi Program Lembaga Berbasis Maqashid Syariah|Prioritasi Program Lembaga Berbasis Maqashid Syariah]]
         - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Program dan Kegiatan Pendidikan Karakter Nabawiyah|Program dan Kegiatan Pendidikan Karakter Nabawiyah]]
       - **Peran & Tanggung Jawab**
         - [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Peran & Tanggung Jawab/index|Peran & Tanggung Jawab]]

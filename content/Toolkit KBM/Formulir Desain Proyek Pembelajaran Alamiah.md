@@ -279,6 +279,98 @@ menyuburkan 50 polybag bibit cabai dan terong di halaman asrama.
 
 ---
 
+## 5. Program Tantangan Karakter Empat Pekan
+
+> [!WARNING] Draf editorial — menunggu telaah guru dan wali
+> Program ini merupakan saran praktis penyunting, **belum disetujui untuk pelaksanaan**, bukan arahan resmi Ustadz Abdul Kholiq atau klaim hasil pendidikan. Guru dan wali perlu menelaah keamanan bahan, kesesuaian konteks, beban kegiatan, dan persetujuan sebelum pemakaian. Empat pekan adalah susunan kegiatan, bukan tenggat kematangan karakter atau mandat perkembangan usia.
+
+### 5.1 Satu Proyek, Empat Fokus
+
+**Nama proyek usulan: “Sudut Belajar Bersama yang Terawat”.** Anak mengamati kebutuhan nyata, menata alat yang sudah tersedia, mencoba penggunaannya, lalu menyerahkan cara perawatannya kepada pengguna. Tidak perlu membeli barang atau memamerkan hasil anak. Setiap pekan meneruskan karya sebelumnya; kegiatan rumah boleh memakai sudut kecil atau wadah portabel bila tidak tersedia meja khusus.
+
+Gunakan **formulir master bagian 3**, bukan membuat desain proyek terpisah: identitas dan kebutuhan pada bagian I–II; hubungan iman, ibadah, dan adab pada bagian III; pembagian tugas pada bagian IV; rangkaian empat pekan pada bagian V; serta narasi evaluasi pada bagian VI. Program ini tidak mengubah pemetaan TB-40 bagian 2. Pilihan tugas dibicarakan dengan anak dan guru tanpa tes bakat atau label baru. Tulis keterkaitan iman/adab memakai rujukan lokal yang telah ditelaah guru; pertanyaan fiqh dibawa kepada guru berwenang, bukan dijawab oleh program.
+
+**Dasar pengaitan lokal:** tahap merancang–aksi–pelayanan mengikuti bagian V formulir master; kegiatan nyata mengikuti dua pintu realitas pada bagian 1; pembuka hangat, eksplorasi, dan refleksi mengikuti [[Template RPP Karakter Nabawiyah 1 Lembar#2. Format Blanko RPP 1 Lembar Siap Cetak (A4)|RPP 1 lembar]]. Fokus pengamatan mengacu pada [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#3.2 Bagian II: Karakter Belajar (9 Butir Indikator)|butir belajar yang sudah ada]] dan [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#3.1 Bagian I: Karakter Iman (10 Butir Indikator)|butir iman yang sudah ada]], bukan indikator baru. Kesinambungan dan kerja sama merujuk [[Infografis Ringkasan Materi PKN Siap Sebar#Kartu 05: 4 Kaidah Implementasi PKN — Kompas Konsistensi Tarbiyah|Kartu 05]].
+
+### 5.2 Persiapan dan Penyesuaian
+
+- Guru/wali memilih tempat aman, alat tumpul, dan benda ringan yang sudah ada. Orang dewasa menangani barang berat, tajam, listrik, atau bahan pembersih; kegiatan cukup menata alat kering dan bersih. Jangan meminta anak menangani barang milik orang lain tanpa izin.
+- Awali dengan sapaan dan pilihan tugas, lakukan aksi bersama, lalu tutup dengan pertanyaan terbuka. Peran dapat berupa menunjuk lokasi, menggambar label, mengelompokkan barang, atau menjelaskan cara pakai; dukungan disesuaikan kebutuhan anak tanpa menetapkan target berdasarkan usia.
+- Usulan sesi inti sekolah 15–25 menit dan aksi rumah 5–10 menit per pekan, ditambah refleksi singkat. Durasi adalah perkiraan logistik, bukan ambang fokus atau standar perkembangan. Boleh dipersingkat, dibagi, ditunda, atau dijeda.
+- Sepakati kanal dan cuplikan yang boleh dibagikan melalui [[Infografis Ringkasan Materi PKN Siap Sebar#3. Modul Kolaborasi Sekolah–Rumah|modul sekolah–rumah]]. Tidak perlu foto, bukti harian, daftar keluarga paling rajin, atau pengungkapan jurnal ibadah.
+
+### 5.3 Rangkaian Siap Adaptasi
+
+#### Pekan 1 — Amanah: Mengenali dan Menata
+
+**Bahan:** alat belajar yang tersedia, wadah bekas yang aman, kertas dan pensil. **Waktu usulan:** sesi sekolah 15–25 menit; aksi rumah 5–10 menit.
+
+1. **Sekolah:** Amati sudut alat bersama: apa yang sulit ditemukan? Guru mendengar usul anak, lalu anak memilih kelompok barang dan tempat wadah. Tata bersama, tanpa membuang barang orang lain.
+2. **Rumah:** Anak dan wali memilih satu wadah atau tempat kecil untuk alat yang sering dipakai; anak boleh memilih letaknya. Alternatif: menata isi tas bersama.
+3. **Refleksi:** “Tempat mana yang mudah kamu jangkau? Bantuan apa yang kamu perlukan saat mengembalikan alat?”
+4. **Evaluasi naratif:** Catat bagaimana anak memilih tempat, mengembalikan barang, dan bantuan yang diberikan. Hubungan: Karakter Belajar butir 9 (merawat alat). Hasil kerja yang ditinjau ialah letak wadah yang dapat digunakan, bukan nilai karakter.
+
+#### Pekan 2 — Ta'awun: Menggunakan Alat Bersama
+
+**Bahan:** sudut alat pekan 1, kertas gambar, alat tulis bersama. **Waktu usulan:** sesi sekolah 15–25 menit; aksi rumah 5–10 menit.
+
+1. **Sekolah:** Gunakan sudut alat untuk menggambar bersama. Guru mencontohkan meminta izin dan menawarkan bantuan; anak memilih tugas mengambil, menggunakan, atau mengembalikan alat. Saat alat terbatas, bicarakan cara bergantian tanpa perlombaan.
+2. **Rumah:** Wali dan anak memakai alat yang tersedia untuk menggambar atau menyiapkan kertas; tanyakan bantuan yang diperlukan dan kembalikan alat bersama. Tidak perlu mengundang orang lain.
+3. **Refleksi:** “Apa yang membuat bekerja bersama terasa mudah atau sulit? Bagaimana kamu ingin dibantu?”
+4. **Evaluasi naratif:** Tulis tindakan menolong yang benar-benar terlihat dan apakah bantuan ditawarkan pendamping. Hubungan: Karakter Iman butir 7 (menolong) dan 9 (menjaga lisan). Jangan menyimpulkan keikhlasan dari tindakan lahiriah.
+
+#### Pekan 3 — Gigih dan Terbuka: Mencoba Perbaikan
+
+**Bahan:** wadah sebelumnya, kertas label/gambar, alat tulis; perekat ditangani sesuai kebutuhan pendampingan. **Waktu usulan:** sesi sekolah 15–25 menit; aksi rumah 5–10 menit.
+
+1. **Sekolah:** Uji apakah pengguna dapat menemukan alat. Tanyakan bagian yang membingungkan. Anak mencoba satu perbaikan, misalnya gambar penanda atau memindahkan wadah, lalu mencoba lagi bersama guru.
+2. **Rumah:** Wali bertanya apakah tempat simpan masih nyaman. Pilih satu perubahan kecil atau pertahankan bila sudah sesuai; pendamping membantu sesuai permintaan anak.
+3. **Refleksi:** “Apa yang kamu coba ketika cara pertama belum cocok? Masukan mana yang ingin kamu gunakan?”
+4. **Evaluasi naratif:** Catat kendala, cara mencoba kembali, respons atas masukan, dan dukungan pendamping. Hubungan: Karakter Belajar butir 2 (solusi) dan 7 (menerima nasihat). Boleh belum menemukan solusi; catat kebutuhan dukungan tanpa cap gagal.
+
+#### Pekan 4 — Khidmah: Menjelaskan dan Merawat
+
+**Bahan:** sudut alat yang ditata, kertas petunjuk bergambar atau penjelasan lisan. **Waktu usulan:** sesi sekolah 15–25 menit; aksi rumah 5–10 menit.
+
+1. **Sekolah:** Anak memilih menunjukkan letak barang, menggambar petunjuk, atau menjelaskan cara mengembalikan alat kepada pengguna kelas. Guru mendampingi; tidak perlu presentasi publik. Tanyakan kepada pengguna apakah letaknya mudah dipakai.
+2. **Rumah:** Anak boleh menunjukkan cara pakai wadah kepada wali, lalu memilih siapa yang menemani perawatan berikutnya. Bila tidak ingin menjelaskan, gunakan gambar atau peragaan bersama.
+3. **Refleksi:** “Bagian mana yang bermanfaat bagi pengguna? Apa yang ingin diteruskan atau diubah?”
+4. **Evaluasi naratif:** Catat cara anak menjelaskan atau merawat alat dan masukan pengguna. Hubungan: Karakter Belajar butir 9 dan Karakter Iman butir 7. Guru/wali memutuskan lanjut, ubah, atau jeda berdasarkan pengalaman dan beban, tanpa menjanjikan hasil karakter.
+
+### 5.4 Lembar Tantangan Pekanan yang Dapat Digunakan Ulang
+
+Lembar ini merupakan lampiran pelaksanaan **bagian V–VI formulir master**, bukan instrumen asesmen baru. Satu lembar untuk satu pekan; boleh dicetak atau disalin. Angka pekan dan menit hanya penjadwalan, bukan skor.
+
+```text
+DRAF EDITORIAL — MENUNGGU TELAAH GURU/WALI
+Nama proyek master / periode / tema pekan:
+Kebutuhan nyata dan pengguna yang akan dibantu:
+Rujukan lokal untuk konsep / butir yang sudah ada bila relevan:
+Pilihan tugas anak dan bantuan pendamping:
+Bahan tersedia / risiko yang dihindari / penyesuaian:
+Rencana waktu fleksibel dan pilihan jeda:
+Persetujuan kegiatan serta catatan privat yang disepakati:
+
+AKSI SEKOLAH
+Pembuka hangat / langkah kegiatan / penutup refleksi:
+AKSI RUMAH (boleh alternatif atau tidak berbagi catatan)
+Pilihan kegiatan / bantuan wali / penyesuaian:
+
+CATATAN PELAKSANAAN
+Peristiwa yang terlihat, ucapan anak bila bersedia, dan konteks:
+Bantuan yang diberikan / kendala / yang belum teramati:
+Refleksi anak (kata-kata, gambar, atau tidak ingin menjawab):
+Refleksi guru/wali tentang pendampingannya:
+Masukan pengguna tentang karya (bukan penilaian diri anak):
+Keputusan bersama: [lanjut / ubah / jeda] dan alasan:
+Satu aksi berikut / pendamping / waktu tinjau:
+Cuplikan yang boleh dibagikan / penerima / masa simpan:
+```
+
+Gunakan [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#7. Jurnal Naratif Harian dan Pekanan|jurnal naratif]] bila perlu mencatat peristiwa lebih rinci. Evaluasi rangkaian cukup merangkum apa yang terjadi, bantuan, kegunaan karya, masukan anak/pengguna, dan langkah berikut. Tidak mengubah 19 butir, BT/MT/BK/MM, atau menjadikan selesainya proyek sebagai bukti jenjang karakter.
+
+---
+
 <div style="margin-top: 2rem; padding: 1rem; border-left: 4px solid rgb(21, 128, 61); background: var(--card-bg, rgb(248, 250, 252));">
   <b>Rujukan Pendukung:</b> Untuk panduan asesmen pilar bakat santri yang bertugas dalam proyek, pelajari [[Panduan Asesmen dan Observasi TB40|Tafsir Bakat 40]] dan [[Review Buku Tafsir Bakat|Buku Tafsir Bakat]].
 </div>

@@ -1,249 +1,152 @@
 #!/usr/bin/env python3
-"""
-generate_obsidian_navigation.py
+"""Refresh only the managed Obsidian navigation outline in the existing peta.
 
-Generator Halaman Navigasi Cepat (Navigation Hub / MOC) untuk Obsidian:
-1. Membaca pohon struktur dari nav_structure.json dan seluruh berkas di content/
-2. Memetakan setiap artikel dengan kanvas visual Obsidian (.canvas), status pembacaan, dan relasi folder
-3. Menghubungkan nomor dan judul TB-40 ke file markdown fisik
-4. Mengelompokkan berdasarkan kluster materi (Insan, Metode, Implementasi, TB40, SOTAB, Video, Dalil, Canvas)
-5. Menghasilkan 'content/Peta Navigasi Wiki PKN.md' yang interaktif dan mudah diedit langsung di Obsidian.
+The editor must provide exactly one BEGIN_OBSIDIAN_NAVIGATION /
+END_OBSIDIAN_NAVIGATION comment pair outside COMPLETE_CONTENT_INDEX.
+Source paths identify articles; canonical slugs come from the installed Quartz
+utility, not from labels. Editorial content and the complete index stay intact.
 """
 
-import os
 import json
 import re
+import subprocess
 from pathlib import Path
 
-CONTENT_DIR = "content"
-NAV_STRUCTURE_FILE = "nav_structure.json"
-OUTPUT_FILE = os.path.join(CONTENT_DIR, "Peta Navigasi Wiki PKN.md")
+ROOT = Path(__file__).resolve().parents[1]
+CONTENT_DIR = ROOT / "content"
+NAV_STRUCTURE_FILE = ROOT / "nav_structure.json"
+OUTPUT_FILE = CONTENT_DIR / "Peta Navigasi Wiki PKN.md"
+START = "<!-- BEGIN_OBSIDIAN_NAVIGATION -->"
+END = "<!-- END_OBSIDIAN_NAVIGATION -->"
+
 
 def get_all_markdown_metadata(content_dir):
-    """Memindai seluruh file Markdown untuk mengambil frontmatter title, aliases, dan relasi canvas."""
-    md_registry = {}
-    for root, _, files in os.walk(content_dir):
-        for f in sorted(files):
-            if f.endswith(".md"):
-                full_path = os.path.join(root, f)
-                rel_path = os.path.relpath(full_path, content_dir)
-                stem = Path(f).stem
-                
-                title = stem
-                canvas_links = []
-                with open(full_path, "r", encoding="utf-8", errors="ignore") as fh:
-                    content = fh.read()
-                    m_title = re.search(r"^title:\s*[\"']?(.*?)[\"']?$", content, re.MULTILINE)
-                    if m_title:
-                        title = m_title.group(1).strip()
-                        
-                    canvases = re.findall(r'!\[\[(canvas/.*?\.canvas)\]\]', content)
-                    canvas_links = canvases
+    """Return a deterministic registry keyed by full content-relative .md path."""
+    content_dir = Path(content_dir)
+    registry = {}
+    for path in sorted(content_dir.rglob("*.md"), key=lambda p: p.relative_to(content_dir).as_posix()):
+        if not path.is_file():
+            continue
+        rel_path = path.relative_to(content_dir).as_posix()
+        text = path.read_text(encoding="utf-8")
+        frontmatter_text = ""
+        match = re.match(r"\A---\r?\n(.*?)\r?\n---(?:\r?\n|$)", text, re.DOTALL)
+        if match:
+            frontmatter_text = match.group(1)
+        registry[rel_path] = {
+            "stem": path.stem,
+            "frontmatter": frontmatter_text,
+            "rel_path": rel_path,
+        }
 
-                md_registry[stem.lower()] = {
-                    "stem": stem,
-                    "title": title,
-                    "rel_path": rel_path,
-                    "canvas_links": canvas_links
-                }
-    return md_registry
+    # Batch all paths through the real utility once. Failure is fatal: a Python
+    # approximation would silently introduce a second canonical slug contract.
+    result = subprocess.run(
+        ["node", "--input-type=module", "-e", """
+import { slugifyFilePath } from '@quartz-community/utils/path';
+import { parse } from 'yaml';
+let input = '';
+for await (const chunk of process.stdin) input += chunk;
+const rows = JSON.parse(input).map(([path, text]) => ({
+  slug: slugifyFilePath(path), frontmatter: parse(text) || {}
+}));
+process.stdout.write(JSON.stringify(rows));
+"""],
+        input=json.dumps([[path, metadata["frontmatter"]] for path, metadata in registry.items()]),
+        text=True, capture_output=True,
+        check=True, cwd=ROOT,
+    )
+    for metadata, row in zip(registry.values(), json.loads(result.stdout), strict=True):
+        metadata["slug"] = row["slug"]
+        frontmatter = row["frontmatter"]
+        metadata["title"] = frontmatter.get("title") or metadata["stem"]
+        aliases = frontmatter.get("aliases") or []
+        metadata["aliases"] = [aliases] if isinstance(aliases, str) else aliases
+        del metadata["frontmatter"]
+    return registry
 
-def get_all_canvas_files(content_dir):
-    """Memindai seluruh berkas .canvas di folder content/canvas/."""
-    canvas_dir = os.path.join(content_dir, "canvas")
-    canvases = []
-    if os.path.exists(canvas_dir):
-        for root, _, files in os.walk(canvas_dir):
-            for f in sorted(files):
-                if f.endswith(".canvas"):
-                    full_p = os.path.join(root, f)
-                    rel_p = os.path.relpath(full_p, content_dir)
-                    canvases.append(rel_p)
-    return sorted(canvases)
 
 def find_matching_file(title_or_slug, md_registry):
-    """Mencocokkan judul dari nav_structure ke file markdown fisik secara cerdas."""
-    key = title_or_slug.lower().strip()
-    
-    # Penanganan kasus khusus Home & Blueprint
-    if key == "home":
-        if "index" in md_registry:
-            return md_registry["index"]
-    if "pkn blueprint" in key:
-        for k, v in md_registry.items():
-            if "blueprint" in k:
-                return v
+    """Resolve exact title, alias, or basename only when the identity is unique."""
+    key = title_or_slug.strip().casefold()
+    if key in {"home", "beranda", "beranda utama"}:
+        return md_registry.get("index.md")
+    matches = {
+        path for path, metadata in md_registry.items()
+        if key in {name.strip().casefold() for name in
+                   [metadata["stem"], metadata["title"], *metadata["aliases"]]}
+    }
+    if len(matches) > 1:
+        raise ValueError(f"Ambiguous navigation label {title_or_slug!r}: {', '.join(sorted(matches))}")
+    return md_registry[next(iter(matches))] if matches else None
 
-    if key in md_registry:
-        return md_registry[key]
-    
-    # Penanganan nomor TB-40 misal: "01. Himmah (Bercita-Cita Tinggi)" -> "01-himmah"
-    m_tb = re.match(r'^(\d{2})[\.\s]+([A-Za-z\']+)', title_or_slug)
-    if m_tb:
-        num = m_tb.group(1)
-        name_clean = m_tb.group(2).lower().replace("'", "")
-        tb_key = f"{num}-{name_clean}"
-        if tb_key in md_registry:
-            return md_registry[tb_key]
-        for k, v in md_registry.items():
-            if k.startswith(f"{num}-"):
-                return v
-
-    # Coba bersihkan prefix angka
-    cleaned = re.sub(r'^\d+[\.\s]+', '', key)
-    name_only = key.split('(')[0].strip()
-    cleaned_name_only = cleaned.split('(')[0].strip()
-
-    for k, v in md_registry.items():
-        if k == cleaned or k == name_only or k == cleaned_name_only:
-            return v
-        if key in k or k in key:
-            return v
-    return None
 
 def build_tree_markdown(items, md_registry, indent=0):
-    """Membangun teks navigasi bertingkat dari nav_structure.json."""
+    """Render every link with its source path; reject invalid/ambiguous targets."""
     lines = []
     prefix = "  " * indent
     for item in items:
         title = item.get("title", "")
         children = item.get("children", [])
-        matched = find_matching_file(title, md_registry)
-        
-        icon = "📄"
-        if children:
-            icon = "📂"
-            
-        if matched:
-            target_link = matched["stem"]
-            canvas_badge = ""
-            if matched["canvas_links"]:
-                canvas_name = Path(matched["canvas_links"][0]).stem
-                canvas_badge = f" `[🎨 Canvas: {canvas_name[:30]}...]`"
-            lines.append(f"{prefix}- {icon} [[{target_link}|{title}]]{canvas_badge}")
+        if "slug" in item:
+            slug = item["slug"]
+            matches = [metadata for metadata in md_registry.values() if metadata["slug"] == slug]
+            if not isinstance(slug, str) or not slug or not matches:
+                raise ValueError(f"Invalid explicit slug {slug!r} for {title!r}")
+            if len(matches) != 1:
+                paths = ', '.join(sorted(metadata["rel_path"] for metadata in matches))
+                raise ValueError(f"Ambiguous explicit slug {slug!r}: {paths}")
+            matched = matches[0]
+        elif item.get("kind") == "group":
+            matched = None
         else:
-            lines.append(f"{prefix}- {icon} **{title}** *(Folder/Topik)*")
-            
+            matched = find_matching_file(title, md_registry)
+            if matched is None and (item.get("kind") == "link" or not children):
+                raise ValueError(f"Unresolved navigation label {title!r}; supply an exact canonical slug")
+        if matched:
+            target = matched["rel_path"][:-3]
+            lines.append(f"{prefix}- [[{target}|{title}]]")
+        else:
+            lines.append(f"{prefix}- **{title}**")
         if children:
             lines.extend(build_tree_markdown(children, md_registry, indent + 1))
     return lines
 
+
+def render_navigation(nav_structure, md_registry):
+    """Render all collections in manifest order, including structural groups."""
+    sections = []
+    for collection_id, collection in nav_structure.items():
+        name = collection.get("name") or (collection.get("collection", {}).get("name") if isinstance(collection.get("collection"), dict) else None) or collection_id
+        lines = build_tree_markdown(collection.get("structure", []), md_registry)
+        sections.append(f"## {name}\n\n" + "\n".join(lines))
+    return "\n\n".join(sections)
+
+
 def generate_navigation_page():
-    md_registry = get_all_markdown_metadata(CONTENT_DIR)
-    canvases = get_all_canvas_files(CONTENT_DIR)
-    
-    nav_struct = {}
-    if os.path.exists(NAV_STRUCTURE_FILE):
-        with open(NAV_STRUCTURE_FILE, "r", encoding="utf-8") as f:
-            nav_struct = json.load(f)
-            
-    top_structure = []
-    for col_id, col_data in nav_struct.items():
-        top_structure = col_data.get("structure", [])
-        break
+    page = Path(OUTPUT_FILE)
+    # Bytes avoid newline normalization outside the managed range.
+    text = page.read_bytes().decode("utf-8")
+    if text.count(START) != 1 or text.count(END) != 1:
+        raise ValueError("Expected exactly one navigation marker pair; no content was written")
+    start = text.index(START)
+    end = text.index(END)
+    if start >= end:
+        raise ValueError("Navigation markers are reversed; no content was written")
+    complete_start = "<!-- BEGIN_COMPLETE_CONTENT_INDEX -->"
+    complete_end = "<!-- END_COMPLETE_CONTENT_INDEX -->"
+    if (complete_start in text[start:end] or complete_end in text[start:end]
+            or text.rfind(complete_start, 0, start) > text.rfind(complete_end, 0, start)):
+        raise ValueError("Navigation markers overlap COMPLETE_CONTENT_INDEX; no content was written")
+    with Path(NAV_STRUCTURE_FILE).open(encoding="utf-8") as manifest:
+        nav_structure = json.load(manifest)
+    registry = get_all_markdown_metadata(CONTENT_DIR)
+    outline = render_navigation(nav_structure, registry)
+    updated = text[:start + len(START)] + "\n" + outline + "\n" + text[end:]
+    if updated != text:
+        page.write_bytes(updated.encode("utf-8"))
+    print(f"Updated managed navigation in {page}")
 
-    tree_lines = build_tree_markdown(top_structure, md_registry)
-    
-    total_md = len(md_registry)
-    total_canvases = len(canvases)
-    
-    sotab_files = [v for v in md_registry.values() if v["rel_path"].startswith("Materi SOTAB/")]
-    video_files = [v for v in md_registry.values() if v["rel_path"].startswith("Kajian Video/")]
-    dalil_files = [v for v in md_registry.values() if v["rel_path"].startswith("Dalil/")]
-    template_files = [v for v in md_registry.values() if "Template" in v["rel_path"]]
-
-    content = f"""---
-title: "Peta Navigasi & Map of Content (MOC) Wiki PKN"
-description: "Pusat kendali navigasi cepat hierarki materi, tautan kanvas Obsidian, dan status korpus untuk mempermudah penulisan dan penjelajahan di Obsidian."
-aliases:
-  - MOC
-  - Peta Navigasi
-  - Navigation Hub
-  - Indeks Materi
-tags:
-  - navigasi
-  - moc
-  - obsidian-hub
----
-
-# 🧭 Peta Navigasi & Map of Content (MOC) Wiki-PKN
-
-> [!SUMMARY] Ringkasan Eksekutif & Panduan Editor
-> **Tujuan Dokumen:** Berfungsi sebagai *Command Center* bagi editor di Obsidian untuk menavigasi, menyunting, dan menautkan halaman secara instan.
-> * **Inventaris lengkap:** lihat [[Peta Navigasi Wiki PKN#Indeks Lengkap Seluruh Konten|Indeks Lengkap Seluruh Konten]] untuk jumlah aktual dan tautan setiap halaman.
-> * **Format Navigasi:** Panduan tematik di bawah dilengkapi inventaris hierarkis menurut folder sumber; artikel, canvas, dan Bases memakai jalur tautan lengkap.
-
----
-
-## 🏛️ 1. Hierarki Manhaj Utama (Paradigma & Implementasi PKN)
-
-Berikut adalah silsilah topik fondasional PKN yang tersusun dari epistemologi insan, metodologi pendidikan nabawiyah, hingga tata kelola kelembagaan:
-
-{os.linesep.join(tree_lines)}
-
----
-
-## 🎨 2. Katalog Visual Obsidian Canvas ({len(canvases)} Bagan)
-
-Bagan visual spasial untuk memahami keterhubungan konsep secara global sebelum masuk ke perincian:
-
-<details open>
-<summary><b>Lihat Seluruh {len(canvases)} Berkas Obsidian Canvas</b></summary>
-
-| No | Nama Bagan Obsidian Canvas | Tautan Buka di Obsidian |
-| :-: | :--- | :--- |
-"""
-
-    for idx, c_path in enumerate(canvases, 1):
-        canvas_title = Path(c_path).stem
-        content += f"| {idx} | **{canvas_title}** | ![[{c_path}]] |\n"
-
-    content += f"""
-</details>
-
----
-
-## 📚 3. Kluster Khazanah Materi Pendukung
-
-### 💡 A. Koleksi Tulisan SOTAB HEBAT ({len(sotab_files)} Artikel)
-* **Hub Utama:** [[Materi SOTAB|Portal Direktori Materi SOTAB ↗]]
-* Menghimpun seluruh refleksi kelembutan Bahasa Hati, perbaikan luka asuh, dan dialog kelekatan ayah-bunda karya Ustadz Abdul Kholiq.
-
-### 🎥 B. Koleksi Rekaman Kajian Video ({len(video_files)} Rekaman & 1.159 Bab)
-* **Hub Utama:** [[Kajian Video|Portal Kajian Video & Indeks Timestamp ↗]]
-* Memuat transkrip tematik, pembahasan studi kasus nyata, dan tautan langsung ke menit video YouTube.
-
-### 📜 C. Koleksi Halaman Dalil Mandiri ({len(dalil_files)} Dalil)
-* **Pondasi Syar'i:** [[Master Katalog Dalil Al-Quran]], [[Master Katalog Dalil Hadits dan Sunnah]], serta halaman takhrij mandiri di folder `content/Dalil/`.
-
-### 📋 D. Toolkit & Template Operasional KBM ({len(template_files)} Dokumen)
-* **Instrumen Lapangan:**
-  - [[Instrumen Evaluasi Kesiapan Transformasi|Ceklist Kesiapan Transformasi Pengasuhan]]
-  - [[Panduan RPP dan Observasi Lapangan]]
-  - [[Kuisioner Asesmen 40 Bakat Nabawiyah]]
-
----
-
-## 🛠️ 4. Panduan Kerja Cepat Editor di Obsidian
-
-1. **Gunakan Quick Switcher:** Tekan `Ctrl + O` (atau `Cmd + O` di Mac) lalu ketik nama halaman untuk melompat langsung ke artikel target.
-2. **Lihat Hubungan di Graph View:** Buka *Local Graph* pada bilah samping (*sidebar*) untuk melihat simpul artikel yang sedang aktif beserta tautan dua arahnya.
-3. **Patuhi Aturan Penulisan:** 
-   - Awali draf dengan Callout `> [!SUMMARY]` (**TL;DR**).
-   - Berikan pengantar global naratif dan sematkan bagan Obsidian Canvas `![[canvas/...canvas]]`.
-   - Sambungkan antarpoin dalam narasi bertahap yang mengalir dan kohesif.
-"""
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
-
-    # Always restore the complete path-keyed inventory after the thematic hub.
-    from update_content_index import main as update_complete_index
-    update_complete_index()
-        
-    print(f"✅ Sukses menghasilkan halaman navigasi di: {OUTPUT_FILE}")
-    print(f"   Total berkas markdown terindeks: {total_md}")
-    print(f"   Total Obsidian Canvas terindeks: {total_canvases}")
 
 if __name__ == "__main__":
     generate_navigation_page()

@@ -1,0 +1,30 @@
+{
+  "persona": "02e",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah recovery membedakan pembinaan dan terapi?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "EMISOL memberi struktur pendampingan relasional, tetapi pada halaman belum terlihat pembedaan kewenangan pembina dengan layanan klinis.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Tidak boleh menyebutnya terapi terbukti atau mengganti pertolongan profesional.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pendidikan-ideal/luka-dan-hutang-pengasuhan/recovery",
+          "quote": "Rumuskan kesepakatan tertulis"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Pembinaan dimulai dari muhasabah pendidik; istilah trauma membutuhkan batas kewenangan."
+  ],
+  "recommendations": [
+    "Pisahkan pembinaan spiritual, bantuan psikologis, dan prosedur rujukan."
+  ]
+}

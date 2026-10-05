@@ -1,0 +1,79 @@
+{
+  "persona": "02d",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa orientasi kontribusi?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Tujuan muslih dijelaskan sebagai peran unik yang bermanfaat di masyarakat.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Orientasi jelas; belum rancangan proyek individual.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/tujuan-hidup-manusia",
+          "quote": "Peran tersebut bermanfaat bagi keluarga dan orang lain di sekitarnya"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana memilih peran?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Wiki mengaitkan potensi dengan jam terbang, proyek dan mentor.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Belum eksplorasi pilihan pendidikan dan dunia kerja secara lengkap.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Orang tua dan sekolah berkewajiban memfasilitasi jam terbang, proyek karya nyata, dan mentor ahli di bidang ini."
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana membaca kekuatan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan menggunakan Top 6 untuk potensi, berbeda dari kuesioner yang menyebut Top 5.",
+      "suitability": 3,
+      "completeness": 1,
+      "reason": "Perbedaan keluaran perlu rekonsiliasi sebelum digunakan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Penentuan Top 6 Potensi Kekuatan"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana menghindari vonis karier?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Observasi perlu diperbarui; kecenderungan bukan vonis mutlak.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Ada pengaman konsep, belum bukti validitas psikometri.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Lakukan pemutakhiran observasi setiap tahun."
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah peta kemandirian fase Syabab?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

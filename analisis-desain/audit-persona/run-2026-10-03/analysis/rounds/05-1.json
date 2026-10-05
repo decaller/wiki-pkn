@@ -1,0 +1,79 @@
+{
+  "persona": "05",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apakah sumber diberi identitas?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Halaman menyebut narasumber dan materi tayang.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Identitas ada; belum memeriksa sumber primer.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Ustadz Abdul Kholiq"
+        }
+      ]
+    },
+    {
+      "question": "Apakah lokasi sumber cukup spesifik?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Rentang halaman slide diberikan, belum lokasi klaim per kalimat.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Rentang luas menyulitkan verifikasi satu klaim.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Slide Hal. 20–85"
+        }
+      ]
+    },
+    {
+      "question": "Apakah kutipan dipisahkan dari sintesis?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Artikel menyatakan adanya sintesis dari sumber asli, tetapi atribusi tiap klaim belum cukup.",
+      "suitability": 2,
+      "completeness": 1,
+      "reason": "Label otoritas tidak membuktikan akurasi kutipan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "disintesis dari naskah/tulisan asli narasumber"
+        }
+      ]
+    },
+    {
+      "question": "Apakah instrumen konsisten?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Rekap kuesioner mengaitkan Syajaa’ah ke butir 29, padahal teks butir 29 adalah Rahmah.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Kontradiksi internal terlihat; perlu audit seluruh tabel dan sumber master.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+          "quote": "Syaja’ah / الشَّجَاعَة (Pemberani)]]\nButir 29"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Apakah pemetaan nomor butir TB40 sesuai teks butirnya?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

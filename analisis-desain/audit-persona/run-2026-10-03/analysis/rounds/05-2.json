@@ -1,0 +1,30 @@
+{
+  "persona": "05",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Apakah pemetaan nomor butir TB40 sesuai teks butirnya?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Crawl ulang mengonfirmasi teks butir 29 adalah Rahmah, tetapi rekap memasangkannya dengan Syajaa’ah. Rekap juga memasangkan Jud dengan butir 22, padahal teks 22 Munaafasah. Keluaran skor jangan digunakan sebelum audit master.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Kontradiksi berulang terbukti pada live; belum seluruh 40 butir direkonsiliasi.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+          "quote": "29\nRahmah / الرَّحْمَة (berbelas kasih)"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Atribusi dan label otoritas bukan bukti verifikasi; pemetaan kuesioner memiliki kontradiksi nyata."
+  ],
+  "recommendations": [
+    "Audit seluruh butir dengan master, beri lokasi klaim presisi dan pisahkan nash/syarah/sintesis."
+  ]
+}

@@ -365,6 +365,7 @@ Berikut adalah ikhtisar komprehensif seluruh program resmi yang diselenggarakan 
   - [[8 Standar Implementasi PKN]]
   - [[Panduan RPP dan Observasi Lapangan]]
   - [[Kaidah Implementasi di Berbagai Lembaga]]
+  - [[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]
   - [[Metode Mendidik|Bahasa Pengasuhan]]
   - [[Murahaqah|Akil Baligh]]
   - [[Bakat|Asesmen Bakat]]

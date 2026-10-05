@@ -1,6 +1,12 @@
 ---
 title: "8 Standar Implementasi Pendidikan Karakter Nabawiyah"
 date: 2026-09-05
+aliases:
+  - "8 Standar Implementasi PKN"
+  - "8 Standar Mutu PKN"
+  - "8-standar-implementasi-pkn"
+  - "Delapan Standar Implementasi PKN"
+  - "Standar Implementasi PKN"
 tags:
   - implementasi
   - standar-pkn
@@ -192,6 +198,13 @@ Lembaga merancang instrumen lembar observasi untuk 3 ranah:
 1. **Observasi Bahasa Hati / Cinta:** Mengukur keterisian tangki cinta santri ([[Bahasa Hati]]).
 2. **Observasi Gaya Belajar Qur'ani:** Mengidentifikasi modalitas belajar dominan (*Al-Fu'ad, As-Sam'u, Al-Bashar*) ([[Belajar]]).
 3. **Observasi Kinerja Bakat TB-40:** Mengamati kemunculan spontan 40 pilar sifat mulia.
+
+### 8.4 Prioritasi Program Berbasis Maqashid Syariah (Fiqh Aulawiyyat)
+Dalam merumuskan kalender kegiatan dan rencana anggaran biaya (RAB), lembaga wajib menyaring usulan program melalui hierarki Maqashid Syariah:
+- **Dharuriyyat (Wajib 100%):** Perlindungan akidah, penegakan shalat berjamaah, keamanan fisik-mental santri (*anti-bullying*), sanitasi air bersih asrama, dan upah guru yang adil tepat waktu.
+- **Hajiyyat (Pengokoh Sistem):** Pengadaan modul RPP terpadu, rasio kelas ideal, bimbingan konseling hati, dan pelatihan berkala pendidik.
+- **Tahsiniyyat (Aksesoris & Syiar):** Seremonial pentas seni, renovasi gerbang megah, kompetisi eksternal, dan seragam khusus. *Rambu Syariat:* Dilarang keras mengorbankan dana atau waktu guru di ranah Dharuriyyat demi mengejar Tahsiniyyat.
+- 📖 *Pelajari instrumen evaluasi lengkapnya di:* **[[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]**.
 
 ---
 
@@ -517,6 +530,7 @@ Keberhasilan implementasi PKN bertumpu pada keselarasan dua pilar pendamping: Pe
 * [[Koneksi Sebelum Koreksi]] — Kaidah emas komunikasi hati pendidik.
 * [[Tangki Cinta]] — Pemenuhan afeksi jiwa sebelum penegakan taklif syariat.
 * [[4 Fase Usia Nabawiyah]] — Pentahapan tarbiyah dari Thufulah hingga Syabab.
+* [[Prioritasi Program Lembaga Berbasis Maqashid Syariah]] — Panduan Fiqh Aulawiyyat penyaringan program kerja lembaga.
 
 ---
 

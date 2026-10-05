@@ -1,0 +1,176 @@
+{
+  "events": [
+    {
+      "robots": "invalid HTML; explicit owner override"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/arsitektur-pkn/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/00---master-arsitektur-pkn.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/01---komponen--and--kurikulum-pkn.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/02---metode--and--pendekatan-fisik-ruh.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/03---peran-pembelajaran--and--model.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/04---peran-pendidik--and--kedisiplinan.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/05---jejak-pendidik--and--target.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/canvas/arsitektur-pkn/06---implementasi--and--rantai-kausalitas.canvas",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/tujuan-hidup-manusia",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/bersatunya-ruh-dan-jasad-membentuk-jiwa",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/ammarah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/lawwamah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/pembagian-jiwa/muthmainnah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/iman/tangki-cinta",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/kuisioner-asesmen-40-bakat-nabawiyah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/bekerja-keras",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/01-himmah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/02-ihsaan",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/03-izzah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/04-waqaar",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/05-aziimah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/06-nasyaath",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/berpikir",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/07-firaasah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/08-nubl",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/09-husnuzhan",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/10-dzakaa",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/11-hikmah",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/berperasaan",
+      "status": "fetched"
+    },
+    {
+      "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/12-shidq",
+      "status": "fetched"
+    }
+  ],
+  "fetched": 40,
+  "remaining": 5916
+}

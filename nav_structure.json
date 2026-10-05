@@ -1,4 +1,48 @@
 {
+  "e5c8e31a-4712-4cf3-9388-75b28a2f1c84": {
+    "collection": {
+      "name": "Panduan & Jalur Belajar",
+      "icon": "compass"
+    },
+    "structure": [
+      {
+        "title": "Mulai di Sini: Peta Orientasi & Jalur Belajar",
+        "slug": "panduan/mulai-di-sini",
+        "icon": "rocket",
+        "children": []
+      },
+      {
+        "title": "Panduan Fase Usia Anak & Tadarruj Nabawiyah",
+        "slug": "panduan/fase-usia",
+        "icon": "clock",
+        "children": []
+      },
+      {
+        "title": "Panduan Fitrah & Penelusuran Bakat Nabawiyah (TB-40)",
+        "slug": "panduan/fitrah-dan-bakat",
+        "icon": "target",
+        "children": []
+      },
+      {
+        "title": "Panduan Praktik Keluarga & Pengasuhan Rumah Tangga",
+        "slug": "panduan/praktik-keluarga",
+        "icon": "users",
+        "children": []
+      },
+      {
+        "title": "Panduan Lembaga & Guru: Implementasi Karakter Nabawiyah",
+        "slug": "panduan/lembaga-dan-guru",
+        "icon": "academicCap",
+        "children": []
+      },
+      {
+        "title": "Panduan Dalil & Kepustakaan Rujukan Karakter Nabawiyah",
+        "slug": "panduan/dalil-dan-rujukan",
+        "icon": "book-open",
+        "children": []
+      }
+    ]
+  },
   "66c1eb9b-3f44-4d24-87e6-4b55cdac29f8": {
     "collection": {
       "name": "Paradigma",
@@ -11,48 +55,15 @@
         "children": []
       },
       {
-        "title": "Arsitektur PKN",
+        "title": "Arsitektur",
         "icon": "blueprint",
+        "kind": "group",
         "children": [
-          {
-            "title": "00 - Master Arsitektur PKN",
-            "icon": "star",
-            "children": []
-          },
-          {
-            "title": "01 - Komponen & Kurikulum PKN",
-            "icon": "book-open",
-            "children": []
-          },
-          {
-            "title": "02 - Metode & Pendekatan Fisik-Ruh",
-            "icon": "compass",
-            "children": []
-          },
-          {
-            "title": "03 - Peran Pembelajaran & Model",
-            "icon": "academicCap",
-            "children": []
-          },
-          {
-            "title": "04 - Peran Pendidik & Kedisiplinan",
-            "icon": "shield-check",
-            "children": []
-          },
-          {
-            "title": "05 - Jejak Pendidik & Target",
-            "icon": "target",
-            "children": []
-          },
-          {
-            "title": "06 - Implementasi & Rantai Kausalitas",
-            "icon": "git-branch",
-            "children": []
-          },
           {
             "title": "PKN Blueprint: Arsitektur Sistem",
             "icon": "blueprint",
-            "children": []
+            "children": [],
+            "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem"
           }
         ]
       },
@@ -137,32 +148,38 @@
                       {
                         "title": "01. Himmah (Bercita-Cita Tinggi)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/01-himmah"
                       },
                       {
                         "title": "02. Ihsaan (Perfeksionis)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/02-ihsaan"
                       },
                       {
                         "title": "03. 'Izzah (Harga Diri)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/03-izzah"
                       },
                       {
                         "title": "04. Waqaar (Berwibawa)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/04-waqaar"
                       },
                       {
                         "title": "05. 'Aziimah (Bertekad Kuat)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/05-aziimah"
                       },
                       {
                         "title": "06. Nasyaath (Bersemangat)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/06-nasyaath"
                       }
                     ]
                   },
@@ -173,27 +190,32 @@
                       {
                         "title": "07. Firaasah (Berfirasat)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/07-firaasah"
                       },
                       {
                         "title": "08. Nubl (Cerdik)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/08-nubl"
                       },
                       {
                         "title": "09. Husnuzhan (Berprasangka Baik)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/09-husnuzhan"
                       },
                       {
                         "title": "10. Dzakaa' (Cerdas)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/10-dzakaa"
                       },
                       {
                         "title": "11. Hikmah (Ahli Hikmah)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/11-hikmah"
                       }
                     ]
                   },
@@ -204,32 +226,38 @@
                       {
                         "title": "12. Shidq (Jujur)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/12-shidq"
                       },
                       {
                         "title": "13. 'Iffah (Menjaga Diri)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/13-iffah"
                       },
                       {
                         "title": "14. Shamt (Pendiam)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/14-shamt"
                       },
                       {
                         "title": "15. Hayaa' (Pemalu)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/15-hayaa"
                       },
                       {
                         "title": "16. Qanaa'ah (Sederhana)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/16-qanaaah"
                       },
                       {
                         "title": "17. Shabr (Penyabar)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/17-shabr"
                       }
                     ]
                   },
@@ -240,37 +268,44 @@
                       {
                         "title": "18. Syajaa'ah (Pemberani)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/18-syajaaah"
                       },
                       {
                         "title": "19. Ghairah (Pencemburu)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/19-ghairah"
                       },
                       {
                         "title": "20. Munaafasah (Kompetitif)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/20-munaafasah"
                       },
                       {
                         "title": "21. Nashiihah (Penasehat)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/21-nashiihah"
                       },
                       {
                         "title": "22. Fashaahah (Komunikatif)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/22-fashaahah"
                       },
                       {
                         "title": "23. Nushrah (Menolong)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/23-nushrah"
                       },
                       {
                         "title": "24. Juud (Dermawan)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/24-juud"
                       }
                     ]
                   },
@@ -281,42 +316,50 @@
                       {
                         "title": "25. Ta'aawun (Bekerjasama)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/25-taaawun"
                       },
                       {
                         "title": "26. Ulfah (Bersatu)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/26-ulfah"
                       },
                       {
                         "title": "27. 'Adaalah (Adil)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/27-adaalah"
                       },
                       {
                         "title": "28. Wafaa' (Menepati Janji)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/28-wafaa"
                       },
                       {
                         "title": "29. Muzaah (Humoris)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/29-muzaah"
                       },
                       {
                         "title": "30. Basyaasyah (Berseri-Seri)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/30-basyaasyah"
                       },
                       {
                         "title": "31. Rifq (Lemah Lembut)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/31-rifq"
                       },
                       {
                         "title": "32. Rahmah (Berbelas Kasih)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/32-rahmah"
                       }
                     ]
                   },
@@ -327,42 +370,50 @@
                       {
                         "title": "33. Mahabbah (Penuh Cinta)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/33-mahabbah"
                       },
                       {
                         "title": "34. Itsaar (Melayani)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/34-itsaar"
                       },
                       {
                         "title": "35. Kitmaanus Sirr (Penjaga Rahasia)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/35-kitmaanus-sirr"
                       },
                       {
                         "title": "36. Satr (Menutup Aib)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/36-satr"
                       },
                       {
                         "title": "37. Amaanah (Bertanggung Jawab)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/37-amaanah"
                       },
                       {
                         "title": "38. Anaah (Tidak Tergesa)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/38-anaah"
                       },
                       {
                         "title": "39. Hilm (Santun)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/39-hilm"
                       },
                       {
                         "title": "40. Tawaadhu' (Rendah Hati)",
                         "icon": "star",
-                        "children": []
+                        "children": [],
+                        "slug": "paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/tb40/40-tawaadhu"
                       }
                     ]
                   }

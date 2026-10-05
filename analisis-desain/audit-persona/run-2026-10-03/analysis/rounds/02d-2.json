@@ -1,0 +1,30 @@
+{
+  "persona": "02d",
+  "round": 2,
+  "questions": [
+    {
+      "question": "Adakah peta kemandirian fase Syabab?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Halaman Syabab mencantumkan kesiapan ruhiyah, finansial, dan kerumahtanggaan serta proyek/magang.",
+      "suitability": 4,
+      "completeness": 2,
+      "reason": "Peta bertambah; perlu batas keselamatan kerja, usia hukum dan diferensiasi kemampuan.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/perkembangan/syabab",
+          "quote": "Tiga Pilar Kemandirian Pemuda Mukallaf PKN"
+        }
+      ]
+    }
+  ],
+  "followups": [],
+  "learned": [
+    "Syabab diberi peta kemandirian, tetapi asesmen tidak boleh menjadi vonis masa depan."
+  ],
+  "recommendations": [
+    "Tambahkan portofolio kesiapan individual dan keselamatan kerja sesuai usia."
+  ]
+}

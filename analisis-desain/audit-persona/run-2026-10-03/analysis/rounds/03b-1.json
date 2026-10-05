@@ -1,0 +1,79 @@
+{
+  "persona": "03b",
+  "round": 1,
+  "questions": [
+    {
+      "question": "Apa tujuan pendidikan?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Peran pribadi dihubungkan dengan ibadah dan manfaat sosial.",
+      "suitability": 4,
+      "completeness": 3,
+      "reason": "Belum silabus komunitas.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/tujuan-hidup-manusia",
+          "quote": "Peran tersebut bermanfaat bagi keluarga dan orang lain di sekitarnya"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana membuat portofolio?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Panduan rapor menggabungkan observasi, bakat, kesehatan dan catatan masa depan.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Struktur ada; belum contoh portofolio terisi.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/bakat/panduan-asesmen-dan-observasi-tb40",
+          "quote": "Matriks Integrasi Hasil Asesmen ke dalam Rapor Karakter Santri"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana melibatkan orang tua?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Blueprint meminta kehadiran orang tua untuk interaksi berkualitas.",
+      "suitability": 3,
+      "completeness": 1,
+      "reason": "Belum kontrak kemitraan atau mekanisme dukungan keluarga.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/pkn-blueprint-arsitektur-sistem",
+          "quote": "interaksi berkualitas tanpa distraksi gadget"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana memfasilitasi potensi dengan sumber daya terbatas?",
+      "criteria": [
+        "Menjawab tugas persona secara spesifik",
+        "Menunjukkan langkah dan batas penerapan dengan bukti"
+      ],
+      "answer": "Alat sederhana di sekitar dapat menjadi sarana belajar.",
+      "suitability": 3,
+      "completeness": 2,
+      "reason": "Belum alokasi anggaran atau rasio pendamping.",
+      "citations": [
+        {
+          "url": "https://wikipkn.insanmustaqbal.or.id/paradigma---implementasi-pkn/dokumen-pendidikan-karakter-nabawiyah/paradigma--and--implementasi/insan/fitrah-(karakter)/belajar",
+          "quote": "kardus bekas, plastisin, kuas cat, atau kebun mini."
+        }
+      ]
+    }
+  ],
+  "followups": [
+    "Adakah kontrak kemitraan dan program tahunan?"
+  ],
+  "learned": [],
+  "recommendations": []
+}

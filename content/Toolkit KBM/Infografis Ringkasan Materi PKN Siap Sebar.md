@@ -576,6 +576,88 @@ _Salam takzim dan terima kasih atas kebersamaan dalam 10 hari serial ini. Dari k
 
 ---
 
+## 3. Modul Kolaborasi Sekolah–Rumah
+
+> [!WARNING] Draf editorial — menunggu telaah guru dan wali
+> Modul tambahan ini merupakan saran praktis penyunting, **belum disetujui untuk pelaksanaan**. Ini bukan arahan resmi Ustadz Abdul Kholiq, fatwa, atau kebijakan sekolah. Guru dan wali perlu menelaah kesesuaian kegiatan, persetujuan, serta pengelolaan catatan sebelum menggunakannya. Label otoritas halaman tidak menjadi persetujuan atas tambahan ini.
+
+### 3.1 Tujuan, Peran, dan Rujukan Lokal
+
+Tujuannya ialah menyepakati satu kegiatan sederhana, mendengar pengalaman anak di dua lingkungan, lalu memilih dukungan berikutnya. Hubungan konsep dengan praktik berasal dari **Kartu 05** (kerja sama dan kesinambungan), **Kartu 04** (mendengarkan sebelum mengoreksi), **Kartu 08** (kegiatan nyata), dan **Kartu 10** (keselarasan lingkungan) di halaman ini. Susunan pembuka–kegiatan–refleksi mengadaptasi [[Template RPP Karakter Nabawiyah 1 Lembar#2. Format Blanko RPP 1 Lembar Siap Cetak (A4)|format RPP]], bukan menetapkan durasi atau target perkembangan baru.
+
+| Pihak | Peran dalam kesepakatan praktis |
+|---|---|
+| Guru penghubung | Menjelaskan kegiatan sekolah, menyediakan pilihan yang mudah, membaca balasan wali secara pribadi, dan merangkum tindak lanjut. |
+| Wali/pengasuh yang disepakati keluarga | Memilih waktu dan kegiatan yang memungkinkan di rumah, menyampaikan fakta seperlunya, serta memberi masukan tentang beban kegiatan. Tidak perlu melaporkan urusan pribadi keluarga. |
+| Anak | Memilih peran yang nyaman, bercerita atau menggambar bila bersedia, meminta bantuan, dan boleh tidak membagikan refleksi pribadi. |
+| Pengelola sekolah | Menetapkan penghubung, kanal privat, akses catatan, masa simpan, dan prosedur koreksi/penghapusan yang dijelaskan kepada wali sebelum pencatatan. |
+
+### 3.2 Persetujuan dan Privasi
+
+- Jelaskan tujuan, penerima, jenis catatan, kanal, dan masa simpan; mintalah persetujuan wali atas pencatatan serta dengarkan kesediaan anak. Persetujuan kegiatan, pertukaran catatan, dan penggunaan foto adalah pilihan terpisah.
+- Sediakan alternatif lisan, kertas tertutup, atau kegiatan sekolah saja bila keluarga tidak memakai WhatsApp atau tidak bersedia berbagi catatan rumah. Tidak mengirim balasan bukan bukti anak atau wali tidak peduli.
+- WAG hanya untuk pengumuman umum dan kartu konsep. Jangan kirim nama anak beserta penilaian, jurnal ibadah, foto, tangkapan layar percakapan, atau cerita keluarga ke grup. Gunakan kanal privat yang disepakati; jangan meneruskan catatan tanpa izin.
+- Catat tindakan yang terlihat dan bantuan yang diberikan, bukan dugaan niat, kondisi kesehatan, konflik keluarga, atau label anak. Jangan unggah catatan anak ke alat AI. Himpunan kelas cukup berupa kebutuhan dukungan tanpa identitas.
+- Sepakati siapa yang boleh membaca, tempat penyimpanan, kapan catatan dihapus, dan cara wali/anak meminta koreksi atau menghentikan berbagi. Simpan hanya yang diperlukan untuk tindak lanjut.
+
+### 3.3 Ritme Komunikasi dan Tindak Lanjut
+
+Jadwal berikut adalah usulan yang bisa diringankan bersama, bukan kewajiban baru. Kalender sepuluh kartu pada bagian 1 tetap berfungsi sebagai edukasi umum; balasan pribadi tidak harus dikumpulkan setiap hari.
+
+| Waktu | Pertukaran dua arah | Keputusan berikutnya |
+|---|---|---|
+| Sebelum pekan dimulai | Guru menawarkan tema dan contoh; wali menyampaikan pilihan kanal, waktu, dan penyesuaian; anak memilih peran. | Sepakati satu aksi rumah dan satu aksi sekolah yang saling terkait. |
+| Tengah pekan | Guru atau wali menyampaikan satu kejadian bila ada, termasuk dukungan yang dibutuhkan. | Pertahankan, sederhanakan, ganti bahan, atau jeda kegiatan. |
+| Akhir pekan | Guru dan wali saling memberi ringkasan singkat; anak boleh menanggapi. | Tentukan satu dukungan berikut, penanggung jawab, dan waktu meninjau ulang. |
+| Setelah empat pekan | Tinjau pengalaman dan beban komunikasi bersama. | Lanjutkan kegiatan yang sesuai, ubah, atau hentikan; tidak membuat peringkat keluarga. |
+
+Jika balasan belum datang, guru menawarkan waktu atau kanal lain secara pribadi tanpa menagih di grup. Jika pengamatan rumah dan sekolah berbeda, tuliskan kedua konteks tanpa menentukan siapa yang salah. Bila kegiatan terasa berat, kurangi lingkup atau jeda. Pertanyaan agama diteruskan kepada guru/rujukan yang berwenang; modul ini tidak menetapkan jawaban syariah.
+
+### 3.4 Lembar Komunikasi Dua Arah (Salin atau Cetak)
+
+```text
+DRAF EDITORIAL — MENUNGGU TELAAH GURU/WALI, BUKAN FORMULIR YANG TELAH DISETUJUI
+Periode / tema:
+Kode anak untuk catatan privat / guru penghubung / wali penghubung:
+Kanal privat dan waktu balasan yang disepakati:
+Persetujuan pencatatan dan berbagi: [bersedia / tidak / perlu dibicarakan]
+Kesediaan anak dan bagian yang tidak ingin dibagikan:
+Pembaca catatan / tempat simpan / waktu hapus / cara meminta koreksi:
+
+DARI SEKOLAH
+Kegiatan yang ditawarkan dan bahan:
+Kejadian yang benar-benar terlihat (waktu, konteks, tindakan/ucapan):
+Bantuan yang sudah diberikan:
+Pilihan aksi rumah, termasuk alternatif tanpa bahan tambahan:
+Pertanyaan terbuka kepada wali:
+
+DARI RUMAH
+Pilihan aksi dan penyesuaian yang memungkinkan:
+Kejadian yang bersedia dibagikan (boleh kosong):
+Bantuan yang diberikan / kendala kegiatan tanpa rincian pribadi:
+Pertanyaan atau masukan kepada guru:
+
+SUARA ANAK (opsional: kata-kata anak, gambar, atau tidak ingin menjawab):
+KESIMPULAN BERSAMA
+Hal yang belum diketahui / perbedaan konteks:
+Langkah berikut: [lanjut / ubah / jeda] dengan uraian:
+Dukungan oleh siapa / kapan ditinjau kembali:
+Tanggapan guru atas masukan wali / tanggapan wali atas usulan guru:
+```
+
+### 3.5 Contoh Sintetis: Merapikan Alat Belajar
+
+**Ilustrasi rekaan, bukan laporan anak atau bukti hasil program.** Tema yang dipilih adalah amanah merawat alat belajar; kaitannya adalah Karakter Belajar butir 9 pada [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#3.2 Bagian II: Karakter Belajar (9 Butir Indikator)|rubrik yang sudah ada]].
+
+- **Sekolah:** Guru menawarkan kegiatan mengembalikan pensil ke wadah setelah menggambar. Catatan privat: “Setelah guru menunjukkan wadah, anak memasukkan pensil lalu bertanya tempat menyimpan penghapus.” Pertanyaan kepada wali: “Adakah tempat yang mudah dijangkau untuk alat gambar di rumah?”
+- **Rumah:** Wali memilih kotak bekas, bukan membeli perlengkapan. Balasan: “Anak memilih letak kotak. Setelah menggambar, ia meminta ditemani mengumpulkan krayon.”
+- **Suara anak, jika bersedia:** “Aku mau kotaknya dekat kertas.”
+- **Tindak lanjut:** Guru dan wali sepakat menyediakan wadah yang jelas dan menemani saat penutupan kegiatan. Pekan berikutnya ditinjau apakah tempatnya mudah digunakan dan bantuan apa yang masih diperlukan. Tidak ditetapkan jenjang kematangan dari satu kejadian.
+
+Untuk rangkaian kegiatan, gunakan [[Formulir Desain Proyek Pembelajaran Alamiah#5. Program Tantangan Karakter Empat Pekan|tantangan empat pekan]]; untuk catatan pribadi gunakan [[Instrumen Observasi Pertumbuhan Karakter 19 Butir#7. Jurnal Naratif Harian dan Pekanan|jurnal naratif]].
+
+---
+
 <!-- ========================================================================== -->
 <!-- ZONA 4: TAKHRIJ DALIL, CROSS-LINKS & HORIZONTAL NAVBOX                     -->
 <!-- ========================================================================== -->

@@ -125,6 +125,9 @@ Panduan praktis perancangan RPP berbasis karakter nabawiyah dan lembar observasi
 ### 🚀 5. [[Program dan Kegiatan Pendidikan Karakter Nabawiyah]]
 Katalog komprehensif program kaderisasi, standarisasi lembaga, dan kegiatan resmi Manhaj PKN: **Akademi Guru (AKG)** di 17 batch, **Panduan Implementasi Standar (PIS)**, **Temu Diskusi Lembaga (TDK)**, **Talent Camp (TC)** pemuda, **Workshop Sekolah Tanpa OB**, dan **Inspirasi Agribisnis Santri**.
 
+### ⚖️ 6. [[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]
+Panduan manajemen strategis menyaring dan memprioritaskan program kerja sekolah/pesantren berbasis *Dharuriyyat*, *Hajiyyat*, dan *Tahsiniyyat* untuk membebaskan pendidik dari *institutional burnout* dan penyakit "banyak program minim jiwa".
+
 ---
 
 ## 3. Checklist Audit Implementasi untuk Lembaga & Keluarga
