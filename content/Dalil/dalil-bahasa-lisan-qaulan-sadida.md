@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Ahzab: 70–71"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا ۝ يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا ۝ يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
+> </div>
+>
+> [[dalil-bahasa-lisan-qaulan-sadida|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah dan ucapkanlah perkataan yang benar, niscaya Allah akan memperbaiki amal-amalmu dan mengampuni dosa-dosamu. Dan barangsiapa menaati Allah dan Rasul-Nya, maka sungguh, dia menang dengan kemenangan yang agung."*  
 > 
 > *(Rujukan: QS. Al-Ahzab: 70–71)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 6 Hal. 486) menerangkan bahwa *qaulan sadida* adalah perkataan yang lurus, jujur, tepat sasaran tanpa manipulasi, dan tidak menyimpang dari kebenaran. Allah menjanjikan bahwa barangsiapa yang meluruskan lisannya dalam kejujuran, niscaya Allah akan membalasnya dengan memperbaiki seluruh amal perbuatannya (*yushlih lakum a'malakum*) dan mengampuni dosa-dosa masa lalunya. Lisan adalah cermin kalbu; lurusnya lisan adalah tanda lurusnya iman.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Perkataan sadid dipahami sebagai benar dan sesuai tempatnya. Dalam PKN, latihan jujur sekaligus memperhatikan konteks bicara merupakan analisis kontributor berdasarkan penjelasan berikut.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> أي إن يكون هذا القول في نفسه هو خير، لكن كونه يقال في هذا المكان ليس بخير، لان لكل مقام مقالا
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 1 ص 516; OpenBayan lokal, chunk `55303`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> (وقال تعالى) : ﴿يا أيها الذين آمنوا اتقوا الله وقولوا قولاً سديدا﴾ صواباً
+> </div>
+>
+> **Sumber:** دليل الفالحين لطرق رياض الصالحين, ابن علان, ج 1 ص 253; OpenBayan lokal, chunk `53267`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 - **Pilar Bahasa Lisan PKN:** Komunikasi verbal orang tua kepada anak harus berbasis kejujuran, kejelasan makna, dan ketepatan solusi, bukan kata-kata manipulatif atau janji palsu.
 - **Hukum Kausalitas Amal:** Memperbaiki cara berbicara di dalam rumah tangga akan secara otomatis memperbaiki keharmonisan tingkah laku seluruh anggota keluarga.
 - **Pemberantasan Budaya Bohong:** Kejujuran lisan adalah benteng integritas moral anak mukmin.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Jangan pernah membohongi anak meskipun untuk menenangkannya saat menangis; tepati setiap janji yang diucapkan.
 2. **Bagi Guru:** Berikan umpan balik evaluasi belajar murid secara jujur, objektif, dan membangun tanpa basa-basi palsu.
 3. **Bagi Evaluasi Santri:** Pantau kejujuran santri saat ditanya mengenai kronologi suatu insiden perselisihan di sekolah.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `55303`, `53267`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

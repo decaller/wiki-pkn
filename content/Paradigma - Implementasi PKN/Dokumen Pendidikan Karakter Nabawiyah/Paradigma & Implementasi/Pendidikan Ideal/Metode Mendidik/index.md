@@ -140,11 +140,13 @@ Para ulama salaf dan khalaf telah merumuskan kaidah emas dalam metode mendidik I
 
 ### 1. Imam Ibnu Qayyim Al-Jauziyyah (Wafat 751 H)
 Dalam kitab monumentalnya *Tuhfatul Maudud bi Ahkamil Maulud* (Hal. 229), beliau menegaskan bahaya kesalahan metode dan kelalaian orang tua:
+> [!quote] Kutipan ulama — bukan ayat atau hadits
 > « وَكَمْ مِمَّنْ أَشْقَى وَلَدَهُ وَفِلْذَةَ كَبِدِهِ فِي الدُّنْيَا وَالْآخِرَةِ بِإِهْمَالِهِ وَتَرْكِ تَأْدِيبِهِ، وَإِعَانَتِهِ لَهُ عَلَى شَهَوَاتِهِ، وَيَزْعُمُ أَنَّهُ يُكْرِمُهُ وَقَدْ أَهَانَهُ، وَأَنَّهُ يَرْحَمُهُ وَقَدْ ظَلَمَهُ، فَفَاتَهُ انْتِفَاعُهُ بِوَلَدِهِ، وَفَوَّتَ عَلَيْهِ حَظَّهُ فِي الدُّنْيَا وَالْآخِرَةِ. وَإِذَا اعْتَبَرْتَ الْفَسَادَ فِي الْأَوْلَادِ رَأَيْتَ عَامَّتَهُ مِنْ قِبَلِ الْآبَاءِ! »  
 > *"Betapa banyak orang yang mencelakakan anaknya—belahan jantungnya sendiri—di dunia dan akhirat karena kelalaiannya, tidak mendidiknya (*tarku ta'dibihi*), serta menuruti hawa nafsunya. Ia menyangka sedang memuliakan anaknya padahal ia sedang menghinakannya; ia mengira sedang menyayanginya padahal ia sedang menzaliminya!... Dan apabila engkau perhatikan kerusakan pada anak-anak, niscaya engkau akan mendapati mayoritasnya bersumber dari kelalaian para ayah!"*
 
 ### 2. Imam Al-Ghazali (Wafat 505 H)
 Dalam kitab *Ihya' 'Ulumiddin* (Juz 3 Hal. 72), beliau menguraikan fitrah anak yang plastis dan pentingnya keteladanan visual:
+> [!quote] Kutipan ulama — bukan ayat atau hadits
 > « الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ، فَإِنْ عُوِّدَ الْخَيْرَ وَعُلِّمَهُ نَشَأَ عَلَيْهِ وَسَعِدَ فِي الدُّنْيَا وَالْآخِرَةِ »  
 > *"Anak kecil adalah amanah di sisi kedua orang tuanya. Hatinya yang suci laksana permata berharga yang masih polos, bersih dari segala ukiran dan gambar. Ia siap menerima setiap ukiran yang digoreskan dan cenderung kepada arah ke mana saja ia dipalingkan. Jika ia dibiasakan dengan kebaikan dan diajarkan kebajikan, niscaya ia akan tumbuh di atas kebaikan itu dan bahagia di dunia dan akhirat."*
 

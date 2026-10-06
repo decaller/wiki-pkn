@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 1385 & Muslim No. 2658"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Jana'iz) & Shahih Muslim (Kitab al-Qadar) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-fitrah-kesucian-anak|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Tidak ada seorang anak pun yang terlahir melainkan ia dilahirkan di atas fitrah (kesucian tauhid). Maka kedua orang tuanyalah yang menjadikannya beragama Yahudi, Nasrani, atau Majusi, sebagaimana binatang melahirkan anaknya dalam keadaan utuh sempurna, apakah kalian melihat padanya ada yang terpotong telinganya?"*  
 > 
 > *(Rujukan: HR. Bukhari No. 1385 & Muslim No. 2658)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 207) menjelaskan bahwa fitrah adalah ketetapan awal penciptaan manusia yang lurus (*al-jibillah al-mustaqimah*), yaitu kesiapan alami jiwa untuk menerima tauhid dan tunduk kepada kebenaran. Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 3 Hal. 248) menegaskan bahwa Rasulullah ﷺ menyandarkan pengubahan agama anak kepada peran kedua orang tuanya, sedangkan kelahiran asal disandarkan murni kepada fitrah dari Allah. Anak ibarat benih murni tak bernoda; tugas utama orang tua bukanlah mencetak jiwa dari nol, melainkan merawat dan menjaga benih ilahi tersebut dari kontaminasi racun jahiliyah.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Asal penciptaan dan pengaruh orang tua perlu dibaca dalam konteks iman serta hukum anak; fitrah tidak dipersempit menjadi teori psikologi tunggal.
+
+> [!QUOTE] Kutipan ulama — أعلام الحديث (شرح صحيح البخاري)
+>
+> <div dir="rtl">
+> أصل الفطرة في اللغة: ابتداء الخلقة
+> </div>
+>
+> **Sumber:** الخطابي, *أعلام الحديث (شرح صحيح البخاري)*, ج 1 ص 713; chunk `35737`.
+
+> [!QUOTE] Kutipan ulama — شرح صحيح البخاري - الأصبهاني
+>
+> <div dir="rtl">
+> فَيَحْمِلَاهُ عَلَى اعْتِقَادِ دِينِ اليَهُودِ وَالنَّصَارَى، وَيُعلِّمَاهُ اليَهُودِيَّةَ وَالنَّصْرَانِيَّةَ
+> </div>
+>
+> **Sumber:** إسماعيل التيمي الأصبهاني, *شرح صحيح البخاري - الأصبهاني*, ج 1 ص 181; chunk `22089`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 - **Pilar Fitrah Bawaan:** Menolak teori *tabula rasa* (kertas kosong) Barat. Anak lahir bukan bejana kosong tak bernilai, melainkan membawa potensi tauhid yang sudah aktif.
 - **Kaidah Pengasuhan:** Tugas orang tua adalah fasilitasi (*ri'ayah*) dan penjagaan (*hifzh*), bukan pemaksaan kehendak kognitif yang mematahkan fitrah.
 - **Tanggung Jawab Orang Tua:** Orang tua menjadi cermin pertama; deviasi spiritual anak mencerminkan kekeruhan teladan dan polusi lingkungan rumah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Bangun lingkungan rumah yang sarat nuansa tauhid dan zikir sejak hari pertama kelahiran agar fitrah anak terlindungi dari polusi batin.
 2. **Bagi Guru:** Kenali bahwa setiap murid pada dasarnya condong kepada kebaikan; jika ada perilaku menyimpang, cari akar pencemaran lingkungannya tanpa melabeli anak jahat.
 3. **Bagi Evaluasi Santri:** Pantau keaslian respon moral anak sebelum terpengaruh tekanan sosial teman sebaya.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 35737, 22089. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

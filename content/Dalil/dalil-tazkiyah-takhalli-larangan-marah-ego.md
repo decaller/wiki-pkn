@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 6116"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Adab) & Jami'ul 'Ulum wal Hikam Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: أَوْصِنِي، قَالَ: لَا تَغْضَبْ. فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ
-</div>
+> [!QUOTE] Hadits Nabi
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ ﷺ: أَوْصِنِي، قَالَ: لَا تَغْضَبْ. فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ
+> </div>
+>
+> [[dalil-tazkiyah-takhalli-larangan-marah-ego|Rujukan Hadits Nabi]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Bahwa seorang laki-laki berkata kepada Nabi ﷺ: 'Berwasiatlah kepadaku!' Beliau bersabda: 'Janganlah engkau marah!' Lelaki itu mengulang permintaannya beberapa kali, dan Nabi tetap bersabda: 'Janganlah engkau marah!'"*  
 > 
 > *(Rujukan: HR. Bukhari No. 6116)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 10 Hal. 520) dan Ibnu Rajab Al-Hanbali menerangkan makna sabda Nabi yang diulang-ulang ini: amarah (*al-ghadhab*) menghimpun seluruh pangkal keburukan akhlak, dan menahan amarah menghimpun seluruh pintu kebaikan. Makna *la taghdhab* mencakup dua hal: pertama, kendalikan dirimu saat pemicu marah datang sehingga kamu tidak meluapkannya dalam perkataan keji atau pukulan kasar; kedua, tempuhlah sebab-sebab yang menjauhkan amarah seperti tawadhu', pemaaf, dan berwudhu. Pendidik yang mendidik anak dalam kondisi marah hakikatnya sedang melayani egonya sendiri, bukan mendidik karena Allah.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Larangan marah diarahkan pada pengendalian perilaku saat emosi muncul, bukan meniadakan seluruh rasa marah manusia.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> لأن الغضب ينتج عنه أحياناً مفاسد عظيمة؛ ربما سب الإنسان نفسه، أو سب دينه، أو سب ربه، أو طلق زوجته، أو كسر إناءه، أو أحرق ثيابه، وكثيرٌ من الوقائع تصدر من بعض الناس إذا غضبوا، كأنما صدرت من المجنون.
+>
+> **Sumber:** *شرح رياض الصالحين لابن عثيمين*, ابن عثيمين; ج 3 ص 610 (OpenBayan SQLite, chunk `56598`).
+> [[dalil-tazkiyah-takhalli-larangan-marah-ego|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> والغضب: جماع الشر، والتحرز منه جماع الخير
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 49 (OpenBayan SQLite, chunk `57662`).
+> [[dalil-tazkiyah-takhalli-larangan-marah-ego|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Rukun Takhalli Pendidik (Membuang Ego Ghadhab):** Membentak anak saat melakukan kesalahan biasanya bersumber dari ego orang tua yang merasa tidak dihargai; ini adalah racun batin yang merusak anak.
 - **Koneksi Sebelum Koreksi:** Berhenti bicara tatkala emosi mendidih; diam, ambil wudhu, duduk atau berbaring sebelum berbicara kepada ananda.
 - **Pembeda Tegas:** Marah karena membela kehormatan syariat Allah (*ghadhab lillah*) sangat berbeda dengan marah karena tersinggungnya gengsi orang tua (*ghadhab lin-nafs*).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Terapkan kaidah 'Aturan 10 Detik': tarik nafas dalam-dalam dan beristighfar 3 kali sebelum merespon tumpahnya air oleh anak.
 2. **Bagi Guru:** Jangan pernah menjatuhkan sanksi di kelas saat nafas masih memburu karena emosi kesal.
 3. **Bagi Evaluasi Santri:** Pantau reaksi santri saat diejek temannya; apakah ia mampu menahan diri atau langsung membalas memukul?
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `56598`, `57662`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

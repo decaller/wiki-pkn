@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Mulk: 2"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
-</div>
+> [!QUOTE] Nas QS. Al-Mulk: 2
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
+> </div>
+>
+> [[dalil-orientasi-amal-terbaik-ahsanu-amala|Rujukan QS. Al-Mulk: 2]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Yang menciptakan mati dan hidup, untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dan Dia Maha Perkasa lagi Maha Pengampun."*  
 > 
 > *(Rujukan: QS. Al-Mulk: 2)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Fudhail bin 'Iyadh rahimahullah ketika menafsirkan firman Allah *li-yabluwakum ayyukum ahsanu 'amala* berkata: 'Amal terbaik adalah yang paling ikhlas (*akhlasuhu*) dan paling benar (*ashwabuhu*). Jika amal itu ikhlas namun tidak benar, ia tidak diterima. Dan jika benar namun tidak ikhlas, ia juga tidak diterima, hingga amal itu ikhlas semata-mata karena Allah dan benar di atas Sunnah Rasulullah ﷺ' (Dinukil oleh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* Juz 8 Hal. 176).
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Hidup merupakan ujian amal; kualitas dan orientasi amal tidak boleh direduksi menjadi jumlah kegiatan. Atribusi lama ucapan Fudhail beserta halaman yang belum terlacak dihapus, sementara dua syarah berikut memberi konteks ujian dan amal.
+
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> يعني: الله تعالى جعل في هذه الدنيا زينة؛ ليبلو الناس أيهم أحسن عملاً
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح تفسير ابن كثير - الراجحي*, ج 52 ص 7; OpenBayan lokal, chunk `67321`.
+> [[dalil-orientasi-amal-terbaik-ahsanu-amala|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح كتاب التوحيد من صحيح البخاري - الغنيمان
+>
+> <div dir="rtl">
+> فأخبر أن العمل من الحياة، ثم بين خلقه
+> </div>
+>
+> **Sumber:** عبد الله بن محمد الغنيمان, *شرح كتاب التوحيد من صحيح البخاري - الغنيمان*, ج 2 ص 525; OpenBayan lokal, chunk `26129`.
+> [[dalil-orientasi-amal-terbaik-ahsanu-amala|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 - **Standar Mutu Amal (Itqan):** PKN mendidik santri mengejar standar mutu tertinggi dalam beramal, bukan sekadar menggugurkan kewajiban.
 - **Keseimbangan Ikhlas & Sunnah:** Karakter tangguh lahir dari paduan ketulusan niat batin dan ketepatan metode lahiriah.
 - **Kritik Edukasi Pragmatis:** Menolak perlombaan nilai ujian semu yang mengorbankan kejujuran nurani santri.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Hargai jerih payah proses dan kejujuran anak daripada menuntut angka nilai sempurna di rapor sekolah.
 2. **Bagi Guru:** Tanamkan prinsip *itqan* (tuntas dan rapi) dalam setiap pengerjaan karya belajar santri.
 3. **Bagi Evaluasi Santri:** Latih santri melakukan self-assessment terhadap kualitas amal ibadah dan adab hariannya.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `67321`, `26129`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

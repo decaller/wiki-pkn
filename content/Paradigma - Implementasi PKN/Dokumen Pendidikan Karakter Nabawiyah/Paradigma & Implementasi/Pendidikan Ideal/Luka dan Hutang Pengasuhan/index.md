@@ -68,6 +68,7 @@ title: "Luka dan Hutang Pengasuhan"
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
+> **Dalil:** [[Dalil/dalil-dosa-menelantarkan-nafkah-dan-asuhan]]
 > « كَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَيِّعَ مَنْ يَقُوتُ »
 >
 > *"Cukuplah seseorang dikatakan berdosa besar jika ia menelantarkan dan menyia-nyiakan orang-orang yang berada di bawah tanggung jawab nafkah dan pengasuhannya."*

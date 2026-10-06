@@ -101,7 +101,10 @@ Padahal Al-Qur’an mengabadikan sebuah pelajaran pendidikan yang begitu indah m
 
 Allah Ta’ala berfirman:
 
-«فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا
+> [!QURAN] Nas Al-Qur’an
+> فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا
+>
+> Penjelasan dan rujukan: [[dalil-penerimaan-sebelum-pertumbuhan-maryam]].
 
 “Maka Tuhannya menerimanya dengan penerimaan yang baik dan menumbuhkannya dengan pertumbuhan yang baik.”(QS. Ali ‘Imran: 37)»
 

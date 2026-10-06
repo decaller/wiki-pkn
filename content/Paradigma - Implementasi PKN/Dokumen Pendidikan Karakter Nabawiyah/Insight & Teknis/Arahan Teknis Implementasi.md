@@ -79,6 +79,7 @@ Dokumen ini memuat prosedur standar operasional (SOP), checklist harian, instrum
 > 
 > *"Apabila telah ditunaikan shalat, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung."*  
 > — **QS. Al-Jumu'ah: 10**
+> **Tafsir ayat:** [[dalil-qs-62-10]].
 > 
 > 💡 **Relevansi PKN:** Keseimbangan antara ibadah ritual spiritual dengan keteraturan aksi teknis di lapangan menjadi kunci keberhasilan mencetak generasi produktif yang diridhai Allah SWT.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D8%A5%D9%90%D8%B0%D9%8E%D8%A7%20%D9%82%D9%8F%D8%B6%D9%90%D9%8A%D9%8E%D8%AA%D9%90%20%D8%A7%D9%84%D8%B5%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D8%A9%D9%8F%20%D9%81%D9%8E%D8%A7%D9%86%D8%AA%D9%8E%D8%B4%D9%90%D8%B1%D9%8F%D9%88%D8%A7%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D9%92%D8%A3%D9%8E%D8%B1%D9%92%D8%B6%D9%90%20%D9%88%D9%8E%D8%A7%D8%A8%D9%92%D8%AA%D9%8E%D8%BA%D9%8F%D9%88%D8%A7%20%D9%85%D9%90%D9%86%20%D9%81%D9%8E%D8%B6%D9%92%D9%84%D9%90&lang=id)

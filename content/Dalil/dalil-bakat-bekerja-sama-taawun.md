@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Ma'idah: 2"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+> </div>
+>
+> [[dalil-bakat-bekerja-sama-taawun|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan. Bertakwalah kepada Allah, sungguh, Allah sangat berat siksaan-Nya."*  
 > 
 > *(Rujukan: QS. Al-Ma'idah: 2)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 3 Hal. 10) menjelaskan bahwa Allah memerintahkan hamba-hamba-Nya yang beriman untuk saling membantu dalam mengerjakan *al-birr* (seluruh cabang kebajikan dan ketaatan) dan *at-taqwa* (menjauhi segala larangan dan dosa). Sebaliknya, Allah melarang keras persekongkolan jahat (*at-ta'awun 'alal itsmi wal 'udwan*) yaitu saling mendukung dalam kekejian, menzalimi hak orang lain, dan menyulut permusuhan sektarian.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Tolong-menolong diperintahkan pada kebaikan dan takwa, bukan pada pelanggaran. Penerapan kerja kelompok dalam PKN adalah analisis kontributor; dukungan kepada teman harus dibatasi agar tidak menjadi persekongkolan dalam keburukan.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط العلمية
+>
+> <div dir="rtl">
+> يأمر تعالى عباده المؤمنين بالمعاونة على فعل الخيرات وهو البر، وترك المنكرات وهو التقوى وينهاهم عن التناصر على الباطل والتعاون على المآثم والمحارم
+> </div>
+>
+> **Sumber:** تفسير ابن كثير - ط العلمية, ابن كثير, ج 3 ص 10; OpenBayan lokal, chunk `66759`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> والشفاعة في المحرم تعاون على الإثم والعدوان
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 3 ص 30; OpenBayan lokal, chunk `56018`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Sama]]**, yaitu:
 - **Sub-Bakat Bekerja Sama (TB-40):** Mengembangkan kecerdasan interpersonal, empati sosial, kerendahan hati berkolaborasi, dan semangat berjama'ah.
 - **Pemberantasan Mental Individualistik:** Santri dididik bahwa peradaban Islam tidak dibangun oleh pahlawan tunggal yang narsis (*lone wolf*), melainkan oleh barisan shaf jama'ah yang rapi laksana bangunan kokoh (*bunyanun marshush*).
 - **Resolusi Konflik Sehat:** Belajar menyelaraskan perbedaan pendapat demi tercapainya kemaslahatan bersama.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Biasakan seluruh anggota keluarga bahu-membahu dalam membersihkan rumah dan memasak di akhir pekan.
 2. **Bagi Guru:** Rancang tugas belajar berbasis kelompok kooperatif di mana nilai keberhasilan diukur dari kontribusi seluruh anggota tim.
 3. **Bagi Evaluasi Santri:** Pantau kerelaan santri membantu temannya yang sedang kesusahan tanpa mengharapkan imbalan materi.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Sama]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `66759`, `56018`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

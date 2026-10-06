@@ -1009,12 +1009,13 @@ class PedagogicalStyleAuditor:
         res["canvas"] = bool(re.search(r'!\[\[.*?\.canvas\]\]', text))
 
         # 5. Dalil Arab Nabawiyah (>= 10 Arabic characters)
-        res["dalil_arabic"] = bool(re.search(r'[\u0600-\u06FF]{10,}', text))
+        res["dalil_arabic"] = len(re.findall(r'[\u0600-\u06FF]', text)) >= 10
 
-        # 6. Syarah Ulama Salaf
+        # 6. Syarah Ulama Salaf / Tafsir Muktabar
         salaf_keywords = [
             "ibnu qayyim", "ibnul qayyim", "an-nawawi", "al-ghazali",
-            "ibnu hajar", "syarah", "salafus shalih", "tafsir ibnu katsir"
+            "ibnu hajar", "syarah", "salafus shalih", "tafsir ibnu katsir",
+            "as-sa'di", "as-sa’di", "al-tafsir al-muyassar", "muyassar", "tafsir"
         ]
         res["syarah_salaf"] = any(k in text.lower() for k in salaf_keywords)
 

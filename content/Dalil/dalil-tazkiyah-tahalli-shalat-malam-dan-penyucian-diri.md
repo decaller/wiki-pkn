@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Muzzammil: 1–6 & QS. Al-Isra': 79"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا ۝ نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا ۝ أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا ۝ إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا ۝ إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
-</div>
+> [!QUOTE] Ayat Al-Quran
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا ۝ نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا ۝ أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا ۝ إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا ۝ إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+> </div>
+>
+> [[dalil-tazkiyah-tahalli-shalat-malam-dan-penyucian-diri|Rujukan Ayat Al-Quran]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Wahai orang yang berselimut (Muhammad)! Bangunlah (untuk shalat) pada malam hari, kecuali sebagian kecil... Dan bacalah Al-Qur'an itu dengan perlahan-lahan (tartil). Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu. Sesungguhnya bangun di waktu malam adalah lebih tepat (untuk kekhusyukan) dan bacaan di waktu itu lebih berkesan."*  
 > 
 > *(Rujukan: QS. Al-Muzzammil: 1–6 & QS. Al-Isra': 79)*
@@ -103,16 +107,34 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 8 Hal. 250) menjelaskan rahasia mengapa qiyamullail diwajibkan bagi Nabi ﷺ di awal masa kenabian sebelum seluruh kewajiban syariat lainnya diturunkan: memikul beban risalah dan mendidik umat (*qaulan tsaqila*) membutuhkan kekuatan batin membaja yang hanya bisa ditempa dalam keheningan munajat malam hari. Bangun di keheningan malam (*nasyi'atal lail*) menyatukan konsentrasi hati, lisan, dan pendengaran secara utuh (*asyaddu wath'an*), sehingga tetesan air mata tahajjud menjadi bahan bakar kesabaran dakwah di siang hari.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Qiyamullail dan bacaan tartil dapat dijadikan latihan ibadah pendidik; penerapan pada ketahanan pengasuhan adalah analisis kontributor, bukan jaminan hasil tertentu.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> وَقَوْلُهُ ﴿أَشَدُّ وَطْئًا﴾ (¬٧) أَيْ: تُوَاطِيءُ السَّمْعَ وَالبَصَرَ وَالقَلْبَ (¬٨).
+> ﴿وَأَقْوَمُ قِيلًا﴾ (¬٩) أَيْ: أَثْبَتُ لِلْقِرَاءَةِ.
+>
+> **Sumber:** *شرح صحيح البخاري - الأصبهاني*, إسماعيل التيمي الأصبهاني; ج 3 ص 151 (OpenBayan SQLite, chunk `23291`).
+> [[dalil-tazkiyah-tahalli-shalat-malam-dan-penyucian-diri|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> في صلاة الليل فوائد كثيرة، وخصائص في غيرها.
+> منها: أنه وقت السكون، والخشوع، والخضوع، مع ما فيه من البعد عن الرياء.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 663 (OpenBayan SQLite, chunk `58359`).
+> [[dalil-tazkiyah-tahalli-shalat-malam-dan-penyucian-diri|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Generator Spiritualitas Pendidik:** Pendidik yang tidak memiliki rutinitas tahajjud akan mudah kehabisan energi sabar dan mudah meluapkan amarah kepada anak asuh.
 - **Doa Sepertiga Malam untuk Anak:** Titik balik perbaikan akhlak santri yang sulit diatur sering kali terjadi saat orang tua menangis mendoakannya di keheningan malam.
 - **Penyiapan Pemuda Ksatria:** Melatih santri fase Murahaqah dan Syabab untuk mencintai qiyamullail mandiri.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Bangunlah 30 menit sebelum shubuh; sebut nama anak-anak kita satu per satu seraya memohon hidayah bagi mereka.
 2. **Bagi Guru Asrama:** Bangunkan santri dengan kelembutan dan wewangian untuk menghidupkan qiyamullail berjamaah.
 3. **Bagi Evaluasi Santri:** Pantau keistiqamahan shalat malam santri sebagai cermin kemandirian hubungan batinnya dengan Allah.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `23291`, `58359`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

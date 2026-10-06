@@ -165,11 +165,17 @@ Luka hukuman bisa membuat jiwa anak lemah: hati yang diliputi rasa takut dan cem
 
 Ingatlah wahai pendidik! Rasulullah Shallallahu alaihi wassalam bersabda:
 
-مَنْ لَا يَرْحَمْ لَا يُرْحَمْ
+> [!HADITH] Nas Hadits
+> مَنْ لَا يَرْحَمْ لَا يُرْحَمْ
+>
+> Penjelasan dan rujukan: [[dalil-kasih-sayang-mencium-anak]].
 
 “Barang siapa tidak menyayangi, maka ia tidak akan disayangi.”(HR. Bukhari no. 5997, Muslim no. 2318)
 
-لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيُوَقِّرْ كَبِيرَنَا
+> [!HADITH] Nas Hadits
+> لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيُوَقِّرْ كَبِيرَنَا
+>
+> Penjelasan dan rujukan: [[dalil-menghormati-orang-tua-menyayangi-anak-kecil]].
 
 “Tidak termasuk golongan kami siapa yang tidak menyayangi yang kecil di antara kita dan tidak menghormati yang lebih tua di antara kita. (HR. Tirmidzi no. 1919)
 

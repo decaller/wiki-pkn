@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Baqarah: 30"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ
-</div>
+> [!QUOTE] Nas QS. Al-Baqarah: 30
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ
+> </div>
+>
+> [[dalil-mandat-khalifah-memakmurkan-bumi|Rujukan QS. Al-Baqarah: 30]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Ingatlah ketika Tuhanmu berfirman kepada para Malaikat: 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi.' Mereka berkata: 'Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji Engkau dan menyucikan Engkau?' Tuhan berfirman: 'Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui.'"*  
 > 
 > *(Rujukan: QS. Al-Baqarah: 30)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 1 Hal. 216) menjelaskan bahwa maksud kekhalifahan di sini adalah kaum yang saling menggantikan generasi demi generasi untuk menegakkan hukum-hukum Allah, menyebarkan keadilan, dan mengelola bumi sesuai petunjuk wahyu. Allah membantah kekhawatiran malaikat dengan memperlihatkan potensi keunggulan Adam dalam ilmu pengetahuan dan kapasitas moral yang melampaui malaikat.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Pembacaan kekhalifahan mencakup keberadaan manusia di bumi dan tanggung jawab keadilan. Pendidikan kepedulian lingkungan adalah aplikasi kontributor, bukan keseluruhan tafsir ayat.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط أولاد الشيخ
+>
+> <div dir="rtl">
+> ساكنًا وعامرًا يعمرها ويسكنها خلقًا ليس منكم.
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ط أولاد الشيخ*, ج 1 ص 340; OpenBayan lokal, chunk `62462`.
+> [[dalil-mandat-khalifah-memakmurkan-bumi|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> أي: أن إقامة الحدود واجبة، وإنصاف المظلوم من الظالم واجب، وإيصال الحقوق إلى أهلها واجب
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح تفسير ابن كثير - الراجحي*, ج 26 ص 5; OpenBayan lokal, chunk `67135`.
+> [[dalil-mandat-khalifah-memakmurkan-bumi|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 - **Dua Dimensi Insan:** Manusia adalah hamba (*'abdullah*) sekaligus pemimpin peradaban (*khalifatullah fil ardh*).
 - **Kurikulum Visi Peradaban:** Anak dididik bukan hanya untuk shalih secara individual, melainkan muslih (pelopor perbaikan) yang memecahkan masalah ummah.
 - **Tanggung Jawab Ekologis & Sosial:** Memakmurkan bumi melarang segala bentuk perusakan alam, kezaliman sosial, dan eksploitasi hawa nafsu.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tumbuhkan rasa percaya diri anak bahwa ia terlahir membawa misi agung dari Allah untuk memberi manfaat bagi semesta.
 2. **Bagi Guru:** Libatkan santri dalam proyek pemecahan masalah lingkungan sekitar agar naluri kepemimpinan terasah sejak dini.
 3. **Bagi Evaluasi Santri:** Nilai inisiatif sosial dan keberanian moral santri dalam membela kebenaran di lingkungannya.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `62462`, `67135`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

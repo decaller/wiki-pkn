@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Fajr: 27–30"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-jiwa-muthmainnah-ketenangan-tauhid|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Wahai jiwa yang tenang! Kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai-Nya. Maka masuklah ke dalam golongan hamba-hamba-Ku, dan masuklah ke dalam surga-Ku."*  
 > 
 > *(Rujukan: QS. Al-Fajr: 27–30)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 8 Hal. 401) menerangkan bahwa jiwa yang tenang adalah jiwa yang diam tentram di atas kebenaran, yakin kepada janji Allah, tidak digoncang oleh keraguan, dan ridha menerima ketetapan takdir. Ayat ini diserukan kepada orang mukmin tatkala sakaratul maut dan pada hari kiamat, menyambut jiwa yang istiqamah dalam ketaatan.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ketenangan jiwa dikaitkan dengan iman dan ketaatan, bukan sekadar ketenangan emosi atau penilaian pasti atas batin murid.
+
+> [!QUOTE] Kutipan ulama — شرح العقيدة الطحاوية - عبد العزيز الراجحي
+>
+> <div dir="rtl">
+> فإذا قوي الإيمان ارت مطمئنة
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح العقيدة الطحاوية - عبد العزيز الراجحي*, ص 298; chunk `293`.
+
+> [!QUOTE] Kutipan ulama — كوثر المعاني الدراري في كشف خبايا صحيح البخاري
+>
+> <div dir="rtl">
+> فمن رَجَّحَ جانب المطمئنة كان حبه للنبي صلى الله تعالى عليه وسلم راجحًا
+> </div>
+>
+> **Sumber:** محمد الخضر الشنقيطي, *كوثر المعاني الدراري في كشف خبايا صحيح البخاري*, ج 1 ص 505; chunk `32527`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Muthmainnah]]**, yaitu:
 - **Puncak Kepribadian Nabawiyah:** Seluruh ikhtiar pendidikan bermuara pada lahirnya pribadi yang sakinah, tangguh menghadapi badai ujian hidup, dan ridha kepada Allah.
 - **Kesejukan Frekuensi Pendidik:** Pendidik yang memiliki jiwa muthmainnah memancarkan ketenangan (*sakinah*) yang menyerap ke dalam sanubari santri tanpa banyak kata.
 - **Ketahanan Mental (Resilience):** Menghadapi era disrupsi dan kecemasan mental dengan jangkar iman yang kokoh.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Hadirkan ketenangan batin dalam rumah tangga; kepanikan orang tua adalah penular kecemasan terbesar bagi anak.
 2. **Bagi Guru:** Mulai pembelajaran dengan zikir dan doa yang khusyuk agar ketenangan muthmainnah menyelimuti ruang kelas.
 3. **Bagi Evaluasi Santri:** Amati respon santri saat mengalami kegagalan; apakah ia sabar, ridha, dan berprasangka baik kepada Allah?
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Muthmainnah]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 293, 32527. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

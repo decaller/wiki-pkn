@@ -22,36 +22,36 @@ tags:
 > [!note] Catatan Metodologi & Sumber Penyusunan Dokumen
 > Dokumen ini merupakan hasil rangkuman dan rekonstruksi berbantuan kecerdasan buatan (AI) dari berbagai materi presentasi, modul kurikulum, dokumen standar lembaga, dan rekaman kajian **Pendidikan Karakter Nabawiyah (PKN)** yang diampu oleh **Ustadz Abdul Kholiq**.  
 > 
-> Naskah ini telah melalui verifikasi dan pengayaan ulang dalil-dalil Al-Qur'an dan Hadits shahih dari korpus **OpenBayan** (seluruh dataset **Maktabah Syamilah**), serta diperkaya dengan sintesis intisari dan masukan berharga dari kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
+> Dalil ditelusuri melalui korpus **OpenBayan** dan sumber kitab yang dicantumkan pada halaman rujukan. Atribusi, lafaz, dan batas akses sumber dijelaskan per halaman; penelusuran ini bukan pengesahan sanad seluruh riwayat atau persetujuan reviewer syariah. Analisis penerapan PKN dibedakan dari nas dan kutipan ulama. Materi juga memuat sintesis serta masukan kawan-kawan **Himmatul Ummah**, **Insan Taqwa / Mustaqbal**, dan **Tim SOTAB HEBAT**.
 
 Selamat datang di basis pengetahuan digital **Pendidikan Karakter Nabawiyah (PKN)**—sebuah ensiklopedia rujukan komprehensif yang merekonstruksi paradigma, kurikulum, metodologi, dan implementasi pengasuhan generasi Islam berdasarkan sunnah Rasulullah ﷺ, atsar para sahabat, serta pandangan para ulama mu'tabar (*Ibnul Qayyim, Al-Ghazali, Ibnu Sahnun, An-Nawawi, Ibnu Khaldun, Asy-Syathibi*).
 
-> [!quote] Dalil Utama Manhaj PKN: Pentahapan Shalat & Tiga Bahasa Mendidik
-> 
-> ### 🕌 1. Dalil Perintah Shalat: Barometer Fitrah & Pentahapan Usia (Tadarruj)
+> [!quote] Dalil Perintah Shalat: Pentahapan Usia
+> **Halaman dalil dan syarah:** [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Perintah shalat usia tujuh dan sepuluh tahun]].
+>
 > **Naskah Hadits Nabawi:**  
 > « مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ »
 > 
-> *"Perintahkan anak-anak kalian untuk menunaikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik tanpa mencederai) jika meninggalkannya ketika mereka berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*  
-> — **HR. Abu Dawud (No. 495), Ahmad (No. 6689), dan Al-Hakim (1/197); Disahihkan oleh Al-Hakim, Adz-Dzahabi, dan Al-Albani.**
+> **Terjemahan kerja:** *"Perintahkan anak-anak kalian untuk shalat ketika mereka berusia tujuh tahun, dan pukullah mereka karena shalat ketika mereka berusia sepuluh tahun, serta pisahkanlah tempat tidur mereka."*
+> — **HR. Abu Dawud No. 495 dan Ahmad No. 6689.** Pembahasan penilaian riwayat dan batas ta'dib tersedia di halaman dalil.
 > 🔍 **Telusuri Tema: أمر الأولاد بالصلاة (Pendidikan Shalat bagi Anak) ↗**: [https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%85%D8%B1+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%D8%A8%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9&lang=id](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A3%D9%85%D8%B1+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%D8%A8%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9&lang=id)
 > 
-> 💡 **Relevansi & Operasionalisasi PKN:** Shalat diposisikan sebagai **kurikulum utama pembentukan adab dan barometer kematangan jiwa**. Hadits ini meletakkan garis batas metodologis tahapan usia:
+> **Analisis penerapan PKN, bukan bagian terjemahan:** Shalat menjadi latihan adab yang bertahap. Nas ini tidak membenarkan kekerasan, tindakan yang mencederai, atau penghinaan terhadap anak. Pembagian fase berikut merupakan kerangka PKN, bukan seluruhnya bunyi hadits:
 > * **0–7 Tahun (Fase [[Thufulah]]):** Pengisian penuh [[Tangki Cinta]], teladan shalat orang tua secara visual, tanpa paksaan taklif hukum.
 > * **7–10 Tahun (Fase [[Tamyiz]]):** Pembiasaan perintah shalat (*amr*) berulang-ulang (~5.000 kali pengulangan) dengan dialog persuasif [[Bahasa Lisan]], tanpa pukulan fisik.
 > * **10–15 Tahun (Fase [[Murahaqah]]):** Penegakan ketegasan disiplin amal (*ta'dib*) melalui [[Bahasa Tangan]] proporsional dan pemisahan tempat tidur untuk menjaga kesucian fitrah seksualitas menjelang akil-baligh ([[Syabab]]).
-> 
-> ---
-> 
-> ### 🤲 2. Dalil Tiga Bahasa Mendidik: Mengubah Kemungkaran & Membimbing Fitrah
+
+> [!quote] Dalil Mengubah Kemungkaran Sesuai Kemampuan
+> **Halaman dalil dan syarah:** [[Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati|Tingkatan mengubah kemungkaran]].
+>
 > **Naskah Hadits Nabawi:**  
 > « مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ »
 > 
-> *"Barang siapa di antara kalian melihat suatu kemungkaran (penyimpangan/keburukan), maka hendaklah ia mengubahnya dengan tangannya (tindakan nyata/otoritas kekuasaan). Jika ia tidak sanggup, maka dengan lisannya (nasihat bijak/dialog). Dan jika ia tidak sanggup juga, maka dengan hatinya (kebencian batin/empati/doa), dan itulah selemah-lemah iman."*  
+> **Terjemahan kerja:** *"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika tidak mampu, maka dengan lisannya. Jika tidak mampu, maka dengan hatinya; itulah selemah-lemah iman."*
 > — **HR. Muslim (Kitab al-Iman, No. 49).**
 > 🔍 **Telusuri Tema: مراتب تغيير المنكر (Tingkatan Mengubah Kemungkaran) ↗**: [https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D8%B1%D8%A7%D8%AA%D8%A8+%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1&lang=id](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D8%B1%D8%A7%D8%AA%D8%A8+%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1&lang=id)
 > 
-> 💡 **Relevansi & Operasionalisasi PKN:** Menjadi fondasi hierarki **Tiga Bahasa Pengasuhan** ([[Metode Mendidik]]) dalam membimbing anak dan merekonstruksi karakter yang menyimpang:
+> **Analisis penerapan PKN, bukan syarah literal:** Kerangka **Tiga Bahasa Pengasuhan** ([[Metode Mendidik]]) memakai tindakan, dialog, dan perhatian batin sebagai perangkat pendidikan. Empati dan doa berikut merupakan penerapan pengasuhan, bukan terjemahan *mengubah dengan hati*. Hadits ini tidak menganggap setiap kekeliruan anak sebagai kemungkaran, dan tidak memberi kewenangan tanpa batas atau membenarkan tindakan yang menimbulkan bahaya lebih besar:
 > * **[[Bahasa Hati]] (Fondasi Primer):** Pendidik menautkan hati lewat empati batin, doa di keheningan malam, dan kelembutan jiwa. Tanpa kelekatan hati, nasihat lisan akan memicu penolakan dan trauma.
 > * **[[Bahasa Lisan]] (Jalur Dialogis):** Nasihat tepat sasaran (*qaulan sadida*), menyentuh nalar kritis ([[Lawwamah]]), membedah sebab-akibat dengan hikmah, dan menjauhi celaan/labeling negatif.
 > * **[[Bahasa Tangan]] (Ketegasan Otoritatif):** Tindakan nyata membentengi anak, menetapkan [[Batas Toleransi]], menjauhkan dari bahaya pergaulan/gadget ([[Imunitas Sosial]]), dan menegakkan konsekuensi logis secara konsisten tanpa kekerasan melukai.

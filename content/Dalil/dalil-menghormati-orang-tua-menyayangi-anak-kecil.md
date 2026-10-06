@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. At-Tirmidzi No. 1919 & Al-Bukhari dalam Al-Adab Al-Mufrad No. 354"
     authority: 1.0
-    verification: "Shamela 11M / Jami' At-Tirmidzi & Al-Adab Al-Mufrad Imam al-Bukhari Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا، وَيَعْرِفْ شَرَفَ كَبِيرِنَا
-</div>
+> [!QUOTE] Nas HR. At-Tirmidzi No. 1919 & Al-Bukhari dalam Al-Adab Al-Mufrad No. 354
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا، وَيَعْرِفْ شَرَفَ كَبِيرِنَا
+> </div>
+>
+> [[dalil-menghormati-orang-tua-menyayangi-anak-kecil|Rujukan HR. At-Tirmidzi No. 1919 & Al-Bukhari dalam Al-Adab Al-Mufrad No. 354]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Bukanlah termasuk golongan kami orang yang tidak menyayangi yang lebih kecil di antara kami dan tidak mengetahui (mengakui) kemuliaan orang yang lebih tua di antara kami."*  
 > 
 > *(Rujukan: HR. At-Tirmidzi No. 1919 & Al-Bukhari dalam Al-Adab Al-Mufrad No. 354)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Al-Munawi dalam *Faidhul Qadir* (Juz 5 Hal. 386) menjelaskan makna ancaman keras *laisa minna* (bukan golongan kami): perbuatan menindas anak kecil atau merendahkan orang tua adalah penyimpangan fatal dari manhaj dan adab sunnah Rasulullah ﷺ. Sunnah nabawiyah membangun tatanan sosial yang harmonis: yang kuat/tua melindungi dan menyayangi yang lemah/muda, sedangkan yang muda menaruh hormat, takzim, dan sopan santun kepada yang lebih tua.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ancaman dalam hadis ini menuntut kasih kepada anak kecil dan penghormatan kepada yang lebih tua. Rincian tata kelas dan keluarga adalah aplikasi kontributor, bukan kutipan dari ulama.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> فيه: الوعيد لمن لا يرحم الصغير، ولا يُجلّ الكبير، وذوي القدر.
+> </div>
+>
+> **Sumber:** فيصل آل مبارك, *تطريز رياض الصالحين*, ص 244; OpenBayan lokal, chunk `57872`.
+> [[dalil-menghormati-orang-tua-menyayangi-anak-kecil|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> أي من أهل سنتنا وهدينا وطريقتنا
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 3 ص 213; OpenBayan lokal, chunk `53766`.
+> [[dalil-menghormati-orang-tua-menyayangi-anak-kecil|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Adab]]**, yaitu:
 - **Harmonisasi Hierarki Sosial:** Hubungan antar-santri lintas usia (kakak kelas dan adik kelas) harus ditegakkan di atas pilar kasih sayang dan keteladanan, bukan tradisi perpeloncoan (*seniority bullying*).
 - **Pilar Adab Sebelum Ilmu:** Adab kepada orang tua dan guru adalah kunci terbukanya berkah pemahaman ilmu syar'i.
 - **Koneksi Sebelum Koreksi:** Senior mengayomi yunior dengan Bahasa Hati sebelum menegakkan tata tertib.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tanamkan rasa hormat kepada kakek-nenek dan ajarkan anak sulung untuk menyayangi adik-adiknya.
 2. **Bagi Guru:** Hilangkan budaya senioritas toksik di asrama/sekolah; bangun sistem mentoring *brotherhood* yang hangat.
 3. **Bagi Evaluasi Santri:** Pantau bagaimana santri menyapa guru saat berpapasan dan bagaimana ia membela adik kelas yang kesulitan.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Adab]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `57872`, `53766`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

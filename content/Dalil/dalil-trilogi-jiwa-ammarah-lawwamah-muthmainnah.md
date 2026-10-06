@@ -1,22 +1,22 @@
 ---
-title: "Atsar Salaf Taksonomi Trilogi Jiwa Manusia"
+title: "Ringkasan Konsep Trilogi Jiwa Manusia"
 tags:
   - DalilSyar'i
-  - AtsarSalaf
+  - AnalisisKontributor
   - Takhrij
   - SyarahSalaf
   - PendidikanKarakterNabawiyah
 sources:
-  - reference: "Tafsir Ibnu Katsir & Madarijus Salikin (QS. 12:53, 75:2, 89:27)"
+  - reference: "Ringkasan kontributor terkait QS. 12:53, 75:2, 89:27; lihat kutipan syarah terlacak"
     authority: 1.0
-    verification: "Shamela 11M / Tafsir Al-Qur'an Al-'Azhim & Madarijus Salikin Ibnul Qayyim Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
 <!-- ZONA 1: HEADER, ACTION BAR & METADATA                                      -->
 <!-- ========================================================================== -->
 
-# Atsar Salaf Taksonomi Trilogi Jiwa Manusia
+# Ringkasan Konsep Trilogi Jiwa Manusia
 
 <div class="wiki-action-bar">
   <span class="wiki-action-item active">📖 Baca</span>
@@ -35,30 +35,30 @@ sources:
   <div class="wiki-infobox-image">
     <div style="padding: 1.25rem 1rem; background: linear-gradient(135deg, rgb(30, 58, 138), rgb(13, 148, 136)); color: white; text-align: center; border-radius: 6px;">
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">📜 DALIL SYAR'I</div>
-      <div style="font-weight: 600; font-size: 0.9rem;">Atsar Salaf</div>
+      <div style="font-weight: 600; font-size: 0.9rem;">Ringkasan konsep — bukan atsar</div>
     </div>
     <div class="wiki-infobox-caption">Rujukan Otentik Manhaj PKN</div>
   </div>
   <table class="wiki-infobox-table">
     <tr>
       <th>Jenis Dalil</th>
-      <td><b>Atsar Salaf</b></td>
+      <td><b>Ringkasan kontributor</b></td>
     </tr>
     <tr>
       <th>Rujukan Nas</th>
-      <td><b>Tafsir Ibnu Katsir & Madarijus Salikin (QS. 12:53, 75:2, 89:27)</b></td>
+      <td><b>QS. 12:53, 75:2, 89:27 (tema istilah jiwa; bukan satu nas gabungan)</b></td>
     </tr>
     <tr>
       <th>Derajat Sanad</th>
-      <td><span style="color: rgb(5, 150, 105); font-weight: 700;">Atsar Shahih / Mu'tabar</span></td>
+      <td>Ringkasan bukan riwayat bersanad; atribusi redaksi belum terlacak</td>
     </tr>
     <tr>
       <th>Perawi / Sanad</th>
-      <td>Ibnu Abbas radhiyallahu 'anhuma & Ulama Salaf</td>
+      <td>Kontributor; bukan riwayat terkonfirmasi dari Ibnu Abbas</td>
     </tr>
     <tr>
       <th>Kitab Induk</th>
-      <td>Tafsir Al-Qur'an Al-'Azhim & Madarijus Salikin Ibnul Qayyim</td>
+      <td>Lihat dua kutipan syarah terlacak di bawah</td>
     </tr>
     <tr>
       <th>Basis Data</th>
@@ -76,7 +76,7 @@ sources:
 </div>
 
 > [!SUMMARY] Ringkasan Eksekutif (TL;DR Lead Section)
-> **Nas / Rujukan:** Tafsir Ibnu Katsir & Madarijus Salikin (QS. 12:53, 75:2, 89:27)  
+> **Nas / Rujukan:** Ringkasan kontributor terkait QS. 12:53, 75:2, 89:27; bukan kutipan langsung Tafsir Ibnu Katsir atau Madarijus Salikin.  
 > **Fokus Karakter:** [[Pembagian Jiwa]]  
 > **Intisari Manhaj:** Jiwa manusia (an-nafs) memiliki tiga tingkatan dinamika spiritual: Ammarah bis-Suu' (condong kepada syahwat fisik), Lawwamah (akal nalar yang mencela kekhilafan), dan Muthmainnah (jiwa yang tenteram dalam tauhid dan ketaatan).
 
@@ -88,14 +88,18 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-النَّفْسُ وَاحِدَةٌ وَلَهَا ثَلَاثُ صِفَاتٍ: أَمَّارَةٌ بِالسُّوءِ، وَلَوَّامَةٌ عِنْدَ التَّفْرِيطِ، وَمُطْمَئِنَّةٌ إِذَا سَكَنَتْ إِلَى رَبِّهَا وَأَطَاعَتْ أَمْرَهُ
-</div>
+> [!QUOTE] Ringkasan istilah jiwa — bukan hadits
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> النَّفْسُ وَاحِدَةٌ وَلَهَا ثَلَاثُ صِفَاتٍ: أَمَّارَةٌ بِالسُّوءِ، وَلَوَّامَةٌ عِنْدَ التَّفْرِيطِ، وَمُطْمَئِنَّةٌ إِذَا سَكَنَتْ إِلَى رَبِّهَا وَأَطَاعَتْ أَمْرَهُ
+> </div>
+>
+> [[dalil-trilogi-jiwa-ammarah-lawwamah-muthmainnah|Rujukan Ringkasan istilah jiwa — bukan hadits]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Jiwa itu hakikatnya satu, namun ia memiliki tiga sifat/kondisi: Ammarah bis-Suu' (yang menyuruh kepada keburukan jika memperturutkan hawa nafsu), Lawwamah (yang mencela dirinya tatkala berbuat kelalaian), dan Muthmainnah (yang tenang tentram tatkala bersandar kepada Tuhannya dan menaati perintah-Nya)."*  
 > 
-> *(Rujukan: Tafsir Ibnu Katsir & Madarijus Salikin (QS. 12:53, 75:2, 89:27))*
+> *(Ringkasan kontributor terkait istilah dalam QS. 12:53, 75:2, 89:27; bukan terjemahan satu ayat atau kutipan langsung Tafsir Ibnu Katsir/Madarijus Salikin.)*
 
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D9%86%D9%81%D8%B3%20%D9%88%D8%A7%D8%AD%D8%AF%D8%A9%20%D9%88%D9%84%D9%87%D8%A7%20%D8%AB%D9%84%D8%A7%D8%AB%20%D8%B5%D9%81%D8%A7%D8%AA%3A&lang=id)
 
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Ibnul Qayyim Al-Jauziyyah dalam *Madarijus Salikin* (Juz 1 Hal. 308) menjelaskan: 'Jiwa manusia pada asalnya satu dzat, tetapi disifati dengan tiga sebutan sesuai kondisi dominannya. Apabila ia tunduk pada dorongan syahwat fisik dan bisikan setan, ia disebut Ammarah. Apabila ia tersadar lalu menyesali kelalaian dan mencela kekurangannya, ia disebut Lawwamah. Dan apabila ia telah kokoh, cinta kepada kebaikan dan benci kemaksiatan hingga merasa tenang bersama Allah, ia disebut Muthmainnah.'
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Tiga istilah jiwa digunakan sebagai peta refleksi akhlak, bukan tiga zat jiwa atau diagnosis perkembangan anak. Kalimat Arab di atas adalah ringkasan konseptual kontributor; redaksi persisnya belum terlacak sebagai atsar atau kutipan Ibnul Qayyim.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> وَلَمْ يَقَعْ فِي الْقُرْآنِ تَسْمِيَةُ رُوحِ بَنِي آدَمَ رُوحًا، بَلْ سَمَّاهَا نَفْسًا فِي قَوْلِهِ: ﴿النَّفْسُ الْمُطْمَئِنَّةُ﴾ [الفجر: ٢٧] وَالنَّفْسُ الْأَمَارَةُ بِالسُّوءِ، وَالنَّفْسُ اللَّوَّامَةُ، وَأَخْرِجُوا أَنْفُسَكُمْ، وَنَفْسٍ وَمَا سَوَّاهَا، كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ.
+>
+> **Sumber:** *شرح كتاب التوحيد من صحيح البخاري - ابن باز*, ابن باز; ص 216 (OpenBayan SQLite, chunk `50002`).
+> [[dalil-trilogi-jiwa-ammarah-lawwamah-muthmainnah|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> والمراد بالْمحَبَّةِ هْنَا: حب الاختيار لا حب الطبع، قاله الخَطَّابي، وَقالَ النووي: فيه تلميِح إلَى قضية النفس الأَمارة والمطْمئنة، فإن من رجح جانب المطمئنة كَانَ حبه للنبي ﷺ راجحًا، ومن رجح جانب الأمارة كَانَ حكمه بالعكس.
+>
+> **Sumber:** *النكت على صحيح البخاري*, ابن حجر العسقلاني; ج 1 ص 250 (OpenBayan SQLite, chunk `50617`).
+> [[dalil-trilogi-jiwa-ammarah-lawwamah-muthmainnah|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Pembagian Jiwa]]**, yaitu:
 - **Peta Jalan Tarbiyah Jiwa:** Pendidikan karakter nabawiyah bertujuan membimbing jiwa santri naik kelas dari keliaran ammarah, menuju kepekaan lawwamah, hingga puncak sakinah muthmainnah.
 - **Bukan Membunuh Nafsu:** Islam tidak mematikan nafsu syahwat melainkan mendisiplinkannya agar tunduk di bawah kendali akal beriman.
 - **Pendekatan Pedagogis Multi-Dimensi:** Fisik (ammarah), akal dialogis (lawwamah), dan spiritualitas dzikir (muthmainnah).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Sadari bahwa ledakan emosi anak usia dini adalah cermin keliaran ammarah yang butuh ditenangkan dengan pelukan, bukan dibalas amarah.
 2. **Bagi Guru:** Manfaatkan daya lawwamah santri dengan mengajak dialog muhasabah saat ia melakukan kesalahan di kelas.
 3. **Bagi Evaluasi Santri:** Bimbing santri menuliskan jurnal refleksi harian untuk memperkuat daya introspeksi nafs lawwamah.
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Pembagian Jiwa]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `50002`, `50617`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Hijr: 75"
     authority: 1.0
-    verification: "Mushaf Al-Qur'an Standar Indonesia & Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ
+> </div>
+>
+> [[dalil-al-mutawassimin-tanda-kebesaran-allah|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang memperhatikan tanda-tanda (memiliki firasat)."*  
 > 
 > *(Rujukan: QS. Al-Hijr: 75)*
@@ -103,25 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Para ulama tafsir salaf menafsirkan kata *Al-Mutawassimin* (*الْمُتَوَسِّمِينَ*) secara selaras:
-- **Mujahid bin Jabr rahimahullah** menafsirkan: *'Lil mutafarrisin (bagi orang-orang yang memiliki firasat)'.* Keterangan ini diriwayatkan oleh Ath-Thabari dan Ibnu Katsir.
-- **Qatadah rahimahullah** menafsirkan: *'Lil mu'tabirin (bagi mereka yang mengambil ibrah pelajaran)'.*
-- **Muqatil bin Sulaiman rahimahullah** menafsirkan: *'Lil mutafakkirin (bagi orang yang mendalam pemikirannya)'.*
-- **Ibnu Abbas radhiyallahu 'anhuma** menafsirkan: *'Lin-nazhirin (bagi mereka yang mencermati dengan bashirah)'.**
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-Imam Ibnul Qayyim Al-Jauziyyah rahimahullah dalam *Madarijus Salikin* (Juz 2 Hal. 482) mensintesiskan penafsiran para salaf tersebut.
-> 'Tidak ada pertentangan di antara penafsiran salaf. Seorang yang berfirasat (*al-mutafarris*) mencermati tanda lahiriah. Ia menjadikannya ibrah (*mu'tabir*) dan memikirkannya secara mendalam (*mutafakkir*). Hingga ia sampai pada kesimpulan batiniah hakiki. Asal kata *at-tawassum* adalah berfirasat dan menetapkan tanda. Kata ini berakar dari *al-wasm* yang berarti tanda lahiriah (*al-'alamah*).'
+Firasat berkaitan dengan pengamatan dan perenungan tanda. Kutipan Ibnu Katsir berikut berada dalam pembahasan QS. Al-Baqarah: 273, sedangkan Al-Rajhi mengaitkan firasat dengan QS. Al-Hijr: 75. Penggunaan ayat untuk observasi santri merupakan analisis kontributor; bukan dasar memastikan isi hati atau menilai watak dari bentuk tubuh.
 
-Imam Ibnu Katsir menjelaskan ayat ini dalam tafsirnya. Jejak kehancuran kaum durhaka menjadi dalil nyata bagi pemilik ketajaman akal. Mereka mencermati tanda lahiriah untuk mengetahui hakikat perkara tersembunyi.
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط أولاد الشيخ
+>
+> <div dir="rtl">
+> أي: بما يظهر لذوي الألباب من صفاتهم
+> </div>
+>
+> **Sumber:** تفسير ابن كثير - ط أولاد الشيخ, ابن كثير, ج 2 ص 478; OpenBayan lokal, chunk `63145`. Kutipan penjelasan ulama, bukan matan hadits.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> الفراسة: حدة النظر والتأمل
+> </div>
+>
+> **Sumber:** شرح تفسير ابن كثير - الراجحي, عبد العزيز بن عبد الله الراجحي, ج 48 ص 5; OpenBayan lokal, chunk `67283`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam arsitektur Manhaj PKN, ayat ini menjadi pilar observasi fitrah:
 - **Metode Aksiomatik:** Pembacaan jiwa bertumpu pada tanda lahiriah (*wasam / simah*). Tanda tersebut tampak pada gerak tubuh, pilihan aktivitas alami, dan pola bicara anak.
 - **Pengganti Asesmen Kaku:** Al-Qur'an menegaskan bahwa tanda batiniah terbaca lewat gejala kasat mata. Pendidik PKN melatih kepekaan menjadi seorang *mutawassim* (pengamat berfirasat tajam) tanpa kuesioner kaku.
 - **Penyelarasan Tiga Dimensi:** Pengamat memilah tanda secara presisi. Ia membedakan antara potensi bakat fitrah (*Syakilah*), dorongan energi ego, dan luka batin (*Hutang Pengasuhan*).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Biasakan mengamati anak saat ia bermain sendiri tanpa merasa diawasi; catat apa yang membuatnya tekun dan apa yang membuatnya cepat bosan.
 2. **Bagi Pendidik:** Gunakan jurnal observasi adab non-angka untuk mencatat tanda-tanda perkembangan santri secara berkala.
 3. **Bagi Manajemen Sekolah:** Ciptakan ekosistem belajar yang kaya stimulus alamiah (*sensory-rich environment*) agar tanda-tanda fitrah anak dapat muncul ke permukaan secara autentik.
@@ -193,7 +205,7 @@ Dalam arsitektur Manhaj PKN, ayat ini menjadi pilar observasi fitrah:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Imam Ibnu Katsir**, *Tafsir Al-Qur'an Al-'Azhim*, Tahqiq Sami bin Muhammad As-Salamah, Dar Thayyibah, Riyadh, Tafsir Surah Al-Hijr ayat 75, Juz 4 Hal. 540–542.
-[^2]: **Imam Ibnul Qayyim Al-Jauziyyah**, *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Darul Kitab Al-'Arabi, Beirut, Juz 2 Hal. 482.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `63145`, `67283`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 [^3]: **Imam Ibnu Jarir Ath-Thabari**, *Jami'ul Bayan 'an Ta'wili Ayil Qur'an*, Tafsir QS. Al-Hijr: 75.
 
 ---

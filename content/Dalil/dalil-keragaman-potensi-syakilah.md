@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Isra': 84"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا
-</div>
+> [!QUOTE] Nas QS. Al-Isra': 84
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا
+> </div>
+>
+> [[dalil-keragaman-potensi-syakilah|Rujukan QS. Al-Isra': 84]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Katakanlah (Muhammad): 'Setiap orang berbuat sesuai dengan pembawaannya (syakilatihi) masing-masing.' Maka Tuhanmu lebih mengetahui siapa yang lebih benar jalannya."*  
 > 
 > *(Rujukan: QS. Al-Isra': 84)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 5 Hal. 118) mengutip Ibnu Abbas, Mujahid, dan Qatadah bahwa makna *'ala syakilatihi* adalah: sesuai dengan tabiat watak bawaannya (*'ala thabi'atihi*), niatnya, dan kecenderungan fitrahnya. Manusia diciptakan dengan ragam kepribadian yang berbeda-beda; yang terpenting bukanlah menyamakan watak mereka, melainkan memastikan bahwa setiap watak dan potensi tersebut berjalan di atas rel petunjuk yang paling lurus (*ahda sabila*).
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Syakilah tidak dapat disamakan begitu saja dengan instrumen pengukuran bakat modern. Kutipan terlacak menunjukkan pembacaan melalui kebiasaan/sajiyah dan niat; pengamatan potensi anak tetap merupakan aplikasi pendidikan.
+
+> [!QUOTE] Kutipan ulama — شرح صحيح البخاري - عبد الكريم الخضير
+>
+> <div dir="rtl">
+> على شاكلته على سجيته، على سجيته التي قيدته
+> </div>
+>
+> **Sumber:** عبد الكريم الخضير, *شرح صحيح البخاري - عبد الكريم الخضير*, ج 15 ص 19; OpenBayan lokal, chunk `45917`.
+> [[dalil-keragaman-potensi-syakilah|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — الكواكب الدراري في شرح صحيح البخاري
+>
+> <div dir="rtl">
+> (قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ) عَلَى نِيَّتِهِ.
+> </div>
+>
+> **Sumber:** الكرماني، شمس الدين, *الكواكب الدراري في شرح صحيح البخاري*, ج 1 ص 211; OpenBayan lokal, chunk `30890`.
+> [[dalil-keragaman-potensi-syakilah|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bakat]]**, yaitu:
 - **Penghargaan atas Keberagaman Potensi:** PKN memandang keragaman syakilah sebagai ayat kauniyah Allah yang indah; ada anak yang berwatak pemikir, pekerja keras, pemimpin, atau pelayan.
 - **Bukan Penyeragaman Pabrik:** Model sekolah pabrik membunuh keunikan syakilah; PKN merawat keunikan tersebut agar menjadi mozaik kekuatan ummah.
 - **Kaidah Adil:** Adil bukanlah menyamaratakan semua anak, melainkan memperlakukan setiap anak sesuai dengan syakilah fitrahnya.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Terimalah bahwa anak sulung, tengah, dan bungsu memiliki syakilah watak yang berbeda; jangan banding-bandingkan mereka.
 2. **Bagi Guru:** Susun diferensiasi pembelajaran di kelas yang memberi ruang ekspresi bagi beragam syakilah santri.
 3. **Bagi Evaluasi Santri:** Nilai bagaimana santri mengoptimalkan syakilah bawaannya di jalan ketaatan kepada Allah.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bakat]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `45917`, `30890`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

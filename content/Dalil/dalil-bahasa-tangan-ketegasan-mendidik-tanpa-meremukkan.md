@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Shad: 44"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
+> </div>
+>
+> [[dalil-bahasa-tangan-ketegasan-mendidik-tanpa-meremukkan|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan ambillah dengan tanganmu seikat rumput, lalu pukullah dengan itu dan janganlah kamu melanggar sumpah. Sesungguhnya Kami dapati dia (Ayyub) seorang yang sabar. Dialah sebaik-baik hamba. Sesungguhnya dia sangat taat (kepada Allah)."*  
 > 
 > *(Rujukan: QS. Shad: 44)*
@@ -103,16 +107,27 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 7 Hal. 75) menjelaskan kisah Nabi Ayyub 'alaihissalam: tatkala beliau sakit parah, beliau pernah bersumpah akan memukul istrinya seratus kali jika sembuh karena suatu kekhilafan kecil sang istri. Tatkala Allah menyembuhkannya, Allah tidak ingin istri shalihah yang setia merawat Ayyub itu disakiti secara fisik, namun Allah juga tidak ingin Nabi Ayyub melanggar sumpahnya. Maka Allah memerintahkan Ayyub mengambil seikat rumput/lidi tipis berisi 100 helai (*dhightsan*), lalu memukulkannya satu kali secara ringan dan simbolik. Ini adalah jalan keluar (*makhraj*) rahmat ilahi: menegakkan wibawa sumpah tanpa melukai dan tanpa meremukkan fisik orang yang dikasihi.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+QS. Shad: 44 memuat kisah Ayyub, sumpah, dan pujian atas kesabarannya; bukan instruksi umum memukul anak. Penerapan ketegasan tanpa melukai adalah analisis kontributor. Penjelasan dua kitab mengenai seikat rumput dan sumpah belum ditemukan; sumber berikut hanya mendukung konteks kesabaran Ayyub, bukan rincian kisah istri atau cara pukulan.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين - حطيبة
+>
+> <div dir="rtl">
+> ثم ابتلاه الله ﷿ فأخذ منه ماله وعياله، وإذا به يصبر الصبر العظيم الذي يضرب به المثل:
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين - حطيبة, أحمد حطيبة, ج 40 ص 15; OpenBayan lokal, chunk `59171`. Kutipan penjelasan ulama, bukan matan hadits.
+
+**Batas penelusuran:** Pencarian ضغثا, ضغثًا, بيدك ضغثا dan ولا تحنث tidak menemukan tafsir langsung kisah sumpah QS. Shad: 44; hanya satu syarah relevan pada pujian kesabaran Ayyub.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Tangan]]**, yaitu:
 - **Falsafah Bahasa Tangan PKN:** Tindakan fisik dalam pendidikan Islam bersifat simbolik dan edukatif (*ta'dib*), bukan balas dendam emosional (*intiqam*).
 - **Larangan Menyakiti Fisik:** Sanksi Bahasa Tangan bertujuan menegakkan batasan syariat di dalam benak santri tanpa meninggalkan luka trauma.
 - **Koneksi Sebelum Koreksi:** Menjaga keutuhan ikatan batin cinta suami-istri dan orang tua-anak di tengah penegakan hukum.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Jangan pernah menjatuhkan sanksi saat amarah sedang mendidih; tunda sanksi hingga emosi tenang dan pilih sanksi yang mendidik.
 2. **Bagi Guru:** Gunakan sanksi produktif (seperti membaca satu juz Al-Qur'an atau membersihkan perpustakaan) daripada sanksi fisik yang sia-sia.
 3. **Bagi Evaluasi Santri:** Pantau apakah santri memahami hikmah di balik sanksi yang diterimanya.
@@ -184,7 +199,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Tangan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `59171`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Ali 'Imran: 159"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
+> </div>
+>
+> [[dalil-bahasa-hati-lemah-lembut-menghindari-kekasaran|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Maka berkat rahmat Allah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Sekiranya engkau bersikap keras dan berhati kasar, tentulah mereka menjauhkan diri dari sekitarmu. Karena itu maafkanlah mereka, mohonkanlah ampunan untuk mereka, dan bermusyawarahlah dengan mereka dalam urusan itu."*  
 > 
 > *(Rujukan: QS. Ali 'Imran: 159)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 2 Hal. 148) memaparkan: 'Ayat ini turun pasca perang Uhud saat sebagian sahabat melakukan kesalahan fatal meninggalkan pos panah. Allah memerintahkan Nabi-Nya untuk tetap bersikap lemah lembut, tidak mencaci maki, melainkan memaafkan, mendoakan ampunan, dan tetap merangkul mereka dalam musyawarah. Sekiranya Nabi bersikap *fazh-zhan* (kasar perkataan) dan *ghalizhal qalb* (keras membatu hatinya), niscaya para sahabat akan bubar lari meninggalkan dakwah beliau.'
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ayat menggambarkan rahmat Allah pada kelembutan Nabi kepada pengikutnya. Penerapan pada guru dan orang tua merupakan analisis kontributor; kutipan terlacak di bawah menerangkan dampak kekasaran, bukan rincian rekonstruksi peristiwa Uhud.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ت السلامة
+>
+> <div dir="rtl">
+> أي: لو كنت سيِّئَ الكلام قاسي القلب عليهم لانفضوا عنك وتركوك
+> </div>
+>
+> **Sumber:** تفسير ابن كثير - ت السلامة, ابن كثير, ج 2 ص 148; OpenBayan lokal, chunk `64428`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> ( ﴿ولو كنت فظاً﴾ ) سيء الخلق ( ﴿غليظ القلب﴾ ) قاسيه ( ﴿لانفضوا﴾ ) أي نفروا (من حولك) .
+> </div>
+>
+> **Sumber:** دليل الفالحين لطرق رياض الصالحين, ابن علان, ج 5 ص 164; OpenBayan lokal, chunk `54277`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Hati]]**, yaitu:
 - **Penanganan Kesalahan Fatal Anak:** Tatkala anak melakukan kekeliruan besar, respon pertama pendidik nabawiyah adalah membasuh dengan pemaafan batin (*fa'fu 'anhum*) dan doa istighfar (*wastaghfir lahum*).
 - **Musyawarah Menumbuhkan Rusyd:** Melibatkan anak dalam dialog pemecahan masalah (*syawirhum fil amr*) membangkitkan kedewasaan akalnya.
 - **Koneksi Sebelum Koreksi:** Sikap kasar adalah penyebab utama anak kabur dari rumah atau mencari pelampiasan di pergaulan menyimpang.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Saat anak mengaku bersalah, peluk dia terlebih dahulu; katakan: 'Ayah/Ibu memaafkanmu, mari kita perbaiki bersama.'
 2. **Bagi Guru:** Hindari menghakimi santri dengan label anak nakal; rangkul mereka dalam lingkaran musyawarah kelas.
 3. **Bagi Evaluasi Santri:** Pantau apakah santri merasa nyaman bercerita kepada guru saat menghadapi masalah rumit.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Hati]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `64428`, `54277`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

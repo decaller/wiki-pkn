@@ -105,7 +105,10 @@ Wahai PendidikMereka hanyalah anak-anak cilik…Mereka rindu dididik oleh pendid
 
  
 
-اِرْحَمُوْا مَنْ فِى الأَرْضِ يَرحَمْكُمْ مَنْ فِى السَّمَاءِ
+> [!HADITH] Nas Hadits
+> اِرْحَمُوْا مَنْ فِى الأَرْضِ يَرحَمْكُمْ مَنْ فِى السَّمَاءِ
+>
+> Penjelasan dan rujukan: [[dalil-kasih-sayang-ar-rahimun]].
 
  
 

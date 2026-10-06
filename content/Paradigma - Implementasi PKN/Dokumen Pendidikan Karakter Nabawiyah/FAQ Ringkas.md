@@ -79,7 +79,8 @@ Dokumen ini memuat rangkuman jawaban otoritatif atas berbagai pertanyaan mendasa
 > « الدِّينُ النَّصِيحَةُ، قُلْنَا: لِمَنْ؟ قَالَ: لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ »
 > 
 > *"Agama itu adalah nasihat (ketulusan). Kami bertanya: 'Untuk siapa wahai Rasulullah?' Beliau menjawab: 'Untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan orang-orang awam di antara mereka.'"*  
-> — **HR. Muslim (No. 55) & HR. Bukhari**
+> — **HR. Muslim (No. 55)**. Rujukan Bukhari pada naskah sebelumnya tidak disertai nomor untuk lafaz ini.
+> **Syarah dan takhrij:** [[dalil-hr-muslim-55]].
 > 
 > 💡 **Relevansi PKN:** Wiki PKN dan lembar FAQ ini disusun sebagai bentuk nasihat tulus sesama kaum muslimin demi membentengi keluarga dan fitrah anak-anak kita di tengah gelombang fitnah akhir zaman.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%AF%D9%90%D9%91%D9%8A%D9%86%D9%8F%20%D8%A7%D9%84%D9%86%D9%8E%D9%91%D8%B5%D9%90%D9%8A%D8%AD%D9%8E%D8%A9%D9%8F%D8%8C%20%D9%82%D9%8F%D9%84%D9%92%D9%86%D9%8E%D8%A7%3A%20%D9%84%D9%90%D9%85%D9%8E%D9%86%D9%92%D8%9F%20%D9%82%D9%8E%D8%A7%D9%84%D9%8E%3A%20%D9%84%D9%90%D9%84%D9%8E%D9%91%D9%87%D9%90%D8%8C%20%D9%88%D9%8E%D9%84%D9%90%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%90%D9%87%D9%90%D8%8C&lang=id)

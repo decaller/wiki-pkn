@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 3208 & Muslim No. 2643"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab Bad'il Khalq) & Shahih Muslim (Kitab al-Qadar) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٌّ أَوْ سَعِيدٌ
-</div>
+> [!QUOTE] Nas HR. Bukhari No. 3208 & Muslim No. 2643
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٌّ أَوْ سَعِيدٌ
+> </div>
+>
+> [[dalil-penciptaan-ruh-dan-jasad|Rujukan HR. Bukhari No. 3208 & Muslim No. 2643]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya setiap kalian dihimpunkan penciptaannya dalam perut ibunya selama empat puluh hari berupa nuthfah, kemudian menjadi 'alaqah selama itu pula, kemudian menjadi mudhghah selama itu pula, kemudian diutuslah malaikat kepadanya lalu meniupkan ruh padanya, dan diperintahkan dengan empat kalimat: menuliskan rezekinya, ajalnya, amalnya, serta celaka atau bahagianya."*  
 > 
 > *(Rujukan: HR. Bukhari No. 3208 & Muslim No. 2643)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 189) dan Ibnu Rajab Al-Hanbali dalam *Jami'ul 'Ulum wal Hikam* menjelaskan bahwa hadits agung ini membongkar rahasia antropologi manusia: fisik jasmani tumbuh secara materiil bertahap dari sari pati tanah, namun kehidupan sejati dimulai ketika unsur langit (ruh) ditiupkan. Oleh karena itu, manusia memiliki dua kutub tarikan: tarikan tanah (hawa nafsu fisik jasad) dan tarikan langit (kerinduan ruhani kepada Allah).
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Riwayat ini membicarakan penciptaan janin dan perkara gaib. Dikotomi “tarikan tanah” dan “tarikan langit” pada paragraf lama tidak dinisbatkan kepada ulama tanpa kutipan terlacak; pengasuhan jasmani dan ruhani di bawah merupakan aplikasi kontributor.
+
+> [!QUOTE] Kutipan ulama — أعلام الحديث (شرح صحيح البخاري)
+>
+> <div dir="rtl">
+> قوله: (يجمع خلقه في بطن أمه)، جاء تفسيره عن ابن مسعود
+> </div>
+>
+> **Sumber:** الخطابي, *أعلام الحديث (شرح صحيح البخاري)*, ج 2 ص 1482; OpenBayan lokal, chunk `37162`.
+> [[dalil-penciptaan-ruh-dan-jasad|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> لأنه سيخبر عن أمر غيبي باطن يحدث في ظلمات ثلاث
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 3 ص 289; OpenBayan lokal, chunk `56277`.
+> [[dalil-penciptaan-ruh-dan-jasad|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bersatunya Ruh dan Jasad Membentuk Jiwa]]**, yaitu:
 - **Fondasi Antropologi PKN:** Manusia bukanlah tumpukan sel biologi semata. Ruh suci harus dipelihara nutrisinya melalui zikir dan Al-Qur'an.
 - **Pendidikan Pra-Lahir:** Tarbiyah dimulai sejak janin dalam kandungan melalui tilawah Al-Qur'an dan makanan halal yang dikonsumsi ibunda.
 - **Penerimaan Takdir Unik:** Setiap anak lahir dengan bekal rezeki, potensi, dan rentang usia yang sudah diatur oleh ketetapan hikmah Allah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Ibu Hamil:** Perbanyak zikir, tilawah, dan doa agar ketenangan jiwa mengalir ke janin yang ditiupkan ruh suci.
 2. **Bagi Pendidik:** Sadari bahwa potensi batin anak memiliki kedalaman spiritual yang merespon ketulusan doa pendidiknya.
 3. **Bagi Orang Tua:** Jaga asupan makanan keluarga dari yang haram sejak masa kehamilan.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bersatunya Ruh dan Jasad Memb
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `37162`, `56277`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Muslim No. 2594"
     authority: 1.0
-    verification: "Shamela 11M / Shahih Muslim (Kitab al-Birr wash-Shilah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ
+> </div>
+>
+> [[dalil-bahasa-hati-kelembutan-ar-rifq|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya kelembutan itu tidaklah ada pada sesuatu melainkan ia akan menghiasinya (menjadikannya indah), dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya (menjadikannya tercela)."*  
 > 
 > *(Rujukan: HR. Muslim No. 2594)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 146) menerangkan: 'Hadits ini menetapkan keutamaan agung sikap rifq (kelemahlembutan, kesabaran, tidak tergesa-gesa, dan tutur kata halus) serta mencela sikap kasar, emosional, dan keras kepala. Kelembutan adalah magnet pembuka pintu-pintu hati yang terkunci. Segala tujuan pendidikan yang tidak dapat dicapai dengan kekerasan dan bentakan, niscaya akan tercapai dengan sempurna melalui pendekatan kelembutan.'
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kelembutan dianjurkan dalam hubungan keluarga dan masyarakat. Keterkaitannya dengan pendidikan anak adalah analisis kontributor. Ungkapan tentang magnet hati dan keberhasilan semua tujuan pendidikan tidak dinisbatkan sebagai kutipan An-Nawawi.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> ففيه الحثّ على أن يكون الإنسان رفيقاً في جميع شؤونه، رفيقاً في معاملة أهله، وفي معاملة إخوانه، وفي معاملة أصدقائه، وفي معاملة عامة الناس يرفق بهم
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 3 ص 578; OpenBayan lokal, chunk `56566`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> وهو التشديد والتصعيب في الأشياء
+> </div>
+>
+> **Sumber:** دليل الفالحين لطرق رياض الصالحين, ابن علان, ج 5 ص 90; OpenBayan lokal, chunk `54203`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Hati]]**, yaitu:
 - **Pondasi Bahasa Hati:** Kelembutan adalah getaran frekuensi tertinggi dalam komunikasi tarbiyah; ia menembus pertahanan ego anak.
 - **Koneksi Sebelum Koreksi:** Mengoreksi kesalahan dengan kelembutan membuat anak fokus pada introspeksi dosanya, sedangkan bentakan kasar membuat anak sibuk membela diri dari kemarahan orang tua.
 - **Standar Pendidik Nabawi:** Guru atau orang tua yang cepat naik pitam menunjukkan ketidakmatangan tazkiyatun nafs pribadinya.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tahan nafas dan beristighfar sejenak saat melihat anak menumpahkan sesuatu; responlah dengan tenang dan senyuman.
 2. **Bagi Guru:** Turunkan nada bicara di kelas; suara yang tenang dan berwibawa jauh lebih didengar daripada teriakan melengking.
 3. **Bagi Evaluasi Santri:** Pantau apakah santri menyelesaikan perselisihan dengan musyawarah tenang atau adu fisik.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Hati]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `56566`, `54203`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

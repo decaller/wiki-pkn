@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. An-Nahl: 78"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-kehausan-ilmu-pendengaran-penglihatan|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatu pun, dan Dia memberimu pendengaran, penglihatan, dan hati nurani (akal budi), agar kamu bersyukur."*  
 > 
 > *(Rujukan: QS. An-Nahl: 78)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 4 Hal. 593) menerangkan bahwa Allah menganugerahkan indera secara berurutan: pendengaran (*as-sam'*) yang pertama kali aktif sejak dalam kandungan, penglihatan (*al-abshar*) yang mengamati tanda-tanda kebesaran ciptaan-Nya di alam semesta, dan hati nurani/daya nalar (*al-af'idah*) yang menimbang, memahami, dan membedakan antara yang haq dan yang bathil. Muara dari seluruh aktivasi indera dan akal ini adalah satu: agar manusia bersyukur (*la'allakum tasykurun*) dengan menggunakan seluruh potensi tersebut di jalan ketaatan kepada Allah.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ayat memberi konteks bahwa ilmu dipelajari. Penerapan belajar inderawi adalah analisis kontributor; klaim urutan aktivasi indera sejak kandungan tidak dinisbatkan kepada tafsir yang belum terlacak.
+
+> [!QUOTE] Kutipan ulama — شرح صحيح البخاري للحويني
+>
+> <div dir="rtl">
+> دلالة على أن العلم يكتسب
+> </div>
+>
+> **Sumber:** أبو إسحق الحويني, *شرح صحيح البخاري للحويني*, ج 2 ص 11; chunk `24413`.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> والحاصل أن الإنسان مفطور على قبول الإسلام والتهيؤ له بالقوّة، لكن لا بد أن يتعلمه بالفعل فإنه قبل التعليم جاهل
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 2 ص 333; chunk `53345`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Belajar]]**, yaitu:
 - **Instrumen Belajar Multi-Sensori:** Pembelajaran nabawiyah mengaktifkan telinga (menyimak hikmah), mata (tadabbur ayat kauniyah), dan af'idah (perenungan batin).
 - **Pendidikan Karakter Syukur:** Kecerdasan kognitif yang terpisah dari hati nurani melahirkan manusia arogan; PKN mendidik agar setiap ilmu berujung pada sujud syukur.
 - **Kebersihan Pintu Masuk Batin:** Menjaga pendengaran dan penglihatan anak dari polusi maksiat agar cermin af'idah tetap bening.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Perdengarkan kata-kata hikmah dan perlihatkan teladan shalih di hadapan anak agar memorinya terisi cahaya kebaikan.
 2. **Bagi Guru:** Rancang media ajar yang memadukan stimulasi visual, auditori, dan kinestetik yang menyentuh kalbu santri.
 3. **Bagi Evaluasi Santri:** Pantau kepekaan nurani santri saat menyimak kisah orang-orang shalih atau penderitaan kaum dhuafa.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Belajar]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 24413, 53345. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

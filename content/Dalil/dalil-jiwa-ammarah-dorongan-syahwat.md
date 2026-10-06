@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Yusuf: 53"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-jiwa-ammarah-dorongan-syahwat|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan aku tidak membebaskan diriku (dari kesalahan), karena sesungguhnya nafsu itu selalu menyuruh kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Tuhanku. Sesungguhnya Tuhanku Maha Pengampun lagi Maha Penyayang."*  
 > 
 > *(Rujukan: QS. Yusuf: 53)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 4 Hal. 399) memaparkan perkataan Nabi Yusuf 'alaihissalam (atau ucapan istri Al-'Aziz): tabiat dasar jiwa jika dibiarkan tanpa bimbingan wahyu dan tanpa rahmat Allah akan senantiasa condong kepada pemenuhan kelezatan instan dan keburukan. Penjinakannya hanya bisa dicapai dengan bergantung kepada rahmat dan perlindungan Allah Ta'ala.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Muhasabah dan pengendalian diri mencegah pembenaran mengikuti hawa nafsu. Nas tidak menetapkan tipologi psikologis anak yang permanen.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> والكيس: هو الذي يعمل بحزم وجد، ويحاسب نفسه
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 1 ص 591; chunk `55378`.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> النفس الأمارة بالسوء، والنفس اللوّامة المحرّضة على الخير
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 5 ص 143; chunk `54256`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Ammarah]]**, yaitu:
 - **Orientasi Fisik Jasad:** Nafsu ammarah bersumber dari dorongan biologis jasad tanah; disiplin fisik teratur adalah pintu masuk penjinakannya.
 - **Disiplin Bahasa Tangan:** Penanganan ammarah bukan dengan khutbah panjang, melainkan pembiasaan aktivitas fisik, olahraga beladiri/ketangkasan, dan aturan jam hidup.
 - **Koneksi Sebelum Koreksi:** Amarah orang tua yang meledak adalah bentuk ammarah; orang tua wajib menjinakkan nafsunya sendiri sebelum menegur anak.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Jangan heran jika anak mengamuk (tantrum); itu ekspresi ammarah yang belum matang akalnya. Rangkul dengan tenang hingga emosinya reda.
 2. **Bagi Guru:** Salurkan energi berlebih murid aktif ke dalam olahraga, kerja bakti, dan ketangkasan fisik yang bermanfaat.
 3. **Bagi Evaluasi Santri:** Pantau kemampuan santri menahan emosi saat keinginannya ditunda atau ditolak.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Ammarah]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 55378, 54256. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

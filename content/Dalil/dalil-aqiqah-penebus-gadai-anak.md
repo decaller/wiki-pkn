@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. At-Tirmidzi No. 1522 & Abu Dawud No. 2838"
     authority: 1.0
-    verification: "Shamela 11M / Jami' At-Tirmidzi (Kitab al-Adhahi) & Sunan Abu Dawud Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-كُلُّ غُلَامٍ مُرْتَهَنٌ بِعَقِيقَتِهِ، تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ، وَيُحْلَقُ، وَيُسَمَّى
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> كُلُّ غُلَامٍ مُرْتَهَنٌ بِعَقِيقَتِهِ، تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ، وَيُحْلَقُ، وَيُسَمَّى
+> </div>
+>
+> [[dalil-aqiqah-penebus-gadai-anak|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Setiap anak tergadai dengan aqiqahnya; disembelihkan hewan untuknya pada hari ketujuh dari kelahirannya, dicukur rambutnya, dan diberi nama."*  
 > 
 > *(Rujukan: HR. At-Tirmidzi No. 1522 & Abu Dawud No. 2838)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Ahmad bin Hanbal rahimahullah menjelaskan makna *murtahanun bi'aqiqatihi*: 'Anak itu tertahan dari memberi syafaat kepada kedua orang tuanya kelak pada hari kiamat jika belum diaqiqahi.' Al-Khatthabi dalam *Ma'alimus Sunan* menambahkan: 'Gadai di sini bermakna pelepasan dari belenggu godaan setan yang senantiasa mengintai sejak kelahiran.' Imam Ibnul Qayyim dalam *Tuhfatul Maudud bi Ahkamil Maulud* menegaskan bahwa aqiqah adalah tebusan jiwa anak sebagaimana Ismail ditebus dengan sembelihan domba yang besar, membukakan pintu kebaikan dan pertumbuhannya yang barakah.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Aqiqah adalah ibadah yang dibahas fuqaha dengan perbedaan hukum. Dua sumber berikut menjelaskan anjuran dan pandangan jumhur; keduanya tidak dijadikan bukti bagi seluruh penjelasan metaforis tentang belenggu setan atau syafaat dalam naskah awal.
+
+> [!QUOTE] Kutipan ulama — بداية المجتهد ونهاية المقتصد
+>
+> <div dir="rtl">
+> وَذَهَبَ الْجُمْهُورُ إِلَى أَنَّهَا سُنَّةٌ.
+> </div>
+>
+> **Sumber:** بداية المجتهد ونهاية المقتصد, ابن رشد الحفيد, ج 3 ص 14; OpenBayan lokal, chunk `69992`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — منار القاري شرح مختصر صحيح البخاري
+>
+> <div dir="rtl">
+> وقال مالك في " الموطأ " ليست العقيقة بواجبة، ولكنها يستحب العمل بها، وهي من الأمر الذي لم يزل عليه الناس عندنا
+> </div>
+>
+> **Sumber:** منار القاري شرح مختصر صحيح البخاري, حمزة قاسم, ج 5 ص 161; OpenBayan lokal, chunk `28062`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 - **Inisiasi Spiritual Awal:** Aqiqah adalah tonggak proklamasi tauhid keluarga bahwa anak ditebus untuk menjadi hamba Allah, bukan aset komersial orang tua.
 - **Koneksi Sebelum Koreksi:** Hubungan batin dimulai dengan pengorbanan harta dan doa syukur atas anugerah keturunan.
 - **Kebersihan Lahir Batin:** Mencukur rambut pada hari ketujuh melambangkan pembersihan kotoran biologis dan simbol kerendahan hati bersedekah perak seberat timbangan rambutnya.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Laksanakan aqiqah pada hari ketujuh jika mampu; jadikan momen tersebut untuk meniatkan pengasuhan anak murni lillahi ta'ala.
 2. **Bagi Guru:** Pahami latar belakang spiritual santri; dukung orang tua yang belum mampu agar tetap memprioritaskan doa barakah bagi putra-putrinya.
 3. **Bagi Evaluasi Santri:** Tanamkan kesadaran pada anak bahwa hidupnya telah ditebus dengan ketaatan orang tua kepada sunnah Nabi ﷺ.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `69992`, `28062`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

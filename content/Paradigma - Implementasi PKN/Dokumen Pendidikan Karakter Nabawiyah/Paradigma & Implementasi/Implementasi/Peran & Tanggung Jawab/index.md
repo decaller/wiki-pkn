@@ -82,6 +82,9 @@ Halaman ini membedah arsitektur akuntabilitas dan pembagian peran para pemangku 
 
 > [!quote] Dalil & Rujukan Nabawiyah: Pertanggungjawaban Mutlak Setiap Pemimpin
 > **Naskah Hadits:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-bakat-memerintah-kepemimpinan-adil]]
 > « كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، فَالْإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا »
 > 
 > *"Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya. Seorang imam adalah pemimpin dan bertanggung jawab atas rakyatnya. Seorang laki-laki (ayah) adalah pemimpin dalam keluarganya dan bertanggung jawab atas mereka. Dan seorang wanita (ibu) adalah pemimpin di rumah suaminya dan bertanggung jawab atas urusannya..."*  

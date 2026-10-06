@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-A'raf: 172"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ ۛ شَهِدْنَا ۛ أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَافِلِينَ
-</div>
+> [!QUOTE] Nas QS. Al-A'raf: 172
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ ۛ شَهِدْنَا ۛ أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَافِلِينَ
+> </div>
+>
+> [[dalil-kesucian-fitrah-perjanjian-azali|Rujukan QS. Al-A'raf: 172]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan (ingatlah) ketika Tuhanmu mengeluarkan keturunan anak-anak Adam dari sulbi mereka dan Allah mengambil kesaksian terhadap jiwa mereka (seraya berfirman): 'Bukankah Aku ini Tuhanmu?' Mereka menjawab: 'Betul (Engkau Tuhan kami), kami bersaksi.' (Kami lakukan yang demikian itu) agar di hari kiamat kamu tidak mengatakan: 'Sesungguhnya kami adalah orang-orang yang lengah terhadap ini (keesaan Tuhan).'"*  
 > 
 > *(Rujukan: QS. Al-A'raf: 172)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 3 Hal. 492) membawakan hadits-hadits shahih tentang pengambilan janji (*misaq*) di lembah Na'man (Arafah), di mana seluruh benih keturunan Adam dikeluarkan dan dipersaksikan atas rububiyah Allah. Fitrah bertauhid ini tertanam dalam struktur terdalam ruh manusia; tugas dakwah dan pendidikan hanyalah sebagai pengingat (*mudzakkir*) atas janji yang telah termaktub.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Fitrah dan perjanjian perlu dibaca bersama perbedaan penafsiran dan status riwayat. Tidak semua riwayat pengambilan janji boleh disebut shahih secara menyeluruh; pendidikan tauhid adalah aplikasi kontributor.
+
+> [!QUOTE] Kutipan ulama — مختصر تفسير ابن كثير
+>
+> <div dir="rtl">
+> كَمَا أَنَّهُ تَعَالَى فَطَرَهُمْ عَلَى ذَلِكَ وجبلهم عليه
+> </div>
+>
+> **Sumber:** محمد علي الصابوني, *مختصر تفسير ابن كثير*, ج 2 ص 63; OpenBayan lokal, chunk `65672`.
+> [[dalil-kesucian-fitrah-perjanjian-azali|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — نجاح القاري شرح صحيح البخاري - كتاب الجنائز
+>
+> <div dir="rtl">
+> وقال قوم: معنى ذلك: أن الله تعالى أخذ من ذرية آدم ﵇ الميثاق حين خلقهم
+> </div>
+>
+> **Sumber:** يوسف أفندي زاده الأماسي, *نجاح القاري شرح صحيح البخاري - كتاب الجنائز*, ج 1 ص 868; OpenBayan lokal, chunk `34907`.
+> [[dalil-kesucian-fitrah-perjanjian-azali|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 - **Hakikat Mendidik:** Mendidik bukanlah menanamkan sesuatu yang asing dari luar, melainkan membangkitkan kembali benih tauhid yang sudah bersumpah setia di alam ruh.
 - **Koneksi Sebelum Koreksi:** Mengingatkan anak pada fitrah ketuhanannya jauh lebih berdaya sentuh daripada doktrinasi kaku.
 - **Optimisme Pengasuhan:** Tidak ada anak yang bakat dasarnya jahat; setiap anak membawa fitrah kesaksian suci.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tatap mata anak dengan keyakinan penuh bahwa di dalam jiwanya ada sumpah tauhid yang rindu kepada kebaikan.
 2. **Bagi Guru:** Gunakan bahasa penggugah fitrah yang menyentuh nurani batin anak ketika menasihati.
 3. **Bagi Evaluasi Santri:** Nilai spontanitas respon santri ketika mendengar nama Allah dan ayat-ayat-Nya dibacakan.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `65672`, `34907`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

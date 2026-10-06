@@ -76,6 +76,9 @@ tags:
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-tanggung-jawab-menjaga-keluarga-dari-neraka]]
 > « يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ »
 >
 > *"Wahai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar dan keras..."*
@@ -92,16 +95,26 @@ Dalam syariat Islam, anak bukanlah milik negara dan bukan pula hak milik mutlak 
 
 ### Hadits Pokok Kepemimpinan & Pewarnaan Fitrah:
 Rasulullah ﷺ meletakkan prinsip pertanggungjawaban personal:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-bakat-memerintah-kepemimpinan-adil]]
 > « كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ: الإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا »  
 > *"Setiap kalian adalah pemimpin (penggembala), dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya: Seorang kepala negara adalah pemimpin rakyatnya dan akan dimintai pertanggungjawaban atas mereka. Seorang suami adalah pemimpin di tengah keluarganya dan akan dimintai pertanggungjawaban atas asuhannya. Dan seorang istri adalah pemimpin di rumah suaminya dan akan dimintai pertanggungjawaban atas apa yang di bawah asuhannya..."*  
 > 📚 *(HR. Al-Bukhari No. 893 & Muslim No. 1829)*
 
 Dan dalam hadits fitrah yang sangat masyhur:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-fitrah-kesucian-anak]]
 > « مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ »  
 > *"Tidak ada seorang bayi pun yang dilahirkan melainkan ia lahir di atas fitrah (kesucian Islam). Maka kedua orang tuanyalah yang menjadikannya beragama Yahudi, atau Nasrani, atau Majusi!"*  
 > 📚 *(HR. Al-Bukhari No. 1358 & Muslim No. 2658)*
 
-Perhatikan redaksi sabda Nabi ﷺ: **« فَأَبَوَاهُ » (Maka kedua orang tuanyalah)**—bukan sekolahnya, bukan kurikulum negaranya, bukan gurunya! Orang tualah pemegang pena utama yang melukis dan mewarnai fitrah sang anak.
+> [!quote] Penggalan hadits fitrah
+> **Dalil:** [[dalil-fitrah-kesucian-anak]]
+> « فَأَبَوَاهُ » — *Maka kedua orang tuanyalah.*
+
+Perhatikan redaksi sabda Nabi tersebut—bukan sekolahnya, bukan kurikulum negaranya, bukan gurunya! Orang tualah pemegang pena utama yang melukis dan mewarnai fitrah sang anak.
 
 ---
 
@@ -121,7 +134,14 @@ Dalam *Tuhfatul Maudud bi Ahkamil Maulud* (Hal. 229):
 > *"Barangsiapa melalaikan pendidikan anaknya terhadap apa yang bermanfaat baginya dan membiarkannya terlantar tanpa bimbingan adab, sungguh ia telah berbuat seburuk-buruk kezaliman kepadanya. Mayoritas kerusakan karakter anak berakar dari kelalaian para ayah yang mengabaikan pengajaran kewajiban syariat dan sunnah nabawiyah kepada anaknya di masa kecil."*
 
 ### 2. Sahabat Ali bin Abi Thalib radhiyallahu 'anhu
-Saat menafsirkan firman Allah: *« قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا »* (*"Peliharalah dirimu dan keluargamu dari api neraka"*):
+> [!quote] Penggalan QS. At-Tahrim: 6
+> **Dalil:** [[dalil-tanggung-jawab-menjaga-keluarga-dari-neraka]]
+> « قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا »
+> *Peliharalah dirimu dan keluargamu dari api neraka.*
+
+Saat menafsirkan firman Allah tersebut, dinukil keterangan Ali bin Abi Thalib:
+> [!quote] Atsar Ali bin Abi Thalib, bukan hadits marfu'
+> **Dalil:** [[dalil-atsar-ali-ajarkan-ilmu-dan-adab]]
 > « عَلِّمُوهُمْ وَأَدِّبُوهُمْ »  
 > *"Maknanya adalah: Ajarkanlah ilmu kepada mereka dan didiklah adab bagi mereka!"*  
 > 📚 *(Diriwayatkan oleh Al-Hakim dalam Al-Mustadrak No. 3838, dinyatakan Shahih; Tafsir Ath-Thabari 23/491)*

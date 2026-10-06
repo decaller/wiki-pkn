@@ -94,12 +94,18 @@ Peta visual interaktif yang menggambarkan arsitektur implementasi, 4 kaidah emas
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menyiapkan Generasi Pelopor Peradaban
 > **Teks Al-Qur'an:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qs-9-122]]
 > « وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ »
 > 
 > *"Tidak sepatutnya bagi orang-orang mukmin itu pergi semuanya (ke medan perang). Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya, supaya mereka itu dapat menjaga dirinya."*  
 > — **QS. At-Taubah: 122**
 > 
 > **Hadits Shahih:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-71]]
 > عَنْ مُعَاوِيَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ»  
 > *"Barangsiapa yang Allah kehendaki kebaikan baginya, niscaya Allah fahamkan dia dalam urusan agamanya."*  
 > — **HR. Bukhari (No. 71) & Muslim (No. 1037)**
@@ -279,6 +285,9 @@ Di banyak institusi sekolah modern yang berbiaya mahal, anak-anak terbiasa membu
 Sikap ini melahirkan bibit **kesombongan mental (*kibr*)**, feodalisme borjuis, serta kebutaan sosial. 
 
 Rasulullah ﷺ adalah manusia termulia di muka bumi, namun beliau tidak pernah gengsi mengerjakan tugas rumah tangga sendiri:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-676]]
 > عَنِ الْأَسْوَدِ قَالَ: سَأَلْتُ عَائِشَةَ مَا كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَصْنَعُ فِي بَيْتِهِ؟ قَالَتْ: «كَانَ يَكُونُ فِي مِهْنَةِ أَهْلِهِ - تَعْنِي خِدْمَةَ أَهْلِهِ - فَإِذَا حَضَرَتِ الصَّلَاةُ خَرَجَ إِلَى الصَّلَاةِ»  
 > *"Dari Al-Aswad berkata: Aku bertanya kepada Aisyah: 'Apa yang dikerjakan Nabi ﷺ di rumahnya?' Aisyah menjawab: 'Beliau biasa membantu pekerjaan keluarganya (berkhidmah untuk keluarganya), lalu apabila tiba waktu shalat, beliau keluar menuju shalat'."*  
 > — **HR. Bukhari (No. 676)**

@@ -79,6 +79,9 @@ Implementasi PKN berdiri kokoh di atas tiga pilar penyangga utama: **Kaidah & El
 
 > [!quote] Dalil & Rujukan Nabawiyah: Prinsip Kemudahan dan Keteladanan
 > **Teks Hadits Shahih:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-69]]
 > « يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا »  
 > *"Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat orang lari menjauh."*  
 > — **HR. Bukhari (No. 69) & Muslim (No. 1734)**  

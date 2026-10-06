@@ -189,6 +189,7 @@ Pembagian fase perkembangan dalam PKN berporos pada hadits nabawi yang sangat ag
 > [!quote] Hadits Pentahapan Shalat (HR. Abu Dawud No. 495 & Ahmad No. 6689)
 > « مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ »  
 > *"Perintahkan anak-anakmu mendirikan shalat tatkala mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik tanpa melukai) jika meninggalkannya tatkala berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*
+> **Syarah dan batas penerapan:** [[dalil-perintah-shalat-usia-7-dan-10]].
 
 Dari dua penggalan sabda kenabian ini, tersingkap rahasia metode pendidikan PKN (*Recording 12 & 13*):
 

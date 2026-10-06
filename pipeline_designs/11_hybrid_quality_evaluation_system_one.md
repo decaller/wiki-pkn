@@ -174,3 +174,14 @@ Setiap evaluasi menghasilkan dokumen payload JSON standar:
 Sistem ini diimplementasikan secara mandiri pada modul skrip:
 * Modul Engine: [`scripts/hybrid_quality_scorer.py`](../scripts/hybrid_quality_scorer.py)
 * Pengujian Unit: [`tests/test_hybrid_quality_scorer.py`](../tests/test_hybrid_quality_scorer.py)
+
+---
+
+## 6. Protokol Efisiensi Token & Concurrency Guardrail
+
+Dalam integrasi produksi dan eksekusi batching dokumen besar, modul Pipeline 11 wajib beroperasi dalam koridor efisiensi komputasi agen (lihat rujukan analitis di [`../analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md`](../analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md)):
+
+1. **Prioritas Zero-Token Linter:** 100% penyaringan formal (panjang kalimat, kata terlarang manhaj, pasif voice) dieksekusi di CPU lokal via Regex Python dengan biaya $0 token dan latensi $<5$ ms. Jangan sekali-kali mengirim draf ke LLM evaluator jika skor linter Lapisan 1 $<60$.
+2. **Batas Konkurensi Worker:** Maksimal **2–3 worker evaluasi konkuren** per proses. Dilarang melakukan evaluasi batch paralel masif yang memicu lonjakan kuota downstream.
+3. **Jendela Waktu Retry 10 Menit (`maxDelayMs: 600000`):** Jika model System One atau upstream provider mengembalikan `HTTP 429/503 (Rate Limit / Quota Reset)`, sistem wajib mengaktifkan exponential backoff hingga rentang 10 menit dengan status sleep pasif, dilarang melakukan polling agresif berulang.
+

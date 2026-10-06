@@ -77,6 +77,9 @@ Halaman ini merupakan sintesis induk yang merangkum kaidah operasional dan kompo
 
 > [!quote] Dalil & Rujukan Nabawiyah: Fondasi Kebajikan yang Menyeluruh
 > **Teks Al-Qur'an:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qs-2-177]]
 > « لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ... »
 > 
 > *"Bukanlah menghadapkan wajahmu ke arah timur dan barat itu suatu kebajikan, akan tetapi sesungguhnya kebajikan itu ialah beriman kepada Allah, hari kemudian, malaikat-malaikat, kitab-kitab, nabi-nabi dan memberikan harta yang dicintainya kepada kerabatnya, anak-anak yatim, orang-orang miskin..."*  

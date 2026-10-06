@@ -112,6 +112,9 @@ Khazanah Islam menempatkan firasat sebagai salah satu cabang ilmu batiniah yang 
 ### A. Dalil Al-Qur'an: Kaum Al-Mutawassimin
 Allah Subhanahu wa Ta'ala berfirman mengenai kaum yang mampu menangkap tanda-tanda kebesaran-Nya:
 
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-al-mutawassimin-tanda-kebesaran-allah]]
 > إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ
 > 
 > *"Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang memperhatikan tanda-tanda (kaum mutawassimin / yang berfirasat)."*  
@@ -126,6 +129,9 @@ Kaidah ini diperkuat oleh ayat-ayat lain yang menegaskan pembacaan isi batin dar
 ### B. Hadits Nabawi: Memandang dengan Cahaya Allah
 Rasulullah ﷺ bersabda dalam hadits riwayat Abu Sa'id Al-Khudri radhiyallahu 'anhu:
 
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-firasat-mukmin-cahaya-allah]]
 > « اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ »
 > 
 > *"Takutilah firasat seorang mukmin, karena sesungguhnya dia memandang dengan cahaya Allah."*  
@@ -353,6 +359,9 @@ Penerapan firasat wajib beradaptasi dengan tingkat kematangan fitrah santri:
 ## Takhrij Dalil Lengkap & Referensi Kitab Salaf
 
 1. **Hadits Firasat Mukmin:**
+
+   > [!quote] Nas rujukan
+   > **Dalil:** [[dalil-firasat-mukmin-cahaya-allah]]
    > « اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ »  
    > *"Takutilah firasat seorang mukmin, karena sesungguhnya dia memandang dengan cahaya Allah."*  
    > 📚 **(HR. At-Tirmidzi No. 3127, Bab Wa min Surah Al-Hijr; Ath-Thabarani dalam Al-Mu'jam Al-Kabir No. 7497; Al-Bukhari dalam At-Tarikh Al-Kabir 4/354. Derajat: Hasan lighairihi dengan syawahid shahihah)**  
@@ -360,6 +369,9 @@ Penerapan firasat wajib beradaptasi dengan tingkat kematangan fitrah santri:
    > 🔍 *Syarah Faedah Manhaj:* Hadits ini menjadi landasan bahwa mata batin pendidik adalah instrumen tarbiyah utama. Kepekaan membaca jiwa bukanlah keahlian psikologi sekuler semata, melainkan buah dari kesucian hati dan pancaran hidayah taufiq ilahi.
 
 2. **Ayat Al-Mutawassimin:**
+
+   > [!quote] Nas rujukan
+   > **Dalil:** [[dalil-al-mutawassimin-tanda-kebesaran-allah]]
    > ﴿ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ ﴾  
    > *"Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang memperhatikan tanda-tanda."*  
    > 📚 **(QS. Al-Hijr: 75)**  
@@ -367,6 +379,9 @@ Penerapan firasat wajib beradaptasi dengan tingkat kematangan fitrah santri:
    > 🔍 *Syarah Faedah Manhaj:* Menegaskan keabsahan metode inferensi (*istidlāl*): menyimpulkan hakikat yang tersembunyi melalui pengamatan terhadap tanda lahiriah yang nyata.
 
 3. **Ayat Pengharaman Prasangka Buruk & Tajassus:**
+
+   > [!quote] Nas rujukan
+   > **Dalil:** [[dalil-qs-49-12]]
    > ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا ﴾  
    > *"Wahai orang-orang yang beriman, jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa, dan janganlah kamu mencari-cari kesalahan orang lain."*  
    > 📚 **(QS. Al-Hujurat: 12)**  

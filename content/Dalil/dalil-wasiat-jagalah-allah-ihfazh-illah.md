@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. At-Tirmidzi No. 2516 & Ahmad No. 2669"
     authority: 1.0
-    verification: "Shamela 11M / Jami' At-Tirmidzi (Kitab Shifatil Qiyamah) & Jami'ul 'Ulum wal Hikam Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ
-</div>
+> [!QUOTE] Hadits Nabi
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ
+> </div>
+>
+> [[dalil-wasiat-jagalah-allah-ihfazh-illah|Rujukan Hadits Nabi]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Wahai anak muda! Sesungguhnya aku akan mengajarkan kepadamu beberapa patah kalimat: Jagalah Allah niscaya Dia akan menjagamu; jagalah Allah niscaya engkau mendapati-Nya di hadapanmu. Apabila engkau meminta, mintalah kepada Allah; dan apabila engkau memohon pertolongan, mohonlah pertolongan kepada Allah. Dan ketahuilah bahwa sekiranya seluruh umat bersatu padu untuk memberimu suatu manfaat, mereka tidak akan mampu memberimu manfaat melainkan dengan sesuatu yang telah ditetapkan Allah untukmu."*  
 > 
 > *(Rujukan: HR. At-Tirmidzi No. 2516 & Ahmad No. 2669)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Rajab Al-Hanbali menulis risalah khusus mensyarah hadits ini (*Nurul Iqtibas fi Masykati Washiyyatinnabi libni Abbas*): Nabi ﷺ menanamkan pondasi akidah tawakkal, muraqabah, dan kepasrahan takdir kepada Ibnu Abbas saat usianya baru sekitar 10–12 tahun. Makna *ihfazhillah* adalah menjaga batasan-batasan syariat-Nya, melaksanakan perintah-Nya, dan menjauhi larangan-Nya. Balasan dari menjaga hak Allah adalah *yahfazhk*—Allah akan menjaga agama, akal, jasad, keluarga, dan keturunan anak tersebut dari segala mara bahaya dunia dan fitnah syubhat akhirat.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Menjaga Allah berarti menjaga agama dan syariat-Nya. Dalam pengasuhan, wasiat ini menjadi bahan dialog tentang tanggung jawab, permohonan pertolongan, dan tawakal.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> احفظ الله، وذلك بحفظ شرعه ودينه، بان تمتثل لأوامره وتجتب نواهيه
+>
+> **Sumber:** *شرح رياض الصالحين لابن عثيمين*, ابن عثيمين; ج 1 ص 488 (OpenBayan SQLite, chunk `55275`).
+> [[dalil-wasiat-jagalah-allah-ihfazh-illah|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> هذا الحديث أصل عظيم في مراقبة الله، ومراعاة حقوقه، والتفويض لأمره، والتوكل عليه، وشهود توحيده وتفرُّده، وعجز الخلائق كلَّهم وافتقارهم إليه.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 61 (OpenBayan SQLite, chunk `57675`).
+> [[dalil-wasiat-jagalah-allah-ihfazh-illah|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 - **Pedagogi Kedekatan Fisik (Riding Together):** Nabi mendidik sambil membonceng anak di atas keledai; suasana intim dan santai membuka pintu serapan ilmu kalbu.
 - **Kemandirian Spiritual Murahaqah:** Menanamkan ketergantungan mutlak hanya kepada Allah, membebaskan jiwa anak dari rasa takut kepada manusia atau gila pujian makhluk.
 - **Benteng Mental Menghadapi Ujian Takdir:** Keyakinan pada qadha' dan qadar melahirkan ketenangan mental yang tak tergoyahkan.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Ayah:** Manfaatkan waktu berboncengan motor atau bepergian mobil berdua bersama anak untuk menanamkan nilai-nilai tauhid mendalam.
 2. **Bagi Guru:** Ajarkan santri untuk senantiasa berdoa langsung kepada Allah saat mengalami kesulitan belajar atau masalah pertemanan.
 3. **Bagi Evaluasi Santri:** Pantau kemandirian batin santri; apakah ia mudah mengeluh kepada manusia ataukah segera mengadu kepada Allah?
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `55275`, `57675`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

@@ -81,6 +81,7 @@ Halaman **Insight** menghimpun intisari wawasan filosofis, refleksi kritis, dan 
 > 
 > *"Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan dan hati, semuanya itu akan diminta pertanggungan jawabnya."*  
 > — **QS. Al-Isra': 36**
+> **Tafsir ayat:** [[dalil-qs-17-36]].
 > 
 > 💡 **Relevansi PKN:** Setiap insight tarbiyah harus berakar dari dalil syar'i dan pemahaman mendalam tentang fitrah, bukan sekadar mengikuti opini populer media sosial yang tidak dapat dipertanggungjawabkan di akhirat.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%84%D9%8E%D8%A7%20%D8%AA%D9%8E%D9%82%D9%92%D9%81%D9%8F%20%D9%85%D9%8E%D8%A7%20%D9%84%D9%8E%D9%8A%D9%92%D8%B3%D9%8E%20%D9%84%D9%8E%D9%83%D9%8E%20%D8%A8%D9%90%D9%87%D9%90%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8C%20%DB%9A%20%D8%A5%D9%90%D9%86%D9%8E%D9%91%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%85%D9%92%D8%B9%D9%8E%20%D9%88%D9%8E%D8%A7%D9%84%D9%92%D8%A8%D9%8E%D8%B5%D9%8E%D8%B1%D9%8E&lang=id)

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Ahzab: 72"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+> </div>
+>
+> [[dalil-amanah-taklif-manusia|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya Kami telah menawarkan amanah kepada langit, bumi, dan gunung-gunung; tetapi semuanya enggan untuk memikul amanah itu dan mereka khawatir tidak akan melaksanakannya (berat), lalu dipikullah amanah itu oleh manusia. Sungguh, manusia itu sangat zalim dan sangat bodoh."*  
 > 
 > *(Rujukan: QS. Al-Ahzab: 72)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 6 Hal. 488) mengutip penafsiran Ibnu Abbas: 'Amanah itu adalah ketaatan dan kewajiban syariat. Allah menawarkannya dengan konsekuensi: jika ditunaikan beroleh surga, jika dikhianati beroleh siksa.' Manusia disebut *zhaluman jahula* jika ia mengabaikan bimbingan wahyu dan menyia-nyiakan amanah tersebut untuk kepentingan syahwat sesaat.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Amanah mencakup perkara yang dipercayakan serta perintah dan larangan. Dalam PKN, tanggung jawab belajar dan beramal merupakan penerapan kontributor; rincian kewajiban tetap mengikuti syariat, kemampuan, dan usia.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> فالإنسان موصوف بهذين الوصفين: الظلم والجهل؛ فإما أن يرتكب الخطأ عن عمد؛ فيكون ظالما، وإما أن يرتكب الخطأ عن جهل؛ فيكون جهولاً، هذه حال الإنسان إلا من عصم الله ﷿ ووفقه للعلم والعدل، فإنه يمشي بالحق ويهدي إلى الحق.
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 3 ص 5; OpenBayan lokal, chunk `55993`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> الظاهر أنها كل ما يؤمن عليه من أمر ونهي وشأن
+> </div>
+>
+> **Sumber:** دليل الفالحين لطرق رياض الصالحين, ابن علان, ج 2 ص 492; OpenBayan lokal, chunk `53504`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 - **Orientasi Kedewasaan Mukallaf:** Tujuan akhir pengasuhan nabawiyah adalah mencetak pemuda yang siap memikul beban amanah syariat secara mandiri dan sadar.
 - **Pendidikan Integritas:** Menepati janji, menjaga barang titipan, dan memegang rahasia adalah latihan awal memikul amanah ketuhanan.
 - **Penyembuh Sifat Jahil & Zalim:** Ilmu syar'i menyembuhkan kebodohan (*jahl*), dan tazkiyatun nafs mengobati kezaliman (*zhulm*).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Berikan anak kepercayaan tugas rumah tangga yang bertahap agar rasa tanggung jawab tertanam kokoh.
 2. **Bagi Guru:** Jadikan amanah kejujuran dalam ujian dan kepengurusan kelas sebagai sarana penempaan karakter.
 3. **Bagi Evaluasi Santri:** Ukur konsistensi santri dalam menunaikan komitmen dan tugas tanpa perlu selalu diawasi.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `55993`, `53504`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

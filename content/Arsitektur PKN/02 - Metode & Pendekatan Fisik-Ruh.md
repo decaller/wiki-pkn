@@ -100,6 +100,8 @@ Pusat kendali seluruh gerak tubuh dan kualitas kepribadian manusia bertumpu pada
 > </div>
 > 
 > *"Ketahuilah, sesungguhnya di dalam jasad terdapat segumpal daging. Jika ia baik, maka baiklah seluruh jasadnya; dan jika ia rusak, maka rusaklah seluruh jasadnya. Ketahuilah, segumpal daging itu adalah qalbu (hati)."* [^1]
+>
+> **Terjemahan kerja kontributor.** [[dalil-hati-mudghah-baik-buruk|Baca konteks hadits, takhrij, dan syarah tentang hati]].
 > 
 > 💡 **Relevansi Pedagogis:** Disiplin fisik dan ketertiban lahiriah santri tidak akan bertahan lama jika hatinya masih memendam luka, kemarahan, atau kekosongan kasih sayang. Mendidik harus bermula dari membenahi dan menyirami qalbu.
 
@@ -308,14 +310,21 @@ Menjelaskan proporsi penerapan Bahasa Hati, Bahasa Lisan, dan Bahasa Tangan:
 
 ## Referensi dan Catatan Kaki
 
-[^1]: **HR. Al-Bukhari**, *Kitab Al-Iman*, Bab *Fadhlu Man Istabra'a Li Dinihi*, No. 52; **HR. Muslim**, *Kitab Al-Musaqah*, No. 1599. Takhrij terverifikasi dalam OpenBayan Qdrant ID `shamela_11m_doc_58291`.
+[^1]: **Shahih al-Bukhari**, Kitab Al-Iman, bab *Fadl man istabra'a lidinihi*, no. 52, [edisi digital Book 2 Hadith 45](https://sunnah.com/bukhari/2/45); riwayat paralel **Shahih Muslim** no. 1599. Petikan dan dua kitab syarah yang dibaca tersedia pada [[dalil-hati-mudghah-baik-buruk]]. ID Qdrant pada versi terdahulu tidak dipertahankan sebagai bukti pembacaan sumber.
 [^2]: **Ibnul Qayyim Al-Jauziyyah**, *Ighatsatul Lahfan min Mashaayidisy Syaithan*, Tahqiq Muhammad Hamid Al-Faqi, Darul Ma'rifah, Beirut, Jilid 1, Hal. 15–20.
 
 <details>
 <summary><b>📜 Tinjauan Terminologi Mudghah (مُضْغَة) dan Qalbu Menurut Salaf</b></summary>
 
 * **Secara Bahasa (*Lughatan*):** *Mudghah* bermakna sepotong daging seukuran satu kunyahan. Dalam konteks jasmani merujuk pada organ jantung fisik, sedangkan secara ma'nawi merujuk pada *latifah rabbaniyyah* (pusat kesadaran ruhani).
-* **Fungsi Organik vs Spiritual:** Akal adalah daya nalar yang berkedudukan di otak (*al-mukh*) namun berakar kuat pada nurani qalbu, sebagaimana firman Allah: *« أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا »* (*"Tidakkah mereka berjalan di bumi sehingga mereka memiliki hati yang dengannya mereka dapat bernalar..."* - QS. Al-Hajj: 46).
+* **Fungsi Spiritual:** Ayat berikut mengaitkan hati dengan memahami pelajaran. Ini bukan penetapan lokasi anatomis daya nalar; rincian hubungan otak, jantung, dan kesadaran tidak ditentukan oleh kutipan ayat ini.
+
+> [!QUOTE] Dalil Al-Qur'an: petikan QS. Al-Hajj (22): 46
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا
+>
+> **Terjemahan kerja kontributor:** “Tidakkah mereka berjalan di bumi sehingga mereka memiliki hati yang dengannya mereka memahami?”
+>
+> [[dalil-hati-memahami-al-hajj-46|Baca ayat lengkap dan tafsir hati yang memahami]].
 </details>
 
 ---

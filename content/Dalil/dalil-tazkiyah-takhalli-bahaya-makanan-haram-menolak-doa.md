@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Muslim No. 1015"
     authority: 1.0
-    verification: "Shamela 11M / Shahih Muslim (Kitab az-Zakah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ، يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لِذَلِكَ؟
-</div>
+> [!QUOTE] Hadits Nabi
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ، يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لِذَلِكَ؟
+> </div>
+>
+> [[dalil-tazkiyah-takhalli-bahaya-makanan-haram-menolak-doa|Rujukan Hadits Nabi]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Kemudian beliau menceritakan tentang seorang laki-laki yang menempuh perjalanan jauh, rambutnya kusut masai dan berdebu, ia menengadahkan kedua tangannya ke langit (seraya berdoa): 'Wahai Tuhanku, wahai Tuhanku!' Padahal makanannya haram, minumannya haram, pakaiannya haram, dan ia diberi makan dengan yang haram; maka bagaimanakah mungkin doanya akan dikabulkan?"*  
 > 
 > *(Rujukan: HR. Muslim No. 1015)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 7 Hal. 100) dan Ibnu Rajab dalam *Jami'ul 'Ulum wal Hikam* membedah tragedi spiritual hadits ini: lelaki tersebut telah mengumpulkan seluruh sebab mustajabnya doa (safar panjang, penampilan tawadhu' berdebu, mengangkat tangan, mengulang asma' Ar-Rabb). Namun seluruh pintu langit tertutup rapat di hadapan doanya semata-mata karena benteng makanan dan pakaian haram yang melekat pada tubuhnya. Orang tua yang berdoa mencucurkan air mata memohon kesalehan anaknya, tetapi memberi makan keluarga dari komisi haram atau riba, hakikatnya sedang menyumbat pintu ijabah doanya sendiri.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Hadits ini mengingatkan pendidik untuk memperhatikan kehalalan nafkah dan adab doa; tidak digunakan untuk memvonis bahwa kesulitan anak pasti akibat makanan haram.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> والأكل من الحلال سبب لتقبّل الدعاء والعبادة، كما أن الأكل من الحرام يمنع قبول الدعاء والعبادة.
+>
+> **Sumber:** *تفسير ابن كثير - ط ابن الجوزي*, ابن كثير; ج 2 ص 35 (OpenBayan SQLite, chunk `61651`).
+> [[dalil-tazkiyah-takhalli-bahaya-makanan-haram-menolak-doa|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> هذا الحديث: قاعدة من قواعد الإسلام وأصول الأحكام.
+> وفيه: إشارة إلى آداب الدعاء، وإلى الأسباب التي تقتضي إجابته.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 1050 (OpenBayan SQLite, chunk `58683`).
+> [[dalil-tazkiyah-takhalli-bahaya-makanan-haram-menolak-doa|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Pilar Takhalli Rezeki:** Pembersihan makanan adalah syarat mutlak efektivitas doa pengasuhan; doa orang tua adalah senjata utama tarbiyah nabawiyah.
 - **Koneksi Sebelum Koreksi:** Mengoreksi rezeki di dapur sendiri sebelum menuntut anak berakhlak shalih.
 - **Pencegahan Kekeruhan Batin:** Suapan haram memadamkan cahaya nurani santri dan memicu resistensi terhadap nasihat agama.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Jika anak tampak sangat sulit dinasihati dan selalu melawan, periksa kembali sumber penghasilan kita; bertaubatlah dan bersihkan harta dengan sedekah.
 2. **Bagi Pengelola Lembaga:** Pastikan dana operasional sekolah dan gaji para guru terbebas dari dana syubhat atau manipulasi laporan keuangan.
 3. **Bagi Evaluasi Santri:** Tanamkan kesadaran pada santri untuk menolak traktiran makanan yang bersumber dari uang curian atau judi.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `61651`, `58683`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

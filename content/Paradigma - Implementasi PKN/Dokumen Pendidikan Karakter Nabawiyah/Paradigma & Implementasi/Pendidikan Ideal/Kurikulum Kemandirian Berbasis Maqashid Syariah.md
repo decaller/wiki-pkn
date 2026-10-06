@@ -118,6 +118,7 @@ Syariat Islam diturunkan untuk mewujudkan kemaslahatan (*mashlahah*) dan menolak
 Para ulama ushul telah bersepakat bahwa kemaslahatan pokok manusia berporos pada **Al-Kulliyyat Al-Khamsah** (Lima Prinsip Pokok):
 
 #### 1. Hujjatul Islam Imam Abu Hamid Al-Ghazali (w. 505 H) dalam *Al-Mustashfa fi 'Ilmil Ushul*:
+> [!quote] Kutipan ulama — bukan ayat atau hadits
 > « وَمَقْصُودُ الشَّرْعِ مِنَ الخَلْقِ خَمْسَةٌ: وَهُوَ أَنْ يَحْفَظَ عَلَيْهِمْ دِينَهُمْ، وَنَفْسَهُمْ، وَعَقْلَهُمْ، وَنَسْلَهُمْ، وَمَالَهُمْ؛ فَكُلُّ مَا يَتَضَمَّنُ حِفْظَ هَذِهِ الأُصُولِ الخَمْسَةِ فَهُوَ مَصْلَحَةٌ، وَكُلُّ مَا يُفَوِّتُ هَذِهِ الأُصُولَ فَهُوَ مَفْسَدَةٌ وَدَفْعُهَا مَصْلَحَةٌ... وَهَذِهِ الأُصُولُ الخَمْسَةُ حِفْظُهَا وَاقِعٌ فِي رُتْبَةِ الضَّرُورَاتِ، فَهِيَ أَقْوَى المَرَاتِبِ فِي المَصَالِحِ... وَتَحْرِيمُ تَفْوِيتِ هَذِهِ الأُصُولِ الخَمْسَةِ وَالزَّجْرُ عَنْهَا يَسْتَحِيلُ أَلَّا تَشْتَمِلَ عَلَيْهِ مِلَّةٌ مِنَ المِلَلِ وَشَرِيعَةٌ مِنَ الشَّرَائِعِ الَّتِي أُرِيدَ بِهَا إِصْلَاحُ الخَلْقِ »
 > 
 > *"Maksud syariat terhadap makhluk ada lima: menjaga agama mereka, jiwa mereka, akal mereka, keturunan mereka, dan harta mereka. Setiap hal yang mengandung perlindungan terhadap lima pokok ini disebut kemaslahatan, dan setiap hal yang melenyapkan pokok-pokok ini disebut kemafsadatan, serta mencegahnya adalah kemaslahatan... Penjagaan terhadap lima pokok ini berada pada tingkatan Dharuriyyat (kebutuhan primer mutlak), yang merupakan tingkatan kemaslahatan paling tinggi... Larangan melenyapkan lima pokok ini mustahil tidak tercakup dalam syariat mana pun dari syariat-syariat samawi yang bertujuan memperbaiki kehidupan makhluk."*  
@@ -170,6 +171,7 @@ Di dalam rekaman kajian PKN (*Unnamed note3: Recording 3 & 4*), dijelaskan bahwa
 Syariat Islam menegaskan bahwa agama adalah puncak orientasi hidup manusia:
 
 > [!quote] QS. Adz-Dzariyat: 56
+> **Dalil:** [[Dalil/dalil-tujuan-penciptaan-ibadah]]
 > « وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ »
 > 
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka mengabdi (beribadah) kepada-Ku."*  
@@ -196,6 +198,7 @@ Islam memandang jasad sebagai amanah yang wajib dirawat dan dijaga keselamatanny
 > *"Dan janganlah kamu membunuh dirimu; sesungguhnya Allah adalah Maha Penyayang kepadamu."*
 
 > [!quote] Hadits Kekuatan Fisik Mukmin (HR. Muslim No. 2664)
+> **Dalil:** [[Dalil/dalil-ketahanan-fisik-ksatria]]
 > « المُؤْمِنُ القَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ المُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ، احْرِصْ عَلَى مَا يَنْفَعُكَ، وَاسْتَعِنْ بِاللَّهِ وَلَا تَعْجَزْ »
 > 
 > *"Mukmin yang kuat lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, namun pada masing-masing terdapat kebaikan. Bersemangatlah meraih apa yang bermanfaat bagimu, mohonlah pertolongan kepada Allah, dan janganlah bersikap lemah!"*
@@ -354,6 +357,8 @@ USIA 10–15 TH (Murahaqah) ─────►  RUKUN 3: BERGUNA (Al-Naf' lil Um
 
 Dalam rekaman kajian (*Recording 6*), ditegaskan bahwa seluruh arsitektur kompetensi, kemandirian Maqashid Syari'ah, dan pengembangan bakat di atas berakar pada satu fondasi tunggal yang tidak dapat ditawar:
 
+> [!quote] Rumusan kajian PKN — bukan ayat atau hadits
+> Kalimat Arab berikut merupakan rumusan dalam konteks *Recording 6*, bukan nas yang dinisbatkan kepada Nabi ﷺ.
 > « كُلُّ هَذِهِ الكَفَاءَاتِ تَرْجِعُ إِلَى أَصْلٍ وَاحِدٍ: وَهُوَ الوَعْيُ التَّامُّ بِأَنَّ مَرَدَّ الإِنْسَانِ إِلَى الآخِرَةِ »  
 > 
 > *"Seluruh kompetensi yang kita bicarakan sesungguhnya menghunjam ke dalam satu akar tunggal yang wajib dan tidak dapat ditawar bagi setiap insan: yaitu **Kesadaran Penuh** bahwa hidupnya tidak hanya di dunia fana, melainkan akan dibangkitkan dan mempertanggungjawabkan seluruh amalnya di hadapan Allah Ta'ala di akhirat kelak."*

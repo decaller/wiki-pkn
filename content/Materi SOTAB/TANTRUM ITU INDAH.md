@@ -121,7 +121,10 @@ Ingatlah, tidak ada yang sia-sia dari satu patah kata pun ucapan yang baik terle
 
 (*)Rasulullah shallallahu ‘alaihi wa sallam bersabda :
 
-لَا تَدْعُوا عَلَى أَنْفُسِكُمْ، وَلَا تَدْعُوا عَلَى أَوْلَادِكُمْ، وَلَاتَدْعُوا عَلَى أَمْوَالِكُمْ، لَا تُوَافِقُوا مِنَ اللهِ سَاعَةًيُسْأَلُ فِيهَا عَطَاءٌ، فَيَسْتَجِيبُ لَكُم
+> [!HADITH] Nas Hadits
+> لَا تَدْعُوا عَلَى أَنْفُسِكُمْ، وَلَا تَدْعُوا عَلَى أَوْلَادِكُمْ، وَلَاتَدْعُوا عَلَى أَمْوَالِكُمْ، لَا تُوَافِقُوا مِنَ اللهِ سَاعَةًيُسْأَلُ فِيهَا عَطَاءٌ، فَيَسْتَجِيبُ لَكُم
+>
+> Penjelasan dan rujukan: [[dalil-larangan-mendoakan-buruk-anak]].
 
 Janganlah kalian mendoakan kejelekan untuk diri kalian sendiri, janganlah kalian mendoakan kejelekan untuk anak-anak kalian, dan janganlah kalian mendoakan kejelekan untuk harta-harta kalian. Jangan sampai kalian menepati suatu waktu (yang telah ditetapkan) oleh Allah yang apabila dimohonkan padanya suatu permohonan (doa kejelekan tersebut), hingga Allah mengabulkannya untuk kalian.(HR Muslim no 3009, dari Sahabat Jabir bin Abdillah radhiyallahu ‘anhu)
 

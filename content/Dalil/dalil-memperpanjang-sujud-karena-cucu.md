@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. An-Nasa'i No. 1141 & Ahmad No. 16033"
     authority: 1.0
-    verification: "Shamela 11M / Sunan An-Nasa'i (Kitab at-Tathbiq) & Musnad Ahmad Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-سَجَدَ رَسُولُ اللَّهِ ﷺ سَجْدَةً أَطَالَهَا جِدًّا، فَرَفَعْتُ رَأْسِي فَإِذَا الصَّبِيُّ عَلَى ظَهْرِهِ، فَلَمَّا قَضَى الصَّلَاةَ قَالَ: إِنَّ ابْنِي ارْتَحَلَنِي، فَكَرِهْتُ أَنْ أُعَجِّلَهُ حَتَّى يَقْضِيَ حَاجَتَهُ
-</div>
+> [!QUOTE] Nas HR. An-Nasa'i No. 1141 & Ahmad No. 16033
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> سَجَدَ رَسُولُ اللَّهِ ﷺ سَجْدَةً أَطَالَهَا جِدًّا، فَرَفَعْتُ رَأْسِي فَإِذَا الصَّبِيُّ عَلَى ظَهْرِهِ، فَلَمَّا قَضَى الصَّلَاةَ قَالَ: إِنَّ ابْنِي ارْتَحَلَنِي، فَكَرِهْتُ أَنْ أُعَجِّلَهُ حَتَّى يَقْضِيَ حَاجَتَهُ
+> </div>
+>
+> [[dalil-memperpanjang-sujud-karena-cucu|Rujukan HR. An-Nasa'i No. 1141 & Ahmad No. 16033]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Rasulullah ﷺ sujud dengan sujud yang sangat panjang, maka aku mengangkat kepalaku dan ternyata ada anak kecil (cucu beliau) di atas punggung beliau. Maka tatkala beliau selesai shalat beliau bersabda: 'Sesungguhnya anakku (cucuku) ini menunggangiku, maka aku enggan untuk membuatnya tergesa-gesa sampai ia menyelesaikan hajat bermainnya.'"*  
 > 
 > *(Rujukan: HR. An-Nasa'i No. 1141 & Ahmad No. 16033)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam As-Sindi dalam *Hasyiyah Sunan An-Nasa'i* menerangkan kelembutan nabawiyah yang tiada tara: Nabi ﷺ mengorbankan waktu normal shalat berjamaah demi menghormati kepuasan fitrah bermain anak kecil. Beliau tidak mengibaskan punggungnya, tidak membentak, dan tidak memotong kebahagiaan sang cucu secara kasar. Ini membuktikan bahwa kebahagiaan batin anak dan pemenuhan fitrah bermainnya pada usia Thufulah adalah bagian dari maqashid syariah yang dijunjung tinggi oleh Rasulullah ﷺ.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Peristiwa cucu menaiki punggung Nabi menjadi contoh kelembutan kepada anak. Syarah kedua di bawah menjelaskan prinsip umum menyayangi dan bermain dengan anak, bukan syarah langsung sanad riwayat sujud; klaim maqashid khusus pada paragraf lama tidak dipertahankan.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> ففي هذا كله وأمثاله دليلٌ على أنه ينبغي للإنسان أن يرحم الصغار، ويلطف بهم، وأن ذلك سبب لرحمة الله
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 2 ص 552; OpenBayan lokal, chunk `55926`.
+> [[dalil-memperpanjang-sujud-karena-cucu|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> أي الصغير من المسلمين بأن يشفق عليه ويرحمه ويحسن إليه ويلاعبه
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 3 ص 213; OpenBayan lokal, chunk `53766`.
+> [[dalil-memperpanjang-sujud-karena-cucu|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 - **Penghormatan Dunia Bermain Thufulah:** Dunia anak usia 0–7 tahun adalah dunia bermain; pendidik dilarang memotong kebutuhan bermain anak dengan kekerasan.
 - **Koneksi Sebelum Koreksi:** Pendidik bersedia 'merendahkan punggungnya' demi memberi tumpangan afeksi bagi pertumbuhan jiwa anak.
 - **Empati Tingkat Tinggi:** Memahami bahasa tubuh anak tanpa tergesa-gesa menuntut kepatuhan kaku orang dewasa.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Ayah:** Sediakan waktu bermain kuda-kudaan di lantai bersama anak; biarkan ia puas menaiki punggung kita seraya tertawa gembira.
 2. **Bagi Guru TK/SD Rendah:** Rancang metode pembelajaran berbasis permainan (*game-based learning*) yang memfasilitasi kebutuhan gerak fisik anak.
 3. **Bagi Evaluasi Santri:** Pantau apakah kebutuhan bermain santri telah terpenuhi secara seimbang dengan waktu belajarnya.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `55926`, `53766`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

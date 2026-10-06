@@ -141,3 +141,18 @@ Dalam evaluasi skor kualitas hibrida, ditemukan bahwa **mentargetkan skor lebih 
 **Ketentuan Tata Kelola:**
 * Skor hibrida diposisikan sebagai **Safety Floor (Ambang Batas Minimum $\ge 70.0$)** untuk menjamin keterbacaan kognitif, bukan sebagai *Target Ceiling* yang harus dikejar hingga 100 dengan mengorbankan kedalaman substansi, akurasi dalil, atau gaya bahasa ilmiah.
 
+---
+
+## 8. Addendum Pasca-Run 3 OMP (6 Oktober 2026): Pelajaran dari 17 Subagent Choke & Batas Retry 10 Menit
+
+Pada evaluasi lanjutan Run 3 (5–6 Oktober 2026), orkestrasi OMP membakar **32,81M token** dan mengalami 485 kali error `HTTP 429/503` akibat membagi tugas audit dalil ke **17 subagent konkuren** secara serentak ke endpoint `mustaqbal-ai-pro` (lihat telaah lengkap di [`09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md`](09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md)).
+
+### Tindakan Preventif yang Telah Diterapkan:
+1. **Konfigurasi Retry 10 Menit di OMP:**  
+   Menyetel `maxDelayMs: 600000` (10 menit), `waitForUsageReset: true`, dan `baseDelayMs: 5000` pada `~/.omp/agent/config.yml`. Jika model upstream terkena rate limit, agent akan tertidur (*sleep*) pasif menunggu jendela pemulihan, bukan memicu badai pengulangan (*retry storm*).
+2. **Limitasi Konkurensi Mutlak (Max 2–3 Worker):**  
+   Dilarang keras melepaskan lebih dari 3 subagent paralel ke provider upstream yang sama. Eksekusi batch wajib diproses melalui antrean sekuensial.
+3. **Penyelamatan 19.5 MB Data Riset:**  
+   Inventaris hadits tarbiyah (`sources/audit_dalil_parenting/07_inventaris_arab.json` — 731 grup hadits) dan 9 artikel dalil di `content/Dalil/` diselamatkan untuk integrasi bertahap berikutnya tanpa membakar token tambahan.
+
+

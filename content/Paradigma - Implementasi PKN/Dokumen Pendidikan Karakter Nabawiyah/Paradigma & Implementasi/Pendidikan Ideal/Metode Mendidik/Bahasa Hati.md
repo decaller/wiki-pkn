@@ -79,6 +79,7 @@ tags:
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
+> **Dalil:** [[Dalil/dalil-bahasa-hati-kelembutan-ar-rifq]]
 > « إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ »
 >
 > *"Sesungguhnya kelemahlembutan (ar-rifq) tidaklah berada pada sesuatu melainkan ia akan memperindahnya (menjadikannya mulia), dan tidaklah kelemahlembutan itu dicabut dari sesuatu melainkan pasti akan memperburuknya (menjadikannya hina)."*
@@ -111,6 +112,8 @@ Rasulullah ﷺ adalah suri teladan agung dalam memenangkan hati para sahabatnya 
 
 ### A. Kisah Al-Aqra' bin Habis: Hati Kering yang Menolak Mencium Anak
 Al-Bukhari meriwayatkan pemandangan agung di kota Madinah:
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-kasih-sayang-mencium-anak]]
 > « قَبَّلَ رَسُولُ اللَّهِ ﷺ الحَسَنَ بْنَ عَلِيٍّ وَعِنْدَهُ الأَقْرَعُ بْنُ حَابِسٍ التَّمِيمِيُّ جَالِسًا، فَقَالَ الأَقْرَعُ: إِنَّ لِي عَشَرَةً مِنَ الوَلَدِ مَا قَبَّلْتُ مِنْهُمْ أَحَدًا، فَنَظَرَ إِلَيْهِ رَسُولُ اللَّهِ ﷺ ثُمَّ قَالَ: مَنْ لاَ يَرْحَمُ لاَ يُرْحَمُ »  
 > *"Rasulullah ﷺ mencium cucu beliau, Al-Hasan bin Ali, sementara di dekat beliau duduk Al-Aqra' bin Habis At-Tamimi. Al-Aqra' berkata dengan nada heran: 'Sesungguhnya aku memiliki sepuluh orang anak, namun tak seorang pun dari mereka yang pernah kucium!' Maka Rasulullah ﷺ memandangnya seraya bersabda: 'Barangsiapa tidak menyayangi, niscaya ia tidak akan disayangi!'"*  
 > 📚 *(HR. Al-Bukhari No. 5997 & Muslim No. 2318)*
@@ -129,6 +132,8 @@ Rasulullah ﷺ mengucapkan ikrar cinta dua kali berturut-turut, menggenggam jema
 
 ### C. Anas bin Malik: Sepuluh Tahun dalam Naungan Bahasa Hati
 Anas bin Malik radhiyallahu 'anhu mengisahkan pengalamannya melayani Rasulullah ﷺ sejak usia 10 tahun:
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-hr-bukhari-6038]]
 > « خَدَمْتُ رَسُولَ اللَّهِ ﷺ عَشْرَ سِنِينَ، فَمَا قَالَ لِي أُفٍّ قَطُّ، وَمَا قَالَ لِشَيْءٍ صَنَعْتُهُ: لِمَ صَنَعْتَهُ؟ وَلَا لِشَيْءٍ تَرَكْتُهُ: لِمَ تَرَكْتَهُ؟ »  
 > *"Aku melayani Rasulullah ﷺ selama sepuluh tahun. Demi Allah, beliau tidak pernah sekalipun berkata kepadaku 'Ah/Cih!' dan beliau tidak pernah mencela perbuatanku: 'Mengapa engkau lakukan ini?' atau pada sesuatu yang kutinggalkan: 'Mengapa engkau tidak lakukan ini?'"*  
 > 📚 *(HR. Al-Bukhari No. 6038 & Muslim No. 2309)*

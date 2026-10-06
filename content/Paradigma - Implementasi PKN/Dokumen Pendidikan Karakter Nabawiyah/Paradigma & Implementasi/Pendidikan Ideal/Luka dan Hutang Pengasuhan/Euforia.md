@@ -78,6 +78,7 @@ Kedua bentuk euforia ini berakar dari pelanggaran terhadap kaidah agung sunnah n
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menjaga Kontinuitas dan Keseimbangan Amal
 > **Teks Hadits Shahih:**  
+> **Dalil:** [[Dalil/dalil-tazkiyah-tahalli-istiqamah-amalan-harian]]
 > « أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ تَعَالَى أَدْوَمُهَا وَإِنْ قَلَّ »  
 > *"Amalan yang paling dicintai oleh Allah Ta'ala adalah amalan yang paling konsisten (kontinu) meskipun jumlahnya sedikit."*  
 > — **HR. Bukhari (No. 6464) & Muslim (No. 783)**  

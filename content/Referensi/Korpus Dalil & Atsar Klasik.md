@@ -37,11 +37,31 @@ Platform **OpenBayan** kini terintegrasi penuh dengan **seluruh dataset Maktabah
 
 | Contoh Pencarian | Topik | Link Langsung |
 | :--- | :--- | :--- |
-| `مروا أولادكم بالصلاة` | Hadits Perintah Shalat (PKN Utama) | [🔍 Buka Pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D8%B1%D9%88%D8%A7+%D8%A3%D9%88%D9%84%D8%A7%D8%AF%D9%83%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9&lang=id) |
-| `كل مولود يولد على الفطرة` | Hadits Fitrah Manusia | [🔍 Buka Pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%84+%D9%85%D9%88%D9%84%D9%88%D8%AF+%D9%8A%D9%88%D9%84%D8%AF+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%81%D8%B7%D8%B1%D8%A9&lang=id) |
-| `من رأى منكم منكرا فليغيره بيده` | Hadits Tiga Bahasa Mendidik | [🔍 Buka Pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%86+%D8%B1%D8%A3%D9%89+%D9%85%D9%86%D9%83%D9%85+%D9%85%D9%86%D9%83%D8%B1%D8%A7+%D9%81%D9%84%D9%8A%D8%BA%D9%8A%D8%B1%D9%87+%D8%A8%D9%8A%D8%AF%D9%87&lang=id) |
-| `الراحمون يرحمهم الرحمن` | Hadits Kasih Sayang dalam Mendidik | [🔍 Buka Pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D9%85%D9%88%D9%86+%D9%8A%D8%B1%D8%AD%D9%85%D9%87%D9%85+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&lang=id) |
+| Perintah shalat | [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Hadits Perintah Shalat (PKN Utama)]] | [Buka pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D8%B1%D9%88%D8%A7+%D8%A3%D9%88%D9%84%D8%A7%D8%AF%D9%83%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9&lang=id) |
+| Fitrah kelahiran | [[Dalil/dalil-fitrah-kesucian-anak|Hadits Fitrah Manusia]] | [Buka pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%84+%D9%85%D9%88%D9%84%D9%88%D8%AF+%D9%8A%D9%88%D9%84%D8%AF+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%81%D8%B7%D8%B1%D8%A9&lang=id) |
+| Mengubah kemungkaran | [[Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati|Hadits mengubah kemungkaran]] | [Buka pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%86+%D8%B1%D8%A3%D9%89+%D9%85%D9%86%D9%83%D9%85+%D9%85%D9%86%D9%83%D8%B1%D8%A7+%D9%81%D9%84%D9%8A%D8%BA%D9%8A%D8%B1%D9%87+%D8%A8%D9%8A%D8%AF%D9%87&lang=id) |
+| Kasih sayang | [[Dalil/dalil-kasih-sayang-ar-rahimun|Hadits Kasih Sayang dalam Mendidik]] | [Buka pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D9%85%D9%88%D9%86+%D9%8A%D8%B1%D8%AD%D9%85%D9%87%D9%85+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&lang=id) |
 | `تربية الأبناء` | Tarbiyah & Pengasuhan Anak | [🔍 Buka Pencarian](https://openbayan.insanmustaqbal.or.id/search?q=%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D8%A8%D9%86%D8%A7%D8%A1&lang=id) |
+
+### Petikan nas untuk penelusuran
+
+Petikan berikut adalah bagian nas, bukan teks lengkap. Takhrij, konteks, dan penjelasan kitab tersedia di halaman masing-masing.
+
+> [!quote] Perintah shalat — [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Nas lengkap dan syarah]]
+> مروا أولادكم بالصلاة
+> “Perintahkan anak-anak kalian shalat.” — petikan HR. Abu Dawud 495.
+
+> [!quote] Fitrah — [[Dalil/dalil-fitrah-kesucian-anak|Nas lengkap dan syarah]]
+> كل مولود يولد على الفطرة
+> “Setiap anak dilahirkan di atas fitrah.” — petikan HR. Al-Bukhari 1358 dan Muslim 2658.
+
+> [!quote] Mengubah kemungkaran — [[Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati|Nas lengkap dan syarah]]
+> من رأى منكم منكرا فليغيره بيده
+> “Siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya.” — petikan HR. Muslim 49.
+
+> [!quote] Kasih sayang — [[Dalil/dalil-kasih-sayang-ar-rahimun|Nas lengkap dan syarah]]
+> الراحمون يرحمهم الرحمن
+> “Orang-orang yang penyayang disayangi oleh Ar-Rahman.” — petikan HR. Abu Dawud 4941 dan At-Tirmidzi 1924.
 
 > [!tip] Cara Menggunakan Link OpenBayan di Wiki PKN
 > Klik tombol **🔍 Telusuri di OpenBayan** yang tersedia di setiap dalil dalam artikel Wiki PKN untuk membuka langsung hasil pencarian komprehensif dari ribuan kitab klasik. Hasil pencarian ditampilkan dalam konteks lengkap berbagai kitab referensi dari **seluruh dataset Maktabah Syamilah**.

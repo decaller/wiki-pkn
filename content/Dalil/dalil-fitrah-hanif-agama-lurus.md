@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Ar-Rum: 30"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-fitrah-hanif-agama-lurus|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Maka hadapkanlah wajahmu dengan lurus kepada agama (Islam); (sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu. Tidak ada perubahan pada ciptaan Allah. (Itulah) agama yang lurus, tetapi kebanyakan manusia tidak mengetahui."*  
 > 
 > *(Rujukan: QS. Ar-Rum: 30)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 6 Hal. 308) menjelaskan: 'Tegakkanlah wajahmu dan istiqamahlah di atas agama yang disyariatkan Allah kepadamu, yaitu agama Nabi Ibrahim yang hanif (lurus condong kepada kebenaran). Allah menciptakan manusia dengan fitrah mengenal-Nya, mentauhidkan-Nya, dan mengakui bahwa tidak ada sesembahan yang berhak diibadahi selain Dia.' Kalimat *la tabdila li-khalqillah* bermakna janganlah merusak ciptaan fitrah Allah dengan mengubah manusia ke jalan kesyirikan.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Fitrah dan agama lurus menjadi landasan menjaga tauhid. Kutipan Ibnu Katsir berikut menghubungkan perubahan ciptaan dengan QS. Ar-Rum: 30.
+
+> [!QUOTE] Kutipan ulama — أعلام الحديث (شرح صحيح البخاري)
+>
+> <div dir="rtl">
+> ضرب البهيمة السليمة الخلقة أول ما تنتج مثلا للمولود في سلامة فطرته من الشرك والإلحاد أول ما يولد
+> </div>
+>
+> **Sumber:** الخطابي, *أعلام الحديث (شرح صحيح البخاري)*, ج 1 ص 714; chunk `36202`.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط العلمية
+>
+> <div dir="rtl">
+> أي لا تبدلوا فطرة الله ودعوا الناس على فطرتهم
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ط العلمية*, ج 2 ص 368; chunk `66685`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 - **Integrasi Agama dan Fitrah:** Syariat Islam selaras 100% dengan kebutuhan fitrah manusia; ketaatan membawa kesehatan mental, kemaksiatan memicu patologi jiwa.
 - **Pencegahan Mutasi Fitrah:** Pendidikan sekuler mengubah ciptaan Allah; PKN mengembalikan manusia pada desain orisinal fitrahnya.
 - **Konsistensi Manhaj:** Kurikulum tarbiyah harus tunduk pada sunnatullah perkembangan fitrah anak.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Tunjukkan bahwa ketaatan beragama adalah sumber kebahagiaan alami keluarga, bukan beban yang mengekang kebebasan.
 2. **Bagi Guru:** Susun kurikulum yang menghormati ritme alami tubuh dan batin anak (tidak membebani berlebihan).
 3. **Bagi Evaluasi Santri:** Ukur apakah ketaatan ibadah santri dilakukan dengan suka cita sukarela atau rasa terpaksa.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 36202, 66685. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Muslim No. 2664 & Ibnu Majah No. 79"
     authority: 1.0
-    verification: "Shamela 11M / Shahih Muslim (Kitab al-Qadar) & Sunan Ibnu Majah Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ، احْرِصْ عَلَى مَا يَنْفَعُكَ، وَاسْتَعِنْ بِاللَّهِ وَلَا تَعْجَزْ
-</div>
+> [!QUOTE] Nas HR. Muslim No. 2664 & Ibnu Majah No. 79
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ، احْرِصْ عَلَى مَا يَنْفَعُكَ، وَاسْتَعِنْ بِاللَّهِ وَلَا تَعْجَزْ
+> </div>
+>
+> [[dalil-ketahanan-fisik-ksatria|Rujukan HR. Muslim No. 2664 & Ibnu Majah No. 79]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Orang mukmin yang kuat adalah lebih baik dan lebih dicintai oleh Allah daripada orang mukmin yang lemah, namun pada masing-masing ada kebaikan. Bersemangatlah meraih apa yang bermanfaat bagimu, mohonlah pertolongan kepada Allah, dan janganlah kamu bersikap lemah (patah semangat)!"*  
 > 
 > *(Rujukan: HR. Muslim No. 2664 & Ibnu Majah No. 79)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 215) menjelaskan bahwa kekuatan (*al-quwwah*) di sini mencakup: kekuatan tekad batin, kekuatan iman dan keberanian moral, serta kekuatan stamina fisik dan kesehatan jasmani. Mukmin yang kuat lebih mampu menegakkan shalat malam, berpuasa panjang, berjihad membela kaum tertindas, menuntut ilmu hingga larut, menegakkan amar ma'ruf nahi munkar, dan menanggung beban penderitaan dakwah. Kalimat *ihrish 'ala ma yanfa'uk* adalah kaidah efisiensi hidup: membuang segala kesia-siaan dan fokus pada hal-hal yang mendatangkan maslahat dunia-akhirat.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kekuatan dalam syarah terlacak terutama menunjuk kekuatan iman dan kesungguhan ibadah, bukan ukuran stamina saja. Latihan fisik merupakan aplikasi pendukung, bukan keseluruhan makna hadis atau alasan merendahkan anak dengan keterbatasan fisik.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> المؤمن القوي: يعني في إيمانه، وليس المراد القوي في بدنه
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 2 ص 76; OpenBayan lokal, chunk `55450`.
+> [[dalil-ketahanan-fisik-ksatria|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> هو من له صدق رغبة في أمور الآخرة فيكون أكثر إقداماً على العبادات.
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 2 ص 316; OpenBayan lokal, chunk `53328`.
+> [[dalil-ketahanan-fisik-ksatria|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 - **Pilar Ketangkasan Ksatria Nabawiyah:** Sunnah memanah, berkuda, berenang, dan beladiri ditujukan untuk membangun ketahanan fisik ksatria penopang dakwah.
 - **Pemberantasan Mental Rapuh:** Santri PKN dididik menolak mental lembek, mudah cemas, mengeluh, dan gampang patah semangat (*la ta'jaz*).
 - **Integrasi Tawakkal dan Ikhtiar:** Berjuang sekuat tenaga (*ihrish*) seraya bersandar penuh pada pertolongan Allah (*wasta'in billah*).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Jaga pola makan bergizi, cukupi tidur, dan biasakan anak berolahraga fisik di luar ruangan setiap pagi.
 2. **Bagi Guru:** Integrasikan kurikulum beladiri dan ketangkasan fisik ke dalam agenda wajib sekolah.
 3. **Bagi Evaluasi Santri:** Uji ketahanan stamina santri dalam kegiatan lintas alam (hiking/tadabbur alam).
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `55450`, `53328`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

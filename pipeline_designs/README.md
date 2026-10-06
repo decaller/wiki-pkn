@@ -371,3 +371,24 @@ Silakan merujuk ke masing-masing dokumen spesifikasi detail berikut:
 - ⚖️ [08. Pipeline Halaman Komparasi Konsep Pendidikan](08_pipeline_halaman_komparasi_konsep.md)
 - 📋 [09. Pipeline Halaman Template & Toolkit KBM](09_pipeline_halaman_template_toolkit.md)
 - 🏫 [10. Pipeline Halaman Profil Lembaga Pengadopsi](10_pipeline_halaman_profil_lembaga.md)
+- ⚡ [11. Pipeline Evaluasi Kualitas Hibrida (System One)](11_hybrid_quality_evaluation_system_one.md)
+- ⚖️ [12. Dewan Syura LLM Council Architecture](12_dewan_syura_llm_council_architecture.md)
+
+---
+
+## 9. Prinsip Efisiensi Token & Concurrency Guardrail Multi-Agent
+
+Berdasarkan evaluasi forensik konsumsi token (lihat detail di [`../analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md`](../analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md)), seluruh implementasi pipeline orkestrasi wajib mematuhi empat pilar guardrail efisiensi:
+
+1. **Zero-Token First Paradigm (Deterministik Mendahului Generatif):**
+   - Tugas struktural, parsing AST, normalisasi tautan, validasi ejaan kosa kata manhaj, dan ekstraksi metadata diwajibkan menggunakan parser Python lokal (0 token, $<10$ ms), bukan model bahasa generatif.
+   - Pengecekan dalil wajib memanfaatkan database lokal SQLite FTS5 / Qdrant (`shamela_11m`) sebelum menanyakan syarah ke LLM.
+2. **Strict Concurrency Throttling (Maksimal 2–3 Subagent Paralel):**
+   - Dilarang keras melakukan *fan-out* monolitik ($>5$ subagent paralel) ke endpoint model atau proxy upstream yang sama untuk mencegah terjadinya *upstream rate limit choke* (`HTTP 429/503`).
+   - Eksekusi wajib menggunakan pola *Worker Pool* berurutan dengan antrean terukur.
+3. **Jendela Retry 10 Menit & Exponential Backoff:**
+   - Konfigurasi retry wajib menetapkan `maxDelayMs: 600000` (rentang 10 menit) dan `waitForUsageReset: true`.
+   - Jika upstream mengembalikan kode 429/503 dengan waktu reset kuota, prosesor wajib tertidur (*sleep*) pasif hingga batas waktu berakhir, bukan memicu *retry storm* cepat yang membakar kuota turn.
+4. **Modifikasi Korpus Bersifat Atomik (*Atomic State Integrity*):**
+   - Dilarang membuat tautan `[[Target]]` di artikel sebelum berkas target selesai digenerate dan diverifikasi di filesystem lokal untuk mencegah broken links dan halaman yatim piatu (*orphan pages*).
+

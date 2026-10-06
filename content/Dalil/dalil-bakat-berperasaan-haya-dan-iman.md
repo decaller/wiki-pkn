@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 9 & Muslim No. 35"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Iman) & Shahih Muslim Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-الْإِيمَانُ بِضْعٌ وَسَبْعُونَ - أَوْ بِضْعٌ وَسِتُّونَ - شُعْبَةً، فَأَفْضَلُهَا قَوْلُ: لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> الْإِيمَانُ بِضْعٌ وَسَبْعُونَ - أَوْ بِضْعٌ وَسِتُّونَ - شُعْبَةً، فَأَفْضَلُهَا قَوْلُ: لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ
+> </div>
+>
+> [[dalil-bakat-berperasaan-haya-dan-iman|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Iman itu memiliki tujuh puluh lebih—atau enam puluh lebih—cabang. Yang paling utama adalah ucapan Laa ilaaha illallaah, dan yang paling rendah adalah menyingkirkan duri/gangguan dari jalanan; dan rasa malu adalah salah satu cabang dari keimanan."*  
 > 
 > *(Rujukan: HR. Bukhari No. 9 & Muslim No. 35)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 1 Hal. 52) menjelaskan bahwa *al-haya'* adalah akhlak terpuji yang mendorong pemiliknya untuk meninggalkan perbuatan buruk dan mencegahnya dari meremehkan hak orang lain. Nabi ﷺ mengistimewakan rasa malu di antara cabang-cabang iman lainnya karena rasa malu adalah lokomotif moral: jika seseorang memiliki rasa malu kepada Allah dan manusia, niscaya cabang-cabang iman yang lain akan mengikutinya secara alami. Sebaliknya, jika rasa malu telah tanggal dari jiwa seseorang, ia akan berbuat sekehendak hawa nafsunya tanpa batas.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Haya' membatasi perilaku tercela dan mendorong akhlak luhur. Penerapannya pada kepekaan nurani merupakan analisis kontributor, bukan penyamaan rasa malu syar'i dengan semua sikap pendiam atau ketakutan sosial.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> فإذا كان الإنسان حييا لا يتكلم بما يدنسه عند الناس ولا يفعل ما يدنسه عند الناس بل تجده وقورا ساكنا مطمئنا فهذا من علامة الإيمان
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 4 ص 32; OpenBayan lokal, chunk `56690`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> الحياء يكف صاحبه عن ارتكاب القبائح ودناءة الأخلاق، ويحثه على مكارم الأخلاق ومعاليها.
+> </div>
+>
+> **Sumber:** تطريز رياض الصالحين, فيصل آل مبارك, ص 437; OpenBayan lokal, chunk `58066`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Berperasaan]]**, yaitu:
 - **Sub-Bakat Berperasaan (TB-40):** Kepekaan nurani, empati mendalam, rasa sungkan berbuat tercela, dan penjagaan kehormatan diri (*muru'ah*).
 - **Benteng di Era Narsisme Digital:** Melindungi fitrah rasa malu anak dari budaya pamer aurat dan 'flexing' di media sosial modern.
 - **Koneksi Sebelum Koreksi:** Mengasah rasa malu anak kepada Allah jauh lebih efektif daripada ancaman pengawasan fisik kamera CCTV.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tanamkan adab berpakaian sopan dan menutup pintu saat berganti pakaian sejak usia dini untuk memupuk benih rasa malu.
 2. **Bagi Guru:** Hargai kepekaan batin santri yang pendiam; jangan samakan rasa malu yang mulia (*haya'*) dengan sikap minder (*khasyisyah*).
 3. **Bagi Evaluasi Santri:** Pantau apakah santri merasa bersalah dan tersipu malu saat tidak sengaja melakukan perbuatan tidak sopan.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Berperasaan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `56690`, `58066`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

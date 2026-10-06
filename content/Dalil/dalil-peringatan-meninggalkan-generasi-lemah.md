@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. An-Nisa': 9"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا
-</div>
+> [!QUOTE] Nas QS. An-Nisa': 9
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا
+> </div>
+>
+> [[dalil-peringatan-meninggalkan-generasi-lemah|Rujukan QS. An-Nisa': 9]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan hendaklah takut kepada Allah orang-orang yang seandainya meninggalkan di belakang mereka anak-anak yang lemah, yang mereka khawatir terhadap (kesejahteraan) mereka. Oleh sebab itu hendaklah mereka bertakwa kepada Allah dan hendaklah mereka mengucapkan perkataan yang benar."*  
 > 
 > *(Rujukan: QS. An-Nisa': 9)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 2 Hal. 219) menerangkan bahwa kelemahan keturunan (*dzurriyyatan dhi'afa*) mencakup seluruh dimensi: lemah akidah dan agamanya, lemah moral dan akhlaknya, lemah akal dan keilmuannya, serta lemah fisik dan kemandirian ekonominya. Allah memberikan resep utama agar generasi tidak tumbuh menjadi generasi lemah: pertama, orang tua wajib bertakwa kepada Allah dalam seluruh gerak-geriknya (*falyattaqullah*); kedua, mendidik anak dengan perkataan yang benar, jujur, terarah, dan mendidik (*wa yaqulu qaulan sadida*).
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Konteks tafsir terlacak adalah wasiat yang merugikan ahli waris serta perlindungan anak yatim. Perluasan ke ketahanan pendidikan generasi merupakan aplikasi kontributor; tidak dinisbatkan sebagai tafsir literal empat dimensi kelemahan kepada Ibnu Katsir.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ت السلامة
+>
+> <div dir="rtl">
+> هذا في الرجل يَحْضُره الموت، فيسمعه الرجل يوصي بوصية تَضر بورثته
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ت السلامة*, ج 2 ص 222; OpenBayan lokal, chunk `64501`.
+> [[dalil-peringatan-meninggalkan-generasi-lemah|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> لأن اليتيم قد انكسر قلبه بموت أبيه، فهو محل للعطف والرحمة
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 3 ص 80; OpenBayan lokal, chunk `56068`.
+> [[dalil-peringatan-meninggalkan-generasi-lemah|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Qawwamah dan Rahimah]]**, yaitu:
 - **Visi Ketahanan Generasi PKN:** Menolak lahirnya generasi strawberry yang rapuh mental, cengeng, hedonis, dan bergantung pada belas kasihan orang lain.
 - **Pendidikan Holistik 4 Dimensi:** Menguatkan ruhani (tauhid), akal (hikmah), fisik (ksatria), dan finansial (mandiri rusyd).
 - **Koneksi Sebelum Koreksi:** Ketakwaan batin orang tua adalah jaminan pemeliharaan ilahi bagi keturunannya setelah ia wafat.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Bangun warisan integritas karakter dan ilmu bermanfaat bagi anak, bukan sekadar menimbun tumpukan warisan harta materi.
 2. **Bagi Pengambil Kebijakan:** Susun kurikulum ketahanan mental dan kemandirian hidup santri menghadapi tantangan zaman.
 3. **Bagi Evaluasi Santri:** Pantau kemandirian santri dalam menyelesaikan urusan pribadinya tanpa mengeluh.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Qawwamah dan Rahimah]]**, yai
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `64501`, `56068`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

@@ -82,6 +82,7 @@ Dokumen ini merupakan cetak biru (*grand design*) dan arsitektur induk sistem **
 > 
 > *"Sesungguhnya Al Quran ini memberikan petunjuk kepada (jalan) yang lebih lurus dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan amal saleh bahwa bagi mereka ada pahala yang besar."*  
 > — **QS. Al-Isra': 9**
+> **Tafsir ayat:** [[dalil-qs-17-9]].
 > 
 > 📚 **Rujukan Tafsir OpenBayan:** *Tafsir Ibnu Katsir* menegaskan bahwa petunjuk Al-Qur'an adalah jalan yang paling tegak, paling adil, paling lurus (*aqwam*), dan tidak ada kebengkokan di dalamnya.  
 > 💡 **Relevansi PKN:** PKN meletakkan wahyu Ilahi sebagai rujukan mutlak di atas seluruh teori psikologi manusia yang rentan berubah dan terbatas pandangannya.

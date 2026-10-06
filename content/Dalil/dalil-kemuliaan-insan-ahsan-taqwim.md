@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. At-Tin: 4"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
-</div>
+> [!QUOTE] Nas QS. At-Tin: 4
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+> </div>
+>
+> [[dalil-kemuliaan-insan-ahsan-taqwim|Rujukan QS. At-Tin: 4]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya."*  
 > 
 > *(Rujukan: QS. At-Tin: 4)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 8 Hal. 436) menjelaskan bahwa Allah bersumpah dengan empat tempat berkah untuk menegaskan bahwa manusia diciptakan dalam rupa yang paling sempurna, tegak berdiri, serasi anggota tubuhnya, dan dibekali dengan akal pikiran serta daya nalar hikmah. Namun kemuliaan ahsan taqwim ini akan runtuh ke derajat terendah (*asfala safilin*) jika manusia mendurhakai syariat dan memperturutkan hawa nafsunya.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kemuliaan insan menjadi dasar penghormatan anak dan adab beribadah. Dua syarah di bawah membahas akibat etik kemuliaan ciptaan, bukan tafsir langsung lengkap QS. At-Tin: 4; atribusi halaman tafsir lama tidak dipertahankan.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> كان احتقاره احتقاراً لما عظمه الله وشرّفه
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 3 ص 21; OpenBayan lokal, chunk `53574`.
+> [[dalil-kemuliaan-insan-ahsan-taqwim|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — فيض الباري على صحيح البخاري
+>
+> <div dir="rtl">
+> فمن كان خُلِقَ على أحسن تقويمٍ، لا ينبغي له أن يَحْضُرَ بين يدي خالقه على هيئة الأنعام.
+> </div>
+>
+> **Sumber:** الكشميري, *فيض الباري على صحيح البخاري*, ج 2 ص 390; OpenBayan lokal, chunk `47558`.
+> [[dalil-kemuliaan-insan-ahsan-taqwim|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 - **Penghormatan Martabat Anak:** Setiap anak memiliki martabat bawaan yang wajib dihormati; pendidik dilarang mencela rupa, cacat fisik, atau keterbatasan bawaan anak.
 - **Pencegahan Degradasi Fitrah:** Pendidikan berfungsi sebagai benteng perlindungan agar potensi ahsan taqwim tidak merosot menjadi asfala safilin.
 - **Kepercayaan Diri Berbasis Syukur:** Menanamkan rasa syukur atas postur dan bakat unik yang dianugerahkan Allah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Puji keindahan akhlak dan kesungguhan anak di depan keluarga untuk membangun konsep diri yang mulia.
 2. **Bagi Guru:** Ciptakan budaya anti-bullying di sekolah; tegakkan aturan tegas terhadap ejekan fisik atau latar belakang santri.
 3. **Bagi Evaluasi Santri:** Pantau bagaimana santri mensyukuri kelebihan dirinya tanpa merendahkan kekurangan temannya.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Insan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `53574`, `47558`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

@@ -77,6 +77,9 @@ tags:
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-abu-dawud-3641]]
 > « إِنَّ الْعُلَمَاءَ وَرَثَةُ الْأَنْبِيَاءِ، وَإِنَّ الْأَنْبِيَاءَ لَمْ يُوَرِّثُوا دِينَارًا وَلَا دِرْهَمًا، وَإِنَّمَا وَرَّثُوا الْعِلْمَ، فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ »
 >
 > *"Sesungguhnya para ulama (guru dan pendidik) adalah pewaris para nabi. Dan sesungguhnya para nabi tidak mewariskan dinar maupun dirham, melainkan mereka mewariskan ilmu. Maka barangsiapa mengambilnya, sungguh ia telah mengambil bagian keuntungan yang sangat besar."*
@@ -105,6 +108,9 @@ Rasulullah ﷺ menetapkan standar tertinggi bagi siapa saja yang mengemban profe
 
 ### A. Wasiat Beliau kepada Mu'adz bin Jabal & Abu Musa Al-Asy'ari
 Ketika Rasulullah ﷺ mengutus kedua sahabat agung ini menjadi pendidik dan da'i bagi penduduk Yaman, beliau membekali mereka dengan kaidah pedagogi emas:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-3038]]
 > « يَسِّرَا وَلَا تُعَسِّرَا، وَبَشِّرَا وَلَا تُنَفِّرَا، وَتَطَاوَعَا وَلَا تَخْتَلِفَا »  
 > *"Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat orang lari menjauh, serta bersatu-padulah kalian berdua dan jangan saling berselisih!"*  
 > 📚 *(HR. Al-Bukhari No. 3038 & Muslim No. 1733)*
@@ -113,6 +119,9 @@ Guru yang meneladani sunnah nabawiyah adalah sosok yang membuat ilmu terasa memi
 
 ### B. Memperhatikan Kondisi Psikologis Murid (Tidak Menjemukan)
 Abdullah bin Mas'ud radhiyallahu 'anhu mengisahkan bagaimana Rasulullah ﷺ mengatur jadwal ta'lim:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-68]]
 > « كَانَ النَّبِيُّ ﷺ يَتَخَوَّلُنَا بِالْمَوْعِظَةِ فِي الأَيَّامِ، كَرَاهَةَ السَّآمَةِ عَلَيْنَا »  
 > *"Adalah Nabi ﷺ senantiasa memilih-milih hari dan waktu yang tepat dalam memberikan nasihat kepada kami, karena beliau khawatir menimbulkan kebosanan pada diri kami."*  
 > 📚 *(HR. Al-Bukhari No. 68 & Muslim No. 2821)*

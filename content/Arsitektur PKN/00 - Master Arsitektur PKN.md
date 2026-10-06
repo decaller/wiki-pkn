@@ -108,6 +108,8 @@ Arsitektur makro ini ditegakkan di atas prinsip wahyu bahwa iman adalah prasyara
 > </div>
 > 
 > *"Kami dahulu bersama Nabi ﷺ ketika kami masih pemuda belia (hazaawirah). Kami mempelajari iman sebelum kami mempelajari Al-Qur'an. Kemudian kami mempelajari Al-Qur'an, sehingga bertambahlah keimanan kami dengannya."* [^1]
+>
+> **Terjemahan kerja kontributor;** bagian awal terjemahan merangkum konteks riwayat, bukan seluruhnya teks Arab yang ditampilkan. [[dalil-iman-sebelum-quran|Baca nas lengkap, takhrij, dan syarah iman sebelum Al-Qur'an]].
 > 
 > 💡 **Relevansi Pedagogis:** Pendidikan tidak boleh membalik hierarki fitrah. Menanamkan teks Al-Qur'an dan hukum fiqih kepada anak yang belum terbangun rasa cintanya kepada Allah dan Rasul-Nya akan melahirkan kejenuhan, bukan ketundukan batin.
 

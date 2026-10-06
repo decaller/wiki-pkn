@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Adz-Dzariyat: 56"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
-</div>
+> [!QUOTE] Ayat Al-Quran
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
+> </div>
+>
+> [[dalil-tujuan-penciptaan-ibadah|Rujukan Ayat Al-Quran]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka mengabdi (beribadah) kepada-Ku."*  
 > 
 > *(Rujukan: QS. Adz-Dzariyat: 56)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 7 Hal. 425) menjelaskan bahwa makna ayat ini adalah: 'Sesungguhnya Aku menciptakan mereka agar Aku memerintahkan mereka beribadah kepada-Ku, bukan karena Aku membutuhkan mereka.' Ali bin Abi Thalib radhiyallahu 'anhu menafsirkan: 'Kecuali agar Aku memerintahkan mereka untuk beribadah dan mengajak mereka beribadah.' Ibnu Abbas radhiyallahu 'anhuma menafsirkan *liya'buduni* dengan *liyuwahhiduni* (agar mereka mentauhidkan-Ku). Ibadah mencakup ketundukan sukarela jiwa manusia kepada syariat Sang Pencipta dalam setiap hembusan nafas.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Orientasi ibadah memberi arah bagi belajar dan bekerja. Penerapan kurikulum merupakan analisis kontributor, bukan redaksi tafsir yang dikutip.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> أي يوحدون، مع أن العبادة أعم، نعم يذكر التوحيد في هذا الباب باعتبار أنه رأس العبادات
+>
+> **Sumber:** *شرح صحيح البخاري - عبد الكريم الخضير*, عبد الكريم الخضير; ج 10 ص 15 (OpenBayan SQLite, chunk `45805`).
+> [[dalil-tujuan-penciptaan-ibadah|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> أي: لا بد أن يكون لخلق السماوات والأرض غاية محمودة، يحمد الرب عليها ﷿
+>
+> **Sumber:** *شرح رياض الصالحين لابن عثيمين*, ابن عثيمين; ج 1 ص 584 (OpenBayan SQLite, chunk `55371`).
+> [[dalil-tujuan-penciptaan-ibadah|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tujuan Hidup Manusia]]**, yaitu:
 - **Ghayah Kubra (Tujuan Tertinggi):** Pendidikan bukan sekadar mencetak tenaga kerja ekonomi atau kepintaran akademik sekuler, melainkan menegakkan status hamba (*'abdullah*).
 - **Integrasi Aktivitas Hidup:** Belajar, bermain, makan, beristirahat, dan berkarya diorientasikan sebagai rangkaian ibadah yang diniatkan mencari ridha Allah.
 - **Visi Pendidikan Holistik:** Mengikis pemisahan sekuler antara ilmu agama dan ilmu dunia.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Tanamkan kesadaran bahwa anak adalah hamba Allah sebelum menjadi anak kita; hak Allah atas ketaatan anak melampaui ambisi duniawi orang tua.
 2. **Bagi Guru:** Kaitkan setiap mata pelajaran—sains, matematika, sastra—dengan keagungan tanda-tanda kebesaran Allah (ayat kauniyah).
 3. **Bagi Evaluasi Santri:** Latih santri merumuskan niat ibadah sebelum memulai tugas harian dan proyek keumatan.
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tujuan Hidup Manusia]]**, yai
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `45805`, `55371`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

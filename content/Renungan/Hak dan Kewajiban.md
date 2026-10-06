@@ -23,6 +23,7 @@ Kita mengenal dengan wajib belajar anak 9 tahun, dan kita berusaha memenuhinya s
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
+> [[Dalil/dalil-keseimbangan-hak-tuhan-jiwa-dan-keluarga|Nas, takhrij, dan syarah keseimbangan hak]].
 > « إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلِأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ »
 >
 > *"Sesungguhnya bagi Rabb-mu ada hak atas dirimu, bagi dirimu sendiri ada hak atas dirimu, dan bagi keluargamu ada hak atas dirimu. Maka berikanlah kepada setiap yang memiliki hak akan haknya masing-masing!"*
@@ -37,6 +38,7 @@ Padahal, pondasi dari melakukan kewajibannya (beramal) adalah kesadaran. Kesadar
 
 > [!quote] Dalil & Rujukan Nabawiyah: Kemurnian Fitrah Bawaan Lahir
 > **Naskah:**  
+> [[Dalil/dalil-fitrah-kesucian-anak|Nas, takhrij, dan syarah fitrah anak]].
 > « كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ »  
 > 
 > *"Setiap anak dilahirkan di atas fitrah (potensi tauhid dan kesucian). Maka kedua orang tuanyalah yang menjadikannya seorang Yahudi, Nasrani, atau Majusi..."*  
@@ -49,6 +51,7 @@ Mungkin sebagian dari kita melihat hadis ini sekilas dan menyimpulkan bahwa arti
 
 > [!quote] Dalil & Rujukan Nabawiyah: Tahapan Tadarruj Perintah Shalat
 > **Naskah:**  
+> [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Nas, takhrij, dan syarah perintah shalat usia tujuh dan sepuluh tahun]].
 > « مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرٍ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ »  
 > 
 > *"Perintahkanlah anak-anak kalian untuk mendirikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan edukatif tanpa menciderai) karena meninggalkannya ketika berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*  
@@ -61,6 +64,7 @@ Maka pada usia dibawah 7 tahun, tidak ada perintah untuk sholat. Jika sholat seb
 
 > [!quote] Dalil & Rujukan Nabawiyah: Memperpanjang Sujud demi Hak Bermain Anak
 > **Naskah:**  
+> [[Dalil/dalil-memperpanjang-sujud-karena-cucu|Nas, takhrij, dan syarah sujud Nabi karena cucu]].
 > « فَسَجَدَ رَسُولُ اللَّهِ ﷺ سَجْدَةً أَطَالَهَا... فَقَالَ: إِنَّ ابْنِي ارْتَحَلَنِي، فَكَرِهْتُ أَنْ أُعَجِّلَهُ حَتَّى يَقْضِيَ حَاجَتَهُ »  
 > 
 > *"Lalu Rasulullah ﷺ bersujud dengan sujud yang sangat panjang... Seusai shalat beliau bersabda: 'Sesungguhnya cucuku ini telah menjadikanku tunggangannya (menaiki punggungku), maka aku enggan menyudahinya secara tergesa-gesa hingga ia menuntaskan hajat bermainnya'."*  
@@ -70,6 +74,7 @@ Maka pada usia dibawah 7 tahun, tidak ada perintah untuk sholat. Jika sholat seb
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menjeda Khutbah dan Memeluk Anak yang Bermain
 > **Naskah:**  
+> [[Dalil/dalil-hr-abu-dawud-1109|Nas, takhrij, dan syarah Nabi turun dari mimbar untuk cucu]].
 > « كَانَ رَسُولُ اللَّهِ ﷺ يَخْطُبُنَا إِذْ جَاءَ الْحَسَنُ وَالْحُسَيْنُ عَلَيْهِمَا قَمِيصَانِ أَحْمَرَانِ يَمْشِيَانِ وَيَعْثُرَانِ، فَنَزَلَ رَسُولُ اللَّهِ ﷺ مِنَ الْمِنْبَرِ، فَحَمَلَهُمَا وَوَضَعَهُمَا بَيْنَ يَدَيْهِ »  
 > 
 > *"Rasulullah ﷺ sedang berkhutbah di hadapan kami di atas mimbar, tiba-tiba datanglah Hasan dan Husain mengenakan baju merah sambil berjalan tertatih-tatih dan terjatuh. Maka Rasulullah ﷺ langsung turun dari mimbar, lalu menggendong keduanya dan mendudukkan mereka di hadapan beliau..."*  
@@ -84,6 +89,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menanamkan Tauhid dalam Kedekatan Fisik & Emosi
 > **Naskah:**  
+> [[Dalil/dalil-wasiat-jagalah-allah-ihfazh-illah|Nas, takhrij, dan syarah wasiat kepada Ibnu Abbas]].
 > « كُنْتُ خَلْفَ النَّبِيِّ ﷺ يَوْمًا، فَقَالَ: يَا غُلَامُ، إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ »  
 > 
 > *"Suatu hari aku dibonceng di belakang Nabi ﷺ, lalu beliau bersabda: 'Wahai ananda, aku akan mengajarkan kepadamu beberapa kalimat berharga: Jagalah Allah niscaya Dia menjagamu, jagalah Allah niscaya engkau mendapati-Nya di hadapanmu. Jika engkau memohon, mohonlah kepada Allah; dan jika engkau meminta pertolongan, mintalah pertolongan kepada Allah'..."*  
@@ -93,6 +99,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 
 > [!quote] Dalil & Rujukan Nabawiyah: 10 Tahun Membimbing Tanpa Celaan dan Amarah
 > **Naskah:**  
+> [[Dalil/dalil-hr-bukhari-6038|Nas, takhrij, dan syarah sepuluh tahun pelayanan Anas]].
 > « خَدَمْتُ رَسُولَ اللَّهِ ﷺ عَشْرَ سِنِينَ، فَمَا قَالَ لِي أُفٍّ قَطُّ، وَمَا قَالَ لِشَيْءٍ صَنَعْتُهُ: لِمَ صَنَعْتَهُ؟ وَلَا لِشَيْءٍ تَرَكْتُهُ: لِمَ تَرَكْتَهُ؟ »  
 > 
 > *"Sungguh aku telah melayani Rasulullah ﷺ selama sepuluh tahun, dan beliau tidak pernah sekalipun berkata kepadaku 'Ah' (ungkapan jengkel), tidak pernah mencela apa yang aku perbuat: 'Mengapa engkau melakukannya?', dan tidak pernah menyalahkan apa yang aku tinggalkan: 'Mengapa engkau tidak melakukannya?'."*  
@@ -102,6 +109,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 
 > [!quote] Dalil & Rujukan Nabawiyah: Koreksi Adab dengan Nada Penuh Kelembutan
 > **Naskah:**  
+> [[Dalil/dalil-adab-makan-sammi-wa-kul-biyaminik|Nas, takhrij, dan syarah adab makan]].
 > « كُنْتُ غُلَامًا فِي حِجْرِ رَسُولِ اللَّهِ ﷺ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللَّهِ ﷺ: يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ »  
 > 
 > *"Dahulu aku adalah seorang bocah di bawah asuhan Rasulullah ﷺ, dan tanganku bergerak ke sana ke mari menjangkau nampan makanan. Maka Rasulullah ﷺ bersabda kepadaku: 'Wahai ananda, sebutlah nama Allah (baca bismillah), makanlah dengan tangan kananmu, dan makanlah makanan yang dekat denganmu!'."*  
@@ -111,6 +119,7 @@ Ketika beranjak 7 tahun, Rasul mulai memberikan kesempatan anak untuk eskplorasi
 
 > [!quote] Dalil & Rujukan Nabawiyah: Berempati pada Kesedihan Anak dan Hak Memelihara Hewan
 > **Naskah:**  
+> [[Dalil/dalil-fase-thufulah-bermain-bebas|Nas, takhrij, dan syarah riwayat Abu Umair]].
 > « كَانَ النَّبِيُّ ﷺ أَحْسَنَ النَّاسِ خُلُقًا، وَكَانَ لِي أَخٌ يُقَالُ لَهُ أَبُو عُمَيْرٍ، فَكَانَ إِذَا جَاءَ قَالَ: يَا أَبَا عُمَيْرٍ، مَا فَعَلَ النُّغَيْرُ؟ »  
 > 
 > *"Nabi ﷺ adalah orang yang paling agung akhlaknya. Dan aku memiliki adik kecil bernama Abu 'Umair (yang memelihara burung kecil bernama nughair). Maka apabila Rasulullah ﷺ datang dan melihatnya bersedih karena burungnya mati, beliau menghiburnya seraya bersabda: 'Wahai Abu 'Umair, apa yang terjadi dengan burung kecilmu?'."*  
@@ -127,6 +136,7 @@ Mari juga kita tunaikan hak ananda untuk belajar mencintai Allah Azza wa Jalla :
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menghidupkan Jiwa Melalui Narasi dan Kisah
 > **Naskah:**  
+> [[Dalil/dalil-qs-18-54|Nas dan tafsir QS. Al-Kahf: 54]].
 > « وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا »  
 > 
 > *"Dan sesungguhnya Kami telah menjelaskan berulang-ulang kepada manusia dalam Al-Qur'an ini bermacam-macam perumpamaan. Namun manusia adalah makhluk yang paling banyak membantah."*  

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 5996 & Muslim No. 543"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab ash-Shalah) & Shahih Muslim (Kitab al-Masajid) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-رَأَيْتُ النَّبِيَّ ﷺ يَؤُمُّ النَّاسَ وَأُمَامَةُ بِنْتُ أَبِي الْعَاصِ - وَهِيَ ابْنَةُ زَيْنَبَ بِنْتِ النَّبِيِّ ﷺ - عَلَى عَاتِقِهِ، فَإِذَا رَكَعَ وَضَعَهَا، وَإِذَا رَفَعَ مِنَ السُّجُودِ أَعَادَهَا
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-kehangatan-menggendong-anak-dalam-shalat|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> رَأَيْتُ النَّبِيَّ ﷺ يَؤُمُّ النَّاسَ وَأُمَامَةُ بِنْتُ أَبِي الْعَاصِ - وَهِيَ ابْنَةُ زَيْنَبَ بِنْتِ النَّبِيِّ ﷺ - عَلَى عَاتِقِهِ، فَإِذَا رَكَعَ وَضَعَهَا، وَإِذَا رَفَعَ مِنَ السُّجُودِ أَعَادَهَا
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Aku melihat Nabi ﷺ mengimami para sahabat sedangkan Umamah binti Abil 'Ash—yaitu putri Zainab putri Nabi ﷺ—berada di atas pundak beliau. Maka apabila beliau ruku' beliau meletakkannya, dan apabila beliau bangkit dari sujud beliau menggendongnya kembali."*  
 > 
 > *(Rujukan: HR. Bukhari No. 5996 & Muslim No. 543)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 1 Hal. 591) dan Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 5 Hal. 33) menjelaskan fikih dan hikmah mendalam hadits ini: gerakan ringan demi menjaga rasa aman anak diperbolehkan dalam shalat fardhu. Nabi ﷺ sengaja melakukan hal ini di hadapan para sahabat untuk menghancurkan kekakuan tradisi jahiliyah yang menganggap anak kecil sebagai pengganggu ibadah. Shalat yang khusyuk bukanlah shalat yang mengabaikan tangisan dan kebutuhan afeksi anak balita, melainkan ibadah yang merangkul generasi penerus dengan kasih sayang ilahi.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Pembahasan fikih mempertimbangkan rincian gerakan dan perbedaan pendapat. Keramahan kepada anak tidak menghapus adab dan syarat shalat.
+
+> [!QUOTE] Kutipan ulama — منحة الباري بشرح صحيح البخاري
+>
+> <div dir="rtl">
+> فعل ذلك؛ لبيان الجواز، وهو محمولُ عندنا علي العمل القليل، أو الكثير المتفرق.
+> </div>
+>
+> **Sumber:** زكريا الأنصاري, *منحة الباري بشرح صحيح البخاري*, ج 2 ص 231; chunk `38682`.
+
+> [!QUOTE] Kutipan ulama — منار القاري شرح مختصر صحيح البخاري
+>
+> <div dir="rtl">
+> الأصل عدم الخصوصية
+> </div>
+>
+> **Sumber:** حمزة قاسم, *منار القاري شرح مختصر صحيح البخاري*, ج 2 ص 62; chunk `26773`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 - **Integrasi Ibadah dan Pengasuhan:** Ibadah ritual dan pengasuhan anak tidak boleh dipertentangkan; keduanya menyatu dalam keridhaan Allah.
 - **Koneksi Sebelum Koreksi:** Menghadirkan rasa aman bagi anak di lingkungan masjid dan tempat shalat sejak usia dini.
 - **Ramah Anak di Masjid:** Mengikis sikap kasar sebagian jamaah yang mengusir anak-anak dari shaf shalat.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Jangan tinggalkan shalat dengan dalih menjaga anak; gendong atau dampingi ananda saat bermunajat kepada Allah.
 2. **Bagi Pengurus Masjid:** Sediakan ruang ibadah yang ramah keluarga; edukasi jamaah agar bersabar menghadapi tingkah anak kecil.
 3. **Bagi Santri:** Tumbuhkan memori manis bahwa masjid adalah tempat paling hangat dan menyenangkan yang pernah ia singgahi.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 38682, 26773. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

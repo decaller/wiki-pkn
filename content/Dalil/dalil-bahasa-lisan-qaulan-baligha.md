@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. An-Nisa': 63"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-أُولَٰئِكَ الَّذِينَ يَعْلَمُ اللَّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلًا بَلِيغًا
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> أُولَٰئِكَ الَّذِينَ يَعْلَمُ اللَّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلًا بَلِيغًا
+> </div>
+>
+> [[dalil-bahasa-lisan-qaulan-baligha|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Mereka itu adalah orang-orang yang (sesungguhnya) Allah mengetahui apa yang ada di dalam hatinya. Karena itu berpalinglah kamu dari mereka, dan berilah mereka nasihat, dan katakanlah kepada mereka perkataan yang membekas pada jiwa mereka."*  
 > 
 > *(Rujukan: QS. An-Nisa': 63)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 2 Hal. 353) menjelaskan makna *wa qul lahum fi anfusihim qaulan baligha*: 'Nasihatilah mereka secara empat mata (*fi anfusihim*) dengan perkataan yang fasih, padat makna, dan menyentuh lubuk sanubari terdalam mereka, agar perkataan tersebut menjadi pencegah efektif dari keburukan yang mereka sembunyikan.' Syarat perkataan baligh adalah disampaikan secara privat (bukan dipermalukan di depan orang banyak) dan menyasar akar kegelisahan batin sang anak asuh.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ayat berbicara tentang orang munafik dan nasihat yang sampai ke jiwa. Nasihat privat diterangkan Ibnu Katsir; penerapannya kepada anak adalah analogi pedagogis kontributor, tanpa menyamakan anak dengan konteks kemunafikan ayat.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ت السلامة
+>
+> <div dir="rtl">
+> أي: وانصحهم فيما بينك وبينهم بكلام بليغ رادع (¬٥) لهم.
+> </div>
+>
+> **Sumber:** تفسير ابن كثير - ت السلامة, ابن كثير, ج 2 ص 347; OpenBayan lokal, chunk `64626`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> أي قل لهم قولاً بليغاً يبلغ إلى أنفسهم ليتعظوا به.
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 2 ص 257; OpenBayan lokal, chunk `55631`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 - **Tarbiyah Empat Mata:** Menegur anak di depan saudara atau teman hanya melahirkan dendam; nasihat baligh menuntut ruang hening berdua dari hati ke hati.
 - **Retorika Kalbu PKN:** Bahasa Lisan bukan sekadar susunan kata indah, melainkan getaran keikhlasan pendidik yang menembus benteng pertahanan anak.
 - **Koneksi Sebelum Koreksi:** Masuk ke dalam dunia batin anak (*fi anfusihim*) sebelum meluncurkan kata-kata pengingat.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Ajak anak keluar berdua (ngobrol di taman atau kafe santai) saat ingin menyampaikan nasihat besar mengenai masa depannya.
 2. **Bagi Guru:** Buat sesi bimbingan konseling privat yang hangat; jadilah pendengar setia sebelum menyampaikan pesan baligh.
 3. **Bagi Evaluasi Santri:** Amati apakah ada perubahan sikap mendasar pada santri setelah sesi dialog dari hati ke hati.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `64626`, `55631`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

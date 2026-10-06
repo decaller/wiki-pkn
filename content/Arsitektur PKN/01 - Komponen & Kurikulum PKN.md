@@ -101,6 +101,8 @@ Fondasi personalisasi kurikulum dalam manhaj nabawi berakar pada sabda Rasululla
 > </div>
 > 
 > *"Beramallah kalian, sebab setiap orang akan dimudahkan untuk melakukan apa yang menjadi tujuan penciptaannya."* [^1]
+>
+> **Terjemahan kerja kontributor.** [[dalil-bakat-muyassarun-lima-khuliqa-lah|Baca takhrij dan syarah: beramal, takdir, dan batas penerapan pada bakat]].
 > 
 > 💡 **Relevansi Pedagogis:** Kurikulum nabawi tidak mencetak santri menjadi kloning yang seragam. Guru bertindak sebagai penemu dan penyemai benih potensi unik yang telah ditanamkan Allah di dalam fitrah setiap santri.
 

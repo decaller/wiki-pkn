@@ -105,7 +105,12 @@ Karena pendidik bukan sekadar profesi — ia adalah jiwa yang hidup untuk menghi
 
 Sebab pendidikan sejati tumbuh dari rahmat — sebagaimana firman Allah ta’ala.
 
-فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ“Maka disebabkan rahmat dari Allah-lah engkau berlaku lemah lembut terhadap mereka. Sekiranya kamu bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu. ” (QS. Ali ‘Imran: 159)
+> [!QURAN] Nas Al-Qur’an
+> فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ
+>
+> Penjelasan dan rujukan: [[dalil-bahasa-hati-lemah-lembut-menghindari-kekasaran]].
+>
+> “Maka disebabkan rahmat dari Allah engkau berlaku lemah lembut terhadap mereka; sekiranya engkau keras dan berhati kasar, mereka akan menjauh.” (QS. Ali ‘Imran: 159; penggalan ayat).
 
 Lemah lembut itulah kekuatan sejati seorang pendidik.Robot bisa cerdas dalam logika, tapi tak pernah memiliki kelembutan hati.
 

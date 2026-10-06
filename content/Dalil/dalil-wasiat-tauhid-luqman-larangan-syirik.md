@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Luqman: 13"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
-</div>
+> [!QUOTE] Ayat Al-Quran
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
+> </div>
+>
+> [[dalil-wasiat-tauhid-luqman-larangan-syirik|Rujukan Ayat Al-Quran]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan (ingatlah) ketika Luqman berkata kepada anaknya, di waktu ia memberi pelajaran kepadanya: 'Wahai anakku, janganlah kamu mempersekutukan Allah, sesungguhnya mempersekutukan (Allah) adalah benar-benar kezaliman yang besar.'"*  
 > 
 > *(Rujukan: QS. Luqman: 13)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 6 Hal. 333) menjelaskan bahwa Luqman Al-Hakim memulai wasiat pendidikannya dengan perkara paling agung dan mendasar: yaitu mentauhidkan Allah dan melarang kesyirikan. Syirik disebut *zhulmun 'azhim* (kezaliman yang teramat besar) karena zalim adalah menempatkan sesuatu bukan pada tempatnya yang haq; maka menyamakan makhluk yang lemah dengan Sang Khaliq Yang Maha Kuasa dalam hak ibadah adalah puncak kezaliman yang paling merusak struktur fitrah kemanusiaan.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Nasihat Luqman menempatkan tauhid sebagai dasar pendidikan. Pembahasan syarah berikut menerangkan kezaliman syirik, bukan semua rincian aplikasi kurikulum.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> وذلك أن أصل الظلم وضع الشيء في غير موضعه، ومن أشرك بالله وجعل الربوبية مستحقة لغيره، أو عدل به شيئا، واتخذ معه ندا فقد أتى بأعظم الظلم، ووضع الشيء في غير موضعه
+>
+> **Sumber:** *أعلام الحديث (شرح صحيح البخاري)*, الخطابي; ج 1 ص 163 (OpenBayan SQLite, chunk `35392`).
+> [[dalil-wasiat-tauhid-luqman-larangan-syirik|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> التنوين في بظلم للتعظيم فكأنه قال لم يلبسوا إيمانهم بظلم عظيم فلما تبين أن الشرك ظلم عظيم علم أن المراد لم يلبسوا إيمانهم بشرك.
+>
+> **Sumber:** *الكواكب الدراري في شرح صحيح البخاري*, الكرماني، شمس الدين; ج 1 ص 146 (OpenBayan SQLite, chunk `30609`).
+> [[dalil-wasiat-tauhid-luqman-larangan-syirik|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 - **Prioritas Kurikulum Nabawiyah:** Tauhid menduduki urutan nomor satu sebelum materi akademik dan sains apapun; tauhid adalah akar pohon kepribadian insan.
 - **Bahasa Cinta (*Ya Bunayya*):** Larangan kesyirikan disampaikan bukan dengan kemarahan, melainkan dalam bingkai kehangatan nasihat penuh cinta (*wa huwa ya'izhuhu*).
 - **Imunitas dari Takhayul:** Membentengi anak sejak dini dari ketergantungan pada zodiak, dukun, jimat, dan syirik modern (materialisme).
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Jadikan kalimat tauhid 'Laa ilaaha illallaah' sebagai kalimat pertama yang dipahami dan diikrarkan anak di rumah.
 2. **Bagi Guru:** Tanamkan bahwa seluruh kesuksesan hidup hanya bergantung kepada pertolongan Allah semata, bukan kepada jimat atau kehebatan diri.
 3. **Bagi Evaluasi Santri:** Pantau kemurnian tauhid santri saat menghadapi ketakutan atau kesulitan; kepada siapa ia pertama kali memohon?
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `35392`, `30609`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

@@ -250,6 +250,7 @@ Setiap malam sebelum beristirahat, seorang pendidik muslim selayaknya menghadapk
 ### 1. Hadits Pokok Kemurnian Niat (Fondasi Ruhul Mudarris)
 Diriwayatkan dari Amirul Mukminin Umar bin Al-Khattab radhiyallahu 'anhu. Beliau mendengar Rasulullah ﷺ bersabda di atas mimbar:
 
+> [!quote] Dalil niat — [[Dalil/dalil-tazkiyah-tahalli-keikhlasan-niat-amal|Nas, takhrij, dan syarah hadits niat]]
 > « إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ »
 > 
 > *"Sesungguhnya setiap amalan bergantung pada niatnya. Setiap orang hanya akan mendapatkan apa yang ia niatkan. Barangsiapa hijrahnya karena dunia yang ingin diraihnya atau karena wanita yang ingin dinikahinya, maka hijrahnya itu menuju apa yang ia tuju."*  
@@ -263,6 +264,7 @@ Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 13, hlm. 48) menegaskan bahwa h
 ### 2. Hadits Syarat Diterimanya Amal (Hakikat Al-Ikhlas)
 Diriwayatkan dari Abu Umamah Al-Bahili radhiyallahu 'anhu. Rasulullah ﷺ menegaskan syarat mutlak diterimanya perbuatan:
 
+> [!quote] Dalil ikhlas — [[Dalil/dalil-amal-ikhlas-mengharap-wajah-allah|Nas, takhrij, dan syarah amal ikhlas]]
 > « إِنَّ اللَّهَ لاَ يَقْبَلُ مِنَ الْعَمَلِ إِلاَّ مَا كَانَ لَهُ خَالِصًا وَابْتُغِيَ بِهِ وَجْهُهُ »
 > 
 > *"Sesungguhnya Allah tidak akan menerima suatu amal perbuatan kecuali amalan yang murni (ikhlas) semata-mata untuk-Nya dan dicari dengannya wajah-Nya."*  
@@ -276,6 +278,7 @@ Ibnul Qayyim Al-Jauziyyah dalam kitab *Madarijus Salikin* (Juz 2, hlm. 68) menje
 ### 3. Hadits Kemuliaan Pengajar Kebaikan (Keutamaan Al-Mudarris)
 Diriwayatkan dari Abu Umamah Al-Bahili radhiyallahu 'anhu. Rasulullah ﷺ bersabda mengenai kemuliaan ilmu:
 
+> [!quote] Dalil mengajar kebaikan — [[Dalil/dalil-keutamaan-mengajar-kebaikan|Nas, takhrij, dan syarah keutamaan pengajar]]
 > « فَضْلُ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِي عَلَى أَدْنَاكُمْ » ثُمَّ قَالَ رَسُولُ اللَّهِ ﷺ: « إِنَّ اللَّهَ وَمَلَائِكَتَهُ وَأَهْلَ السَّمَوَاتِ وَالأَرَضِينَ حَتَّى النَّمْلَةَ فِي جُحْرِهَا وَحَتَّى الْحُوتَ لَيُصَلُّونَ عَلَى مُعَلِّمِ النَّاسِ الْخَيْرَ »
 > 
 > *"Keutamaan orang yang berilmu atas ahli ibadah laksana keutamaanku atas orang yang paling rendah derajatnya di antara kalian." Kemudian Rasulullah ﷺ bersabda: "Sesungguhnya Allah, para malaikat-Nya, serta seluruh penghuni langit dan bumi hingga semut di liang sarangnya dan ikan hiu di lautan senantiasa bershalawat (mendoakan kebaikan) atas orang yang mengajarkan kebaikan kepada manusia."*  
@@ -289,6 +292,7 @@ Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab Al-'Ilm, Bab 1) menguraikan bahw
 ### 4. Hadits Keteladanan Pendidik Teragung ﷺ (Seni Ath-Thariqah)
 Diriwayatkan dari Mu'awiyah bin Al-Hakam As-Sulami radhiyallahu 'anhu. Beliau menceritakan pengalamannya saat belum memahami larangan berbicara dalam shalat:
 
+> [!quote] Riwayat Mu'awiyah bin al-Hakam — [[Dalil/dalil-kelembutan-nabi-mengajar|Nas, takhrij, dan syarah kelembutan Nabi mengajar]]
 > « فَبِأَبِي هُوَ وَأُمِّي، مَا رَأَيْتُ مُعَلِّمًا قَبْلَهُ وَلاَ بَعْدَهُ أَحْسَنَ تَعْلِيمًا مِنْهُ، فَوَاللَّهِ مَا كَهَرَنِي وَلاَ ضَرَبَنِي وَلاَ شَتَمَنِي، قَالَ: إِنَّ هَذِهِ الصَّلاَةَ لاَ يَصْلُحُ فِيهَا شَيْءٌ مِنْ كَلاَمِ النَّاسِ، إِنَّمَا هُوَ التَّسْبِيحُ وَالتَّكْبِيرُ وَقِرَاءَةُ الْقُرْآنِ »
 > 
 > *"Demi ayah dan ibuku sebagai tebusannya, aku belum pernah melihat seorang pendidik pun sebelum maupun sesudahnya yang lebih baik pengajarannya daripada beliau. Demi Allah, beliau tidak membentakku, tidak memukulku, dan tidak mencelaku. Beliau hanya bersabda: 'Sesungguhnya shalat ini tidak boleh ada di dalamnya perkataan manusia sedikit pun, melainkan shalat itu hanyalah tasbih, takbir, dan membaca Al-Qur'an'."*  
@@ -302,6 +306,7 @@ Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 5, hlm. 20) memaparkan keindaha
 ### 5. Hadits Nilai Luhur Kelembutan dalam Mendidik
 Diriwayatkan dari Ummul Mukminin Aisyah radhiyallahu 'anha. Rasulullah ﷺ bersabda mengenai kelembutan:
 
+> [!quote] Dalil kelembutan — [[Dalil/dalil-bahasa-hati-kelembutan-ar-rifq|Nas, takhrij, dan syarah ar-rifq]]
 > « إِنَّ الرِّفْقَ لاَ يَكُونُ فِي شَيْءٍ إِلاَّ زَانَهُ، وَلاَ يُنْزَعُ مِنْ شَيْءٍ إِلاَّ شَانَهُ »
 > 
 > *"Sesungguhnya kelembutan itu tidaklah berada pada sesuatu melainkan akan menghiasinya (menjadikannya indah), dan tidaklah kelembutan itu dicabut dari sesuatu melainkan akan memperburuknya (menjadikannya cacat)."*  

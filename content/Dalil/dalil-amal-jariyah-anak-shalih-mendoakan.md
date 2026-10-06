@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Muslim No. 1631"
     authority: 1.0
-    verification: "Shamela 11M / Shahih Muslim (Kitab al-Washiyyah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثَةٍ: إِلَّا مِنْ صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثَةٍ: إِلَّا مِنْ صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ
+> </div>
+>
+> [[dalil-amal-jariyah-anak-shalih-mendoakan|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Apabila seorang manusia meninggal dunia, maka terputuslah seluruh amalnya kecuali dari tiga perkara: sedekah jariyah, ilmu yang dimanfaatkan dengannya, atau anak shalih yang mendoakannya."*  
 > 
 > *(Rujukan: HR. Muslim No. 1631)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 11 Hal. 85) menerangkan rahasia mengapa doa anak shalih dimasukkan ke dalam kategori amal yang tidak terputus bagi orang tua: anak adalah hasil jerih payah dan usaha orang tuanya (*al-waladu min kasbi abihi*). Pengorbanan orang tua mendidiknya dengan adab, menafkahinya dengan yang halal, dan mengajarkannya Al-Qur'an membuat seluruh amal shalih dan doa yang dipanjatkan anak tersebut mengalirkan pahala tanpa henti ke dalam kubur orang tuanya hingga hari kiamat. Nabi mensyaratkan sifat *shalih*; karena anak yang tidak shalih doanya tidak akan membawa manfaat bagi orang tuanya.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Doa anak shalih termasuk amal yang berlanjut setelah wafat. Pendidikan anak dibaca sebagai ikhtiar orang tua, bukan jaminan otomatis seluruh amal anak berpindah kepada orang tua. Sifat shalih tidak membenarkan kesimpulan bahwa doa setiap anak yang belum shalih pasti tidak bermanfaat.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> ولهذا يتأكد علينا أن نحرص غاية الحرص على صلاح أولادنا لأن صلاحهم صلاح لهم وخير لا حيث يدعون لنا بعد الموت
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 4 ص 567; OpenBayan lokal, chunk `57217`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> وأما حديث: «إذا مات الإنسان انقطع عمله إلا من ثلاث» ، فهي في الحقيقة من سعيه وكده وعمله. انتهى ملخصًا.
+> </div>
+>
+> **Sumber:** تطريز رياض الصالحين, فيصل آل مبارك, ص 557; OpenBayan lokal, chunk `58227`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tujuan Hidup Manusia]]**, yaitu:
 - **Visi Investasi Eskatologis PKN:** Mendidik anak bukan untuk investasi finansial hari tua di dunia, melainkan investasi penembus alam barzakh dan pembawa mahkota kemuliaan di akhirat.
 - **Kriteria Kesalehan Sejati:** Kesalehan mencakup akidah lurus, ibadah benar, dan reflek batin yang senantiasa merindukan keselamatan orang tuanya.
 - **Koneksi Sebelum Koreksi:** Mengasihi anak di dunia melahirkan anak yang mencintai dan menangis mendoakan orang tuanya tatkala jasad telah terkubur.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tanamkan dalam benak: setiap detik jerih payah mendidik anak hari ini adalah tabungan cahaya di alam kubur kita kelak.
 2. **Bagi Guru:** Bimbing santri memahami bahwa bakti terbesar kepada orang tua adalah menjaga shalat dan mendoakan mereka setiap hari.
 3. **Bagi Evaluasi Santri:** Pantau apakah santri memiliki kebiasaan rutin mendoakan orang tua dalam setiap munajat doanya.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tujuan Hidup Manusia]]**, yai
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `57217`, `58227`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

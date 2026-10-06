@@ -111,7 +111,10 @@ Islam mengajarkan bahwa yang dinilai dari manusia bukan hanya apa yang tampak, t
 
 Rasulullah ﷺ bersabda:
 
-إنَّمَا الأعمَال بالنِّيَّاتِ وإِنَّما لِكُلِّ امريءٍ ما نَوَى
+> [!HADITH] Nas Hadits
+> إنَّمَا الأعمَال بالنِّيَّاتِ وإِنَّما لِكُلِّ امريءٍ ما نَوَى
+>
+> Penjelasan dan rujukan: [[dalil-tazkiyah-tahalli-keikhlasan-niat-amal]].
 
 “Sesungguhnya setiap amal tergantung pada niatnya, dan setiap orang akan mendapatkan sesuai dengan apa yang ia niatkan.”(HR. Bukhari dan Muslim)
 
@@ -157,7 +160,10 @@ Seseorang bisa melakukan sesuatu karena terbiasa. Tetapi seseorang menjadi priba
 
 Allah Ta’ala berfirman:
 
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللّٰهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللّٰهِ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ ﴾
+> [!QURAN] Nas Al-Qur’an
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللّٰهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللّٰهِ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ ﴾
+>
+> Penjelasan dan rujukan: [[dalil-fitrah-hanif-agama-lurus]].
 
 “Maka hadapkanlah wajahmu dengan lurus kepada agama Allah; tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrah itu. Tidak ada perubahan pada fitrah Allah. Itulah agama yang lurus.” (QS. Ar-Rum: 30)
 
@@ -171,7 +177,10 @@ Tetapi sebagai fondasi mendasar pendidikan fitrah:
 
 Rasulullah ﷺ juga bersabda:
 
-أَلاَ وَإِنَّ فِى الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ . أَلاَ وَهِىَ الْقَلْبُ
+> [!HADITH] Nas Hadits
+> أَلاَ وَإِنَّ فِى الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ . أَلاَ وَهِىَ الْقَلْبُ
+>
+> Penjelasan dan rujukan: [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram]].
 
 “Ingatlah bahwa di dalam jasad itu ada segumpal daging. Jika ia baik, maka baik pula seluruh jasad. Jika ia rusak, maka rusak pula seluruh jasad. Ketahuilah bahwa ia adalah hati (jantung)” (HR. Bukhari dan Muslim)
 

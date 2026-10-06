@@ -96,11 +96,11 @@ Berdasarkan khazanah literatur SOTAB HEBAT, terdapat 6 pilar paradigma mendasar 
 ### 1. Paradigma Benih vs Paradigma Bata (*Anak Itu Benih, Bukan Bata*)
 Allah Subhanahu wa Ta'ala berfirman tentang Maryam 'alaihassalam:
 
-<div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
-فَتَقَبَّلَهَا رَبُّهَا بِقَبُوْلٍ حَسَنٍ وَّاَنْۢبَتَهَا نَبَاتًا حَسَنًاۖ
-</div>
-
-*“Maka (Allah) menerimanya dengan penerimaan yang baik dan **menumbuhkannya dengan pertumbuhan yang baik**…”* (QS. Ali Imran: 37).
+> [!quote] Dalil Al-Qur'an — petikan QS. Ali Imran (3): 37
+> فَتَقَبَّلَهَا رَبُّهَا بِقَبُوْلٍ حَسَنٍ وَّاَنْۢبَتَهَا نَبَاتًا حَسَنًاۖ
+>
+> *“Maka (Allah) menerimanya dengan penerimaan yang baik dan **menumbuhkannya dengan pertumbuhan yang baik**…”* (QS. Ali Imran: 37).
+> **Tafsir ayat:** [[dalil-penerimaan-sebelum-pertumbuhan-maryam]].
 
 Allah tidak mengatakan *"mencetak"* atau *"membangun"* Maryam, melainkan **menumbuhkan (*wa ambataha*)**. Pendidik tidak menciptakan pertumbuhan, karena pertumbuhan adalah sunnatullah. Tugas pendidik adalah seperti petani: mengolah tanah hati, menabur pupuk kasih sayang, mencabut gulma luka, dan memastikan air keteladanan mengalir jernih.
 

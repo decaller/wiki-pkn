@@ -100,6 +100,8 @@ Ayat induk yang mendasari pembagian modalitas pembelajaran fitrah termaktub dala
 > </div>
 > 
 > *"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatupun, dan Dia memberi kamu pendengaran (as-sam'u), penglihatan (al-abshar), dan hati nurani (al-af'idah), agar kamu bersyukur."* [^1]
+>
+> **Terjemahan kerja kontributor.** [[dalil-kehausan-ilmu-pendengaran-penglihatan|Baca tafsir An-Nahl 78 dan batas penerapan pada pembelajaran]].
 > 
 > 💡 **Relevansi Pedagogis:** Allah membekali manusia tiga pintu gerbang serapan ilmu: pendengaran untuk dialog dan kalam wahyu, penglihatan untuk mengamati keteraturan alam semesta, dan hati nurani/indra rasa gerak raga untuk mengalami dan menghayati kebenaran.
 

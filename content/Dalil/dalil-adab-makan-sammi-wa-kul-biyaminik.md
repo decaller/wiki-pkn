@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 5376 & Muslim No. 2022"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Ath'imah) & Shahih Muslim (Kitab al-Asyribah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-كُنْتُ غُلَامًا فِي حَجْرِ رَسُولِ اللَّهِ ﷺ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللَّهِ ﷺ: يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ. فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> كُنْتُ غُلَامًا فِي حَجْرِ رَسُولِ اللَّهِ ﷺ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللَّهِ ﷺ: يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ. فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ
+> </div>
+>
+> [[dalil-adab-makan-sammi-wa-kul-biyaminik|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dahulu aku adalah seorang anak kecil yang berada di bawah asuhan Rasulullah ﷺ, dan tanganku bergerak ke sana kemari di dalam nampan makanan. Maka Rasulullah ﷺ bersabda kepadaku: 'Wahai anakku! Ucapkanlah Bismillah, makanlah dengan tangan kananmu, dan makanlah apa yang ada di dekatmu.' Maka begitulah cara makanku seterusnya setelah itu."*  
 > 
 > *(Rujukan: HR. Bukhari No. 5376 & Muslim No. 2022)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 9 Hal. 522) dan Imam An-Nawawi menerangkan uslub tarbiyah nabawiyah yang sangat agung dalam peristiwa ini: Nabi ﷺ tidak membentak anak tirinya tersebut, tidak menepis tangannya secara kasar, dan tidak mempermalukannya di depan orang lain. Beliau menyapa dengan panggilan kasih sayang (*ya ghulam*), lalu memberikan instruksi operasional yang ringkas, jelas, dan berurutan: mengaitkan dengan Allah (Bismillah), menjaga kemuliaan etika fisik (tangan kanan), dan menghormati hak orang lain (makan yang terdekat). Efek dari teguran lembut ini begitu dahsyat hingga Umar bin Abi Salamah mengenang: 'Maka begitulah cara makanku seumur hidupku.'
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Nas menunjukkan pengajaran adab makan kepada anak: menyebut nama Allah, tangan kanan, dan mengambil yang dekat. Penerapan koneksi sebelum koreksi dalam PKN adalah analisis kontributor, bukan kutipan harfiah Ibnu Hajar atau An-Nawawi.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> وكان النبي ﷺ لا يدع مجالا يحتاج إلى التعليم إلا علم حتى الصغار
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 4 ص 188; OpenBayan lokal, chunk `56845`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> فيه: الأمر بالتسمية عند الأكل، والأكل باليمين، ومن الجانب الذي يليه.
+> </div>
+>
+> **Sumber:** تطريز رياض الصالحين, فيصل آل مبارك, ص 467; OpenBayan lokal, chunk `58095`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Adab]]**, yaitu:
 - **Model Emas 'Koneksi Sebelum Koreksi':** Teguran adab disampaikan dalam bingkai kasih sayang tanpa melukai harga diri anak, menghasilkan perubahan karakter permanen seumur hidup.
 - **Adab Makan sebagai Disiplin Hawa Nafsu:** Melatih menahan nafsu serakah ingin mengambil makanan terbaik milik orang lain.
 - **Bahasa Lisan yang Efektif:** Tiga kalimat instruksi pendek yang mudah diingat dan langsung dipraktikkan.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Dampingi anak di meja makan; jadikan makan bersama sebagai madrasah adab harian keluarga.
 2. **Bagi Guru:** Bimbing santri saat jam makan siang dengan keteladanan dan teguran santun di tempat.
 3. **Bagi Evaluasi Santri:** Amati apakah santri mampu menahan diri tidak berebut makanan dan senantiasa membaca doa sebelum makan.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Adab]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `56845`, `58095`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

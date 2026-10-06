@@ -199,6 +199,10 @@ Tuliskan dalil dalam callout Quartz berikut dan sertakan tautan penelusuran seca
 
 Untuk ayat, cantumkan nama surah dan nomor ayat serta sumber/edisi terjemahan. Untuk hadits, cantumkan kitab/koleksi, bab atau nomor sesuai edisi, perawi bila tersedia, dan sumber penilaian derajat jika menyebut “shahih”. Nomor yang berbeda antar edisi perlu dijelaskan, bukan dipaksakan sama. Untuk syarah, pisahkan ucapan ulama dari penjelasan kontributor dan cantumkan kitab serta lokasi kutipannya. Tautan pencarian OpenBayan membantu penelusuran, tetapi tidak menggantikan identitas kitab dan lokasi. Jika data belum tersedia, catat kekurangannya untuk reviewer; jangan mengisi dari ingatan.
 
+Setiap nas dalil yang dikutip dalam artikel atau katalog ditempatkan pada **callout tersendiri**, dengan tautan langsung ke halaman mandiri di `content/Dalil/`. Jangan mengganti tautan halaman dalil dengan tautan pencarian OpenBayan. Gunakan kembali halaman yang membahas nas dan referensi yang sama; jangan membuat duplikat untuk variasi harakat atau potongan nas yang sudah tercakup. Istilah Arab, kutipan pemikir, dan doa susunan penulis bukan otomatis dalil.
+
+Halaman mandiri memuat nas, terjemahan beserta sumbernya (atau label **terjemahan kerja**), identitas ayat/riwayat, tafsir atau syarah, serta komentar atau kutipan dari beberapa kitab yang benar-benar ditelusuri. Catat nama kitab, penulis, jilid/halaman atau lokasi bab sesuai sumber. Pisahkan kutipan langsung, parafrasa sumber, dan analisis penerapan PKN. Sumber yang dikembalikan wrapper QOF/QAF diperiksa pada teks kutipannya; jawaban sintetis layanan tidak boleh dinisbatkan sebagai ucapan ulama. Keterbatasan autentikasi, kuota, atau sumber dicatat dalam rekam riset, bukan ditutupi dengan atribusi dari ingatan.
+
 Callout di atas adalah contoh penyajian. Saat menggunakannya dalam artikel, tetap cocokkan teks dan terjemahan dengan sumber yang dicantumkan; contoh dalam panduan bukan catatan verifikasi untuk artikel tersebut.
 
 ---

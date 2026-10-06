@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 2559 & Muslim No. 2612"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-'Itq) & Shahih Muslim (Kitab al-Birr) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِذَا قَاتَلَ أَحَدُكُمْ أَخَاهُ فَلْيَجْتَنِبِ الْوَجْهَ، فَإِنَّ اللَّهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِذَا قَاتَلَ أَحَدُكُمْ أَخَاهُ فَلْيَجْتَنِبِ الْوَجْهَ، فَإِنَّ اللَّهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ
+> </div>
+>
+> [[dalil-bahasa-tangan-larangan-memukul-wajah|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Apabila salah seorang di antara kalian memukul (berkelahi dengan) saudaranya, maka hendaklah ia menjauhi wajah; karena sesungguhnya Allah menciptakan Adam menurut bentuk rupa-Nya."*  
 > 
 > *(Rujukan: HR. Bukhari No. 2559 & Muslim No. 2612)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 165) dan Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 5 Hal. 182) menegaskan: larangan memukul wajah bersifat umum (*'amm*) dan haram mutlak, baik dalam penegakan hukuman disiplin anak, istri, pembantu, maupun dalam peperangan syar'i. Wajah adalah anggota tubuh yang paling mulia, pusat keindahan rupa manusia, tempat berkumpulnya panca indera yang sangat halus, dan pusat ekspresi martabat kehormatan diri (*al-karamah al-insaniyyah*). Memukul wajah merusak fisik indera, mempermalukan jiwa, dan menghancurkan harga diri fitrah manusia.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Larangan mengenai wajah menjadi batas yang tidak boleh diabaikan dalam pengasuhan. Penjelasan berikut menyebut risiko pada indera dan secara eksplisit mencakup anak. Analisis PKN tidak mengubah larangan ini menjadi izin kekerasan di bagian tubuh lain.
+
+> [!QUOTE] Kutipan ulama — منار القاري شرح مختصر صحيح البخاري
+>
+> <div dir="rtl">
+> وذلك لأن الوجه، لطيف يجمع الحواس كلها فيخشى من ضربه تعطيل حاسة منها، أو تشويه صورته
+> </div>
+>
+> **Sumber:** منار القاري شرح مختصر صحيح البخاري, حمزة قاسم, ج 3 ص 395; OpenBayan lokal, chunk `27514`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> وكذلك غير الزوجة لا يضرب على الوجه، فالابن إذا أخطأ لا يضرب على الوجه؛ لأن الوجه أشرف ما في الإنسان
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 3 ص 132; OpenBayan lokal, chunk `56120`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Tangan]]**, yaitu:
 - **Batasan Disiplin Bahasa Tangan PKN:** Bahasa Tangan tidak pernah bermakna kekerasan fisik brutal; menampar wajah anak adalah kejahatan pedagogis dan dosa besar.
 - **Penjagaan Martabat Fitrah Anak:** Menghukum anak tidak boleh melukai fisik dan tidak boleh meremukkan harga dirinya di depan manusia.
 - **Koneksi Sebelum Koreksi:** Mengendalikan amarah orang tua; hukuman fisik yang lahir dari luapan amarah adalah haram.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Buat sumpah tegas dalam rumah tangga: tidak ada tamparan, jeweran telinga kasar, atau pukulan di bagian kepala ananda.
 2. **Bagi Guru:** Terapkan standar zero violence (nol kekerasan fisik) di lingkungan sekolah; guru yang memukul wajah wajib dikenai sanksi tegas.
 3. **Bagi Evaluasi Santri:** Amati apakah santri menyelesaikan perselisihan fisik dengan memukul wajah teman.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Tangan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `27514`, `56120`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

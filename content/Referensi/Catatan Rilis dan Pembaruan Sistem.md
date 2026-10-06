@@ -45,11 +45,11 @@ tags:
     </tr>
     <tr>
       <th>Versi Stabil Terkini</th>
-      <td><strong>v2.5.0 Production</strong></td>
+      <td><strong>v2.6.0 Production</strong></td>
     </tr>
     <tr>
       <th>Tanggal Rilis</th>
-      <td>September 2026</td>
+      <td>6 Oktober 2026</td>
     </tr>
     <tr>
       <th>Mesin SSG</th>
@@ -57,7 +57,7 @@ tags:
     </tr>
     <tr>
       <th>Total Berkas Korpus</th>
-      <td>471+ Berkas Markdown</td>
+      <td>643 Berkas Markdown</td>
     </tr>
     <tr>
       <th>Integritas Tautan</th>
@@ -119,8 +119,26 @@ tags:
 * Linter memberi waktu laporan UTC aktual, menolak orphan baru, serta menerapkan batas minimum gaya dan PICI per halaman dengan pengecualian legacy bernama. Resolver navigasi tidak lagi memilih kandidat ambigu berdasarkan urutan berkas.
 * Enam kutipan Arab yang semula dibungkus sebagai rumus KaTeX kini menjadi blok teks Arab; build lokal selesai tanpa peringatan karakter Arab. Pemeriksaan visual lintas-peramban dan deployment produksi tetap terpisah.
 
----
+### 🏷️ Versi 2.6.0 — *Forensik Orkestrasi OMP, Guardrail Efisiensi Token, Pemulihan Total Integritas Korpus & 236 Katalog Dalil Mandiri*
+**Tanggal Rilis:** 6 Oktober 2026 | **Cakupan Milestone:** Milestone 67 & Milestone 68 | **Status:** Rilis Produksi Aktif
 
+Versi 2.6.0 menandai penguatan infrastruktur komputasi agen, penyelesaian 100% integritas tautan, dan ekspansi ensiklopedis katalog dalil:
+
+* 🛡️ **Forensik Tata Kelola Agen & Jendela Retry 10 Menit:**
+  - Evaluasi forensik 60,44M token pada orkestrasi OMP multi-agent dan mitigasi fenomena *fan-out choke*.
+  - Penerapan jendela retry 10 menit (`maxDelayMs: 600000`) dengan backoff pasif pada `~/.omp/agent/config.yml`.
+  - Penegakan protokol Zero-Token First dan guardrail efisiensi token pada dokumentasi pipeline desain.
+* 🔗 **100% Sound Link Integrity (Zero Broken Links & Orphans):**
+  - Resolusi 34 broken links dan 4 orphan pages secara deterministik dengan skrip generator lokal ($0 token).
+  - Penerapan Quartz frontmatter aliasing pada kelompok surah dan hadits.
+* 📖 **Ekspansi 236 Katalog Dalil Mandiri (`content/Dalil/`):**
+  - Penerbitan dalil utama beranda HR. Muslim No. 49 (*Mengubah Kemungkaran dengan Tangan, Lisan, dan Hati*) lengkap dengan takhrij OpenBayan dan integrasi Tiga Bahasa Pengasuhan.
+  - Penambahan 31 halaman dalil mandiri Al-Qur'an, Hadits, dan Atsar Sirah dengan standar 4-Zone MediaWiki.
+* ⚙️ **Perbaikan Algoritma Linter Korpus & 100% Quality Pass:**
+  - Perbaikan penghitungan karakter teks Arab dan pengakuan kitab tafsir muktabar pada `PedagogicalStyleAuditor`.
+  - 154 unit tests lulus, 0 pelanggaran kata kunci terlarang, rata-rata kejelasan bahasa (PICI) 89.6/100, dan kompilasi sukses 643 berkas SSG Quartz.
+
+---
 
 ### 🏷️ Versi 2.5.2 — *Harmonisasi Prinsip Tadarruj, Konversi 5.233 Link Navbox & Resolusi Tag-Leak Warna CSS*
 **Tanggal Rilis:** 24 September 2026 | **Cakupan Milestone:** Milestone 63 | **Status:** Rilis Produksi Aktif

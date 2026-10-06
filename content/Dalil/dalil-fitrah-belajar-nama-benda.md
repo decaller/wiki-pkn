@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Baqarah: 31"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-fitrah-belajar-nama-benda|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan Dia ajarkan kepada Adam nama-nama (benda) semuanya, kemudian Dia perlihatkan kepada para malaikat, seraya berfirman: 'Sebutkan kepada-Ku nama semua (benda) ini, jika kamu yang benar!'"*  
 > 
 > *(Rujukan: QS. Al-Baqarah: 31)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 1 Hal. 222) mengutip Ibnu Abbas: 'Allah mengajarkan kepada Adam nama-nama seluruh ciptaan: ini kuda, ini unta, ini burung, ini bintang, ini lembah, beserta sifat dan fungsinya.' Ini adalah fondasi kecerdasan bahasa, klasifikasi kognitif, dan kemampuan observasi ilmiah. Manusia dimuliakan atas malaikat melalui anugerah ilmu konseptual yang menghubungkan simbol kata dengan realitas alam ciptaan Allah.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Pengajaran nama kepada Adam memberi landasan penghargaan terhadap ilmu. Penerapannya pada kosakata dan observasi anak adalah analisis kontributor, bukan pernyataan ayat tentang tahap perkembangan.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ت السلامة
+>
+> <div dir="rtl">
+> فدل هذا على أنه علمه أسماء جميع المخلوقات
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ت السلامة*, ج 1 ص 224; chunk `63770`.
+
+> [!QUOTE] Kutipan ulama — فيض الباري على صحيح البخاري
+>
+> <div dir="rtl">
+> فآدم معلَّم والملائكة معروضٌ عليهم.
+> </div>
+>
+> **Sumber:** الكشميري, *فيض الباري على صحيح البخاري*, ج 1 ص 287; chunk `46881`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Belajar]]**, yaitu:
 - **Fitrah Belajar Eksploratif:** Anak dilahirkan dengan rasa ingin tahu alami (*curiosity*) terhadap nama, sifat, dan cara kerja benda di sekitarnya.
 - **Pendidikan Berbasis Realitas Alam:** Belajar bermula dari menyentuh, mengamati, dan menamai benda konkret di alam semesta, bukan hafalan rumus abstrak.
 - **Aktivitas Nyata (Rukun 3A):** Belajar adalah interaksi aktif santri dengan dunia nyata ciptaan Allah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Jawab pertanyaan 'Apa ini? Mengapa begitu?' dari anak balita dengan sabar dan antusias; jangan bungkam rasa ingin tahunya.
 2. **Bagi Guru:** Bawa media nyata (*realia*) dan ajak murid belajar di luar ruangan untuk mengamati langsung fenomena alam.
 3. **Bagi Evaluasi Santri:** Nilai kekayaan kosakata dan kemampuan santri mendeskripsikan fenomena di sekitarnya.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Belajar]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 63770, 46881. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

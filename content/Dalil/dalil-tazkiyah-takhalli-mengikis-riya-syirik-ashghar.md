@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Ahmad No. 23630 & Al-Baghawi dalam Syarhus Sunnah"
     authority: 1.0
-    verification: "Shamela 11M / Musnad Ahmad & Syarhus Sunnah Al-Baghawi Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الأَصْغَرُ: الرِّيَاءُ، يَقُولُ اللَّهُ يَوْمَ الْقِيَامَةِ إِذَا جَزَى النَّاسَ بِأَعْمَالِهِمْ: اذْهَبُوا إِلَى الَّذِينَ كُنْتُمْ تُرَاءُونَ فِي الدُّنْيَا، فَانْظُرُوا هَلْ تَجِدُونَ عِنْدَهُمْ جَزَاءً؟
-</div>
+> [!QUOTE] Hadits Nabi
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الأَصْغَرُ: الرِّيَاءُ، يَقُولُ اللَّهُ يَوْمَ الْقِيَامَةِ إِذَا جَزَى النَّاسَ بِأَعْمَالِهِمْ: اذْهَبُوا إِلَى الَّذِينَ كُنْتُمْ تُرَاءُونَ فِي الدُّنْيَا، فَانْظُرُوا هَلْ تَجِدُونَ عِنْدَهُمْ جَزَاءً؟
+> </div>
+>
+> [[dalil-tazkiyah-takhalli-mengikis-riya-syirik-ashghar|Rujukan Hadits Nabi]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya perkara yang paling aku takuti menimpa kalian adalah syirik kecil, yaitu riya'. Allah berfirman pada hari kiamat tatkala membalas manusia atas amal-amal mereka: 'Pergilah kalian kepada orang-orang yang dahulu kalian pameri amal kalian di dunia, lalu lihatlah apakah kalian mendapati balasan kebaikan di sisi mereka?'"*  
 > 
 > *(Rujukan: HR. Ahmad No. 23630 & Al-Baghawi dalam Syarhus Sunnah)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Ibnul Atsir dalam *An-Nihayah fi Gharibil Hadits* dan Al-Hafizh Al-Iraqi dalam *Takhrij Ihya'* menjelaskan mengapa riya' disebut syirik kecil yang paling ditakuti Nabi: riya' menyusup sangat halus laksana langkah semut hitam di atas batu hitam di kepekatan malam (*akhta min dabibin naml*). Dalam pengasuhan, riya' sering kali menjelma menjadi gengsi sosial orang tua: menuntut anak juara hafalan atau prestasi akademik semata-mata agar dipuji sebagai 'keluarga sukses' di depan teman arisan atau media sosial. Niat pengasuhan yang tercemar riya' meracuni hubungan batin dan mencabut keberkahan tarbiyah.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Riya perlu dibedakan dari sekadar terlihat oleh orang lain; yang diperhatikan adalah niat mencari pujian atas ibadah. Penerapan pada gengsi pengasuhan merupakan analisis kontributor.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> وجاء فى الحديث أن الرياء الشرك الأصغر. وكذلك المن والأذى يبطلان الصدقة، لأن المنان بها لم يتق الله فيها، ولا أخلصها لوجهه تعالى، ولا ينفع عمل بغير نية
+>
+> **Sumber:** *شرح صحيح البخاري - ابن بطال*, ابن بطال; ج 3 ص 410 (OpenBayan SQLite, chunk `29741`).
+> [[dalil-tazkiyah-takhalli-mengikis-riya-syirik-ashghar|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> الرياء والحلف بغير الله من الشرك الأصغر الذي لا يخرج عن الإسلام.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 963 (OpenBayan SQLite, chunk `58607`).
+> [[dalil-tazkiyah-takhalli-mengikis-riya-syirik-ashghar|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Takhalli Gengsi Pengasuhan:** Mendidik anak demi mencari ridha Allah, bukan demi validasi pujian netizen atau gengsi keluarga.
 - **Koneksi Sebelum Koreksi:** Hubungan tulus tanpa pamrih pencitraan membuat anak merasa dicintai apa adanya, bukan sebagai piala pajangan orang tua.
 - **Amalan Sirr (Rahasia):** Membiasakan ibadah dan sedekah tersembunyi bersama keluarga untuk melatih keikhlasan batin.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Tahan diri dari mengunggah foto anak beribadah/menghafal ke media sosial jika ada setitik riya' di hati.
 2. **Bagi Guru:** Jangan jadikan hafalan Al-Qur'an santri sebagai ajang pamer marketing promosi sekolah.
 3. **Bagi Evaluasi Santri:** Latih santri beramal shalih saat tidak ada orang lain yang melihatnya.
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `29741`, `58607`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

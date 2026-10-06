@@ -72,6 +72,7 @@ Halaman ini merupakan pedoman standarisasi penulisan, format struktur, dan krite
 > 
 > *"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila melakukan suatu pekerjaan, ia mengerjakannya dengan tekun, cermat, dan berkualitas tinggi (itqan)."*  
 > — **HR. Al-Baihaqi (Syu'abul Iman No. 4930)**
+> **Takhrij, status riwayat, dan syarah:** [[dalil-bakat-bekerja-keras-itqan]].
 > 
 > 💡 **Relevansi PKN:** Menulis dan mendokumentasikan ilmu tarbiyah nabawiyah adalah amal jariyah yang menuntut kesungguhan ilmiah (*itqan*), kejelasan takhrij dalil, kerapian tipografi, dan kelengkapan materi.
 

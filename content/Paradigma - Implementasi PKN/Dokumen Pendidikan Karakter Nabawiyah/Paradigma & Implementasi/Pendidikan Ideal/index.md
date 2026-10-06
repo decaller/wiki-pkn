@@ -117,6 +117,7 @@ Rasulullah ﷺ tidak pernah meratakan para sahabatnya dengan satu kurikulum sera
 
 ### 1. Sosiolog Muslim Ibnu Khaldun (Wafat 808 H)
 Dalam kitab monumentalnya *Al-Muqaddimah* (Bab 6: Bahaya Kekerasan Guru Terhadap Murid):
+> [!quote] Kutipan ulama — bukan ayat atau hadits
 > « إِنَّ الإِرْهَافَ فِي التَّعْلِيمِ مُضِرٌّ بِالمُتَعَلِّمِ، سِيَّمَا فِي أَصَاغِرِ الوَلَدِ... وَمَنْ كَانَ مَرْبَاهُ بِالعَسْفِ وَالقَهْرِ مِنَ المُتَعَلِّمِينَ، سَطَا بِهِ القَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الكَسَلِ، وَحَمَلَ عَلَى الكَذِبِ وَالخُبْثِ... فَتَفْسُدُ مَعَانِي الإِنْسَانِيَّةِ الَّتِي فِي فِطْرَتِهِ! »  
 > *"Sesungguhnya bersikap keras dan membebani dalam pengajaran sangat berbahaya bagi para penuntut ilmu, terlebih bagi anak-anak kecil... Barangsiapa yang metode pendidikannya didasarkan pada kekerasan, paksaan, dan intimidasi, maka paksaan itu akan menindas jiwanya, menyempitkan kelapangan hatinya, mematikan gairah belajarnya, menyeretnya kepada kemalasan, serta mendorongnya untuk berbohong dan bersikap licik demi menghindari hukuman... Akibatnya, nilai-nilai kemanusiaan luhur yang ada pada fitrah aslinya akan rusak binasa!"*
 

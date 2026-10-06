@@ -1,6 +1,6 @@
 ---
 title: Bank Cerita Sirah dan Apersepsi KBM
-description: "Koleksi narasi otentik Sirah Nabawiyah dan kisah Sahabat yang shahih/hasan, terpetakan ke 4 tema pelajaran umum (sains, sosial, matematika, adab) dilengkapi pertanyaan pemantik Bahasa Hati dan rubrik refleksi adab kualitatif."
+description: "Koleksi 12 kisah untuk apersepsi sains, sosial, matematika dan adab, dengan nas Arab, halaman dalil khusus, sumber syarah lintas kitab, dan batas verifikasi riwayat."
 aliases:
   - /bank-cerita-sirah
   - /apersepsi-sirah-kbm
@@ -41,7 +41,7 @@ tags:
       <div style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.35rem;">📖 SIRAH NABAWIYAH</div>
       <div style="font-weight: 600; font-size: 0.9rem;">Sentuhan Hati Pembuka KBM Fitrah</div>
     </div>
-    <div class="wiki-infobox-caption">Lumbung Riwayat Shahihah untuk 4 Tema Pelajaran Umum</div>
+    <div class="wiki-infobox-caption">Bank Kisah dengan Klasifikasi dan Batas Verifikasi Sumber</div>
   </div>
   <table class="wiki-infobox-table">
     <tr>
@@ -58,7 +58,7 @@ tags:
     </tr>
     <tr>
       <th>Basis Sanad</th>
-      <td>Kutubus Sittah & Sirah Mu'tabarah (Shahihah/Hasanah)</td>
+      <td>Hadis sahih dan riwayat sirah; status masing-masing dijelaskan</td>
     </tr>
     <tr>
       <th>Metode Refleksi</th>
@@ -74,7 +74,7 @@ tags:
 > [!info] Ringkasan Eksekutif (TL;DR Lead Section)
 > **Hakikat Konsep:** **Bank Cerita Sirah & Apersepsi KBM** adalah dokumen induk perbendaharaan kisah otentik Sirah Nabawiyah dan keteladanan para Sahabat radhiyallahu 'anhum yang dipetakan secara fungsional ke dalam empat tema mata pelajaran umum. Dokumen ini memandu para pendidik memanfaatkan 15% alokasi waktu pembuka KBM (*Opening Pacing*) secara menyentuh kalbu melalui pendekatan [[Bahasa Hati]], membebaskan ruang kelas dari pembukaan teknis yang dingin dan kering.
 > * **Empat Koridor Tema Kurikulum:** Menautkan materi pelajaran umum secara organis dengan keagungan tauhid: (1) Sains & Fenomena Alam Semesta, (2) Ilmu Sosial & Interaksi Manusia, (3) Matematika & Hitungan Teratur, serta (4) Adab Keseharian & Interaksi Personal.
-> * **Kemurnian Riwayat & Refleksi:** Menolak cerita fiktif atau riwayat tanpa sanad; setiap unit menyajikan 12 narasi bersumber riwayat shahih/hasan lengkap dengan teks Arab berharakat, nomor hadits mu'tabar, pertanyaan pemantik nalar hati (*inquiry prompts*), dan rubrik pemantauan adab kualitatif non-angka (BT, MT, BK, MM).
+> * **Kemurnian Riwayat & Refleksi:** Dua belas kisah ini membedakan hadis, riwayat sirah, dan dokumen historis. Setiap petikan mempunyai halaman khusus dengan sumber dan batas verifikasi; analogi kelas bukan tambahan matan atau kutipan ulama.
 
 ---
 
@@ -125,7 +125,7 @@ Pendidikan Karakter Nabawiyah berpijak pada kemurnian sumber wahyu (*Al-Ashalah*
 
 ## 3. Matriks 12 Narasi Sirah & Pemetaan 4 Tema Pelajaran Umum
 
-Berikut adalah bank narasi sirah dan keteladanan sahabat yang telah diverifikasi sanadnya, dipetakan ke dalam 4 tema pelajaran umum lengkap dengan matan Arab berharakat, takhrij, pertanyaan pemantik Bahasa Hati, serta rubrik refleksi adab kualitatif.
+Berikut 12 kisah dan keteladanan sahabat, dipetakan ke empat tema pelajaran. Tidak semua dokumen atau matan gabungan mempunyai kedudukan hadis sahih; baca klasifikasi dan keterbatasan pada halaman dalil masing-masing.
 
 ```
                             PETA 4 TEMA PELAJARAN UMUM
@@ -150,11 +150,15 @@ Tema ini menghubungkan pelajaran sains (Fisika, Biologi, Geologi, Astronomi, dan
 
 #### Kisah 1.1: Gerhana Matahari Saat Wafatnya Sayyidina Ibrahim bin Muhammad ﷺ
 * **Subjek Terapan Sains:** Astronomi, Tata Surya, Optik Cahaya, Hukum Gravitasi & Pemurnian Aqidah Ilmiah.
-* **Narasi Sirah:** Pada hari wafatnya putra tercinta Rasulullah ﷺ yang masih balita, Ibrahim, langit Madinah tiba-tiba meredup dan terjadi gerhana matahari total. Sebagian kaum muslimin dan orang-orang Arab spontan berbisik: *"Matahari ikut berduka dan gerhana karena kematian putra sang Nabi!"* Mendengar bisikan itu, Rasulullah ﷺ tidak memanfaatkan kesempatan tersebut untuk membesarkan diri atau melegitimasi kemuliaan pribadinya. Sebaliknya, beliau segera keluar ke masjid, shalat gerhana bersama para sahabat, lalu berdiri berkhutbah meluruskan pemahaman mereka: bahwa matahari dan bulan adalah dua ayat dari tanda-tanda kebesaran Allah yang beredar sesuai ketetapan sunnatullah, bukan karena kelahiran atau kematian manusia mana pun.
-* **Teks Hadits Berharakat:**
-  > «إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لَا يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَادْعُوا اللَّهَ وَصَلُّوا حَتَّى يَنْجَلِيَ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 1044 dalam *Kitab Al-Kusuf*), Shahih Muslim (no. 901) dari Abu Mas'ud Al-Anshari dan Sayyidah Aisyah radhiyallahu 'anhum.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Hajar Al-Asqalani dalam *Fathul Bari* menegaskan: *"Hadits ini adalah pondasi terbesar dalam menolak keyakinan ahli nujum dan takhayul jahiliyah. Nabi ﷺ menegaskan keteraturan alam semesta yang tunduk pada pencipta-Nya, sekaligus menunjukkan puncak kejujuran kenabian di saat hati beliau tengah berduka hebat."*
+* **Narasi Sirah:** Gerhana matahari terjadi ketika Ibrahim, putra Nabi ﷺ, wafat. Nabi meluruskan anggapan bahwa gerhana disebabkan kematian manusia dan mengajak umat salat serta berdoa. Jenis gerhana tidak ditegaskan dalam petikan yang dipakai.
+
+> [!QUOTE] Hadis: Gerhana bukan karena kematian manusia
+> «إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لَا يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَادْعُوا اللَّهَ وَصَلُّوا حَتَّى يَنْجَلِيَ»
+>
+> [[Dalil/dalil-sirah-gerhana-bukan-kematian|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 1044 dan Muslim 901 melalui Aisyah; terdapat varian dari Abu Masud. Jangan menyatukan kedua sanad sebagai satu jalur. Gerhana adalah tanda Allah, bukan akibat kematian manusia.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Bayangkan seorang ayah yang baru saja memakamkan putra kecil yang sangat dicintainya. Mengapa Rasulullah ﷺ tidak membiarkan anggapan orang banyak bahwa langit ikut menangis demi beliau?"
   2. *Tadabbur Kausalitas Ilmiah:* "Bagaimana keteraturan peredaran matahari dan bulan membuktikan bahwa alam semesta ini memiliki Pencipta Yang Maha Teliti dan tidak pernah lalai?"
@@ -169,11 +173,15 @@ Tema ini menghubungkan pelajaran sains (Fisika, Biologi, Geologi, Astronomi, dan
 
 #### Kisah 1.2: Penggalian Parit Khandaq (Batu Karang Keras & Rekayasa Geologi)
 * **Subjek Terapan Sains:** Fisika Mekanika (Gaya & Usaha), Ilmu Tanah & Geologi Batuan, Rekayasa Pertahanan Sipil.
-* **Narasi Sirah:** Menjelang Perang Ahzab, 3000 sahabat menggali parit raksasa di utara Madinah di bawah cuaca dingin ekstrem dan kelaparan hebat. Tiba-tiba di salah satu petak galian, para sahabat terbentur batu karang putih yang luar biasa keras (*kudyatun syadidatun*). Seluruh cangkul dan beliung mereka patah dan memantul tanpa mampu memecahkan batu tersebut. Mereka melapor kepada Rasulullah ﷺ. Beliau yang perutnya diganjal dua batu karena lapar langsung turun ke dasar parit, memegang beliung besi, membaca basmalah, lalu memukulkannya. Seketika memancar kilatan cahaya terang dan batu karang yang sekeras baja itu hancur luluh menjadi tumpukan pasir halus yang mudah diserok.
-* **Teks Hadits Berharakat:**
-  > «فَقَالَ رَسُولُ اللَّهِ ﷺ: أَنَا نَازِلٌ، ثُمَّ قَامَ وَبَطْنُهُ مَعْصُوبٌ بِحَجَرٍ، وَلَبِثْنَا ثَلَاثَةَ أَيَّامٍ لَا نَذُوقُ ذَوَاقًا، فَأَخَذَ رَسُولُ اللَّهِ ﷺ الْمِعْوَلَ فَضَرَبَ، فَعَادَ كَثِيبًا أَهْيَلَ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 4101 dalam *Kitab Al-Maghazi*) dari Jabir bin Abdillah radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Imam Ibnul Qayyim dalam *Zadul Ma'ad* menguraikan bahwa peristiwa ini memadukan dua hal agung: ikhtiar fisik rekayasa pertahanan bumi yang sangat terencana (*Khandaq*) dan mukjizat kenabian yang melipatgandakan kekuatan di saat daya manusia telah mencapai titik nadir.
+* **Narasi Sirah:** Jabir meriwayatkan kesulitan menggali parit karena bagian tanah yang keras. Nabi ﷺ bangkit dengan perut diikat satu batu karena lapar, mengambil beliung dan memukulnya hingga menjadi gundukan yang mudah runtuh. Detail kilatan cahaya dan semua alat patah tidak ditambahkan dari jalur lain.
+
+> [!QUOTE] Hadis: Batu keras dalam penggalian Khandaq
+> «فَقَالَ رَسُولُ اللَّهِ ﷺ: أَنَا نَازِلٌ، ثُمَّ قَامَ وَبَطْنُهُ مَعْصُوبٌ بِحَجَرٍ، وَلَبِثْنَا ثَلَاثَةَ أَيَّامٍ لَا نَذُوقُ ذَوَاقًا، فَأَخَذَ رَسُولُ اللَّهِ ﷺ الْمِعْوَلَ فَضَرَبَ، فَعَادَ كَثِيبًا أَهْيَلَ»
+>
+> [[Dalil/dalil-sirah-batu-khandaq|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 4101 dari Jabir. Nas menyebut satu batu pada perut, bukan dua. Kilatan cahaya, semua beliung patah dan jenis batuan tidak terdapat dalam petikan ini.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Rasulullah ﷺ adalah pemimpin tertinggi umat, namun mengapa beliau ikut bermandikan debu dan perutnya diganjal batu di dasar parit bersama rakyatnya?"
   2. *Tadabbur Kausalitas Ilmiah:* "Secara fisik, cangkul besi para sahabat patah menghadapi batuan beku Madinah. Mengapa pukulan Nabi ﷺ yang sedang lapar justru mampu mengubah batu keras menjadi pasir halus?"
@@ -188,11 +196,15 @@ Tema ini menghubungkan pelajaran sains (Fisika, Biologi, Geologi, Astronomi, dan
 
 #### Kisah 1.3: Air Memancar dari Sela Jemari Nabi ﷺ di Hudaibiyah
 * **Subjek Terapan Sains:** Hidrologi, Siklus Air Tawar, Konservasi Sumber Daya Alam, Manajemen Krisis Ekologi.
-* **Narasi Sirah:** Di lembah Hudaibiyah yang tandus dan panas terik, 1500 rombongan sahabat kehabisan persediaan air minum. Tenggorokan mereka kering dan hewan tunggangan mereka sekarat. Satu-satunya air yang tersisa hanyalah sedikit genangan di dalam sebuah bejana kecil milik Rasulullah ﷺ. Para sahabat berkerumun menghadap Nabi ﷺ sambil menangis cemas. Rasulullah ﷺ dengan tenang meletakkan telapak tangan beliau yang mulia ke dalam bejana itu. Seketika, di depan mata kepala ribuan orang, air memancar deras dari sela-sela jemari beliau laksana mata air yang deras mengalir. Seluruh pasukan minum hingga puas, mengisi penuh seluruh wadah kulit mereka, dan memandikan hewan ternak mereka.
-* **Teks Hadits Berharakat:**
-  > «فَرَأَيْتُ الْمَاءَ يَنْبُعُ مِنْ بَيْنِ أَصَابِعِهِ، فَتَوَضَّأَ النَّاسُ وَشَرِبُوا، قُلْتُ: كَمْ كُنْتُمْ؟ قَالَ: لَوْ كُنَّا مِائَةَ أَلْفٍ لَكَفَانَا، كُنَّا خَمْسَ عَشْرَةَ مِائَةً»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 3576 dalam *Kitab Al-Manaqib*), Shahih Muslim (no. 1856) dari Jabir bin Abdillah radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Imam An-Nawawi dalam *Syarh Shahih Muslim* mengutip para ulama: *"Memancarnya air dari antara daging dan darah jemari Nabi ﷺ adalah mukjizat yang lebih menakjubkan daripada terpancarnya air dari batu yang dipukul tongkat Nabi Musa, karena keluarnya air dari batu adalah hal yang biasa terjadi di alam, sedangkan keluarnya air dari sela jemari manusia adalah peristiwa luar biasa yang melampaui sunnatullah materi."*
+* **Narasi Sirah:** Dalam perjalanan Hudaibiyah, para sahabat kekurangan air. Nabi ﷺ meletakkan tangan dalam bejana; air memancar dari jemari dan mereka minum serta berwudu. Jabir menyebut jumlah mereka seribu lima ratus. Narasi ini tidak menambahkan hewan sekarat atau pemandian hewan.
+
+> [!QUOTE] Hadis: Air dari jemari Nabi di Hudaibiyah
+> «فَرَأَيْتُ الْمَاءَ يَنْبُعُ مِنْ بَيْنِ أَصَابِعِهِ، فَتَوَضَّأَ النَّاسُ وَشَرِبُوا، قُلْتُ: كَمْ كُنْتُمْ؟ قَالَ: لَوْ كُنَّا مِائَةَ أَلْفٍ لَكَفَانَا، كُنَّا خَمْسَ عَشْرَةَ مِائَةً»
+>
+> [[Dalil/dalil-sirah-air-jemari-hudaibiyah|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 3576, juga 4152, dari Jabir. Muslim 1856 membahas baiat Hudaibiyah, bukan takhrij matan air ini. Riwayat menyebut minum dan berwudu, tidak memandikan hewan.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Pernahkah kalian merasakan tenggorokan yang teramat haus di tengah terik matahari? Betapa bahagianya hati para sahabat ketika melihat air jernih memancar dari tangan orang yang paling mereka cintai?"
   2. *Tadabbur Kausalitas Ilmiah:* "Air tawar yang kita minum hari ini telah mengalir melalui awan, hujan, tanah, dan bebatuan ribuan tahun. Siapakah yang menjamin pasokan air bersih itu tetap tersedia untuk hidup kita?"
@@ -211,11 +223,15 @@ Tema ini menautkan pelajaran Ilmu Pengetahuan Sosial (Sosiologi, Sejarah, Geogra
 
 #### Kisah 2.1: Hilful Fudhul (Aliansi Keadilan Sosial Makkah)
 * **Subjek Terapan Sosial:** Sosiologi Peradaban, Perlindungan Hak Asasi Kaum Lemah, Etika Kewargaan Tanpa Diskriminasi.
-* **Narasi Sirah:** Di masa Jahiliyah sebelum kenabian, seorang pedagang miskin dari kabilah Zubaid datang ke Makkah menjual barang dagangannya. Tokoh Quraisy yang berkuasa dan kaya raya, Al-Ash bin Wa'il, membeli barang itu namun menolak membayar harganya. Sang pedagang asing dizalimi dan tidak ada suku yang berani membelanya karena takut pada kekuatan Al-Ash. Pedagang itu memanjat bukit Abu Qubais dan berseru meratapi ketidakadilan. Tergerak oleh jeritan tersebut, paman Nabi Zubair bin Abdul Muthalib mengumpulkan tokoh-tokoh Bani Hasyim, Muthalib, Asad, Zahrah, dan Taim di kediaman Abdullah bin Jud'an. Mereka mengikrarkan sumpah bersama yang disebut *Hilful Fudhul*: bersatu padu membela siapa pun orang yang dizalimi di Makkah—baik warga asli maupun orang asing—sampai haknya kembali. Pemuda Muhammad ﷺ hadir menyaksikan piagam keadilan ini dan memujinya hingga masa Islam.
-* **Teks Hadits Berharakat:**
-  > «لَقَدْ شَهِدْتُ فِي دَارِ عَبْدِ اللَّهِ بْنِ جُدْعَانَ حِلْفًا مَا أُحِبُّ أَنَّ لِي بِهِ حُمْرَ النَّعَمِ، وَلَوْ أُدْعَى بِهِ فِي الْإِسْلَامِ لَأَجَبْتُ، تَحَالَفُوا أَنْ تُرَدَّ الْفُضُولُ إِلَى أَهْلِهَا، وَأَلَّا يَعِزَّ ظَالِمٌ مَظْلُومًا»
-* **Takhrij & Sanad:** HR. Ahmad dalam *Al-Musnad* (no. 1655), Al-Bukhari dalam *Al-Adab Al-Mufrad* (no. 567), Al-Hakim dalam *Al-Mustadrak* (2/220) dinyatakan shahih menurut syarat Muslim dari Abdurrahman bin Auf radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Syaikhul Islam Ibnu Taimiyah dalam *Majmu' Al-Fatawa* menggarisbawahi: *"Hilful Fudhul adalah bukti bahwa keadilan sosial dan pertolongan kepada orang yang dizalimi adalah nilai fitrah kemanusiaan yang luhur. Syariat Islam datang bukan untuk menghapusnya, melainkan untuk menyempurnakan dan memperkokohnya dengan tauhid."*
+* **Narasi Sirah:** Tradisi sirah menceritakan Hilf al-Fudul sebagai persekutuan untuk membela orang yang dizalimi. Detail pedagang, nama tokoh dan lafaz panjang mempunyai jalur sejarah tersendiri; jangan menyajikannya sebagai satu hadis sahih Abdurrahman bin Auf. Riwayat al-Muthayyibin yang tersedia dalam tafsir dipisahkan pada halaman dalil.
+
+> [!QUOTE] Riwayat sirah — batas verifikasi: Hilf al-Fudul dan batas riwayat aliansi
+> «لَقَدْ شَهِدْتُ فِي دَارِ عَبْدِ اللَّهِ بْنِ جُدْعَانَ حِلْفًا مَا أُحِبُّ أَنَّ لِي بِهِ حُمْرَ النَّعَمِ، وَلَوْ أُدْعَى بِهِ فِي الْإِسْلَامِ لَأَجَبْتُ، تَحَالَفُوا أَنْ تُرَدَّ الْفُضُولُ إِلَى أَهْلِهَا، وَأَلَّا يَعِزَّ ظَالِمٌ مَظْلُومًا»
+>
+> [[Dalil/dalil-sirah-hilf-al-fudul|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Lafaz populer tentang rumah Ibn Judan merupakan riwayat sirah yang harus dibedakan dari lafaz «شهدت حلف المطيبين» melalui Abdurrahman bin Auf. Bukti lokal di bawah memuat varian kedua; bukan sanad bagi seluruh matan gabungan yang dahulu dicantumkan. Nomor Ahmad 1655, Adab al-Mufrad 567 dan klaim sahih syarat Muslim tidak ditetapkan untuk matan gabungan. Riwayat sirah mursal tidak otomatis hadis sahih marfu.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Apa yang kalian rasakan jika menjadi pedagang asing yang sendirian di kota besar, barang kalian dirampas, dan semua orang berpaling menutup mata?"
   2. *Tadabbur Kausalitas Sosial:* "Mengapa Rasulullah ﷺ mengatakan bahwa beliau rela memenuhi panggilan aliansi itu bahkan setelah menjadi Nabi? Apa yang terjadi pada suatu masyarakat jika orang kaya bebas menindas orang miskin?"
@@ -230,11 +246,15 @@ Tema ini menautkan pelajaran Ilmu Pengetahuan Sosial (Sosiologi, Sejarah, Geogra
 
 #### Kisah 2.2: Piagam Madinah / Mitsaq Al-Madinah (Konstitusi Kerukunan Madani)
 * **Subjek Terapan Sosial:** Hukum Tata Negara, Pendidikan Kewarganegaraan, Resolusi Konflik SARA, Rekonsiliasi Damai.
-* **Narasi Sirah:** Tatkala Rasulullah ﷺ hijrah ke Yatsrib, kota tersebut berada di ambang kehancuran akibat perang saudara berkepanjangan antara suku Aus dan Khazraj selama 120 tahun (Perang Bu'ats), serta ketegangan dengan klan-klan Yahudi. Langkah pertama yang beliau lakukan bukanlah membangun benteng militer, melainkan merumuskan sebuah piagam tertulis yang mengikat seluruh penduduk. Beliau menyatukan Muhajirin dan Anshar, serta menetapkan bahwa kaum muslimin dan komunitas Yahudi adalah satu kesatuan warga (*Ummah Wahidah*) yang memiliki hak beragama secara merdeka, wajib tolong-menolong menjaga perdamaian kota, dan bersama-sama melawan musuh yang menyerang Madinah.
-* **Teks Dokumen Piagam Berharakat:**
-  > «إِنَّهُمْ أُمَّةٌ وَاحِدَةٌ مِنْ دُونِ النَّاسِ... وَإِنَّ بَيْنَهُمُ النَّصْرَ عَلَى مَنْ حَارَبَ أَهْلَ هَذِهِ الصَّحِيفَةِ، وَإِنَّ بَيْنَهُمُ النُّصْحَ وَالنَّصِيحَةَ، وَالْبِرَّ دُونَ الْإِثْمِ»
-* **Takhrij & Sanad:** Diriwayatkan oleh Ibnu Ishaq dalam *As-Sirah An-Nabawiyyah* (Ibnu Hisyam 1/501), Abu 'Ubaid Al-Qasim bin Sallam dalam *Al-Amwal* (no. 517). Sanad mursal shahih yang diperkuat oleh hadits-hadits shahih dalam Shahih Al-Bukhari (no. 1870, 3179) mengenai penghormatan tanah haram Madinah dan kesepakatan janji (*Al-Dzimmah*).
-* **Syarah Ulama Salaf:** Imam Ibnu Hazm dalam *Jawami' As-Sirah* menyatakan: *"Piagam Madinah adalah dokumen kenegaraan teragung dalam sejarah dunia, di mana keadilan hukum ditegakkan di atas prinsip amanah bersama, bukan di atas fanatisme kabilah (*'ashabiyyah*) yang membutakan mata."*
+* **Narasi Sirah:** Piagam Madinah dalam tradisi sirah mengatur tanggung jawab kelompok-kelompok di Madinah. Frasa pembuka “satu umat” tentang kaum beriman tidak dilebur dengan pasal komunitas Yahudi menjadi satu agama. Kerja sama dan perbedaan agama harus dibaca sesuai pasalnya; klaim perang Buats selama 120 tahun dan piagam sebagai tindakan pertama tidak digunakan.
+
+> [!QUOTE] Dokumen historis: Piagam Madinah sebagai dokumen historis
+> «إِنَّهُمْ أُمَّةٌ وَاحِدَةٌ مِنْ دُونِ النَّاسِ... وَإِنَّ بَيْنَهُمُ النَّصْرَ عَلَى مَنْ حَارَبَ أَهْلَ هَذِهِ الصَّحِيفَةِ، وَإِنَّ بَيْنَهُمُ النُّصْحَ وَالنَّصِيحَةَ، وَالْبِرَّ دُونَ الْإِثْمِ»
+>
+> [[Dalil/dalil-sirah-piagam-madinah|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Dokumen historis yang dinukil dalam tradisi Ibn Ishaq/Ibn Hisyam dan Al-Amwal Abu Ubaid, bukan hadis marfu bersanad sahih. Petikan menggabungkan pasal dengan elipsis. Naskah lengkap dan sanad piagam belum ditemukan dalam korpus OpenBayan yang diakses; tidak diklaim “mursal sahih”. Hadis haram Madinah dan dhimmah tidak otomatis mensahihkan setiap pasal. Dua kitab di bawah menjelaskan prinsip perjanjian, bukan takhrij piagam.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Suku Aus dan Khazraj saling membunuh selama puluhan tahun. Ikatan apa yang sanggup meluruhkan dendam berdarah mereka dalam sekejap saat Rasulullah ﷺ datang?"
   2. *Tadabbur Kausalitas Sosial:* "Bagaimana bunyi pasal piagam tersebut melindungi hak-hak minoritas Yahudi untuk beribadah dengan damai? Apa bahaya fanatisme kelompok sempit di sekolah kita?"
@@ -249,11 +269,15 @@ Tema ini menautkan pelajaran Ilmu Pengetahuan Sosial (Sosiologi, Sejarah, Geogra
 
 #### Kisah 2.3: Pembebasan Salman Al-Farisi (Solidaritas Kebun Kurma & Emas Berkah)
 * **Subjek Terapan Sosial:** Filantropi Terpadu, Kerjasama Kolektif (*Ta'awun*), Gotong Royong Pengentasan Beban Hidup.
-* **Narasi Sirah:** Salman Al-Farisi menempuh perjalanan ribuan mil dari Persia, berganti-ganti majikan, hingga dijual sebagai budak belian di Madinah kepada seorang Yahudi Bani Quraizhah. Karena status budaknya, ia terhalang mengikuti Perang Badar dan Uhud. Rasulullah ﷺ berkata kepadanya: *"Buatlah perjanjian mukatabah (tebusan merdeka) dengan majikanmu, wahai Salman!"* Majikannya menetapkan syarat yang sangat berat dan hampir mustahil: menanam 300 batang bibit pohon kurma hingga seluruhnya tumbuh berbuah, ditambah 40 uqiyah emas murni. Rasulullah ﷺ lalu berseru kepada para sahabat: *"Bantulah saudaramu!"* Para sahabat berbondong-bondong menyumbang: ada yang membawa 30 bibit, 20 bibit, hingga genap 300 bibit. Nabi ﷺ sendiri yang turun menggali lubang dan menanam seluruh bibit dengan tangan beliau. Seluruh bibit itu hidup tanpa ada sebatang pun yang mati. Lalu Nabi ﷺ memberinya sebongkah emas sebesar telur burung dara dari rampasan perang yang berbobot berkah hingga melunasi seluruh tebusan Salman.
-* **Teks Hadits Berharakat:**
-  > «أَعِينُوا أَخَاكُمْ، فَأَعَانُوهُ بِالنَّخْلِ: الرَّجُلُ بِثَلَاثِينَ وَدِيَّةً، وَالرَّجُلُ بِعِشْرِينَ... فَقَالَ رَسُولُ اللَّهِ ﷺ: اغْرِزْ يَا سَلْمَانُ، فَكَانَ سَلْمَانُ يَضَعُهَا وَيُسَوِّي عَلَيْهَا رَسُولُ اللَّهِ ﷺ بِيَدِهِ»
-* **Takhrij & Sanad:** HR. Ahmad dalam *Al-Musnad* (no. 23737), Ibnu Sa'ad dalam *Ath-Thabaqat Al-Kubra* (4/56), dinilai hasan oleh Al-Hafizh Ibnu Hajar dalam *Al-Ishabah* dan Syaikh Al-Albani.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Abdil Barr dalam *Al-Isti'ab* mencatat: *"Kisah pembebasan Salman adalah potret puncak ukhuwah imaniyah, di mana beban yang mustahil dipikul sendirian oleh seorang budak miskin berubah menjadi ringan ketika seluruh kaum muslimin mengulurkan tangan bersama sang Nabi ﷺ."*
+* **Narasi Sirah:** Salman menempuh mukatabah untuk memperoleh kemerdekaan. Al-Bukhari menyebut perintah Nabi agar ia bermukatabah dalam judul bab. Kisah panjang bantuan bibit dan emas tetap dikenali sebagai riwayat sirah, tetapi detail angka dan penilaian sanadnya belum dibuktikan oleh sumber lokal yang diperoleh; jangan mengubahnya menjadi hitungan pasti tanpa sumber primer.
+
+> [!QUOTE] Riwayat sirah — batas verifikasi: Mukatabah dan pembebasan Salman
+> «أَعِينُوا أَخَاكُمْ، فَأَعَانُوهُ بِالنَّخْلِ: الرَّجُلُ بِثَلَاثِينَ وَدِيَّةً، وَالرَّجُلُ بِعِشْرِينَ... فَقَالَ رَسُولُ اللَّهِ ﷺ: اغْرِزْ يَا سَلْمَانُ، فَكَانَ سَلْمَانُ يَضَعُهَا وَيُسَوِّي عَلَيْهَا رَسُولُ اللَّهِ ﷺ بِيَدِهِ»
+>
+> [[Dalil/dalil-sirah-pembebasan-salman|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Al-Bukhari menyebut «وقال النبي لسلمان كاتب» dalam judul bab pembelian hamba dari harbi. Bukti lokal menguatkan konteks mukatabah, bukan memastikan nomor Ahmad 23737 atau penilaian hasan seluruh kisah panjang. Angka 300 bibit, 40 uqiyah dan matan gabungan tidak dinilai sahih hanya dari kutipan judul bab.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Bayangkan kerinduan Salman yang telah bertahun-tahun diperbudak untuk sujud bersama orang-orang merdeka. Betapa harunya beliau melihat para sahabat membawakan bibit kurma satu demi satu untuknya?"
   2. *Tadabbur Kausalitas Sosial:* "Mengapa Rasulullah ﷺ tidak membayar tebusan itu sendirian dari baitul mal, melainkan memerintahkan seluruh sahabat ikut bergotong royong?"
@@ -272,11 +296,15 @@ Tema ini menautkan pelajaran Matematika (Aritmetika, Geometri, Perbandingan/Rasi
 
 #### Kisah 3.1: Pembagian Ghanimah Hunain & Takaran Wasathiyah
 * **Subjek Terapan Matematika:** Aritmetika Sosial, Rasio & Proporsi, Distribusi Alokasi, Keadilan Kualitatif vs Kuantitatif.
-* **Narasi Sirah:** Pasca kemenangan di lembah Hunain, terkumpul harta ghanimah yang sangat besar berupa puluhan ribu unta, kambing, dan perak. Dalam pembagiannya, Rasulullah ﷺ memberikan ratusan unta kepada para pemuka kabilah Arab dan kaum muallaf Quraisy yang baru masuk Islam agar hati mereka mantap pada iman. Sementara itu, kaum Anshar yang telah berjuang bertaruh nyawa tidak diberi seekor unta pun. Sebagian pemuda Anshar berbisik sedih: *"Rasulullah ﷺ melupakan kita padahal pedang kita masih basah oleh darah musuh."* Mendengar hal itu, Nabi ﷺ mengumpulkan seluruh kaum Anshar di satu tenda tertutup. Beliau berkhutbah dengan kalimat yang menggetarkan arsy kalbu: *"Wahai kaum Anshar, tidakkah kalian ridha orang-orang itu pulang ke rumah mereka membawa kambing dan unta, sedangkan kalian pulang membawa Rasulullah ﷺ ke tempat tinggal kalian?"* Seketika tangis kaum Anshar meledak hingga janggut mereka basah kuyup oleh air mata haru. Mereka berseru: *"Kami ridha Allah dan Rasul-Nya sebagai bagian kami!"*
-* **Teks Hadits Berharakat:**
-  > «يَا مَعْشَرَ الْأَنْصَارِ، أَمَا تَرْضَوْنَ أَنْ يَذْهَبَ النَّاسُ بِالشَّاءِ وَالْبَعِيرِ، وَتَرْجِعُونَ بِرَسُولِ اللَّهِ ﷺ إِلَى رِحَالِكُمْ؟ فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْلَا الْهِجْرَةُ لَكُنْتُ امْرَأً مِنَ الْأَنْصَارِ... فَبَكَى الْقَوْمُ حَتَّى أَخْضَلُوا لِحَاهُمْ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 4330 dalam *Kitab Al-Maghazi*), Shahih Muslim (no. 1059) dari Abu Sa'id Al-Khudri radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Hajar dalam *Fathul Bari* menjelaskan: *"Kisah ini adalah pelajaran agung mengenai makna keadilan sejati. Keadilan bukanlah pembagian rata secara buta matematis, melainkan meletakkan hak sesuai hikmah dan maslahat jiwa. Kaum Anshar diberi bagian tertinggi yang tak ternilai oleh hitungan angka: kebersamaan abadi dengan Rasulullah ﷺ."*
+* **Narasi Sirah:** Setelah Hunain, Nabi ﷺ memberikan harta kepada orang yang baru masuk Islam untuk menguatkan hati mereka. Ketika sebagian Anshar mempertanyakannya, beliau menjelaskan keutamaan pulang bersama Rasulullah. Riwayat Abdullah bin Zaid, Anas dan Abu Said tidak digabung seolah satu matan dengan satu nomor.
+
+> [!QUOTE] Hadis: Anshar dan pembagian Hunain
+> «يَا مَعْشَرَ الْأَنْصَارِ، أَمَا تَرْضَوْنَ أَنْ يَذْهَبَ النَّاسُ بِالشَّاءِ وَالْبَعِيرِ، وَتَرْجِعُونَ بِرَسُولِ اللَّهِ ﷺ إِلَى رِحَالِكُمْ؟ فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْلَا الْهِجْرَةُ لَكُنْتُ امْرَأً مِنَ الْأَنْصَارِ... فَبَكَى الْقَوْمُ حَتَّى أَخْضَلُوا لِحَاهُمْ»
+>
+> [[Dalil/dalil-sirah-anshar-hunain|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Al-Bukhari 4330 melalui Abdullah bin Zaid; riwayat berdekatan juga memuat Anas. Muslim 1059 menghimpun beberapa jalur Hunain. Petikan sumpah dan tangisan tidak diperlakukan sebagai satu lafaz al-Bukhari 4330 dari Abu Said.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Mengapa kaum Anshar yang awalnya merasa kecewa karena tidak mendapat harta dunia justru menangis bahagia dan merasa menjadi orang paling beruntung di dunia?"
   2. *Tadabbur Nalar Hitungan:* "Dalam matematika, 100 unta tentu lebih banyak dari 0 unta. Namun mengapa bagi kaum Anshar, memiliki Rasulullah ﷺ jauh lebih berharga daripada seluruh ternak di muka bumi?"
@@ -291,11 +319,15 @@ Tema ini menautkan pelajaran Matematika (Aritmetika, Geometri, Perbandingan/Rasi
 
 #### Kisah 3.2: Penentuan Awal Bulan Hilal & Astronomi Nabawi
 * **Subjek Terapan Matematika:** Sistem Bilangan Bulat (29 & 30), Siklus Kalender Qamariyah, Kombinatorika Hari, Keteraturan Orbit.
-* **Narasi Sirah:** Di tengah keterbatasan peradaban padang pasir yang belum mengenal kalkulator dan observatorium teleskop canggih, Rasulullah ﷺ meletakkan prinsip matematika kalender yang sangat presisi, aplikatif, dan dapat diakses oleh seluruh lapisan masyarakat dari orang awam hingga ilmuwan. Beliau mengajarkan bahwa satu bulan qamariyah dalam orbit bulan mengelilingi bumi hanya memiliki dua kemungkinan bilangan bulat: 29 hari atau 30 hari. Beliau memperagakannya dengan mengacungkan sepuluh jarinya tiga kali (30 hari), dan pada kali kedua beliau melipat satu ibu jarinya (29 hari). Beliau melarang umatnya bersandar pada tebakan mistis ahli nujum dan menuntun mereka pada observasi visual nyata (*Rukyatul Hilal*).
-* **Teks Hadits Berharakat:**
-  > «إِنَّا أُمَّةٌ أُمِّيَّةٌ، لَا نَكْتُبُ وَلَا نَحْسُبُ، الشَّهْرُ هَكَذَا وَهَكَذَا، يَعْنِي مَرَّةً تِسْعَةً وَعِشْرِينَ، وَمَرَّةً ثَلَاثِينَ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 1913 dalam *Kitab Ash-Shaum*), Shahih Muslim (no. 1080) dari Abdullah bin Umar radhiyallahu 'anhuma.
-* **Syarah Ulama Salaf:** Imam An-Nawawi dalam *Syarh Shahih Muslim* menguraikan: *"Maksud perkataan Nabi ﷺ bukanlah mencela hitungan matematika, melainkan menetapkan bahwa syariat Islam adalah agama yang mudah (*Samhah*). Allah mengikat ibadah puasa dan haji dengan tanda alam yang pasti dan dapat dihitung oleh setiap akal manusia, yaitu terbitnya hilal di ufuk barat."*
+* **Narasi Sirah:** Nabi ﷺ menjelaskan bulan dapat berjumlah 29 atau 30 hari dengan isyarat tangan; ibu jari dilipat pada isyarat ketiga untuk menunjukkan 29. Ini bukan larangan belajar matematika dan tidak menetapkan bahwa bulan selalu bergantian 29 dan 30 secara tetap.
+
+> [!QUOTE] Hadis: Bulan qamariyah 29 atau 30 hari
+> «إِنَّا أُمَّةٌ أُمِّيَّةٌ، لَا نَكْتُبُ وَلَا نَحْسُبُ، الشَّهْرُ هَكَذَا وَهَكَذَا، يَعْنِي مَرَّةً تِسْعَةً وَعِشْرِينَ، وَمَرَّةً ثَلَاثِينَ»
+>
+> [[Dalil/dalil-sirah-bulan-29-30|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 1913 dan Muslim 1080 dari Ibn Umar. Konteksnya penetapan bulan ibadah, bukan larangan belajar matematika. Panjang bulan tidak harus berselang-seling secara tetap.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Tidakkah menakjubkan bagaimana Allah menciptakan peredaran bulan begitu teratur sehingga selama ribuan tahun usianya selalu bergantian antara 29 dan 30 hari tanpa pernah meleset menjadi 40 hari?"
   2. *Tadabbur Nalar Hitungan:* "Bagaimana isyarat jemari tangan Rasulullah ﷺ mengajarkan kita prinsip perhitungan bilangan bulat dan logika pembagian waktu?"
@@ -309,12 +341,16 @@ Tema ini menautkan pelajaran Matematika (Aritmetika, Geometri, Perbandingan/Rasi
 ---
 
 #### Kisah 3.3: Garis-Garis Ajal & Harapan Ibnu Mas'ud
-* **Subjek Terapan Matematika:** Geometri Bidang Datar (Persegi & Garis Lurus), Vektor Arah, Peluang Terjadinya Peristiwa (*Probability*).
-* **Narasi Sirah:** Di atas hamparan tanah pasir, Rasulullah ﷺ pernah memanfaatkan gambar sketsa visual geometris untuk menjelaskan hakikat kehidupan manusia kepada para sahabat. Beliau mengambil sebatang ranting, lalu menggoreskan sebuah garis persegi empat tertutup. Di bagian tengah persegi itu, beliau menarik satu garis lurus memanjang ke depan hingga menembus keluar dari kotak. Kemudian di samping garis tengah itu, beliau menggambar garis-garis pendek menyamping yang mengarah ke garis tengah. Para sahabat terpana memperhatikan gambar tersebut. Nabi ﷺ lalu bersabda: *"Kotak persegi ini adalah ajal manusia yang telah mengepungnya dari segala penjuru. Garis tengah yang melesat keluar ini adalah angan-angan manusia yang melambung jauh. Sedangkan garis-garis kecil di sekelilingnya adalah rintangan cobaan hidup (*Al-A'radh*). Jika ia lolos dari rintangan yang satu, ia akan diterkam rintangan lainnya, hingga akhirnya ajal menjemputnya sebelum angan-angannya tercapai."*
-* **Teks Hadits Berharakat:**
-  > «خَطَّ النَّبِيُّ ﷺ خَطًّا مُرَبَّعًا، وَخَطَّ خَطًّا فِي الْوَسَطِ خَارِجًا مِنْهُ، وَخَطَّ خُطَطًا صِغَارًا إِلَى هَذَا الَّذِي فِي الْوَسَطِ مِنْ جَانِبِهِ الَّذِي فِي الْوَسَطِ، وَقَالَ: هَذَا الْإِنْسَانُ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ - أَوْ قَدْ أَحَاطَ بِهِ - وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الْخُطَطُ الصِّغَارُ الْأَعْرَاضُ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 6417 dalam *Kitab Ar-Riqaq*) dari Abdullah bin Mas'ud radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Hajar dalam *Fathul Bari* mengomentari: *"Di dalam hadits ini terdapat dalil agung mengenai kebolehan dan keindahan membuat gambar sketsa perumpamaan matematis (*At-Tamtsil bil-Khuthuth*) untuk mempermudah pemahaman akal terhadap hakikat ilmu yang abstrak."*
+* **Subjek Terapan Matematika:** Geometri Bidang Datar (Persegi & Garis Lurus) dan Representasi Visual; bukan rumus probabilitas.
+* **Narasi Sirah:** Nabi ﷺ menggambar persegi, garis tengah yang keluar darinya dan garis-garis pendek di sampingnya. Beliau menjelaskan manusia, ajal yang melingkupi, angan-angan yang melampaui dan gangguan kehidupan. Alat menggambar dan reaksi para sahabat tidak dinyatakan dalam petikan.
+
+> [!QUOTE] Hadis: Gambar garis ajal dan angan-angan
+> «خَطَّ النَّبِيُّ ﷺ خَطًّا مُرَبَّعًا، وَخَطَّ خَطًّا فِي الْوَسَطِ خَارِجًا مِنْهُ، وَخَطَّ خُطَطًا صِغَارًا إِلَى هَذَا الَّذِي فِي الْوَسَطِ مِنْ جَانِبِهِ الَّذِي فِي الْوَسَطِ، وَقَالَ: هَذَا الْإِنْسَانُ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ - أَوْ قَدْ أَحَاطَ بِهِ - وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الْخُطَطُ الصِّغَارُ الْأَعْرَاضُ»
+>
+> [[Dalil/dalil-sirah-garis-ajal|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 6417 dari Ibn Masud. Perumpamaan ini menjelaskan ajal, harapan dan gangguan kehidupan, bukan rumus probabilitas. Ranting dan ekspresi para sahabat tidak dinyatakan dalam petikan.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Saat kalian melihat garis harapan yang menembus kotak persegi itu, sadarkah kita bahwa manusia sering merencanakan hal-hal untuk puluhan tahun ke depan, padahal batas umur kita dibatasi oleh kotak takdir Allah?"
   2. *Tadabbur Nalar Geometri:* "Bagaimana bentuk persegi tertutup melambangkan kepastian bahwa tidak ada satu manusia pun yang mampu melompat keluar melarikan diri dari batas ajalnya?"
@@ -333,11 +369,15 @@ Tema ini menuntun pembiasaan adab lahiriah harian santri (Adab Makan, Adab Berta
 
 #### Kisah 4.1: Tiga Kaidah Makan Umar bin Abi Salamah
 * **Subjek Terapan Adab:** Pengendalian Nafsu Makan, Kebersihan Sosial, Tata Krama Perjamuan Bersama.
-* **Narasi Sirah:** Umar bin Abi Salamah adalah anak tiri Rasulullah ﷺ (putra Ummu Salamah dari pernikahan sebelumnya). Suatu hari saat masih kecil di masa kanak-kanak, ia makan bersama Nabi ﷺ dalam satu nampan besar. Karena lapar dan rasa ingin tahu anak-anak, tangannya bergerak lincah ke sana kemari menjangkau seluruh sudut nampan makanan. Rasulullah ﷺ tidak membentaknya, tidak memukul tangannya, dan tidak mempermalukannya di depan orang lain. Beliau memegang tangannya dengan lembut, menatap matanya, lalu mengajarkan tiga kaidah emas yang ringkas dan padat: *"Wahai anak muda, sebutlah nama Allah (bacalah basmalah), makanlah dengan tangan kananmu, dan makanlah makanan yang berada di dekatmu."* Umar bin Abi Salamah mengenang: *"Sejak hari itu hingga aku tua, demikianlah caraku makan."*
-* **Teks Hadits Berharakat:**
-  > «يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 5376 dalam *Kitab Al-Ath'imah*), Shahih Muslim (no. 2022) dari Umar bin Abi Salamah radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Hajar dalam *Fathul Bari* mencatat kaidah pedagogis nabawiyah: *"Di dalamnya terdapat tuntunan cara mendidik anak kecil saat makan: mendahulukan nasihat lemah lembut dengan panggilan kasih sayang ('Ya Ghulam'), menyebutkan hukum yang jelas, dan menanamkan adab berkah yang melekat seumur hidup."*
+* **Narasi Sirah:** Umar bin Abi Salamah masih kecil ketika tangannya bergerak ke berbagai bagian hidangan. Nabi ﷺ mengajarkan menyebut nama Allah, makan dengan tangan kanan dan mengambil bagian terdekat. Detail memegang tangan serta menatap mata tidak terdapat dalam matan yang dikutip.
+
+> [!QUOTE] Hadis: Adab makan Umar bin Abi Salamah
+> «يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ»
+>
+> [[Dalil/dalil-adab-makan-sammi-wa-kul-biyaminik|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** HR al-Bukhari 5376 dan Muslim 2022 dari Umar bin Abi Salamah.
+* **Syarah terverifikasi:** Lihat syarah dan sumber pada halaman dalil existing; atribusi panjang yang dahulu ditulis sebagai kutipan Ibn Hajar tidak dipertahankan tanpa lokasi teks.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Mengapa Rasulullah ﷺ memanggilnya dengan sebutan lembut 'Wahai anak muda' dan tidak langsung memarahinya yang sedang lapar?"
   2. *Tadabbur Hikmah Adab:* "Mengapa kita dilarang menjulurkan tangan mengambil makanan di depan orang lain? Apa hubungannya adab mengambil yang terdekat dengan rasa syukur dan qana'ah?"
@@ -353,10 +393,14 @@ Tema ini menuntun pembiasaan adab lahiriah harian santri (Adab Makan, Adab Berta
 #### Kisah 4.2: Izin Mengetuk Pintu Tiga Kali Abu Musa Al-Asy'ari & Umar bin Khattab
 * **Subjek Terapan Adab:** Etika Mengetuk Pintu & Masuk Rumah, Perlindungan Privasi Keluarga, Integritas Verifikasi Kabar (*Tabayyun*).
 * **Narasi Sirah:** Sahabat mulia Abu Musa Al-Asy'ari mendatangi rumah Amirul Mukminin Umar bin Khattab radhiyallahu 'anhu. Ia berdiri di luar pintu dan mengucapkan salam: *"Assalamu'alaikum, bolehkah aku masuk?"* Tidak ada jawaban dari dalam rumah. Ia mengulangi salam kedua, lalu salam ketiga. Karena tetap tidak ada jawaban, Abu Musa berbalik dan melangkah pulang. Beberapa saat kemudian, Umar keluar dan bertanya mengapa Abu Musa pulang. Abu Musa menjawab bahwa ia mendengar Rasulullah ﷺ bersabda: *"Jika salah seorang di antara kalian telah meminta izin tiga kali dan tidak diizinkan, maka hendaklah ia berbalik pulang."* Umar yang sangat tegas dalam menjaga keotentikan hadits berkata: *"Engkau harus membawakan saksi atas ucapan ini, atau aku akan memberimu peringatan!"* Abu Musa gemetar dan mendatangi majelis Anshar. Ubay bin Ka'ab dan Abu Sa'id Al-Khudri tersenyum lalu berdiri membela Abu Musa seraya bersaksi di hadapan Umar bahwa mereka semua mendengar sabda tersebut dari lisan Rasulullah ﷺ. Umar pun menangis dan menerima ketetapan sunnah tersebut dengan tunduk.
-* **Teks Hadits Berharakat:**
-  > «إِذَا اسْتَأْذَنَ أَحَدُكُمْ ثَلَاثًا فَلَمْ يُؤْذَنْ لَهُ فَلْيَرْجِعْ»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 6245 dalam *Kitab Al-Isti'dzan*), Shahih Muslim (no. 2153) dari Abu Musa Al-Asy'ari radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Imam An-Nawawi dalam *Syarh Shahih Muslim* menguraikan: *"Hadits ini menetapkan batas syar'i meminta izin bertamu adalah tiga kali. Hal ini demi menjaga kehormatan pandangan (*Ghaddhul Bashar*) dan menghormati privasi pemilik rumah yang mungkin sedang dalam keadaan tidak siap menerima tamu."*
+
+> [!QUOTE] Hadis: Meminta izin tiga kali
+> «إِذَا اسْتَأْذَنَ أَحَدُكُمْ ثَلَاثًا فَلَمْ يُؤْذَنْ لَهُ فَلْيَرْجِعْ»
+>
+> [[Dalil/dalil-sirah-izin-tiga-kali|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Al-Bukhari 6245: Abu Said menceritakan Abu Musa yang menyampaikan sabda Nabi; Muslim 2153 memuat kisah Abu Musa. Tiga permintaan izin tidak sama dengan kewajiban tiga ketukan fisik.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Pernahkah kamar kalian tiba-tiba dibuka orang tanpa mengetuk pintu saat kalian sedang berganti pakaian atau beristirahat? Betapa tidak nyamannya perasaan itu?"
   2. *Tadabbur Hikmah Syariat:* "Mengapa syariat membatasi ketukan hanya tiga kali? Mengapa kita tidak boleh mengintip dari lubang kunci atau jendela saat menunggu dibukakan pintu?"
@@ -371,11 +415,15 @@ Tema ini menuntun pembiasaan adab lahiriah harian santri (Adab Makan, Adab Berta
 
 #### Kisah 4.3: Menjaga Rahasia Anas bin Malik & Pendidikan Ibunda Ummu Sulaim
 * **Subjek Terapan Adab:** Menjaga Amanah Rahasia, Loyalitas Pemimpin, Kematangan Jiwa Anak, Keteladanan Ibu Shalihah.
-* **Narasi Sirah:** Sahabat kecil Anas bin Malik radhiyallahu 'anhu yang melayani Rasulullah ﷺ sejak usia belia suatu hari sedang bermain bersama anak-anak sebaya. Rasulullah ﷺ menghampirinya, mengucapkan salam kepadanya, lalu membisikkan sebuah hajat rahasia dan mengutus Anas untuk menunaikannya. Tugas itu membuat Anas terlambat pulang ke rumah ibundanya, Ummu Sulaim. Ketika tiba di rumah, ibunya yang cemas bertanya: *"Apa yang membuatmu terlambat pulang, wahai anakku?"* Anas menjawab: *"Rasulullah ﷺ mengutusku untuk suatu keperluan rahasia."* Sang ibu bertanya: *"Keperluan apa itu?"* Anas dengan tegas menjawab: *"Itu rahasia Rasulullah ﷺ!"* Mendengar keteguhan hati putranya, Ummu Sulaim tidak marah atau memaksa mengorek informasi, melainkan tersenyum bangga dan menasihatinya: *"Jagalah baik-baik rahasia Rasulullah ﷺ itu, dan jangan pernah engkau ceritakan kepada siapa pun di dunia ini!"* Bertahun-tahun kemudian setelah Nabi wafat, Anas berkata kepada Tsabit Al-Bunani: *"Demi Allah, sekiranya rahasia itu pernah aku ceritakan kepada seseorang, niscaya aku akan menceritakannya kepadamu."*
-* **Teks Hadits Berharakat:**
-  > «أَسَرَّ إِلَيَّ النَّبِيُّ ﷺ سِرًّا، فَمَا أَخْبَرْتُ بِهِ أَحَدًا بَعْدَهُ، وَلَقَدْ سَأَلَتْنِي أُمِّي فَمَا أَخْبَرْتُهَا بِهِ، قَالَتْ: لَا تُخْبِرَنَّ بِسِرِّ رَسُولِ اللَّهِ ﷺ أَحَدًا»
-* **Takhrij & Sanad:** HR. Al-Bukhari (no. 6289 dalam *Kitab Al-Isti'dzan*), Shahih Muslim (no. 2482) dari Anas bin Malik radhiyallahu 'anhu.
-* **Syarah Ulama Salaf:** Al-Hafizh Ibnu Hajar dalam *Fathul Bari* menegaskan: *"Hadits ini menunjukkan betapa tingginya kedewasaan akal dan adab Anas bin Malik di usia belia. Di dalamnya juga terdapat teladan agung dari Ummu Sulaim yang mendidik anaknya menjadi penyimpan rahasia yang amanah, bukan orang yang gemar menyebarkan desas-desus."*
+* **Narasi Sirah:** Nabi ﷺ memberi Anas tugas ketika ia sedang bermain. Anas terlambat pulang; saat ibunya bertanya tentang tugas itu, ia menjawab bahwa itu rahasia. Ummu Sulaim memintanya tidak membocorkan rahasia Nabi. Senyum bangga dan kebisikan tidak ditambahkan sebagai fakta matan. Menjaga amanah tidak mewajibkan anak menyembunyikan ancaman atau kekerasan dari orang dewasa tepercaya.
+
+> [!QUOTE] Hadis: Anas menjaga rahasia Nabi
+> «أَسَرَّ إِلَيَّ النَّبِيُّ ﷺ سِرًّا، فَمَا أَخْبَرْتُ بِهِ أَحَدًا بَعْدَهُ، وَلَقَدْ سَأَلَتْنِي أُمِّي فَمَا أَخْبَرْتُهَا بِهِ، قَالَتْ: لَا تُخْبِرَنَّ بِسِرِّ رَسُولِ اللَّهِ ﷺ أَحَدًا»
+>
+> [[Dalil/dalil-sirah-rahasia-anas|Nas, takhrij dan syarah khusus]].
+
+* **Takhrij & batas riwayat:** Al-Bukhari 6289 memuat perkataan Anas tentang rahasia; Muslim 2482 memuat kisah ibunya. Ucapan Ummu Sulaim bukan sabda Nabi. Rahasia tidak membenarkan menyembunyikan kekerasan atau ancaman; anak boleh meminta bantuan orang dewasa tepercaya.
+* **Syarah terverifikasi:** Lihat petikan dua kitab, lokasi korpus, dan batas penerapannya pada halaman khusus.
 * **Pertanyaan Pemantik Bahasa Hati (Inquiry Prompts):**
   1. *Sentuhan Afeksi Kalbu:* "Bayangkan seorang anak kecil yang dititipi rahasia oleh manusia teragung di muka bumi. Betapa bangga dan kokohnya dada Anas ketika mampu menolak membocorkannya bahkan kepada ibu kandungnya sendiri?"
   2. *Tadabbur Kausalitas Karakter:* "Mengapa sifat membocorkan rahasia atau gemar bergosip (*Namimah*) dapat menghancurkan persahabatan dan kepercayaan di madrasah kita?"

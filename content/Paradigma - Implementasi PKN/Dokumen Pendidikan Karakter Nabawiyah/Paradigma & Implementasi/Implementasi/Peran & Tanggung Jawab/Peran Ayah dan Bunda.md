@@ -74,6 +74,9 @@ aliases:
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qawwamah-ayah-dalam-rumah-tangga]]
 > « الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ »
 >
 > *"Laki-laki (suami/ayah) itu adalah pemimpin bagi kaum wanita (istri/keluarga), oleh karena Allah telah melebihkan sebahagian mereka atas sebahagian yang lain..."*

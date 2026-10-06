@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. At-Tirmidzi No. 3127"
     authority: 1.0
-    verification: "Shamela 11M / Jami' At-Tirmidzi (Kitab Tafsir Al-Qur'an) & Silsilah Ash-Shahihah 1821 Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-« اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ »
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-firasat-mukmin-cahaya-allah|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> « اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ »
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Takutilah firasat seorang mukmin, karena sesungguhnya dia memandang dengan cahaya Allah."*  
 > 
 > *(Rujukan: HR. At-Tirmidzi No. 3127, Kitab Tafsir Al-Qur'an, Bab Surah Al-Hijr)*
@@ -103,15 +106,29 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Ibnul Qayyim Al-Jauziyyah rahimahullah dalam *Madarijus Salikin* (Juz 2 Hal. 482–486) menguraikan hakikat firasat iman.
-> 'Firasat adalah cahaya yang Allah lemparkan ke dalam kalbu hamba-Nya yang beriman. Dengannya ia membedakan antara yang haq dan yang batil. Kekuatan firasat berbanding lurus dengan kekuatan iman seseorang. Siapa yang imannya paling kokoh, maka firasatnya paling tajam. Abu Sa'id Al-Kharraz berkata: Siapa yang menyucikan batinnya dengan muraqabah dan menjaga pandangannya dari yang haram, niscaya firasatnya tidak meleset.'
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-Imam Ibnu Katsir rahimahullah dalam *Tafsir Al-Qur'an Al-'Azhim* menukil hadits ini pada tafsir QS. Al-Baqarah: 273 dan QS. Al-Hijr: 75. Beliau menegaskan bahwa orang berakal mampu menyimpulkan rahasia sifat batiniah manusia. Kesimpulan tersebut dibaca melalui raut wajah dan intonasi tutur kata (*simahum fi wujuhihim wa fi lahnil qawl*).
+Firasat harus dibaca bersama tanda lahiriah; dugaan pendidik bukan pengetahuan pasti tentang batin anak. Kutipan berikut tidak menetapkan derajat sanad riwayat firasat.
 
-Imam Al-Munawi dalam *Faidhul Qadir* (Juz 1 Hal. 143) turut menjelaskan makna hadits ini. Maksud *yanzhuru bi-nurillah* adalah memandang perkara dengan taufiq dan bashirah ilahi. Pandangan kalbu tersebut menembus kulit luar menuju hakikat terdalam sesuatu.
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط أولاد الشيخ
+>
+> <div dir="rtl">
+> أي: بما يظهر لذوي الألباب من صفاتهم
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ط أولاد الشيخ*, ج 2 ص 478; chunk `63145`.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> وهذا إما من فراسة النبي ﵊ وإما من قوة نظره صلي الله عليه وسلم.
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 1 ص 135; chunk `54922`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka Manhaj PKN, hadits ini adalah poros metodologis bagi **[[Firasat|Firasat Nabawiyah]]**:
 - **Bukan Bakat Individual Eksklusif:** Hadits ini menyeru seluruh kaum beriman. Meskipun terdapat pilar spesifik **[[07-firaasah]]**, berfirasat adalah kecakapan pedagogis universal. Setiap pendidik dan orang tua mukmin wajib mengasahnya.
 - **Membaca Tiga Dimensi Fitrah Anak:** Dengan cahaya ilahi, pendidik dilatih membaca tiga ranah utama:
@@ -120,7 +137,7 @@ Dalam kerangka Manhaj PKN, hadits ini adalah poros metodologis bagi **[[Firasat|
   3. Kondisi kesehatan jiwa anak dan luka batin (*Hutang Pengasuhan*).
 - **Koneksi Kalbu Pendidik:** Firasat guru tidak akan menyala jika jiwanya keruh. Ketajaman firasat menuntut *Tazkiyatun Nafs* pribadi sang pendidik.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Jagalah kesucian pandangan mata dan makanan yang masuk ke rumah; kejernihan nurani orang tua adalah radar alami untuk mendeteksi perubahan emosi dan keresahan anak balitanya.
 2. **Bagi Guru:** Luangkan waktu duduk mengamati interaksi bebas murid di jam istirahat; amati bahasa tubuh mereka tanpa memberi instruksi formal untuk melihat keaslian karakternya.
 3. **Bagi Konselor Sekolah:** Jangan terburu-buru menjatuhkan label nakal atau malas; gunakan firasat untuk mencari luka batin yang memicu perilaku agresif atau penyendiri tersebut.
@@ -191,9 +208,9 @@ Dalam kerangka Manhaj PKN, hadits ini adalah poros metodologis bagi **[[Firasat|
 
 ## Referensi dan Catatan Kaki
 
-[^1]: **Imam At-Tirmidzi**, *Al-Jami' Ash-Shahih (Sunan At-Tirmidzi)*, Kitab Tafsir Al-Qur'an Bab Wa min Surah Al-Hijr No. 3127. Ditahqiq berderajat hasan lighairihi oleh Syaikh Al-Albani dalam *Silsilah Al-Ahadits Ash-Shahihah* No. 1821.
-[^2]: **Imam Ibnul Qayyim Al-Jauziyyah**, *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq Muhammad Hamid Al-Faqi, Darul Kitab Al-'Arabi, Beirut, Juz 2 Hal. 482–486.
-[^3]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan SQLite `shamela_corpus.db` dan Qdrant ID `shamela_11m`.
+[^1]: Rujukan awal matan: Sunan At-Tirmidzi, Kitab Tafsir Al-Qur'an, Surah Al-Hijr, No. 3127. Nomor dan penilaian sanad pada metadata merupakan rujukan awal; penelusuran lokal di halaman ini tidak menetapkan kembali derajat hadis.
+[^2]: **Ibnu Katsir**, *تفسير ابن كثير - ط أولاد الشيخ*, ج 2 ص 478, chunk `63145`; **Ibnu Utsaimin**, *شرح رياض الصالحين لابن عثيمين*, ج 1 ص 135, chunk `54922`. Kutipan Arabic terlacak dicantumkan pada bagian analisis kontributor.
+[^3]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 63145, 54922. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

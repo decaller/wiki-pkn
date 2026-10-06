@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Abu Dawud No. 494 & Sunan Ad-Daruquthni No. 898"
     authority: 1.0
-    verification: "Shamela 11M / Sunan Abu Dawud (Kitab ash-Shalah) & Sunan Ad-Daruquthni Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِذَا مَيَّزَ الْغُلَامُ فَأْمُرُوهُ بِالصَّلَاةِ، وَعَلِّمُوهَا إِيَّاهُ إِذَا بَلَغَ سَبْعَ سِنِينَ
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-kebiasaan-ibadah-meringankan-taklif|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِذَا مَيَّزَ الْغُلَامُ فَأْمُرُوهُ بِالصَّلَاةِ، وَعَلِّمُوهَا إِيَّاهُ إِذَا بَلَغَ سَبْعَ سِنِينَ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Apabila anak telah mencapai usia tamyiz (mampu membedakan baik dan buruk), maka perintahkanlah ia mengerjakan shalat, dan ajarkanlah shalat itu kepadanya ketika ia telah berusia tujuh tahun."*  
 > 
 > *(Rujukan: HR. Abu Dawud No. 494 & Sunan Ad-Daruquthni No. 898)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam As-Sindi dalam *Hasyiyah Sunan Abu Dawud* dan Al-Munawi dalam *Faidhul Qadir* menjelaskan bahwa pensyariatan perintah shalat di usia 7 tahun bukanlah karena anak telah menanggung hisab dosa (mukallaf), melainkan untuk *at-tamrin wal i'tiyad* (pembiasaan dan pembentukan otot mental). Apabila seorang anak telah terbiasa bangun shubuh, berwudhu dengan air dingin, dan berdiri shalat sejak kecil, maka tatkala tiba usia baligh kewajiban tersebut telah menjadi tabiat alami yang mendarah daging, bukan beban yang memberatkan jiwanya.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Pembiasaan shalat menjadi tanggung jawab wali sebelum baligh. Sumber terlacak memuat pengajaran pada usia tujuh; susunan matan utama yang menggabungkan tamyiz dan tujuh tahun belum dipastikan sebagai satu lafaz riwayat.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> يجب على الولي أمر الصبي بالصلاة ليتمرن عليها ويعتادها فلا يتركها إذا بلغ إنْ شاء الله تعالى.
+> </div>
+>
+> **Sumber:** فيصل آل مبارك, *تطريز رياض الصالحين*, ص 216; chunk `57839`.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> المراد به ما يشمل الصبية لأنه فعيل بمعنى فاعل
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 3 ص 133; chunk `53686`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tamyiz]]**, yaitu:
 - **Pilar Tamyiz (Fase Pembiasaan):** Usia 7–10 tahun adalah gerbang pembiasaan ritual lahiriah (*habituasi*); nalar anak mulai mampu memahami keteraturan hukum sebab-akibat.
 - **Mencegah Culture Shock Baligh:** Banyak remaja memberontak dan malas shalat saat akil baligh karena tidak pernah dibiasakan dengan penuh cinta pada usia tamyiz.
 - **Kaidah Kemudahan Syariat:** Beban taklif terasa ringan tatkala pondasi kecintaan ibadah telah terbangun kokoh.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Bangun rutinitas harian keluarga yang berporos pada jadwal adzan shalat lima waktu.
 2. **Bagi Guru:** Buat tabel pembiasaan ibadah yang memotivasi santri dengan bintang prestasi tanpa memberi hukuman yang mempermalukan.
 3. **Bagi Evaluasi Santri:** Pantau refleks kesiapan santri merapikan aktivitas saat waktu shalat tiba.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tamyiz]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 57839, 53686. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

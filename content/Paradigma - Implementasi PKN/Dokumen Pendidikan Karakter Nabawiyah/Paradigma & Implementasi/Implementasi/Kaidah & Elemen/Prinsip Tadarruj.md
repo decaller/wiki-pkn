@@ -84,6 +84,9 @@ Tadarruj bukanlah strategi pragmatis kompromistis terhadap kelemahan manusia, me
 ### A. Hikmah Penurunan Al-Qur'an Secara Bertahap
 Allah Subhanahu wa Ta'ala berfirman mengenai hikmah Al-Qur'an diturunkan berangsur-angsur selama 23 tahun:
 
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qs-25-32]]
 > وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْآنُ جُمْلَةً وَاحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَاهُ تَرْتِيلًا
 > 
 > *"Berkatalah orang-orang kafir: 'Mengapa Al-Qur'an itu tidak diturunkan kepadanya sekali turun saja?' Demikianlah, agar Kami perkokoh hatimu dengannya dan Kami membacakannya secara tartil (berangsur-angsur).'*  
@@ -94,6 +97,9 @@ Ayat ini menegaskan bahwa keteguhan jiwa (*tatsbitul fu'ad*) hanya dapat terwuju
 ### B. Manhaj Ulama Rabbaniyyin Menurut Ibnu Abbas
 Ibnu Abbas radhiyallahu 'anhuma ketika menafsirkan firman Allah dalam QS. Ali 'Imran: 79 (*"Kūnū rabbāniyyīn"* — Jadilah kalian pendidik yang rabbani) menyatakan:
 
+
+> [!quote] Kaidah / keterangan ulama
+> **Dalil:** [[dalil-atsar-rabbani-shighar-ilm]]
 > « الرَّبَّانِيُّ الَّذِي يُرَبِّي النَّاسَ بِصِغَارِ العِلْمِ قَبْلَ كِبَارِهِ »
 > 
 > *"Pendidik Rabbani adalah orang yang mendidik manusia dengan perkara-perkara ilmu yang mendasar (kecil/sederhana) sebelum mengajarkan perkara-perkara yang besar (kompleks)."*  
@@ -102,6 +108,9 @@ Ibnu Abbas radhiyallahu 'anhuma ketika menafsirkan firman Allah dalam QS. Ali 'I
 ### C. Pentahapan Syariat Pengharaman Khamr
 Ummul Mukminin Aisyah radhiyallahu 'anha membongkar rahasia sukses tarbiyah generasi sahabat Nabi ﷺ:
 
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-4993]]
 > « إِنَّمَا نَزَلَ أَوَّلَ مَا نَزَلَ مِنْهُ سُورَةٌ مِنَ المُفَصَّلِ، فِيهَا ذِكْرُ الجَنَّةِ وَالنَّارِ، حَتَّى إِذَا ثَابَ النَّاسُ إِلَى الإِسْلاَمِ نَزَلَ الحَلاَلُ وَالحَرَامُ، وَلَوْ نَزَلَ أَوَّلَ شَيْءٍ: لاَ تَشْرَبُوا الخَمْرَ، لَقَالُوا: لاَ نَدَعُ الخَمْرَ أَبَدًا! وَلَوْ نَزَلَ: لاَ تَزْنُوا، لَقَالُوا: لاَ نَدَعُ الزِّنَا أَبَدًا! »
 > 
 > *"Sesungguhnya ayat Al-Qur'an yang mula-mula turun adalah surat-surat Al-Mufashshal yang di dalamnya menceritakan surga dan neraka (menanamkan tauhid dan keimanan). Hingga ketika manusia telah condong dan kokoh dalam Islam, barulah turun ayat-ayat tentang halal dan haram. Seandainya yang pertama kali turun adalah: 'Janganlah kalian minum khamr!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan khamr selamanya!' Dan seandainya yang pertama kali turun adalah: 'Janganlah kalian berzina!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan zina selamanya!'"*  
@@ -242,6 +251,9 @@ Di ranah kelembagaan (sekolah, pesantren, madrasah), transformasi manhaj tidak d
 ## Takhrij Dalil & Referensi Kitab Salaf
 
 1. **Hadits Pembiasaan Shalat Bertahap:**
+
+   > [!quote] Nas rujukan
+   > **Dalil:** [[dalil-perintah-shalat-usia-7-dan-10]]
    > « مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي المَضَاجِعِ »  
    > *"Perintahkan anak-anak kalian untuk mengerjakan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan edukatif tanpa menyakiti) karena meninggalkannya ketika mereka berusia sepuluh tahun, serta pisahkanlah tempat tidur di antara mereka."*  
    > 📚 **(HR. Abu Dawud No. 495, Ahmad No. 6689, disahihkan oleh Al-Albani dalam Shahih Sunan Abi Dawud)**
@@ -249,6 +261,9 @@ Di ranah kelembagaan (sekolah, pesantren, madrasah), transformasi manhaj tidak d
    > 🔍 *Syarah Faedah Manhaj:* Hadits ini adalah rujukan pokok *Tadarruj* penegakan disiplin syariat. Antara usia 7 hingga 10 tahun terdapat jeda 3 tahun ($\approx$ 1.095 hari). Di rentang masa ini Rasulullah ﷺ hanya memerintahkan *"Perintahkan!"* tanpa mengizinkan sanksi fisik sama sekali, membuktikan bahwa penanaman kebiasaan menuntut ribuan repetisi pengingatan yang penuh kesabaran.
 
 2. **Kaidah Ushul Fiqih:**
+
+   > [!quote] Kaidah / keterangan ulama
+   > **Dalil:** [[dalil-kaidah-ma-la-yudrak]]
    > « مَا لاَ يُدْرَكُ كُلُّهُ لاَ يُتْرَكُ جُلُّهُ »  
    > *"Apa yang tidak dapat dicapai atau dilaksanakan seluruhnya, janganlah ditinggalkan sebagian besarnya."* (As-Suyuthi, *Al-Asybah wan Nazha'ir*). Menjadi landasan bahwa setiap perbaikan fitrah harus dimulai dari kemampuan yang ada saat ini secara gradual.
 

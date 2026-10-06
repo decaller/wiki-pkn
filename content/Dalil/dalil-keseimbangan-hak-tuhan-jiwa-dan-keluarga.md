@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 1968"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab ash-Shaum) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلِأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ. فَأَتَى النَّبِيَّ ﷺ فَذَكَرَ ذَلِكَ لَهُ، فَقَالَ النَّبِيُّ ﷺ: صَدَقَ سَلْمَانُ
-</div>
+> [!QUOTE] Nas HR. Bukhari No. 1968
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلِأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ. فَأَتَى النَّبِيَّ ﷺ فَذَكَرَ ذَلِكَ لَهُ، فَقَالَ النَّبِيُّ ﷺ: صَدَقَ سَلْمَانُ
+> </div>
+>
+> [[dalil-keseimbangan-hak-tuhan-jiwa-dan-keluarga|Rujukan HR. Bukhari No. 1968]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya bagi Tuhanmu ada hak atas dirimu, bagi jiwamu/jasadmu ada hak atas dirimu, dan bagi keluargamu (istri/anakmu) ada hak atas dirimu; maka berikanlah kepada setiap yang memiliki hak akan haknya masing-masing! Maka Abu Ad-Darda' mendatangi Nabi ﷺ lalu menceritakan hal itu kepada beliau, maka Nabi ﷺ bersabda: 'Salman benar.'"*  
 > 
 > *(Rujukan: HR. Bukhari No. 1968)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 4 Hal. 218) menguraikan hikmah besar hadits ini: Islam menolak sikap ekstrem (*ghuluw*) meskipun dalam ibadah ritual. Abu Ad-Darda' yang berpuasa setiap hari dan shalat malam semalam suntuk ditegur oleh Salman karena menelantarkan hak jasadnya (istirahat/tidur) dan hak istrinya (kehangatan biologis dan nafkah batin). Rasulullah ﷺ mengukuhkan kaidah Salman: ibadah yang diridhai Allah adalah ibadah yang proporsional (*wasathiyah*), di mana hak ketuhanan, hak kesehatan jasad, dan hak pengasuhan anak-istri ditunaikan secara seimbang tanpa saling mendzalimi.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kisah Salman dan Abu Darda menunjukkan perlunya menunaikan hak tanpa berlebihan dalam ibadah. Penerapannya pada jadwal istirahat dan pengasuhan merupakan analisis kontributor.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> ففي هذا دليل على أن الإنسان لا ينبغي له أن يكلف نفسه بالصيام والقيام، وإنما يصلي ويقوم على وجه يحصل به الخير، ويزول به التعب والمشقة والعناء.
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 2 ص 233; OpenBayan lokal, chunk `55607`.
+> [[dalil-keseimbangan-hak-tuhan-jiwa-dan-keluarga|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> مرشداً إلى حكمة الاقتصاد وترك الغلوّ في العبادة
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 2 ص 395; OpenBayan lokal, chunk `53407`.
+> [[dalil-keseimbangan-hak-tuhan-jiwa-dan-keluarga|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Internal & Eksternal]]**, yaitu:
 - **Pencegahan Ifrath dan Tafrith:** Menolak kesalehan individual ekstrem yang mengorbankan waktu bermain bersama anak; menolak pula kesibukan kerja duniawi yang menelantarkan shalat.
 - **Keseimbangan Internal dan Eksternal:** Menjaga kesehatan fisik, kejernihan batin, dan keharmonisan relasi keluarga secara terpadu.
 - **Koneksi Sebelum Koreksi:** Memberikan hak perhatian dan waktu berkualitas (*quality time*) kepada keluarga adalah ibadah agung.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Ayah:** Jangan habiskan seluruh waktu untuk lembur kerja atau kegiatan organisasi di luar hingga anak kehilangan figur ayah di rumah.
 2. **Bagi Guru:** Jaga kesehatan fisik dan jam istirahat agar tidak mengajar dalam kondisi kelelahan kronis yang memicu kemarahan.
 3. **Bagi Evaluasi Santri:** Pantau keseimbangan ritme hidup santri antara belajar, ibadah, olahraga, dan istirahat.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Internal & Eksternal]]**, yai
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `55607`, `53407`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

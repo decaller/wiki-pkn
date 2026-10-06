@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 2101 & Muslim No. 2628"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Buyu') & Shahih Muslim (Kitab al-Birr) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ، كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ، لَا يَعْدَمُكَ مِنْ صَاحِبِ الْمِسْكِ إِمَّا تَشْتَرِيهِ أَوْ تَجِدُ رِيحَهُ، وَكِيرُ الْحَدَّادِ يُحْرِقُ بَدَنَكَ أَوْ ثَوْبَكَ أَوْ تَجِدُ مِنْهُ رِيحًا خَبِيثَةً
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-imunitas-sosial-sahabat-penjual-minyak-wangi|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ، كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ، لَا يَعْدَمُكَ مِنْ صَاحِبِ الْمِسْكِ إِمَّا تَشْتَرِيهِ أَوْ تَجِدُ رِيحَهُ، وَكِيرُ الْحَدَّادِ يُحْرِقُ بَدَنَكَ أَوْ ثَوْبَكَ أَوْ تَجِدُ مِنْهُ رِيحًا خَبِيثَةً
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Perumpamaan teman duduk yang shalih dan teman duduk yang buruk ibarat pembawa (penjual) minyak wangi dan peniup api pandai besi. Dari penjual minyak wangi, engkau mungkin diberi minyak wangi, atau engkau membeli darinya, atau engkau mencium aroma harumnya. Sedangkan dari peniup api pandai besi, boleh jadi ia akan membakar pakaianmu atau engkau mencium bau busuk darinya."*  
 > 
 > *(Rujukan: HR. Bukhari No. 2101 & Muslim No. 2628)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 16 Hal. 178) dan Al-Hafizh Ibnu Hajar dalam *Fathul Bari* menerangkan: hadits ini menetapkan anjuran kuat mencari sahabat yang shalih, berakhlak mulia, berilmu, bertakwa, dan menjaga adab; serta larangan keras bergaul akrab dengan teman yang fasik, pembuat bid'ah, gemar berkata kotor, dan mengabaikan shalat. Karakter manusia memiliki tabiat mencuri sifat orang lain (*ath-thiba'u sarraqah*); interaksi harian secara perlahan namun pasti akan mewarnai frekuensi batin seseorang tanpa ia sadari.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Perumpamaan pergaulan mengarahkan pemilihan lingkungan baik. Penerapannya pada pendidikan sosial anak merupakan analisis kontributor.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> في هذا الحديث: الحث على مجالسة أهل الخير، والتحذير من مجالسة أهل الشر.
+> </div>
+>
+> **Sumber:** فيصل آل مبارك, *تطريز رياض الصالحين*, ص 248; chunk `57877`.
+
+> [!QUOTE] Kutipan ulama — منار القاري شرح مختصر صحيح البخاري
+>
+> <div dir="rtl">
+> دل هذا الحديث على التحذير الشديد من جلساء السوء، لأنهم شر على من يجالسهم، وربما قصدوا أن ينفعوه فيضروه من حيث لا يشعرون.
+> </div>
+>
+> **Sumber:** حمزة قاسم, *منار القاري شرح مختصر صحيح البخاري*, ج 5 ص 176; chunk `28077`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Imunitas]]**, yaitu:
 - **Pilar Imunitas Sosial PKN:** Membentengi anak bukan hanya dengan nasihat di dalam rumah, melainkan dengan menempatkannya di ekosistem pergaulan shalih (*biah shalihah*).
 - **Filtrasi Circle Pertemanan:** Mengajarkan anak cara memilih sahabat sejati yang mengingatkan pada Allah dan menjauhi teman yang mengajak maksiat.
 - **Koneksi Sebelum Koreksi:** Mengisi tangki cinta keluarga agar anak tidak terpaksa mencari penerimaan palsu pada pergaulan jalanan yang toksik.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Kenali siapa sahabat-sahabat dekat anak kita; undang mereka ke rumah dan sediakan hidangan hangat untuk mereka.
 2. **Bagi Guru:** Ciptakan kultur sekolah di mana kesalehan dan akhlak mulia menjadi standar prestise pergaulan santri.
 3. **Bagi Evaluasi Santri:** Pantau dengan siapa santri sering menghabiskan waktu luang dan beristirahat di sekolah.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Imunitas]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 57877, 28077. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

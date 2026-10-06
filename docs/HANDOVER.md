@@ -1,7 +1,7 @@
 # Dokumen Handover & Status Sistem Wiki PKN
 
-> **Terakhir Diperbarui:** 1 Oktober 2026 — tambahan handoff perubahan lokal
-> **Status Repositori:** Memuat perubahan lokal; klaim clean/sinkron dan commit historis bukan status saat ini.
+> **Terakhir Diperbarui:** 6 Oktober 2026 — Forensik OMP, Retry 10 Menit, & Restorasi Penuh Integritas Korpus (Milestone 68)
+> **Status Repositori:** 643 Berkas Markdown; 100% Link Integrity Sound (0 broken links, 0 orphans); 100% Manhaj-Pure (0 prohibited terms); 0 Style Floor Failures; 154/154 Unit Tests Lulus; Quartz SSG Build 100% Sukses.
 > **Target Produksi:** `https://wikipkn.insanmustaqbal.or.id/` (HTTP/2 200 OK)  
 > **Mesin Platform:** Nginx 1.31 Alpine (Container dari `ghcr.io/decaller/wiki-pkn:latest`), SSG Quartz v5  
 > **Kondisi Server VPS:** CPU 0%, RAM Container ~18 MB (Turun >98% dari konfigurasi Node.js lama)
@@ -10,9 +10,22 @@
 
 ## 1. Ringkasan Eksekutif (Executive Summary)
 
-Dokumen ini mencatat klaim dan pengukuran historis saat migrasi Nginx. Pemeriksaan lokal terbaru hanya membuktikan build Quartz dan keluaran statis; kondisi produksi, webhook, dan kesehatan container belum diverifikasi ulang. Gunakan panduan CI/CD untuk memvalidasi deployment sebelum menyatakan perubahan ini aktif di produksi.
+### Handoff Forensik, Efisiensi Token, & Restorasi Integritas — 6 Oktober 2026
 
-Dokumen ini menjadi acuan alur dan konteks teknis, bukan bukti status produksi saat ini.
+* **Evaluasi Forensik Konsumsi Token OMP (3 Run):**
+  - Menganalisis log OMP (`~/.omp/logs/`): Run 1 membakar 12,52M token (101 error, crash ghost model), Run 2 membakar 15,10M token (0 error, 12 persona sukses), Run 3 membakar 32,81M token (485 error HTTP 429/503 upstream). Total akumulasi 3 run mencapai **60.44M token** (total akumulasi seluruh riwayat repositori mencapai 277.6M token).
+  - Akar masalah Run 3: Orkestrator OMP melakukan pemanggilan paralel serentak kepada **17 subagent** yang memanggil satu model upstream `mustaqbal-ai-pro` via proxy `codex/gpt-6.1-sol`, menabrak batas TPM/RPM dan memicu badai pengulangan (*retry storm*) dengan jendela default ~60–90 detik tanpa menunggu pemulihan upstream (20–30 menit).
+* **Penyesuaian Waktu Retry OMP ke Rentang 10 Menit:**
+  - Telah diterapkan pada `~/.omp/agent/config.yml`: `maxDelayMs: 600000` (10 menit / 600.000 ms), `waitForUsageReset: true`, `baseDelayMs: 5000`, dan `maxRetries: 5`.
+  - Agen OMP kini tertidur (*sleep*) pasif hingga reset kuota upstream selesai alih-alih melakukan *fail-fast* sembrono atau spamming retry.
+* **Penyelamatan Aset Data & Restorasi Penuh Integritas Korpus:**
+  - Diselamatkan 19.5 MB inventaris di `sources/audit_dalil_parenting/` (termasuk `07_inventaris_arab.json` 15.7 MB berisi 731 kelompok hadits).
+  - Tercipta 32 artikel dalil baru di `content/Dalil/` (termasuk dalil utama beranda HR. Muslim No. 49 dan 31 dalil referensi mandiri).
+  - **Restorasi Integritas Tautan 100%:** Seluruh 34 broken links terselesaikan dan 4 orphan pages terhubung ke panduan dalil $\to$ **0 Broken Links, 0 Orphan Pages**.
+  - **Kepatuhan Gaya & Manhaj:** 0 pelanggaran kata kunci terlarang, perbaikan linter deteksi Arab dan mufasir muktabar menghasilkan **0 halaman di bawah style floor** (rata-rata PICI 89.6/100).
+* **Penerbitan Dokumen Desain & Duplikasi Guardrail Efisiensi:**
+  - Diterbitkan [`analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md`](../analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md).
+  - Diduplikasi dan ditegaskan klausul efisiensi pada [`pipeline_designs/README.md`](../pipeline_designs/README.md#9-prinsip-efisiensi-token--concurrency-guardrail-multi-agent), [`pipeline_designs/11_hybrid_quality_evaluation_system_one.md`](../pipeline_designs/11_hybrid_quality_evaluation_system_one.md#6-protokol-efisiensi-token--concurrency-guardrail), dan [`analisis-desain/08-rencana-eksekusi-hibrida-minim-token.md`](../analisis-desain/08-rencana-eksekusi-hibrida-minim-token.md#8-addendum-pasca-run-3-omp-6-oktober-2026-pelajaran-dari-17-subagent-choke--batas-retry-10-menit).
 
 ### Handoff perubahan lokal — 1 Oktober 2026
 

@@ -156,6 +156,7 @@ Jawabannya terletak pada **Cetak Biru 3 Bahasa Pengasuhan Nabawiyah**:
 
 > [!quote] Dalil & Rujukan Nabawiyah: Hadits Penahapan Usia Perintah Shalat
 > **Teks Hadits:**  
+> [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Nas, takhrij, dan syarah perintah shalat usia tujuh dan sepuluh tahun]].
 > « مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ »  
 >  
 > *"Perintahkan anak-anakmu melaksanakan shalat ketika mereka berusia 7 tahun, dan pukullah mereka karena (meninggalkannya) ketika mereka berusia 10 tahun, serta pisahkanlah tempat tidur di antara mereka."*  
@@ -172,6 +173,7 @@ Jawabannya terletak pada **Cetak Biru 3 Bahasa Pengasuhan Nabawiyah**:
 
 > [!quote] Dalil & Rujukan Nabawiyah: Kelembutan Nabi Terhadap Anak Kecil dalam Shalat
 > **Teks Hadits:**  
+> [[Dalil/dalil-memperpanjang-sujud-karena-cucu|Nas, takhrij, dan syarah sujud Nabi karena cucu]].
 > « خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي إِحْدَى صَلَاتَيِ الْعِشَاءِ وَهُوَ حَامِلٌ حَسَنًا أَوْ حُسَيْنًا، فَتَقَدَّمَ فَوَضَعَهُ، ثُمَّ كَبَّرَ لِلصَّلَاةِ، فَصَلَّى، فَسَجَدَ بَيْنَ ظَهْرَانَيْ صَلَاتِهِ سَجْدَةً أَطَالَهَا... فَقَالَ: إِنَّ ابْنِي ارْتَحَلَنِي فَكَرِهْتُ أَنْ أُعَجِّلَهُ حَتَّى يَقْضِيَ حَاجَتَهُ »  
 >  
 > *"Rasulullah ﷺ keluar menemui kami dalam salah satu shalat malam seraya menggendong Hasan atau Husain. Beliau maju lalu meletakkannya di sampingnya, kemudian bertakbir memulai shalat. Di tengah shalatnya, beliau sujud sangat lama... Setelah selesai, para sahabat bertanya: 'Wahai Rasulullah, engkau sujud begitu lama sampai kami mengira terjadi sesuatu atau wahyu sedang turun kepadamu.' Beliau menjawab: 'Bukan demikian, melainkan cucuku menunggangi punggungku, maka aku enggan membuatnya terburu-buru hingga ia menuntaskan keinginannya.'"*  
@@ -192,6 +194,7 @@ Dalam manhaj PKN, hadits masyhur mengenai tahapan mencegah kemungkaran direkonst
 
 > [!quote] Dalil & Rujukan Nabawiyah: Tingkatan Merubah Kemungkaran
 > **Teks Hadits:**  
+> [[Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati|Nas, takhrij, dan syarah tingkatan mengubah kemungkaran]].
 > « مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ »  
 >  
 > *"Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika ia tidak mampu, maka dengan lisannya. Dan jika ia tidak mampu juga, maka dengan hatinya, dan yang demikian itu adalah selemah-lemah iman."*  
@@ -218,6 +221,7 @@ Seorang Arab Badui yang baru masuk Islam tiba-tiba kencing di sudut Masjid Nabaw
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menangani Kesalahan Karena Ketidaktahuan
 > **Teks Hadits:**  
+> [[Dalil/dalil-mengajar-badui-dengan-kemudahan|Nas, takhrij, dan syarah mengajar orang Badui]].
 > « دَعُوهُ وَأَرِيقُوا عَلَى بَوْلِهِ سَجْلًا مِنْ مَاءٍ، أَوْ ذَنُوبًا مِنْ مَاءٍ، فَإِنَّمَا بُعِثْتُمْ مُيَسِّرِينَ وَلَمْ تُبْعَثُوا مُعَسِّرِينَ »  
 >  
 > *"Biarkan dia menyelesaikan kencingnya, lalu siramlah bekas kencingnya dengan seember air. Sesungguhnya kalian diutus untuk mempermudah, bukan untuk mempersulit."*  
@@ -262,6 +266,7 @@ Atas kelalaian ini, Rasulullah ﷺ memberikan sanksi sosial berat berupa **boiko
 
 > [!quote] Dalil & Rujukan Nabawiyah: Pengangkatan Pena Taklif dari Anak-Anak
 > **Teks Hadits:**  
+> [[Dalil/dalil-pena-diangkat-tiga-golongan|Nas, takhrij, dan syarah pengangkatan pena taklif]].
 > « رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ »  
 >  
 > *"Pena (catatan amal) diangkat dari tiga orang: dari orang yang tidur hingga ia bangun, dari anak kecil hingga ia baligh (bermimpi basah), dan dari orang gila hingga ia berakal."*  

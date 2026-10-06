@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Ali 'Imran: 134"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
-</div>
+> [!QUOTE] Ayat Al-Quran
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+> </div>
+>
+> [[dalil-tazkiyah-takhalli-menahan-marah-kazhmul-ghaizh|Rujukan Ayat Al-Quran]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"(Yaitu) orang-orang yang berinfak, baik di waktu lapang maupun sempit, dan orang-orang yang menahan amarahnya dan memaafkan (kesalahan) orang lain. Allah mencintai orang-orang yang berbuat kebaikan."*  
 > 
 > *(Rujukan: QS. Ali 'Imran: 134)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 2 Hal. 118) menjelaskan tingkatan keluhuran akhlak dalam ayat ini: tingkatan pertama adalah *al-kazhiminal ghaizh* (orang yang mampu menelan dan mengunci gejolak amarah di dalam dadanya tatkala ia mampu melampiaskannya); tingkatan kedua yang lebih tinggi adalah *al-'afina 'anin nas* (tidak sekadar menahan marah, tetapi memaafkan dan menghapus rasa sakit hati dari batinnya); dan puncak tertinggi adalah *al-muhsinin* (membalas keburukan orang yang menzaliminya dengan pemberian kebaikan dan doa barakah).
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Pendidik dapat melatih pengendalian amarah, pemaafan, dan kebaikan dalam konflik keluarga. Urutan operasional pengasuhan merupakan analisis kontributor.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> (وَالْكَاظِمِينَ الْغَيْظَ) أي: الذين إذا اغتاظوا ـ أي اشتد غضبهم ـ كظموا غيظهم، ولم ينفذوه، وصبروا على هذا الكظم، وهذا الكظم من أشد ما يكون على النفس
+>
+> **Sumber:** *شرح رياض الصالحين لابن عثيمين*, ابن عثيمين; ج 2 ص 9 (OpenBayan SQLite, chunk `55383`).
+> [[dalil-tazkiyah-takhalli-menahan-marah-kazhmul-ghaizh|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> في هذا الحديث: مَدْح من يملك نفسه عند الغضب.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 49 (OpenBayan SQLite, chunk `57662`).
+> [[dalil-tazkiyah-takhalli-menahan-marah-kazhmul-ghaizh|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Tiga Tangga Penanganan Konflik PKN:** Menahan diri tidak membentak -> memaafkan kekhilafan anak -> membalas dengan pelukan kasih sayang dan doa kebaikan.
 - **Detoksifikasi Racun Dendam:** Menahan amarah membersihkan bejana jiwa pendidik dari endapan kepahitan batin.
 - **Koneksi Sebelum Koreksi:** Hubungan orang tua-anak yang dilandasi pemaafan menciptakan ketahanan psikologis anak.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Tatkala ananda merusakkan barang berharga di rumah, telan amarah demi meraih derajat kecintaan Allah (*wallahu yuhibbul muhsinin*).
 2. **Bagi Guru:** Maafkan santri yang berbuat gaduh dan doakan hidayah baginya di sepertiga malam terakhir.
 3. **Bagi Evaluasi Santri:** Pantau apakah santri bersedia memaafkan temannya yang tidak sengaja menabrak atau merusakkan alat tulisnya.
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `55383`, `57662`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

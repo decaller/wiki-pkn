@@ -73,6 +73,7 @@ Rasulullah ﷺ secara tegas memuji seorang mukmin yang berinteraksi dengan masya
 
 > [!quote] Dalil & Rujukan Nabawiyah: Analogi Penjual Minyak Wangi dan Pandai Besi
 > **Teks Hadits Shahih:**  
+> **Dalil:** [[Dalil/dalil-imunitas-sosial-sahabat-penjual-minyak-wangi]]
 > « مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ، لَا يَعْدَمُكَ مِنْ صَاحِبِ الْمِسْكِ إِمَّا تَشْتَرِيهِ أَوْ تَجِدُ رِيحَهُ، وَكِيرُ الْحَدَّادِ يُحْرِقُ بَدَنَكَ أَوْ ثَوْبَكَ أَوْ تَجِدُ مِنْهُ رِيحًا خَبِيثَةً »  
 > *"Perumpamaan teman duduk yang saleh dan teman duduk yang buruk ibarat penjual minyak wangi dan pandai besi. Dari penjual minyak wangi engkau mungkin membelinya, atau mencium aroma harumnya. Sedangkan pandai besi, ia bisa membakar tubuh atau bajumu, atau engkau mencium bau busuk darinya."*  
 > — **HR. Bukhari (No. 2101) & Muslim (No. 2628)**  

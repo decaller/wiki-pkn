@@ -66,6 +66,7 @@ title: "Recovery"
 
 > [!quote] Dalil & Rujukan Nabawiyah
 > **Naskah:**  
+> **Dalil:** [[Dalil/dalil-recovery-pintu-taubat-dan-restorasi-fitrah]]
 > « كُلُّ بَنِي آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ »
 >
 > *"Setiap anak keturunan Adam pasti sering berbuat salah (khilaf), dan sebaik-baik orang yang berbuat salah adalah mereka yang senantiasa bertaubat."*
@@ -184,13 +185,12 @@ Lihat landasan filosofis dan tadabbur ekologi qolbunya pada dokumen [[Pendidikan
 
 ## 6. Prinsip Mutlak: "Tidak Menambah Luka" (*Ad-Dhararu Yuzal*)
 
-Berdasarkan Klausul 11.2.3 Standar Penjaminan Mutu PKN, setiap upaya pemulihan anak wajib mematuhi kaidah fikih nabawi:
+Berdasarkan Klausul 11.2.3 Standar Penjaminan Mutu PKN, setiap upaya pemulihan anak wajib mematuhi kaidah fikih:
 
-<div lang="ar" dir="rtl" style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right;">
-الضَّرَرُ يُزَالُ
-</div>
-
-*"Kemudharatan (bahaya/luka) harus dihilangkan."*
+> [!quote] Kaidah fikih — bukan lafaz hadits
+> الضَّرَرُ يُزَالُ
+>
+> *"Kemudharatan (bahaya/luka) harus dihilangkan."*
 
 Pendidik dan orang tua **dilarang keras** melakukan tindakan perbaikan yang justru menorehkan luka baru di jiwa anak, seperti:
 1. **Mempermalukan Santri di Depan Umum:** Menghukum anak berdiri di tengah lapangan atau membacakan kesalahannya di hadapan teman-temannya. Hal ini mematikan sifat *'Izzah* (harga diri) dan menumbuhkan bibit kemunafikan.

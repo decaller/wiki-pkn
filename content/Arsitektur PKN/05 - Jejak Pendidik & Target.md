@@ -94,12 +94,14 @@ Fase capaian jangka pendek, menengah, panjang, alur transformasi santri, serta m
 
 Standar manusia terbaik dalam pandangan Rasulullah ﷺ tidak diukur dari seberapa banyak ia mengumpulkan keuntungan untuk dirinya sendiri, melainkan seberapa besar daya manfaat amalnya bagi sesama:
 
-> [!QUOTE] HR. Ath-Thabrani dalam Al-Ausath No. 5787 & As-Silsilah Ash-Shahihah No. 426
+> [!QUOTE] Petikan riwayat: “Sebaik-baik manusia paling bermanfaat bagi manusia”
 > <div dir="rtl" lang="ar" style="font-size: 1.35em; line-height: 2.2em; text-align: right; font-family: 'Amiri', 'Traditional Arabic', serif;">
 > خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ
 > </div>
 > 
 > *"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya."* [^1]
+>
+> **Terjemahan kerja kontributor.** [[dalil-manfaat-manusia-bagi-sesama|Baca takhrij, status riwayat, dan komentar ulama tentang manfaat bagi sesama]].
 > 
 > 💡 **Relevansi Pedagogis:** Muara akhir pendidikan karakter adalah pencetakan pribadi *Muslih*. Kesalehan pribadi (*Sholih*) adalah syarat mutlak, namun kebermanfaatan sosial (*Naf'un 'Amm*) adalah buah puncak dari pohon tarbiyah.
 
@@ -111,6 +113,8 @@ Urgensi mencetak pribadi yang *Muslih* (melakukan perbaikan sosial) dibandingkan
 > </div>
 > 
 > *"Dan Tuhanmu tidak akan membinasakan negeri-negeri secara zalim, sedang penduduknya adalah orang-orang yang berbuat kebaikan (mushlihoon)."* [^2]
+>
+> **Terjemahan kerja kontributor.** [[dalil-perbaikan-masyarakat-hud-117|Baca tafsir Hud 117 dan makna penduduk yang memperbaiki]].
 
 Imam Ibnul Qayyim Al-Jauziyyah rahimahullah dalam *Miftah Daris Sa'adah* menjelaskan bahwa derajat seorang penyeru kebaikan (*al-mushlih*) jauh lebih mulia di sisi Allah daripada orang yang hanya saleh bagi dirinya sendiri (*ash-shalih fi nafsih*). Orang yang shalih dicintai oleh masyarakat karena tidak mengganggu kenyamanan mereka, namun seorang muslih seringkali dimusuhi oleh orang-orang fasik karena ia berani membendung arus kemungkaran. Oleh sebab itu, tarbiyah nabawiyah wajib membekali anak dengan ketahanan mental banting (*imunitas sosial*) agar ia sanggup mengemban risalah perbaikan. [^3]
 
@@ -298,15 +302,15 @@ Pendidikan anak membutuhkan orkestrasi harmonis antara energi maskulin ayah dan 
 
 ## Referensi dan Catatan Kaki
 
-[^1]: **HR. Ath-Thabrani**, *Al-Mu'jam Al-Ausath*, No. 5787; **Al-Qudha'i**, *Musnad Asy-Syihab*, No. 129. Dinyatakan hasan oleh Syaikh Al-Albani dalam *Silsilah Al-Ahadits Ash-Shahihah* No. 426. Takhrij terverifikasi dalam OpenBayan Qdrant ID `shamela_11m_doc_33891`.
-[^2]: **QS. Hud (11): 117.** Teks ayat terverifikasi melalui Mushaf Standar Kementerian Agama RI.
+[^1]: Riwayat Jabir dalam *Al-Mu'jam Al-Ausath* no. **5783** menurut nukilan sumber yang dibaca; *Syu'ab Al-Iman* no. 7252 memuat varian lafaz. Penilaian dan catatan perawi berbeda dijelaskan pada [[dalil-manfaat-manusia-bagi-sesama]]. Nomor 5787 dan atribusi Al-Albani no. 426 pada versi sebelumnya belum dicocokkan dengan edisi asal, sehingga tidak dijadikan klaim verifikasi.
+[^2]: **QS. Hud (11): 117**, [teks ayat edisi Quran Academy melalui AlQuran Cloud](https://api.alquran.cloud/v1/ayah/11%3A117); dua kitab tafsir dan lokasi kutipan pada [[dalil-perbaikan-masyarakat-hud-117]].
 [^3]: **Ibnul Qayyim Al-Jauziyyah**, *Miftah Daris Sa'adah wa Mansyur Wilayatil 'Ilmi wal Iradah*, Tahqiq Ali Hasan Al-Halabi, Dar Ibn 'Affan, Riyadh, Jilid 1, Hal. 290–295.
 
 <details>
 <summary><b>📜 Perbedaan Substantif Antara Shalih (صَالِح) dan Muslih (مُصْلِح)</b></summary>
 
 * **As-Shalih (الصالح):** Orang yang kesalehannya terbatas pada dirinya sendiri (*qashir*). Ia beribadah khusyuk, berdzikir, dan menjaga diri dari maksiat, namun mendiamkan kerusakan di sekitarnya.
-* **Al-Muslih (المصلح):** Orang yang kesalehannya memancar dan menular (*muta'addi*). Ia tidak ridha melihat kezaliman, actively memperbaiki masyarakat, mengajak kepada yang ma'ruf, dan mencegah dari yang munkar. Dalam Al-Qur'an, Allah menjamin keselamatan suatu peradaban hanya jika di dalamnya terdapat orang-orang yang *muslih*.
+* **Al-Muslih (المصلح):** Orang yang ikut memperbaiki keadaan di sekitarnya. QS. Hud 117 menghubungkan tidak dibinasakannya suatu negeri dengan keadaan penduduknya yang memperbaiki. Ini tidak boleh diubah menjadi jaminan tanpa syarat bahwa setiap komunitas yang memiliki seorang muslih pasti terhindar dari seluruh bencana; baca rincian [[dalil-perbaikan-masyarakat-hud-117|tafsir ayat]].
 </details>
 
 ---

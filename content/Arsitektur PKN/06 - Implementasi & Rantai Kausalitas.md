@@ -100,6 +100,8 @@ Hukum kausalitas spiritual antara kasih sayang pendidik dan keberhasilan dakwah 
 > </div>
 > 
 > *"Maka berkat rahmat dari Allah-lah engkau bersikap lemah lembut terhadap mereka. Sekiranya engkau bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu. Karena itu maafkanlah mereka, mohonkanlah ampunan bagi mereka, dan bermusyawarahlah dengan mereka dalam urusan itu."* [^1]
+>
+> **Terjemahan kerja kontributor;** nas di atas adalah petikan, bukan seluruh ayat. [[dalil-bahasa-hati-lemah-lembut-menghindari-kekasaran|Baca ayat lengkap dan tafsir kelembutan Ali 'Imran 159]].
 > 
 > 💡 **Relevansi Pedagogis:** Kelembutan (*al-lin*) dan pemaafan pendidik bukanlah tanda kelemahan, melainkan saluran rahmat Allah yang melunakkan kekerasan hati anak. Hati yang kasar dan tangan yang suka memukul hanya akan membubarkan ikatan batin santri dari kebenaran.
 
@@ -306,7 +308,14 @@ Untuk menjamin mutu penyelenggaraan sekolah dan pesantren jejaring PKN, dirumusk
 <summary><b>📜 Makna Syura dan Hubungan Kasih Sayang dalam Tarbiyah Kelembagaan</b></summary>
 
 * **Hikmah Musyawarah Bersama Santri:** Dalam QS. Ali 'Imran 159, Allah memerintahkan Rasulullah ﷺ untuk bermusyawarah (*wa syawirhum fil amr*) kepada para sahabat meskipun beliau seorang nabi yang menerima wahyu. Hal ini bertujuan untuk memuliakan jiwa santri, menumbuhkan rasa memiliki (*sense of belonging*), dan melatih nalar kepemimpinan para pemuda.
-* **Kausalitas Doa Malam Pendidik:** Sebagaimana firman-Nya: *« فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ »*, kelembutan guru bukanlah hasil pencitraan teknis, melainkan karunia rahmat yang Allah tumpahkan ke dalam hati orang-orang yang ikhlas bersujud di malam hari.
+* **Kelembutan sebagai Rahmat:** Petikan berikut menyatakan rahmat Allah sebagai asal kelembutan Nabi. Mengaitkannya secara khusus dengan doa malam pendidik adalah refleksi kontributor, bukan isi eksplisit ayat.
+
+> [!QUOTE] Dalil Al-Qur'an: petikan QS. Ali 'Imran (3): 159
+> فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ
+>
+> **Terjemahan kerja kontributor:** “Maka berkat rahmat dari Allah engkau bersikap lembut kepada mereka.”
+>
+> [[dalil-bahasa-hati-lemah-lembut-menghindari-kekasaran|Baca ayat lengkap dan tafsir kelembutan]].
 </details>
 
 ---

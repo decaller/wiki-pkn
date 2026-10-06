@@ -113,6 +113,9 @@ Pendidikan Karakter Nabawiyah berakar pada prinsip bahwa syariat Islam diturunka
 
 > [!quote] Dalil Al-Qur'an: Perintah Keadilan, Keseimbangan, dan Melindungi yang Pokok
 > **Teks Al-Qur'an (QS. Al-A'raf: 31-32):**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qs-7-31]]
 > « يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ »  
 > 
 > *"Wahai anak cucu Adam! Pakailah pakaianmu yang bagus pada setiap (memasuki) masjid, makan dan minumlah, tetapi jangan berlebih-lebihan. Sungguh, Allah tidak menyukai orang-orang yang berlebih-lebihan."*  
@@ -123,6 +126,9 @@ Pendidikan Karakter Nabawiyah berakar pada prinsip bahwa syariat Islam diturunka
 
 > [!quote] Dalil Sunnah Nabawiyah: Hierarki Prioritas dalam Dakwah dan Tarbiyah
 > **Hadits Mu'adz bin Jabal radhiyallahu 'anhu (HR. Bukhari No. 1395 & Muslim No. 19):**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-1458]]
 > « إِنَّكَ تَقْدَمُ عَلَى قَوْمٍ أَهْلِ كِتَابٍ، فَلْيَكُنْ أَوَّلَ مَا تَدْعُوهُمْ إِلَيْهِ عِبَادَةُ اللَّهِ، فَإِذَا عَرَفُوا اللَّهَ، فَأَخْبِرْهُمْ أَنَّ اللَّهَ قَدْ فَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي يَوْمِهِمْ وَلَيْلَتِهِمْ... »  
 > 
 > *"Sesungguhnya engkau akan mendatangi suatu kaum dari Ahli Kitab. Maka hendaklah perkara pertama yang engkau serukan kepada mereka adalah beribadah kepada Allah (mentauhidkan-Nya). Jika mereka telah mengenal Allah, beritahukanlah kepada mereka bahwa Allah telah mewajibkan atas mereka shalat lima waktu dalam sehari semalam..."*  
@@ -132,22 +138,30 @@ Pendidikan Karakter Nabawiyah berakar pada prinsip bahwa syariat Islam diturunka
 ### Kaidah-Kaidah Fiqhiyyah Navigasi Program:
 
 1. **Kaidah Penolakan Kerusakan (*Dar'ul Mafasid*):**  
-   « دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ »  
+   > [!quote] Kaidah / keterangan ulama
+   > **Dalil:** [[dalil-kaidah-darul-mafasid]]
+   > « دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ »
    *(Menolak mafsadat/kerusakan harus didahulukan daripada mengejar kemaslahatan).*  
    *Aplikasi PKN:* Jika suatu kegiatan ekstrakurikuler atau kompetisi luar kota (maslahat: prestasi/branding) berpotensi memicu campur baur bebas ikhwan-akhwat tanpa hijab, meninggalkan shalat berjamaah, atau membakar habis fisik santri (mafsadat), maka membatalkan kegiatan tersebut wajib didahulukan.
 
 2. **Kaidah Batasan Penunjang (*Qaidah Ibthalil Ashl* - Imam Asy-Syathibi):**  
-   « كُلُّ تَحْسِينِيٍّ يَعُودُ عَلَى أَصْلِهِ بِالْإِبْطَالِ فَلَا يَصِحُّ اعْتِبَارُهُ »  
+   > [!quote] Kaidah / keterangan ulama
+   > **Dalil:** [[dalil-syathibi-tahsiniyyat]]
+   > « كُلُّ تَحْسِينِيٍّ يَعُودُ عَلَى أَصْلِهِ بِالْإِبْطَالِ فَلَا يَصِحُّ اعْتِبَارُهُ »
    *(Setiap perkara penyempurna/tahsiniyyat yang berakibat pada pembatalan hukum pokoknya, maka gugurlah keabsahannya).*  
    *Aplikasi PKN:* Desain seragam mewah dan wisuda akbar (tahsiniyyat) yang membuat orang tua miskin tertekan hingga menunggak biaya makan pokok santri (dharuriyyat) adalah program yang tertolak secara syar'i.
 
 3. **Kaidah Penyempurna Kewajiban (*Mā Lā Yatimmul Wājib*):**  
-   « مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ »  
+   > [!quote] Kaidah / keterangan ulama
+   > **Dalil:** [[dalil-kaidah-ma-la-yatimmul-wajib]]
+   > « مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ »
    *(Sesuatu yang tanpanya suatu kewajiban tidak dapat terlaksana sempurna, maka sesuatu itu hukumnya menjadi wajib).*  
    *Aplikasi PKN:* Pembinaan ketahanan mental dan kebersihan jiwa (*tazkiyatun nafs*) bagi guru adalah prasyarat mutlak terwujudnya pengajaran adab di kelas. Maka, alokasi waktu dan anggaran untuk ta'lim guru hukumnya setara dengan kewajiban mendidik itu sendiri.
 
 4. **Kaidah Memilih Risiko Terkecil (*Irtikabu Akhaffidh-Dhararain*):**  
-   « إِذَا تَعَارَضَتْ مَفْسَدَتَانِ رُوعِيَ أَعْظَمُهُمَا ضَرَرًا بِارْتِكَابِ أَخَفِّهِمَا »  
+   > [!quote] Kaidah / keterangan ulama
+   > **Dalil:** [[dalil-kaidah-akhaff-dhararain]]
+   > « إِذَا تَعَارَضَتْ مَفْسَدَتَانِ رُوعِيَ أَعْظَمُهُمَا ضَرَرًا بِارْتِكَابِ أَخَفِّهِمَا »
    *(Jika dua mafsadat berbenturan, hindari mafsadat yang lebih besar dengan mengambil mafsadat yang lebih ringan).*  
    *Aplikasi PKN:* Tunduk pada beban administrasi akreditasi dinas pemerintah memang menyita waktu (mafsadat ringan), tetapi jika menolak akreditasi berakibat izin sekolah dicabut dan ratusan santri terlantar tanpa ijazah (mafsadat besar), maka patuhilah regulasi tersebut sembari menyederhanakan pelaksanaannya secara cerdas.
 

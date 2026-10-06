@@ -157,6 +157,9 @@ Standar ini mengunci arah seluruh program pendidikan agar tidak melenceng dari t
 
 ### 7.1 Landasan Filosofis Tujuan Pendidikan (Lampiran C)
 Lembaga merujuk langsung pada firman Allah *Subhanahu wa Ta'ala*:
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-tujuan-penciptaan-ibadah]]
 > « وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ »  
 > *"Dan tidaklah Aku menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."* (QS. Adz-Dzariyat: 56).
 

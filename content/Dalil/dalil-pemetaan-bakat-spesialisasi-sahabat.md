@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. At-Tirmidzi No. 3802 & Ahmad No. 12904"
     authority: 1.0
-    verification: "Shamela 11M / Jami' At-Tirmidzi (Kitab al-Manaqib) & Musnad Ahmad Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي دِينِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ، وَأَقْضَاهُمْ عَلِيٌّ، وَأَفْرَضُهُمْ زَيْدُ بْنُ ثَابِتٍ، وَأَقْرَؤُهُمْ أُبَيُّ بْنُ كَعْبٍ، وَأَعْلَمُهُمْ بِالْحَلَالِ وَالْحَرَامِ مُعَاذُ بْنُ جَبَلٍ، وَأَلَا وَإِنَّ لِكُلِّ أُمَّةٍ أَمِينًا، وَإِنَّ أَمِينَ هَذِهِ الأُمَّةِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ
-</div>
+> [!QUOTE] Nas HR. At-Tirmidzi No. 3802 & Ahmad No. 12904
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي دِينِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ، وَأَقْضَاهُمْ عَلِيٌّ، وَأَفْرَضُهُمْ زَيْدُ بْنُ ثَابِتٍ، وَأَقْرَؤُهُمْ أُبَيُّ بْنُ كَعْبٍ، وَأَعْلَمُهُمْ بِالْحَلَالِ وَالْحَرَامِ مُعَاذُ بْنُ جَبَلٍ، وَأَلَا وَإِنَّ لِكُلِّ أُمَّةٍ أَمِينًا، وَإِنَّ أَمِينَ هَذِهِ الأُمَّةِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ
+> </div>
+>
+> [[dalil-pemetaan-bakat-spesialisasi-sahabat|Rujukan HR. At-Tirmidzi No. 3802 & Ahmad No. 12904]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Umatku yang paling penyayang kepada umatku adalah Abu Bakar; yang paling kokoh tegas dalam membela agama Allah adalah Umar; yang paling jujur rasa malunya adalah Utsman; yang paling ahli dalam peradilan adalah Ali; yang paling paham ilmu faraidh adalah Zaid bin Tsabit; yang paling fasih membaca Al-Qur'an adalah Ubay bin Ka'ab; yang paling mengetahui perkara halal dan haram adalah Mu'adz bin Jabal; dan ketahuilah bahwa setiap umat memiliki orang kepercayaan, dan orang kepercayaan umat ini adalah Abu 'Ubaidah bin Al-Jarrah."*  
 > 
 > *(Rujukan: HR. At-Tirmidzi No. 3802 & Ahmad No. 12904)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Ibnul Atsir dalam *Jami'ul Ushul* dan Al-Mubarakfuri dalam *Tuhfatul Ahwadzi* menjelaskan metodologi asesmen nabawiyah yang sangat visioner: Rasulullah ﷺ tidak pernah memaksakan Abu Bakar yang berhati lembut untuk menjadi panglima perang seperti Khalid bin Walid, dan tidak memaksakan Mu'adz bin Jabal untuk menjadi bendahara baitul mal seperti Abu Ubaidah. Beliau membaca kecenderungan fitrah unik (*syakilah*) masing-masing sahabat, mengakuinya di depan publik, lalu mendistribusikan peran dakwah dan peradaban sesuai dengan keunggulan spesifik tersebut. Inilah model puncak diferensiasi bakat dalam peradaban manusia.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Keutamaan berbeda pada sahabat tidak berarti sahabat lain tidak memiliki sifat tersebut. Pemetaan bakat modern adalah analisis kontributor, bukan bukti Nabi tidak pernah menugaskan seseorang di luar kecenderungannya. Lafaz tambahan tentang Ali dalam matan awal membutuhkan penelusuran jalur tersendiri.
+
+> [!QUOTE] Kutipan ulama — منار القاري شرح مختصر صحيح البخاري
+>
+> <div dir="rtl">
+> ولا يلزم من وجود فضيلة في شخص عدم وجودها في شخص آخر
+> </div>
+>
+> **Sumber:** حمزة قاسم, *منار القاري شرح مختصر صحيح البخاري*, ج 4 ص 267; OpenBayan lokal, chunk `27781`.
+> [[dalil-pemetaan-bakat-spesialisasi-sahabat|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — كوثر المعاني الدراري في كشف خبايا صحيح البخاري
+>
+> <div dir="rtl">
+> وكان أُبيّ وزيد يكتبان الوحي لرسول الله ﷺ، بين يديه
+> </div>
+>
+> **Sumber:** محمد الخضر الشنقيطي, *كوثر المعاني الدراري في كشف خبايا صحيح البخاري*, ج 3 ص 217; OpenBayan lokal, chunk `33251`.
+> [[dalil-pemetaan-bakat-spesialisasi-sahabat|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Panduan Asesmen dan Observasi TB40]]**, yaitu:
 - **Pondasi Asesmen Nabawiyah (TB-40):** Menolak penilaian seragam satu dimensi; setiap santri dinilai berdasarkan puncak keunggulan fitrahnya masing-masing.
 - **Kombinasi Peran Peradaban:** Peradaban Islam tegak karena orkestrasi ragam bakat: ketegasan, kelembutan, kecerdasan fikih, kefasihan literasi, keahlian hukum, dan integritas amanah.
 - **Pemberdayaan Berbasis Kekuatan (*Strength-Based Development*):** Fokus melejitkan kekuatan unik santri dan menyiasati kelemahannya melalui sinergi tim.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Banggalah atas bakat anak kita meskipun berbeda dari bakat orang tua atau anak tetangga.
 2. **Bagi Guru:** Susun pemetaan profil bakat setiap santri di awal tahun ajaran untuk menentukan pendekatan pembelajaran yang tepat.
 3. **Bagi Evaluasi Santri:** Ajak santri membaca biografi sahabat yang paling mirip dengan karakter bawaannya sebagai uswah hasanah.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Panduan Asesmen dan Observasi
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `27781`, `33251`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

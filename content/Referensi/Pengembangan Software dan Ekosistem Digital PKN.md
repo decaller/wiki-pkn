@@ -31,20 +31,19 @@ tags:
 
 ---
 
-> [!quote] Dalil & Pijakan Syariat: Teknologi Sebagai Wasilah Khidmah Peradaban
-> **Teks Al-Qur'an:**  
+> [!quote] Dalil Al-Qur'an — [[Dalil/dalil-qs-57-25|QS. Al-Hadid: 25 dan tafsir multi-kitab]]
 > « وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ »
 > 
 > *"Dan Kami ciptakan besi yang padanya terdapat kekuatan yang hebat dan berbagai manfaat bagi manusia, (supaya mereka mempergunakan besi itu) dan supaya Allah mengetahui siapa yang menolong (agama)-Nya dan rasul-rasul-Nya padahal Allah tidak dilihatnya. Sesungguhnya Allah Maha Kuat lagi Maha Perkasa."*  
 > — **QS. Al-Hadid: 25**
-> 
-> **Atsar & Kaidah Hikmah:**  
+
+> [!quote] Riwayat hikmah — [[Dalil/dalil-hr-tirmidhi-2687|Takhrij, status sanad, dan penjelasan riwayat]]
 > « الْكَلِمَةُ الْحِكْمَةُ ضَالَّةُ الْمُؤْمِنِ، فَحَيْثُ وَجَدَهَا فَهُوَ أَحَقُّ بِهَا »  
-> *"Kalimat hikmah (ilmu dan teknologi yang bermanfaat) adalah barang hilang milik orang mukmin. Di mana pun ia menemukannya, maka dialah yang paling berhak mengambilnya."*  
+> *"Kalimat hikmah adalah barang hilang milik orang mukmin. Di mana pun ia menemukannya, maka dialah yang paling berhak mengambilnya."*
 > — **HR. Tirmidzi (No. 2687) & Ibnu Majah (No. 4169)**
-> 
-> 💡 **Relevansi Manhaj:** Dalam paradigma PKN, perangkat lunak (*software*) bukanlah berhala modern yang diagungkan tanpa adab, melainkan instrumen khidmah (*wasilah peradaban*) untuk mempermudah umat mendalami Al-Qur'an, mengenali potensi fitrah bakat unik, mengelola madrasah berbasis adab, dan mendistribusikan ilmu secara adil tanpa komersialisasi berlebihan.
-> 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri Tema: منافع الحديد (Pemberdayaan Teknologi & Materi) ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%86%D8%A7%D9%81%D8%B9+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF&lang=id)
+
+**Analisis PKN:** Teknologi yang bermanfaat merupakan penerapan penulis, bukan bagian terjemahan nas. Dalam paradigma PKN, perangkat lunak (*software*) bukanlah berhala modern yang diagungkan tanpa adab, melainkan instrumen khidmah (*wasilah peradaban*) untuk mempermudah umat mendalami Al-Qur'an, mengenali potensi fitrah bakat unik, mengelola madrasah berbasis adab, dan mendistribusikan ilmu secara adil tanpa komersialisasi berlebihan. Riwayat hikmah tidak disebut atsar sahabat; status sanadnya harus dibaca pada halaman takhrij dan tidak dijadikan pijakan mandiri untuk menetapkan hukum.
+🔍 **Telusuri di OpenBayan:** [Telusuri tema pemberdayaan teknologi dan materi](https://openbayan.insanmustaqbal.or.id/search?q=%D9%85%D9%86%D8%A7%D9%81%D8%B9+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF&lang=id)
 
 ---
 

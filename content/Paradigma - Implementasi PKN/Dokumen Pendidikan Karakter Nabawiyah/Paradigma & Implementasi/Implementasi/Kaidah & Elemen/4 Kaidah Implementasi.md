@@ -90,6 +90,9 @@ Pendidikan Karakter Nabawiyah merumuskan **4 Kaidah Emas Operasional** yang waji
 * **Makna Kaidah:** Menumbuhkan karakter mengikuti ritme kematangan biologis dan kejiwaan anak, tidak menuntut buah matang sebelum pohon berakar kuat.
 * **Teladan Rasulullah ﷺ & Atsar Aisyah radhiyallahu 'anha:**
   Ummul Mukminin Aisyah mengisahkan hikmah agung pentahapan turunnya Al-Qur'an:
+
+  > [!quote] Nas rujukan
+  > **Dalil:** [[dalil-hr-bukhari-4993]]
   > « إِنَّمَا نَزَلَ أَوَّلَ مَا نَزَلَ مِنْهُ سُورَةٌ مِنَ المُفَصَّلِ، فِيهَا ذِكْرُ الجَنَّةِ وَالنَّارِ، حَتَّى إِذَا ثَابَ النَّاسُ إِلَى الإِسْلاَمِ نَزَلَ الحَلاَلُ وَالحَرَامُ، وَلَوْ نَزَلَ أَوَّلَ شَيْءٍ: لاَ تَشْرَبُوا الخَمْرَ، لَقَالُوا: لاَ نَدَعُ الخَمْرَ أَبَدًا! وَلَوْ نَزَلَ: لاَ تَزْنُوا، لَقَالُوا: لاَ نَدَعُ الزِّنَا أَبَدًا! »  
   > *"Sesungguhnya ayat Al-Qur'an yang mula-mula turun adalah surat-surat Al-Mufashshal yang di dalamnya menceritakan surga dan neraka (menanamkan keimanan). Hingga ketika manusia telah condong dan kokoh dalam Islam, barulah turun ayat-ayat tentang halal dan haram. Seandainya yang pertama kali turun adalah: 'Janganlah kalian minum khamr!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan khamr selamanya!' Dan seandainya yang pertama kali turun adalah: 'Janganlah kalian berzina!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan zina selamanya!'"*  
   > 📚 *(HR. Al-Bukhari No. 4993, Kitab Fadha'ilil Qur'an)*
@@ -101,6 +104,9 @@ Pendidikan Karakter Nabawiyah merumuskan **4 Kaidah Emas Operasional** yang waji
 * **Makna Kaidah:** Memastikan jalinan kasih sayang, kepercayaan batin, dan tangki cinta anak terisi penuh sebelum melancarkan koreksi atau teguran disiplin.
 * **Teladan Rasulullah ﷺ Bersama Orang Arab Badui di Masjid:**
   Anas bin Malik menceritakan seorang Arab Badui yang kencing di sudut Masjid Nabawi:
+
+  > [!quote] Nas rujukan
+  > **Dalil:** [[dalil-mengajar-badui-dengan-kemudahan]]
   > « أَنَّ أَعْرَابِيًّا بَالَ فِي المَسْجِدِ، فَقَامَ إِلَيْهِ بَعْضُ القَوْمِ لِيَقَعُوا بِهِ، فَقَالَ رَسُولُ اللَّهِ ﷺ: دَعُوهُ وَلَا تُزْرِمُوهُ، فَلَمَّا فَرَغَ دَعَا بِذَنُوبٍ مِنْ مَاءٍ فَصُبَّ عَلَيْهِ، ثُمَّ دَعَاهُ فَقَالَ لَهُ: إِنَّ هَذِهِ المَسَاجِدَ لَا تَصْلُحُ لِشَيْءٍ مِنْ هَذَا البَوْلِ وَالقَذَرِ، إِنَّمَا هِيَ لِذِكْرِ اللَّهِ وَالصَّلَاةِ وَقِرَاءَةِ القُرْآنِ »  
   > *"Seorang Badui kencing di dalam masjid, maka sebagian sahabat bangkit hendak memukulnya. Rasulullah ﷺ bersabda: 'Biarkan dia dan jangan putuskan kencingnya!' Ketika orang Badui itu selesai kencing, beliau meminta seember air lalu menyiram bekas kencingnya. Kemudian beliau memanggil orang Badui itu dengan lembut dan bersabda: 'Sesungguhnya masjid-masjid ini tidak layak untuk air kencing dan kotoran sedikit pun; masjid itu hanya dibangun untuk mengingat Allah, mendirikan shalat, dan membaca Al-Qur'an.'"*  
   > 📚 *(HR. Al-Bukhari No. 220 & Muslim No. 285)*

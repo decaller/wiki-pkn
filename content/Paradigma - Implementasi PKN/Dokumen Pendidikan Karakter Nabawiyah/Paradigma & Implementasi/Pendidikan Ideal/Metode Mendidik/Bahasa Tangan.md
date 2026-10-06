@@ -108,6 +108,8 @@ Sanksi pukulan di usia 10 tahun adalah hak syariat yang sah hanya jika orang tua
 Rasulullah ﷺ melarang seorang hakim memutuskan perkara saat marah, demikian pula orang tua/pendidik diharamkan mengeksekusi sanksi fisik saat darah mendidih oleh emosi. Sanksi harus dijatuhkan dalam keadaan tenang dengan niat menyelamatkan anak dari adzab akhirat.
 
 ### 3. Pukulan Tidak Melukai (*Dharbun Ghairu Mubarrih*) & Haram Menyentuh Wajah
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-bahasa-tangan-larangan-memukul-wajah]]
 > « إِذَا ضَرَبَ أَحَدُكُمْ فَلْيَجْتَنِبِ الْوَجْهَ »  
 > *"Jika salah seorang di antara kalian terpaksa memukul, maka jauhilah memukul wajah!"*  
 > 📚 *(HR. Al-Bukhari No. 2559 & Muslim No. 2612)*

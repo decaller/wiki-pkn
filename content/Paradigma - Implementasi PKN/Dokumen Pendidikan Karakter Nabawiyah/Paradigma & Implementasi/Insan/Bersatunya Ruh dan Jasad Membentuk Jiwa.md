@@ -81,16 +81,20 @@ Manusia bukanlah makhluk material murni sebagaimana doktrin ateisme-materialisme
 
 Pendidikan Karakter Nabawiyah (PKN) meletakkan pemahaman ini sebagai pondasi utama terapi psikospiritual: perilaku anak tidak pernah lahir dari ruang hampa, melainkan merupakan resonansi dialektis antara tarikan gravitasi jasad dan bisikan transenden ruh.
 
-> [!quote] Dalil & Rujukan Nabawiyah: Tiupan Ruh dan Pembentukan Insan
-> **Teks Al-Qur'an & Hadits Shahih:**  
+> [!quote] Al-Qur'an: Tiupan Ruh
+> [[Dalil/dalil-qs-15-28-29|QS. Al-Hijr: 28–29]]
 > « فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ »  
 > *"Maka apabila Aku telah menyempurnakan (kejadian)-nya, dan telah meniupkan ke dalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud."*  
 > — **QS. Al-Hijr: 29**  
->  
+
+> [!quote] Hadits: Penciptaan dalam Rahim
+> [[Dalil/dalil-penciptaan-ruh-dan-jasad|HR. Bukhari 3208 dan Muslim 2643]]
 > « إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٌّ أَوْ سَعِيدٌ »  
 > *"Sesungguhnya setiap orang di antara kalian dikumpulkan penciptaannya dalam rahim ibunya selama empat puluh hari berupa nuthfah, kemudian menjadi segumpal darah ('alaqah) selama itu pula, kemudian menjadi segumpal daging (mudhghah) selama itu pula. Kemudian Allah mengutus malaikat kepadanya untuk meniupkan ruh dan diperintahkan mencatat empat perkara: rezekinya, ajalnya, amalnya, serta celaka atau bahagianya."*  
 > — **HR. Bukhari (No. 3208) & Muslim (No. 2643)**  
->  
+
+> [!quote] Penjelasan Ulama: Ibnul Qayyim
+> Penjelasan ulama berikut bukan teks Al-Qur'an atau sabda Nabi.
 > 📚 **Syarah Al-Hafizh Ibnul Qayyim dalam Kitab ar-Ruh (Fashl 19):**  
 > *"Ruh adalah jauhar lathif (substansi halus) yang bersifat samawi lagi nurani, hidup lagi bergerak, meresap ke dalam sendi-sendi jasad bagaikan meresapnya air mawar ke dalam kelopak mawar atau minyak ke dalam buah zaitun. Selama anggota tubuh masih menerima aliran lathifah ruhaniyah ini, jasad tetap hidup, merasakan kelezatan dan rasa sakit. Bila jasad rusak atau terputus hubungannya, ruh berpisah dan kembali ke alam barzakh. Ketika ruh bersatu dengan jasad materi, lahirlah sifat-sifat nafsaniah yang menuntut pembersihan dan penggemblengan."*
 

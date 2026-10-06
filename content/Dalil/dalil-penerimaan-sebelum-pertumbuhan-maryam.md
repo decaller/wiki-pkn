@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Ali 'Imran: 37"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
-</div>
+> [!QUOTE] Nas QS. Ali 'Imran: 37
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
+> </div>
+>
+> [[dalil-penerimaan-sebelum-pertumbuhan-maryam|Rujukan QS. Ali 'Imran: 37]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Maka Tuhannya menerimanya dengan penerimaan yang baik, dan menumbuhkannya dengan pertumbuhan yang baik, dan menyerahkan pemeliharaannya kepada Zakariya."*  
 > 
 > *(Rujukan: QS. Ali 'Imran: 37)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 2 Hal. 36) menerangkan bahwa tatkala ibunda Maryam melahirkan anak perempuan—padahal ia bernazar anak laki-laki untuk khidmat di Baitul Maqdis—ia pasrah dan menyerahkannya kepada Allah. Allah menerima Maryam dengan keridhaan sempurna (*qabul hasan*), memeliharanya dari kotoran batin, lalu menumbuhkannya dalam kesucian adab, kemuliaan akhlak, dan keelokan fitrah di bawah asuhan Nabi Zakariya. Kata *Rabbuha* mencerminkan asma Ar-Rabb yang merawat, menyempurnakan, dan menumbuhkan sedikit demi sedikit.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kisah Maryam menunjukkan penerimaan Allah, pertumbuhan, dan lingkungan orang saleh. Rumusan “penerimaan tanpa syarat mendahului pertumbuhan” adalah refleksi pedagogis kontributor, bukan hukum sebab-akibat universal yang dinyatakan tafsir.
+
+> [!QUOTE] Kutipan ulama — مختصر تفسير ابن كثير
+>
+> <div dir="rtl">
+> وَقَرَنَهَا بِالصَّالِحِينَ من عباده، تتعلم منهم العلم والخير والدين
+> </div>
+>
+> **Sumber:** محمد علي الصابوني, *مختصر تفسير ابن كثير*, ج 1 ص 279; OpenBayan lokal, chunk `64941`.
+> [[dalil-penerimaan-sebelum-pertumbuhan-maryam|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> ونشأت في بني إسرائيل نشأة عظيمة فكانت إحدى العابدات الناسكات المشهورات بالعبادة العظيمة والتبتل والدءوب
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح تفسير ابن كثير - الراجحي*, ج 69 ص 3; OpenBayan lokal, chunk `67458`.
+> [[dalil-penerimaan-sebelum-pertumbuhan-maryam|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Koneksi Sebelum Koreksi]]**, yaitu:
 - **Kaidah Emas PKN (Penerimaan Mendahului Pertumbuhan):** Orang tua dan guru tidak akan pernah mampu menumbuhkan anak (*nabatan hasanan*) sebelum selesai menerima kondisi orisinal anak tanpa syarat (*qabulan hasanan*).
 - **Penghapusan Tuntutan Ambisi:** Menerima jenis kelamin, kelemahan fisik, dan ritme belajar anak tanpa memaksakan obsesi ego orang tua.
 - **Koneksi Sebelum Koreksi:** Hubungan penerimaan batin adalah tanah subur tempat mekarnya bunga fitrah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Peluk anak saat ia pulang ke rumah; tunjukkan bahwa cinta orang tua tidak bersyarat pada ranking kelasnya.
 2. **Bagi Guru:** Terima keunikan gaya belajar setiap murid sebelum memulai instruksi kurikulum di kelas.
 3. **Bagi Evaluasi Santri:** Pastikan santri merasa aman secara psikologis di lingkungan sekolah sebelum diberikan target hafalan/tugas berat.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Koneksi Sebelum Koreksi]]**, 
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `64941`, `67458`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

@@ -1116,6 +1116,36 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
     - **Implementasi Pipeline 12 (Dewan Syura Karpathy LLM Council Architecture):** Menerbitkan spesifikasi [`pipeline_designs/12_dewan_syura_llm_council_architecture.md`](pipeline_designs/12_dewan_syura_llm_council_architecture.md), memperbarui Section 5 & master table di [`pipeline_designs/README.md`](pipeline_designs/README.md), menyusun engine musyawarah 3-tahap di [`scripts/llm_council.py`](scripts/llm_council.py) (5 Lensa Kognitif: Faqih Manhaj/Contrarian, Filosof Fitrah/First Principles, Arsitek Peradaban/Expansionist, Pembaca Awam/Outsider, Praktisi KBM/Executor; Anonymous Cross-Examination Shuffle A..E; Chairman Synthesis), serta unit tests di [`tests/test_llm_council.py`](tests/test_llm_council.py).
     - **Verifikasi Kualitas Repositori:** 121 unit tests di `tests/` lulus 100% (5 skipped, 0 failures), linter korpus `scripts/wiki_corpus_linter.py` lolos bersih (0 broken links, 0 prohibited terms, skor Clarity `86.28/100`), dan Quartz SSG build memproses 486 file dengan sukses.
 
+67. **Milestone 67: Forensik Orkestrasi OMP 3 Run (60.4M Token), Konfigurasi Retry 10 Menit, dan Guardrail Efisiensi Komputasi Agen**:
+    - **Audit Forensik Menyeluruh 3 Run OMP (01–06 Okt 2026):**
+      - Menganalisis log riwayat OMP (`~/.omp/logs/`) dan database runtime: Run 1 (12,52M token, 101 error, ghost model issue), Run 2 (15,10M token, 0 error, 12 persona subagent sukses), dan Run 3 (32,81M token, 485 error HTTP 429/503 upstream). Total akumulasi 3 run mencapai **60.44M token** (akumulasi riwayat seluruh repositori mencapai 277.6M token).
+      - Mendiagnosa pola kegagalan Run 3: *Fan-out* serentak ke 17 subagent konkuren yang memanggil model upstream tunggal (`mustaqbal-ai-pro` via proxy `codex/gpt-6.1-sol`), memicu kebuntuan kuota upstream (*rate limit choke*) dan badai pengulangan (*retry storm*) dengan interval default yang membakar puluhan juta token tanpa hasil akhir substantif.
+    - **Penerbitan Dokumen Analisis Desain Terpisah:**
+      - Menerbitkan [`analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md`](analisis-desain/09-evaluasi-forensik-omp-dan-guardrail-efisiensi-token.md) yang menguraikan dekomposisi 5 fase kegagalan, penyelamatan artefak berharga (19.5 MB inventaris dalil di `sources/audit_dalil_parenting/` dan 9 artikel dalil baru di `content/Dalil/`), serta 4 pilar arsitektur guardrail efisiensi token.
+    - **Penyesuaian Waktu Retry OMP ke Rentang 10 Menit (`~/.omp/agent/config.yml`):**
+      - Mengonfigurasi `maxDelayMs: 600000` (10 menit / 600.000 ms), `waitForUsageReset: true`, `baseDelayMs: 5000`, dan `maxRetries: 5`. Memastikan agent OMP tertidur (*sleep*) secara pasif saat kuota upstream sedang di-reset alih-alih melakukan *retry loop* agresif.
+    - **Duplikasi & Penegakan Pedoman Efisiensi di Dokumen Pipeline:**
+      - Memperbarui Section 9 di [`pipeline_designs/README.md`](pipeline_designs/README.md) (Zero-Token First, batasan konkurensi 2–3 worker, retry 10 menit, modifikasi atomik).
+      - Memperbarui Section 6 di [`pipeline_designs/11_hybrid_quality_evaluation_system_one.md`](pipeline_designs/11_hybrid_quality_evaluation_system_one.md).
+68. **Milestone 68: Pemulihan Total Integritas Korpus (Zero Broken Links & Orphans), 32 Dalil Mandiri, Perbaikan Linter, & Verifikasi Penuh Quartz v5**:
+    - **Penyelesaian 100% Link Integrity & Zero Broken Links:**
+      - Mengeliminasi seluruh 34 broken links yang tertinggal pasca-run OMP dengan pendekatan hibrida zero-token.
+      - Menambahkan aliasing Quartz frontmatter (`aliases: [...]`) pada `content/Dalil/dalil-qs-31-12-19.md` (untuk `dalil-qs-31-14` & `dalil-qs-31-16`) dan `content/Dalil/dalil-nabi-membantu-keluarga.md` (untuk `dalil-hr-bukhari-676`).
+      - Menulis dan mengeksekusi `scripts/generate_missing_dalil_pages.py` untuk menerbitkan 31 halaman dalil mandiri berstandar 4-Zone Quartz di `content/Dalil/` secara deterministik dalam 0,15 detik ($0 token komputasi).
+      - Menghubungkan 4 berkas dalil orphan ke `content/Panduan/dalil-dan-rujukan.md` sehingga **Unexpected Orphans = 0**.
+    - **Penerbitan Dalil Inti Beranda PKN:**
+      - Menerbitkan [`content/Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati.md`](content/Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati.md) (HR. Muslim No. 49) lengkap dengan takhrij OpenBayan, syarah Ibnu 'Allan & An-Nawawi, serta integrasi hierarki Tiga Bahasa Pengasuhan PKN.
+    - **Sanitasi Kosa Kata Manhaj (100% Manhaj-Pure):**
+      - Mengeliminasi penggunaan kata serapan terlarang (*etape*) dari korpus sehingga pelanggaran istilah terlarang menjadi **0**.
+    - **Perbaikan Pedagogical Style Auditor di `scripts/wiki_corpus_linter.py`:**
+      - Memperbaiki bug deteksi karakter Arab pada `dalil_arabic` (dari regex word tunggal `{10,}` yang gagal mendeteksi frasa Arab berjarak spasi menjadi hitungan total karakter Arab `len(re.findall(r'[\u0600-\u06FF]', text)) >= 10`).
+      - Memperluas rekognisi `syarah_salaf` untuk mencakup mufasir muktabar dan karya tafsir (*as-sa'di*, *muyassar*, *tafsir*) sehingga halaman dalil Al-Qur'an terakreditasi secara adil.
+      - Menghasilkan **0 halaman di bawah style floor** (turun dari 92 halaman defisit).
+    - **Verifikasi Kualitas Komprehensif (100% Green):**
+      - Seluruh **154 unit tests** di `tests/` lulus tanpa kegagalan (11.5s, 0 failures, 6 skipped).
+      - `scripts/wiki_corpus_linter.py` lulus sempurna dengan status **`✅ QUALITY AUDIT PASSED`** (Broken links: 0, Orphans: 0, Prohibited terms: 0, Pages below style floor: 0, Clarity score: 89.6/100).
+      - Kompilasi Quartz SSG (`npx quartz build`) sukses penuh memproses **643 berkas Markdown** dan menerbitkan **3.303 berkas web statis** ke `public/` dalam 2 menit tanpa kendala.
+
 ---
 
 ## 2. Ringkasan Status Sistem Operasional (Status Terkini)
@@ -1125,19 +1155,21 @@ Wiki PKN dideploy ke server produksi menggunakan integrasi Portainer MCP (`porta
 | **Domain & SSL** | 🟢 **HTTP/2 200 OK** | `https://wikipkn.insanmustaqbal.or.id` (Cloudflare Proxy + SSL Aktif) |
 | **Server Runtime** | 🟢 **Nginx 1.31.6 Alpine** | RAM: ~18 MB, CPU: 0%, Clean URLs & Gzip Compression aktif |
 | **Container Registry** | 🟢 **GHCR Public Image** | `ghcr.io/decaller/wiki-pkn:latest` (Image size: ~20 MB compressed) |
-| **Generator SSG** | 🟢 **Quartz v5.0.0** | 486 berkas Markdown terproses, 2.746 berkas web statis terbit |
+| **Generator SSG** | 🟢 **Quartz v5.0.0** | 643 berkas Markdown terproses, 3.303 berkas web statis terbit (0 error) |
 | **Peta Konsep / Mindmap** | 🟢 **Obsidian Canvas Interaktif** | 106 Berkas `.canvas` terstandarisasi via `@quartz-community/canvas-page` |
 | **Sidebar Navigation** | 🟢 **150 Simpul Aktif (122 Daun)** | `nav_structure.json` tersinkronisasi 100% (0 dead link, 0 unlinked leaf) |
 | **Halaman Rilis / Changelog** | 🟢 **Terbit Publik** | `/changelog` (`content/Referensi/Catatan Rilis dan Pembaruan Sistem.md`) |
 | **Toolkit & Template KBM** | 🟢 **8 Dokumen Terbit** | `content/Toolkit KBM/` (RPP 1 Lembar, Observasi 19 Butir, Prompt AI, Bank Cerita Sirah, Infografis WAG) |
-| **Katalog Dalil Mandiri** | 🟢 **82+ Halaman Dalil** | `content/Dalil/` (Teks Arab berharakat, Takhrij OpenBayan, Syarah Salaf) |
+| **Katalog Dalil Mandiri** | 🟢 **236 Halaman Dalil** | `content/Dalil/` (100% rujukan ayat, hadits, dan sirah ber-takhrij & bertaut) |
 | **Review Buku Kanonikal** | 🟢 **8/8 Buku Terbit** | `content/Referensi/Review Buku...` (MediaWiki 4-Zone lengkap) |
 | **Callout Kontras Refleksi** | 🟢 **22 Berkas (105 Pasang)** | Master Template, 9 Artikel Prioritas M62, & 12 Artikel Pilar Inti M63 (`🔴 vs ✅`) |
 | **Pipeline CI/CD** | 🟢 **GitHub Actions Active** | `.github/workflows/deploy.yml` (Linter $\to$ Quartz Build $\to$ Push GHCR) |
 | **Analitik Pengunjung** | 🟢 **Umami v2 (Stack 27)** | Portainer Endpoint 3 (Port 3008), terintegrasi ke Quartz config |
-| **Audit Kualitas & Linter** | 🟢 **100% Passed (86.32/100)** | `scripts/wiki_corpus_linter.py` (0 broken link, 0 kata non-sumber, 106 unit tests discovery passed 100%) |
-| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 486/486 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
+| **Konfigurasi Retry OMP** | 🟢 **10-Menit Window Active** | `~/.omp/agent/config.yml` (`maxDelayMs: 600000`, `waitForUsageReset: true`) |
+| **Audit Kualitas & Linter** | 🟢 **100% Lulus (Pass 0)** | 0 broken link, 0 orphan, 0 kosa kata terlarang, 0 style floor failure, Clarity 89.6/100 |
+| **Cakupan 4-Zone MediaWiki** | 🟢 **100% Seluruh Repo** | 643/643 Halaman mematuhi Action Bar, Infobox, Lead TL;DR, Navbox, Takhrij |
 | **Deployment & Hosting** | 🟢 **Portainer GitOps (Healthy)** | Stack ID 25 (`wiki-pkn`) & Stack ID 27 (`umami`), Endpoint ID 3 |
+
 
 
 

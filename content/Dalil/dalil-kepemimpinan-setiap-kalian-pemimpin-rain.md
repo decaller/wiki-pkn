@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 7138 & Muslim No. 1829"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Ahkam) & Shahih Muslim (Kitab al-Imarah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-أَلَا كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، فَالْإِمَامُ الَّذِي عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ عَلَى أَهْلِ بَيْتِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ عَلَى أَهْلِ بَيْتِ زَوْجِهَا وَوَلَدِهِ وَهِيَ مَسْئُولَةٌ عَنْهُمْ، وَعَبْدُ الرَّجُلِ رَاعٍ عَلَى مَالِ سَيِّدِهِ وَهُوَ مَسْئُولٌ عَنْهُ، أَلَا فَكُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ
-</div>
+> [!QUOTE] Nas HR. Bukhari No. 7138 & Muslim No. 1829
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> أَلَا كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، فَالْإِمَامُ الَّذِي عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ عَلَى أَهْلِ بَيْتِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ عَلَى أَهْلِ بَيْتِ زَوْجِهَا وَوَلَدِهِ وَهِيَ مَسْئُولَةٌ عَنْهُمْ، وَعَبْدُ الرَّجُلِ رَاعٍ عَلَى مَالِ سَيِّدِهِ وَهُوَ مَسْئُولٌ عَنْهُ، أَلَا فَكُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ
+> </div>
+>
+> [[dalil-kepemimpinan-setiap-kalian-pemimpin-rain|Rujukan HR. Bukhari No. 7138 & Muslim No. 1829]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Ketahuilah bahwa setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya. Seorang pemimpin atas manusia adalah pemimpin dan ia bertanggung jawab atas rakyatnya; seorang laki-laki adalah pemimpin atas keluarganya dan ia bertanggung jawab atas mereka; seorang wanita adalah pemimpin atas rumah tangga suaminya dan anak-anaknya dan ia bertanggung jawab atas mereka; dan seorang hamba sahaya adalah pemimpin atas harta tuannya dan ia bertanggung jawab atasnya. Ketahuilah bahwa setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya."*  
 > 
 > *(Rujukan: HR. Bukhari No. 7138 & Muslim No. 1829)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 13 Hal. 112) membedah struktur sosial hadits ini: Rasulullah ﷺ memulai dan menutup sabdanya dengan kalimat pengingat universal *ala kullukum ra'in* untuk menegaskan bahwa dalam Islam tidak ada manusia yang bebas dari tanggung jawab moral. Konsep kepemimpinan Islam bukan hak istimewa aristokrat, melainkan amanah fungsional yang diemban oleh setiap mukallaf. Penggembala wajib menjaga keselamatan, memberi makan, mengobati, dan melindungi gembalaannya dari terkaman serigala; jika ada satu ekor domba yang hilang atau terluka karena kelalaiannya, sang penggembala wajib menanggung ganti rugi dan hisab di hadapan pemiliknya.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Kepemimpinan dibaca sebagai amanah terhadap orang dan pekerjaan yang berada dalam tanggung jawab seseorang. Pembagian tugas pendidikan adalah aplikasi kontributor, bukan jaminan atau rincian hukum dari syarah.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين - حطيبة
+>
+> <div dir="rtl">
+> فكل إنسان مسئول عن عمله، سيسأله الله ﷿ يوم القيامة.
+> </div>
+>
+> **Sumber:** أحمد حطيبة, *شرح رياض الصالحين - حطيبة*, ج 12 ص 12; OpenBayan lokal, chunk `58817`.
+> [[dalil-kepemimpinan-setiap-kalian-pemimpin-rain|Rujukan syarah dan konteks nas]]
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> أمر وُلاة الأمور بالرفق برعاياهم ونصيحتهم والشفقة عليهم والنهي عن غشهم والتشديد عليهم وإهمال مصالحهم والغفلة عنهم وعن حوائجهم
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 3 ص 626; OpenBayan lokal, chunk `56614`.
+> [[dalil-kepemimpinan-setiap-kalian-pemimpin-rain|Rujukan syarah dan konteks nas]]
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Memerintah]]**, yaitu:
 - **Kemandirian Mukallaf Fase Syabab:** Melatih pemuda memandang dirinya sebagai subjek penanggung jawab amanah, bukan penonton pasif sejarah.
 - **Etika Akuntabilitas Publik:** Melahirkan pemimpin yang takut berbuat zalim dan korupsi karena meyakini hisab kubur yang mengerikan.
 - **Koneksi Sebelum Koreksi:** Mengayomi mereka yang dipimpin dengan welas asih penggembala sebelum menegakkan aturan.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Terapkan pembagian tugas yang jelas di rumah; latih setiap anak merasa bertanggung jawab atas sektor tugasnya.
 2. **Bagi Guru:** Tanamkan kesadaran amanah pada pengurus organisasi santri agar melayani anggota dengan ikhlas.
 3. **Bagi Evaluasi Santri:** Pantau bagaimana santri menjaga fasilitas umum sekolah yang diamanahkan kepadanya.
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Memerintah]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk ID `58817`, `56614`. Ini penelusuran kutipan, bukan verifikasi global seluruh takhrij. QAF tidak tersedia karena autentikasi kedaluwarsa dan respons tamu 429; tidak dilakukan bypass.
 
 ---
 

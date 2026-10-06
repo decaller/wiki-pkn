@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Abu Dawud No. 4941 & At-Tirmidzi No. 1924"
     authority: 1.0
-    verification: "Shamela 11M / Sunan Abu Dawud & Jami' At-Tirmidzi (Kitab al-Birr wash-Shilah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-kasih-sayang-ar-rahimun|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Orang-orang yang menyayangi akan disayangi oleh Dzat Yang Maha Penyayang. Sayangilah siapapun yang ada di bumi, niscaya Dzat yang ada di langit akan menyayangi kalian."*  
 > 
 > *(Rujukan: HR. Abu Dawud No. 4941 & At-Tirmidzi No. 1924)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Mubarakfuri dalam *Tuhfatul Ahwadzi* (Juz 6 Hal. 42) dan Imam As-Sakhawi dalam *Al-Jawahir wad-Durar* menjelaskan bahwa tradisi ulama salaf mengajarkan hadits ini sebagai hadits pertama yang disimak santri (*al-hadits al-musalsal bil awwaliyyah*) adalah untuk meletakkan fondasi batin: bahwa gerbang menuntut ilmu Islam harus dilandasi oleh sifat welas asih (*ar-rahmah*). Ilmu yang dipelajari tanpa rahmat hanya akan melahirkan kesombongan intelektual, kekejaman fatwa, dan kekerasan dalam memperlakukan murid.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Rahmat tampak dalam pertolongan dan perlakuan terhadap anak. Kutipan ini tidak memastikan klaim bahwa riwayat ini selalu menjadi pelajaran pertama santri.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين - حطيبة
+>
+> <div dir="rtl">
+> والمواساة أن يواسي غيره ويرحم غيره، ففي قلبه العطف على الإنسان المحتاج
+> </div>
+>
+> **Sumber:** أحمد حطيبة, *شرح رياض الصالحين - حطيبة*, ج 40 ص 6; chunk `59162`.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> ينبغي للإنسان أن يستعمل الرحمة في معاملة الصغار ونحوهم
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 2 ص 551; chunk `55925`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 - **Prasyarat Tarbiyah (Rahmat Mendahului Syariat):** Tidak ada pendidikan karakter tanpa samudera kasih sayang; rahmat adalah ruh dari seluruh kurikulum PKN.
 - **Keluasan Spektrum Rahmat:** Menyayangi anak, pasangan, santri, fakir miskin, hingga hewan dan lingkungan hidup.
 - **Resonansi Balasan Ilahi:** Besarnya curahan rahmat Allah kepada orang tua/guru berbanding lurus dengan kelembutan kasih sayangnya kepada anak asuh.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Guru:** Awali interaksi pengajaran dengan memancarkan rasa sayang tulus kepada setiap santri di hadapan kita.
 2. **Bagi Orang Tua:** Buat anak merasakan bahwa rumah adalah surga kasih sayang yang paling aman di muka bumi.
 3. **Bagi Evaluasi Santri:** Pantau bagaimana santri memperlakukan kucing liar atau tanaman di sekolah sebagai cermin kepekaan nuraninya.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 59162, 55925. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

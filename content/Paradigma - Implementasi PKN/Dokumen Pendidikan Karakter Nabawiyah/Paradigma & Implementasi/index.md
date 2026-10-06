@@ -81,6 +81,7 @@ Halaman ini merupakan simpul pintu gerbang (*master landing node*) yang memetaka
 > 
 > *"Dan Kami turunkan kepadamu Al Kitab (Al Quran) untuk menjelaskan segala sesuatu dan petunjuk serta rahmat dan kabar gembira bagi orang-orang yang berserah diri."*  
 > — **QS. An-Nahl: 89**
+> **Tafsir ayat:** [[dalil-qs-16-89]].
 > 
 > 💡 **Relevansi PKN:** Al-Qur'an dan Sunnah adalah pedoman paripurna (*tibyanan likulli syai'*) yang menyediakan arsitektur utuh dalam memahami fitrah manusia dan cara mendidiknya.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%88%D9%8E%D9%86%D9%8E%D8%B2%D9%8E%D9%91%D9%84%D9%92%D9%86%D9%8E%D8%A7%20%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8E%20%D8%A7%D9%84%D9%92%D9%83%D9%90%D8%AA%D9%8E%D8%A7%D8%A8%D9%8E%20%D8%AA%D9%90%D8%A8%D9%92%D9%8A%D9%8E%D8%A7%D9%86%D9%8B%D8%A7%20%D9%84%D9%90%D9%91%D9%83%D9%8F%D9%84%D9%90%D9%91%20%D8%B4%D9%8E%D9%8A%D9%92%D8%A1%D9%8D%20%D9%88%D9%8E%D9%87%D9%8F%D8%AF%D9%8B%D9%89%20%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8B&lang=id)

@@ -41,9 +41,14 @@ Wiki PKN menyajikan matan hadits berharakat, terjemahan, derajat takhrij, dan de
 Akses direktori lengkap ratusan hadits nabawiyah tematik di **[[Master Katalog Dalil Hadits dan Sunnah|Master Katalog Dalil Hadits & Sunnah]]**.
 
 ### 2. Dalil Kunci Tematik Populer
+* **Tiga Bahasa Pengasuhan & Tingkatan Mengubah Kemungkaran:** Landasan operasional Bahasa Hati, Lisan, dan Tangan dari HR. Muslim No. 49 di [[Dalil/dalil-mengubah-kemungkaran-tangan-lisan-hati|Dalil Mengubah Kemungkaran (Tangan, Lisan, Hati)]].
 * **Perintah Shalat & Pentahapan Usia:** Takhrij lengkap hadits perintah shalat usia 7 tahun dan disiplin usia 10 tahun di [[Dalil/dalil-perintah-shalat-usia-7-dan-10|Dalil Perintah Shalat 7 & 10 Tahun]].
 * **Musyawarah dalam Mendidik Remaja:** Telaah kisah Nabi Ibrahim dan Nabi Ismail dalam musyawarah akil baligh di [[Dalil/dalil-fase-murahaqah-musyawarah-ayah-anak|Dalil Musyawarah Ayah dan Anak]].
 * **Kelembutan Pengasuhan (Ar-Rifq):** Hadits mengenai urgensi sikap lemah lembut dalam membangun kepatuhan sukarela di [[Dalil/dalil-bahasa-hati-kelembutan-ar-rifq|Dalil Kelembutan (Ar-Rifq)]].
+* **Keadilan Pemberian Antar-Anak:** Hadits Nu'man bin Basyir mengenai pencegahan pilih kasih dan kecemburuan saudara di [[Dalil/dalil-keadilan-pemberian-antar-anak|Hadits Keadilan Pemberian Antar Anak]].
+* **Proteksi Lingkungan & Penjagaan Anak:** Panduan menjaga anak pada awal malam dan benteng imunitas keluarga di [[Dalil/dalil-menjaga-anak-waktu-senja|Hadits Menjaga Anak pada Waktu Senja]].
+* **Tanggung Jawab Pendidikan Keluarga:** Menjaga keluarga dari neraka via ta'lim dan ta'dib (Tafsir Ali bin Abi Thalib) di [[Dalil/dalil-talim-dan-tadib-keluarga|Ta'lim dan Ta'dib Keluarga: Tafsir At-Tahrim: 6]].
+* **Membersamai Permainan Anak:** Tinjauan riwayat penyesuaian diri orang tua dengan dunia anak di [[Dalil/dalil-tasyaabi-membersamai-permainan-anak|Tasyaabi: Membersamai Permainan Anak]].
 
 ---
 

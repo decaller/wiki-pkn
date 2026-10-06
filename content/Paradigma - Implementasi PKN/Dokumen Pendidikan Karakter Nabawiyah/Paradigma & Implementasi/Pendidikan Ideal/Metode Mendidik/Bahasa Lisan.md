@@ -77,6 +77,7 @@ tags:
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
+> **Dalil:** [[Dalil/dalil-bahasa-lisan-qaulan-sadida]]
 > « يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا ۝ يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ »
 >
 > *"Wahai orang-orang yang beriman, bertakwalah kalian kepada Allah dan berkatalah dengan perkataan yang benar (sadida - tepat sasaran, objektif, dan lurus). Niscaya Allah akan memperbaiki amalan-amalan kalian dan mengampuni dosa-dosa kalian..."*
@@ -112,6 +113,8 @@ Rasulullah ﷺ memperlakukan anak-anak usia tamyiz sebagai mitra dialog yang ber
 
 ### A. Umar bin Abi Salamah: Koreksi Adab Makan Tanpa Mempermalukan
 Umar bin Abi Salamah menceritakan kenangan masa kecilnya saat makan bersama Nabi ﷺ:
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-adab-makan-sammi-wa-kul-biyaminik]]
 > « كُنْتُ غُلَامًا فِي حَجْرِ رَسُولِ اللَّهِ ﷺ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللَّهِ ﷺ: يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ، فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ »  
 > *"Dahulu aku adalah seorang bocah kecil di bawah asuhan Rasulullah ﷺ. Tanganku bergerak ke sana kemari di nampan makanan (mengambil lauk sembarangan). Maka Rasulullah ﷺ bersabda kepadaku dengan lembut: 'Wahai anakku (ghulam), bacalah bismillah, makanlah dengan tangan kananmu, dan makanlah dari apa yang ada di dekatmu!' Maka sejak saat itu, demikianlah selalu cara makanku."*  
 > 📚 *(HR. Al-Bukhari No. 5376 & Muslim No. 2022)*
@@ -120,12 +123,16 @@ Perhatikan keindahan pedagogis Nabi ﷺ: beliau tidak membentak: *"Kamu tidak pu
 
 ### B. Abdullah bin Abbas: Pembinaan Aqidah di Atas Punggung Tunggangan
 Saat Ibnu Abbas masih berusia sekitar 9–10 tahun dan dibonceng di belakang unta Rasulullah ﷺ, beliau memanfaatkan momen intim tersebut untuk menanamkan pondasi tauhid:
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-wasiat-jagalah-allah-ihfazh-illah]]
 > « يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ، وَاعْلَمْ أَنَّ الأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ، وَلَوْ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْكَ، رُفِعَتِ الأَقْلَامُ وَجَفَّتِ الصُّحُفُ »  
 > *"Wahai anakku, sesungguhnya aku ingin mengajarkan kepadamu beberapa untaian kalimat: Jagalah (syariat) Allah niscaya Dia akan menjagamu! Jagalah Allah niscaya engkau mendapati-Nya di hadapanmu! Jika engkau memohon, mohonlah kepada Allah; dan jika engkau meminta pertolongan, mintalah pertolongan kepada Allah!... Ketahuilah bahwa pena-pena takdir telah diangkat dan lembaran-lembaran catatan telah kering."*  
 > 📚 *(HR. At-Tirmidzi No. 2516, dinyatakan Hasan Shahih; Riyadush Shalihin No. 62)*
 
 ### C. Jundub bin Abdillah: Iman Sebelum Al-Qur'an Melalui Lisan
 Jundub bin Abdillah Al-Bajali mengisahkan metodologi lisan para shahabat kecil bersama Nabi ﷺ:
+> [!quote] Atsar sahabat
+> **Dalil:** [[Dalil/dalil-iman-sebelum-quran]]
 > « كُنَّا مَعَ النَّبِيِّ ﷺ وَنَحْنُ فِتْيَانٌ حَزَاوِرَةٌ، فَتَعَلَّمْنَا الإِيمَانَ قَبْلَ أَنْ نَتَعَلَّمَ الْقُرْآنَ، ثُمَّ تَعَلَّمْنَا الْقُرْآنَ فَازْدَدْنَا بِهِ إِيمَانًا »  
 > *"Dahulu kami bersama Nabi ﷺ saat kami adalah anak-anak muda yang menjelang baligh. Kami mempelajari iman terlebih dahulu sebelum kami mempelajari Al-Qur'an, barulah kemudian kami mempelajari Al-Qur'an, sehingga Al-Qur'an itu semakin menambah keimanan kami."*  
 > 📚 *(HR. Ibnu Majah No. 61, sanad shahih; Al-Baihaqi dalam Sunan Al-Kubra No. 5373)*

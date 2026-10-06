@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 5997 & Muslim No. 2318"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Adab) & Shahih Muslim (Kitab al-Fadha'il) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-أَنَّ رَسُولَ اللَّهِ ﷺ قَبَّلَ الْحَسَنَ بْنَ عَلِيٍّ وَعِنْدَهُ الأَقْرَعُ بْنُ حَابِسٍ التَّمِيمِيُّ جَالِسًا، فَقَالَ الأَقْرَعُ: إِنَّ لِي عَشَرَةً مِنَ الْوَلَدِ مَا قَبَّلْتُ مِنْهُمْ أَحَدًا، فَنَظَرَ إِلَيْهِ رَسُولُ اللَّهِ ﷺ ثُمَّ قَالَ: مَنْ لَا يَرْحَمْ لَا يُرْحَمْ
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-kasih-sayang-mencium-anak|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> أَنَّ رَسُولَ اللَّهِ ﷺ قَبَّلَ الْحَسَنَ بْنَ عَلِيٍّ وَعِنْدَهُ الأَقْرَعُ بْنُ حَابِسٍ التَّمِيمِيُّ جَالِسًا، فَقَالَ الأَقْرَعُ: إِنَّ لِي عَشَرَةً مِنَ الْوَلَدِ مَا قَبَّلْتُ مِنْهُمْ أَحَدًا، فَنَظَرَ إِلَيْهِ رَسُولُ اللَّهِ ﷺ ثُمَّ قَالَ: مَنْ لَا يَرْحَمْ لَا يُرْحَمْ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Bahwa Rasulullah ﷺ mencium Al-Hasan bin Ali, dan di dekat beliau ada Al-Aqra' bin Habis At-Tamimi sedang duduk. Maka Al-Aqra' berkata: 'Sesungguhnya aku memiliki sepuluh orang anak, tidak pernah aku mencium seorang pun dari mereka.' Maka Rasulullah ﷺ memandangnya lalu bersabda: 'Barangsiapa yang tidak menyayangi, niscaya ia tidak akan disayangi.'"*  
 > 
 > *(Rujukan: HR. Bukhari No. 5997 & Muslim No. 2318)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Hajar dalam *Fathul Bari* (Juz 10 Hal. 427) dan Imam An-Nawawi dalam *Syarah Shahih Muslim* menerangkan bahwa mencium anak kecil, memeluk, mendekap, dan bercanda dengannya adalah bukti nyata rahmat dan kelembutan fitrah yang Allah titipkan di dalam hati orang tua. Menahan kasih sayang fisik dan menganggapnya sebagai tanda wibawa atau ketegasan adalah kesesatan cara pandang jahiliyah yang berakar dari kekeringan kalbu. Barangsiapa yang menutup pintu rahmat kepada anak-anaknya, niscaya Allah akan menutup pintu rahmat-Nya baginya kelak di akhirat.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Mencium anak merupakan ekspresi rahmat. Pedoman pengasuhan di bawah adalah pengembangan kontributor dari teladan tersebut.
+
+> [!QUOTE] Kutipan ulama — تطريز رياض الصالحين
+>
+> <div dir="rtl">
+> في هذا الحديث: الشفقة على الأولاد، وتقبيلهم ورحمتهم.
+> </div>
+>
+> **Sumber:** فيصل آل مبارك, *تطريز رياض الصالحين*, ص 174; chunk `57791`.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> فدل ذلك على جواز تقبيل الأولاد الصغار رحمة وشفقة
+> </div>
+>
+> **Sumber:** ابن عثيمين, *شرح رياض الصالحين لابن عثيمين*, ج 4 ص 456; chunk `57108`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 - **Pilar Tangki Cinta & Bahasa Tubuh Nabawiyah:** Afeksi fisik (pelukan, ciuman di kening, usapan kepala) adalah nutrisi pokok fase Thufulah (0–7 tahun).
 - **Koneksi Sebelum Koreksi:** Koreksi adab tidak akan efektif jika tangki cinta anak dalam kondisi kosong melompong (*empty emotional tank*).
 - **Meruntuhkan Maskulinitas Toksik:** Ayah sejati dalam teladan Nabawi adalah ayah yang berani mengekspresikan pelukan hangat dan ciuman kasih kepada putra-putrinya di depan khalayak.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Ayah:** Biasakan memeluk dan mencium anak setiap kali hendak berangkat kerja dan saat tiba kembali di rumah.
 2. **Bagi Guru:** Sambut santri kelas rendah dengan sapaan hangat, senyuman lebar, dan tepukan motivasi di pundak.
 3. **Bagi Evaluasi Santri:** Amati apakah anak tampak haus kasih sayang (*attention seeker*) ataukah jiwanya tenang penuh percaya diri.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tangki Cinta]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 57791, 57108. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

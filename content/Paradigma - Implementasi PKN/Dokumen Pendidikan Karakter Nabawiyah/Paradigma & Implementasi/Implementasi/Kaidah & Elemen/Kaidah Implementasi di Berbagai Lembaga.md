@@ -82,14 +82,23 @@ Para perumus manhaj PKN (Ustadz Abdul Kholiq dan Bayu Issetyadi) dalam dokumen r
 
 > [!quote] Dalil & Rujukan Nabawiyah: Menolak Kerusakan dan Memulai dari yang Mampu
 > **Kaidah Ushul Fiqih & Hadits Shahih:**  
+
+> [!quote] Kaidah / keterangan ulama
+> **Dalil:** [[dalil-kaidah-darul-mafasid]]
 > « دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ »  
 > *"Menolak kerusakan dan bahaya (mafsadat) harus didahulukan daripada mengejar kemaslahatan."*  
 > — **Kaidah Fiqhiyyah Kubra (As-Suyuthi dalam Al-Asybah wan Nazha'ir Hal. 87)**  
 >  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-muslim-997]]
 > « ابْدَأْ بِنَفْسِكَ ثُمَّ بِمَنْ تَعُولُ »  
 > *"Mulailah dari dirimu sendiri, kemudian kepada orang-orang yang menjadi tanggunganmu."*  
 > — **HR. Muslim (No. 997) dari Jabir bin Abdillah radhiyallahu 'anhu**  
 >  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-hr-bukhari-7288]]
 > « مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ »  
 > *"Apa saja yang aku larang bagi kalian maka jauhilah, dan apa saja yang aku perintahkan kepada kalian maka laksanakanlah semampu kalian."*  
 > — **HR. Bukhari (No. 7288) & Muslim (No. 1337)**  

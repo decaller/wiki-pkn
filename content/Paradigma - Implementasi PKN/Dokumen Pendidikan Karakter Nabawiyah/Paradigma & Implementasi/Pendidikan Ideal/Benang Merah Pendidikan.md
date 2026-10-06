@@ -77,13 +77,17 @@ tags:
 
 > [!quote] Dalil & Rujukan Nabawiyah Utama
 > **Naskah:**  
-> « كُلُّكُمْ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا »
+> **Dalil:** [[Dalil/dalil-keragaman-potensi-syakilah]]
+> « قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا »
 >
 > *"Katakanlah: 'Tiap-tiap orang berbuat menurut keadaannya (syakilatihi - cetak biru potensi dan fitrah bawaannya) masing-masing.' Maka Tuhanmu lebih mengetahui siapa yang lebih benar jalannya."*
 >
-> 📚 **Sumber Rujukan OpenBayan:** QS. Al-Isra': 84; Tafsir Ibnu Katsir (Juz 5 Hal. 112); Shahih Al-Bukhari No. 4949 (Sabda Nabi ﷺ: *"Beramallah kalian, karena setiap orang akan dimudahkan menuju apa yang ia diciptakan untuknya!"*).  
+> **Sumber ayat:** QS. Al-Isra': 84. Hadits tentang kemudahan beramal disajikan terpisah pada bagian 2.A.
 > 💡 **Relevansi PKN:** Ayat dan hadits ini adalah asas "Benang Merah Pendidikan". Allah tidak menciptakan manusia dengan cetakan seragam bagaikan bata merah. Setiap anak memiliki panggilan peran kekhalifahan unik yang wajib ditemukan dan ditumbuhkan, bukan diseragamkan secara paksa oleh kurikulum industri.
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%83%D9%8F%D9%84%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%8F%20%D8%B9%D9%8E%D9%84%D9%8E%D9%89%D9%B0%20%D8%B4%D9%8E%D8%A7%D9%83%D9%90%D9%84%D9%8E%D8%AA%D9%90%D9%87%D9%90%20%D9%81%D9%8E%D8%B1%D9%8E%D8%A8%D9%8F%D9%91%D9%83%D9%8F%D9%85%D9%92%20%D8%A3%D9%8E%D8%B9%D9%92%D9%84%D9%8E%D9%85%D9%8F%20%D8%A8%D9%90%D9%85%D9%8E%D9%86%D9%92%20%D9%87%D9%8F%D9%88%D9%8E%20%D8%A3%D9%8E%D9%87%D9%92%D8%AF%D9%8E%D9%89%D9%B0&lang=id)
+
+> [!quote] Keterangan tafsir — bukan matan ayat
+> Rujukan yang disebut artikel: Tafsir Ibnu Katsir (Juz 5 Hal. 112). Penafsiran pendidikan dalam artikel ini perlu dibedakan dari terjemahan literal ayat.
 
 ---
 
@@ -107,6 +111,8 @@ Rasulullah ﷺ adalah pendidik teragung yang tidak pernah memaksakan standarisas
 
 ### A. Sabda Nabi ﷺ tentang Kemudahan Sesuai Panggilan Takdir
 Ketika para sahabat bertanya tentang takdir dan amal perbuatan, Rasulullah ﷺ bersabda:
+> [!quote] Dalil
+> **Dalil:** [[Dalil/dalil-bakat-muyassarun-lima-khuliqa-lah]]
 > « اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ، أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَيُيَسَّرُ لِعَمَلِ أَهْلِ السَّعَادَةِ، وَأَمَّا مَنْ كَانَ مِنْ أَهْلِ الشَّقَاءِ فَيُيَسَّرُ لِعَمَلِ أَهْلِ الشَّقَاوَةِ »  
 > *"Beramallah kalian, karena setiap orang akan dimudahkan menuju apa yang ia diciptakan untuknya! Adapun orang yang termasuk golongan yang bahagia, niscaya ia akan dimudahkan untuk melakukan amalan orang-orang yang bahagia; dan orang yang termasuk golongan celaka akan dimudahkan menuju amalan orang-orang yang celaka."*  
 > 📚 *(HR. Al-Bukhari No. 4949 & Muslim No. 2647)*
@@ -126,6 +132,7 @@ Semua sahabat berbeda pos, namun semuanya mulia dan bersinergi membangun tegakny
 
 ### 1. Imam Ibnu Qayyim Al-Jauziyyah
 Dalam kitab *Tuhfatul Maudud bi Ahkamil Maulud* (Hal. 242):
+> [!quote] Kutipan ulama — bukan ayat atau hadits
 > « وَمِمَّا يَحْتَاجُ إِلَيْهِ الطِّفْلُ غَايَةَ الِاحْتِيَاجِ: أَنْ يُعْتَنَى بِأَمْرِ خُلُقِهِ، فَإِنَّهُ يَنْشَأُ عَلَى مَا عَوَّدَهُ الْمُرَبِّي فِي صِغَرِهِ... فَإِذَا كَانَ الْوَلَدُ مُسْتَعِدًّا لِفَهْمِ العِلْمِ وَحِفْظِهِ، فَلْيُفَرَّغْ لَهُ، وَإِنْ كَانَ مُسْتَعِدًّا لِلْفُرُوسِيَّةِ وَأَسْبَابِهَا فَلْيُمَكَّنْ مِنْهَا، وَإِنْ كَانَ لَمْ يُخْلَقْ لِذَلِكَ كُلِّهِ، وَخُلِقَ لِصِنَاعَةٍ مِنْ الصَّنَائِعِ فَلْيُمَكَّنْ مِنْهَا بَعْدَ أَنْ يُعَلَّمَ مَا لَا بُدَّ مِنْهُ مِنْ أَمْرِ دِينِهِ! »  
 > *"Dan di antara perkara yang sangat dibutuhkan oleh anak: hendaklah diperhatikan betul kecenderungan fitrahnya... Jika anak memiliki kesiapan bakat untuk memahami ilmu dan menghafalnya, maka fokuskanlah ia untuk ilmu. Jika ia memiliki bakat dan kecenderungan dalam keterampilan berkuda/keprajuritan (*al-furusiyyah*), maka fasilitasilah ia di bidang itu. Dan jika ia tidak diciptakan untuk kedua hal tersebut, melainkan berbakat dalam salah satu jenis perniagaan atau keahlian pertukangan (*shina'ah*), maka berikanlah ruang baginya di bidang tersebut—setelah ia terlebih dahulu diajarkan ilmu agama fardhu 'ain yang wajib baginya!"*
 

@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Ibnu Majah No. 61 & Ath-Thabarani dalam Al-Mu'jam Al-Kabir"
     authority: 1.0
-    verification: "Shamela 11M / Sunan Ibnu Majah (Mukaddimah) & Syarah Ushul I'tiqad Al-Lalika'i Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-كُنَّا مَعَ النَّبِيِّ ﷺ وَنَحْنُ فِتْيَانٌ حَزَاوِرَةٌ، فَتَعَلَّمْنَا الإِيمَانَ قَبْلَ أَنْ نَتَعَلَّمَ الْقُرْآنَ، ثُمَّ تَعَلَّمْنَا الْقُرْآنَ فَازْدَدْنَا بِهِ إِيمَانًا
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-iman-sebelum-quran|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> كُنَّا مَعَ النَّبِيِّ ﷺ وَنَحْنُ فِتْيَانٌ حَزَاوِرَةٌ، فَتَعَلَّمْنَا الإِيمَانَ قَبْلَ أَنْ نَتَعَلَّمَ الْقُرْآنَ، ثُمَّ تَعَلَّمْنَا الْقُرْآنَ فَازْدَدْنَا بِهِ إِيمَانًا
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Kami dahulu bersama Nabi ﷺ ketika kami masih pemuda yang kuat menjelang baligh; maka kami mempelajari iman sebelum kami mempelajari Al-Qur'an, kemudian kami mempelajari Al-Qur'an sehingga bertambahlah keimanan kami dengan Al-Qur'an tersebut."*  
 > 
 > *(Rujukan: HR. Ibnu Majah No. 61 & Ath-Thabarani dalam Al-Mu'jam Al-Kabir)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Al-Lalika'i dalam *Syarah Ushul I'tiqad Ahlis Sunnah* dan Ibnu Rajab Al-Hanbali menjelaskan bahwa urutan pedagogis para sahabat adalah membangun wadah iman (*wi'a-ul iman*) terlebih dahulu: mencintai Allah, mengagungkan syariat, merasakan kehadiran surga-neraka, dan mengenal Rasulullah ﷺ. Tatkala bejana iman telah kokoh di dalam dada, barulah Al-Qur'an diajarkan; maka setiap ayat halal-haram dan hukum syariat langsung menancap memperkokoh iman. Berbeda dengan kaum yang menghafal teks Al-Qur'an sebelum iman tertanam, ayat-ayat tersebut hanya berhenti di kerongkongan tanpa menyentuh amal.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Urutan belajar iman dan Al-Qur’an mengarah pada pemahaman serta amal, bukan larangan mengenalkan bacaan Al-Qur’an. Kutipan kedua memberi konteks niat belajar, bukan syarah langsung seluruh matan Jundub.
+
+> [!QUOTE] Kutipan ulama — شرح صحيح البخاري للحويني
+>
+> <div dir="rtl">
+> أنهم أقاموا حروفه وضيعوا حدوده
+> </div>
+>
+> **Sumber:** أبو إسحق الحويني, *شرح صحيح البخاري للحويني*, ج 7 ص 12; chunk `24486`.
+
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> لا تعتاضوا عن الإيمان بآياتي وتصديق رسولي بالدنيا وشهواتها؛ فإنها قليلة فانية
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح تفسير ابن كثير - الراجحي*, ج 30 ص 5; chunk `67164`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 - **Urutan Manhaj PKN:** Adab & Iman mendahului hafalan kognitif Al-Qur'an; menanamkan cinta kepada Allah sebelum membebani anak dengan hafalan mekanis.
 - **Koneksi Sebelum Koreksi:** Mengisi tangki cinta Ilahi agar hafalan Al-Qur'an santri menjadi kenikmatan batin, bukan beban yang memicu kebosanan (*burnout*).
 - **Pemberantasan Formalisme Kering:** Menolak pendidikan tahfizh yang melupakan tarbiyah akhlak dan adab keseharian.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Bangun kekaguman dan kerinduan anak kepada Allah dan Rasul-Nya sebelum memulai program intensif membaca/menghafal Al-Qur'an.
 2. **Bagi Guru Tahfizh:** Selipkan tadabbur makna ayat-ayat pendek dan akhlak mulia dalam setiap sesi halaqah Al-Qur'an.
 3. **Bagi Evaluasi Santri:** Pantau apakah akhlak santri penghafal Al-Qur'an selaras dengan ayat-ayat yang telah dihafalnya.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Iman]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 24486, 67164. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

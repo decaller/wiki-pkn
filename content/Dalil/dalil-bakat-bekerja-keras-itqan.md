@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Al-Baihaqi dalam Syu'abul Iman No. 4930 & Abu Ya'la No. 4386"
     authority: 1.0
-    verification: "Shamela 11M / Syu'abul Iman Imam Al-Baihaqi & Al-Jami' Ash-Shaghir As-Suyuthi Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ اللَّهَ تَعَالَى يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ اللَّهَ تَعَالَى يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
+> </div>
+>
+> [[dalil-bakat-bekerja-keras-itqan|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya Allah Ta'ala mencintai apabila salah seorang di antara kalian mengerjakan suatu amal (pekerjaan), ia melakukannya secara itqan (profesional, rapi, dan tuntas)."*  
 > 
 > *(Rujukan: HR. Al-Baihaqi dalam Syu'abul Iman No. 4930 & Abu Ya'la No. 4386)*
@@ -103,16 +107,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Al-Munawi dalam *Faidhul Qadir* (Juz 2 Hal. 286) menjelaskan makna *al-itqan*: yaitu menyempurnakan amal, membersihkannya dari cacat dan kecerobohan, serta mengerjakannya dengan standar mutu terbaik sesuai kapasitas keilmuan yang dimiliki. Sikap itqan lahir dari rasa diawasi oleh Allah (ihsan) dalam setiap ketukan palu, goresan pena, dan sapuan kuas. Pekerjaan yang dilakukan secara asal-asalan mencerminkan kemalasan batin dan kurangnya rasa syukur atas amanah waktu.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Ketelitian kerja dipakai sebagai penerapan kontributor atas nilai ihsan. Matan itqan dan penilaian sanad pada rujukan awal belum terlacak lewat pencarian ini. Dua kutipan berikut adalah penjelasan ihsan dalam ibadah, bukan syarah langsung atau pengesahan sanad matan itqan.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> والمراد هنا الأول إذ حاصله راجع إلى إتقان العبادة بأدائها على وجهها المأمور به مع رعاية حقوق الله تعالى ومراقبته واستحضار عظمته وجلاله ابتداء واستمراراً.
+> </div>
+>
+> **Sumber:** دليل الفالحين لطرق رياض الصالحين, ابن علان, ج 1 ص 226; OpenBayan lokal, chunk `53240`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — النكت على صحيح البخاري
+>
+> <div dir="rtl">
+> وإحسان العبادة: الإخلاص فيها، والخشوع، وفراغ البال حال التلبس بها، ومراقبة المعبود
+> </div>
+>
+> **Sumber:** النكت على صحيح البخاري, ابن حجر العسقلاني, ج 2 ص 16; OpenBayan lokal, chunk `50733`. Kutipan penjelasan ulama, bukan matan hadits.
+
+**Batas penelusuran:** Matan itqan dan syarah langsung Al-Munawi tidak ditemukan melalui عملا أن يتقنه, يتقنه, يحب عمل; sumber ihsan hanya konteks pendukung, bukan verifikasi sanad.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 - **Sub-Bakat Bekerja Keras (TB-40):** Karakter pantang menyerah, daya tahan tinggi (*grit*), dan ketuntasan beramal adalah pilar penentu keberhasilan tarbiyah.
 - **Pemberantasan Mental Medioker:** Santri PKN dididik untuk menolak budaya kerja asal selesai (*wong liyane yo ngono*); setiap karya harus mencerminkan kemuliaan nama Islam.
 - **Aktivitas Nyata (Rukun 3A):** Melatih itqan melalui keterampilan tangan, pertukangan, kebersihan, dan proyek mandiri.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Biasakan anak menuntaskan apa yang telah ia mulai; jangan biarkan ia berpindah mainan sebelum mainan lama dirapikan.
 2. **Bagi Guru:** Berikan rubrik penilaian yang menghargai ketelitian dan kerapian proses kerja santri.
 3. **Bagi Evaluasi Santri:** Pantau daya tahan santri saat menghadapi tugas rumit; apakah ia mudah menyerah atau terus mencari solusi hingga tuntas?
@@ -184,7 +207,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bekerja Keras]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `53240`, `50733`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

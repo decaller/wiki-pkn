@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Al-Qiyamah: 2"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
-</div>
+> [!QUOTE] Ayat Al-Qur’an — [[dalil-jiwa-lawwamah-daya-muhasabah|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan Aku bersumpah demi jiwa yang amat menyesali (dirinya sendiri)."*  
 > 
 > *(Rujukan: QS. Al-Qiyamah: 2)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam Hasan Al-Bashri rahimahullah berkata: 'Sesungguhnya seorang mukmin demi Allah tidaklah engkau jumpai melainkan ia senantiasa mencela dirinya sendiri: Apa yang kuinginkan dari ucapanku tadi? Apa yang kuinginkan dari makananku tadi? Apa yang kuinginkan dari lintasan hatiku tadi? Sedangkan orang fajir (pendosa) terus maju menerjang maksiat tanpa pernah mencela dirinya.' (Tafsir Ibnu Katsir Juz 8 Hal. 276).
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Lawwamah dibahas sebagai sifat jiwa dan dorongan kebaikan; penerapannya pada refleksi anak adalah analisis kontributor.
+
+> [!QUOTE] Kutipan ulama — شرح العقيدة الطحاوية - عبد العزيز الراجحي
+>
+> <div dir="rtl">
+> والتحقيق أنها نفس واحدة ولكن لها صفات وتسمى باعتبار كل صفة باسم
+> </div>
+>
+> **Sumber:** عبد العزيز بن عبد الله الراجحي, *شرح العقيدة الطحاوية - عبد العزيز الراجحي*, ص 298; chunk `293`.
+
+> [!QUOTE] Kutipan ulama — دليل الفالحين لطرق رياض الصالحين
+>
+> <div dir="rtl">
+> النفس اللوّامة المحرّضة على الخير
+> </div>
+>
+> **Sumber:** ابن علان, *دليل الفالحين لطرق رياض الصالحين*, ج 5 ص 143; chunk `54256`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Lawwamah]]**, yaitu:
 - **Daya Cipta & Nalar Akal:** Jiwa lawwamah adalah pilar kesadaran nalar evaluatif; tarbiyah PKN mengaktifkan nurani anak agar menjadi 'hakim' bagi dirinya sendiri.
 - **Koreksi Berbasis Dialog:** Menggunakan Bahasa Lisan yang cerdas (*qaulan sadida*) untuk memantik dialog batin anak, bukan mendiktekan vonis hukuman.
 - **Taubat Konstruktif:** Mengubah rasa bersalah menjadi bahan bakar perbaikan diri dan kompensasi amal shalih.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Saat anak bersalah, ajukan pertanyaan reflektif: 'Menurut ananda, apa dampak perbuatan tadi bagi temanmu dan di mata Allah?'
 2. **Bagi Guru:** Biasakan sesi refleksi mingguan di kelas di mana murid mengevaluasi kemajuan akhlaknya secara jujur.
 3. **Bagi Evaluasi Santri:** Amati apakah santri berani mengakui kekeliruan tanpa mencari kambing hitam.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Lawwamah]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 293, 54256. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

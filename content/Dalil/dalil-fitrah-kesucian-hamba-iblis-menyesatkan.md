@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Muslim No. 2865"
     authority: 1.0
-    verification: "Shamela 11M / Shahih Muslim (Kitab al-Jannah wa Shifati Na'imiha) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,14 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-وَإِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ كُلَّهُمْ، وَإِنَّهُمْ أَتَتْهُمُ الشَّيَاطِينُ فَاجْتَالَتْهُمْ عَنْ دِينِهِمْ، وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُمْ، وَأَمَرَتْهُمْ أَنْ يُشْرِكُوا بِي مَا لَمْ أُنْزِلْ بِهِ سُلْطَانًا
-</div>
+> [!QUOTE] Riwayat hadis — [[dalil-fitrah-kesucian-hamba-iblis-menyesatkan|Rujukan nas dan konteks]]
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> وَإِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ كُلَّهُمْ، وَإِنَّهُمْ أَتَتْهُمُ الشَّيَاطِينُ فَاجْتَالَتْهُمْ عَنْ دِينِهِمْ، وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُمْ، وَأَمَرَتْهُمْ أَنْ يُشْرِكُوا بِي مَا لَمْ أُنْزِلْ بِهِ سُلْطَانًا
+> </div>
+>
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Dan sesungguhnya Aku menciptakan hamba-hamba-Ku semuanya dalam keadaan hanif (lurus condong kepada kebenaran). Lalu setan-setan mendatangi mereka dan memalingkan mereka dari agama mereka, mengharamkan atas mereka apa yang telah Aku halalkan bagi mereka, dan memerintahkan mereka untuk mempersekutukan Aku dengan sesuatu yang tidak Aku turunkan keterangan tentangnya."*  
 > 
 > *(Rujukan: HR. Muslim No. 2865)*
@@ -103,16 +106,35 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Imam An-Nawawi dalam *Syarah Shahih Muslim* (Juz 17 Hal. 197) menjelaskan bahwa kata *hunafa'* adalah bentuk jamak dari *hanif*, yaitu suci dan lurus condong kepada tauhid. Maksud *fajtalathum* adalah setan menggelincirkan, menculik, dan memalingkan mereka dari fitrah asalnya. Ini membuktikan bahwa fitrah manusia pada asalnya suci dari syirik, sedangkan penyimpangan dan kejahatan moral adalah faktor kontaminasi eksternal dari godaan setan dan lingkungan yang lalai.
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Nas menyoroti penyimpangan agama dan godaan setan. Ini tidak berarti semua perilaku sulit anak bersumber dari pengaruh eksternal semata.
+
+> [!QUOTE] Kutipan ulama — شرح صحيح البخاري - الأصبهاني
+>
+> <div dir="rtl">
+> فَإِنَّ كُلَّ أَحَدٍ رَجَعَ إِلَى الْفِطْرَةِ الْغَرِيزِيَّةِ عَرَفَ خَالِقَهُ
+> </div>
+>
+> **Sumber:** إسماعيل التيمي الأصبهاني, *شرح صحيح البخاري - الأصبهاني*, ج 1 ص 182; chunk `22090`.
+
+> [!QUOTE] Kutipan ulama — تفسير ابن كثير - ط العلمية
+>
+> <div dir="rtl">
+> أي لا تبدلوا فطرة الله ودعوا الناس على فطرتهم
+> </div>
+>
+> **Sumber:** ابن كثير, *تفسير ابن كثير - ط العلمية*, ج 2 ص 368; chunk `66685`.
+
+**Batas penelusuran:** QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu 429). Kutipan di atas berasal dari teks korpus lokal, bukan pemeriksaan QAF.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 - **Benteng Pertahanan (*Hifzhul Fitrah*):** Peran utama lembaga pendidikan dan rumah adalah menjadi benteng proteksi dari gempuran 'setan' (ideologi menyimpang, tontonan syahwat, pergaulan liar).
 - **Diagnosis Penyimpangan Santri:** Perilaku buruk santri bukanlah watak aslinya, melainkan fitrah yang sedang 'terculik' (*ijtalathum*) oleh pengaruh buruk lingkungan.
 - **Kewaspadaan Sistemik:** Pendidikan harus membersihkan kanal media dan kurikulum dari racun pemikiran yang memutarbalikkan nilai halal-haram.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional — Analisis kontributor
 1. **Bagi Orang Tua:** Lindungi perangkat gawai dan pertemanan anak secara ketat; jangan biarkan musuh fitrah menculik batin ananda di rumah sendiri.
 2. **Bagi Guru:** Tanamkan kesadaran bahaya tipu daya setan (*adawatul syithan*) sejak dini agar santri memiliki kewaspadaan batin (*al-hadzar*).
 3. **Bagi Evaluasi Santri:** Pantau konsumsi media digital santri dan kemampuannya memfilter konten syubhat.
@@ -184,7 +206,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Fitrah (Karakter)]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber diambil dari SQLite lokal OpenBayan `shamela_corpus.db`, chunk 22090, 66685. Tidak mengklaim verifikasi Qdrant atau QAF.
 
 ---
 

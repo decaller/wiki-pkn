@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Thaha: 44"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
-</div>
+> [!QUOTE] Nas utama
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
+> </div>
+>
+> [[dalil-bahasa-lisan-qaulan-layyina|Rujukan nas dan penjelasan]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Maka berbicaralah kamu berdua kepadanya (Fir'aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut."*  
 > 
 > *(Rujukan: QS. Thaha: 44)*
@@ -103,16 +107,33 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 5 Hal. 286) mengutip ulama salaf: 'Ini adalah pelajaran adab teragung bagi seluruh dai dan pendidik. Fir'aun adalah puncak kezaliman dan kesombongan manusia yang mengaku sebagai tuhan, sedangkan Musa adalah kekasih Allah yang terpilih. Namun demikian, Allah memerintahkan Musa untuk berbicara kepadanya dengan *qaulan layyina* (tutur kata santun, penuh kasih, dan tidak provokatif).' Jika kepada musuh Allah saja diwajibkan kelembutan lisan agar ia ingat atau takut, bagaimana mungkin orang tua dan guru merasa berhak mencaci maki anak kandung atau santri mukmin yang berada di bawah asuhannya?
+### 1. Analisis kontributor dan kutipan sumber terlacak
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+Perintah kepada Musa dan Harun untuk berbicara lembut kepada Fir'aun menjadi pelajaran cara menyampaikan nasihat. Dua sumber berikut memberi konteks kelembutan dan harapan pertobatan; penerapan khusus bagi pengasuhan adalah analisis kontributor.
+
+> [!QUOTE] Kutipan ulama — شرح تفسير ابن كثير - الراجحي
+>
+> <div dir="rtl">
+> والحاصل من أقوالهم أن دعوتهما له تكون بكلام رقيق لين سهل رفيق، ليكون أوقع في النفوس وأبلغ وأنجع
+> </div>
+>
+> **Sumber:** شرح تفسير ابن كثير - الراجحي, عبد العزيز بن عبد الله الراجحي, ج 84 ص 4; OpenBayan lokal, chunk `67557`. Kutipan penjelasan ulama, bukan matan hadits.
+
+> [!QUOTE] Kutipan ulama — شرح رياض الصالحين لابن عثيمين
+>
+> <div dir="rtl">
+> قالوا يعني دعونا نستفيد فائدتين المعذرة إلى الله بأن يكون لنا عذر عند الله ﷿، ولعلهم يتقون
+> </div>
+>
+> **Sumber:** شرح رياض الصالحين لابن عثيمين, ابن عثيمين, ج 2 ص 418; OpenBayan lokal, chunk `55792`. Kutipan penjelasan ulama, bukan matan hadits.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah (Analisis kontributor)
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 - **Meruntuhkan Alasan Kekerasan Verbal:** Tidak ada pembenaran syar'i bagi pendidik untuk berkata kasar, mencaci, atau memaki anak asuh.
 - **Kaidah Sentuhan Hati:** Kata-kata yang lemah lembut membuka kunci ketakutan dan membangkitkan rasa malu (*khasyah*) kepada Allah secara sukarela.
 - **Koneksi Sebelum Koreksi:** Mengubah nada bicara keras menjadi nada bicara teduh yang meredakan ketegangan batin anak.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah (Analisis kontributor)
 1. **Bagi Orang Tua:** Tatap mata anak dan turunkan volume suara saat menasihatinya; kelembutan suara justru memperkuat wibawa pesan.
 2. **Bagi Guru:** Ganti teguran bernada mencemooh dengan nasihat santun yang menyentuh nurani terdalam murid.
 3. **Bagi Evaluasi Santri:** Pantau bagaimana santri berbicara kepada teman sebaya dan adik kelasnya di lingkungan asrama.
@@ -184,7 +205,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Bahasa Lisan]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di atas diambil dari `shamela_corpus.db` lokal OpenBayan, chunk `67557`, `55792`. Ini bukan klaim verifikasi seluruh matan, sanad, atau penafsiran halaman. QAF tidak tersedia (autentikasi kedaluwarsa; akses tamu HTTP 429).
 
 ---
 

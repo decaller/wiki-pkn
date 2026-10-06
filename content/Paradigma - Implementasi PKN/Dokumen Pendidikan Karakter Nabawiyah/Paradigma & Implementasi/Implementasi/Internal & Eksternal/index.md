@@ -77,6 +77,9 @@ Keberhasilan pembentukan karakter anak adalah hasil harmonisasi antara **Faktor 
 
 > [!quote] Dalil & Rujukan Nabawiyah: Perubahan Bermula dari Dalam Jiwa
 > **Teks Al-Qur'an:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-qs-13-11]]
 > « إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ »
 > 
 > *"Sesungguhnya Allah tidak mengubah keadaan suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri..."*  

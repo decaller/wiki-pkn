@@ -78,10 +78,16 @@ Pendidikan yang hampa dari tawakkal dan doa akan melahirkan kesombongan intelekt
 
 > [!quote] Dalil & Rujukan Nabawiyah: Doa Orang Tua Menembus Langit
 > **Teks Al-Qur'an & Hadits Shahih:**  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-doa-anak-shalih-penyejuk-mata-qurrata-ayun]]
 > « وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا »  
 > *"Dan orang-orang yang berkata: 'Ya Tuhan kami, anugerahkanlah kepada kami pasangan-pasangan kami dan keturunan kami sebagai penyejuk hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa'."*  
 > — **QS. Al-Furqan: 74**  
 >  
+
+> [!quote] Nas rujukan
+> **Dalil:** [[dalil-doa-orang-tua-mustajab]]
 > « ثَلَاثُ دَعَوَاتٍ مُسْتَجَابَاتٌ لَا شَكَّ فِيهِنَّ: دَعْوَةُ الْمَظْلُومِ، وَدَعْوَةُ الْمُسَافِرِ، وَدَعْوَةُ الْوَالِدِ لِوَلَدِهِ »  
 > *"Tiga doa yang mustajab, tiada keraguan di dalamnya: doanya orang yang terzalimi, doanya orang yang sedang bepergian (musafir), dan doanya orang tua untuk anaknya."*  
 > — **HR. Abu Dawud (No. 1536), At-Tirmidzi (No. 1905), dishahihkan oleh Al-Albani**  

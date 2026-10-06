@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "QS. Asy-Syu'ara: 88–89"
     authority: 1.0
-    verification: "Shamela 11M / Mushaf Utsmani / Tafsir Ibnu Katsir Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ ۝ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
-</div>
+> [!QUOTE] Ayat Al-Quran
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ ۝ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
+> </div>
+>
+> [[dalil-tazkiyah-tahalli-keselamatan-hati-qalbun-salim|Rujukan Ayat Al-Quran]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"(Yaitu) pada hari di mana harta dan anak-anak tidak berguna, kecuali orang-orang yang menghadap Allah dengan hati yang bersih (selamat)."*  
 > 
 > *(Rujukan: QS. Asy-Syu'ara: 88–89)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Katsir dalam *Tafsir Al-Qur'an Al-'Azhim* (Juz 6 Hal. 148) dan Imam Ibnul Qayyim dalam *Madarijus Salikin* menjelaskan definisi agung *al-qalbus salim*: yaitu hati yang selamat dari segala syirik, selamat dari keraguan terhadap wahyu (*syubhat*), selamat dari memperturutkan hawa nafsu (*syahwat*), dan selamat dari penyakit dengki (*hasad*), dendam, serta kesombongan kepada sesama hamba Allah. Hati yang salim adalah hati yang dipenuhi cinta kepada Allah dan berpasrah total kepada syariat Rasul-Nya.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Ayat ini mengarahkan pendidikan pada keselamatan hati di akhirat. Dua kutipan syarah berikut membahas perbaikan hati secara umum, bukan tafsir langsung QS. Asy-Syuara: 88–89.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> فالإنسان مدار صلاحه وفساده على القلب. ولهذا ينبغي لك أيها المسلم أن تعتني بصلاح قلبك
+>
+> **Sumber:** *شرح رياض الصالحين لابن عثيمين*, ابن عثيمين; ج 3 ص 496 (OpenBayan SQLite, chunk `56484`).
+> [[dalil-tazkiyah-tahalli-keselamatan-hati-qalbun-salim|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> وفيه تنبيه عَلى تعظيم قدر القلب، والحث عَلى صلاحه، والإشارة إلَى أن لطيب الكسب أثرًا فيه، والمراد المتعلق به من فهم الَّذِي ركبه الله فيه.
+>
+> **Sumber:** *النكت على صحيح البخاري*, ابن حجر العسقلاني; ج 2 ص 35 (OpenBayan SQLite, chunk `50750`).
+> [[dalil-tazkiyah-tahalli-keselamatan-hati-qalbun-salim|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Tujuan Akhir Tarbiyah Qalb:** Seluruh kurikulum PKN bertujuan menghantarkan santri memiliki qalbun salim saat menghadap Rabb semesta alam.
 - **Pemberantasan Kedengkian Edukasi:** Menghilangkan budaya persaingan saling menjatuhkan di sekolah; mendidik santri agar gembira melihat kesuksesan temannya.
 - **Koneksi Sebelum Koreksi:** Pendidik wajib membersihkan hatinya dari kebencian pribadi sebelum menegur murid.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Orang Tua:** Tanyakan pada diri sendiri: 'Apakah hatiku malam ini bersih dari rasa dendam kepada pasangan dan anak-anakku?'
 2. **Bagi Guru:** Ajarkan santri mendoakan kebaikan bagi temannya yang berprestasi agar terhindar dari penyakit 'ain dan hasad.
 3. **Bagi Evaluasi Santri:** Pantau respon santri saat temannya mendapat hadiah atau pujian di depan kelas.
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `56484`, `50750`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

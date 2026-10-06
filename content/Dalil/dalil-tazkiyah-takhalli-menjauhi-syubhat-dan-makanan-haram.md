@@ -9,7 +9,7 @@ tags:
 sources:
   - reference: "HR. Bukhari No. 52 & Muslim No. 1599"
     authority: 1.0
-    verification: "Shamela 11M / Shahih al-Bukhari (Kitab al-Iman) & Shahih Muslim (Kitab al-Musaqah) Verified"
+    verification: "Rujukan awal; lihat kutipan sumber terlacak di bawah"
 ---
 
 <!-- ========================================================================== -->
@@ -88,11 +88,15 @@ sources:
 
 ## Teks Takhrij Matan Dalil
 
-<div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
-إِنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ ... أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
-</div>
+> [!QUOTE] Hadits Nabi
+>
+> <div style="font-family: 'Amiri', 'Scheherazade New', serif; font-size: 1.65rem; line-height: 2.8rem; text-align: right; direction: rtl; padding: 1.25rem; background: var(--highlight); border-radius: 8px; border-right: 4px solid var(--secondary);">
+> إِنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ ... أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
+> </div>
+>
+> [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram|Rujukan Hadits Nabi]]
 
-> **Terjemahan Resmi:**  
+> **Terjemahan kerja:**  
 > *"Sesungguhnya yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara syubhat (samar) yang tidak diketahui oleh kebanyakan manusia. Maka barangsiapa yang menjaga diri dari perkara syubhat, sungguh ia telah membersihkan agamanya dan kehormatannya... Ketahuilah bahwa di dalam jasad ada segumpal daging, jika ia baik maka baiklah seluruh jasad, dan jika ia rusak maka rusaklah seluruh jasad; ketahuilah segumpal daging itu adalah hati."*  
 > 
 > *(Rujukan: HR. Bukhari No. 52 & Muslim No. 1599)*
@@ -103,16 +107,32 @@ sources:
 
 ## Analisis Pedagogis & Syarah Ulama Mu'tabar
 
-### 1. Syarah Ulama Mu'tabar
-Al-Hafizh Ibnu Rajab Al-Hanbali dalam *Jami'ul 'Ulum wal Hikam* (Juz 1 Hal. 185) dan Imam An-Nawawi menjelaskan korelasi mutlak antara makanan lahiriah dengan kondisi batin: makanan syubhat dan haram yang masuk ke perut akan berubah menjadi darah dan daging, lalu darah tersebut mengalir membasahi segumpal daging yang bernama *al-qalb*. Jika asupan nutrisinya haram, maka kalbu akan mengeras, gelap, malas beribadah, dan condong kepada maksiat. Menjaga makanan keluarga dari syubhat adalah rukun vital Takhalli demi menyelamatkan kesucian hati anak cucu.
+### 1. Analisis kontributor dan kutipan syarah terlacak
+Kehati-hatian terhadap perkara samar melatih integritas pendidik. Kutipan ini tidak membuktikan mekanisme biologis makanan haram menjadi penyebab pasti perilaku anak.
 
-### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> إنَّ الله ﷾ قد بيَّن الحلال والحرام، ولكن بينهما أمورٌ مشتبهات، والوقوع فيها يؤدي إلى الوقوع في الحرام؛ ولذلك سدَّ أبواب الوقوع فيها بأن أمر عباده أن يجتنبوها، وقد حثَّ الإسلام علي الورع والزهد عما في أيدي الناس وقاية من الوقوع في الأشياء المحرمة.
+>
+> **Sumber:** *شرح رياض الصالحين - حطيبة*, أحمد حطيبة; ج 44 ص 1 (OpenBayan SQLite, chunk `59205`).
+> [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram|Rujukan syarah pada halaman ini]]
+
+> [!QUOTE] Kutipan ulama — bukan hadits
+>
+> الورع: ترك ما لا بأس به حذرًا مما به بأس. والشبهات: ما لم يتضح وجه حله ولا حرمته.
+>
+> **Sumber:** *تطريز رياض الصالحين*, فيصل آل مبارك; ص 389 (OpenBayan SQLite, chunk `58016`).
+> [[dalil-tazkiyah-takhalli-menjauhi-syubhat-dan-makanan-haram|Rujukan syarah pada halaman ini]]
+
+**Batas sumber:** Kutipan diambil dari hasil `raw_text` korpus lokal; bukan verifikasi seluruh nomor riwayat atau edisi. QAF live tidak tersedia karena autentikasi kedaluwarsa/pembatasan guest 429.
+
+### 2. Integrasi Manhaj Pendidikan Karakter Nabawiyah — Analisis kontributor
 Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 - **Detoksifikasi Sumber Rezeki Pengasuhan:** Mendidik anak dengan harta haram/syubhat ibarat menyiram tanaman dengan air limbah beracun; anak akan sulit dinasihati dan memberontak.
 - **Pusat Komando Qalb:** Tarbiyah PKN berporos pada pembersihan hati (*shalahul qalb*) sebagai penggerak seluruh anggota badan.
 - **Kewaspadaan Wara' Pendidik:** Pendidik wajib memiliki standar wara' (kehati-hatian) tinggi dalam menerima titipan infaq dan nafkah.
 
-### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah
+### 3. Fawa'id Tarbawiyyah & Panduan Operasional di Sekolah dan Rumah — Analisis kontributor
 1. **Bagi Ayah:** Pastikan setiap rupiah nafkah yang dibawa pulang ke rumah bersumber dari jalan yang 100% halal dan bersih dari riba/suap.
 2. **Bagi Ibu:** Teliti label kehalalan makanan dan bahan konsumsi keluarga di rumah.
 3. **Bagi Evaluasi Santri:** Pantau kepekaan santri saat menemukan barang temuan (*luqathah*) di sekolah; apakah ia segera mengembalikannya?
@@ -184,7 +204,7 @@ Dalam kerangka PKN, dalil ini menegaskan pilar **[[Tazkiyatun Nafs]]**, yaitu:
 ## Referensi dan Catatan Kaki
 
 [^1]: **Ustadz Abdul Kholiq**, *Buku Utama Pendidikan Karakter Nabawiyah*, SOTAB HEBAT & Himmatul Ummah.
-[^2]: Korpus Takhrij Hadits Nabawi & Atsar Salaf, terverifikasi melalui OpenBayan Qdrant ID `shamela_11m` dan SQLite `shamela_corpus.db`.
+[^2]: Kutipan sumber di halaman ini ditelusuri melalui SQLite lokal OpenBayan `shamela_corpus.db`, chunk `59205`, `58016`. Tidak menyatakan verifikasi global Qdrant atau akses QAF live.
 
 ---
 

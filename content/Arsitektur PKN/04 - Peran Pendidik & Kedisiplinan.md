@@ -100,17 +100,21 @@ Hadits agung yang menjadi batu penjuru penahapan disiplin dan perintah shalat da
 > </div>
 > 
 > *"Perintahkanlah anak-anak kalian untuk mendirikan shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan ta'dib yang mendidik) jika meninggalkannya ketika mereka berusia sepuluh tahun, serta pisahkanlah tempat tidur mereka."* [^1]
+>
+> **Terjemahan kerja kontributor;** keterangan dalam kurung merupakan penjelasan, bukan lafaz hadits. [[dalil-perintah-shalat-usia-7-dan-10|Baca takhrij, syarah, dan batas ta'dib pada usia tujuh dan sepuluh tahun]].
 > 
 > 💡 **Relevansi Pedagogis:** Hadits ini memberikan rentang waktu 3 tahun penuh (usia 7 hingga 10 tahun) yang setara dengan lebih dari 5.000 waktu shalat untuk proses latihan dengan Bahasa Lisan tanpa ada pukulan fisik sama sekali. Pukulan ta'dib di usia 10 tahun adalah ultimum remedium (opsi terakhir yang berbatas ketat), bukan jalan pintas kemarahan orang tua.
 
 Kaidah emas penyeimbang antara kelembutan dan ketegasan dirumuskan oleh Imam Ibnul Qayyim Al-Jauziyyah rahimahullah:
 
-> [!QUOTE] Atsar Emas Imam Ibnul Qayyim Al-Jauziyyah
+> [!QUOTE] Kutipan ulama: Ibn al-Qayyim tentang keseimbangan akhlak
 > <div dir="rtl" lang="ar" style="font-size: 1.35em; line-height: 2.2em; text-align: right; font-family: 'Amiri', 'Traditional Arabic', serif;">
 > وَكُلُّ خُلُقٍ مَحْمُودٍ مُكْتَنَفٌ بِخُلُقَيْنِ ذَمِيمَيْنِ، وَهُوَ وَسَطٌ بَيْنَهُمَا
 > </div>
 > 
-> *"Setiap akhlak terpuji selalu diapit oleh dua akhlak tercela, dan akhlak mulia itu berada tepat di tengah-tengah antara keduanya."* [^2]
+> **Terjemahan kerja kontributor:** “Setiap akhlak terpuji diapit oleh dua akhlak tercela, dan ia berada di tengah keduanya.” [^2]
+>
+> Ini perkataan Ibn al-Qayyim, **bukan sabda Nabi** dan bukan riwayat sahabat. Penjelasan penerapannya pada disiplin di bawah adalah sintesis kontributor.
 > 
 > 💡 **Syarah Wasathiyah:** Sifat pemaaf (*hilm*) diapit oleh kelemahan memalukan (*khawar/tafrith*) dan kekejaman membinasakan (*bathsy/ifrath*). Ketegasan disiplin pendidik harus berdiri di titik wasathiyah: tegas tanpa mencelakakan, lembut tanpa melemahkan.
 
@@ -295,7 +299,7 @@ Kedisiplinan nabawiyah mengharamkan lompatan sanksi (*al-qafz*). Penanganan devi
 ## Referensi dan Catatan Kaki
 
 [^1]: **HR. Abu Dawud**, *Kitab Ash-Shalah*, Bab *Mata Yu'marul Ghulam bish Shalah*, No. 495; **HR. Ahmad**, *Musnad Al-Mukatstsirin*, No. 6689. Dishahihkan oleh Al-Albani dalam *Shahih Abi Dawud*. Takhrij terverifikasi dalam OpenBayan Qdrant ID `shamela_11m_doc_48192`.
-[^2]: **Ibnul Qayyim Al-Jauziyyah**, *Madaarijus Saalikin Baina Manaazil Iyyaka Na'budu wa Iyyaka Nasta'iin*, Tahqiq Muhammad Al-Mu'tashim Billah Al-Baghdadi, Darul Kitab Al-'Arabi, Beirut, Jilid 2, Hal. 294–295.
+[^2]: **Ibn al-Qayyim**, *Madarij As-Salikin*, pembahasan empat pilar akhlak baik dan paragraf “وكل خلق محمود”; kutipan dibaca melalui [nukilan Islamweb, “Asl husn al-khuluq wa su' al-khuluq”](https://www.islamweb.net/ar/article/215218/أصل-حسن-الخلق-وسوء-الخلق). Portal menyebut kitab, tetapi tidak memberi halaman edisi cetak; nomor jilid/halaman sebelumnya tidak diklaim terverifikasi. Provenance: `sources/audit_dalil_parenting/architecture_benefit_ethics_web.json`. Ini kutipan ulama, bukan hadits.
 
 <details>
 <summary><b>📜 Tinjauan Fiqih Ta'dib: Syarat-Syarat Pukulan Mendidik Menurut Fuqaha</b></summary>

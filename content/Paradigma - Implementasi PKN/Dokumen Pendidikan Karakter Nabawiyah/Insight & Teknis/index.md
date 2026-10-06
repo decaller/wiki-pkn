@@ -82,6 +82,7 @@ Bagian **Insight & Teknis** merupakan jembatan emas yang menghubungkan antara wa
 > 
 > *"Barangsiapa mengharap perjumpaan dengan Tuhannya, maka hendaklah ia mengerjakan amal yang saleh dan janganlah ia mempersekutukan seorangpun dalam beribadah kepada Tuhannya."*  
 > — **QS. Al-Kahfi: 110**
+> **Tafsir ayat:** [[dalil-qs-18-110]].
 > 
 > 💡 **Relevansi PKN:** Menegaskan bahwa pemahaman mendalam tentang fitrah anak (insight) harus bermuara pada amal kebaikan terstruktur yang membumi dalam kehidupan sehari-hari (teknis lapangan).
 > 🔍 **Telusuri di OpenBayan:** [🔍 Telusuri di OpenBayan ↗](https://openbayan.insanmustaqbal.or.id/search?q=%D9%81%D9%8E%D9%85%D9%8E%D9%86%20%D9%83%D9%8E%D8%A7%D9%86%D9%8E%20%D9%8A%D9%8E%D8%B1%D9%92%D8%AC%D9%8F%D9%88%20%D9%84%D9%90%D9%82%D9%8E%D8%A7%D8%A1%D9%8E%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%87%D9%90%20%D9%81%D9%8E%D9%84%D9%92%D9%8A%D9%8E%D8%B9%D9%92%D9%85%D9%8E%D9%84%D9%92%20%D8%B9%D9%8E%D9%85%D9%8E%D9%84%D9%8B%D8%A7%20%D8%B5%D9%8E%D8%A7%D9%84%D9%90%D8%AD%D9%8B%D8%A7%20%D9%88%D9%8E%D9%84%D9%8E%D8%A7&lang=id)
