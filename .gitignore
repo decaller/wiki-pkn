@@ -26,6 +26,7 @@ pexels-mcp-server/
 .venv/
 presentations/
 screenshots/
+side-project/
 data/extracted_elements/
 !data/extracted_elements/README.md
 !data/extracted_elements/**/README.md
@@ -51,7 +52,10 @@ buku_tafsir_bakat*
 panduan_implementasi*
 
 # Agent metadata and orchestration files
-.agents/
+.agents/*
+!.agents/skills/
+.agents/skills/*
+!.agents/skills/colleague-ustadz-pendamping-pkn/
 ORIGINAL_REQUEST.md
 
 # Ingestion logs and cache
