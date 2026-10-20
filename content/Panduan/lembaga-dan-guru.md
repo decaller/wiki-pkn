@@ -55,8 +55,13 @@ flowchart TD
 
 Bagi pimpinan yayasan dan kepala sekolah yang ingin mentransformasi budaya lembaganya:
 
-### 1. Empat Kaidah Pokok Implementasi
-Pahami batasan metodologis penerapan PKN agar tidak terjebak dalam formalisme kurikulum melalui [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Kaidah Implementasi|4 Kaidah Implementasi PKN]].
+### 1. Empat Kaidah Pokok & Kaidah Fiqih Perubahan
+Pahami batasan metodologis penerapan PKN agar tidak terjebak dalam formalisme kurikulum melalui [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Kaidah Implementasi|4 Kaidah Implementasi PKN]]. 
+
+Dalam transformasi kelembagaan, terapkan 3 kaidah syar'i (*Workshop PKN Batch 1*):
+* **Mulai dari Diri (*Ibda' Binafsik*):** Gerakan perubahan berpusat dari keteladanan pimpinan yayasan dan dewan guru sebelum menuntut perubahan pada murid.
+* **Menolak Kerusakan Didahulukan (*Dar'ul Mafasid Muqaddamun 'Ala Jalbil Mashalih*):** Jangan memaksakan program baru yang ideal jika memicu mudarat besar seperti kepanikan wali murid atau pengunduran diri guru.
+* **Tidak Meninggalkan Semuanya (*Maa Laa Yudraku Kulluh Laa Yutraku Kulluh*):** Jangan menunda memulai penerapan adab hanya karena sarana atau kurikulum belum sempurna 100%.
 
 ### 2. Delapan Standar Mutu Lembaga Nabawiyah
 Audit kesiapan dan kematangan sekolah Anda dengan mengevaluasi 8 indikator ekosistem pendidikan di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN|8 Standar Implementasi PKN]]:
@@ -69,8 +74,25 @@ Audit kesiapan dan kematangan sekolah Anda dengan mengevaluasi 8 indikator ekosi
 7. Standar Pembiayaan (Akuntabel & Berkah)
 8. Standar Penilaian (Observasi Otentik Portofolio)
 
-### 3. Skala Prioritas Program Berbasis Maqashid Syariah
+### 3. Menghentikan "Roda Hamster Administratif" & Menjaga Mental Guru
+Salah satu temuan krusial dalam evaluasi lapangan adalah fenomena *burnout* guru yang kehabisan energi membuat tumpukan berkas administratif dinas sehingga kehilangan esensi pembinaan jiwa anak. Solusinya:
+* **Strategi Dual-Track Administrasi:** Penuhi syarat dinas secara ringkas, fokuskan waktu utama guru untuk dialog batin dengan santri.
+* **Kepemimpinan Berbasis Kepercayaan:** Pelajari 7 pilar kepemimpinan amanah di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Kepemimpinan Lembaga Berbasis Kepercayaan (BRAVING)|Kepemimpinan Lembaga Berbasis Kepercayaan (BRAVING)]].
+
+### 4. Skala Prioritas Program Berbasis Maqashid Syariah & Matriks Manfaat-Mudarat
 Cegah penumpukan program kegiatan yang melelahkan guru dan santri tanpa dampak nyata. Gunakan matriks evaluasi di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Prioritasi Program Lembaga Berbasis Maqashid Syariah|Prioritasi Program Lembaga Berbasis Maqashid Syariah]].
+
+### 5. Inovasi Pedagogi Alamiah di Era AI
+Di tengah disrupsi teknologi digital, sekolah PKN memadukan pembelajaran konkret-piktorial-abstrak dan ruang eksplorasi mandiri. Pelajari panduannya di [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/Metode Belajar Alamiah CPA dan Model Sandbox di Era AI|Metode Belajar Alamiah CPA dan Model Sandbox di Era AI]].
+
+---
+
+## 🏛️ Dokumentasi & Rekaman Workshop Batch 1
+
+Untuk melihat studi kasus nyata penerapan di sekolah (SMK PKBM Teknologi Mustaqbal, SD Raudhatul Ilmi, dan Ma'had Himmatul Ummah), akses dokumentasi lengkap:
+* 🎬 **Halaman Rekaman & Transkrip 11 Sesi:** [[Kajian Video/Workshop Manajemen Implementasi PKN Lembaga Batch 1|Workshop Manajemen Implementasi PKN Lembaga Batch 1 (06:47:21)]]
+* 📥 **Unduh E-Book Panduan Aksi Lembaga (PDF):** [Panduan Manajemen Implementasi PKN Batch 1](/assets/dokumen/Panduan_Manajemen_Implementasi_PKN_Batch_1.pdf)
+* 📜 **Unduh Transkrip Lengkap Percakapan (PDF):** [Transkrip Lengkap Workshop PKN Batch 1](/assets/dokumen/Transkrip_Lengkap_Manajemen_Implementasi_PKN_Batch_1.pdf)
 
 ---
 
@@ -80,6 +102,7 @@ Cegah penumpukan program kegiatan yang melelahkan guru dan santri tanpa dampak n
 * 🛠️ **How-To:** [[Toolkit KBM/Template RPP Karakter Nabawiyah 1 Lembar|Mengunduh dan Mengisi Templat RPP Karakter 1 Lembar]]
 * 💡 **Explanation:** [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/4 Kaidah Implementasi|Mengapa Sekolah Harus Menjadi Mitra, Bukan Pengganti Orang Tua]]
 * 📖 **Reference:** [[Paradigma - Implementasi PKN/Dokumen Pendidikan Karakter Nabawiyah/Paradigma & Implementasi/Implementasi/Kaidah & Elemen/8 Standar Implementasi PKN|Katalog Klausul 8 Standar Mutu Lembaga PKN]]
+* 🎯 **Case Study:** [[Kajian Video/Workshop Manajemen Implementasi PKN Lembaga Batch 1|Kajian Transkrip & Studi Kasus Workshop Batch 1]]
 
 ---
 

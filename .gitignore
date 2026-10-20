@@ -42,6 +42,7 @@ sources/
 *.docx
 *.doc
 *.pdf
+!content/assets/dokumen/*.pdf
 *.epub
 *.mobi
 data/*_extracted.json
@@ -56,6 +57,8 @@ panduan_implementasi*
 !.agents/skills/
 .agents/skills/*
 !.agents/skills/colleague-ustadz-pendamping-pkn/
+!.agents/skills/omp-persona-review/
+!.agents/skills/omp-design-orchestration/
 ORIGINAL_REQUEST.md
 
 # Ingestion logs and cache

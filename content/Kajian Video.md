@@ -24,9 +24,13 @@ Setiap video telah dilengkapi dengan pemutar video (*embed*), tabel topik per se
 - [[Ceramah Parenting (hBsvSggryo8)|Koneksi Sebelum Koreksi dalam Perspektif Nabawi - Ustadz Abdul Kholiq]]
 
 ### 2. Penanganan Kasus & Terapi Jiwa
+- [[Membayar Hutang Pengasuhan - Ustadz Abdul Kholiq]]
 - [[Ceramah Parenting (ME_KukaimyQ)|Mengobati Anak yang Terlanjur Terluka - Ustadz Abdul Kholiq]]
 - [[Ceramah Parenting (Rku-nwdyi4Y)|Membangun Tangki Cinta Anak yang Kosong - Ustadz Abdul Kholiq]]
 - [[Ceramah Parenting (axjZJGk_j54)|Seni Disiplin Tanpa Bentakan - Ustadz Abdul Kholiq]]
+
+### 3. Workshop & Pelatihan Manajemen Lembaga
+- [[Workshop Manajemen Implementasi PKN Lembaga Batch 1|Workshop Manajemen Implementasi PKN pada Lembaga (Batch 1 - SMK Mustaqbal Cikarang)]] — *Rekaman penuh 06:47:21, 11 sesi transkrip interaktif, dan e-book panduan implementasi.*
 
 ---
 

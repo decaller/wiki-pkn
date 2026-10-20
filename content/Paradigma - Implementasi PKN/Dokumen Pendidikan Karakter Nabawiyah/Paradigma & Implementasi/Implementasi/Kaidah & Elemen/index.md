@@ -131,6 +131,12 @@ Katalog komprehensif program kaderisasi, standarisasi lembaga, dan kegiatan resm
 ### ⚖️ 6. [[Prioritasi Program Lembaga Berbasis Maqashid Syariah]]
 Panduan manajemen strategis menyaring dan memprioritaskan program kerja sekolah/pesantren berbasis *Dharuriyyat*, *Hajiyyat*, dan *Tahsiniyyat* untuk membebaskan pendidik dari *institutional burnout* dan penyakit "banyak program minim jiwa".
 
+### 🤝 7. [[Kepemimpinan Lembaga Berbasis Kepercayaan (BRAVING)]]
+Kerangka kepemimpinan institusi pendidikan Islam berbasis 7 pilar kepercayaan (*Boundaries, Reliability, Accountability, Vault, Integrity, Non-judgment, Generosity*) untuk membangun tata kelola amanah, mencegah *burnout* guru, dan menyelaraskan visi yayasan.
+
+### 🌿 8. [[Metode Belajar Alamiah CPA dan Model Sandbox di Era AI]]
+Panduan pedagogi nabawiyah terapan yang memadukan urutan belajar *Concrete-Pictorial-Abstract* (CPA), model eksplorasi *Sandbox* yang berbatas aman, serta strategi memelihara adab nalar kritis santri di tengah gelombang disrupsi kecerdasan buatan (*Artificial Intelligence*).
+
 ---
 
 ## 3. Checklist Audit Implementasi untuk Lembaga & Keluarga
